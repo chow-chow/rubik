@@ -9,7 +9,7 @@ from collections import defaultdict
 from pathlib import Path
 from typing import Dict, List, Optional, Set, Tuple
 
-from parsers.utils import remove_academic_title
+from .parsers.utils import remove_academic_title
 
 logger = logging.getLogger(__name__)
 
