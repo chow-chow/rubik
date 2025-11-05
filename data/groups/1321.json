@@ -13,7 +13,7 @@
         "classroom": "J210"
       }
     ],
-    "professor_id": 71971
+    "professor_id": 50788
   },
   {
     "code": "1321",
@@ -200,7 +200,7 @@
   {
     "code": "1321",
     "group": "13",
-    "professor": "",
+    "professor": "Grupo cancelado, contactar a la División.",
     "schedules": [
       {
         "time": "11:00-13:00",
@@ -210,7 +210,8 @@
         ],
         "classroom": "EXTR"
       }
-    ]
+    ],
+    "professor_id": null
   },
   {
     "code": "1321",
@@ -295,7 +296,7 @@
   {
     "code": "1321",
     "group": "19",
-    "professor": "",
+    "professor": "Grupo cancelado, contactar a la División.",
     "schedules": [
       {
         "time": "13:00-15:00",
@@ -305,7 +306,8 @@
         ],
         "classroom": "I305"
       }
-    ]
+    ],
+    "professor_id": null
   },
   {
     "code": "1321",
@@ -358,7 +360,7 @@
   {
     "code": "1321",
     "group": "23",
-    "professor": "MARIA ANAYELI RAMIREZ RAMIREZ",
+    "professor": "FIS. MARIA ANAYELI RAMIREZ RAMIREZ",
     "schedules": [
       {
         "time": "15:00-17:00",
@@ -498,7 +500,7 @@
   {
     "code": "1321",
     "group": "31",
-    "professor": "",
+    "professor": "Grupo cancelado, contactar a la División.",
     "schedules": [
       {
         "time": "17:00-19:00",
@@ -508,7 +510,8 @@
         ],
         "classroom": "J201"
       }
-    ]
+    ],
+    "professor_id": null
   },
   {
     "code": "1321",
@@ -577,7 +580,7 @@
   {
     "code": "1321",
     "group": "36",
-    "professor": "PEDRO RAMIREZ MANNY",
+    "professor": "FIS. PEDRO RAMIREZ MANNY",
     "schedules": [
       {
         "time": "19:00-21:00",

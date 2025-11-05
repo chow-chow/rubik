@@ -97,7 +97,7 @@
   {
     "code": "1322",
     "group": "7",
-    "professor": "",
+    "professor": "Grupo cancelado, contactar a la División.",
     "schedules": [
       {
         "time": "11:00-13:00",
@@ -107,7 +107,8 @@
         ],
         "classroom": "J207"
       }
-    ]
+    ],
+    "professor_id": null
   },
   {
     "code": "1322",
@@ -134,7 +135,7 @@
   {
     "code": "1322",
     "group": "9",
-    "professor": "JUAN OCARIZ CASTELAZO",
+    "professor": "M.E.M. JUAN OCARIZ CASTELAZO",
     "schedules": [
       {
         "time": "11:00-13:00",
@@ -182,7 +183,7 @@
   {
     "code": "1322",
     "group": "12",
-    "professor": "RICARDO ARTURO PINZON AGUIRRE",
+    "professor": "MCIM. RICARDO ARTURO PINZON AGUIRRE",
     "schedules": [
       {
         "time": "15:00-17:00",
@@ -284,7 +285,7 @@
   {
     "code": "1322",
     "group": "18",
-    "professor": "RICARDO ARTURO PINZON AGUIRRE",
+    "professor": "MCIM. RICARDO ARTURO PINZON AGUIRRE",
     "schedules": [
       {
         "time": "19:00-21:00",

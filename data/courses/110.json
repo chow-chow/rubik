@@ -592,7 +592,7 @@
     "lab": {
       "code": "6866",
       "name": "LAB. ADMINISTRACION DE REDES",
-      "total_groups": 3
+      "total_groups": 0
     }
   },
   {
@@ -807,7 +807,7 @@
     "name": "BASES DE DATOS AVANZADAS",
     "credits": 8,
     "section": "elective",
-    "total_groups": 0,
+    "total_groups": 2,
     "has_lab": false,
     "lab": null
   },

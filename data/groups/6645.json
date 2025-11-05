@@ -47,7 +47,7 @@
   {
     "code": "6645",
     "group": "4",
-    "professor": "",
+    "professor": "Grupo cancelado, contactar a la División.",
     "schedules": [
       {
         "time": "15:00-17:00",
@@ -56,7 +56,8 @@
         ],
         "classroom": "T101"
       }
-    ]
+    ],
+    "professor_id": null
   },
   {
     "code": "6645",

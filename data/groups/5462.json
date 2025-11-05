@@ -392,7 +392,7 @@
   {
     "code": "5462",
     "group": "28",
-    "professor": "",
+    "professor": "Grupo cancelado, contactar a la División.",
     "schedules": [
       {
         "time": "17:00-19:00",
@@ -401,6 +401,7 @@
         ],
         "classroom": "N005"
       }
-    ]
+    ],
+    "professor_id": null
   }
 ]

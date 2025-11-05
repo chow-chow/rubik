@@ -64,7 +64,7 @@
   {
     "code": "1989",
     "group": "5",
-    "professor": "",
+    "professor": "Grupo cancelado, contactar a la División.",
     "schedules": [
       {
         "time": "18:00-20:00",
@@ -80,6 +80,7 @@
         ],
         "classroom": "A401"
       }
-    ]
+    ],
+    "professor_id": null
   }
 ]

@@ -2,7 +2,7 @@
   {
     "code": "1858",
     "group": "1",
-    "professor": "",
+    "professor": "Grupo cancelado, contactar a la División.",
     "schedules": [
       {
         "time": "07:00-08:30",
@@ -19,7 +19,8 @@
         ],
         "classroom": "T101"
       }
-    ]
+    ],
+    "professor_id": null
   },
   {
     "code": "1858",

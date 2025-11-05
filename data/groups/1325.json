@@ -40,7 +40,7 @@
   {
     "code": "1325",
     "group": "3",
-    "professor": "",
+    "professor": "Grupo cancelado, contactar a la División.",
     "schedules": [
       {
         "time": "07:00-09:00",
@@ -50,7 +50,8 @@
         ],
         "classroom": "EXTR"
       }
-    ]
+    ],
+    "professor_id": null
   },
   {
     "code": "1325",
@@ -242,7 +243,7 @@
   {
     "code": "1325",
     "group": "15",
-    "professor": "JUAN VELAZQUEZ TORRES",
+    "professor": "FIS. JUAN VELAZQUEZ TORRES",
     "schedules": [
       {
         "time": "11:00-13:00",
@@ -290,7 +291,7 @@
   {
     "code": "1325",
     "group": "18",
-    "professor": "",
+    "professor": "Grupo cancelado, contactar a la División.",
     "schedules": [
       {
         "time": "13:00-15:00",
@@ -300,7 +301,8 @@
         ],
         "classroom": "J201"
       }
-    ]
+    ],
+    "professor_id": null
   },
   {
     "code": "1325",
@@ -432,7 +434,7 @@
   {
     "code": "1325",
     "group": "27",
-    "professor": "",
+    "professor": "Grupo cancelado, contactar a la División.",
     "schedules": [
       {
         "time": "15:00-17:00",
@@ -442,7 +444,8 @@
         ],
         "classroom": "I306"
       }
-    ]
+    ],
+    "professor_id": null
   },
   {
     "code": "1325",

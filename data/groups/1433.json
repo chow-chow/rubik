@@ -334,7 +334,7 @@
   {
     "code": "1433",
     "group": "20",
-    "professor": "",
+    "professor": "Grupo cancelado, contactar a la División.",
     "schedules": [
       {
         "time": "19:00-21:00",
@@ -350,7 +350,8 @@
         ],
         "classroom": "J204"
       }
-    ]
+    ],
+    "professor_id": null
   },
   {
     "code": "1433",

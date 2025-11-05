@@ -17,7 +17,7 @@
   {
     "code": "6330",
     "group": "2",
-    "professor": "ING DIANA ZARAGOZA ZUÑIGA",
+    "professor": "DIANA ZARAGOZA ZUÑIGA",
     "schedules": [
       {
         "time": "11:00-13:00",
@@ -77,7 +77,7 @@
   {
     "code": "6330",
     "group": "6",
-    "professor": "",
+    "professor": "Grupo cancelado, contactar a la División.",
     "schedules": [
       {
         "time": "15:00-17:00",
@@ -86,12 +86,13 @@
         ],
         "classroom": "G002"
       }
-    ]
+    ],
+    "professor_id": null
   },
   {
     "code": "6330",
     "group": "7",
-    "professor": "ING DIANA ZARAGOZA ZUÑIGA",
+    "professor": "DIANA ZARAGOZA ZUÑIGA",
     "schedules": [
       {
         "time": "11:00-13:00",
@@ -136,7 +137,7 @@
   {
     "code": "6330",
     "group": "10",
-    "professor": "VIANEY FRANCO GARCIA",
+    "professor": "IQ. VIANEY FRANCO GARCIA",
     "schedules": [
       {
         "time": "15:00-17:00",

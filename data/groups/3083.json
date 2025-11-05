@@ -82,7 +82,7 @@
   {
     "code": "3083",
     "group": "6",
-    "professor": "",
+    "professor": "Grupo cancelado, contactar a la División.",
     "schedules": [
       {
         "time": "18:00-20:00",
@@ -92,6 +92,7 @@
         ],
         "classroom": "EXTR"
       }
-    ]
+    ],
+    "professor_id": null
   }
 ]

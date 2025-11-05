@@ -77,7 +77,7 @@
   {
     "code": "5422",
     "group": "8",
-    "professor": "",
+    "professor": "Grupo cancelado, contactar a la División.",
     "schedules": [
       {
         "time": "09:00-11:00",
@@ -86,7 +86,8 @@
         ],
         "classroom": "P001"
       }
-    ]
+    ],
+    "professor_id": null
   },
   {
     "code": "5422",
@@ -106,7 +107,7 @@
   {
     "code": "5422",
     "group": "10",
-    "professor": "",
+    "professor": "Grupo cancelado, contactar a la División.",
     "schedules": [
       {
         "time": "11:00-13:00",
@@ -115,7 +116,8 @@
         ],
         "classroom": "P001"
       }
-    ]
+    ],
+    "professor_id": null
   },
   {
     "code": "5422",

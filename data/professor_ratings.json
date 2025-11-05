@@ -729,7 +729,7 @@
   },
   {
     "id": 64069,
-    "full_name": "ARQ ARACELI LARRION GALLEGOS",
+    "full_name": "ARACELI LARRION GALLEGOS",
     "first_name": "Arq. Araceli",
     "last_name": "Larrión Gallegos",
     "num_ratings": 27,
@@ -929,7 +929,7 @@
   },
   {
     "id": 141880,
-    "full_name": "MC JAVIER URBIETA GOMEZ",
+    "full_name": "JAVIER URBIETA GOMEZ",
     "first_name": "M.C. Javier",
     "last_name": "Urbieta Gomez",
     "num_ratings": 3,
@@ -1225,7 +1225,7 @@
   },
   {
     "id": 172615,
-    "full_name": "MC JOSE CONCEPCION ROBERTO OLVERA LOPEZ",
+    "full_name": "JOSE CONCEPCION ROBERTO OLVERA LOPEZ",
     "first_name": "M.C. JOSE CONCEPCION ROBERTO",
     "last_name": "OLVERA LOPEZ",
     "num_ratings": 4,
@@ -3233,7 +3233,7 @@
   },
   {
     "id": 95169,
-    "full_name": "VERONICA GONZALEZ PACHECO",
+    "full_name": "VERONICA ING GONZALEZ PACHECO",
     "first_name": "VERONICA ING",
     "last_name": "GONZALEZ PACHECO",
     "num_ratings": 60,
@@ -3601,7 +3601,7 @@
   },
   {
     "id": 60337,
-    "full_name": "LIOUDMILA FOMINA",
+    "full_name": "LIOUDMILA DRA FOMINA",
     "first_name": "Lioudmila Dra.",
     "last_name": "Fomina",
     "num_ratings": 13,
@@ -4081,7 +4081,7 @@
   },
   {
     "id": 60330,
-    "full_name": "GARCIA DEL GALLEGO MARIANO",
+    "full_name": "GARCIA DEL GALLEGO MARIANO ING",
     "first_name": "GARCIA DEL GALLEGO",
     "last_name": "MARIANO ING.",
     "num_ratings": 5,
@@ -5081,7 +5081,7 @@
   },
   {
     "id": 90851,
-    "full_name": "OMAR DE JESUS PEREZ",
+    "full_name": "OMAR ING DE JESUS PEREZ",
     "first_name": "OMAR ING.",
     "last_name": "DE JESUS PEREZ",
     "num_ratings": 41,
@@ -5240,6 +5240,14 @@
     "rating": 8.0
   },
   {
+    "id": 83386,
+    "full_name": "JOSE ANTONIO DE JESUS ARREDONDO GARZA",
+    "first_name": "José Antonio de Jesus",
+    "last_name": "Arredondo Garza",
+    "num_ratings": 5,
+    "rating": 8.0
+  },
+  {
     "id": 95329,
     "full_name": "JUAN MANUEL BARBOSA CASTILLO",
     "first_name": "Juan Manuel",
@@ -5332,6 +5340,14 @@
     "full_name": "MARCO ANTONIO ARTEAGA PEREZ",
     "first_name": "Marco Antonio",
     "last_name": "Arteaga Pérez",
+    "num_ratings": 3,
+    "rating": 8.0
+  },
+  {
+    "id": 95140,
+    "full_name": "DIANA MARISELA CHAIRES FLORES",
+    "first_name": "ING. DIANA MARISELA",
+    "last_name": "CHAIRES FLORES",
     "num_ratings": 3,
     "rating": 8.0
   },
@@ -7033,7 +7049,7 @@
   },
   {
     "id": 79478,
-    "full_name": "IAN GUILLERMO MONSIVAIS MONTOLIU",
+    "full_name": "IAN GUILLERMO MI MONSIVAIS MONTOLIU",
     "first_name": "IAN GUILLERMO M.I.",
     "last_name": "MONSIVAIS MONTOLIU",
     "num_ratings": 24,
@@ -7288,6 +7304,14 @@
     "rating": 7.3
   },
   {
+    "id": 95428,
+    "full_name": "EPIFANIO VARGAS ALCARAZ",
+    "first_name": "Epifanio",
+    "last_name": "Vargas Alcaraz",
+    "num_ratings": 27,
+    "rating": 7.2963
+  },
+  {
     "id": 158601,
     "full_name": "JOSE LUIS LOPEZ AGUADO MONTES",
     "first_name": "José Luis",
@@ -7400,14 +7424,6 @@
     "rating": 7.2571
   },
   {
-    "id": 101573,
-    "full_name": "GERARDO TOVAR TAPIA",
-    "first_name": "Gerardo",
-    "last_name": "Tovar Tapia",
-    "num_ratings": 47,
-    "rating": 7.2553
-  },
-  {
     "id": 56349,
     "full_name": "HERIBERTO GARCIA LEDEZMA",
     "first_name": "Heriberto",
@@ -7470,6 +7486,14 @@
     "last_name": "Cruz Sanchez",
     "num_ratings": 13,
     "rating": 7.2308
+  },
+  {
+    "id": 101573,
+    "full_name": "GERARDO TOVAR TAPIA",
+    "first_name": "Gerardo",
+    "last_name": "Tovar Tapia",
+    "num_ratings": 48,
+    "rating": 7.2292
   },
   {
     "id": 134814,
@@ -7600,14 +7624,6 @@
     "rating": 7.2
   },
   {
-    "id": 95428,
-    "full_name": "EPIFANIO VARGAS ALCARAZ",
-    "first_name": "Epifanio",
-    "last_name": "Vargas Alcaraz",
-    "num_ratings": 26,
-    "rating": 7.1923
-  },
-  {
     "id": 38449,
     "full_name": "ANGEL AVILA MENDOZA",
     "first_name": "Angel",
@@ -7694,14 +7710,6 @@
     "last_name": "Vicente y Rodríguez",
     "num_ratings": 7,
     "rating": 7.1429
-  },
-  {
-    "id": 95139,
-    "full_name": "DIANA MARISELA CHAIRES FLORES",
-    "first_name": "DIANA MARISELA ING.",
-    "last_name": "CHAIRES FLORES",
-    "num_ratings": 14,
-    "rating": 7.14
   },
   {
     "id": 93473,
@@ -8376,6 +8384,14 @@
     "rating": 6.9091
   },
   {
+    "id": 95139,
+    "full_name": "DIANA MARISELA ING CHAIRES FLORES",
+    "first_name": "DIANA MARISELA ING.",
+    "last_name": "CHAIRES FLORES",
+    "num_ratings": 11,
+    "rating": 6.9091
+  },
+  {
     "id": 90743,
     "full_name": "ROBERTO DURAN HERNANDEZ",
     "first_name": "ROBERTO",
@@ -8465,7 +8481,7 @@
   },
   {
     "id": 99801,
-    "full_name": "ERIKA SUSANA MENDOZA URRUTIA",
+    "full_name": "ERIKA SUSANA ING MENDOZA URRUTIA",
     "first_name": "ERIKA SUSANA ING.",
     "last_name": "MENDOZA URRUTIA",
     "num_ratings": 31,
@@ -8566,14 +8582,6 @@
     "last_name": "Hernandez Quinto",
     "num_ratings": 5,
     "rating": 6.8
-  },
-  {
-    "id": 71331,
-    "full_name": "JOSE ANTONIO DE JESUS ARREDONDO GARZA",
-    "first_name": "JOSE ANTONIO DE JESUS M.I.",
-    "last_name": "ARREDONDO GARZA",
-    "num_ratings": 48,
-    "rating": 6.79
   },
   {
     "id": 84651,
@@ -8685,6 +8693,14 @@
     "first_name": "Miriam",
     "last_name": "Lemus",
     "num_ratings": 32,
+    "rating": 6.75
+  },
+  {
+    "id": 81499,
+    "full_name": "JUAN MANUEL GONZALES FERNANDEZ",
+    "first_name": "Juan Manuel",
+    "last_name": "Gonzales Fernández",
+    "num_ratings": 24,
     "rating": 6.75
   },
   {
@@ -8960,6 +8976,14 @@
     "rating": 6.6667
   },
   {
+    "id": 71331,
+    "full_name": "JOSE ANTONIO DE JESUS MI ARREDONDO GARZA",
+    "first_name": "JOSE ANTONIO DE JESUS M.I.",
+    "last_name": "ARREDONDO GARZA",
+    "num_ratings": 43,
+    "rating": 6.6512
+  },
+  {
     "id": 55874,
     "full_name": "LIZET DIAZ GARCIA",
     "first_name": "Lizet",
@@ -9038,14 +9062,6 @@
     "last_name": "Sánchez Huerta",
     "num_ratings": 18,
     "rating": 6.6111
-  },
-  {
-    "id": 81499,
-    "full_name": "JUAN MANUEL GONZALES FERNANDEZ",
-    "first_name": "Juan Manuel",
-    "last_name": "Gonzales Fernández",
-    "num_ratings": 23,
-    "rating": 6.6087
   },
   {
     "id": 84383,
@@ -9577,7 +9593,7 @@
   },
   {
     "id": 71971,
-    "full_name": "MARIO MORENO FLORES",
+    "full_name": "MARIO ING MORENO FLORES",
     "first_name": "MARIO ING.",
     "last_name": "MORENO FLORES",
     "num_ratings": 18,
@@ -9977,7 +9993,7 @@
   },
   {
     "id": 95283,
-    "full_name": "ALFONSO REYES QUEZADA",
+    "full_name": "ALFONSO MI REYES QUEZADA",
     "first_name": "ALFONSO M.I.",
     "last_name": "REYES QUEZADA",
     "num_ratings": 25,
@@ -10105,7 +10121,7 @@
   },
   {
     "id": 75569,
-    "full_name": "ALEJANDRO CUAUHTEMOC RAMIREZ REIVICH",
+    "full_name": "ALEJANDRO CUAUHTEMOC DR RAMIREZ REIVICH",
     "first_name": "Alejandro Cuauhtémoc Dr.",
     "last_name": "Ramírez Reivich",
     "num_ratings": 12,
@@ -10809,7 +10825,7 @@
   },
   {
     "id": 90648,
-    "full_name": "JORGE ANGEL HERNANDEZ LOPEZ",
+    "full_name": "JORGE ANGEL ING HERNANDEZ LOPEZ",
     "first_name": "JORGE ANGEL ING.",
     "last_name": "HERNANDEZ LOPEZ",
     "num_ratings": 13,
@@ -10849,7 +10865,7 @@
   },
   {
     "id": 124077,
-    "full_name": "MA GABRIELA NAYELI GAYTAN GONZALEZ",
+    "full_name": "GABRIELA NAYELI GAYTAN GONZALEZ",
     "first_name": "M.A. GABRIELA NAYELI",
     "last_name": "GAYTAN GONZÁLEZ",
     "num_ratings": 4,
@@ -11129,7 +11145,7 @@
   },
   {
     "id": 51610,
-    "full_name": "MARTIN REYES FARIAS",
+    "full_name": "MARTIN ING REYES FARIAS",
     "first_name": "Martin Ing.",
     "last_name": "Reyes Farias",
     "num_ratings": 34,
@@ -11609,7 +11625,7 @@
   },
   {
     "id": 75516,
-    "full_name": "ARTURO CERVANTES CABELLO",
+    "full_name": "ARTURO MI CERVANTES CABELLO",
     "first_name": "Arturo M.I.",
     "last_name": "Cervantes Cabello",
     "num_ratings": 3,
@@ -13233,7 +13249,7 @@
   },
   {
     "id": 107711,
-    "full_name": "ALFONSO QUEZADA",
+    "full_name": "ALFONSO MI QUEZADA",
     "first_name": "Alfonso MI",
     "last_name": "Quezada",
     "num_ratings": 3,

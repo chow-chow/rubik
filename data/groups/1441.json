@@ -50,7 +50,7 @@
   {
     "code": "1441",
     "group": "4",
-    "professor": "",
+    "professor": "Grupo cancelado, contactar a la División.",
     "schedules": [
       {
         "time": "07:00-09:00",
@@ -60,6 +60,7 @@
         ],
         "classroom": "D008"
       }
-    ]
+    ],
+    "professor_id": null
   }
 ]

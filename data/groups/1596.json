@@ -82,7 +82,7 @@
   {
     "code": "1596",
     "group": "6",
-    "professor": "",
+    "professor": "Grupo cancelado, contactar a la División.",
     "schedules": [
       {
         "time": "14:30-16:00",
@@ -92,7 +92,8 @@
         ],
         "classroom": "SIN"
       }
-    ]
+    ],
+    "professor_id": null
   },
   {
     "code": "1596",

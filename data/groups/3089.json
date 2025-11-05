@@ -194,7 +194,7 @@
   {
     "code": "3089",
     "group": "15",
-    "professor": "",
+    "professor": "Grupo cancelado, contactar a la División.",
     "schedules": [
       {
         "time": "11:00-13:00",
@@ -204,7 +204,8 @@
         ],
         "classroom": "O103"
       }
-    ]
+    ],
+    "professor_id": null
   },
   {
     "code": "3089",
@@ -241,7 +242,7 @@
   {
     "code": "3089",
     "group": "18",
-    "professor": "",
+    "professor": "Grupo cancelado, contactar a la División.",
     "schedules": [
       {
         "time": "09:00-11:00",
@@ -251,6 +252,7 @@
         ],
         "classroom": "EXTR"
       }
-    ]
+    ],
+    "professor_id": null
   }
 ]

@@ -117,7 +117,7 @@
   {
     "code": "1317",
     "group": "6",
-    "professor": "",
+    "professor": "Grupo cancelado, contactar a la División.",
     "schedules": [
       {
         "time": "11:00-13:00",
@@ -134,7 +134,8 @@
         ],
         "classroom": "P003"
       }
-    ]
+    ],
+    "professor_id": null
   },
   {
     "code": "1317",
@@ -254,7 +255,7 @@
   {
     "code": "1317",
     "group": "12",
-    "professor": "JOSE RODRIGO MORENO LOPEZ",
+    "professor": "FIS. JOSE RODRIGO MORENO LOPEZ",
     "schedules": [
       {
         "time": "17:00-19:00",

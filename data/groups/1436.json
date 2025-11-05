@@ -66,7 +66,7 @@
   {
     "code": "1436",
     "group": "5",
-    "professor": "NORA PATRICIA ROCHA MILLER",
+    "professor": "ACT. NORA PATRICIA ROCHA MILLER",
     "schedules": [
       {
         "time": "09:00-11:00",
@@ -98,7 +98,7 @@
   {
     "code": "1436",
     "group": "7",
-    "professor": "",
+    "professor": "Grupo cancelado, contactar a la División.",
     "schedules": [
       {
         "time": "09:00-11:00",
@@ -108,7 +108,8 @@
         ],
         "classroom": "J107"
       }
-    ]
+    ],
+    "professor_id": null
   },
   {
     "code": "1436",
@@ -166,7 +167,7 @@
   {
     "code": "1436",
     "group": "11",
-    "professor": "KENYA VERONICA ESPINOSA HURTADO",
+    "professor": "ACT. KENYA VERONICA ESPINOSA HURTADO",
     "schedules": [
       {
         "time": "11:00-13:00",
@@ -300,7 +301,7 @@
   {
     "code": "1436",
     "group": "19",
-    "professor": "",
+    "professor": "Grupo cancelado, contactar a la División.",
     "schedules": [
       {
         "time": "15:00-17:00",
@@ -310,7 +311,8 @@
         ],
         "classroom": "Y202"
       }
-    ]
+    ],
+    "professor_id": null
   },
   {
     "code": "1436",
