@@ -215,7 +215,7 @@
     "lab": {
       "code": "6453",
       "name": "LAB. SISTEMAS DIGITALES",
-      "total_groups": 0
+      "total_groups": 3
     }
   },
   {
@@ -303,7 +303,7 @@
     "lab": {
       "code": "5109",
       "name": "LAB. COMUNICACIONES DIGITALES",
-      "total_groups": 0
+      "total_groups": 1
     }
   },
   {
@@ -356,7 +356,7 @@
     "lab": {
       "code": "6682",
       "name": "LAB. MEDIOS DE TRANSMISION",
-      "total_groups": 0
+      "total_groups": 1
     }
   },
   {
@@ -414,7 +414,7 @@
     "section": "core",
     "total_groups": 1,
     "has_lab": false,
-    "lab: null
+    "lab": null
   },
   {
     "code": "2706",
@@ -761,4 +761,4 @@
     "has_lab": false,
     "lab": null
   }
-]]
+]
