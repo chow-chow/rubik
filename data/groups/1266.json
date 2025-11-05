@@ -1,0 +1,34 @@
+[
+  {
+    "code": "1266",
+    "group": "1",
+    "professor": "SAUL DE LA ROSA NIEVES",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "A303"
+      }
+    ],
+    "professor_id": 86735
+  },
+  {
+    "code": "1266",
+    "group": "2",
+    "professor": "DAVID PADILLA MEDINA",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A209"
+      }
+    ],
+    "professor_id": null
+  }
+]

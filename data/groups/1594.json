@@ -1,0 +1,66 @@
+[
+  {
+    "code": "1594",
+    "group": "1",
+    "professor": "FRANCISCO JAVIER MARTINEZ RODRIGUEZ",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "B204"
+      }
+    ],
+    "professor_id": 99064
+  },
+  {
+    "code": "1594",
+    "group": "2",
+    "professor": "FATIMA MOUMTADI",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "DS01"
+      }
+    ],
+    "professor_id": 60950
+  },
+  {
+    "code": "1594",
+    "group": "3",
+    "professor": "OSCAR JESUS RENDON GOMEZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "Y001"
+      }
+    ],
+    "professor_id": 114293
+  },
+  {
+    "code": "1594",
+    "group": "4",
+    "professor": "HERIBERTO DE JESUS AGUILAR JUAREZ",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "Y001"
+      }
+    ],
+    "professor_id": 78508
+  }
+]

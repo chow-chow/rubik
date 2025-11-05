@@ -1,0 +1,17 @@
+[
+  {
+    "code": "2092",
+    "group": "1",
+    "professor": "NOEL HERNANDEZ LALOTH",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "C105"
+      }
+    ]
+  }
+]

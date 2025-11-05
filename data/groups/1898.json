@@ -1,0 +1,34 @@
+[
+  {
+    "code": "1898",
+    "group": "1",
+    "professor": "LUIS ANTONIO AGUILAR PEREZ",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "X101"
+      }
+    ],
+    "professor_id": 114209
+  },
+  {
+    "code": "1898",
+    "group": "3",
+    "professor": "MIGUEL SERRANO REYES",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "EXTR"
+      }
+    ],
+    "professor_id": 98813
+  }
+]

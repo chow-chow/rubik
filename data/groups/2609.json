@@ -1,0 +1,37 @@
+[
+  {
+    "code": "2609",
+    "group": "1",
+    "professor": "MARIA JOSE SOLER PEREZ DE SALAZAR",
+    "schedules": [
+      {
+        "time": "10:00-13:00",
+        "days": [
+          5
+        ],
+        "classroom": "A404"
+      },
+      {
+        "time": "17:30-19:30",
+        "days": [
+          4
+        ],
+        "classroom": "EXTR"
+      }
+    ]
+  },
+  {
+    "code": "2609",
+    "group": "2",
+    "professor": "",
+    "schedules": [
+      {
+        "time": "10:00-13:00",
+        "days": [
+          5
+        ],
+        "classroom": "SIN"
+      }
+    ]
+  }
+]

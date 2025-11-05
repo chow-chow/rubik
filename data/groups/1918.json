@@ -1,0 +1,49 @@
+[
+  {
+    "code": "1918",
+    "group": "1",
+    "professor": "CLAUDIO MELENDEZ GONZALEZ",
+    "schedules": [
+      {
+        "time": "08:00-12:00",
+        "days": [
+          6
+        ],
+        "classroom": "D001"
+      }
+    ],
+    "professor_id": 161845
+  },
+  {
+    "code": "1918",
+    "group": "2",
+    "professor": "ADRIANA GAVIRA DURON",
+    "schedules": [
+      {
+        "time": "20:00-22:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "Y004"
+      }
+    ],
+    "professor_id": 161847
+  },
+  {
+    "code": "1918",
+    "group": "3",
+    "professor": "ARTURO GUERRERO BARRANCO",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "EXTR"
+      }
+    ],
+    "professor_id": null
+  }
+]

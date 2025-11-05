@@ -1,0 +1,358 @@
+[
+  {
+    "code": "1691",
+    "group": "2",
+    "professor": "JUAN CARLOS CONTRERAS LICONA",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "Y003"
+      },
+      {
+        "time": "17:00-19:00",
+        "days": [
+          5
+        ],
+        "classroom": "O007"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1691",
+    "group": "3",
+    "professor": "OMAR GARCIA GONZALEZ",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "Y003"
+      },
+      {
+        "time": "13:00-15:00",
+        "days": [
+          5
+        ],
+        "classroom": "O007"
+      }
+    ],
+    "professor_id": 74599
+  },
+  {
+    "code": "1691",
+    "group": "4",
+    "professor": "SERGIO HERNANDEZ SANCHEZ",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A310"
+      },
+      {
+        "time": "15:00-17:00",
+        "days": [
+          4
+        ],
+        "classroom": "O007"
+      }
+    ],
+    "professor_id": 167439
+  },
+  {
+    "code": "1691",
+    "group": "5",
+    "professor": "BILLY ARTURO FLORES MEDERO NAVARRO",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          5
+        ],
+        "classroom": "A109"
+      },
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1
+        ],
+        "classroom": "A311"
+      },
+      {
+        "time": "13:00-15:00",
+        "days": [
+          3
+        ],
+        "classroom": "O007"
+      }
+    ],
+    "professor_id": 104960
+  },
+  {
+    "code": "1691",
+    "group": "6",
+    "professor": "",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          1,
+          5
+        ],
+        "classroom": "DS11"
+      },
+      {
+        "time": "19:00-21:00",
+        "days": [
+          3
+        ],
+        "classroom": "O007"
+      }
+    ]
+  },
+  {
+    "code": "1691",
+    "group": "7",
+    "professor": "OMAR GARCIA GONZALEZ",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "Y004"
+      },
+      {
+        "time": "09:00-11:00",
+        "days": [
+          4
+        ],
+        "classroom": "Q108"
+      }
+    ],
+    "professor_id": 74599
+  },
+  {
+    "code": "1691",
+    "group": "8",
+    "professor": "OMAR GARCIA GONZALEZ",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1,
+          5
+        ],
+        "classroom": "Y003"
+      },
+      {
+        "time": "11:00-13:00",
+        "days": [
+          3
+        ],
+        "classroom": "X401"
+      }
+    ],
+    "professor_id": 74599
+  },
+  {
+    "code": "1691",
+    "group": "9",
+    "professor": "HANNA LESLYE GARCIA GUERRA",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "Y004"
+      },
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1
+        ],
+        "classroom": "X401"
+      }
+    ],
+    "professor_id": 59070
+  },
+  {
+    "code": "1691",
+    "group": "10",
+    "professor": "HANNA LESLYE GARCIA GUERRA",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A310"
+      },
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1
+        ],
+        "classroom": "X401"
+      }
+    ],
+    "professor_id": 59070
+  },
+  {
+    "code": "1691",
+    "group": "11",
+    "professor": "DIANA PAULA VAZQUEZ LEZAMA",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "B202"
+      },
+      {
+        "time": "13:00-15:00",
+        "days": [
+          5
+        ],
+        "classroom": "X401"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1691",
+    "group": "12",
+    "professor": "JUAN MANUEL GONZALEZ FERNANDEZ",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          3
+        ],
+        "classroom": "DS11"
+      },
+      {
+        "time": "19:00-21:00",
+        "days": [
+          5
+        ],
+        "classroom": "A310"
+      },
+      {
+        "time": "19:00-21:00",
+        "days": [
+          1
+        ],
+        "classroom": "O007"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1691",
+    "group": "13",
+    "professor": "ABEL VILLANUEVA PEÑA",
+    "schedules": [
+      {
+        "time": "14:00-16:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "B302"
+      },
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1
+        ],
+        "classroom": "Q108"
+      }
+    ],
+    "professor_id": 60921
+  },
+  {
+    "code": "1691",
+    "group": "14",
+    "professor": "BILLY ARTURO FLORES MEDERO NAVARRO",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1,
+          5
+        ],
+        "classroom": "A109"
+      },
+      {
+        "time": "11:00-13:00",
+        "days": [
+          3
+        ],
+        "classroom": "O007"
+      }
+    ],
+    "professor_id": 104960
+  },
+  {
+    "code": "1691",
+    "group": "15",
+    "professor": "LUIS DARIO REYES DELGADO",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1,
+          5
+        ],
+        "classroom": "D003"
+      },
+      {
+        "time": "17:00-19:00",
+        "days": [
+          3
+        ],
+        "classroom": "O007"
+      }
+    ],
+    "professor_id": 167704
+  },
+  {
+    "code": "1691",
+    "group": "16",
+    "professor": "ARTURO ZAPATA Y ROSALES",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "A303"
+      },
+      {
+        "time": "15:00-17:00",
+        "days": [
+          5
+        ],
+        "classroom": "X401"
+      }
+    ],
+    "professor_id": 85612
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "code": "5693",
+    "group": "1",
+    "professor": "MAIRA GLORIA PEREZ VIELMA",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1
+        ],
+        "classroom": "P217"
+      }
+    ]
+  },
+  {
+    "code": "5693",
+    "group": "2",
+    "professor": "EDUARDO HERNANDEZ ROMERO",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2
+        ],
+        "classroom": "P217"
+      }
+    ]
+  }
+]

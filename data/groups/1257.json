@@ -1,0 +1,17 @@
+[
+  {
+    "code": "1257",
+    "group": "1",
+    "professor": "GENARO CARREON CARRERA",
+    "schedules": [
+      {
+        "time": "10:00-11:30",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A209"
+      }
+    ]
+  }
+]

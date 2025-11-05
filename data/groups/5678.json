@@ -1,0 +1,17 @@
+[
+  {
+    "code": "5678",
+    "group": "4",
+    "professor": "ULISES ARTURO PEREZ VENTURA",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          4
+        ],
+        "classroom": "P113"
+      }
+    ],
+    "professor_id": 94779
+  }
+]

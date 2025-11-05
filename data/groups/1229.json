@@ -1,0 +1,231 @@
+[
+  {
+    "code": "1229",
+    "group": "1",
+    "professor": "CATALINA ORDOÑEZ RAMOS",
+    "schedules": [
+      {
+        "time": "07:00-08:30",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "A207"
+      },
+      {
+        "time": "07:00-10:00",
+        "days": [
+          2
+        ],
+        "classroom": "R029"
+      }
+    ],
+    "professor_id": 135632
+  },
+  {
+    "code": "1229",
+    "group": "2",
+    "professor": "ROBERTO ASCENCIO VILLAGOMEZ",
+    "schedules": [
+      {
+        "time": "11:30-13:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "A405"
+      },
+      {
+        "time": "14:30-17:30",
+        "days": [
+          1
+        ],
+        "classroom": "R029"
+      }
+    ],
+    "professor_id": 141820
+  },
+  {
+    "code": "1229",
+    "group": "3",
+    "professor": "IVONNE ALVARADO BEATRIZ",
+    "schedules": [
+      {
+        "time": "13:00-14:30",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "A308"
+      },
+      {
+        "time": "12:00-15:00",
+        "days": [
+          2
+        ],
+        "classroom": "R029"
+      }
+    ],
+    "professor_id": 84757
+  },
+  {
+    "code": "1229",
+    "group": "4",
+    "professor": "BENITO GOMEZ DAZA",
+    "schedules": [
+      {
+        "time": "13:00-14:30",
+        "days": [
+          1,
+          5
+        ],
+        "classroom": "R206"
+      },
+      {
+        "time": "13:00-16:00",
+        "days": [
+          3
+        ],
+        "classroom": "R029"
+      }
+    ],
+    "professor_id": 71265
+  },
+  {
+    "code": "1229",
+    "group": "5",
+    "professor": "ANGEL AVILA MENDOZA",
+    "schedules": [
+      {
+        "time": "16:00-17:30",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "A308"
+      },
+      {
+        "time": "16:00-19:00",
+        "days": [
+          2
+        ],
+        "classroom": "R029"
+      }
+    ],
+    "professor_id": 38449
+  },
+  {
+    "code": "1229",
+    "group": "6",
+    "professor": "ANGEL AVILA MENDOZA",
+    "schedules": [
+      {
+        "time": "17:30-19:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "A308"
+      },
+      {
+        "time": "16:00-19:00",
+        "days": [
+          4
+        ],
+        "classroom": "R029"
+      }
+    ],
+    "professor_id": 38449
+  },
+  {
+    "code": "1229",
+    "group": "7",
+    "professor": "BRENDA IVETH MORENO HURTADO",
+    "schedules": [
+      {
+        "time": "11:30-13:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A209"
+      },
+      {
+        "time": "10:00-13:00",
+        "days": [
+          5
+        ],
+        "classroom": "R029"
+      }
+    ],
+    "professor_id": 109874
+  },
+  {
+    "code": "1229",
+    "group": "8",
+    "professor": "BRENDA IVETH MORENO HURTADO",
+    "schedules": [
+      {
+        "time": "13:00-14:30",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A209"
+      },
+      {
+        "time": "13:00-16:00",
+        "days": [
+          5
+        ],
+        "classroom": "R029"
+      }
+    ],
+    "professor_id": 109874
+  },
+  {
+    "code": "1229",
+    "group": "9",
+    "professor": "ERIK MARQUEZ GARCIA",
+    "schedules": [
+      {
+        "time": "16:00-17:30",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "R206"
+      },
+      {
+        "time": "16:00-19:00",
+        "days": [
+          3
+        ],
+        "classroom": "R029"
+      }
+    ],
+    "professor_id": 142005
+  },
+  {
+    "code": "1229",
+    "group": "10",
+    "professor": "ERIK DE VALLE SALGADO",
+    "schedules": [
+      {
+        "time": "07:00-10:00",
+        "days": [
+          6
+        ],
+        "classroom": "A208"
+      },
+      {
+        "time": "10:00-13:00",
+        "days": [
+          6
+        ],
+        "classroom": "R029"
+      }
+    ],
+    "professor_id": 93218
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "code": "2705",
+    "group": "1",
+    "professor": "LUIS FRANCISCO GARCIA JIMENEZ",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "Q308"
+      }
+    ],
+    "professor_id": 84771
+  }
+]

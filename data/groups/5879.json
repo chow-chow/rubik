@@ -1,0 +1,362 @@
+[
+  {
+    "code": "5879",
+    "group": "1",
+    "professor": "MONICA LOPEZ COYOTE",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          1
+        ],
+        "classroom": "Q303"
+      }
+    ],
+    "professor_id": 82398
+  },
+  {
+    "code": "5879",
+    "group": "2",
+    "professor": "VALENTINA LUISA SOUZA RODRIGUEZ",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          1
+        ],
+        "classroom": "Q307"
+      }
+    ],
+    "professor_id": 134945
+  },
+  {
+    "code": "5879",
+    "group": "3",
+    "professor": "MONICA LOPEZ COYOTE",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1
+        ],
+        "classroom": "Q303"
+      }
+    ],
+    "professor_id": 82398
+  },
+  {
+    "code": "5879",
+    "group": "4",
+    "professor": "VALENTINA LUISA SOUZA RODRIGUEZ",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1
+        ],
+        "classroom": "Q307"
+      }
+    ],
+    "professor_id": 134945
+  },
+  {
+    "code": "5879",
+    "group": "5",
+    "professor": "JOSE LUIS VILLEDAS MORALES",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1
+        ],
+        "classroom": "Q303"
+      }
+    ],
+    "professor_id": 99092
+  },
+  {
+    "code": "5879",
+    "group": "6",
+    "professor": "JOSE LUIS VILLEDAS MORALES",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1
+        ],
+        "classroom": "Q303"
+      }
+    ],
+    "professor_id": 99092
+  },
+  {
+    "code": "5879",
+    "group": "7",
+    "professor": "JOSE LUIS VILLEDAS MORALES",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1
+        ],
+        "classroom": "Q303"
+      }
+    ],
+    "professor_id": 99092
+  },
+  {
+    "code": "5879",
+    "group": "8",
+    "professor": "CHRISTIAN HERNANDEZ SANTIAGO",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2
+        ],
+        "classroom": "Q303"
+      }
+    ],
+    "professor_id": 94393
+  },
+  {
+    "code": "5879",
+    "group": "9",
+    "professor": "ROGELIO TORRES CABRERA",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2
+        ],
+        "classroom": "Q303"
+      }
+    ],
+    "professor_id": 162569
+  },
+  {
+    "code": "5879",
+    "group": "10",
+    "professor": "JESUS CASTELAN MARTINEZ",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          2
+        ],
+        "classroom": "Q303"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "5879",
+    "group": "11",
+    "professor": "ROGELIO TORRES CABRERA",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          3
+        ],
+        "classroom": "Q303"
+      }
+    ],
+    "professor_id": 162569
+  },
+  {
+    "code": "5879",
+    "group": "12",
+    "professor": "JESUS CASTELAN MARTINEZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          3
+        ],
+        "classroom": "Q303"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "5879",
+    "group": "13",
+    "professor": "MONICA LOPEZ COYOTE",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          3
+        ],
+        "classroom": "Q307"
+      }
+    ],
+    "professor_id": 82398
+  },
+  {
+    "code": "5879",
+    "group": "14",
+    "professor": "CHRISTIAN HERNANDEZ SANTIAGO",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          3
+        ],
+        "classroom": "Q303"
+      }
+    ],
+    "professor_id": 94393
+  },
+  {
+    "code": "5879",
+    "group": "15",
+    "professor": "JOSE LUIS VILLEDAS MORALES",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          3
+        ],
+        "classroom": "Q303"
+      }
+    ],
+    "professor_id": 99092
+  },
+  {
+    "code": "5879",
+    "group": "16",
+    "professor": "LUIS RAUL FLORES CORONEL",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          4
+        ],
+        "classroom": "Q303"
+      }
+    ],
+    "professor_id": 23484
+  },
+  {
+    "code": "5879",
+    "group": "17",
+    "professor": "NORMA REYES CRUZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          4
+        ],
+        "classroom": "Q303"
+      }
+    ],
+    "professor_id": 141855
+  },
+  {
+    "code": "5879",
+    "group": "18",
+    "professor": "NORMA REYES CRUZ",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          4
+        ],
+        "classroom": "Q303"
+      }
+    ],
+    "professor_id": 141855
+  },
+  {
+    "code": "5879",
+    "group": "19",
+    "professor": "ADRIANA S LOPEZ GARCIA",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          4
+        ],
+        "classroom": "Q303"
+      }
+    ],
+    "professor_id": 105168
+  },
+  {
+    "code": "5879",
+    "group": "20",
+    "professor": "ADRIANA S LOPEZ GARCIA",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          4
+        ],
+        "classroom": "Q303"
+      }
+    ],
+    "professor_id": 105168
+  },
+  {
+    "code": "5879",
+    "group": "21",
+    "professor": "EDGAR SENOBIO MOZO RAMOS",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          4
+        ],
+        "classroom": "Q303"
+      }
+    ],
+    "professor_id": 149553
+  },
+  {
+    "code": "5879",
+    "group": "22",
+    "professor": "ROGELIO TORRES CABRERA",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          5
+        ],
+        "classroom": "Q303"
+      }
+    ],
+    "professor_id": 162569
+  },
+  {
+    "code": "5879",
+    "group": "23",
+    "professor": "ROGELIO TORRES CABRERA",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          5
+        ],
+        "classroom": "Q303"
+      }
+    ],
+    "professor_id": 162569
+  },
+  {
+    "code": "5879",
+    "group": "24",
+    "professor": "CHRISTIAN HERNANDEZ SANTIAGO",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          5
+        ],
+        "classroom": "Q303"
+      }
+    ],
+    "professor_id": 94393
+  }
+]

@@ -1,0 +1,285 @@
+[
+  {
+    "code": "1414",
+    "group": "1",
+    "professor": "SERGIO ROBERTO ARZAMENDI PEREZ",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "Y102"
+      }
+    ],
+    "professor_id": 46394
+  },
+  {
+    "code": "1414",
+    "group": "2",
+    "professor": "CARLOS ALBERTO PINEDA FIGUEROA",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "Y204"
+      }
+    ],
+    "professor_id": 51709
+  },
+  {
+    "code": "1414",
+    "group": "3",
+    "professor": "JUAN CARLOS CEDEÑO VAZQUEZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1,
+          5
+        ],
+        "classroom": "Y101"
+      }
+    ],
+    "professor_id": 113700
+  },
+  {
+    "code": "1414",
+    "group": "4",
+    "professor": "RIGEL GAMEZ LEAL",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "Y204"
+      }
+    ],
+    "professor_id": 31167
+  },
+  {
+    "code": "1414",
+    "group": "5",
+    "professor": "MAYVERENA JURADO PINEDA",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          3
+        ],
+        "classroom": "J208"
+      },
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1
+        ],
+        "classroom": "Y102"
+      }
+    ],
+    "professor_id": 20657
+  },
+  {
+    "code": "1414",
+    "group": "6",
+    "professor": "GABRIEL ALEJANDRO JARAMILLO MORALES",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "J108"
+      }
+    ],
+    "professor_id": 32242
+  },
+  {
+    "code": "1414",
+    "group": "7",
+    "professor": "MARTIN BARCENAS ESCOBAR",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "J209"
+      }
+    ],
+    "professor_id": 23476
+  },
+  {
+    "code": "1414",
+    "group": "8",
+    "professor": "GERMAN RAMON ARCONADA REY",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "J111"
+      }
+    ],
+    "professor_id": 104129
+  },
+  {
+    "code": "1414",
+    "group": "9",
+    "professor": "RAYMUNDO GAYTAN PEREZ",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "J209"
+      }
+    ],
+    "professor_id": 75145
+  },
+  {
+    "code": "1414",
+    "group": "10",
+    "professor": "ABRAHAM LAURENCIO MARTINEZ BAUTISTA",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "J106"
+      }
+    ],
+    "professor_id": 55067
+  },
+  {
+    "code": "1414",
+    "group": "11",
+    "professor": "MARIA OFELIA RODRIGUEZ DURAN",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          3
+        ],
+        "classroom": "J106"
+      },
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1
+        ],
+        "classroom": "J108"
+      }
+    ],
+    "professor_id": 74107
+  },
+  {
+    "code": "1414",
+    "group": "12",
+    "professor": "SALVADOR ENRIQUE VILLALOBOS PEREZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "J109"
+      }
+    ],
+    "professor_id": 156721
+  },
+  {
+    "code": "1414",
+    "group": "13",
+    "professor": "EDUARDO LOPEZ MOLINA",
+    "schedules": [
+      {
+        "time": "09:00-13:00",
+        "days": [
+          6
+        ],
+        "classroom": "EXTR"
+      }
+    ],
+    "professor_id": 78455
+  },
+  {
+    "code": "1414",
+    "group": "14",
+    "professor": "FERNANDO VEGA CALDERON",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "Y202"
+      }
+    ],
+    "professor_id": 87387
+  },
+  {
+    "code": "1414",
+    "group": "15",
+    "professor": "FERNANDO VEGA CALDERON",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "J206"
+      }
+    ],
+    "professor_id": 87387
+  },
+  {
+    "code": "1414",
+    "group": "16",
+    "professor": "MARIA DEL CARMEN MELO DIAZ",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "EXTR"
+      }
+    ],
+    "professor_id": 44254
+  },
+  {
+    "code": "1414",
+    "group": "17",
+    "professor": "SANTIAGO GONZALEZ LOPEZ",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "I201"
+      }
+    ],
+    "professor_id": 142029
+  }
+]

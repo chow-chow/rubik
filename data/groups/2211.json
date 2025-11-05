@@ -1,0 +1,267 @@
+[
+  {
+    "code": "2211",
+    "group": "1",
+    "professor": "ANTONIO GONZALEZ TREVIÑO",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "J102"
+      },
+      {
+        "time": "07:00-09:00",
+        "days": [
+          3
+        ],
+        "classroom": "H002"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "2211",
+    "group": "2",
+    "professor": "OMAR DE JESUS PEREZ",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          4
+        ],
+        "classroom": "I306"
+      },
+      {
+        "time": "07:00-09:00",
+        "days": [
+          3
+        ],
+        "classroom": "I304"
+      },
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2
+        ],
+        "classroom": "H001"
+      }
+    ],
+    "professor_id": 90851
+  },
+  {
+    "code": "2211",
+    "group": "3",
+    "professor": "MARIA OFELIA RODRIGUEZ DURAN",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "I205"
+      },
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1
+        ],
+        "classroom": "H002"
+      }
+    ],
+    "professor_id": 74107
+  },
+  {
+    "code": "2211",
+    "group": "4",
+    "professor": "OMAR DE JESUS PEREZ",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "I205"
+      },
+      {
+        "time": "11:00-13:00",
+        "days": [
+          3
+        ],
+        "classroom": "H002"
+      }
+    ],
+    "professor_id": 90851
+  },
+  {
+    "code": "2211",
+    "group": "5",
+    "professor": "EDUARDO LOPEZ MOLINA",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "I304"
+      },
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1
+        ],
+        "classroom": "H002"
+      }
+    ],
+    "professor_id": 78455
+  },
+  {
+    "code": "2211",
+    "group": "6",
+    "professor": "GABRIEL RAMOS ROMAN",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "I206"
+      },
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1
+        ],
+        "classroom": "H001"
+      }
+    ],
+    "professor_id": 115336
+  },
+  {
+    "code": "2211",
+    "group": "7",
+    "professor": "LUIS ANDRES SUAREZ HERNANDEZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "J103"
+      },
+      {
+        "time": "15:00-17:00",
+        "days": [
+          3
+        ],
+        "classroom": "H002"
+      }
+    ],
+    "professor_id": 68185
+  },
+  {
+    "code": "2211",
+    "group": "8",
+    "professor": "ELIZABETH AGUIRRE MALDONADO",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1,
+          5
+        ],
+        "classroom": "J210"
+      },
+      {
+        "time": "17:00-19:00",
+        "days": [
+          3
+        ],
+        "classroom": "H002"
+      }
+    ],
+    "professor_id": 60632
+  },
+  {
+    "code": "2211",
+    "group": "9",
+    "professor": "ALAIN MORALES MARTINEZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1
+        ],
+        "classroom": "I305"
+      },
+      {
+        "time": "09:00-11:00",
+        "days": [
+          5
+        ],
+        "classroom": "I306"
+      },
+      {
+        "time": "09:00-11:00",
+        "days": [
+          3
+        ],
+        "classroom": "H001"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "2211",
+    "group": "10",
+    "professor": "GABRIEL RAMOS ROMAN",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1,
+          5
+        ],
+        "classroom": "I103"
+      },
+      {
+        "time": "13:00-15:00",
+        "days": [
+          3
+        ],
+        "classroom": "H001"
+      }
+    ],
+    "professor_id": 115336
+  },
+  {
+    "code": "2211",
+    "group": "11",
+    "professor": "BEATRIZ EUGENIA HERNANDEZ RODRIGUEZ",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "I203"
+      },
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1
+        ],
+        "classroom": "H002"
+      }
+    ],
+    "professor_id": 105095
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "code": "1142",
+    "group": "1",
+    "professor": "JUAN CARLOS JIMENEZ VELAZQUEZ",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "C106"
+      }
+    ],
+    "professor_id": 31343
+  },
+  {
+    "code": "1142",
+    "group": "2",
+    "professor": "MANUEL ORTIZ OSIO",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "D007"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1142",
+    "group": "3",
+    "professor": "VICTOR ORLANDO MAGAÑA RUEDA",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "C404"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1142",
+    "group": "4",
+    "professor": "ERNESTO DOS SANTOS CAETANO NETO",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "C104"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1142",
+    "group": "5",
+    "professor": "DIEGO ARMANDO AGUILAR ANAYA",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "B406"
+      }
+    ],
+    "professor_id": null
+  }
+]

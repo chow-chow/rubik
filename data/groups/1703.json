@@ -1,0 +1,117 @@
+[
+  {
+    "code": "1703",
+    "group": "1",
+    "professor": "FIDEL MORA GONZALEZ",
+    "schedules": [
+      {
+        "time": "07:00-08:30",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "A209"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1703",
+    "group": "2",
+    "professor": "OCTAVIO GARCIA DOMINGUEZ",
+    "schedules": [
+      {
+        "time": "08:30-10:00",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "A204"
+      }
+    ],
+    "professor_id": 164908
+  },
+  {
+    "code": "1703",
+    "group": "3",
+    "professor": "ROBERTO STARK FELDMAN",
+    "schedules": [
+      {
+        "time": "08:30-10:00",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "A308"
+      }
+    ],
+    "professor_id": 112306
+  },
+  {
+    "code": "1703",
+    "group": "4",
+    "professor": "RAUL SANCHEZ GARCIA",
+    "schedules": [
+      {
+        "time": "17:30-19:00",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "A212"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1703",
+    "group": "5",
+    "professor": "CARLOS VILLASEÑOR MEJIA",
+    "schedules": [
+      {
+        "time": "09:15-11:30",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "D010"
+      }
+    ],
+    "professor_id": 68260
+  },
+  {
+    "code": "1703",
+    "group": "6",
+    "professor": "FERNANDO MONROY MIRANDA",
+    "schedules": [
+      {
+        "time": "11:30-13:45",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "DS02"
+      }
+    ],
+    "professor_id": 75135
+  },
+  {
+    "code": "1703",
+    "group": "7",
+    "professor": "MARCO ANTONIO ESCAMILLA GARCIA",
+    "schedules": [
+      {
+        "time": "10:00-14:30",
+        "days": [
+          6
+        ],
+        "classroom": "A307"
+      }
+    ],
+    "professor_id": 180847
+  }
+]

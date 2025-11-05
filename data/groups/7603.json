@@ -1,0 +1,152 @@
+[
+  {
+    "code": "7603",
+    "group": "1",
+    "professor": "ALAN MICHELL RAMIREZ PEÑA",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1
+        ],
+        "classroom": "O005"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "7603",
+    "group": "2",
+    "professor": "EDGAR ISAAC RAMIREZ DIAZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          3
+        ],
+        "classroom": "O005"
+      }
+    ],
+    "professor_id": 74730
+  },
+  {
+    "code": "7603",
+    "group": "3",
+    "professor": "EDGAR ISAAC RAMIREZ DIAZ",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          4
+        ],
+        "classroom": "O005"
+      }
+    ],
+    "professor_id": 74730
+  },
+  {
+    "code": "7603",
+    "group": "4",
+    "professor": "JORGE ALBERTO NAJERA CASTREJON",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          2
+        ],
+        "classroom": "O005"
+      }
+    ],
+    "professor_id": 112014
+  },
+  {
+    "code": "7603",
+    "group": "5",
+    "professor": "ALAN MICHELL RAMIREZ PEÑA",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          5
+        ],
+        "classroom": "O005"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "7603",
+    "group": "6",
+    "professor": "PABLO EDUARDO LIRA VELAZQUEZ",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          4
+        ],
+        "classroom": "O005"
+      }
+    ],
+    "professor_id": 188267
+  },
+  {
+    "code": "7603",
+    "group": "7",
+    "professor": "OSVALDO RUIZ CERVANTES",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2
+        ],
+        "classroom": "O005"
+      }
+    ],
+    "professor_id": 90646
+  },
+  {
+    "code": "7603",
+    "group": "9",
+    "professor": "ALAN MICHELL RAMIREZ PEÑA",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1
+        ],
+        "classroom": "O005"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "7603",
+    "group": "10",
+    "professor": "PABLO EDUARDO LIRA VELAZQUEZ",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1
+        ],
+        "classroom": "O009"
+      }
+    ],
+    "professor_id": 188267
+  },
+  {
+    "code": "7603",
+    "group": "11",
+    "professor": "PABLO EDUARDO LIRA VELAZQUEZ",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          3
+        ],
+        "classroom": "O009"
+      }
+    ],
+    "professor_id": 188267
+  }
+]

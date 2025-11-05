@@ -1,0 +1,17 @@
+[
+  {
+    "code": "2090",
+    "group": "1",
+    "professor": "FRANCISCO GARCIA SANCHEZ",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "C404"
+      }
+    ]
+  }
+]

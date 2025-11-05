@@ -1,0 +1,52 @@
+[
+  {
+    "code": "1577",
+    "group": "1",
+    "professor": "THALIA ALFONSINA REYES PIMENTEL",
+    "schedules": [
+      {
+        "time": "11:00-12:30",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "B403"
+      },
+      {
+        "time": "12:30-14:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "B403"
+      }
+    ],
+    "professor_id": 72080
+  },
+  {
+    "code": "1577",
+    "group": "2",
+    "professor": "XOCHITL FLORES SOTO",
+    "schedules": [
+      {
+        "time": "10:00-11:00",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "A402"
+      },
+      {
+        "time": "09:00-10:00",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "A402"
+      }
+    ],
+    "professor_id": 155633
+  }
+]

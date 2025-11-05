@@ -1,0 +1,34 @@
+[
+  {
+    "code": "3001",
+    "group": "1",
+    "professor": "LEONID FRIDMAN",
+    "schedules": [
+      {
+        "time": "13:00-14:30",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "DS01"
+      }
+    ],
+    "professor_id": 108660
+  },
+  {
+    "code": "3001",
+    "group": "3",
+    "professor": "ANTONIO SALVA CALLEJA",
+    "schedules": [
+      {
+        "time": "19:00-20:30",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "A301"
+      }
+    ],
+    "professor_id": 28948
+  }
+]

@@ -1,0 +1,91 @@
+[
+  {
+    "code": "1723",
+    "group": "1",
+    "professor": "JUAN CARLOS ROA BEIZA",
+    "schedules": [
+      {
+        "time": "07:00-08:20",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "B401"
+      }
+    ],
+    "professor_id": 21291
+  },
+  {
+    "code": "1723",
+    "group": "2",
+    "professor": "LAURO SANTIAGO CRUZ",
+    "schedules": [
+      {
+        "time": "09:00-10:20",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "B205"
+      }
+    ],
+    "professor_id": 104675
+  },
+  {
+    "code": "1723",
+    "group": "3",
+    "professor": "JUAN CARLOS ROA BEIZA",
+    "schedules": [
+      {
+        "time": "10:00-11:20",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "B401"
+      }
+    ],
+    "professor_id": 21291
+  },
+  {
+    "code": "1723",
+    "group": "4",
+    "professor": "JOSE MARIA GOMEZ PEREZ",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          3
+        ],
+        "classroom": "DS01"
+      },
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1
+        ],
+        "classroom": "Y001"
+      }
+    ],
+    "professor_id": 105097
+  },
+  {
+    "code": "1723",
+    "group": "5",
+    "professor": "JOSE ISMAEL MARTINEZ LOPEZ",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "B205"
+      }
+    ],
+    "professor_id": 148822
+  }
+]

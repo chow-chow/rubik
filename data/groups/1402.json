@@ -1,0 +1,136 @@
+[
+  {
+    "code": "1402",
+    "group": "1",
+    "professor": "AMALIA ADRIANA CAFAGGI FELIX",
+    "schedules": [
+      {
+        "time": "08:30-10:00",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "A307"
+      }
+    ],
+    "professor_id": 175830
+  },
+  {
+    "code": "1402",
+    "group": "2",
+    "professor": "JESUS GALLEGOS SILVA",
+    "schedules": [
+      {
+        "time": "10:00-11:30",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "A207"
+      }
+    ],
+    "professor_id": 135259
+  },
+  {
+    "code": "1402",
+    "group": "3",
+    "professor": "LUIS ARMANDO HERNANDEZ GONZALEZ",
+    "schedules": [
+      {
+        "time": "14:30-16:00",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "A212"
+      }
+    ],
+    "professor_id": 20638
+  },
+  {
+    "code": "1402",
+    "group": "4",
+    "professor": "JOSE LUIS SALINAS ESTEVEZ",
+    "schedules": [
+      {
+        "time": "14:30-16:00",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "A106"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1402",
+    "group": "5",
+    "professor": "LILIA REYES CHAVEZ",
+    "schedules": [
+      {
+        "time": "16:00-17:30",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "A204"
+      }
+    ],
+    "professor_id": 92973
+  },
+  {
+    "code": "1402",
+    "group": "6",
+    "professor": "MIGUEL ANGEL VICENTE LOPEZ",
+    "schedules": [
+      {
+        "time": "17:30-19:00",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "B402"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1402",
+    "group": "7",
+    "professor": "NIKTE NORMA OCAMPO GUERRERO",
+    "schedules": [
+      {
+        "time": "16:00-18:15",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A212"
+      }
+    ],
+    "professor_id": 95094
+  },
+  {
+    "code": "1402",
+    "group": "8",
+    "professor": "GERARDO RUIZ SOLORIO",
+    "schedules": [
+      {
+        "time": "18:15-20:30",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A209"
+      }
+    ],
+    "professor_id": null
+  }
+]

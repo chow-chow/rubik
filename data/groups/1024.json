@@ -1,0 +1,17 @@
+[
+  {
+    "code": "1024",
+    "group": "2",
+    "professor": "JORGE ALBERTO GUIZAR ALFARO",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "C202"
+      }
+    ]
+  }
+]

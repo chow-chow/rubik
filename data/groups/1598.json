@@ -1,0 +1,175 @@
+[
+  {
+    "code": "1598",
+    "group": "1",
+    "professor": "JAVIER FLORES PERALTA",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          1,
+          2,
+          5
+        ],
+        "classroom": "B407"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1598",
+    "group": "2",
+    "professor": "CINTIA QUEZADA REYES",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "A107"
+      }
+    ],
+    "professor_id": 75919
+  },
+  {
+    "code": "1598",
+    "group": "3",
+    "professor": "JOSE ANTONIO MACIAS GARCIA",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1,
+          2,
+          4
+        ],
+        "classroom": "Q208"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1598",
+    "group": "4",
+    "professor": "MARCO ANTONIO VIGUERAS VILLASEÑORVer Nota 1",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1,
+          2,
+          4
+        ],
+        "classroom": "A306"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1598",
+    "group": "5",
+    "professor": "MARIA JAQUELINA LOPEZ BARRIENTOS",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2,
+          3,
+          4
+        ],
+        "classroom": "DS10"
+      }
+    ],
+    "professor_id": 119470
+  },
+  {
+    "code": "1598",
+    "group": "6",
+    "professor": "EDGAR MARTINEZ MEZA",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2,
+          3,
+          4
+        ],
+        "classroom": "A201"
+      }
+    ],
+    "professor_id": 73106
+  },
+  {
+    "code": "1598",
+    "group": "7",
+    "professor": "JOSE ANTONIO MACIAS GARCIA",
+    "schedules": [
+      {
+        "time": "07:00-13:00",
+        "days": [
+          5
+        ],
+        "classroom": "Q208"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1598",
+    "group": "8",
+    "professor": "MARIA ALEJANDRA ZUÑIGA MEDEL",
+    "schedules": [
+      {
+        "time": "08:00-11:00",
+        "days": [
+          5,
+          6
+        ],
+        "classroom": "DS10"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1598",
+    "group": "9",
+    "professor": "MARIA EUGENIA BAUTISTA GONZALEZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1,
+          2,
+          5
+        ],
+        "classroom": "A302"
+      }
+    ],
+    "professor_id": 173568
+  },
+  {
+    "code": "1598",
+    "group": "10",
+    "professor": "ALEJANDRO VELAZQUEZ MENA",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2
+        ],
+        "classroom": "P003"
+      },
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1,
+          4
+        ],
+        "classroom": "Y002"
+      }
+    ],
+    "professor_id": 66382
+  }
+]

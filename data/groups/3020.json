@@ -1,0 +1,81 @@
+[
+  {
+    "code": "3020",
+    "group": "1",
+    "professor": "ESPERANZA RICALDE SARMINA",
+    "schedules": [
+      {
+        "time": "13:00-17:00",
+        "days": [
+          1
+        ],
+        "classroom": "D003"
+      }
+    ],
+    "professor_id": 105115
+  },
+  {
+    "code": "3020",
+    "group": "3",
+    "professor": "JAVIER NOE AVILA CEDILLO",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "XS01"
+      }
+    ],
+    "professor_id": 109142
+  },
+  {
+    "code": "3020",
+    "group": "5",
+    "professor": "ANDREA PAOLA DORADO DIAZ",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "XS01"
+      }
+    ],
+    "professor_id": 105123
+  },
+  {
+    "code": "3020",
+    "group": "6",
+    "professor": "JORGE CHAVEZ BRISEÑO",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "B301"
+      }
+    ],
+    "professor_id": 95794
+  },
+  {
+    "code": "3020",
+    "group": "7",
+    "professor": "ENRIQUE ISRAEL MARQUEZ ANGELES",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "D002"
+      }
+    ],
+    "professor_id": 181406
+  }
+]

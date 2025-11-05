@@ -1,0 +1,17 @@
+[
+  {
+    "code": "3084",
+    "group": "5",
+    "professor": "DAVID HORTON CAVAZOS",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "Y004"
+      }
+    ]
+  }
+]

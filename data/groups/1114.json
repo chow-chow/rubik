@@ -1,0 +1,82 @@
+[
+  {
+    "code": "1114",
+    "group": "1",
+    "professor": "JOSE MARIA BRISEÑO ALMARAZ",
+    "schedules": [
+      {
+        "time": "11:30-13:45",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "Y203"
+      }
+    ],
+    "professor_id": 153667
+  },
+  {
+    "code": "1114",
+    "group": "2",
+    "professor": "JOSE MARIA BRISEÑO ALMARAZ",
+    "schedules": [
+      {
+        "time": "11:30-13:45",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "Y203"
+      }
+    ],
+    "professor_id": 153667
+  },
+  {
+    "code": "1114",
+    "group": "3",
+    "professor": "SERGIO FEDERICO GAYTAN SANCHEZ",
+    "schedules": [
+      {
+        "time": "13:45-16:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "Y203"
+      }
+    ],
+    "professor_id": 102021
+  },
+  {
+    "code": "1114",
+    "group": "4",
+    "professor": "SERGIO FEDERICO GAYTAN SANCHEZ",
+    "schedules": [
+      {
+        "time": "13:45-16:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "Y203"
+      }
+    ],
+    "professor_id": 102021
+  },
+  {
+    "code": "1114",
+    "group": "5",
+    "professor": "MARIO GUEVARA SALAZAR",
+    "schedules": [
+      {
+        "time": "16:00-18:15",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "R004"
+      }
+    ],
+    "professor_id": 44322
+  }
+]

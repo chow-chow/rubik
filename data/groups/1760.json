@@ -1,0 +1,66 @@
+[
+  {
+    "code": "1760",
+    "group": "1",
+    "professor": "LAURA MINERVA ROLDAN MORALES",
+    "schedules": [
+      {
+        "time": "10:00-11:30",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "A210"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1760",
+    "group": "2",
+    "professor": "NORMA LEGORRETA LINARES",
+    "schedules": [
+      {
+        "time": "13:00-14:30",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "A304"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1760",
+    "group": "3",
+    "professor": "MARCO TULIO MENDOZA ROSAS",
+    "schedules": [
+      {
+        "time": "17:30-19:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A304"
+      }
+    ],
+    "professor_id": 135805
+  },
+  {
+    "code": "1760",
+    "group": "4",
+    "professor": "SERGIO MACUIL ROBLES",
+    "schedules": [
+      {
+        "time": "07:00-08:30",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "A106"
+      }
+    ],
+    "professor_id": null
+  }
+]

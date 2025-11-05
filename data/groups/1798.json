@@ -1,0 +1,32 @@
+[
+  {
+    "code": "1798",
+    "group": "1",
+    "professor": "BRAYAN HOMERO RAMIREZ CONTRERAS",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "EXTR"
+      }
+    ]
+  },
+  {
+    "code": "1798",
+    "group": "2",
+    "professor": "LUIS FERNANDO DONIS RABANALES",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "X101"
+      }
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "code": "1779",
+    "group": "1",
+    "professor": "MÉD ROCIO GARCIA DURAN",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "EXTR"
+      }
+    ]
+  },
+  {
+    "code": "1779",
+    "group": "2",
+    "professor": "JOSE BENJAMIN GUERRERO LOPEZ",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "X101"
+      }
+    ]
+  }
+]

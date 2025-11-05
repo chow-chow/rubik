@@ -1,0 +1,77 @@
+[
+  {
+    "code": "1110",
+    "group": "1",
+    "professor": "SERGIO FEDERICO GAYTAN SANCHEZ",
+    "schedules": [
+      {
+        "time": "12:00-17:00",
+        "days": [
+          3
+        ],
+        "classroom": "R029"
+      }
+    ],
+    "professor_id": 102021
+  },
+  {
+    "code": "1110",
+    "group": "2",
+    "professor": "MARIO FRANCISCO LEON OLGUIN",
+    "schedules": [
+      {
+        "time": "12:00-17:00",
+        "days": [
+          3
+        ],
+        "classroom": "R029"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1110",
+    "group": "3",
+    "professor": "JOSE MARIA BRISEÑO ALMARAZ",
+    "schedules": [
+      {
+        "time": "12:00-17:00",
+        "days": [
+          5
+        ],
+        "classroom": "R029"
+      }
+    ],
+    "professor_id": 153667
+  },
+  {
+    "code": "1110",
+    "group": "4",
+    "professor": "MARIO FRANCISCO LEON OLGUIN",
+    "schedules": [
+      {
+        "time": "12:00-17:00",
+        "days": [
+          5
+        ],
+        "classroom": "R029"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1110",
+    "group": "5",
+    "professor": "MARIO GUEVARA SALAZAR",
+    "schedules": [
+      {
+        "time": "12:00-17:00",
+        "days": [
+          3
+        ],
+        "classroom": "R029"
+      }
+    ],
+    "professor_id": 44322
+  }
+]

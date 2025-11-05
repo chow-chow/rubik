@@ -1,0 +1,122 @@
+[
+  {
+    "code": "6618",
+    "group": "1",
+    "professor": "DOMINGO TEODORO MENDOZA ROSALES",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1
+        ],
+        "classroom": "Q108"
+      }
+    ],
+    "professor_id": 71346
+  },
+  {
+    "code": "6618",
+    "group": "3",
+    "professor": "JAVIER LOPEZ VELAZQUEZ",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          2
+        ],
+        "classroom": "Q108"
+      }
+    ],
+    "professor_id": 94353
+  },
+  {
+    "code": "6618",
+    "group": "4",
+    "professor": "FRANCISCO JAVIER MARTINEZ RODRIGUEZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          3
+        ],
+        "classroom": "Q107"
+      }
+    ],
+    "professor_id": 99064
+  },
+  {
+    "code": "6618",
+    "group": "5",
+    "professor": "JAVIER LOPEZ VELAZQUEZ",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          3
+        ],
+        "classroom": "Q108"
+      }
+    ],
+    "professor_id": 94353
+  },
+  {
+    "code": "6618",
+    "group": "6",
+    "professor": "SALVADOR EMILIO SIERRA BENAVIDEZ",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2
+        ],
+        "classroom": "Q108"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "6618",
+    "group": "7",
+    "professor": "JOSE RODELMAR OCAMPO SANTILLAN",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          5
+        ],
+        "classroom": "Q108"
+      }
+    ],
+    "professor_id": 124065
+  },
+  {
+    "code": "6618",
+    "group": "8",
+    "professor": "JESUS MARIA FRANCISCO HERNANDEZ MORALES",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          5
+        ],
+        "classroom": "Q109"
+      }
+    ],
+    "professor_id": 80201
+  },
+  {
+    "code": "6618",
+    "group": "9",
+    "professor": "JUAN CARLOS ROA BEIZA",
+    "schedules": [
+      {
+        "time": "11:30-13:30",
+        "days": [
+          5
+        ],
+        "classroom": "Q107"
+      }
+    ],
+    "professor_id": 21291
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "code": "1337",
+    "group": "1",
+    "professor": "AMPARO BAÑUELOS DURAN",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "Y102"
+      }
+    ],
+    "professor_id": 84651
+  },
+  {
+    "code": "1337",
+    "group": "2",
+    "professor": "DIANA SORIANO FERNANDEZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "I104"
+      }
+    ],
+    "professor_id": 162444
+  },
+  {
+    "code": "1337",
+    "group": "3",
+    "professor": "DIANA SORIANO FERNANDEZ",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "J103"
+      }
+    ],
+    "professor_id": 162444
+  }
+]

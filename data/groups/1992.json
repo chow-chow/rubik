@@ -1,0 +1,62 @@
+[
+  {
+    "code": "1992",
+    "group": "1",
+    "professor": "NOE JESUS JUÁREZ DOMINGUEZ",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2
+        ],
+        "classroom": "B406"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1992",
+    "group": "2",
+    "professor": "RODULFO DE LA FUENTE PÉREZ",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          1
+        ],
+        "classroom": "C401"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1992",
+    "group": "3",
+    "professor": "EMILIO SAMPAYO TRUJILLO",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          4
+        ],
+        "classroom": "B406"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1992",
+    "group": "4",
+    "professor": "CARLOS AURELIO BERNAL ESPONDA",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          4
+        ],
+        "classroom": "A205"
+      }
+    ],
+    "professor_id": 68400
+  }
+]

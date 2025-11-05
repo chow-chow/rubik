@@ -1,0 +1,17 @@
+[
+  {
+    "code": "6765",
+    "group": "1",
+    "professor": "LUIS SERGIO DURAN ARENAS",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          4
+        ],
+        "classroom": "Q209"
+      }
+    ],
+    "professor_id": 124016
+  }
+]

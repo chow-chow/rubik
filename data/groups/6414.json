@@ -1,0 +1,436 @@
+[
+  {
+    "code": "6414",
+    "group": "1",
+    "professor": "ANTONIO PACHECO CONDE",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          1
+        ],
+        "classroom": "G005"
+      }
+    ],
+    "professor_id": 140613
+  },
+  {
+    "code": "6414",
+    "group": "2",
+    "professor": "ANTONIO PACHECO CONDE",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1
+        ],
+        "classroom": "G005"
+      }
+    ],
+    "professor_id": 140613
+  },
+  {
+    "code": "6414",
+    "group": "3",
+    "professor": "LUCIA YAZMIN JUAREZ DE LA MORA",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1
+        ],
+        "classroom": "G005"
+      }
+    ],
+    "professor_id": 82820
+  },
+  {
+    "code": "6414",
+    "group": "4",
+    "professor": "RAYMUNDO GAYTAN PEREZ",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1
+        ],
+        "classroom": "G005"
+      }
+    ],
+    "professor_id": 75145
+  },
+  {
+    "code": "6414",
+    "group": "5",
+    "professor": "MARIA DEL CARMEN MELO DIAZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1
+        ],
+        "classroom": "G005"
+      }
+    ],
+    "professor_id": 44254
+  },
+  {
+    "code": "6414",
+    "group": "6",
+    "professor": "MARIA OFELIA RODRIGUEZ DURAN",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1
+        ],
+        "classroom": "G005"
+      }
+    ],
+    "professor_id": 74107
+  },
+  {
+    "code": "6414",
+    "group": "7",
+    "professor": "JOSE CARLOS RODRIGUEZ TENORIO",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2
+        ],
+        "classroom": "G005"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "6414",
+    "group": "8",
+    "professor": "GERMAN RAMON ARCONADA REY",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2
+        ],
+        "classroom": "G005"
+      }
+    ],
+    "professor_id": 104129
+  },
+  {
+    "code": "6414",
+    "group": "9",
+    "professor": "FERNANDO VEGA CALDERON",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2
+        ],
+        "classroom": "G005"
+      }
+    ],
+    "professor_id": 87387
+  },
+  {
+    "code": "6414",
+    "group": "10",
+    "professor": "RIGOBERTO FLORES ZARATE",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          2
+        ],
+        "classroom": "G005"
+      }
+    ],
+    "professor_id": 122950
+  },
+  {
+    "code": "6414",
+    "group": "11",
+    "professor": "ROSALBA SOLIS SORIANO",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2
+        ],
+        "classroom": "G005"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "6414",
+    "group": "12",
+    "professor": "RAFAEL GUILLERMO SUAREZ NAJERA",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2
+        ],
+        "classroom": "G005"
+      }
+    ],
+    "professor_id": 70180
+  },
+  {
+    "code": "6414",
+    "group": "13",
+    "professor": "MAYVERENA JURADO PINEDA",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          3
+        ],
+        "classroom": "G005"
+      }
+    ],
+    "professor_id": 20657
+  },
+  {
+    "code": "6414",
+    "group": "14",
+    "professor": "LUCIA YAZMIN JUAREZ DE LA MORA",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          3
+        ],
+        "classroom": "G005"
+      }
+    ],
+    "professor_id": 82820
+  },
+  {
+    "code": "6414",
+    "group": "15",
+    "professor": "EDUARDO LOPEZ MOLINA",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          3
+        ],
+        "classroom": "G005"
+      }
+    ],
+    "professor_id": 78455
+  },
+  {
+    "code": "6414",
+    "group": "16",
+    "professor": "RIGOBERTO FLORES ZARATE",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          3
+        ],
+        "classroom": "G005"
+      }
+    ],
+    "professor_id": 122950
+  },
+  {
+    "code": "6414",
+    "group": "17",
+    "professor": "",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          3
+        ],
+        "classroom": "G005"
+      }
+    ]
+  },
+  {
+    "code": "6414",
+    "group": "18",
+    "professor": "MAURICIO ADOLFO SOLIS MALDONADO",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          3
+        ],
+        "classroom": "G005"
+      }
+    ],
+    "professor_id": 87094
+  },
+  {
+    "code": "6414",
+    "group": "19",
+    "professor": "JULIA VAZQUEZ FUENTES",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          4
+        ],
+        "classroom": "G005"
+      }
+    ],
+    "professor_id": 58672
+  },
+  {
+    "code": "6414",
+    "group": "20",
+    "professor": "JUAN CARLOS CEDEÑO VAZQUEZ",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          4
+        ],
+        "classroom": "G005"
+      }
+    ],
+    "professor_id": 113700
+  },
+  {
+    "code": "6414",
+    "group": "21",
+    "professor": "GABRIEL RAMOS ROMAN",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          4
+        ],
+        "classroom": "G005"
+      }
+    ],
+    "professor_id": 115336
+  },
+  {
+    "code": "6414",
+    "group": "22",
+    "professor": "OMAR DE JESUS PEREZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          4
+        ],
+        "classroom": "G005"
+      }
+    ],
+    "professor_id": 90851
+  },
+  {
+    "code": "6414",
+    "group": "23",
+    "professor": "SANTIAGO GONZALEZ LOPEZ",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          4
+        ],
+        "classroom": "G005"
+      }
+    ],
+    "professor_id": 142029
+  },
+  {
+    "code": "6414",
+    "group": "24",
+    "professor": "ADRIANA YOLOXOCHIL JIMENEZ RODRIGUEZ",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          5
+        ],
+        "classroom": "G005"
+      }
+    ],
+    "professor_id": 94468
+  },
+  {
+    "code": "6414",
+    "group": "25",
+    "professor": "MARIA DEL CARMEN MELO DIAZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          5
+        ],
+        "classroom": "G005"
+      }
+    ],
+    "professor_id": 44254
+  },
+  {
+    "code": "6414",
+    "group": "26",
+    "professor": "JULIA VAZQUEZ FUENTES",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          5
+        ],
+        "classroom": "G005"
+      }
+    ],
+    "professor_id": 58672
+  },
+  {
+    "code": "6414",
+    "group": "27",
+    "professor": "RAYMUNDO GAYTAN PEREZ",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          5
+        ],
+        "classroom": "G005"
+      }
+    ],
+    "professor_id": 75145
+  },
+  {
+    "code": "6414",
+    "group": "28",
+    "professor": "ALBERTO RAFAEL GONZALEZ GARCIA",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          5
+        ],
+        "classroom": "G005"
+      }
+    ],
+    "professor_id": 140477
+  },
+  {
+    "code": "6414",
+    "group": "29",
+    "professor": "ALBERTO RAFAEL GONZALEZ GARCIA",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          5
+        ],
+        "classroom": "G005"
+      }
+    ],
+    "professor_id": 140477
+  }
+]

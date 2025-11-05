@@ -1,0 +1,114 @@
+[
+  {
+    "code": "1333",
+    "group": "1",
+    "professor": "ALICIA MARIA ESPONDA CASCAJARES",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          1,
+          5
+        ],
+        "classroom": "J211"
+      }
+    ],
+    "professor_id": 30167
+  },
+  {
+    "code": "1333",
+    "group": "2",
+    "professor": "ALICIA MARIA ESPONDA CASCAJARES",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "J103"
+      }
+    ],
+    "professor_id": 30167
+  },
+  {
+    "code": "1333",
+    "group": "3",
+    "professor": "MARTIN BARCENAS ESCOBAR",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "I206"
+      }
+    ],
+    "professor_id": 23476
+  },
+  {
+    "code": "1333",
+    "group": "4",
+    "professor": "ABRAHAM LAURENCIO MARTINEZ BAUTISTA",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "J202"
+      }
+    ],
+    "professor_id": 55067
+  },
+  {
+    "code": "1333",
+    "group": "5",
+    "professor": "MARIA DEL CARMEN MELO DIAZ",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "J104"
+      }
+    ],
+    "professor_id": 44254
+  },
+  {
+    "code": "1333",
+    "group": "6",
+    "professor": "JORGE ISUNZA HERNANDEZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "Y101"
+      }
+    ],
+    "professor_id": 49393
+  },
+  {
+    "code": "1333",
+    "group": "7",
+    "professor": "AGUSTIN HERNANDEZ QUINTERO",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "Y202"
+      }
+    ],
+    "professor_id": 54985
+  }
+]

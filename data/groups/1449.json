@@ -1,0 +1,50 @@
+[
+  {
+    "code": "1449",
+    "group": "1",
+    "professor": "ROBERTO ASCENCIO VILLAGOMEZ",
+    "schedules": [
+      {
+        "time": "10:00-11:30",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "A405"
+      },
+      {
+        "time": "10:00-13:00",
+        "days": [
+          2
+        ],
+        "classroom": "R032"
+      }
+    ],
+    "professor_id": 141820
+  },
+  {
+    "code": "1449",
+    "group": "2",
+    "professor": "HANNIA ARACELI BALDERAS MONJARAZ",
+    "schedules": [
+      {
+        "time": "14:30-16:00",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "R005"
+      },
+      {
+        "time": "16:00-19:00",
+        "days": [
+          2
+        ],
+        "classroom": "R032"
+      }
+    ],
+    "professor_id": null
+  }
+]

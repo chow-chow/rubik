@@ -1,0 +1,92 @@
+[
+  {
+    "code": "1795",
+    "group": "1",
+    "professor": "GABRIELA CAMACHO VILLASEÑOR",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2
+        ],
+        "classroom": "A103"
+      }
+    ],
+    "professor_id": 95281
+  },
+  {
+    "code": "1795",
+    "group": "2",
+    "professor": "GABRIELA CAMACHO VILLASEÑOR",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          5
+        ],
+        "classroom": "A103"
+      }
+    ],
+    "professor_id": 95281
+  },
+  {
+    "code": "1795",
+    "group": "3",
+    "professor": "GENARO MUÑOZ HERNANDEZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          5
+        ],
+        "classroom": "A108"
+      }
+    ],
+    "professor_id": 51469
+  },
+  {
+    "code": "1795",
+    "group": "4",
+    "professor": "HUGO ULISES CRUZ",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1
+        ],
+        "classroom": "A202"
+      }
+    ],
+    "professor_id": 90265
+  },
+  {
+    "code": "1795",
+    "group": "5",
+    "professor": "MTRO OMAR ALEJANDRO LLANES BRICEÑOVer Nota 1",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          3
+        ],
+        "classroom": "A108"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1795",
+    "group": "6",
+    "professor": "NOE CRUZ MARIN",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          4
+        ],
+        "classroom": "A104"
+      }
+    ],
+    "professor_id": null
+  }
+]

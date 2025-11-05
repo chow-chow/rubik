@@ -1,0 +1,19 @@
+[
+  {
+    "code": "3030",
+    "group": "1",
+    "professor": "DANIEL DIAZ SALGADO",
+    "schedules": [
+      {
+        "time": "17:30-19:00",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "SIN"
+      }
+    ],
+    "professor_id": 108490
+  }
+]

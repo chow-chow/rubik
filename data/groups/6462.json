@@ -1,0 +1,32 @@
+[
+  {
+    "code": "6462",
+    "group": "1",
+    "professor": "ERNESTO RAMIREZ CRUZ",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          3
+        ],
+        "classroom": "Q316"
+      }
+    ],
+    "professor_id": 130840
+  },
+  {
+    "code": "6462",
+    "group": "2",
+    "professor": "MARGARITA BAUTISTA GONZALEZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2
+        ],
+        "classroom": "Q316"
+      }
+    ],
+    "professor_id": 79762
+  }
+]

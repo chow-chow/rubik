@@ -1,0 +1,18 @@
+[
+  {
+    "code": "3038",
+    "group": "1",
+    "professor": "CRISTIAN RUBEN MEDINA GUZMAN",
+    "schedules": [
+      {
+        "time": "19:00-20:30",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A211"
+      }
+    ],
+    "professor_id": 142053
+  }
+]

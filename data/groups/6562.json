@@ -1,0 +1,242 @@
+[
+  {
+    "code": "6562",
+    "group": "1",
+    "professor": "JULIA VAZQUEZ FUENTES",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1
+        ],
+        "classroom": "P215"
+      }
+    ],
+    "professor_id": 58672
+  },
+  {
+    "code": "6562",
+    "group": "2",
+    "professor": "JULIO SERRANO VILLEGAS",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1
+        ],
+        "classroom": "P215"
+      }
+    ],
+    "professor_id": 95374
+  },
+  {
+    "code": "6562",
+    "group": "3",
+    "professor": "JULIO SERRANO VILLEGAS",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          1
+        ],
+        "classroom": "P215"
+      }
+    ],
+    "professor_id": 95374
+  },
+  {
+    "code": "6562",
+    "group": "4",
+    "professor": "MARTHA ISELA TORRES HERNANDEZ",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2
+        ],
+        "classroom": "P215"
+      }
+    ],
+    "professor_id": 134274
+  },
+  {
+    "code": "6562",
+    "group": "5",
+    "professor": "MARTHA ISELA TORRES HERNANDEZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2
+        ],
+        "classroom": "P215"
+      }
+    ],
+    "professor_id": 134274
+  },
+  {
+    "code": "6562",
+    "group": "6",
+    "professor": "PATRICIA HONG CIRION",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          2
+        ],
+        "classroom": "P215"
+      }
+    ],
+    "professor_id": 83076
+  },
+  {
+    "code": "6562",
+    "group": "7",
+    "professor": "JULIA VAZQUEZ FUENTES",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          3
+        ],
+        "classroom": "P215"
+      }
+    ],
+    "professor_id": 58672
+  },
+  {
+    "code": "6562",
+    "group": "8",
+    "professor": "JUAN MANUEL VELASCO MIRANDA",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          3
+        ],
+        "classroom": "P215"
+      }
+    ],
+    "professor_id": 95190
+  },
+  {
+    "code": "6562",
+    "group": "9",
+    "professor": "JULIO SERRANO VILLEGAS",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          3
+        ],
+        "classroom": "P215"
+      }
+    ],
+    "professor_id": 95374
+  },
+  {
+    "code": "6562",
+    "group": "10",
+    "professor": "PATRICIA TRIGUEROS MEZA",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          4
+        ],
+        "classroom": "P215"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "6562",
+    "group": "11",
+    "professor": "JUAN MANUEL VELASCO MIRANDA",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          5
+        ],
+        "classroom": "P215"
+      }
+    ],
+    "professor_id": 95190
+  },
+  {
+    "code": "6562",
+    "group": "12",
+    "professor": "MAURICIO AYALA HERNANDEZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          5
+        ],
+        "classroom": "P215"
+      }
+    ],
+    "professor_id": 74386
+  },
+  {
+    "code": "6562",
+    "group": "13",
+    "professor": "FERNANDO RIVERA PEREZ",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          5
+        ],
+        "classroom": "P215"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "6562",
+    "group": "14",
+    "professor": "FERNANDO RIVERA PEREZ",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          5
+        ],
+        "classroom": "P215"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "6562",
+    "group": "15",
+    "professor": "EDGAR  BALDEMAR AGUADO CRUZ",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          2
+        ],
+        "classroom": "P215"
+      }
+    ],
+    "professor_id": 99901
+  },
+  {
+    "code": "6562",
+    "group": "16",
+    "professor": "EDGAR  BALDEMAR AGUADO CRUZ",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          5
+        ],
+        "classroom": "P215"
+      }
+    ],
+    "professor_id": 99901
+  }
+]

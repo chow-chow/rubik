@@ -1,0 +1,104 @@
+[
+  {
+    "code": "1409",
+    "group": "1",
+    "professor": "MAURICIO IVAN ESCALANTE CAMARGO",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "Y003"
+      }
+    ],
+    "professor_id": 79858
+  },
+  {
+    "code": "1409",
+    "group": "2",
+    "professor": "GUSTAVO BECERRA MUÑOZ",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A109"
+      }
+    ],
+    "professor_id": 74729
+  },
+  {
+    "code": "1409",
+    "group": "3",
+    "professor": "ARMANDO MALDONADO SUSANO",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "D001"
+      }
+    ],
+    "professor_id": 93881
+  },
+  {
+    "code": "1409",
+    "group": "4",
+    "professor": "JORGE LUIS NAUDE DE LA LLAVE",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "Y004"
+      }
+    ],
+    "professor_id": 79049
+  },
+  {
+    "code": "1409",
+    "group": "5",
+    "professor": "EDUARDO PEREZ GONZALEZ",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1,
+          5
+        ],
+        "classroom": "B303"
+      }
+    ],
+    "professor_id": 149862
+  },
+  {
+    "code": "1409",
+    "group": "6",
+    "professor": "ING OCTAVIO PASTOR REYES GARCIA",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          5
+        ],
+        "classroom": "B105"
+      },
+      {
+        "time": "07:00-09:00",
+        "days": [
+          3
+        ],
+        "classroom": "B201"
+      }
+    ],
+    "professor_id": 98730
+  }
+]

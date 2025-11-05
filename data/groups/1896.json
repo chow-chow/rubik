@@ -1,0 +1,30 @@
+[
+  {
+    "code": "1896",
+    "group": "1",
+    "professor": "ALFREDO FERRER PEREGRINA",
+    "schedules": [
+      {
+        "time": "11:00-15:00",
+        "days": [
+          3
+        ],
+        "classroom": "D002"
+      }
+    ]
+  },
+  {
+    "code": "1896",
+    "group": "2",
+    "professor": "ELIZABETH LAGUNA ROMERO",
+    "schedules": [
+      {
+        "time": "08:00-12:00",
+        "days": [
+          6
+        ],
+        "classroom": "O103"
+      }
+    ]
+  }
+]

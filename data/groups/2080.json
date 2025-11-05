@@ -1,0 +1,398 @@
+[
+  {
+    "code": "2080",
+    "group": "1",
+    "professor": "SALVADOR LANDEROS AYALA",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "A108"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "2080",
+    "group": "2",
+    "professor": "JAIME DE JESUS PAREDES CAMACHO",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A105"
+      }
+    ],
+    "professor_id": 107673
+  },
+  {
+    "code": "2080",
+    "group": "3",
+    "professor": "JOSE AUGUSTO RAMON GONZALEZ",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "B203"
+      }
+    ],
+    "professor_id": 123995
+  },
+  {
+    "code": "2080",
+    "group": "4",
+    "professor": "ALEJANDRA LIDIA MEDINA ARZATEVer Nota 1",
+    "schedules": [
+      {
+        "time": "07:00-11:00",
+        "days": [
+          5
+        ],
+        "classroom": "A104"
+      }
+    ],
+    "professor_id": 122291
+  },
+  {
+    "code": "2080",
+    "group": "5",
+    "professor": "EDUARDO ALEJANDRO HERNANDEZ GONZALEZ",
+    "schedules": [
+      {
+        "time": "08:00-12:00",
+        "days": [
+          6
+        ],
+        "classroom": "A105"
+      }
+    ],
+    "professor_id": 117562
+  },
+  {
+    "code": "2080",
+    "group": "6",
+    "professor": "JOSE FERNANDO GARCIA ROJAS MIRA",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "A105"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "2080",
+    "group": "7",
+    "professor": "JOSE AUGUSTO RAMON GONZALEZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "B203"
+      }
+    ],
+    "professor_id": 123995
+  },
+  {
+    "code": "2080",
+    "group": "8",
+    "professor": "JUAN MANUEL BUENO SORIA",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A101"
+      }
+    ],
+    "professor_id": 105044
+  },
+  {
+    "code": "2080",
+    "group": "9",
+    "professor": "GUILLERMO CARRION HERNANDEZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A104"
+      }
+    ],
+    "professor_id": 105042
+  },
+  {
+    "code": "2080",
+    "group": "10",
+    "professor": "JOSE RENE GOMEZ RODRIGUEZ",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "A105"
+      }
+    ],
+    "professor_id": 62567
+  },
+  {
+    "code": "2080",
+    "group": "11",
+    "professor": "SERGIO TIRADO LEDESMA",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A101"
+      }
+    ],
+    "professor_id": 55170
+  },
+  {
+    "code": "2080",
+    "group": "12",
+    "professor": "JOSE AUGUSTO RAMON GONZALEZ",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "B203"
+      }
+    ],
+    "professor_id": 123995
+  },
+  {
+    "code": "2080",
+    "group": "13",
+    "professor": "GUADALUPE DALIA GARCIA GALVEZ",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A102"
+      }
+    ],
+    "professor_id": 99083
+  },
+  {
+    "code": "2080",
+    "group": "14",
+    "professor": "LUIS ALBERTO SANTOYO CRUZ",
+    "schedules": [
+      {
+        "time": "11:00-15:00",
+        "days": [
+          5
+        ],
+        "classroom": "A104"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "2080",
+    "group": "15",
+    "professor": "EDUARDO CARRANZA TORRES",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "B203"
+      }
+    ],
+    "professor_id": 95202
+  },
+  {
+    "code": "2080",
+    "group": "16",
+    "professor": "MARIA FERNANDA CARRISOZA ZAMORA",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "A103"
+      }
+    ],
+    "professor_id": 141299
+  },
+  {
+    "code": "2080",
+    "group": "17",
+    "professor": "SERGIO TIRADO LEDESMA",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A101"
+      }
+    ],
+    "professor_id": 55170
+  },
+  {
+    "code": "2080",
+    "group": "18",
+    "professor": "SERGIO EDUARDO ZERECERO GALICIA",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "B203"
+      }
+    ],
+    "professor_id": 114257
+  },
+  {
+    "code": "2080",
+    "group": "19",
+    "professor": "SERGIO EDUARDO ZERECERO GALICIA",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "B203"
+      }
+    ],
+    "professor_id": 114257
+  },
+  {
+    "code": "2080",
+    "group": "20",
+    "professor": "HECTOR GERARDO GONZALEZ REZA",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "A101"
+      }
+    ],
+    "professor_id": 105047
+  },
+  {
+    "code": "2080",
+    "group": "21",
+    "professor": "JUAN MANUEL BUENO SORIA",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A103"
+      }
+    ],
+    "professor_id": 105044
+  },
+  {
+    "code": "2080",
+    "group": "22",
+    "professor": "JESÚS ULISES ACOSTA ROBLEDO",
+    "schedules": [
+      {
+        "time": "17:00-21:00",
+        "days": [
+          5
+        ],
+        "classroom": "A101"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "2080",
+    "group": "23",
+    "professor": "HECTOR GERARDO GONZALEZ REZA",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "A102"
+      }
+    ],
+    "professor_id": 105047
+  },
+  {
+    "code": "2080",
+    "group": "24",
+    "professor": "JUAN MANUEL BUENO SORIA",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A105"
+      }
+    ],
+    "professor_id": 105044
+  },
+  {
+    "code": "2080",
+    "group": "25",
+    "professor": "EDUARDO CARRANZA TORRES",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A202"
+      }
+    ],
+    "professor_id": 95202
+  }
+]

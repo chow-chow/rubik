@@ -1,0 +1,23 @@
+[
+  {
+    "code": "3075",
+    "group": "1",
+    "professor": "EMILIA ISABEL GARCIA MARTINEZ",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          3
+        ],
+        "classroom": "J206"
+      },
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1
+        ],
+        "classroom": "C104"
+      }
+    ]
+  }
+]

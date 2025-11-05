@@ -1,0 +1,66 @@
+[
+  {
+    "code": "3021",
+    "group": "1",
+    "professor": "JUAN MANUEL AVALOS OCHOA",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A311"
+      }
+    ],
+    "professor_id": 101229
+  },
+  {
+    "code": "3021",
+    "group": "2",
+    "professor": "VICTOR HUGO TORRES AGUILAR",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "EXTR"
+      }
+    ],
+    "professor_id": 141771
+  },
+  {
+    "code": "3021",
+    "group": "3",
+    "professor": "ELIZABETH MORENO MAVRIDIS",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "Y003"
+      }
+    ],
+    "professor_id": 78532
+  },
+  {
+    "code": "3021",
+    "group": "4",
+    "professor": "MIGUEL FIGUEROA BUSTOS",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A306"
+      }
+    ],
+    "professor_id": 49943
+  }
+]

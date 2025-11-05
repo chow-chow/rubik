@@ -1,0 +1,104 @@
+[
+  {
+    "code": "1935",
+    "group": "1",
+    "professor": "CARLOS MANUEL MENENDEZ MARTINEZ",
+    "schedules": [
+      {
+        "time": "07:00-08:30",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "A203"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1935",
+    "group": "2",
+    "professor": "CARLOS MANUEL MENENDEZ MARTINEZ",
+    "schedules": [
+      {
+        "time": "08:30-10:00",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "A203"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1935",
+    "group": "3",
+    "professor": "ENRIQUE CONTRERAS LIRA",
+    "schedules": [
+      {
+        "time": "10:00-11:30",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "Y205"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1935",
+    "group": "4",
+    "professor": "DULCE MARIA CISNEROS PERALTA",
+    "schedules": [
+      {
+        "time": "11:30-13:00",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "A211"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1935",
+    "group": "5",
+    "professor": "LUIS ANTONIO GARCIA VILLANUEVA",
+    "schedules": [
+      {
+        "time": "16:00-17:30",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "A203"
+      }
+    ],
+    "professor_id": 79610
+  },
+  {
+    "code": "1935",
+    "group": "6",
+    "professor": "VICENTE QUEZADA BELTRAN",
+    "schedules": [
+      {
+        "time": "19:00-20:30",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "S005"
+      }
+    ],
+    "professor_id": 146710
+  }
+]

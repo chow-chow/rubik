@@ -1,0 +1,290 @@
+[
+  {
+    "code": "6225",
+    "group": "1",
+    "professor": "JAVIER ISAAC HERNANDEZ PRADO",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "O009"
+      }
+    ],
+    "professor_id": 107488
+  },
+  {
+    "code": "6225",
+    "group": "2",
+    "professor": "RAUL GILBERTO VALDEZ NAVARRO",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "O009"
+      }
+    ],
+    "professor_id": 66401
+  },
+  {
+    "code": "6225",
+    "group": "3",
+    "professor": "CAROLINA CITLALLI MEDINA ALVAREZ",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "O009"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "6225",
+    "group": "4",
+    "professor": "OSVALDO RUIZ CERVANTES",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "O009"
+      }
+    ],
+    "professor_id": 90646
+  },
+  {
+    "code": "6225",
+    "group": "5",
+    "professor": "ERIC ADRIAN TEJADA MALPICA",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "O009"
+      }
+    ],
+    "professor_id": 113002
+  },
+  {
+    "code": "6225",
+    "group": "6",
+    "professor": "JOSE LUIS ESPINOZA RAMIREZ",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "O009"
+      }
+    ],
+    "professor_id": 75503
+  },
+  {
+    "code": "6225",
+    "group": "7",
+    "professor": "JOSE LUIS ESPINOZA RAMIREZ",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1,
+          5
+        ],
+        "classroom": "O009"
+      }
+    ],
+    "professor_id": 75503
+  },
+  {
+    "code": "6225",
+    "group": "8",
+    "professor": "MARICARMEN GUILLEN MANDUJANO",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "O009"
+      }
+    ],
+    "professor_id": 142033
+  },
+  {
+    "code": "6225",
+    "group": "9",
+    "professor": "JORGE ALBERTO NAJERA CASTREJON",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "O009"
+      }
+    ],
+    "professor_id": 112014
+  },
+  {
+    "code": "6225",
+    "group": "10",
+    "professor": "ESTEFANIA ABARCA RODRIGUEZ",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "O009"
+      }
+    ],
+    "professor_id": 183563
+  },
+  {
+    "code": "6225",
+    "group": "11",
+    "professor": "RAUL GILBERTO VALDEZ NAVARRO",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "O009"
+      }
+    ],
+    "professor_id": 66401
+  },
+  {
+    "code": "6225",
+    "group": "12",
+    "professor": "JOSE LUIS ESPINOZA RAMIREZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "O009"
+      }
+    ],
+    "professor_id": 75503
+  },
+  {
+    "code": "6225",
+    "group": "13",
+    "professor": "JORGE ALBERTO NAJERA CASTREJON",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "O009"
+      }
+    ],
+    "professor_id": 112014
+  },
+  {
+    "code": "6225",
+    "group": "14",
+    "professor": "MARICARMEN GUILLEN MANDUJANO",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "O009"
+      }
+    ],
+    "professor_id": 142033
+  },
+  {
+    "code": "6225",
+    "group": "15",
+    "professor": "RAUL GILBERTO VALDEZ NAVARRO",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "O009"
+      }
+    ],
+    "professor_id": 66401
+  },
+  {
+    "code": "6225",
+    "group": "16",
+    "professor": "JOSE LUIS ESPINOZA RAMIREZ",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "O009"
+      }
+    ],
+    "professor_id": 75503
+  },
+  {
+    "code": "6225",
+    "group": "17",
+    "professor": "DAVID MARTINEZ HERNANDEZ",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "O009"
+      }
+    ],
+    "professor_id": 101528
+  },
+  {
+    "code": "6225",
+    "group": "20",
+    "professor": "ISRAEL GARDUÑO GARCIA",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "O009"
+      }
+    ],
+    "professor_id": 102330
+  }
+]

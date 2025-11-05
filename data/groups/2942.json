@@ -1,0 +1,17 @@
+[
+  {
+    "code": "2942",
+    "group": "1",
+    "professor": "SERGIO FEDERICO GAYTAN SANCHEZ",
+    "schedules": [
+      {
+        "time": "08:00-12:30",
+        "days": [
+          6
+        ],
+        "classroom": "A211"
+      }
+    ],
+    "professor_id": 102021
+  }
+]

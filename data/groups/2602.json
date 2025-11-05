@@ -1,0 +1,66 @@
+[
+  {
+    "code": "2602",
+    "group": "1",
+    "professor": "JOSE GONZALO GUERRERO ZEPEDA",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "D001"
+      }
+    ],
+    "professor_id": 124464
+  },
+  {
+    "code": "2602",
+    "group": "2",
+    "professor": "DIANA ESTRADA ESTEVEZ",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "Y003"
+      }
+    ],
+    "professor_id": 176146
+  },
+  {
+    "code": "2602",
+    "group": "3",
+    "professor": "FERNANDO LOPEZ ROMERO",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "B104"
+      }
+    ],
+    "professor_id": 142131
+  },
+  {
+    "code": "2602",
+    "group": "4",
+    "professor": "FELIPE ROSALES MENDEZ",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "O101"
+      }
+    ],
+    "professor_id": 77070
+  }
+]

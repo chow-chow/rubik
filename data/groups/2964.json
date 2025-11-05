@@ -1,0 +1,32 @@
+[
+  {
+    "code": "2964",
+    "group": "1",
+    "professor": "KAREN STEPHANY NAVA PINZON",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "C104"
+      }
+    ]
+  },
+  {
+    "code": "2964",
+    "group": "2",
+    "professor": "JORGE PERALTA ENRIQUEZ",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "C105"
+      }
+    ]
+  }
+]

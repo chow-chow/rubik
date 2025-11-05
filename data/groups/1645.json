@@ -1,0 +1,144 @@
+[
+  {
+    "code": "1645",
+    "group": "1",
+    "professor": "NORMA ELVA CHAVEZ RODRIGUEZ",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "A306"
+      }
+    ],
+    "professor_id": 142387
+  },
+  {
+    "code": "1645",
+    "group": "2",
+    "professor": "JORGE ALBERTO UC MARTIN",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "A302"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1645",
+    "group": "3",
+    "professor": "",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "A302"
+      }
+    ]
+  },
+  {
+    "code": "1645",
+    "group": "4",
+    "professor": "FERNANDA RAMOS GARCIA",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "B304"
+      }
+    ],
+    "professor_id": 159593
+  },
+  {
+    "code": "1645",
+    "group": "5",
+    "professor": "OSCAR FRANCISCO FUENTES CASARRUBIAS",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "B206"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1645",
+    "group": "6",
+    "professor": "DANIEL ALBERTO ARCOS SANTIAGO",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "B306"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1645",
+    "group": "7",
+    "professor": "FERNANDA RAMOS GARCIA",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "B306"
+      }
+    ],
+    "professor_id": 159593
+  },
+  {
+    "code": "1645",
+    "group": "8",
+    "professor": "ABAN ALONSO MORENO AGUILAR",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "A206"
+      }
+    ],
+    "professor_id": 95313
+  },
+  {
+    "code": "1645",
+    "group": "9",
+    "professor": "MANDUJANO WILD",
+    "schedules": [
+      {
+        "time": "07:00-11:00",
+        "days": [
+          5
+        ],
+        "classroom": "B103"
+      }
+    ],
+    "professor_id": 85850
+  }
+]

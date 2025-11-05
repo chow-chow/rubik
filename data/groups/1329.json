@@ -1,0 +1,18 @@
+[
+  {
+    "code": "1329",
+    "group": "1",
+    "professor": "IVAN MANUEL CUADROS MENDOZA",
+    "schedules": [
+      {
+        "time": "08:00-10:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "C304"
+      }
+    ],
+    "professor_id": 135652
+  }
+]

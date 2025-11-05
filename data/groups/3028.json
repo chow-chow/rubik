@@ -1,0 +1,17 @@
+[
+  {
+    "code": "3028",
+    "group": "1",
+    "professor": "TOMAS GARCIA GARCIA",
+    "schedules": [
+      {
+        "time": "19:00-20:30",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A207"
+      }
+    ]
+  }
+]

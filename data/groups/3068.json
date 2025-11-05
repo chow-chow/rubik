@@ -1,0 +1,33 @@
+[
+  {
+    "code": "3068",
+    "group": "1",
+    "professor": "JAIME DE JESUS PAREDES CAMACHO",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "DS11"
+      }
+    ],
+    "professor_id": 107673
+  },
+  {
+    "code": "3068",
+    "group": "2",
+    "professor": "RAFAEL BERNARDO CARMONA BENITEZ",
+    "schedules": [
+      {
+        "time": "07:00-11:00",
+        "days": [
+          6
+        ],
+        "classroom": "EXTR"
+      }
+    ],
+    "professor_id": null
+  }
+]

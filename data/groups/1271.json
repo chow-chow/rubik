@@ -1,0 +1,17 @@
+[
+  {
+    "code": "1271",
+    "group": "1",
+    "professor": "BRANDON ELIUT ROSALES CISNEROS",
+    "schedules": [
+      {
+        "time": "19:00-20:30",
+        "days": [
+          1,
+          5
+        ],
+        "classroom": "B409"
+      }
+    ]
+  }
+]

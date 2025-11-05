@@ -1,0 +1,40 @@
+[
+  {
+    "code": "2074",
+    "group": "1",
+    "professor": "LEONARDO FLORES SAUCEDA",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "EXTR"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "2074",
+    "group": "2",
+    "professor": "OSCAR GARCIA ARANDA",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          3
+        ],
+        "classroom": "N005"
+      },
+      {
+        "time": "07:00-09:00",
+        "days": [
+          1
+        ],
+        "classroom": "O101"
+      }
+    ],
+    "professor_id": 159597
+  }
+]

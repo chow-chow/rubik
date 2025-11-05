@@ -1,0 +1,102 @@
+[
+  {
+    "code": "1601",
+    "group": "1",
+    "professor": "CESAR VAZQUEZ LORENZANA",
+    "schedules": [
+      {
+        "time": "11:30-13:00",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "A106"
+      }
+    ],
+    "professor_id": 66566
+  },
+  {
+    "code": "1601",
+    "group": "2",
+    "professor": "CARMELINO ZEA CONSTANTINO",
+    "schedules": [
+      {
+        "time": "11:30-13:00",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "A208"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1601",
+    "group": "3",
+    "professor": "HECTOR ALFREDO LEGORRETA CUEVAS",
+    "schedules": [
+      {
+        "time": "16:00-17:30",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "A208"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1601",
+    "group": "4",
+    "professor": "JOSE MANUEL PIEDRAS SALGADO",
+    "schedules": [
+      {
+        "time": "19:00-20:30",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "A208"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1601",
+    "group": "5",
+    "professor": "MIGUEL GALLARDO CONTRERAS",
+    "schedules": [
+      {
+        "time": "07:00-09:15",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "DS02"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1601",
+    "group": "6",
+    "professor": "DANIEL MEJIA LOERA",
+    "schedules": [
+      {
+        "time": "13:45-16:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A203"
+      }
+    ],
+    "professor_id": 181437
+  }
+]

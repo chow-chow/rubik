@@ -1,0 +1,44 @@
+[
+  {
+    "code": "1245",
+    "group": "1",
+    "professor": "BARBARA BERMUDEZ REYES",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          3
+        ],
+        "classroom": "EXTR"
+      }
+    ]
+  },
+  {
+    "code": "1245",
+    "group": "2",
+    "professor": "",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          5
+        ],
+        "classroom": "A210"
+      }
+    ]
+  },
+  {
+    "code": "1245",
+    "group": "3",
+    "professor": "CESAR ABRAHAM LUNA ESTRADAVer Nota 2",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          5
+        ],
+        "classroom": "A401"
+      }
+    ]
+  }
+]

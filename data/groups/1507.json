@@ -1,0 +1,119 @@
+[
+  {
+    "code": "1507",
+    "group": "1",
+    "professor": "VICTOR MANUEL PALMA VALDERRAMA",
+    "schedules": [
+      {
+        "time": "07:00-08:30",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "A308"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1507",
+    "group": "2",
+    "professor": "AMADO ABEL JIMENEZ CASTAÑEDA",
+    "schedules": [
+      {
+        "time": "08:30-10:00",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "A211"
+      }
+    ],
+    "professor_id": 176427
+  },
+  {
+    "code": "1507",
+    "group": "3",
+    "professor": "SEBASTIÁN HERNÁNDEZ CAIRE",
+    "schedules": [
+      {
+        "time": "10:00-11:30",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "A203"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1507",
+    "group": "4",
+    "professor": "JESUS GALLEGOS SILVA",
+    "schedules": [
+      {
+        "time": "11:30-13:00",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "A307"
+      }
+    ],
+    "professor_id": 135259
+  },
+  {
+    "code": "1507",
+    "group": "5",
+    "professor": "JOSE LUIS SALINAS ESTEVEZ",
+    "schedules": [
+      {
+        "time": "13:00-14:30",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "A207"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1507",
+    "group": "6",
+    "professor": "ALEJANDRO MAYA FRANCO",
+    "schedules": [
+      {
+        "time": "07:00-09:15",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "D053"
+      }
+    ],
+    "professor_id": 93274
+  },
+  {
+    "code": "1507",
+    "group": "7",
+    "professor": "VICTOR MANUEL PALMA VALDERRAMA",
+    "schedules": [
+      {
+        "time": "13:45-16:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A309"
+      }
+    ],
+    "professor_id": null
+  }
+]

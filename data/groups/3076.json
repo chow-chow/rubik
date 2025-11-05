@@ -1,0 +1,18 @@
+[
+  {
+    "code": "3076",
+    "group": "1",
+    "professor": "ALEJANDRO GONZALEZ ELIZONDO",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "XS01"
+      }
+    ],
+    "professor_id": 133199
+  }
+]

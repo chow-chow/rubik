@@ -1,0 +1,32 @@
+[
+  {
+    "code": "2959",
+    "group": "1",
+    "professor": "KAREN STEPHANY NAVA PINZON",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "C104"
+      }
+    ]
+  },
+  {
+    "code": "2959",
+    "group": "2",
+    "professor": "ISRAEL ORTEGA CASILLAS",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "C104"
+      }
+    ]
+  }
+]

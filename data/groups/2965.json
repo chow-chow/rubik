@@ -1,0 +1,32 @@
+[
+  {
+    "code": "2965",
+    "group": "1",
+    "professor": "ISRAEL ORTEGA CASILLAS",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "C104"
+      }
+    ]
+  },
+  {
+    "code": "2965",
+    "group": "2",
+    "professor": "MANUEL BECERRIL HERNANDEZ",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "C106"
+      }
+    ]
+  }
+]

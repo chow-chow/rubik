@@ -1,0 +1,36 @@
+[
+  {
+    "code": "2708",
+    "group": "1",
+    "professor": "JUAN PABLO AGUIRRE DIAZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "B403"
+      }
+    ],
+    "professor_id": 124070
+  },
+  {
+    "code": "2708",
+    "group": "2",
+    "professor": "RENE EFRAIN CHAVEZ SEGURA",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "A401"
+      }
+    ],
+    "professor_id": null
+  }
+]

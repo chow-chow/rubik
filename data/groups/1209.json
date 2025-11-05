@@ -1,0 +1,398 @@
+[
+  {
+    "code": "1209",
+    "group": "1",
+    "professor": "JORGE ALBERTO NAJERA CASTREJON",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          1
+        ],
+        "classroom": "O004"
+      },
+      {
+        "time": "07:00-09:00",
+        "days": [
+          3
+        ],
+        "classroom": "O004"
+      }
+    ],
+    "professor_id": 112014
+  },
+  {
+    "code": "1209",
+    "group": "3",
+    "professor": "GUADALUPE GERTRUDIS HERRERA MEJIA",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2
+        ],
+        "classroom": "O003"
+      },
+      {
+        "time": "09:00-11:00",
+        "days": [
+          4
+        ],
+        "classroom": "O003"
+      }
+    ],
+    "professor_id": 108487
+  },
+  {
+    "code": "1209",
+    "group": "4",
+    "professor": "ISRAEL GARDUÑO GARCIA",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1
+        ],
+        "classroom": "O004"
+      },
+      {
+        "time": "09:00-11:00",
+        "days": [
+          3
+        ],
+        "classroom": "O004"
+      }
+    ],
+    "professor_id": 102330
+  },
+  {
+    "code": "1209",
+    "group": "5",
+    "professor": "JOSE LUIS ALMARAZ MORENO",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1
+        ],
+        "classroom": "O003"
+      },
+      {
+        "time": "09:00-11:00",
+        "days": [
+          3
+        ],
+        "classroom": "O003"
+      }
+    ],
+    "professor_id": 141917
+  },
+  {
+    "code": "1209",
+    "group": "6",
+    "professor": "ROBERTO CISNEROS HERNANDEZ",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1
+        ],
+        "classroom": "O004"
+      },
+      {
+        "time": "11:00-13:00",
+        "days": [
+          3
+        ],
+        "classroom": "O004"
+      }
+    ],
+    "professor_id": 71882
+  },
+  {
+    "code": "1209",
+    "group": "7",
+    "professor": "MARTIN REYES FARIAS",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2
+        ],
+        "classroom": "O003"
+      },
+      {
+        "time": "17:00-19:00",
+        "days": [
+          4
+        ],
+        "classroom": "O003"
+      }
+    ],
+    "professor_id": 51610
+  },
+  {
+    "code": "1209",
+    "group": "8",
+    "professor": "GUADALUPE GERTRUDIS HERRERA MEJIA",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2
+        ],
+        "classroom": "O003"
+      },
+      {
+        "time": "11:00-13:00",
+        "days": [
+          4
+        ],
+        "classroom": "O003"
+      }
+    ],
+    "professor_id": 108487
+  },
+  {
+    "code": "1209",
+    "group": "9",
+    "professor": "EMILIANO ANGUIANO ROJAS",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1
+        ],
+        "classroom": "O004"
+      },
+      {
+        "time": "13:00-15:00",
+        "days": [
+          3
+        ],
+        "classroom": "O004"
+      }
+    ],
+    "professor_id": 42619
+  },
+  {
+    "code": "1209",
+    "group": "10",
+    "professor": "EMILIANO ANGUIANO ROJAS",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          2
+        ],
+        "classroom": "O004"
+      },
+      {
+        "time": "13:00-15:00",
+        "days": [
+          4
+        ],
+        "classroom": "O004"
+      }
+    ],
+    "professor_id": 42619
+  },
+  {
+    "code": "1209",
+    "group": "11",
+    "professor": "EFRAIN RAMOS TREJO",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2
+        ],
+        "classroom": "O004"
+      },
+      {
+        "time": "15:00-17:00",
+        "days": [
+          4
+        ],
+        "classroom": "O004"
+      }
+    ],
+    "professor_id": 95361
+  },
+  {
+    "code": "1209",
+    "group": "12",
+    "professor": "JUAN ERIC DURAN PIÑA",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1
+        ],
+        "classroom": "O003"
+      },
+      {
+        "time": "15:00-17:00",
+        "days": [
+          3
+        ],
+        "classroom": "O003"
+      }
+    ],
+    "professor_id": 124362
+  },
+  {
+    "code": "1209",
+    "group": "14",
+    "professor": "EDUARDO ANGUIANO ANAYA",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          1
+        ],
+        "classroom": "O004"
+      },
+      {
+        "time": "19:00-21:00",
+        "days": [
+          3
+        ],
+        "classroom": "O004"
+      }
+    ],
+    "professor_id": 115628
+  },
+  {
+    "code": "1209",
+    "group": "15",
+    "professor": "ROBERTO PEÑA BANDALA",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          1
+        ],
+        "classroom": "O003"
+      },
+      {
+        "time": "19:00-21:00",
+        "days": [
+          3
+        ],
+        "classroom": "O003"
+      }
+    ],
+    "professor_id": 82396
+  },
+  {
+    "code": "1209",
+    "group": "16",
+    "professor": "ARMANDO SANCHEZ GUZMAN",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          1
+        ],
+        "classroom": "O005"
+      },
+      {
+        "time": "19:00-21:00",
+        "days": [
+          3
+        ],
+        "classroom": "O005"
+      }
+    ],
+    "professor_id": 93948
+  },
+  {
+    "code": "1209",
+    "group": "17",
+    "professor": "EDUARDO ANGUIANO ANAYA",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          2
+        ],
+        "classroom": "O004"
+      },
+      {
+        "time": "19:00-21:00",
+        "days": [
+          4
+        ],
+        "classroom": "O004"
+      }
+    ],
+    "professor_id": 115628
+  },
+  {
+    "code": "1209",
+    "group": "18",
+    "professor": "JOSE LUIS RODRIGUEZ PICAZO",
+    "schedules": [
+      {
+        "time": "20:00-22:00",
+        "days": [
+          2
+        ],
+        "classroom": "O003"
+      },
+      {
+        "time": "20:00-22:00",
+        "days": [
+          4
+        ],
+        "classroom": "O003"
+      }
+    ],
+    "professor_id": 67066
+  },
+  {
+    "code": "1209",
+    "group": "19",
+    "professor": "ARMANDO SANCHEZ GUZMAN",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          4
+        ],
+        "classroom": "O005"
+      },
+      {
+        "time": "19:00-21:00",
+        "days": [
+          2
+        ],
+        "classroom": "O005"
+      }
+    ],
+    "professor_id": 93948
+  },
+  {
+    "code": "1209",
+    "group": "20",
+    "professor": "MARTIN REYES FARIAS",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          2
+        ],
+        "classroom": "O003"
+      },
+      {
+        "time": "13:00-15:00",
+        "days": [
+          4
+        ],
+        "classroom": "O003"
+      }
+    ],
+    "professor_id": 51610
+  }
+]

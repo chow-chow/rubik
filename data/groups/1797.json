@@ -1,0 +1,49 @@
+[
+  {
+    "code": "1797",
+    "group": "1",
+    "professor": "MIGUEL SERRANO REYES",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "EXTR"
+      }
+    ],
+    "professor_id": 98813
+  },
+  {
+    "code": "1797",
+    "group": "2",
+    "professor": "BRAYAN HOMERO RAMIREZ CONTRERAS",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "EXTR"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1797",
+    "group": "3",
+    "professor": "EDGAR ANTONIO HERNANDEZ TIRADO",
+    "schedules": [
+      {
+        "time": "08:00-12:00",
+        "days": [
+          6
+        ],
+        "classroom": "X101"
+      }
+    ],
+    "professor_id": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "code": "3071",
+    "group": "1",
+    "professor": "ANTONIO ZEPEDA SANCHEZ",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "B302"
+      }
+    ],
+    "professor_id": 142062
+  }
+]

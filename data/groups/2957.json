@@ -1,0 +1,84 @@
+[
+  {
+    "code": "2957",
+    "group": "1",
+    "professor": "JOSE ANTONIO MACIAS GARCIA",
+    "schedules": [
+      {
+        "time": "13:00-14:30",
+        "days": [
+          2
+        ],
+        "classroom": "T102"
+      },
+      {
+        "time": "13:00-14:30",
+        "days": [
+          4
+        ],
+        "classroom": "Q208"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "2957",
+    "group": "2",
+    "professor": "EDUARDO DANIEL GUERRERO RAMIREZ",
+    "schedules": [
+      {
+        "time": "07:00-10:00",
+        "days": [
+          5
+        ],
+        "classroom": "B405"
+      }
+    ],
+    "professor_id": 149937
+  },
+  {
+    "code": "2957",
+    "group": "3",
+    "professor": "HEIDDY ALEJANDRA PASTEN LUGO",
+    "schedules": [
+      {
+        "time": "07:00-10:00",
+        "days": [
+          6
+        ],
+        "classroom": "B305"
+      }
+    ],
+    "professor_id": 109156
+  },
+  {
+    "code": "2957",
+    "group": "4",
+    "professor": "VIRGINIA CECILIA DIAZ GARCIA",
+    "schedules": [
+      {
+        "time": "08:00-11:00",
+        "days": [
+          6
+        ],
+        "classroom": "B102"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "2957",
+    "group": "6",
+    "professor": "JORGE ALBERTO RODRIGUEZ CAMPOS",
+    "schedules": [
+      {
+        "time": "11:00-14:00",
+        "days": [
+          5
+        ],
+        "classroom": "B205"
+      }
+    ],
+    "professor_id": 108516
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "code": "1452",
+    "group": "1",
+    "professor": "HERIBERTO DE JESUS AGUILAR JUAREZ",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "Y202"
+      }
+    ],
+    "professor_id": 78508
+  }
+]

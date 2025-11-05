@@ -1,0 +1,18 @@
+[
+  {
+    "code": "1475",
+    "group": "1",
+    "professor": "EHECATL LUIS DAVID PALEO GONZALEZ",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "J110"
+      }
+    ],
+    "professor_id": 84416
+  }
+]

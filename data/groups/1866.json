@@ -1,0 +1,33 @@
+[
+  {
+    "code": "1866",
+    "group": "1",
+    "professor": "JUAN JOSE GARCIA ROMERO",
+    "schedules": [
+      {
+        "time": "07:00-08:30",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A301"
+      }
+    ],
+    "professor_id": 142145
+  },
+  {
+    "code": "1866",
+    "group": "2",
+    "professor": "JAVIER LEON COTONIETO",
+    "schedules": [
+      {
+        "time": "08:00-11:00",
+        "days": [
+          6
+        ],
+        "classroom": "B304"
+      }
+    ],
+    "professor_id": 172881
+  }
+]

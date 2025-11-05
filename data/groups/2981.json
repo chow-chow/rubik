@@ -1,0 +1,17 @@
+[
+  {
+    "code": "2981",
+    "group": "1",
+    "professor": "ALEJANDRO DE JESÚS PADILLA RIVERA",
+    "schedules": [
+      {
+        "time": "13:00-14:30",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "R005"
+      }
+    ]
+  }
+]

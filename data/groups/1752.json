@@ -1,0 +1,18 @@
+[
+  {
+    "code": "1752",
+    "group": "1",
+    "professor": "LAURA OLIVIA ROSIQUE DE LA CRUZ",
+    "schedules": [
+      {
+        "time": "19:00-22:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A404"
+      }
+    ],
+    "professor_id": 165700
+  }
+]

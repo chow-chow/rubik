@@ -1,0 +1,182 @@
+[
+  {
+    "code": "1789",
+    "group": "1",
+    "professor": "EDUARDO MUÑIZ TREJO",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          1
+        ],
+        "classroom": "A202"
+      }
+    ],
+    "professor_id": 85595
+  },
+  {
+    "code": "1789",
+    "group": "2",
+    "professor": "CAROLINA GARRIDO MORELOS",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1
+        ],
+        "classroom": "A202"
+      }
+    ],
+    "professor_id": 76048
+  },
+  {
+    "code": "1789",
+    "group": "3",
+    "professor": "MTRA ANA LUISA SELENE ALVAREZ CARRILLO",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1
+        ],
+        "classroom": "A103"
+      }
+    ],
+    "professor_id": 71332
+  },
+  {
+    "code": "1789",
+    "group": "4",
+    "professor": "VICTOR DAMIAN PINILLA MORAN",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          3
+        ],
+        "classroom": "B203"
+      }
+    ],
+    "professor_id": 20280
+  },
+  {
+    "code": "1789",
+    "group": "5",
+    "professor": "LIC ALDO FERNANDO TRUJILLO PRIEGO",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          5
+        ],
+        "classroom": "A101"
+      }
+    ],
+    "professor_id": 98613
+  },
+  {
+    "code": "1789",
+    "group": "6",
+    "professor": "HUGO GERMAN SERRANO MIRANDA",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          2
+        ],
+        "classroom": "A105"
+      }
+    ],
+    "professor_id": 84710
+  },
+  {
+    "code": "1789",
+    "group": "7",
+    "professor": "LIC ALDO FERNANDO TRUJILLO PRIEGO",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          3
+        ],
+        "classroom": "A105"
+      }
+    ],
+    "professor_id": 98613
+  },
+  {
+    "code": "1789",
+    "group": "8",
+    "professor": "ROGELIO TRINIDAD GODINEZ RESENDIZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1
+        ],
+        "classroom": "A101"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1789",
+    "group": "9",
+    "professor": "OLINCA SUAREZ MEJIA",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2
+        ],
+        "classroom": "A103"
+      }
+    ],
+    "professor_id": 67067
+  },
+  {
+    "code": "1789",
+    "group": "10",
+    "professor": "CARLOS HERNANDEZ ESPINOSA",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          3
+        ],
+        "classroom": "A102"
+      }
+    ],
+    "professor_id": 36979
+  },
+  {
+    "code": "1789",
+    "group": "11",
+    "professor": "RODOLFO CARLOS PRIETO MENDOZA",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          3
+        ],
+        "classroom": "A104"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1789",
+    "group": "12",
+    "professor": "CARLOS HERNANDEZ ESPINOSA",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          5
+        ],
+        "classroom": "A105"
+      }
+    ],
+    "professor_id": 36979
+  }
+]

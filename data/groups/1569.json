@@ -1,0 +1,226 @@
+[
+  {
+    "code": "1569",
+    "group": "1",
+    "professor": "HECTOR CIRO BARBOSA MONTES",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "Y104"
+      }
+    ],
+    "professor_id": 108764
+  },
+  {
+    "code": "1569",
+    "group": "2",
+    "professor": "MIRIAM ESTELA LEMUS",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "J204"
+      }
+    ],
+    "professor_id": 76408
+  },
+  {
+    "code": "1569",
+    "group": "3",
+    "professor": "VICTOR DAMIAN PINILLA MORAN",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "J205"
+      }
+    ],
+    "professor_id": 20280
+  },
+  {
+    "code": "1569",
+    "group": "4",
+    "professor": "FRANCISCA IRENE SOLER ANGUIANO",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "J205"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1569",
+    "group": "5",
+    "professor": "NORA PATRICIA ROCHA MILLER",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "J111"
+      }
+    ],
+    "professor_id": 70517
+  },
+  {
+    "code": "1569",
+    "group": "6",
+    "professor": "RAQUEL MARTINEZ AVALOS",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "Y104"
+      }
+    ],
+    "professor_id": 32484
+  },
+  {
+    "code": "1569",
+    "group": "7",
+    "professor": "ANGEL LEONARDO BAÑUELOS SAUCEDO",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "J203"
+      }
+    ],
+    "professor_id": 21806
+  },
+  {
+    "code": "1569",
+    "group": "8",
+    "professor": "MARIA DE LOURDES BARBOSA SALDAÑA",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "J207"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1569",
+    "group": "9",
+    "professor": "ALEJANDRO MORALES TREJO",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "I201"
+      }
+    ],
+    "professor_id": 36975
+  },
+  {
+    "code": "1569",
+    "group": "10",
+    "professor": "VÉDUAR ALLIÉ SARMIENTO TORRES",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "J204"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1569",
+    "group": "11",
+    "professor": "VÉDUAR ALLIÉ SARMIENTO TORRES",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "EXTR"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1569",
+    "group": "12",
+    "professor": "ELIA INES LUNA CEBALLOS",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "Y101"
+      }
+    ],
+    "professor_id": 84849
+  },
+  {
+    "code": "1569",
+    "group": "13",
+    "professor": "JORGE DIEGO FUENTES MORA",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "I306"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1569",
+    "group": "14",
+    "professor": "JUANITA ELIZABETH SOTELO MORALES",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "Y202"
+      }
+    ],
+    "professor_id": null
+  }
+]

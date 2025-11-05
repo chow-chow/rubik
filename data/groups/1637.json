@@ -1,0 +1,18 @@
+[
+  {
+    "code": "1637",
+    "group": "1",
+    "professor": "ADOLFO REYES PIZANO",
+    "schedules": [
+      {
+        "time": "11:30-13:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A211"
+      }
+    ],
+    "professor_id": 62311
+  }
+]

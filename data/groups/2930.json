@@ -1,0 +1,50 @@
+[
+  {
+    "code": "2930",
+    "group": "1",
+    "professor": "ALEJANDRO PADRON GODINEZ",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "DS01"
+      }
+    ],
+    "professor_id": 141266
+  },
+  {
+    "code": "2930",
+    "group": "2",
+    "professor": "ALFONSO FRANCISCO DE ABIEGA L EGLISSEVer Nota 1",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "Y002"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "2930",
+    "group": "3",
+    "professor": "ROCIO ALEJANDRA ALDECO PEREZVer Nota 1",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "Q218"
+      }
+    ],
+    "professor_id": null
+  }
+]

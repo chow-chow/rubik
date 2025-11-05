@@ -1,0 +1,34 @@
+[
+  {
+    "code": "1575",
+    "group": "1",
+    "professor": "JOSE LUIS ARCOS HERNANDEZ",
+    "schedules": [
+      {
+        "time": "14:00-16:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "C203"
+      }
+    ],
+    "professor_id": 23452
+  },
+  {
+    "code": "1575",
+    "group": "2",
+    "professor": "FERNANDO ROSIQUE NARANJO",
+    "schedules": [
+      {
+        "time": "12:00-14:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "C203"
+      }
+    ],
+    "professor_id": 89992
+  }
+]

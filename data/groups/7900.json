@@ -1,0 +1,32 @@
+[
+  {
+    "code": "7900",
+    "group": "1",
+    "professor": "GERARDO LOREDO LOPEZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2
+        ],
+        "classroom": "DS06"
+      }
+    ],
+    "professor_id": 172325
+  },
+  {
+    "code": "7900",
+    "group": "2",
+    "professor": "ALEJANDRO BAEZ MUÑOZ",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          5
+        ],
+        "classroom": "DS06"
+      }
+    ],
+    "professor_id": 118946
+  }
+]

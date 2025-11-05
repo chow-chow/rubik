@@ -1,0 +1,197 @@
+[
+  {
+    "code": "6590",
+    "group": "1",
+    "professor": "ARTURO PEREZ DE LA CRUZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1
+        ],
+        "classroom": "Q219"
+      }
+    ],
+    "professor_id": 95352
+  },
+  {
+    "code": "6590",
+    "group": "2",
+    "professor": "JOSE ROQUE ROMAN GUADARRAMA",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1
+        ],
+        "classroom": "Q219"
+      }
+    ],
+    "professor_id": 95712
+  },
+  {
+    "code": "6590",
+    "group": "3",
+    "professor": "JOSE ROQUE ROMAN GUADARRAMA",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1
+        ],
+        "classroom": "Q219"
+      }
+    ],
+    "professor_id": 95712
+  },
+  {
+    "code": "6590",
+    "group": "4",
+    "professor": "EDEN ESPINOZA URZUA",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1
+        ],
+        "classroom": "Q219"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "6590",
+    "group": "5",
+    "professor": "SERGIO TEODORO VITE",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2
+        ],
+        "classroom": "Q219"
+      }
+    ],
+    "professor_id": 85623
+  },
+  {
+    "code": "6590",
+    "group": "6",
+    "professor": "SERGIO TEODORO VITE",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2
+        ],
+        "classroom": "Q219"
+      }
+    ],
+    "professor_id": 85623
+  },
+  {
+    "code": "6590",
+    "group": "7",
+    "professor": "ARTURO PEREZ DE LA CRUZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          3
+        ],
+        "classroom": "Q219"
+      }
+    ],
+    "professor_id": 95352
+  },
+  {
+    "code": "6590",
+    "group": "8",
+    "professor": "CARLOS ALDAIR ROMAN BALBUENA",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          3
+        ],
+        "classroom": "Q219"
+      }
+    ],
+    "professor_id": 113612
+  },
+  {
+    "code": "6590",
+    "group": "9",
+    "professor": "EDCEL FUERTE MARTINEZ",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          3
+        ],
+        "classroom": "Q219"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "6590",
+    "group": "10",
+    "professor": "LUIS SERGIO VALENCIA CASTRO",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          4
+        ],
+        "classroom": "Q219"
+      }
+    ],
+    "professor_id": 79254
+  },
+  {
+    "code": "6590",
+    "group": "11",
+    "professor": "LUIS SERGIO VALENCIA CASTRO",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          4
+        ],
+        "classroom": "Q219"
+      }
+    ],
+    "professor_id": 79254
+  },
+  {
+    "code": "6590",
+    "group": "12",
+    "professor": "EDCEL FUERTE MARTINEZ",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          4
+        ],
+        "classroom": "Q219"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "6590",
+    "group": "13",
+    "professor": "JOSE ROQUE ROMAN GUADARRAMA",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          5
+        ],
+        "classroom": "Q219"
+      }
+    ],
+    "professor_id": 95712
+  }
+]

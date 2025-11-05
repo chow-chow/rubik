@@ -1,0 +1,18 @@
+[
+  {
+    "code": "1895",
+    "group": "1",
+    "professor": "ELIZABETH ORENCIO LIZARDI",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "X101"
+      }
+    ],
+    "professor_id": 154334
+  }
+]

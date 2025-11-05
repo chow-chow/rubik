@@ -1,0 +1,32 @@
+[
+  {
+    "code": "1576",
+    "group": "1",
+    "professor": "DARÍO EMMANUEL SOLANO ROJASVer Nota 2",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "C103"
+      }
+    ]
+  },
+  {
+    "code": "1576",
+    "group": "2",
+    "professor": "ALAN ALFREDO MARQUEZ SALAZAR",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "C105"
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "code": "1588",
+    "group": "1",
+    "professor": "MANUEL ENRIQUEZ POY",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "A205"
+      }
+    ],
+    "professor_id": 85765
+  },
+  {
+    "code": "1588",
+    "group": "2",
+    "professor": "MANUEL ENRIQUEZ POY",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "A205"
+      }
+    ],
+    "professor_id": 85765
+  },
+  {
+    "code": "1588",
+    "group": "3",
+    "professor": "ALFONSO PALACIOS MUÑOZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "A205"
+      }
+    ],
+    "professor_id": 101486
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "code": "2948",
+    "group": "1",
+    "professor": "REYNALDO MARTELL AVILA",
+    "schedules": [
+      {
+        "time": "09:00-13:00",
+        "days": [
+          6
+        ],
+        "classroom": "B204"
+      }
+    ],
+    "professor_id": 111912
+  }
+]

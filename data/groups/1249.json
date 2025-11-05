@@ -1,0 +1,32 @@
+[
+  {
+    "code": "1249",
+    "group": "1",
+    "professor": "SANTIAGO ZURIEL AGUILLON SALAZAR",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "B401"
+      }
+    ]
+  },
+  {
+    "code": "1249",
+    "group": "2",
+    "professor": "ERIK VARGAS ROJAS",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          4,
+          5
+        ],
+        "classroom": "Y201"
+      }
+    ]
+  }
+]

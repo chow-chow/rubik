@@ -1,0 +1,66 @@
+[
+  {
+    "code": "2915",
+    "group": "1",
+    "professor": "OSCAR ENRIQUE MARTINEZ JURADO",
+    "schedules": [
+      {
+        "time": "10:00-11:30",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "R206"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "2915",
+    "group": "2",
+    "professor": "MICHELLE ELIANE HERNANDEZ GARCIA",
+    "schedules": [
+      {
+        "time": "14:30-16:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A207"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "2915",
+    "group": "3",
+    "professor": "ALEJANDRO JOSE LEO VARGAS",
+    "schedules": [
+      {
+        "time": "17:30-19:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A307"
+      }
+    ],
+    "professor_id": 146711
+  },
+  {
+    "code": "2915",
+    "group": "4",
+    "professor": "MICHELLE ELIANE HERNANDEZ GARCIA",
+    "schedules": [
+      {
+        "time": "19:00-20:30",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A308"
+      }
+    ],
+    "professor_id": null
+  }
+]

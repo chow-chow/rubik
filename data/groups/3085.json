@@ -1,0 +1,34 @@
+[
+  {
+    "code": "3085",
+    "group": "1",
+    "professor": "CARLOS ALBERTO GONZALEZ RODRIGUEZ",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "EXTR"
+      }
+    ],
+    "professor_id": 118817
+  },
+  {
+    "code": "3085",
+    "group": "2",
+    "professor": "DR JUAN MAURICIO ANGELES CERVANTES",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "D003"
+      }
+    ],
+    "professor_id": 132604
+  }
+]

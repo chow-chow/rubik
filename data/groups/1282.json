@@ -1,0 +1,23 @@
+[
+  {
+    "code": "1282",
+    "group": "1",
+    "professor": "HOMERO LUIS MALAGON CARTAS",
+    "schedules": [
+      {
+        "time": "13:00-14:30",
+        "days": [
+          5
+        ],
+        "classroom": "B409"
+      },
+      {
+        "time": "13:00-14:30",
+        "days": [
+          1
+        ],
+        "classroom": "A402"
+      }
+    ]
+  }
+]

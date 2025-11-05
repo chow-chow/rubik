@@ -1,0 +1,62 @@
+[
+  {
+    "code": "5992",
+    "group": "1",
+    "professor": "DIANA PAULA VAZQUEZ LEZAMA",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          5
+        ],
+        "classroom": "O101"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "5992",
+    "group": "2",
+    "professor": "LEOPOLDO ADRIAN GONZALEZ GONZALEZ",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          4
+        ],
+        "classroom": "D002"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "5992",
+    "group": "3",
+    "professor": "DIANA PAULA VAZQUEZ LEZAMA",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          5
+        ],
+        "classroom": "B202"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "5992",
+    "group": "4",
+    "professor": "CAROLINA CASTRO ALARCON",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          1
+        ],
+        "classroom": "D003"
+      }
+    ],
+    "professor_id": 167496
+  }
+]

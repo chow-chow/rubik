@@ -1,0 +1,34 @@
+[
+  {
+    "code": "1988",
+    "group": "1",
+    "professor": "UBALDO ROMERO ORTIZ",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "D006"
+      }
+    ],
+    "professor_id": 153583
+  },
+  {
+    "code": "1988",
+    "group": "2",
+    "professor": "UBALDO ROMERO ORTIZ",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "D006"
+      }
+    ],
+    "professor_id": 153583
+  }
+]

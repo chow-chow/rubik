@@ -1,0 +1,256 @@
+[
+  {
+    "code": "3089",
+    "group": "1",
+    "professor": "SAUL DE LA ROSA NIEVES",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "EXTR"
+      }
+    ],
+    "professor_id": 86735
+  },
+  {
+    "code": "3089",
+    "group": "2",
+    "professor": "MARCO ANTONIO NEGRETE VILLANUEVA",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "EXTR"
+      }
+    ],
+    "professor_id": 68365
+  },
+  {
+    "code": "3089",
+    "group": "4",
+    "professor": "NEFTALI ELORZA LOPEZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "B201"
+      }
+    ],
+    "professor_id": 90944
+  },
+  {
+    "code": "3089",
+    "group": "5",
+    "professor": "CARLOS OMAR CALIECA ROMERO",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "EXTR"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "3089",
+    "group": "6",
+    "professor": "RICARDO FERNANDO ABELA POSADA",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "B302"
+      }
+    ],
+    "professor_id": 104481
+  },
+  {
+    "code": "3089",
+    "group": "7",
+    "professor": "IVAN NIETO DIAZ LAVANA",
+    "schedules": [
+      {
+        "time": "18:00-20:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "EXTR"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "3089",
+    "group": "8",
+    "professor": "JESUS SAVAGE CARMONA",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "EXTR"
+      }
+    ],
+    "professor_id": 81491
+  },
+  {
+    "code": "3089",
+    "group": "9",
+    "professor": "DANIEL HARO MENDOZA",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A311"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "3089",
+    "group": "10",
+    "professor": "VICTOR JAVIER GONZALEZ VILLELA",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "EXTR"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "3089",
+    "group": "11",
+    "professor": "ERIK PEÑA MEDINA",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "EXTR"
+      }
+    ],
+    "professor_id": 171640
+  },
+  {
+    "code": "3089",
+    "group": "13",
+    "professor": "RAFAEL AUGUSTO SOBREVILLA FIGUEROA",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "A310"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "3089",
+    "group": "14",
+    "professor": "MAURICIO MORALES RODRIGUEZ",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "EXTR"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "3089",
+    "group": "15",
+    "professor": "",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "O103"
+      }
+    ]
+  },
+  {
+    "code": "3089",
+    "group": "16",
+    "professor": "RAFAEL AUGUSTO SOBREVILLA FIGUEROAVer Nota 2",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "EXTR"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "3089",
+    "group": "17",
+    "professor": "FERNANDO PEREZ ESCAMIROSA",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "EXTR"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "3089",
+    "group": "18",
+    "professor": "",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "EXTR"
+      }
+    ]
+  }
+]

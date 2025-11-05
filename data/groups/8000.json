@@ -1,0 +1,812 @@
+[
+  {
+    "code": "8000",
+    "group": "1",
+    "professor": "ANA CRISTINA CERVANTES ARRIOJA",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          1
+        ],
+        "classroom": "I104"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "8000",
+    "group": "2",
+    "professor": "PAULA MARIANA CRISTO GARCIA",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          1
+        ],
+        "classroom": "J103"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "8000",
+    "group": "3",
+    "professor": "LUIS ADOLFO MATIAS HERNANDEZ",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          1
+        ],
+        "classroom": "I301"
+      }
+    ],
+    "professor_id": 20638
+  },
+  {
+    "code": "8000",
+    "group": "4",
+    "professor": "ELSA MAYRA PERALTA MARQUEZ",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2
+        ],
+        "classroom": "I204"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "8000",
+    "group": "5",
+    "professor": "GLORIA ALEJANDRA RODRIGUEZ AGUILAR",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2
+        ],
+        "classroom": "I106"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "8000",
+    "group": "6",
+    "professor": "GLORIA ALEJANDRA RODRIGUEZ AGUILAR",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          4
+        ],
+        "classroom": "I106"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "8000",
+    "group": "7",
+    "professor": "KAREN ELIZABETH LEON MORENO",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          5
+        ],
+        "classroom": "I106"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "8000",
+    "group": "8",
+    "professor": "BARBARA YAMEL FLORES LAURRABAQUIO",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          5
+        ],
+        "classroom": "J209"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "8000",
+    "group": "9",
+    "professor": "DANIRA ALIN SALAZAR CONTRERAS",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          5
+        ],
+        "classroom": "J104"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "8000",
+    "group": "10",
+    "professor": "MARIA DE LOS ANGELES BLAS MARTINEZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1
+        ],
+        "classroom": "I205"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "8000",
+    "group": "11",
+    "professor": "PAULA MARIANA CRISTO GARCIA",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1
+        ],
+        "classroom": "I302"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "8000",
+    "group": "12",
+    "professor": "DIANA TAMARA MARTINEZ RUIZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2
+        ],
+        "classroom": "J105"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "8000",
+    "group": "13",
+    "professor": "DIANA PAULINA PEREZ PALACIOS",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          4
+        ],
+        "classroom": "J101"
+      }
+    ],
+    "professor_id": 124259
+  },
+  {
+    "code": "8000",
+    "group": "14",
+    "professor": "MARIA DE GUADALUPE FLOR DIAZ DE LEON FERNANDEZ DE CASTRO",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          5
+        ],
+        "classroom": "J104"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "8000",
+    "group": "15",
+    "professor": "LUIS ADOLFO MATIAS HERNANDEZ",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1
+        ],
+        "classroom": "I205"
+      }
+    ],
+    "professor_id": 20638
+  },
+  {
+    "code": "8000",
+    "group": "16",
+    "professor": "ELSA MAYRA PERALTA MARQUEZ",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1
+        ],
+        "classroom": "I306"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "8000",
+    "group": "17",
+    "professor": "JENIFFER GABRIELA ESCOBAR MEDINA",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2
+        ],
+        "classroom": "I203"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "8000",
+    "group": "18",
+    "professor": "ALMA ROSA LOPEZ VELARDE",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          3
+        ],
+        "classroom": "I102"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "8000",
+    "group": "19",
+    "professor": "BRENDA VIVIAN RICO RIOS",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          3
+        ],
+        "classroom": "I101"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "8000",
+    "group": "20",
+    "professor": "SANDRA ESCUTIA DIAZ",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          3
+        ],
+        "classroom": "J108"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "8000",
+    "group": "21",
+    "professor": "ANA BEATRIZ CARRERA AGUILAR",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          4
+        ],
+        "classroom": "J207"
+      }
+    ],
+    "professor_id": 93197
+  },
+  {
+    "code": "8000",
+    "group": "22",
+    "professor": "BRENDA VIVIAN RICO RIOS",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          5
+        ],
+        "classroom": "J207"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "8000",
+    "group": "23",
+    "professor": "ALEJANDRA LIDIA MEDINA ARZATE",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1
+        ],
+        "classroom": "I104"
+      }
+    ],
+    "professor_id": 148066
+  },
+  {
+    "code": "8000",
+    "group": "24",
+    "professor": "MARCO ANTONIO OSORIO OROZCO",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1
+        ],
+        "classroom": "I203"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "8000",
+    "group": "25",
+    "professor": "ERIKA ROMO ROMO",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          2
+        ],
+        "classroom": "J108"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "8000",
+    "group": "26",
+    "professor": "ROCÍO GABRIELA ALFARO VEGA",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          2
+        ],
+        "classroom": "J109"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "8000",
+    "group": "27",
+    "professor": "JESUS PEREZ ESQUIVEL",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          2
+        ],
+        "classroom": "J101"
+      }
+    ],
+    "professor_id": 78031
+  },
+  {
+    "code": "8000",
+    "group": "28",
+    "professor": "FRIDA YOLANDA TEODOSIO CAMPOS",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          2
+        ],
+        "classroom": "I303"
+      }
+    ],
+    "professor_id": 185027
+  },
+  {
+    "code": "8000",
+    "group": "29",
+    "professor": "MARCO ANTONIO OSORIO OROZCO",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          3
+        ],
+        "classroom": "I104"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "8000",
+    "group": "30",
+    "professor": "SERGIO ABRAHAM REYES PANTOJA",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          3
+        ],
+        "classroom": "J208"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "8000",
+    "group": "31",
+    "professor": "PAULINA LANDEROS ALVARADO",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          4
+        ],
+        "classroom": "I101"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "8000",
+    "group": "32",
+    "professor": "JUAN MIGUEL FLORES GOMEZ",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          4
+        ],
+        "classroom": "J101"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "8000",
+    "group": "33",
+    "professor": "MARIA DE LOS ANGELES BLAS MARTINEZ",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          4
+        ],
+        "classroom": "J210"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "8000",
+    "group": "34",
+    "professor": "JENIFFER GABRIELA ESCOBAR MEDINA",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          5
+        ],
+        "classroom": "I106"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "8000",
+    "group": "35",
+    "professor": "JUAN MIGUEL FLORES GOMEZ",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          5
+        ],
+        "classroom": "J109"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "8000",
+    "group": "36",
+    "professor": "ERIKA ROMO ROMO",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          5
+        ],
+        "classroom": "I301"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "8000",
+    "group": "37",
+    "professor": "PAULA RINCON GALLARDO VERA ESTAÑOL",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          5
+        ],
+        "classroom": "J207"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "8000",
+    "group": "38",
+    "professor": "TAMARA ISKARA ALCANTARA CONCEPCION",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          5
+        ],
+        "classroom": "J107"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "8000",
+    "group": "39",
+    "professor": "JUANA VIRIDIANA BECERRIL FERNANDEZ",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          5
+        ],
+        "classroom": "J102"
+      }
+    ],
+    "professor_id": 177346
+  },
+  {
+    "code": "8000",
+    "group": "40",
+    "professor": "BRENDA PAOLA DUARTE RIVERA",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          5
+        ],
+        "classroom": "I206"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "8000",
+    "group": "41",
+    "professor": "MTRA ANA GEORGINA GARCIA Y COLOME",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1
+        ],
+        "classroom": "J210"
+      }
+    ],
+    "professor_id": 58656
+  },
+  {
+    "code": "8000",
+    "group": "42",
+    "professor": "MAGALI BARRETO AVILA",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1
+        ],
+        "classroom": "J107"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "8000",
+    "group": "43",
+    "professor": "MTRA ANA GEORGINA GARCIA Y COLOME",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          3
+        ],
+        "classroom": "I101"
+      }
+    ],
+    "professor_id": 58656
+  },
+  {
+    "code": "8000",
+    "group": "44",
+    "professor": "JUANA VIRIDIANA BECERRIL FERNANDEZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          5
+        ],
+        "classroom": "J101"
+      }
+    ],
+    "professor_id": 177346
+  },
+  {
+    "code": "8000",
+    "group": "45",
+    "professor": "MAGALI BARRETO AVILA",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          5
+        ],
+        "classroom": "I203"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "8000",
+    "group": "46",
+    "professor": "PAULA RINCON GALLARDO VERA ESTAÑOL",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2
+        ],
+        "classroom": "J107"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "8000",
+    "group": "47",
+    "professor": "GUILLERMINA PEREZ DURAN",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          4
+        ],
+        "classroom": "J105"
+      }
+    ],
+    "professor_id": 104858
+  },
+  {
+    "code": "8000",
+    "group": "48",
+    "professor": "ANA CRISTINA CERVANTES ARRIOJA",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          5
+        ],
+        "classroom": "J109"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "8000",
+    "group": "49",
+    "professor": "MARCO ANTONIO VICARIO OCAMPO",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          1
+        ],
+        "classroom": "I105"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "8000",
+    "group": "50",
+    "professor": "ROMY ROMERO CALVA",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          1
+        ],
+        "classroom": "J102"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "8000",
+    "group": "51",
+    "professor": "KAREN ELIZABETH LEON MORENO",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          2
+        ],
+        "classroom": "I102"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "8000",
+    "group": "52",
+    "professor": "MARIANA HERNANDEZ LEON",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          3
+        ],
+        "classroom": "I105"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "8000",
+    "group": "53",
+    "professor": "ROMY ROMERO CALVA",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          4
+        ],
+        "classroom": "J106"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "8000",
+    "group": "54",
+    "professor": "GABRIELA POLO HERRERA",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          5
+        ],
+        "classroom": "I105"
+      }
+    ],
+    "professor_id": null
+  }
+]

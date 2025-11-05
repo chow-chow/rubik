@@ -1,0 +1,114 @@
+[
+  {
+    "code": "1531",
+    "group": "1",
+    "professor": "JUANA JULIETA NOGUEZ MONROY",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "SIN"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1531",
+    "group": "2",
+    "professor": "MARGARITA MUÑOZ GONCENVer Nota 1",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "B204"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1531",
+    "group": "3",
+    "professor": "ADAN ZEPEDA GOROSTIZA",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "B106"
+      }
+    ],
+    "professor_id": 104952
+  },
+  {
+    "code": "1531",
+    "group": "4",
+    "professor": "ORLANDO ZALDIVAR ZAMORATEGUI",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "D004"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1531",
+    "group": "5",
+    "professor": "MARCO ANTONIO DELGADO GONZALEZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "B401"
+      }
+    ],
+    "professor_id": 149662
+  },
+  {
+    "code": "1531",
+    "group": "6",
+    "professor": "MARGARITA MUÑOZ GONCEN",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A305"
+      }
+    ],
+    "professor_id": 90089
+  },
+  {
+    "code": "1531",
+    "group": "7",
+    "professor": "ORLANDO ZALDIVAR ESQUIVEL",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "Y002"
+      }
+    ],
+    "professor_id": 113856
+  }
+]

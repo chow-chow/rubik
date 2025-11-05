@@ -1,0 +1,17 @@
+[
+  {
+    "code": "1875",
+    "group": "1",
+    "professor": "SERGIY KHOTYAINTSEV",
+    "schedules": [
+      {
+        "time": "13:30-15:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "B106"
+      }
+    ]
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "code": "1251",
+    "group": "1",
+    "professor": "JOSE OMAR CRUZ SANTIAGOVer Nota 1",
+    "schedules": [
+      {
+        "time": "08:30-10:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "SIN"
+      }
+    ]
+  }
+]

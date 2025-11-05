@@ -1,0 +1,34 @@
+[
+  {
+    "code": "3059",
+    "group": "1",
+    "professor": "GUILLERMO LUIS LAURO ESQUIVEL CASTAÑEDA",
+    "schedules": [
+      {
+        "time": "07:00-09:15",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A405"
+      }
+    ],
+    "professor_id": 175457
+  },
+  {
+    "code": "3059",
+    "group": "2",
+    "professor": "GUILLERMO LUIS LAURO ESQUIVEL CASTAÑEDA",
+    "schedules": [
+      {
+        "time": "09:15-11:30",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A405"
+      }
+    ],
+    "professor_id": 175457
+  }
+]

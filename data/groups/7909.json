@@ -1,0 +1,62 @@
+[
+  {
+    "code": "7909",
+    "group": "1",
+    "professor": "ANA GABRIELA GALLARDO HERNANDEZ",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1
+        ],
+        "classroom": "P113"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "7909",
+    "group": "2",
+    "professor": "FERNANDA RAMOS GARCIA",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2
+        ],
+        "classroom": "P113"
+      }
+    ],
+    "professor_id": 159593
+  },
+  {
+    "code": "7909",
+    "group": "3",
+    "professor": "LUIS ALBERTO CANALES MEZA",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          3
+        ],
+        "classroom": "P113"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "7909",
+    "group": "4",
+    "professor": "LUIS ALBERTO CANALES MEZA",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          5
+        ],
+        "classroom": "P113"
+      }
+    ],
+    "professor_id": null
+  }
+]

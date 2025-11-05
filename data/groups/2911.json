@@ -1,0 +1,17 @@
+[
+  {
+    "code": "2911",
+    "group": "1",
+    "professor": "HIROSHI LESTRADE HERNANDEZ",
+    "schedules": [
+      {
+        "time": "13:30-15:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A302"
+      }
+    ]
+  }
+]

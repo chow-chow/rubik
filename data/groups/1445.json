@@ -1,0 +1,66 @@
+[
+  {
+    "code": "1445",
+    "group": "1",
+    "professor": "AMPARO BAÑUELOS DURAN",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "Y202"
+      }
+    ],
+    "professor_id": 84651
+  },
+  {
+    "code": "1445",
+    "group": "2",
+    "professor": "BERTHA ISABEL VEGA GALICIA",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1,
+          5
+        ],
+        "classroom": "J203"
+      }
+    ],
+    "professor_id": 84414
+  },
+  {
+    "code": "1445",
+    "group": "3",
+    "professor": "ISABEL PATRICIA AGUILAR JUAREZ",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "J205"
+      }
+    ],
+    "professor_id": 66375
+  },
+  {
+    "code": "1445",
+    "group": "4",
+    "professor": "ANN GODELIEVE WELLENS",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "I202"
+      }
+    ],
+    "professor_id": 45295
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "code": "1960",
+    "group": "1",
+    "professor": "ADOLFO REYES PIZANO",
+    "schedules": [
+      {
+        "time": "11:00-16:00",
+        "days": [
+          5
+        ],
+        "classroom": "R029"
+      }
+    ],
+    "professor_id": 62311
+  },
+  {
+    "code": "1960",
+    "group": "2",
+    "professor": "OSCAR IVAN TOVAR CERON",
+    "schedules": [
+      {
+        "time": "09:30-14:30",
+        "days": [
+          6
+        ],
+        "classroom": "R029"
+      }
+    ],
+    "professor_id": null
+  }
+]

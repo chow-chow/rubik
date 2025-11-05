@@ -1,0 +1,33 @@
+[
+  {
+    "code": "2908",
+    "group": "1",
+    "professor": "LUIS MIGUEL CASTRO GONZALEZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2,
+          3
+        ],
+        "classroom": "S201"
+      }
+    ],
+    "professor_id": 99894
+  },
+  {
+    "code": "2908",
+    "group": "2",
+    "professor": "ARMANDO GRANDE GONZALEZ",
+    "schedules": [
+      {
+        "time": "07:00-11:00",
+        "days": [
+          6
+        ],
+        "classroom": "A107"
+      }
+    ],
+    "professor_id": 79238
+  }
+]

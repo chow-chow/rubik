@@ -1,0 +1,97 @@
+[
+  {
+    "code": "3083",
+    "group": "1",
+    "professor": "ADRIAN ESPINOSA BAUTISTA",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "A310"
+      }
+    ],
+    "professor_id": 66629
+  },
+  {
+    "code": "3083",
+    "group": "2",
+    "professor": "HANNA LESLYE GARCIA GUERRA",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "B202"
+      }
+    ],
+    "professor_id": 59070
+  },
+  {
+    "code": "3083",
+    "group": "3",
+    "professor": "ALEJANDRO JARAMILLO MORA",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "O102"
+      }
+    ],
+    "professor_id": 91447
+  },
+  {
+    "code": "3083",
+    "group": "4",
+    "professor": "CESAR ABRAHAM LUNA ESTRADA",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "O002"
+      }
+    ],
+    "professor_id": 137507
+  },
+  {
+    "code": "3083",
+    "group": "5",
+    "professor": "DAVID HORTON CAVAZOS",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "Y004"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "3083",
+    "group": "6",
+    "professor": "",
+    "schedules": [
+      {
+        "time": "18:00-20:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "EXTR"
+      }
+    ]
+  }
+]

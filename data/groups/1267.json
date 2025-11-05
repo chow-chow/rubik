@@ -1,0 +1,18 @@
+[
+  {
+    "code": "1267",
+    "group": "1",
+    "professor": "GIBRAN JALIL GARNICA CASTRO",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "Y201"
+      }
+    ],
+    "professor_id": 174613
+  }
+]

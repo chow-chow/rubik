@@ -1,0 +1,18 @@
+[
+  {
+    "code": "2009",
+    "group": "1",
+    "professor": "GABRIEL LEON DE LOS SANTOS",
+    "schedules": [
+      {
+        "time": "13:00-14:30",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "DS10"
+      }
+    ],
+    "professor_id": 109204
+  }
+]

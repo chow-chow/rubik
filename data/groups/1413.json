@@ -1,0 +1,427 @@
+[
+  {
+    "code": "1413",
+    "group": "1",
+    "professor": "JORGE FEDERICO PANIAGUA BALLINAS",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "A104"
+      }
+    ],
+    "professor_id": 70520
+  },
+  {
+    "code": "1413",
+    "group": "2",
+    "professor": "DRA MARIA MAGDALENA MEJIA ESTAÑOL",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "A101"
+      }
+    ],
+    "professor_id": 64088
+  },
+  {
+    "code": "1413",
+    "group": "3",
+    "professor": "LIC ELSA RUTH MONDRAGON SAAVEDRA",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A101"
+      }
+    ],
+    "professor_id": 70316
+  },
+  {
+    "code": "1413",
+    "group": "4",
+    "professor": "EDGARDO ULISES BENITEZ ESLAVA",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A102"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1413",
+    "group": "5",
+    "professor": "JOSE MANUEL BAHAMONDE PELAEZ",
+    "schedules": [
+      {
+        "time": "07:00-11:00",
+        "days": [
+          5
+        ],
+        "classroom": "A101"
+      }
+    ],
+    "professor_id": 51232
+  },
+  {
+    "code": "1413",
+    "group": "6",
+    "professor": "JOSE FRANCISCO MACEDO CALVILLO",
+    "schedules": [
+      {
+        "time": "08:00-12:00",
+        "days": [
+          6
+        ],
+        "classroom": "A101"
+      }
+    ],
+    "professor_id": 38003
+  },
+  {
+    "code": "1413",
+    "group": "7",
+    "professor": "IRIS MONSERRAT URBINA CASAS",
+    "schedules": [
+      {
+        "time": "08:00-12:00",
+        "days": [
+          6
+        ],
+        "classroom": "A104"
+      }
+    ],
+    "professor_id": 75038
+  },
+  {
+    "code": "1413",
+    "group": "8",
+    "professor": "LIC JUAN CARLOS GUZMAN CORREA",
+    "schedules": [
+      {
+        "time": "08:00-12:00",
+        "days": [
+          6
+        ],
+        "classroom": "A202"
+      }
+    ],
+    "professor_id": 62658
+  },
+  {
+    "code": "1413",
+    "group": "9",
+    "professor": "LIC ELSA RUTH MONDRAGON SAAVEDRA",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A202"
+      }
+    ],
+    "professor_id": 70316
+  },
+  {
+    "code": "1413",
+    "group": "10",
+    "professor": "MTRA ERIKA MARTINEZ LOPEZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A102"
+      }
+    ],
+    "professor_id": 95276
+  },
+  {
+    "code": "1413",
+    "group": "11",
+    "professor": "MIGUEL ANGEL LOPEZ CARRILLO",
+    "schedules": [
+      {
+        "time": "09:00-13:00",
+        "days": [
+          5
+        ],
+        "classroom": "A108"
+      }
+    ],
+    "professor_id": 75449
+  },
+  {
+    "code": "1413",
+    "group": "12",
+    "professor": "LIC ELSA RUTH MONDRAGON SAAVEDRA",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A202"
+      }
+    ],
+    "professor_id": 70316
+  },
+  {
+    "code": "1413",
+    "group": "13",
+    "professor": "SONIA ROSA BRICEÑO VILORIA",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A104"
+      }
+    ],
+    "professor_id": 104548
+  },
+  {
+    "code": "1413",
+    "group": "14",
+    "professor": "IRMA DELGADO MARTINEZ",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "A101"
+      }
+    ],
+    "professor_id": 64897
+  },
+  {
+    "code": "1413",
+    "group": "15",
+    "professor": "CARLOS AURELIO BERNAL ESPONDA",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "A102"
+      }
+    ],
+    "professor_id": 68400
+  },
+  {
+    "code": "1413",
+    "group": "16",
+    "professor": "CARLOS VENCES ESPINOSA",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A202"
+      }
+    ],
+    "professor_id": 49944
+  },
+  {
+    "code": "1413",
+    "group": "17",
+    "professor": "MTRO JOSE ANTONIO LOPEZ CUESTA",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A102"
+      }
+    ],
+    "professor_id": 52239
+  },
+  {
+    "code": "1413",
+    "group": "18",
+    "professor": "MTRO JOSE ANTONIO LOPEZ CUESTA",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A101"
+      }
+    ],
+    "professor_id": 52239
+  },
+  {
+    "code": "1413",
+    "group": "19",
+    "professor": "DRA MARIA MAGDALENA MEJIA ESTAÑOL",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "B203"
+      }
+    ],
+    "professor_id": 64088
+  },
+  {
+    "code": "1413",
+    "group": "20",
+    "professor": "ALEJANDRO CESAR LOPEZ BOLAÑOSVer Nota 1",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "A103"
+      }
+    ],
+    "professor_id": 42561
+  },
+  {
+    "code": "1413",
+    "group": "21",
+    "professor": "IRIS MONSERRAT URBINA CASAS",
+    "schedules": [
+      {
+        "time": "17:00-21:00",
+        "days": [
+          5
+        ],
+        "classroom": "A102"
+      }
+    ],
+    "professor_id": 75038
+  },
+  {
+    "code": "1413",
+    "group": "22",
+    "professor": "MTRA LIZET DIAZ GARCIA",
+    "schedules": [
+      {
+        "time": "17:00-21:00",
+        "days": [
+          5
+        ],
+        "classroom": "A103"
+      }
+    ],
+    "professor_id": 55874
+  },
+  {
+    "code": "1413",
+    "group": "23",
+    "professor": "ABIGAIL SERRALDE RUIZ",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "DS10"
+      }
+    ],
+    "professor_id": 43098
+  },
+  {
+    "code": "1413",
+    "group": "24",
+    "professor": "ANGEL JULIAN AVILA AGUILAR",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "A104"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1413",
+    "group": "25",
+    "professor": "MTRO JOSE ANTONIO LOPEZ CUESTA",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A103"
+      }
+    ],
+    "professor_id": 52239
+  },
+  {
+    "code": "1413",
+    "group": "26",
+    "professor": "JOSÉ MARTÍN SERNA DE ANDA",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A108"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1413",
+    "group": "27",
+    "professor": "LIC JUAN CARLOS GUZMAN CORREA",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "A105"
+      }
+    ],
+    "professor_id": 62658
+  }
+]

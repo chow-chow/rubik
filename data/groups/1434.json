@@ -1,0 +1,17 @@
+[
+  {
+    "code": "1434",
+    "group": "1",
+    "professor": "MARIA EUGENIA CERVANTES VALENCIA",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "DS11"
+      }
+    ]
+  }
+]

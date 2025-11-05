@@ -1,0 +1,167 @@
+[
+  {
+    "code": "6598",
+    "group": "1",
+    "professor": "JOSE ANTONIO MACIAS GARCIA",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1
+        ],
+        "classroom": "Q208"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "6598",
+    "group": "2",
+    "professor": "CINTIA QUEZADA REYES",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2
+        ],
+        "classroom": "Q208"
+      }
+    ],
+    "professor_id": 75919
+  },
+  {
+    "code": "6598",
+    "group": "3",
+    "professor": "EDGAR MARTINEZ MEZA",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          2
+        ],
+        "classroom": "Q208"
+      }
+    ],
+    "professor_id": 73106
+  },
+  {
+    "code": "6598",
+    "group": "4",
+    "professor": "MARIA JAQUELINA LOPEZ BARRIENTOS",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          3
+        ],
+        "classroom": "Q208"
+      }
+    ],
+    "professor_id": 119470
+  },
+  {
+    "code": "6598",
+    "group": "5",
+    "professor": "FRANCISCO ADOLFO LOPEZ SUAREZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          3
+        ],
+        "classroom": "Q208"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "6598",
+    "group": "6",
+    "professor": "JAVIER LEON COTONIETO",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          3
+        ],
+        "classroom": "Q208"
+      }
+    ],
+    "professor_id": 172881
+  },
+  {
+    "code": "6598",
+    "group": "7",
+    "professor": "MARIA EUGENIA BAUTISTA GONZALEZ",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          4
+        ],
+        "classroom": "Q208"
+      }
+    ],
+    "professor_id": 173568
+  },
+  {
+    "code": "6598",
+    "group": "8",
+    "professor": "MARIA EUGENIA BAUTISTA GONZALEZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          4
+        ],
+        "classroom": "Q208"
+      }
+    ],
+    "professor_id": 173568
+  },
+  {
+    "code": "6598",
+    "group": "9",
+    "professor": "MARIA ALEJANDRA ZUÑIGA MEDEL",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          4
+        ],
+        "classroom": "Q208"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "6598",
+    "group": "10",
+    "professor": "JOSE ANTONIO MACIAS GARCIA",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          5
+        ],
+        "classroom": "Q208"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "6598",
+    "group": "11",
+    "professor": "MARIA EUGENIA BAUTISTA GONZALEZ",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          5
+        ],
+        "classroom": "Q208"
+      }
+    ],
+    "professor_id": 173568
+  }
+]

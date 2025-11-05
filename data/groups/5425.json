@@ -1,0 +1,62 @@
+[
+  {
+    "code": "5425",
+    "group": "1",
+    "professor": "LOURDES MARTINEZ LOPEZ",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1
+        ],
+        "classroom": "P211"
+      }
+    ],
+    "professor_id": 171587
+  },
+  {
+    "code": "5425",
+    "group": "2",
+    "professor": "LOURDES MARTINEZ LOPEZ",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2
+        ],
+        "classroom": "P211"
+      }
+    ],
+    "professor_id": 171587
+  },
+  {
+    "code": "5425",
+    "group": "3",
+    "professor": "ROSALBA MARTINEZ LOPEZ",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          4
+        ],
+        "classroom": "P211"
+      }
+    ],
+    "professor_id": 147881
+  },
+  {
+    "code": "5425",
+    "group": "4",
+    "professor": "GREGORIO RAYMUNDO ORTIZ MEJIA",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          6
+        ],
+        "classroom": "P211"
+      }
+    ],
+    "professor_id": null
+  }
+]

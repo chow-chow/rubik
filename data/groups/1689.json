@@ -1,0 +1,34 @@
+[
+  {
+    "code": "1689",
+    "group": "1",
+    "professor": "GRISELDA BERENICE HERNANDEZ CRUZ",
+    "schedules": [
+      {
+        "time": "10:00-13:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "A404"
+      }
+    ],
+    "professor_id": 91801
+  },
+  {
+    "code": "1689",
+    "group": "2",
+    "professor": "CLEMENCIA SANTOS CERQUERA",
+    "schedules": [
+      {
+        "time": "13:00-16:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "R030"
+      }
+    ],
+    "professor_id": 158439
+  }
+]

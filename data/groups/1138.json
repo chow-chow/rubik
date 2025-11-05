@@ -1,0 +1,88 @@
+[
+  {
+    "code": "1138",
+    "group": "1",
+    "professor": "VALENTINA LUISA SOUZA RODRIGUEZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "Q315"
+      }
+    ],
+    "professor_id": 134945
+  },
+  {
+    "code": "1138",
+    "group": "2",
+    "professor": "MAURICIO CORTES HERNANDEZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "Q315"
+      }
+    ],
+    "professor_id": 82975
+  },
+  {
+    "code": "1138",
+    "group": "3",
+    "professor": "HECTOR IVAN PADILLA ROJAS",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "Q315"
+      }
+    ],
+    "professor_id": 172905
+  },
+  {
+    "code": "1138",
+    "group": "4",
+    "professor": "MAURICIO ALBERTO ORTEGA RUIZ",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "Q315"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1138",
+    "group": "5",
+    "professor": "VALENTINA LUISA SOUZA RODRIGUEZ",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          5
+        ],
+        "classroom": "Q314"
+      },
+      {
+        "time": "11:00-13:00",
+        "days": [
+          3
+        ],
+        "classroom": "Q315"
+      }
+    ],
+    "professor_id": 134945
+  }
+]

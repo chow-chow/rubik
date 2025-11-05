@@ -1,0 +1,31 @@
+[
+  {
+    "code": "1887",
+    "group": "1",
+    "professor": "OSCAR DAVID ARROYO GARCIA",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "S003"
+      }
+    ]
+  },
+  {
+    "code": "1887",
+    "group": "2",
+    "professor": "DIANA RODRIGUEZ BRAVO",
+    "schedules": [
+      {
+        "time": "09:00-13:00",
+        "days": [
+          5
+        ],
+        "classroom": "S005"
+      }
+    ]
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "code": "3032",
+    "group": "1",
+    "professor": "LEONARDO EMMANUEL FLORES CORONA",
+    "schedules": [
+      {
+        "time": "19:00-20:30",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "A309"
+      }
+    ]
+  }
+]

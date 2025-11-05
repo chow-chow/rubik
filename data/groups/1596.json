@@ -1,0 +1,129 @@
+[
+  {
+    "code": "1596",
+    "group": "1",
+    "professor": "GREGORIO LUCIO PONCELIS GASCA",
+    "schedules": [
+      {
+        "time": "08:30-10:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "Y203"
+      }
+    ],
+    "professor_id": 90785
+  },
+  {
+    "code": "1596",
+    "group": "2",
+    "professor": "MARCOS TREJO HERNANDEZ",
+    "schedules": [
+      {
+        "time": "13:00-14:30",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "Y203"
+      }
+    ],
+    "professor_id": 71649
+  },
+  {
+    "code": "1596",
+    "group": "3",
+    "professor": "CARLOS NARCIA MORALES",
+    "schedules": [
+      {
+        "time": "14:30-16:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "A304"
+      }
+    ],
+    "professor_id": 61572
+  },
+  {
+    "code": "1596",
+    "group": "4",
+    "professor": "JORGE ISIDRO TERRAZAS Y DE ALLENDE",
+    "schedules": [
+      {
+        "time": "07:00-08:30",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A204"
+      }
+    ],
+    "professor_id": 171805
+  },
+  {
+    "code": "1596",
+    "group": "5",
+    "professor": "GUILLERMO LLANOS BONILLA",
+    "schedules": [
+      {
+        "time": "14:30-16:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A211"
+      }
+    ],
+    "professor_id": 107514
+  },
+  {
+    "code": "1596",
+    "group": "6",
+    "professor": "",
+    "schedules": [
+      {
+        "time": "14:30-16:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "SIN"
+      }
+    ]
+  },
+  {
+    "code": "1596",
+    "group": "7",
+    "professor": "JUAN JOSE ARRIAGA OCAÑA",
+    "schedules": [
+      {
+        "time": "16:00-17:30",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A308"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1596",
+    "group": "8",
+    "professor": "HERIBERTO ESQUIVEL CASTELLANOS",
+    "schedules": [
+      {
+        "time": "14:30-16:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "A207"
+      }
+    ],
+    "professor_id": 21650
+  }
+]

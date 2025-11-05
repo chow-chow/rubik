@@ -1,0 +1,24 @@
+[
+  {
+    "code": "2611",
+    "group": "1",
+    "professor": "CLAUDIA JULIETA ESPINOSA PEREZ",
+    "schedules": [
+      {
+        "time": "08:30-10:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "S005"
+      },
+      {
+        "time": "16:00-18:00",
+        "days": [
+          2
+        ],
+        "classroom": "EXTR"
+      }
+    ]
+  }
+]

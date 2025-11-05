@@ -1,0 +1,18 @@
+[
+  {
+    "code": "3012",
+    "group": "1",
+    "professor": "MARCO ANTONIO POLO LABARRIOS",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "B407"
+      }
+    ],
+    "professor_id": 147325
+  }
+]

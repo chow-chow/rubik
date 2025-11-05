@@ -1,0 +1,68 @@
+[
+  {
+    "code": "1442",
+    "group": "1",
+    "professor": "CESAR SANCHEZ ARRIAGA",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "A402"
+      }
+    ],
+    "professor_id": 133440
+  },
+  {
+    "code": "1442",
+    "group": "2",
+    "professor": "BERENICE ANELL MARTINEZ CABAÑAS",
+    "schedules": [
+      {
+        "time": "11:00-14:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "D007"
+      }
+    ],
+    "professor_id": 135138
+  },
+  {
+    "code": "1442",
+    "group": "3",
+    "professor": "EFRAIN GARCIA ACEVEDO",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "C401"
+      }
+    ],
+    "professor_id": 114618
+  },
+  {
+    "code": "1442",
+    "group": "4",
+    "professor": "",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1,
+          2,
+          4
+        ],
+        "classroom": "Y103"
+      }
+    ]
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "code": "1677",
+    "group": "1",
+    "professor": "",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "C302"
+      }
+    ]
+  },
+  {
+    "code": "1677",
+    "group": "2",
+    "professor": "MARIA DEL MAR ALMAZAN LOPEZ",
+    "schedules": [
+      {
+        "time": "10:00-13:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "C302"
+      }
+    ]
+  }
+]

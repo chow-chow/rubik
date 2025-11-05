@@ -1,0 +1,64 @@
+[
+  {
+    "code": "2805",
+    "group": "1",
+    "professor": "MIGUEL ANGEL ROJAS GARCIA",
+    "schedules": [
+      {
+        "time": "09:00-13:00",
+        "days": [
+          6
+        ],
+        "classroom": "B202"
+      }
+    ],
+    "professor_id": 124035
+  },
+  {
+    "code": "2805",
+    "group": "2",
+    "professor": "ALFREDO NAVA RODRIGUEZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "O103"
+      }
+    ],
+    "professor_id": 153236
+  },
+  {
+    "code": "2805",
+    "group": "3",
+    "professor": "FRANCISCO LOPEZ RIVAS",
+    "schedules": [
+      {
+        "time": "09:00-13:00",
+        "days": [
+          6
+        ],
+        "classroom": "B301"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "2805",
+    "group": "4",
+    "professor": "ALEJANDRO SUAREZ HERRERA",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "B104"
+      }
+    ],
+    "professor_id": null
+  }
+]

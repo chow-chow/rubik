@@ -1,0 +1,17 @@
+[
+  {
+    "code": "1060",
+    "group": "1",
+    "professor": "ANDREA PAOLA DORADO DIAZ",
+    "schedules": [
+      {
+        "time": "11:00-15:00",
+        "days": [
+          5
+        ],
+        "classroom": "D001"
+      }
+    ],
+    "professor_id": 105123
+  }
+]

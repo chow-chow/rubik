@@ -1,0 +1,336 @@
+[
+  {
+    "code": "1055",
+    "group": "1",
+    "professor": "VICTOR MANUEL ESQUIVEL ALVA",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "B203"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1055",
+    "group": "2",
+    "professor": "JESUS PEREZ ESQUIVEL",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A104"
+      }
+    ],
+    "professor_id": 78031
+  },
+  {
+    "code": "1055",
+    "group": "3",
+    "professor": "PABLO GARCIA Y COLOME",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A108"
+      }
+    ],
+    "professor_id": 27999
+  },
+  {
+    "code": "1055",
+    "group": "4",
+    "professor": "MARIA EUGENIA FERNANDEZ QUINTERO",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A103"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1055",
+    "group": "5",
+    "professor": "MARIA DE GUADALUPE FLOR DIAZ DE LEON FERNANDEZ DE CASTRO",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "B203"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1055",
+    "group": "6",
+    "professor": "VICTORIA RAMIRO ESTEBAN",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "A108"
+      }
+    ],
+    "professor_id": 80225
+  },
+  {
+    "code": "1055",
+    "group": "7",
+    "professor": "MARIA DEL PILAR CARRILLO FARGA",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "A103"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1055",
+    "group": "8",
+    "professor": "JESUS PEREZ ESQUIVEL",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A108"
+      }
+    ],
+    "professor_id": 78031
+  },
+  {
+    "code": "1055",
+    "group": "9",
+    "professor": "MARGARITA PUEBLA CADENA",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "A102"
+      }
+    ],
+    "professor_id": 36978
+  },
+  {
+    "code": "1055",
+    "group": "10",
+    "professor": "VICTORIA RAMIRO ESTEBAN",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "A108"
+      }
+    ],
+    "professor_id": 80225
+  },
+  {
+    "code": "1055",
+    "group": "11",
+    "professor": "MTRA MARIA CUAIRAN RUIDIAZ",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "A101"
+      }
+    ],
+    "professor_id": 78509
+  },
+  {
+    "code": "1055",
+    "group": "12",
+    "professor": "ADRIANA CONTRERAS GARCÍA",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A105"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1055",
+    "group": "13",
+    "professor": "TEHNY CAROLINA RUIZ PRIMO MARTINEZ",
+    "schedules": [
+      {
+        "time": "11:00-15:00",
+        "days": [
+          5
+        ],
+        "classroom": "A102"
+      }
+    ],
+    "professor_id": 67966
+  },
+  {
+    "code": "1055",
+    "group": "14",
+    "professor": "ANA LUISA ALBERRO LIZON",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A102"
+      }
+    ],
+    "professor_id": 64967
+  },
+  {
+    "code": "1055",
+    "group": "15",
+    "professor": "MAYRA CASAR ACOSTA",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "A108"
+      }
+    ],
+    "professor_id": 183488
+  },
+  {
+    "code": "1055",
+    "group": "16",
+    "professor": "MTRO JULIO ENRIQUE GORDILLO TORRES",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1,
+          5
+        ],
+        "classroom": "A102"
+      }
+    ],
+    "professor_id": 61268
+  },
+  {
+    "code": "1055",
+    "group": "17",
+    "professor": "LIC ANA YANTZIN PEREZ CORTES",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A101"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1055",
+    "group": "18",
+    "professor": "MTRO JULIO ENRIQUE GORDILLO TORRES",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "B203"
+      }
+    ],
+    "professor_id": 61268
+  },
+  {
+    "code": "1055",
+    "group": "19",
+    "professor": "TEHNY CAROLINA RUIZ PRIMO MARTINEZ",
+    "schedules": [
+      {
+        "time": "15:00-19:00",
+        "days": [
+          5
+        ],
+        "classroom": "A104"
+      }
+    ],
+    "professor_id": 67966
+  },
+  {
+    "code": "1055",
+    "group": "20",
+    "professor": "LIC ANA YANTZIN PEREZ CORTES",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A102"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1055",
+    "group": "22",
+    "professor": "ANTONIO DE JESUS CASTRO RANGEL",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A101"
+      }
+    ],
+    "professor_id": 87088
+  }
+]

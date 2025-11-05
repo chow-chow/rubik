@@ -1,0 +1,18 @@
+[
+  {
+    "code": "1453",
+    "group": "1",
+    "professor": "MANDUJANO WILD",
+    "schedules": [
+      {
+        "time": "07:00-08:30",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "B103"
+      }
+    ],
+    "professor_id": 85850
+  }
+]

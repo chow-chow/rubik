@@ -1,0 +1,84 @@
+[
+  {
+    "code": "1822",
+    "group": "1",
+    "professor": "LAURO SANTIAGO CRUZ",
+    "schedules": [
+      {
+        "time": "07:00-08:20",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "B205"
+      }
+    ],
+    "professor_id": 104675
+  },
+  {
+    "code": "1822",
+    "group": "2",
+    "professor": "JESUS ALVAREZ CASTILLO",
+    "schedules": [
+      {
+        "time": "13:00-14:20",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "B305"
+      }
+    ],
+    "professor_id": 95201
+  },
+  {
+    "code": "1822",
+    "group": "3",
+    "professor": "FRANCISCO JAVIER MARTINEZ RODRIGUEZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "B101"
+      }
+    ],
+    "professor_id": 99064
+  },
+  {
+    "code": "1822",
+    "group": "4",
+    "professor": "ELISEO DIAZ NACAR",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "D004"
+      }
+    ],
+    "professor_id": 86746
+  },
+  {
+    "code": "1822",
+    "group": "5",
+    "professor": "SALVADOR EMILIO SIERRA BENAVIDEZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "B305"
+      }
+    ],
+    "professor_id": null
+  }
+]

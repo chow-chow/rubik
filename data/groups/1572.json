@@ -1,0 +1,50 @@
+[
+  {
+    "code": "1572",
+    "group": "1",
+    "professor": "ALBERTO VASQUEZ SERRANO",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "C204"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1572",
+    "group": "2",
+    "professor": "RICARDO JOSE PADILLA Y SANCHEZ",
+    "schedules": [
+      {
+        "time": "16:00-18:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "C304"
+      }
+    ],
+    "professor_id": 104921
+  },
+  {
+    "code": "1572",
+    "group": "3",
+    "professor": "MARCO ALBAN ALBARRAN SANTOS",
+    "schedules": [
+      {
+        "time": "08:00-10:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "J200"
+      }
+    ],
+    "professor_id": null
+  }
+]

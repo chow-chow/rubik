@@ -1,0 +1,182 @@
+[
+  {
+    "code": "6998",
+    "group": "1",
+    "professor": "ALBERTO CORTEZ MONDRAGON",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1
+        ],
+        "classroom": "DS06"
+      }
+    ],
+    "professor_id": 109197
+  },
+  {
+    "code": "6998",
+    "group": "2",
+    "professor": "NESTOR MANUEL RIVERA HERNANDEZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1
+        ],
+        "classroom": "DS06"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "6998",
+    "group": "3",
+    "professor": "NESTOR GONZALEZ CABRERA",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2
+        ],
+        "classroom": "DS06"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "6998",
+    "group": "5",
+    "professor": "RUBEN TAPIA OLVERA",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          3
+        ],
+        "classroom": "DS06"
+      }
+    ],
+    "professor_id": 95192
+  },
+  {
+    "code": "6998",
+    "group": "6",
+    "professor": "IVAN URZUA ROSAS",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          3
+        ],
+        "classroom": "DS06"
+      }
+    ],
+    "professor_id": 99549
+  },
+  {
+    "code": "6998",
+    "group": "7",
+    "professor": "JOSE ARMANDO PLUMA ROSALES",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          4
+        ],
+        "classroom": "DS06"
+      }
+    ],
+    "professor_id": 99548
+  },
+  {
+    "code": "6998",
+    "group": "8",
+    "professor": "JOSE ARMANDO PLUMA ROSALES",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          4
+        ],
+        "classroom": "DS06"
+      }
+    ],
+    "professor_id": 99548
+  },
+  {
+    "code": "6998",
+    "group": "9",
+    "professor": "JOSE ARMANDO PLUMA ROSALES",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          4
+        ],
+        "classroom": "DS06"
+      }
+    ],
+    "professor_id": 99548
+  },
+  {
+    "code": "6998",
+    "group": "10",
+    "professor": "IVAN URZUA ROSAS",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          5
+        ],
+        "classroom": "DS06"
+      }
+    ],
+    "professor_id": 99549
+  },
+  {
+    "code": "6998",
+    "group": "11",
+    "professor": "IVAN URZUA ROSAS",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          5
+        ],
+        "classroom": "DS06"
+      }
+    ],
+    "professor_id": 99549
+  },
+  {
+    "code": "6998",
+    "group": "12",
+    "professor": "ALEJANDRO BAEZ MUÑOZ",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1
+        ],
+        "classroom": "DS06"
+      }
+    ],
+    "professor_id": 118946
+  },
+  {
+    "code": "6998",
+    "group": "13",
+    "professor": "ALEJANDRO BAEZ MUÑOZ",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          3
+        ],
+        "classroom": "DS06"
+      }
+    ],
+    "professor_id": 118946
+  }
+]

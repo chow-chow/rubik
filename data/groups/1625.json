@@ -1,0 +1,34 @@
+[
+  {
+    "code": "1625",
+    "group": "1",
+    "professor": "HECTOR MANUEL TORRES DOMINGUEZ",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "C106"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1625",
+    "group": "2",
+    "professor": "RICARDO ALFARO FUENTES",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A401"
+      }
+    ],
+    "professor_id": 76875
+  }
+]

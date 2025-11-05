@@ -1,0 +1,48 @@
+[
+  {
+    "code": "2094",
+    "group": "1",
+    "professor": "MAURICIO BUENDIA MILLAN",
+    "schedules": [
+      {
+        "time": "14:00-16:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "C401"
+      },
+      {
+        "time": "16:00-17:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "C401"
+      }
+    ]
+  },
+  {
+    "code": "2094",
+    "group": "2",
+    "professor": "MAURICIO BUENDIA MILLAN",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "C401"
+      },
+      {
+        "time": "17:00-18:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "C401"
+      }
+    ]
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "code": "2082",
+    "group": "1",
+    "professor": "ROSA MARIA PROL LEDESMA",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "EXTR"
+      }
+    ]
+  }
+]

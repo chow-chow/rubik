@@ -1,0 +1,17 @@
+[
+  {
+    "code": "1854",
+    "group": "1",
+    "professor": "ERIK MARQUEZ GARCIA",
+    "schedules": [
+      {
+        "time": "16:00-19:00",
+        "days": [
+          5
+        ],
+        "classroom": "A210"
+      }
+    ],
+    "professor_id": 142005
+  }
+]

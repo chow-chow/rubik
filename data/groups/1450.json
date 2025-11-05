@@ -1,0 +1,62 @@
+[
+  {
+    "code": "1450",
+    "group": "1",
+    "professor": "ANTONIA DEL CARMEN PEREZ LEON",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2
+        ],
+        "classroom": "I306"
+      }
+    ],
+    "professor_id": 58911
+  },
+  {
+    "code": "1450",
+    "group": "2",
+    "professor": "MIGUEL ANGEL JAIME VASCONCELOS",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          4
+        ],
+        "classroom": "J109"
+      }
+    ],
+    "professor_id": 42088
+  },
+  {
+    "code": "1450",
+    "group": "3",
+    "professor": "SUSANA ABURTO MEJIA",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          3
+        ],
+        "classroom": "J106"
+      }
+    ],
+    "professor_id": 181455
+  },
+  {
+    "code": "1450",
+    "group": "4",
+    "professor": "ARIANEE SAINZ VIDAL",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1
+        ],
+        "classroom": "I306"
+      }
+    ],
+    "professor_id": null
+  }
+]

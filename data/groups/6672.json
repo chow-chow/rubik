@@ -1,0 +1,152 @@
+[
+  {
+    "code": "6672",
+    "group": "1",
+    "professor": "MOISES MELENDEZ REYES",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1
+        ],
+        "classroom": "Q209"
+      }
+    ],
+    "professor_id": 134609
+  },
+  {
+    "code": "6672",
+    "group": "2",
+    "professor": "MOISES MELENDEZ REYES",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1
+        ],
+        "classroom": "Q209"
+      }
+    ],
+    "professor_id": 134609
+  },
+  {
+    "code": "6672",
+    "group": "3",
+    "professor": "DIANA CRUZ HERNANDEZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2
+        ],
+        "classroom": "Q209"
+      }
+    ],
+    "professor_id": 94396
+  },
+  {
+    "code": "6672",
+    "group": "4",
+    "professor": "RUBEN ANAYA GARCIA",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2
+        ],
+        "classroom": "Q209"
+      }
+    ],
+    "professor_id": 94395
+  },
+  {
+    "code": "6672",
+    "group": "5",
+    "professor": "LOURDES ANGELICA QUIÑONES JUAREZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          3
+        ],
+        "classroom": "Q209"
+      }
+    ],
+    "professor_id": 124037
+  },
+  {
+    "code": "6672",
+    "group": "6",
+    "professor": "MOISES MELENDEZ REYES",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          3
+        ],
+        "classroom": "Q209"
+      }
+    ],
+    "professor_id": 134609
+  },
+  {
+    "code": "6672",
+    "group": "7",
+    "professor": "LOURDES ANGELICA QUIÑONES JUAREZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          4
+        ],
+        "classroom": "Q209"
+      }
+    ],
+    "professor_id": 124037
+  },
+  {
+    "code": "6672",
+    "group": "8",
+    "professor": "RUBEN ANAYA GARCIA",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          4
+        ],
+        "classroom": "Q209"
+      }
+    ],
+    "professor_id": 94395
+  },
+  {
+    "code": "6672",
+    "group": "9",
+    "professor": "ROMAN VICTORIANO OSORIO COMPARAN",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          5
+        ],
+        "classroom": "Q209"
+      }
+    ],
+    "professor_id": 108136
+  },
+  {
+    "code": "6672",
+    "group": "10",
+    "professor": "ROMAN VICTORIANO OSORIO COMPARAN",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          5
+        ],
+        "classroom": "Q209"
+      }
+    ],
+    "professor_id": 108136
+  }
+]

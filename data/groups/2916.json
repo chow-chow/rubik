@@ -1,0 +1,66 @@
+[
+  {
+    "code": "2916",
+    "group": "1",
+    "professor": "FRANCISCO LOPEZ RIVAS",
+    "schedules": [
+      {
+        "time": "07:00-08:30",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "DS11"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "2916",
+    "group": "2",
+    "professor": "SERGIO MACUIL ROBLES",
+    "schedules": [
+      {
+        "time": "07:00-08:30",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A106"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "2916",
+    "group": "3",
+    "professor": "JOSE JESUS ACOSTA FLORES",
+    "schedules": [
+      {
+        "time": "11:30-13:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "U306"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "2916",
+    "group": "4",
+    "professor": "JESUS ANTONIO CONTRERAS RAMIREZ",
+    "schedules": [
+      {
+        "time": "16:00-17:30",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A106"
+      }
+    ],
+    "professor_id": 118842
+  }
+]

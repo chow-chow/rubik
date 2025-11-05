@@ -1,0 +1,34 @@
+[
+  {
+    "code": "1010",
+    "group": "1",
+    "professor": "SAUL DE LA ROSA NIEVES",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "P318"
+      }
+    ],
+    "professor_id": 86735
+  },
+  {
+    "code": "1010",
+    "group": "2",
+    "professor": "BEATRIZ ESLAVA ARELLANES",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "B306"
+      }
+    ],
+    "professor_id": 99861
+  }
+]

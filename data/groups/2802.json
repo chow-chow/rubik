@@ -1,0 +1,24 @@
+[
+  {
+    "code": "2802",
+    "group": "1",
+    "professor": "OSCAR GARCIA ARANDA",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          3
+        ],
+        "classroom": "N005"
+      },
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1
+        ],
+        "classroom": "O101"
+      }
+    ],
+    "professor_id": 159597
+  }
+]

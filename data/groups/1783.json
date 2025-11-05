@@ -1,0 +1,18 @@
+[
+  {
+    "code": "1783",
+    "group": "1",
+    "professor": "LUIS ANTONIO AGUILAR PEREZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "X101"
+      }
+    ],
+    "professor_id": 114209
+  }
+]

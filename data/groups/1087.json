@@ -1,0 +1,33 @@
+[
+  {
+    "code": "1087",
+    "group": "1",
+    "professor": "VICTORIANO ANGUIS TERRAZAS",
+    "schedules": [
+      {
+        "time": "11:00-15:00",
+        "days": [
+          6
+        ],
+        "classroom": "B105"
+      }
+    ],
+    "professor_id": 80615
+  },
+  {
+    "code": "1087",
+    "group": "2",
+    "professor": "HAZEL EDITH BOND YAÑEZVer Nota 1",
+    "schedules": [
+      {
+        "time": "18:00-20:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "B202"
+      }
+    ],
+    "professor_id": null
+  }
+]

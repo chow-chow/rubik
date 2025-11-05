@@ -1,0 +1,54 @@
+[
+  {
+    "code": "1778",
+    "group": "1",
+    "professor": "LUIS ANTONIO AGUILAR PEREZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1
+        ],
+        "classroom": "DS11"
+      },
+      {
+        "time": "09:00-11:00",
+        "days": [
+          3
+        ],
+        "classroom": "O101"
+      },
+      {
+        "time": "09:00-11:00",
+        "days": [
+          5
+        ],
+        "classroom": "X101"
+      }
+    ],
+    "professor_id": 114209
+  },
+  {
+    "code": "1778",
+    "group": "2",
+    "professor": "LAZARO MORALES ACOSTA",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "X101"
+      },
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1
+        ],
+        "classroom": "X101"
+      }
+    ],
+    "professor_id": 59794
+  }
+]

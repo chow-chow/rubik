@@ -1,0 +1,48 @@
+[
+  {
+    "code": "1457",
+    "group": "1",
+    "professor": "ROBERTO ASCENCIO VILLAGOMEZ",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "C202"
+      },
+      {
+        "time": "12:00-15:00",
+        "days": [
+          5
+        ],
+        "classroom": "SIN"
+      }
+    ],
+    "professor_id": 141820
+  },
+  {
+    "code": "1457",
+    "group": "2",
+    "professor": "JORGE PERALTA ENRIQUEZ",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "C106"
+      },
+      {
+        "time": "09:00-12:00",
+        "days": [
+          6
+        ],
+        "classroom": "SIN"
+      }
+    ],
+    "professor_id": null
+  }
+]

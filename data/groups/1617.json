@@ -1,0 +1,146 @@
+[
+  {
+    "code": "1617",
+    "group": "1",
+    "professor": "MANDUJANO WILD",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "B103"
+      }
+    ],
+    "professor_id": 85850
+  },
+  {
+    "code": "1617",
+    "group": "2",
+    "professor": "PEDRO ACEVEDO CONTLA",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "B401"
+      }
+    ],
+    "professor_id": 16919
+  },
+  {
+    "code": "1617",
+    "group": "3",
+    "professor": "VICENTE FLORES OLVERA",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "B205"
+      }
+    ],
+    "professor_id": 65407
+  },
+  {
+    "code": "1617",
+    "group": "4",
+    "professor": "MARIA DEL SOCORRO GUEVARA RODRIGUEZ",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "B305"
+      }
+    ],
+    "professor_id": 78454
+  },
+  {
+    "code": "1617",
+    "group": "5",
+    "professor": "JOSE MIGUEL MARTINEZ ALCARAZ",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "B205"
+      }
+    ],
+    "professor_id": 79240
+  },
+  {
+    "code": "1617",
+    "group": "6",
+    "professor": "BEATRIZ ESLAVA ARELLANES",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "Y001"
+      }
+    ],
+    "professor_id": 99861
+  },
+  {
+    "code": "1617",
+    "group": "7",
+    "professor": "ALEJANDRO SOSA FUENTES",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "B305"
+      }
+    ],
+    "professor_id": 71693
+  },
+  {
+    "code": "1617",
+    "group": "8",
+    "professor": "RICARDO MOTA MARZANO",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A306"
+      }
+    ],
+    "professor_id": 112523
+  },
+  {
+    "code": "1617",
+    "group": "9",
+    "professor": "REBECA MUÑOZ MELAMED",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "Q102"
+      }
+    ],
+    "professor_id": 173140
+  }
+]

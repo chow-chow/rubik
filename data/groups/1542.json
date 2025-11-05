@@ -1,0 +1,46 @@
+[
+  {
+    "code": "1542",
+    "group": "1",
+    "professor": "JOSE LUIS JIMENEZ MENDOZA",
+    "schedules": [
+      {
+        "time": "11:30-13:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "R031"
+      },
+      {
+        "time": "11:30-13:30",
+        "days": [
+          5
+        ],
+        "classroom": "R031"
+      }
+    ]
+  },
+  {
+    "code": "1542",
+    "group": "2",
+    "professor": "JOSE LUIS JIMENEZ MENDOZA",
+    "schedules": [
+      {
+        "time": "16:00-17:30",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "A405"
+      },
+      {
+        "time": "16:00-18:00",
+        "days": [
+          5
+        ],
+        "classroom": "A405"
+      }
+    ]
+  }
+]

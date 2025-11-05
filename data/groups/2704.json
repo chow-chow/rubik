@@ -1,0 +1,17 @@
+[
+  {
+    "code": "2704",
+    "group": "1",
+    "professor": "VICTOR GARCIA GARDUÑO",
+    "schedules": [
+      {
+        "time": "09:15-10:45",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "B102"
+      }
+    ]
+  }
+]

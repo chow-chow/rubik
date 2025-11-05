@@ -1,0 +1,17 @@
+[
+  {
+    "code": "1028",
+    "group": "1",
+    "professor": "JONATAN ARREOLA MANZANO",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "D007"
+      }
+    ]
+  }
+]

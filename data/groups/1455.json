@@ -1,0 +1,25 @@
+[
+  {
+    "code": "1455",
+    "group": "1",
+    "professor": "MARIA GUADALUPE CONTRERAS ORDAZ",
+    "schedules": [
+      {
+        "time": "10:00-12:00",
+        "days": [
+          1
+        ],
+        "classroom": "SIN"
+      },
+      {
+        "time": "10:00-12:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "SIN"
+      }
+    ],
+    "professor_id": 141818
+  }
+]

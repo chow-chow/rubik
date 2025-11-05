@@ -1,0 +1,47 @@
+[
+  {
+    "code": "1861",
+    "group": "1",
+    "professor": "RAMON EDGARDO DOMINGUEZ BETANCOURT",
+    "schedules": [
+      {
+        "time": "07:00-10:00",
+        "days": [
+          5
+        ],
+        "classroom": "C401"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1861",
+    "group": "2",
+    "professor": "VICTORIANO ANGUIS TERRAZAS",
+    "schedules": [
+      {
+        "time": "07:50-10:50",
+        "days": [
+          6
+        ],
+        "classroom": "B105"
+      }
+    ],
+    "professor_id": 80615
+  },
+  {
+    "code": "1861",
+    "group": "3",
+    "professor": "FRANCISCO JAVIER ZAVALA MIRANDA",
+    "schedules": [
+      {
+        "time": "07:00-10:00",
+        "days": [
+          6
+        ],
+        "classroom": "Y103"
+      }
+    ],
+    "professor_id": null
+  }
+]

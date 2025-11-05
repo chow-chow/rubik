@@ -1,0 +1,18 @@
+[
+  {
+    "code": "1652",
+    "group": "1",
+    "professor": "ROBERTO ASCENCIO VILLAGOMEZ",
+    "schedules": [
+      {
+        "time": "15:00-18:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "R005"
+      }
+    ],
+    "professor_id": 141820
+  }
+]

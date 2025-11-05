@@ -1,0 +1,17 @@
+[
+  {
+    "code": "2701",
+    "group": "1",
+    "professor": "ISRAEL ORTEGA CASILLAS",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "C104"
+      }
+    ]
+  }
+]

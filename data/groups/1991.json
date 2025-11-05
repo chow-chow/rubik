@@ -1,0 +1,49 @@
+[
+  {
+    "code": "1991",
+    "group": "1",
+    "professor": "JOSE ANGEL GOMEZ CABRERA",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "D008"
+      }
+    ],
+    "professor_id": 162271
+  },
+  {
+    "code": "1991",
+    "group": "2",
+    "professor": "OSWALDO DAVID LOPEZ HERNANDEZ",
+    "schedules": [
+      {
+        "time": "07:00-11:00",
+        "days": [
+          6
+        ],
+        "classroom": "C202"
+      }
+    ],
+    "professor_id": 133811
+  },
+  {
+    "code": "1991",
+    "group": "3",
+    "professor": "GILBERTO SEBASTIAN BARRERA",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "Y103"
+      }
+    ],
+    "professor_id": 111901
+  }
+]

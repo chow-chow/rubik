@@ -1,0 +1,30 @@
+[
+  {
+    "code": "5636",
+    "group": "1",
+    "professor": "JOSE DE JESUS OLIVARES LEYVA",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1
+        ],
+        "classroom": "DS06"
+      }
+    ]
+  },
+  {
+    "code": "5636",
+    "group": "2",
+    "professor": "JOSE DE JESUS OLIVARES LEYVA",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          3
+        ],
+        "classroom": "DS06"
+      }
+    ]
+  }
+]

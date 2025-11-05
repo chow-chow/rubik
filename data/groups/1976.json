@@ -1,0 +1,135 @@
+[
+  {
+    "code": "1976",
+    "group": "1",
+    "professor": "MÉD FANNY ALVARADO CHAVEZ",
+    "schedules": [
+      {
+        "time": "09:00-10:00",
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "classroom": "EXTR"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1976",
+    "group": "2",
+    "professor": "MÉD EDNA SANTA RANGEL RANGEL",
+    "schedules": [
+      {
+        "time": "09:00-10:00",
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "classroom": "EXTR"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1976",
+    "group": "3",
+    "professor": "LIZETH AVILA GUTIERREZ",
+    "schedules": [
+      {
+        "time": "09:00-10:00",
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "classroom": "EXTR"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1976",
+    "group": "4",
+    "professor": "TOMAS EFRAIN SANCHEZ PEREZ",
+    "schedules": [
+      {
+        "time": "09:00-10:00",
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "classroom": "EXTR"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1976",
+    "group": "5",
+    "professor": "JOSE DE JESUS ACEVES BUENDIA",
+    "schedules": [
+      {
+        "time": "09:00-10:00",
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "classroom": "EXTR"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1976",
+    "group": "6",
+    "professor": "ELIZABETH ORENCIO LIZARDI",
+    "schedules": [
+      {
+        "time": "09:00-10:00",
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "classroom": "EXTR"
+      }
+    ],
+    "professor_id": 154334
+  },
+  {
+    "code": "1976",
+    "group": "7",
+    "professor": "SERAFIN CASTAÑEDA CEDEÑO",
+    "schedules": [
+      {
+        "time": "08:00-09:00",
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "classroom": "EXTR"
+      }
+    ],
+    "professor_id": 109270
+  }
+]

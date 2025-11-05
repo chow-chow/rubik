@@ -1,0 +1,18 @@
+[
+  {
+    "code": "1115",
+    "group": "1",
+    "professor": "MARIO ROMAN SILLER GARCIA",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "C403"
+      }
+    ],
+    "professor_id": 99243
+  }
+]

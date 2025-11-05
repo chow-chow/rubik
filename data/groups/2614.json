@@ -1,0 +1,32 @@
+[
+  {
+    "code": "2614",
+    "group": "1",
+    "professor": "JONATHAN HERNANDEZ GARCIA",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "Y204"
+      }
+    ]
+  },
+  {
+    "code": "2614",
+    "group": "2",
+    "professor": "FABIAN PALACIOS CARBAJAL",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A303"
+      }
+    ]
+  }
+]

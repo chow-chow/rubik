@@ -1,0 +1,17 @@
+[
+  {
+    "code": "2976",
+    "group": "1",
+    "professor": "JOSE GUILLERMO GONZAGA SANCHEZ",
+    "schedules": [
+      {
+        "time": "17:30-19:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "R237"
+      }
+    ]
+  }
+]

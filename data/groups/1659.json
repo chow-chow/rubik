@@ -1,0 +1,82 @@
+[
+  {
+    "code": "1659",
+    "group": "1",
+    "professor": "JOSE ANTONIO SILVA RICO",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "B201"
+      }
+    ],
+    "professor_id": 108443
+  },
+  {
+    "code": "1659",
+    "group": "2",
+    "professor": "FRANCISCO CUENCA JIMENEZ",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "B105"
+      }
+    ],
+    "professor_id": 74731
+  },
+  {
+    "code": "1659",
+    "group": "3",
+    "professor": "ROGELIO DARIO GUTIERREZ CARRILLO",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "O103"
+      }
+    ],
+    "professor_id": 124462
+  },
+  {
+    "code": "1659",
+    "group": "4",
+    "professor": "RICARDO YAÑEZ VALDEZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "B302"
+      }
+    ],
+    "professor_id": 105090
+  },
+  {
+    "code": "1659",
+    "group": "5",
+    "professor": "EPIFANIO VARGAS ALCARAZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "B303"
+      }
+    ],
+    "professor_id": 95428
+  }
+]

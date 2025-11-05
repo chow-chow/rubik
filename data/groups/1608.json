@@ -1,0 +1,82 @@
+[
+  {
+    "code": "1608",
+    "group": "1",
+    "professor": "PEDRO LUIS BARRERA DEL CAMPO OLAVARRIETA",
+    "schedules": [
+      {
+        "time": "07:00-08:30",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "Y203"
+      }
+    ],
+    "professor_id": 141799
+  },
+  {
+    "code": "1608",
+    "group": "2",
+    "professor": "PEDRO LUIS BARRERA DEL CAMPO OLAVARRIETA",
+    "schedules": [
+      {
+        "time": "08:30-10:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "Y203"
+      }
+    ],
+    "professor_id": 141799
+  },
+  {
+    "code": "1608",
+    "group": "3",
+    "professor": "FRANCISCO ALVAREZ LEDESMA",
+    "schedules": [
+      {
+        "time": "10:00-11:30",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A304"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1608",
+    "group": "4",
+    "professor": "ENRIQUE GAVALDON ENCISO",
+    "schedules": [
+      {
+        "time": "11:30-13:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A208"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1608",
+    "group": "5",
+    "professor": "JUAN MIGUEL PASTEN MARTINEZ",
+    "schedules": [
+      {
+        "time": "16:00-17:30",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A208"
+      }
+    ],
+    "professor_id": null
+  }
+]

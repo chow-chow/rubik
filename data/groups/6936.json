@@ -1,0 +1,167 @@
+[
+  {
+    "code": "6936",
+    "group": "1",
+    "professor": "FERNANDO VALLEJO QUINTERO",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1
+        ],
+        "classroom": "DS06"
+      }
+    ],
+    "professor_id": 86743
+  },
+  {
+    "code": "6936",
+    "group": "2",
+    "professor": "ALBERTO CORTEZ MONDRAGON",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          1
+        ],
+        "classroom": "DS06"
+      }
+    ],
+    "professor_id": 109197
+  },
+  {
+    "code": "6936",
+    "group": "3",
+    "professor": "MANUEL ANTONIO CORONA SANCHEZ",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2
+        ],
+        "classroom": "DS06"
+      }
+    ],
+    "professor_id": 180779
+  },
+  {
+    "code": "6936",
+    "group": "5",
+    "professor": "GERARDO LOREDO LOPEZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          3
+        ],
+        "classroom": "DS06"
+      }
+    ],
+    "professor_id": 172325
+  },
+  {
+    "code": "6936",
+    "group": "6",
+    "professor": "GERARDO LOREDO LOPEZ",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          3
+        ],
+        "classroom": "DS06"
+      }
+    ],
+    "professor_id": 172325
+  },
+  {
+    "code": "6936",
+    "group": "7",
+    "professor": "ALBERTO CORTEZ MONDRAGON",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          3
+        ],
+        "classroom": "DS06"
+      }
+    ],
+    "professor_id": 109197
+  },
+  {
+    "code": "6936",
+    "group": "8",
+    "professor": "GERARDO LOREDO LOPEZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          4
+        ],
+        "classroom": "DS06"
+      }
+    ],
+    "professor_id": 172325
+  },
+  {
+    "code": "6936",
+    "group": "9",
+    "professor": "GERARDO LOREDO LOPEZ",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          4
+        ],
+        "classroom": "DS06"
+      }
+    ],
+    "professor_id": 172325
+  },
+  {
+    "code": "6936",
+    "group": "10",
+    "professor": "HUMBERTO MARTINEZ GARCIA",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          5
+        ],
+        "classroom": "DS06"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "6936",
+    "group": "11",
+    "professor": "HUMBERTO MARTINEZ GARCIA",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          5
+        ],
+        "classroom": "DS06"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "6936",
+    "group": "12",
+    "professor": "ALEJANDRO BAEZ MUÑOZ",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1
+        ],
+        "classroom": "DS06"
+      }
+    ],
+    "professor_id": 118946
+  }
+]

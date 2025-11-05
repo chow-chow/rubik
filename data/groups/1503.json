@@ -1,0 +1,114 @@
+[
+  {
+    "code": "1503",
+    "group": "1",
+    "professor": "JORGE FERAT TOSCANO",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "A206"
+      }
+    ],
+    "professor_id": 36956
+  },
+  {
+    "code": "1503",
+    "group": "2",
+    "professor": "LUIS SERGIO DURAN ARENAS",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "B304"
+      }
+    ],
+    "professor_id": 124016
+  },
+  {
+    "code": "1503",
+    "group": "3",
+    "professor": "ALBERTO NAVARRETE HERNANDEZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "B101"
+      }
+    ],
+    "professor_id": 104486
+  },
+  {
+    "code": "1503",
+    "group": "4",
+    "professor": "ABRAHAM PEREZ ALONZO",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "B103"
+      }
+    ],
+    "professor_id": 186596
+  },
+  {
+    "code": "1503",
+    "group": "5",
+    "professor": "ARIEL ADARA MERCADO MARTINEZ",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "B103"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1503",
+    "group": "6",
+    "professor": "PEDRO IGNACIO RINCON GOMEZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A201"
+      }
+    ],
+    "professor_id": 66377
+  },
+  {
+    "code": "1503",
+    "group": "7",
+    "professor": "MIGUEL ISRAEL BARRAGAN OCAMPO",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "DS01"
+      }
+    ],
+    "professor_id": 60536
+  }
+]

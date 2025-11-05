@@ -1,0 +1,17 @@
+[
+  {
+    "code": "2909",
+    "group": "1",
+    "professor": "GERARDO RENE ESPINOSA PEREZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A301"
+      }
+    ]
+  }
+]

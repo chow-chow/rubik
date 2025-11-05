@@ -1,0 +1,66 @@
+[
+  {
+    "code": "1438",
+    "group": "1",
+    "professor": "GILBERTO SILVA ROMO",
+    "schedules": [
+      {
+        "time": "10:00-12:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "C203"
+      }
+    ],
+    "professor_id": 78441
+  },
+  {
+    "code": "1438",
+    "group": "2",
+    "professor": "CLAUDIA CRISTINA MENDOZA ROSALES",
+    "schedules": [
+      {
+        "time": "16:00-18:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "C203"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1438",
+    "group": "3",
+    "professor": "HERMES MARTIN GARCIA RODRIGUEZ",
+    "schedules": [
+      {
+        "time": "16:00-18:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "C204"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1438",
+    "group": "4",
+    "professor": "RODRIGO GUTIERREZ NAVARRO",
+    "schedules": [
+      {
+        "time": "12:00-14:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "C203"
+      }
+    ],
+    "professor_id": null
+  }
+]

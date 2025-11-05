@@ -1,0 +1,17 @@
+[
+  {
+    "code": "8002",
+    "group": "1",
+    "professor": "DOMINGO TEODORO MENDOZA ROSALES",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          4
+        ],
+        "classroom": "Q107"
+      }
+    ],
+    "professor_id": 71346
+  }
+]

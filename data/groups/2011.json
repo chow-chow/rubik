@@ -1,0 +1,17 @@
+[
+  {
+    "code": "2011",
+    "group": "1",
+    "professor": "LUIS GUILLERMO UCHA GÓMEZ",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          2,
+          3
+        ],
+        "classroom": "B406"
+      }
+    ]
+  }
+]

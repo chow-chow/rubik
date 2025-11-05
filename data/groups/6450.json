@@ -1,0 +1,362 @@
+[
+  {
+    "code": "6450",
+    "group": "1",
+    "professor": "ROXANA ISELA NORIEGA NAVARRO",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          1
+        ],
+        "classroom": "H003"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "6450",
+    "group": "3",
+    "professor": "GIOVANNI ALDANA GUTIERREZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1
+        ],
+        "classroom": "H003"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "6450",
+    "group": "5",
+    "professor": "VIOLETA ALVAREZ VENICIO",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1
+        ],
+        "classroom": "H003"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "6450",
+    "group": "8",
+    "professor": "EDGAR HÉCTOR GUZMÁN CASTELLÓN",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1
+        ],
+        "classroom": "H003"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "6450",
+    "group": "10",
+    "professor": "ADRIANA RAMIREZ GONZALEZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1
+        ],
+        "classroom": "H004"
+      }
+    ],
+    "professor_id": 56526
+  },
+  {
+    "code": "6450",
+    "group": "11",
+    "professor": "THALIA ITZEL FERRERA VELAZQUEZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          4
+        ],
+        "classroom": "H003"
+      }
+    ],
+    "professor_id": 84707
+  },
+  {
+    "code": "6450",
+    "group": "12",
+    "professor": "ITZEL EDALIZ PEREZ CABALLERO",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1
+        ],
+        "classroom": "H004"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "6450",
+    "group": "14",
+    "professor": "GUILLERMO PEREZ QUINTERO",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2
+        ],
+        "classroom": "H004"
+      }
+    ],
+    "professor_id": 98612
+  },
+  {
+    "code": "6450",
+    "group": "15",
+    "professor": "VIANEY FRANCO GARCIA",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          5
+        ],
+        "classroom": "H003"
+      }
+    ],
+    "professor_id": 46452
+  },
+  {
+    "code": "6450",
+    "group": "16",
+    "professor": "EMMA MARTÍNEZ LUNA",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2
+        ],
+        "classroom": "H004"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "6450",
+    "group": "17",
+    "professor": "VIANEY FRANCO GARCIA",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          5
+        ],
+        "classroom": "H003"
+      }
+    ],
+    "professor_id": 46452
+  },
+  {
+    "code": "6450",
+    "group": "21",
+    "professor": "THALIA ITZEL FERRERA VELAZQUEZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2
+        ],
+        "classroom": "H003"
+      }
+    ],
+    "professor_id": 84707
+  },
+  {
+    "code": "6450",
+    "group": "23",
+    "professor": "MIGUEL ANGEL REYES BUSTAMANTE",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2
+        ],
+        "classroom": "H003"
+      }
+    ],
+    "professor_id": 84626
+  },
+  {
+    "code": "6450",
+    "group": "26",
+    "professor": "MIGUEL ANGEL REYES BUSTAMANTE",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          2
+        ],
+        "classroom": "H003"
+      }
+    ],
+    "professor_id": 84626
+  },
+  {
+    "code": "6450",
+    "group": "30",
+    "professor": "ANA LAURA PEREZ MARTINEZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          3
+        ],
+        "classroom": "H004"
+      }
+    ],
+    "professor_id": 51350
+  },
+  {
+    "code": "6450",
+    "group": "34",
+    "professor": "MARIA DE JESUS MUÑOZ ESPINAL",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          3
+        ],
+        "classroom": "H004"
+      }
+    ],
+    "professor_id": 85360
+  },
+  {
+    "code": "6450",
+    "group": "36",
+    "professor": "GEORGINA NIETO CASTAÑEDA",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          4
+        ],
+        "classroom": "H003"
+      }
+    ],
+    "professor_id": 142352
+  },
+  {
+    "code": "6450",
+    "group": "37",
+    "professor": "MARIA DE JESUS MUÑOZ ESPINAL",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          4
+        ],
+        "classroom": "H003"
+      }
+    ],
+    "professor_id": 85360
+  },
+  {
+    "code": "6450",
+    "group": "42",
+    "professor": "MIGUEL ALEJANDRO MALDONADO GORDILLO",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          4
+        ],
+        "classroom": "H004"
+      }
+    ],
+    "professor_id": 113918
+  },
+  {
+    "code": "6450",
+    "group": "43",
+    "professor": "MAYRA LEON SANTIAGO",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          5
+        ],
+        "classroom": "H004"
+      }
+    ],
+    "professor_id": 176747
+  },
+  {
+    "code": "6450",
+    "group": "46",
+    "professor": "EMMA MARTÍNEZ LUNA",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          5
+        ],
+        "classroom": "H004"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "6450",
+    "group": "47",
+    "professor": "MIGUEL ANGEL REYES BUSTAMANTE",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          5
+        ],
+        "classroom": "H003"
+      }
+    ],
+    "professor_id": 84626
+  },
+  {
+    "code": "6450",
+    "group": "49",
+    "professor": "LUIS PEÑA CRUZ",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          3
+        ],
+        "classroom": "H003"
+      }
+    ],
+    "professor_id": 128316
+  },
+  {
+    "code": "6450",
+    "group": "50",
+    "professor": "LUIS EDGARDO VIGUERAS RUEDA",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          5
+        ],
+        "classroom": "H003"
+      }
+    ],
+    "professor_id": null
+  }
+]

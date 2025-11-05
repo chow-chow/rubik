@@ -1,0 +1,47 @@
+[
+  {
+    "code": "7911",
+    "group": "1",
+    "professor": "IVAN DE JESUS OSIO CHAVEZ",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          1
+        ],
+        "classroom": "P113"
+      }
+    ],
+    "professor_id": 115270
+  },
+  {
+    "code": "7911",
+    "group": "2",
+    "professor": "AGUSTIN SANCHEZ CONTRERAS",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2
+        ],
+        "classroom": "P113"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "7911",
+    "group": "3",
+    "professor": "EDUARDO PEREZ CAMACHO",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          2
+        ],
+        "classroom": "P113"
+      }
+    ],
+    "professor_id": null
+  }
+]

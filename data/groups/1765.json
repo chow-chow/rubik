@@ -1,0 +1,17 @@
+[
+  {
+    "code": "1765",
+    "group": "1",
+    "professor": "CARLOS SAUCEDO MACIEL",
+    "schedules": [
+      {
+        "time": "17:00-20:00",
+        "days": [
+          5
+        ],
+        "classroom": "B101"
+      }
+    ],
+    "professor_id": 99770
+  }
+]

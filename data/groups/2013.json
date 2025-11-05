@@ -1,0 +1,17 @@
+[
+  {
+    "code": "2013",
+    "group": "1",
+    "professor": "JACOBO MEDINA GUTIERREZ",
+    "schedules": [
+      {
+        "time": "14:00-16:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "SIN"
+      }
+    ]
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "code": "3054",
+    "group": "1",
+    "professor": "CRISTIAN EMMANUEL GONZALEZ REYES",
+    "schedules": [
+      {
+        "time": "10:00-11:30",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A212"
+      }
+    ]
+  }
+]

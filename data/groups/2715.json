@@ -1,0 +1,68 @@
+[
+  {
+    "code": "2715",
+    "group": "1",
+    "professor": "JAVIER CORTES BENIGNO",
+    "schedules": [
+      {
+        "time": "16:00-17:30",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "B409"
+      }
+    ]
+  },
+  {
+    "code": "2715",
+    "group": "2",
+    "professor": "LUIS MANUEL CERVANTES MARCELINO",
+    "schedules": [
+      {
+        "time": "11:30-13:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "B409"
+      }
+    ]
+  },
+  {
+    "code": "2715",
+    "group": "3",
+    "professor": "CESAR ABRAHAM LUNA ESTRADAVer Nota 1",
+    "schedules": [
+      {
+        "time": "19:00-20:30",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "B409"
+      }
+    ]
+  },
+  {
+    "code": "2715",
+    "group": "4",
+    "professor": "LUIS MANUEL CERVANTES MARCELINO",
+    "schedules": [
+      {
+        "time": "13:00-14:30",
+        "days": [
+          5
+        ],
+        "classroom": "A203"
+      },
+      {
+        "time": "13:00-14:30",
+        "days": [
+          3
+        ],
+        "classroom": "J210"
+      }
+    ]
+  }
+]

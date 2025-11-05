@@ -1,0 +1,34 @@
+[
+  {
+    "code": "1440",
+    "group": "1",
+    "professor": "JOSMARK ALFREDO SANCHEZ GONZALEZ",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "J100"
+      }
+    ]
+  },
+  {
+    "code": "1440",
+    "group": "2",
+    "professor": "JOSMARK ALFREDO SANCHEZ GONZALEZ",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "J100"
+      }
+    ]
+  }
+]

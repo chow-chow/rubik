@@ -1,0 +1,18 @@
+[
+  {
+    "code": "1916",
+    "group": "1",
+    "professor": "BORIS ESCALANTE RAMIREZ",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "S227"
+      }
+    ],
+    "professor_id": 135064
+  }
+]

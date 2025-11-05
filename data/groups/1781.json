@@ -1,0 +1,25 @@
+[
+  {
+    "code": "1781",
+    "group": "1",
+    "professor": "CARLOS ALBERTO PALACIOS MORALES",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "O102"
+      },
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1
+        ],
+        "classroom": "X101"
+      }
+    ],
+    "professor_id": 70744
+  }
+]

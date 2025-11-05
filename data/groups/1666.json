@@ -1,0 +1,50 @@
+[
+  {
+    "code": "1666",
+    "group": "1",
+    "professor": "LUIS ALBERTO VAZQUEZ MAISON",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "D009"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1666",
+    "group": "2",
+    "professor": "MIRIAM SOSA DÍAZ",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "C402"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1666",
+    "group": "3",
+    "professor": "TEODORO IVAN GUERRERO SARABIA",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "C105"
+      }
+    ],
+    "professor_id": 78973
+  }
+]

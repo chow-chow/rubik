@@ -1,0 +1,212 @@
+[
+  {
+    "code": "1228",
+    "group": "1",
+    "professor": "EDUARDO FLORES RIVAS",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "I105"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1228",
+    "group": "2",
+    "professor": "FERNANDO SANCHEZ RODRIGUEZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "I104"
+      }
+    ],
+    "professor_id": 114184
+  },
+  {
+    "code": "1228",
+    "group": "3",
+    "professor": "RICARDO FERNANDO ABELA POSADA",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "I202"
+      }
+    ],
+    "professor_id": 104481
+  },
+  {
+    "code": "1228",
+    "group": "4",
+    "professor": "DIEGO ALBERTO ZAVALA GALICIA",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2,
+          3,
+          4
+        ],
+        "classroom": "I306"
+      }
+    ],
+    "professor_id": 66464
+  },
+  {
+    "code": "1228",
+    "group": "5",
+    "professor": "ABAN ALONSO MORENO AGUILAR",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "J103"
+      }
+    ],
+    "professor_id": 95313
+  },
+  {
+    "code": "1228",
+    "group": "6",
+    "professor": "ADRIANA ALARCON MUÑOZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "J202"
+      },
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1
+        ],
+        "classroom": "J203"
+      }
+    ],
+    "professor_id": 141997
+  },
+  {
+    "code": "1228",
+    "group": "7",
+    "professor": "JOSE LUIS VILLALOBOS PIÑERA",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2,
+          3,
+          4
+        ],
+        "classroom": "I304"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1228",
+    "group": "8",
+    "professor": "RICARDO ARTURO PINZON AGUIRRE",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "J111"
+      }
+    ],
+    "professor_id": 105197
+  },
+  {
+    "code": "1228",
+    "group": "9",
+    "professor": "GREGORIO PEREZ MIGUEL",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "J107"
+      }
+    ],
+    "professor_id": 44293
+  },
+  {
+    "code": "1228",
+    "group": "10",
+    "professor": "STEPHAN MARIO LOPEZ LOPEZ",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "J102"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1228",
+    "group": "11",
+    "professor": "ADRIANA LOPEZ ZAZUETA",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          2,
+          3,
+          4
+        ],
+        "classroom": "Y204"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1228",
+    "group": "12",
+    "professor": "JUAN OCARIZ CASTELAZO",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2,
+          3,
+          4
+        ],
+        "classroom": "J201"
+      }
+    ],
+    "professor_id": 22035
+  }
+]

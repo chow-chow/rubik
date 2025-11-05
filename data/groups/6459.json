@@ -1,0 +1,32 @@
+[
+  {
+    "code": "6459",
+    "group": "1",
+    "professor": "YONAHANDY MALFAVON RUIZ",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1
+        ],
+        "classroom": "Q315"
+      }
+    ],
+    "professor_id": 55853
+  },
+  {
+    "code": "6459",
+    "group": "2",
+    "professor": "MARGARITA BAUTISTA GONZALEZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          4
+        ],
+        "classroom": "Q315"
+      }
+    ],
+    "professor_id": 79762
+  }
+]

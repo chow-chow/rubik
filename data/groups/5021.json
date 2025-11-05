@@ -1,0 +1,62 @@
+[
+  {
+    "code": "5021",
+    "group": "1",
+    "professor": "VICENTE GUILLERMO LOPEZ FERNANDEZ",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          6
+        ],
+        "classroom": "DS07"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "5021",
+    "group": "2",
+    "professor": "SONIA LUISA LOPEZ MALDONADO",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          6
+        ],
+        "classroom": "DS07"
+      }
+    ],
+    "professor_id": 134971
+  },
+  {
+    "code": "5021",
+    "group": "3",
+    "professor": "OMAR RAFAEL RODRIGUEZ GUADARRAMA",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          4
+        ],
+        "classroom": "DS07"
+      }
+    ],
+    "professor_id": 93961
+  },
+  {
+    "code": "5021",
+    "group": "4",
+    "professor": "SANTIAGO VALENCIA CAÑOLA",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2
+        ],
+        "classroom": "DS07"
+      }
+    ],
+    "professor_id": null
+  }
+]

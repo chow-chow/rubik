@@ -1,0 +1,287 @@
+[
+  {
+    "code": "6999",
+    "group": "1",
+    "professor": "MANUEL ALEJANDRO CORDOBA MALDONADO",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          1
+        ],
+        "classroom": "Q316"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "6999",
+    "group": "2",
+    "professor": "NORMA REYES CRUZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1
+        ],
+        "classroom": "Q316"
+      }
+    ],
+    "professor_id": 141855
+  },
+  {
+    "code": "6999",
+    "group": "3",
+    "professor": "LUIS DIMITRI FLORES GOMEZ",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          1
+        ],
+        "classroom": "Q314"
+      }
+    ],
+    "professor_id": 23484
+  },
+  {
+    "code": "6999",
+    "group": "4",
+    "professor": "ANDREA ZENTELLA LEON",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2
+        ],
+        "classroom": "Q316"
+      }
+    ],
+    "professor_id": 142432
+  },
+  {
+    "code": "6999",
+    "group": "5",
+    "professor": "JOSE ALBERTO LOPEZ CERVANTES",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2
+        ],
+        "classroom": "Q314"
+      }
+    ],
+    "professor_id": 99903
+  },
+  {
+    "code": "6999",
+    "group": "6",
+    "professor": "ISMAEL ROMERO OCARANZA",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2
+        ],
+        "classroom": "Q314"
+      }
+    ],
+    "professor_id": 89949
+  },
+  {
+    "code": "6999",
+    "group": "7",
+    "professor": "LEONEL PEREZ BAUTISTA",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2
+        ],
+        "classroom": "Q316"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "6999",
+    "group": "8",
+    "professor": "ALBERTO ISRAEL HERRERA MARTINEZ",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          2
+        ],
+        "classroom": "Q316"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "6999",
+    "group": "9",
+    "professor": "FLORICEL RAMOS VARGAS",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          3
+        ],
+        "classroom": "Q314"
+      }
+    ],
+    "professor_id": 89946
+  },
+  {
+    "code": "6999",
+    "group": "10",
+    "professor": "FLORICEL RAMOS VARGAS",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          3
+        ],
+        "classroom": "Q316"
+      }
+    ],
+    "professor_id": 89946
+  },
+  {
+    "code": "6999",
+    "group": "11",
+    "professor": "EDGAR SENOBIO MOZO RAMOS",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          3
+        ],
+        "classroom": "Q316"
+      }
+    ],
+    "professor_id": 149553
+  },
+  {
+    "code": "6999",
+    "group": "12",
+    "professor": "MARIO ALBERTO HERNANDEZ ROMAN",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          4
+        ],
+        "classroom": "Q314"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "6999",
+    "group": "13",
+    "professor": "JORGE ANTONIO MONROY JUAREZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          4
+        ],
+        "classroom": "Q316"
+      }
+    ],
+    "professor_id": 89950
+  },
+  {
+    "code": "6999",
+    "group": "14",
+    "professor": "ISMAEL ROMERO OCARANZA",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          4
+        ],
+        "classroom": "Q314"
+      }
+    ],
+    "professor_id": 89949
+  },
+  {
+    "code": "6999",
+    "group": "15",
+    "professor": "JOSE ALBERTO LOPEZ CERVANTES",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          5
+        ],
+        "classroom": "Q316"
+      }
+    ],
+    "professor_id": 99903
+  },
+  {
+    "code": "6999",
+    "group": "16",
+    "professor": "ESPERANZA GUERRA ZAMORA",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          5
+        ],
+        "classroom": "Q314"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "6999",
+    "group": "17",
+    "professor": "JESUS ALEJANDRO FLORES RAMIREZ",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          6
+        ],
+        "classroom": "Q314"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "6999",
+    "group": "18",
+    "professor": "JOSE ALBERTO LOPEZ CERVANTES",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          6
+        ],
+        "classroom": "Q316"
+      }
+    ],
+    "professor_id": 99903
+  },
+  {
+    "code": "6999",
+    "group": "19",
+    "professor": "JOSE ALBERTO LOPEZ CERVANTES",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          6
+        ],
+        "classroom": "Q316"
+      }
+    ],
+    "professor_id": 99903
+  }
+]

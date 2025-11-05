@@ -1,0 +1,17 @@
+[
+  {
+    "code": "1283",
+    "group": "1",
+    "professor": "MANUEL SALGADO CRUZ",
+    "schedules": [
+      {
+        "time": "17:30-19:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "EXTR"
+      }
+    ]
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "code": "1731",
+    "group": "1",
+    "professor": "LEON MANUEL GARAY ACEVEDO",
+    "schedules": [
+      {
+        "time": "07:00-08:30",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "A307"
+      }
+    ],
+    "professor_id": 184691
+  },
+  {
+    "code": "1731",
+    "group": "2",
+    "professor": "MICHIKO AMEMIYA RAMIREZ",
+    "schedules": [
+      {
+        "time": "08:30-10:00",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "EXTR"
+      }
+    ],
+    "professor_id": 154735
+  },
+  {
+    "code": "1731",
+    "group": "3",
+    "professor": "JUAN ANTONIO VALLE FLORES",
+    "schedules": [
+      {
+        "time": "13:00-15:15",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "A210"
+      }
+    ],
+    "professor_id": 135807
+  },
+  {
+    "code": "1731",
+    "group": "4",
+    "professor": "GUILLERMO MANCILLA URREA",
+    "schedules": [
+      {
+        "time": "16:00-17:30",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "A106"
+      }
+    ],
+    "professor_id": 104937
+  },
+  {
+    "code": "1731",
+    "group": "5",
+    "professor": "GUILLERMO MANCILLA URREA",
+    "schedules": [
+      {
+        "time": "17:30-19:00",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "A106"
+      }
+    ],
+    "professor_id": 104937
+  },
+  {
+    "code": "1731",
+    "group": "6",
+    "professor": "JESÚS ULISES ACOSTA ROBLEDO",
+    "schedules": [
+      {
+        "time": "16:00-18:15",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A309"
+      }
+    ],
+    "professor_id": null
+  }
+]

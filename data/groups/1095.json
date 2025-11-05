@@ -1,0 +1,47 @@
+[
+  {
+    "code": "1095",
+    "group": "1",
+    "professor": "GLORIA CORREA PALACIOS",
+    "schedules": [
+      {
+        "time": "07:00-10:00",
+        "days": [
+          1
+        ],
+        "classroom": "P001"
+      }
+    ],
+    "professor_id": 112607
+  },
+  {
+    "code": "1095",
+    "group": "2",
+    "professor": "HOOVER MUJICA ORTEGA",
+    "schedules": [
+      {
+        "time": "11:00-14:00",
+        "days": [
+          2
+        ],
+        "classroom": "P001"
+      }
+    ],
+    "professor_id": 99860
+  },
+  {
+    "code": "1095",
+    "group": "4",
+    "professor": "DAVID QUINTANAR VILLALBA",
+    "schedules": [
+      {
+        "time": "17:00-20:00",
+        "days": [
+          1
+        ],
+        "classroom": "P001"
+      }
+    ],
+    "professor_id": null
+  }
+]

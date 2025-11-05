@@ -1,0 +1,17 @@
+[
+  {
+    "code": "2975",
+    "group": "1",
+    "professor": "SANTIAGO BANDA SANTAMARIA",
+    "schedules": [
+      {
+        "time": "11:30-13:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "R001"
+      }
+    ]
+  }
+]

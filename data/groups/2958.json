@@ -1,0 +1,50 @@
+[
+  {
+    "code": "2958",
+    "group": "1",
+    "professor": "NAOMI ITZEL REYES GRANADOS",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "Q221"
+      }
+    ],
+    "professor_id": 181793
+  },
+  {
+    "code": "2958",
+    "group": "2",
+    "professor": "ARTURO PEREZ DE LA CRUZ",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "Q218"
+      }
+    ],
+    "professor_id": 95352
+  },
+  {
+    "code": "2958",
+    "group": "4",
+    "professor": "CARLOS SAUCEDO MACIEL",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "SIN"
+      }
+    ],
+    "professor_id": 99770
+  }
+]

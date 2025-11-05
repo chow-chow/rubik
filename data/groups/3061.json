@@ -1,0 +1,18 @@
+[
+  {
+    "code": "3061",
+    "group": "1",
+    "professor": "JAIME DE JESUS PAREDES CAMACHO",
+    "schedules": [
+      {
+        "time": "16:00-17:30",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A203"
+      }
+    ],
+    "professor_id": 107673
+  }
+]

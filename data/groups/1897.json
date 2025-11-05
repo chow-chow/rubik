@@ -1,0 +1,32 @@
+[
+  {
+    "code": "1897",
+    "group": "1",
+    "professor": "DIANA MARIA OSORIO LONDOÑO",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "X101"
+      }
+    ]
+  },
+  {
+    "code": "1897",
+    "group": "2",
+    "professor": "MAURICIO MORALES RODRIGUEZ",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "EXTR"
+      }
+    ]
+  }
+]

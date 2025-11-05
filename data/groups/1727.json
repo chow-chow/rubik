@@ -1,0 +1,50 @@
+[
+  {
+    "code": "1727",
+    "group": "1",
+    "professor": "ISABEL DOMINGUEZ TREJO",
+    "schedules": [
+      {
+        "time": "12:00-14:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "C304"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1727",
+    "group": "2",
+    "professor": "EMILIANO CAMPOS MADRIGAL",
+    "schedules": [
+      {
+        "time": "08:00-10:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "C203"
+      }
+    ],
+    "professor_id": 33616
+  },
+  {
+    "code": "1727",
+    "group": "3",
+    "professor": "EMILIANO CAMPOS MADRIGAL",
+    "schedules": [
+      {
+        "time": "18:00-20:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "C203"
+      }
+    ],
+    "professor_id": 33616
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "code": "1570",
+    "group": "1",
+    "professor": "SANDRA MARCELA ROJAS MONTOYA",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "B104"
+      }
+    ],
+    "professor_id": 162118
+  },
+  {
+    "code": "1570",
+    "group": "2",
+    "professor": "ARTEMISA MAZON MARTINEZ",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "B104"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1570",
+    "group": "3",
+    "professor": "JORGE LUIS ROMERO HERNANDEZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          5
+        ],
+        "classroom": "D001"
+      },
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1
+        ],
+        "classroom": "B104"
+      }
+    ],
+    "professor_id": 20638
+  },
+  {
+    "code": "1570",
+    "group": "4",
+    "professor": "JESUS RAFAEL GONZALEZ PARRA",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "O101"
+      }
+    ],
+    "professor_id": 149718
+  },
+  {
+    "code": "1570",
+    "group": "5",
+    "professor": "SANDRA MARCELA ROJAS MONTOYA",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "B403"
+      }
+    ],
+    "professor_id": 162118
+  },
+  {
+    "code": "1570",
+    "group": "6",
+    "professor": "TATIANA LILIA AVALOS RENDON",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "B303"
+      }
+    ],
+    "professor_id": 112892
+  },
+  {
+    "code": "1570",
+    "group": "7",
+    "professor": "VICTOR HUGO JACOBO ARMENDARIZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "O101"
+      }
+    ],
+    "professor_id": 109075
+  },
+  {
+    "code": "1570",
+    "group": "8",
+    "professor": "DAVID EDUARDO ABAD CONTRERAS",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "B201"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1570",
+    "group": "9",
+    "professor": "JULIO CESAR GONZALEZ SANCHEZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "D002"
+      }
+    ],
+    "professor_id": null
+  }
+]

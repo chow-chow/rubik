@@ -1,0 +1,70 @@
+[
+  {
+    "code": "2954",
+    "group": "1",
+    "professor": "LUIS IVAN NAVARRETE GUERRA",
+    "schedules": [
+      {
+        "time": "19:00-20:30",
+        "days": [
+          1,
+          2
+        ],
+        "classroom": "DS01"
+      },
+      {
+        "time": "19:00-21:00",
+        "days": [
+          4
+        ],
+        "classroom": "Q208"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "2954",
+    "group": "2",
+    "professor": "CESAR SANABRIA PINEDA",
+    "schedules": [
+      {
+        "time": "07:00-10:00",
+        "days": [
+          5
+        ],
+        "classroom": "B304"
+      },
+      {
+        "time": "07:00-09:00",
+        "days": [
+          6
+        ],
+        "classroom": "Q208"
+      }
+    ],
+    "professor_id": 122570
+  },
+  {
+    "code": "2954",
+    "group": "3",
+    "professor": "ANA LAURA CHALICO TENORIO",
+    "schedules": [
+      {
+        "time": "13:00-14:30",
+        "days": [
+          1,
+          2
+        ],
+        "classroom": "SIN"
+      },
+      {
+        "time": "13:00-15:00",
+        "days": [
+          3
+        ],
+        "classroom": "SIN"
+      }
+    ],
+    "professor_id": null
+  }
+]

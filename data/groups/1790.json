@@ -1,0 +1,182 @@
+[
+  {
+    "code": "1790",
+    "group": "1",
+    "professor": "JOSE CARLOS DELGADO CHONG",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          5
+        ],
+        "classroom": "A105"
+      }
+    ],
+    "professor_id": 24305
+  },
+  {
+    "code": "1790",
+    "group": "2",
+    "professor": "JOSE CARLOS DIAZ SILVA",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          5
+        ],
+        "classroom": "B203"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1790",
+    "group": "3",
+    "professor": "JOSE CARLOS DELGADO CHONG",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          5
+        ],
+        "classroom": "A105"
+      }
+    ],
+    "professor_id": 24305
+  },
+  {
+    "code": "1790",
+    "group": "4",
+    "professor": "LIC ELSA RUTH MONDRAGON SAAVEDRA",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          2
+        ],
+        "classroom": "A103"
+      }
+    ],
+    "professor_id": 70316
+  },
+  {
+    "code": "1790",
+    "group": "5",
+    "professor": "LIC ELSA RUTH MONDRAGON SAAVEDRA",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          4
+        ],
+        "classroom": "A103"
+      }
+    ],
+    "professor_id": 70316
+  },
+  {
+    "code": "1790",
+    "group": "6",
+    "professor": "ING MARCO JORGE ALBERTO RODRIGUEZ MARTINEZ",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          5
+        ],
+        "classroom": "A101"
+      }
+    ],
+    "professor_id": 68143
+  },
+  {
+    "code": "1790",
+    "group": "7",
+    "professor": "ING MARCO JORGE ALBERTO RODRIGUEZ MARTINEZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1
+        ],
+        "classroom": "A103"
+      }
+    ],
+    "professor_id": 68143
+  },
+  {
+    "code": "1790",
+    "group": "8",
+    "professor": "CARLOS AURELIO BERNAL ESPONDA",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2
+        ],
+        "classroom": "A105"
+      }
+    ],
+    "professor_id": 68400
+  },
+  {
+    "code": "1790",
+    "group": "9",
+    "professor": "JOSÉ MARTÍN SERNA DE ANDA",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          4
+        ],
+        "classroom": "A108"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1790",
+    "group": "10",
+    "professor": "ANGEL JULIAN AVILA AGUILAR",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1
+        ],
+        "classroom": "A104"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1790",
+    "group": "11",
+    "professor": "EDGARDO ULISES BENITEZ ESLAVA",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2
+        ],
+        "classroom": "A108"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1790",
+    "group": "12",
+    "professor": "PHEN BOLIO ALBUERNE",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          1
+        ],
+        "classroom": "A105"
+      }
+    ],
+    "professor_id": 167392
+  }
+]

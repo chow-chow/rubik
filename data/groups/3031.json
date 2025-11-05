@@ -1,0 +1,33 @@
+[
+  {
+    "code": "3031",
+    "group": "1",
+    "professor": "ALFREDO CARLOS ARROYO VEGA",
+    "schedules": [
+      {
+        "time": "07:00-08:30",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "A211"
+      }
+    ]
+  },
+  {
+    "code": "3031",
+    "group": "2",
+    "professor": "HECTOR GEOVANI ELIZARRARAS ESQUIVEL",
+    "schedules": [
+      {
+        "time": "07:00-09:15",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A308"
+      }
+    ]
+  }
+]

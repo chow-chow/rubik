@@ -1,0 +1,18 @@
+[
+  {
+    "code": "2947",
+    "group": "1",
+    "professor": "JORGE ALBERTO RODRIGUEZ CAMPOS",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "B205"
+      }
+    ],
+    "professor_id": 108516
+  }
+]

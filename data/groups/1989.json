@@ -1,0 +1,85 @@
+[
+  {
+    "code": "1989",
+    "group": "1",
+    "professor": "LEONARDO CRUZ ESPINOSA",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "D009"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1989",
+    "group": "2",
+    "professor": "FERNANDO JUÁREZ SÁNCHEZ",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "A401"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1989",
+    "group": "3",
+    "professor": "JUAN ANTONIO HERNANDEZ MARTINEZ",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2
+        ],
+        "classroom": "C205"
+      }
+    ],
+    "professor_id": 162321
+  },
+  {
+    "code": "1989",
+    "group": "4",
+    "professor": "JANET MONTAÑO SALAZAR",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          4
+        ],
+        "classroom": "C205"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1989",
+    "group": "5",
+    "professor": "",
+    "schedules": [
+      {
+        "time": "18:00-20:00",
+        "days": [
+          5
+        ],
+        "classroom": "A401"
+      },
+      {
+        "time": "08:00-10:00",
+        "days": [
+          6
+        ],
+        "classroom": "A401"
+      }
+    ]
+  }
+]

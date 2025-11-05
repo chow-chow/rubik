@@ -1,0 +1,17 @@
+[
+  {
+    "code": "1463",
+    "group": "1",
+    "professor": "JORGE ISUNZA HERNANDEZ",
+    "schedules": [
+      {
+        "time": "10:00-13:00",
+        "days": [
+          5
+        ],
+        "classroom": "B102"
+      }
+    ],
+    "professor_id": 49393
+  }
+]

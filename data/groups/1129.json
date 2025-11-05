@@ -1,0 +1,77 @@
+[
+  {
+    "code": "1129",
+    "group": "1",
+    "professor": "SILVINA HERNANDEZ GARCIA",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2
+        ],
+        "classroom": "I201"
+      }
+    ],
+    "professor_id": 98611
+  },
+  {
+    "code": "1129",
+    "group": "2",
+    "professor": "JUAN URSUL SOLANES",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1
+        ],
+        "classroom": "J106"
+      }
+    ],
+    "professor_id": 47499
+  },
+  {
+    "code": "1129",
+    "group": "3",
+    "professor": "PROFESOR POR ASIGNAR",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          3
+        ],
+        "classroom": "I203"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1129",
+    "group": "4",
+    "professor": "KALID PAOLA ABURTO MORENO",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          3
+        ],
+        "classroom": "I106"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1129",
+    "group": "5",
+    "professor": "DIEGO ALBERTO NIETO FIERRO",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          2
+        ],
+        "classroom": "I202"
+      }
+    ],
+    "professor_id": 84656
+  }
+]

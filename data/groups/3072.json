@@ -1,0 +1,17 @@
+[
+  {
+    "code": "3072",
+    "group": "1",
+    "professor": "ARTURO MONTIEL PIMENTEL",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "B301"
+      }
+    ]
+  }
+]

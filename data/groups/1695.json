@@ -1,0 +1,24 @@
+[
+  {
+    "code": "1695",
+    "group": "1",
+    "professor": "DIDIER TORRES GUZMAN",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "X101"
+      },
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1
+        ],
+        "classroom": "X101"
+      }
+    ]
+  }
+]

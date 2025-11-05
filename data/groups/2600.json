@@ -1,0 +1,97 @@
+[
+  {
+    "code": "2600",
+    "group": "1",
+    "professor": "DAVID PANIAGUA LOVERA",
+    "schedules": [
+      {
+        "time": "13:00-14:30",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "B402"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "2600",
+    "group": "2",
+    "professor": "CESAR PANIAGUA LOVERA",
+    "schedules": [
+      {
+        "time": "16:00-17:30",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "B402"
+      }
+    ],
+    "professor_id": 93401
+  },
+  {
+    "code": "2600",
+    "group": "3",
+    "professor": "SIXTA HINNDI MENDOZA PEREZ",
+    "schedules": [
+      {
+        "time": "19:00-20:30",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "Y203"
+      }
+    ],
+    "professor_id": 141803
+  },
+  {
+    "code": "2600",
+    "group": "4",
+    "professor": "ISAAC FELIPE LIMA CASTILLO",
+    "schedules": [
+      {
+        "time": "14:30-16:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A307"
+      }
+    ],
+    "professor_id": 154733
+  },
+  {
+    "code": "2600",
+    "group": "5",
+    "professor": "CLAUDIA LUCIA HERNANDEZ MARTINEZ",
+    "schedules": [
+      {
+        "time": "19:00-20:30",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "SIN"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "2600",
+    "group": "6",
+    "professor": "DAVID PANIAGUA LOVERA",
+    "schedules": [
+      {
+        "time": "11:30-14:30",
+        "days": [
+          5
+        ],
+        "classroom": "A209"
+      }
+    ],
+    "professor_id": null
+  }
+]

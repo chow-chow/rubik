@@ -1,0 +1,152 @@
+[
+  {
+    "code": "5558",
+    "group": "1",
+    "professor": "JAVIER GONZALEZ PRADO",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          1
+        ],
+        "classroom": "P217"
+      }
+    ],
+    "professor_id": 104949
+  },
+  {
+    "code": "5558",
+    "group": "2",
+    "professor": "EDUARDO HERNANDEZ ROMERO",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2
+        ],
+        "classroom": "P217"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "5558",
+    "group": "3",
+    "professor": "EDUARDO HERNANDEZ ROMERO",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          2
+        ],
+        "classroom": "P217"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "5558",
+    "group": "4",
+    "professor": "EDUARDO HERNANDEZ ROMERO",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          3
+        ],
+        "classroom": "P217"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "5558",
+    "group": "5",
+    "professor": "JAVIER GONZALEZ PRADO",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          3
+        ],
+        "classroom": "P217"
+      }
+    ],
+    "professor_id": 104949
+  },
+  {
+    "code": "5558",
+    "group": "6",
+    "professor": "JUAN MANUEL BARBOSA CASTILLO",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          4
+        ],
+        "classroom": "P217"
+      }
+    ],
+    "professor_id": 95329
+  },
+  {
+    "code": "5558",
+    "group": "7",
+    "professor": "JOSE ALBERTO ARELLANO FIGUEROA",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          4
+        ],
+        "classroom": "P217"
+      }
+    ],
+    "professor_id": 87572
+  },
+  {
+    "code": "5558",
+    "group": "8",
+    "professor": "JUAN MANUEL BARBOSA CASTILLO",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          5
+        ],
+        "classroom": "P217"
+      }
+    ],
+    "professor_id": 95329
+  },
+  {
+    "code": "5558",
+    "group": "9",
+    "professor": "ABEL VILLANUEVA PEÑA",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          5
+        ],
+        "classroom": "P217"
+      }
+    ],
+    "professor_id": 60921
+  },
+  {
+    "code": "5558",
+    "group": "10",
+    "professor": "JAVIER GONZALEZ PRADO",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          5
+        ],
+        "classroom": "P217"
+      }
+    ],
+    "professor_id": 104949
+  }
+]

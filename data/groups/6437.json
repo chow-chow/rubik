@@ -1,0 +1,422 @@
+[
+  {
+    "code": "6437",
+    "group": "1",
+    "professor": "IVONNE BLANCAS SILVA",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          1
+        ],
+        "classroom": "G001"
+      }
+    ],
+    "professor_id": 84646
+  },
+  {
+    "code": "6437",
+    "group": "2",
+    "professor": "ING DIANA ZARAGOZA ZUÑIGA",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1
+        ],
+        "classroom": "G001"
+      }
+    ],
+    "professor_id": 90126
+  },
+  {
+    "code": "6437",
+    "group": "3",
+    "professor": "EHECATL LUIS DAVID PALEO GONZALEZ",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1
+        ],
+        "classroom": "G001"
+      }
+    ],
+    "professor_id": 84416
+  },
+  {
+    "code": "6437",
+    "group": "4",
+    "professor": "JORGE RAMIREZ CRUZ",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1
+        ],
+        "classroom": "G001"
+      }
+    ],
+    "professor_id": 84413
+  },
+  {
+    "code": "6437",
+    "group": "5",
+    "professor": "GABRIELA MACIAS ESQUIVEL",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1
+        ],
+        "classroom": "G001"
+      }
+    ],
+    "professor_id": 84703
+  },
+  {
+    "code": "6437",
+    "group": "6",
+    "professor": "MIGUEL ANGEL REYES BUSTAMANTE",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1
+        ],
+        "classroom": "G001"
+      }
+    ],
+    "professor_id": 84626
+  },
+  {
+    "code": "6437",
+    "group": "7",
+    "professor": "ALFONSO PALACIOS MUÑOZ",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2
+        ],
+        "classroom": "G001"
+      }
+    ],
+    "professor_id": 101486
+  },
+  {
+    "code": "6437",
+    "group": "8",
+    "professor": "JORGE RAMIREZ CRUZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2
+        ],
+        "classroom": "G001"
+      }
+    ],
+    "professor_id": 84413
+  },
+  {
+    "code": "6437",
+    "group": "9",
+    "professor": "RUBEN CARLOS ESQUIVEL HERNANDEZ",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2
+        ],
+        "classroom": "G001"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "6437",
+    "group": "10",
+    "professor": "CLAUDIA ELISA SANCHEZ NAVARRO",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          2
+        ],
+        "classroom": "G001"
+      }
+    ],
+    "professor_id": 68129
+  },
+  {
+    "code": "6437",
+    "group": "11",
+    "professor": "GABRIELA MACIAS ESQUIVEL",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2
+        ],
+        "classroom": "G001"
+      }
+    ],
+    "professor_id": 84703
+  },
+  {
+    "code": "6437",
+    "group": "12",
+    "professor": "LUIS ALBERTO HERRERA BONILLA",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2
+        ],
+        "classroom": "G001"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "6437",
+    "group": "13",
+    "professor": "DANIEL PAREDES GARCIA",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          3
+        ],
+        "classroom": "G001"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "6437",
+    "group": "14",
+    "professor": "ING DIANA ZARAGOZA ZUÑIGA",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          3
+        ],
+        "classroom": "G001"
+      }
+    ],
+    "professor_id": 90126
+  },
+  {
+    "code": "6437",
+    "group": "15",
+    "professor": "JAVIER ALEJANDRO ROSAS FLORES",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          3
+        ],
+        "classroom": "G001"
+      }
+    ],
+    "professor_id": 96626
+  },
+  {
+    "code": "6437",
+    "group": "16",
+    "professor": "MARIA GUADALUPE PEREZ HERNANDEZ",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          3
+        ],
+        "classroom": "G001"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "6437",
+    "group": "17",
+    "professor": "MARIA GUADALUPE PEREZ HERNANDEZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          3
+        ],
+        "classroom": "G001"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "6437",
+    "group": "18",
+    "professor": "ALFONSO PALACIOS MUÑOZ",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          4
+        ],
+        "classroom": "G001"
+      }
+    ],
+    "professor_id": 101486
+  },
+  {
+    "code": "6437",
+    "group": "19",
+    "professor": "JAVIER ALEJANDRO ROSAS FLORES",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          4
+        ],
+        "classroom": "G001"
+      }
+    ],
+    "professor_id": 96626
+  },
+  {
+    "code": "6437",
+    "group": "20",
+    "professor": "RUBEN CARLOS ESQUIVEL HERNANDEZ",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          4
+        ],
+        "classroom": "G001"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "6437",
+    "group": "21",
+    "professor": "EDUARDO PEREZ CONTRERAS",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          4
+        ],
+        "classroom": "G001"
+      }
+    ],
+    "professor_id": 113771
+  },
+  {
+    "code": "6437",
+    "group": "22",
+    "professor": "EDUARDO PEREZ CONTRERAS",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          4
+        ],
+        "classroom": "G001"
+      }
+    ],
+    "professor_id": 113771
+  },
+  {
+    "code": "6437",
+    "group": "23",
+    "professor": "LUIS ALBERTO HERRERA BONILLA",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          4
+        ],
+        "classroom": "G001"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "6437",
+    "group": "24",
+    "professor": "JONATHAN HERNANDEZ GARCIA",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          5
+        ],
+        "classroom": "G001"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "6437",
+    "group": "25",
+    "professor": "JONATHAN HERNANDEZ GARCIA",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          5
+        ],
+        "classroom": "G001"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "6437",
+    "group": "26",
+    "professor": "OMAR DE JESUS PEREZ",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          5
+        ],
+        "classroom": "G001"
+      }
+    ],
+    "professor_id": 90851
+  },
+  {
+    "code": "6437",
+    "group": "27",
+    "professor": "EDUARDO PEREZ CONTRERAS",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          5
+        ],
+        "classroom": "G001"
+      }
+    ],
+    "professor_id": 113771
+  },
+  {
+    "code": "6437",
+    "group": "28",
+    "professor": "EDUARDO PEREZ CONTRERAS",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          5
+        ],
+        "classroom": "G001"
+      }
+    ],
+    "professor_id": 113771
+  }
+]

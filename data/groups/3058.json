@@ -1,0 +1,32 @@
+[
+  {
+    "code": "3058",
+    "group": "1",
+    "professor": "DAVID LEONARDO PADILLA GEORGGE",
+    "schedules": [
+      {
+        "time": "07:00-09:15",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A404"
+      }
+    ]
+  },
+  {
+    "code": "3058",
+    "group": "2",
+    "professor": "DAVID LEONARDO PADILLA GEORGGE",
+    "schedules": [
+      {
+        "time": "09:15-11:30",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A404"
+      }
+    ]
+  }
+]

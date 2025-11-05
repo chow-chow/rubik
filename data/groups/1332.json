@@ -1,0 +1,199 @@
+[
+  {
+    "code": "1332",
+    "group": "1",
+    "professor": "CINTHIA RODRIGUEZ MAYA",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          3
+        ],
+        "classroom": "SIN"
+      },
+      {
+        "time": "07:00-09:00",
+        "days": [
+          1
+        ],
+        "classroom": "SIN"
+      }
+    ],
+    "professor_id": 172904
+  },
+  {
+    "code": "1332",
+    "group": "2",
+    "professor": "JORGE LUIS LOPEZ GARCIA",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1
+        ],
+        "classroom": "P003"
+      },
+      {
+        "time": "09:00-11:00",
+        "days": [
+          3
+        ],
+        "classroom": "P003"
+      }
+    ],
+    "professor_id": 64679
+  },
+  {
+    "code": "1332",
+    "group": "3",
+    "professor": "",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1
+        ],
+        "classroom": "P010"
+      },
+      {
+        "time": "15:00-17:00",
+        "days": [
+          3
+        ],
+        "classroom": "P010"
+      }
+    ]
+  },
+  {
+    "code": "1332",
+    "group": "4",
+    "professor": "JORGE LUIS LOPEZ GARCIA",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2
+        ],
+        "classroom": "P003"
+      },
+      {
+        "time": "07:00-09:00",
+        "days": [
+          4
+        ],
+        "classroom": "P003"
+      }
+    ],
+    "professor_id": 64679
+  },
+  {
+    "code": "1332",
+    "group": "5",
+    "professor": "PATRICIA DEL VALLE MORALES",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2
+        ],
+        "classroom": "B404"
+      },
+      {
+        "time": "11:00-13:00",
+        "days": [
+          4
+        ],
+        "classroom": "P003"
+      }
+    ],
+    "professor_id": 36976
+  },
+  {
+    "code": "1332",
+    "group": "6",
+    "professor": "JESSICA ROJAS SERRANO",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1
+        ],
+        "classroom": "A201"
+      },
+      {
+        "time": "13:00-15:00",
+        "days": [
+          3
+        ],
+        "classroom": "Q007"
+      }
+    ],
+    "professor_id": 187681
+  },
+  {
+    "code": "1332",
+    "group": "7",
+    "professor": "JOSE OLIVAS DIAZ",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          2
+        ],
+        "classroom": "Y001"
+      },
+      {
+        "time": "13:00-15:00",
+        "days": [
+          4
+        ],
+        "classroom": "P003"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1332",
+    "group": "8",
+    "professor": "YOVANNI ALVAREZ ULLOA",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1
+        ],
+        "classroom": "Y001"
+      },
+      {
+        "time": "17:00-19:00",
+        "days": [
+          4
+        ],
+        "classroom": "P003"
+      }
+    ],
+    "professor_id": 162200
+  },
+  {
+    "code": "1332",
+    "group": "9",
+    "professor": "CINTHIA RODRIGUEZ MAYA",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1
+        ],
+        "classroom": "A206"
+      },
+      {
+        "time": "15:00-17:00",
+        "days": [
+          3
+        ],
+        "classroom": "P003"
+      }
+    ],
+    "professor_id": 172904
+  }
+]

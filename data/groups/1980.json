@@ -1,0 +1,49 @@
+[
+  {
+    "code": "1980",
+    "group": "1",
+    "professor": "DANIEL CABRERA SOTELO",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A205"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1980",
+    "group": "2",
+    "professor": "IZA CANALES GARCIA",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "C402"
+      }
+    ],
+    "professor_id": 64701
+  },
+  {
+    "code": "1980",
+    "group": "3",
+    "professor": "SANDRA ISABEL PÉREZ HERNÁNDEZ",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          3
+        ],
+        "classroom": "C105"
+      }
+    ],
+    "professor_id": null
+  }
+]

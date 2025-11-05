@@ -1,0 +1,49 @@
+[
+  {
+    "code": "1983",
+    "group": "1",
+    "professor": "HUMBERTO SANTOS RIOS",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "D007"
+      }
+    ],
+    "professor_id": 134744
+  },
+  {
+    "code": "1983",
+    "group": "2",
+    "professor": "JAVIER REYNA ALONSO",
+    "schedules": [
+      {
+        "time": "09:00-13:00",
+        "days": [
+          6
+        ],
+        "classroom": "D006"
+      }
+    ],
+    "professor_id": 103042
+  },
+  {
+    "code": "1983",
+    "group": "3",
+    "professor": "CARLOS FERNANDO TAPIA GARCIA",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "SIN"
+      }
+    ],
+    "professor_id": null
+  }
+]

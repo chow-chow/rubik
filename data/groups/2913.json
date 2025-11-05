@@ -1,0 +1,81 @@
+[
+  {
+    "code": "2913",
+    "group": "1",
+    "professor": "GUILLERMO LUIS LAURO ESQUIVEL CASTAÑEDA",
+    "schedules": [
+      {
+        "time": "07:00-08:30",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "A304"
+      }
+    ],
+    "professor_id": 175457
+  },
+  {
+    "code": "2913",
+    "group": "2",
+    "professor": "FRANCISCO JAVIER GRANADOS VILLAFUERTE",
+    "schedules": [
+      {
+        "time": "08:30-10:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "A404"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "2913",
+    "group": "3",
+    "professor": "OSCAR ENRIQUE MARTINEZ JURADO",
+    "schedules": [
+      {
+        "time": "11:30-13:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "R206"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "2913",
+    "group": "4",
+    "professor": "ALEJANDRO JOSE LEO VARGAS",
+    "schedules": [
+      {
+        "time": "16:00-17:30",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A307"
+      }
+    ],
+    "professor_id": 146711
+  },
+  {
+    "code": "2913",
+    "group": "5",
+    "professor": "GUILLERMO MANCILLA URREA",
+    "schedules": [
+      {
+        "time": "08:00-11:00",
+        "days": [
+          6
+        ],
+        "classroom": "A203"
+      }
+    ],
+    "professor_id": 104937
+  }
+]

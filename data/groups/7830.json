@@ -1,0 +1,77 @@
+[
+  {
+    "code": "7830",
+    "group": "1",
+    "professor": "MONICA LOPEZ COYOTE",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1
+        ],
+        "classroom": "Q307"
+      }
+    ],
+    "professor_id": 82398
+  },
+  {
+    "code": "7830",
+    "group": "2",
+    "professor": "CHRISTIAN HERNANDEZ SANTIAGO",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2
+        ],
+        "classroom": "Q307"
+      }
+    ],
+    "professor_id": 94393
+  },
+  {
+    "code": "7830",
+    "group": "3",
+    "professor": "MONICA LOPEZ COYOTE",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          3
+        ],
+        "classroom": "Q307"
+      }
+    ],
+    "professor_id": 82398
+  },
+  {
+    "code": "7830",
+    "group": "4",
+    "professor": "CHRISTIAN HERNANDEZ SANTIAGO",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          4
+        ],
+        "classroom": "Q307"
+      }
+    ],
+    "professor_id": 94393
+  },
+  {
+    "code": "7830",
+    "group": "5",
+    "professor": "VALENTINA LUISA SOUZA RODRIGUEZ",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          5
+        ],
+        "classroom": "Q307"
+      }
+    ],
+    "professor_id": 134945
+  }
+]

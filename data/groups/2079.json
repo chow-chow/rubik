@@ -1,0 +1,48 @@
+[
+  {
+    "code": "2079",
+    "group": "1",
+    "professor": "NELLY MEDINA MOLOTLA",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "X101"
+      },
+      {
+        "time": "19:00-21:00",
+        "days": [
+          5
+        ],
+        "classroom": "X101"
+      }
+    ],
+    "professor_id": 93949
+  },
+  {
+    "code": "2079",
+    "group": "2",
+    "professor": "FRANCISCO MANUEL SANCHEZ AREVALO",
+    "schedules": [
+      {
+        "time": "08:00-10:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "EXTR"
+      },
+      {
+        "time": "08:00-10:00",
+        "days": [
+          5
+        ],
+        "classroom": "EXTR"
+      }
+    ],
+    "professor_id": null
+  }
+]

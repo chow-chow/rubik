@@ -1,0 +1,46 @@
+[
+  {
+    "code": "1137",
+    "group": "1",
+    "professor": "JOSE JUAN FLORES MARTINEZ",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          3
+        ],
+        "classroom": "C302"
+      }
+    ]
+  },
+  {
+    "code": "1137",
+    "group": "2",
+    "professor": "JOSÉ TEODORO HERNÁNDEZ TREVIÑO",
+    "schedules": [
+      {
+        "time": "14:00-16:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "J001"
+      }
+    ]
+  },
+  {
+    "code": "1137",
+    "group": "3",
+    "professor": "PROFESOR POR ASIGNAR",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "C302"
+      }
+    ]
+  }
+]

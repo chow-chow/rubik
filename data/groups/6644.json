@@ -1,0 +1,122 @@
+[
+  {
+    "code": "6644",
+    "group": "1",
+    "professor": "JESSICA HUELGAS MORENO",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2
+        ],
+        "classroom": "T101"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "6644",
+    "group": "2",
+    "professor": "MARTHA LOPEZ PELCASTRE",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2
+        ],
+        "classroom": "T101"
+      }
+    ],
+    "professor_id": 114128
+  },
+  {
+    "code": "6644",
+    "group": "3",
+    "professor": "JUAN ANGEL CALVILLO PEREZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2
+        ],
+        "classroom": "T101"
+      }
+    ],
+    "professor_id": 135119
+  },
+  {
+    "code": "6644",
+    "group": "4",
+    "professor": "JUAN ANGEL CALVILLO PEREZ",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2
+        ],
+        "classroom": "T101"
+      }
+    ],
+    "professor_id": 135119
+  },
+  {
+    "code": "6644",
+    "group": "5",
+    "professor": "CZESLAW KRISTOFER LUGOWSKI RIVERO",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          4
+        ],
+        "classroom": "T101"
+      }
+    ],
+    "professor_id": 105202
+  },
+  {
+    "code": "6644",
+    "group": "6",
+    "professor": "JORGE ALBERTO RODRIGUEZ CAMPOS",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          5
+        ],
+        "classroom": "T101"
+      }
+    ],
+    "professor_id": 108516
+  },
+  {
+    "code": "6644",
+    "group": "7",
+    "professor": "MARTHA LOPEZ PELCASTRE",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          5
+        ],
+        "classroom": "T101"
+      }
+    ],
+    "professor_id": 114128
+  },
+  {
+    "code": "6644",
+    "group": "8",
+    "professor": "MARTHA LOPEZ PELCASTRE",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          6
+        ],
+        "classroom": "T101"
+      }
+    ],
+    "professor_id": 114128
+  }
+]

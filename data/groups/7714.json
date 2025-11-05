@@ -1,0 +1,152 @@
+[
+  {
+    "code": "7714",
+    "group": "1",
+    "professor": "JULIO SERRANO VILLEGAS",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1
+        ],
+        "classroom": "Y201"
+      }
+    ],
+    "professor_id": 95374
+  },
+  {
+    "code": "7714",
+    "group": "2",
+    "professor": "JULIO SERRANO VILLEGAS",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1
+        ],
+        "classroom": "Y201"
+      }
+    ],
+    "professor_id": 95374
+  },
+  {
+    "code": "7714",
+    "group": "3",
+    "professor": "JULIO SERRANO VILLEGAS",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2
+        ],
+        "classroom": "Y201"
+      }
+    ],
+    "professor_id": 95374
+  },
+  {
+    "code": "7714",
+    "group": "4",
+    "professor": "EDUARDO ROSAS LIRA",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2
+        ],
+        "classroom": "Y201"
+      }
+    ],
+    "professor_id": 79607
+  },
+  {
+    "code": "7714",
+    "group": "5",
+    "professor": "JORGE PRADO MORALES",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2
+        ],
+        "classroom": "Y201"
+      }
+    ],
+    "professor_id": 175543
+  },
+  {
+    "code": "7714",
+    "group": "6",
+    "professor": "EDUARDO ROSAS LIRA",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          3
+        ],
+        "classroom": "Y201"
+      }
+    ],
+    "professor_id": 79607
+  },
+  {
+    "code": "7714",
+    "group": "7",
+    "professor": "SALVADOR EMILIO SIERRA BENAVIDEZ",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          3
+        ],
+        "classroom": "Y201"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "7714",
+    "group": "8",
+    "professor": "EDUARDO ROSAS LIRA",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          4
+        ],
+        "classroom": "Y201"
+      }
+    ],
+    "professor_id": 79607
+  },
+  {
+    "code": "7714",
+    "group": "9",
+    "professor": "JORGE PRADO MORALES",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          4
+        ],
+        "classroom": "Y201"
+      }
+    ],
+    "professor_id": 175543
+  },
+  {
+    "code": "7714",
+    "group": "10",
+    "professor": "SALVADOR EMILIO SIERRA BENAVIDEZ",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          5
+        ],
+        "classroom": "Y201"
+      }
+    ],
+    "professor_id": null
+  }
+]

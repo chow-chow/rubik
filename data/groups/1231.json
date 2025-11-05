@@ -1,0 +1,23 @@
+[
+  {
+    "code": "1231",
+    "group": "1",
+    "professor": "ARIANEE SAINZ VIDAL",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1
+        ],
+        "classroom": "J105"
+      },
+      {
+        "time": "09:00-11:00",
+        "days": [
+          3
+        ],
+        "classroom": "J102"
+      }
+    ]
+  }
+]

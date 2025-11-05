@@ -1,0 +1,17 @@
+[
+  {
+    "code": "1974",
+    "group": "1",
+    "professor": "JAVIER GOMEZ CASTELLANOS",
+    "schedules": [
+      {
+        "time": "13:00-14:30",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "Y002"
+      }
+    ]
+  }
+]

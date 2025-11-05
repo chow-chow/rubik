@@ -1,0 +1,198 @@
+[
+  {
+    "code": "2917",
+    "group": "1",
+    "professor": "VERONICA OLVERA RODRIGUEZ",
+    "schedules": [
+      {
+        "time": "15:00-19:00",
+        "days": [
+          1
+        ],
+        "classroom": "EXTR"
+      }
+    ],
+    "professor_id": 178387
+  },
+  {
+    "code": "2917",
+    "group": "2",
+    "professor": "ESTHER SEGURA PEREZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          5
+        ],
+        "classroom": "EXTR"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "2917",
+    "group": "3",
+    "professor": "SUSANA CASY TELLEZ BALLESTEROS",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2
+        ],
+        "classroom": "EXTR"
+      }
+    ],
+    "professor_id": 120294
+  },
+  {
+    "code": "2917",
+    "group": "4",
+    "professor": "OCTAVIO ESTRADA CASTILLO",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1
+        ],
+        "classroom": "EXTR"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "2917",
+    "group": "5",
+    "professor": "HILDA REYNA SOLIS VIVANCO",
+    "schedules": [
+      {
+        "time": "11:00-15:00",
+        "days": [
+          5
+        ],
+        "classroom": "EXTR"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "2917",
+    "group": "6",
+    "professor": "JENARO NOSEDAL SANCHEZ",
+    "schedules": [
+      {
+        "time": "20:00-22:00",
+        "days": [
+          4,
+          5
+        ],
+        "classroom": "EXTR"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "2917",
+    "group": "7",
+    "professor": "VICTOR HUGO TORRES AGUILAR",
+    "schedules": [
+      {
+        "time": "17:00-21:00",
+        "days": [
+          5
+        ],
+        "classroom": "EXTR"
+      }
+    ],
+    "professor_id": 141771
+  },
+  {
+    "code": "2917",
+    "group": "8",
+    "professor": "RICARDO TORRES MENDOZA",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          1
+        ],
+        "classroom": "EXTR"
+      }
+    ],
+    "professor_id": 142293
+  },
+  {
+    "code": "2917",
+    "group": "9",
+    "professor": "DIEGO ALBERTO NIETO FIERRO",
+    "schedules": [
+      {
+        "time": "18:00-22:00",
+        "days": [
+          5
+        ],
+        "classroom": "EXTR"
+      }
+    ],
+    "professor_id": 84656
+  },
+  {
+    "code": "2917",
+    "group": "10",
+    "professor": "EDGAR URIBE GARCIA",
+    "schedules": [
+      {
+        "time": "17:00-21:00",
+        "days": [
+          4
+        ],
+        "classroom": "EXTR"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "2917",
+    "group": "11",
+    "professor": "WULFRANO GOMEZ GALLARDO",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          3
+        ],
+        "classroom": "EXTR"
+      }
+    ],
+    "professor_id": 84733
+  },
+  {
+    "code": "2917",
+    "group": "12",
+    "professor": "HERIBERTO GARCIA LEDEZMA",
+    "schedules": [
+      {
+        "time": "14:00-18:00",
+        "days": [
+          1
+        ],
+        "classroom": "EXTR"
+      }
+    ],
+    "professor_id": 56349
+  },
+  {
+    "code": "2917",
+    "group": "13",
+    "professor": "CLAUDIA IVETTE GONZALEZ HERNANDEZ",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1
+        ],
+        "classroom": "EXTR"
+      }
+    ],
+    "professor_id": null
+  }
+]

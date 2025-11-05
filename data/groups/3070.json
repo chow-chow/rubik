@@ -1,0 +1,17 @@
+[
+  {
+    "code": "3070",
+    "group": "1",
+    "professor": "MÉD ANA BRISA GARCIA VILCHIS",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "X101"
+      }
+    ]
+  }
+]

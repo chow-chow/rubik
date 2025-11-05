@@ -1,0 +1,18 @@
+[
+  {
+    "code": "3078",
+    "group": "1",
+    "professor": "HANNA LESLYE GARCIA GUERRA",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "B202"
+      }
+    ],
+    "professor_id": 59070
+  }
+]

@@ -1,0 +1,347 @@
+[
+  {
+    "code": "6473",
+    "group": "1",
+    "professor": "JESUS YAÑEZ GUTIERREZ",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          1
+        ],
+        "classroom": "P114"
+      }
+    ],
+    "professor_id": 156041
+  },
+  {
+    "code": "6473",
+    "group": "2",
+    "professor": "ADRIANA EUGENIA CHAVIRA DIAZ",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1
+        ],
+        "classroom": "P114"
+      }
+    ],
+    "professor_id": 112610
+  },
+  {
+    "code": "6473",
+    "group": "3",
+    "professor": "LAURO FERNANDO VAZQUEZ ALBERTO",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1
+        ],
+        "classroom": "P109"
+      }
+    ],
+    "professor_id": 124067
+  },
+  {
+    "code": "6473",
+    "group": "4",
+    "professor": "LAURO FERNANDO VAZQUEZ ALBERTO",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1
+        ],
+        "classroom": "P114"
+      }
+    ],
+    "professor_id": 124067
+  },
+  {
+    "code": "6473",
+    "group": "5",
+    "professor": "MARIA LEONOR SALCEDO UBILLA",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2
+        ],
+        "classroom": "P109"
+      }
+    ],
+    "professor_id": 161143
+  },
+  {
+    "code": "6473",
+    "group": "6",
+    "professor": "LAURO FERNANDO VAZQUEZ ALBERTO",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2
+        ],
+        "classroom": "P114"
+      }
+    ],
+    "professor_id": 124067
+  },
+  {
+    "code": "6473",
+    "group": "7",
+    "professor": "ISRAEL RIVERA CONTRERAS",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2
+        ],
+        "classroom": "P114"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "6473",
+    "group": "8",
+    "professor": "MICHAEL JOSSUE ROJAS GARCIA",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2
+        ],
+        "classroom": "P109"
+      }
+    ],
+    "professor_id": 124068
+  },
+  {
+    "code": "6473",
+    "group": "9",
+    "professor": "ALBERTO RAMIRO GARIBAY MARTINEZ",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          2
+        ],
+        "classroom": "P114"
+      }
+    ],
+    "professor_id": 109182
+  },
+  {
+    "code": "6473",
+    "group": "10",
+    "professor": "JESUS YAÑEZ GUTIERREZ",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          3
+        ],
+        "classroom": "P109"
+      }
+    ],
+    "professor_id": 156041
+  },
+  {
+    "code": "6473",
+    "group": "11",
+    "professor": "VERONICA IRAIS SOLIS TINOCO",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          3
+        ],
+        "classroom": "P114"
+      }
+    ],
+    "professor_id": 175184
+  },
+  {
+    "code": "6473",
+    "group": "12",
+    "professor": "MIREYA OSORIO PALACIOS",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          3
+        ],
+        "classroom": "P114"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "6473",
+    "group": "13",
+    "professor": "LAURO FERNANDO VAZQUEZ ALBERTO",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          3
+        ],
+        "classroom": "P114"
+      }
+    ],
+    "professor_id": 124067
+  },
+  {
+    "code": "6473",
+    "group": "14",
+    "professor": "JESUS YAÑEZ GUTIERREZ",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          4
+        ],
+        "classroom": "P114"
+      }
+    ],
+    "professor_id": 156041
+  },
+  {
+    "code": "6473",
+    "group": "15",
+    "professor": "JOSE ALBERTO ARELLANO FIGUEROA",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          4
+        ],
+        "classroom": "P114"
+      }
+    ],
+    "professor_id": 87572
+  },
+  {
+    "code": "6473",
+    "group": "16",
+    "professor": "JESUS YAÑEZ GUTIERREZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          4
+        ],
+        "classroom": "P109"
+      }
+    ],
+    "professor_id": 156041
+  },
+  {
+    "code": "6473",
+    "group": "17",
+    "professor": "MICHAEL JOSSUE ROJAS GARCIA",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          4
+        ],
+        "classroom": "P109"
+      }
+    ],
+    "professor_id": 124068
+  },
+  {
+    "code": "6473",
+    "group": "18",
+    "professor": "MARIA LEONOR SALCEDO UBILLA",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          5
+        ],
+        "classroom": "P109"
+      }
+    ],
+    "professor_id": 161143
+  },
+  {
+    "code": "6473",
+    "group": "19",
+    "professor": "MARIA LEONOR SALCEDO UBILLA",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          1
+        ],
+        "classroom": "P109"
+      }
+    ],
+    "professor_id": 161143
+  },
+  {
+    "code": "6473",
+    "group": "20",
+    "professor": "JESUS YAÑEZ GUTIERREZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2
+        ],
+        "classroom": "P109"
+      }
+    ],
+    "professor_id": 156041
+  },
+  {
+    "code": "6473",
+    "group": "21",
+    "professor": "LAURO FERNANDO VAZQUEZ ALBERTO",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          3
+        ],
+        "classroom": "P109"
+      }
+    ],
+    "professor_id": 124067
+  },
+  {
+    "code": "6473",
+    "group": "22",
+    "professor": "MARIA LEONOR SALCEDO UBILLA",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          4
+        ],
+        "classroom": "P109"
+      }
+    ],
+    "professor_id": 161143
+  },
+  {
+    "code": "6473",
+    "group": "23",
+    "professor": "ISRAEL RIVERA CONTRERAS",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          4
+        ],
+        "classroom": "P109"
+      }
+    ],
+    "professor_id": null
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "code": "6937",
+    "group": "1",
+    "professor": "LUIS EDUARDO MARTINEZ MARQUEDA",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1
+        ],
+        "classroom": "Q102"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "6937",
+    "group": "2",
+    "professor": "JORGE DIAZ SALGADO",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2
+        ],
+        "classroom": "Q102"
+      }
+    ],
+    "professor_id": 105055
+  },
+  {
+    "code": "6937",
+    "group": "3",
+    "professor": "ISRAEL PEREZ VICENTE",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2
+        ],
+        "classroom": "Q102"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "6937",
+    "group": "4",
+    "professor": "JOSE SALVADOR ZAMORA ALARCON",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          2
+        ],
+        "classroom": "Q102"
+      }
+    ],
+    "professor_id": 86745
+  },
+  {
+    "code": "6937",
+    "group": "5",
+    "professor": "ALEJANDRO SOSA FUENTES",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          3
+        ],
+        "classroom": "Q102"
+      }
+    ],
+    "professor_id": 71693
+  },
+  {
+    "code": "6937",
+    "group": "6",
+    "professor": "LUIS EDUARDO MARTINEZ MARQUEDA",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          3
+        ],
+        "classroom": "Q102"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "6937",
+    "group": "7",
+    "professor": "JORGE DIAZ SALGADO",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          4
+        ],
+        "classroom": "Q102"
+      }
+    ],
+    "professor_id": 105055
+  },
+  {
+    "code": "6937",
+    "group": "9",
+    "professor": "JOSE SALVADOR ZAMORA ALARCON",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          4
+        ],
+        "classroom": "Q102"
+      }
+    ],
+    "professor_id": 86745
+  },
+  {
+    "code": "6937",
+    "group": "10",
+    "professor": "ALEJANDRO SOSA FUENTES",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          5
+        ],
+        "classroom": "Q102"
+      }
+    ],
+    "professor_id": 71693
+  },
+  {
+    "code": "6937",
+    "group": "11",
+    "professor": "JOSE SALVADOR ZAMORA ALARCON",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          5
+        ],
+        "classroom": "Q102"
+      }
+    ],
+    "professor_id": 86745
+  }
+]

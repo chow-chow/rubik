@@ -1,0 +1,25 @@
+[
+  {
+    "code": "3017",
+    "group": "1",
+    "professor": "ALEJANDRA CASTRO GONZALEZ",
+    "schedules": [
+      {
+        "time": "09:30-11:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A305"
+      },
+      {
+        "time": "09:00-11:00",
+        "days": [
+          5
+        ],
+        "classroom": "SIN"
+      }
+    ],
+    "professor_id": 79236
+  }
+]

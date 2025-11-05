@@ -1,0 +1,17 @@
+[
+  {
+    "code": "2003",
+    "group": "1",
+    "professor": "JUAN JOSE LOPEZ MARQUEZ",
+    "schedules": [
+      {
+        "time": "13:00-14:30",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "B102"
+      }
+    ]
+  }
+]

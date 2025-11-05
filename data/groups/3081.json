@@ -1,0 +1,17 @@
+[
+  {
+    "code": "3081",
+    "group": "1",
+    "professor": "HECTOR MIGUEL AVIÑA JIMENEZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "O103"
+      }
+    ]
+  }
+]

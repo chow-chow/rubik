@@ -1,0 +1,17 @@
+[
+  {
+    "code": "2700",
+    "group": "1",
+    "professor": "JOSE VICENTE TORRES GARIBAY",
+    "schedules": [
+      {
+        "time": "19:00-20:30",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A304"
+      }
+    ]
+  }
+]

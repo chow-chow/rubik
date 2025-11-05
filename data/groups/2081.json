@@ -1,0 +1,47 @@
+[
+  {
+    "code": "2081",
+    "group": "1",
+    "professor": "MARCOS AVALOS GARCIA",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "Y103"
+      }
+    ]
+  },
+  {
+    "code": "2081",
+    "group": "3",
+    "professor": "LUIS GUILLERMO UCHA GÓMEZ",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2,
+          3
+        ],
+        "classroom": "D008"
+      }
+    ]
+  },
+  {
+    "code": "2081",
+    "group": "4",
+    "professor": "LEONARDO CRUZ ESPINOSA",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "D007"
+      }
+    ]
+  }
+]

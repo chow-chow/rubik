@@ -1,0 +1,97 @@
+[
+  {
+    "code": "1473",
+    "group": "1",
+    "professor": "EDGAR TELLO PALETA",
+    "schedules": [
+      {
+        "time": "09:00-10:30",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "B404"
+      }
+    ],
+    "professor_id": 89815
+  },
+  {
+    "code": "1473",
+    "group": "2",
+    "professor": "ISRAEL RIVERA CONTRERAS",
+    "schedules": [
+      {
+        "time": "13:00-14:30",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "A306"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1473",
+    "group": "3",
+    "professor": "OSCAR PILLONI CHOREÑO",
+    "schedules": [
+      {
+        "time": "15:00-16:30",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "A306"
+      }
+    ],
+    "professor_id": 95166
+  },
+  {
+    "code": "1473",
+    "group": "4",
+    "professor": "EDGAR TELLO PALETA",
+    "schedules": [
+      {
+        "time": "07:00-08:30",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A107"
+      }
+    ],
+    "professor_id": 89815
+  },
+  {
+    "code": "1473",
+    "group": "5",
+    "professor": "FERNANDA RAMOS GARCIA",
+    "schedules": [
+      {
+        "time": "15:00-16:30",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "B304"
+      }
+    ],
+    "professor_id": 159593
+  },
+  {
+    "code": "1473",
+    "group": "6",
+    "professor": "ERIKA SUSANA MENDOZA URRUTIA",
+    "schedules": [
+      {
+        "time": "09:00-12:00",
+        "days": [
+          6
+        ],
+        "classroom": "B205"
+      }
+    ],
+    "professor_id": 99801
+  }
+]

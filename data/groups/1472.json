@@ -1,0 +1,102 @@
+[
+  {
+    "code": "1472",
+    "group": "1",
+    "professor": "MIGUEL SERRANO REYES",
+    "schedules": [
+      {
+        "time": "15:00-18:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "O006"
+      }
+    ],
+    "professor_id": 98813
+  },
+  {
+    "code": "1472",
+    "group": "2",
+    "professor": "JORGE ARMANDO RODRIGUEZ VERA",
+    "schedules": [
+      {
+        "time": "20:00-22:00",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "EXTR"
+      }
+    ],
+    "professor_id": 75097
+  },
+  {
+    "code": "1472",
+    "group": "3",
+    "professor": "MARIA FERNANDA MERINO MORALES",
+    "schedules": [
+      {
+        "time": "17:00-20:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "O006"
+      }
+    ],
+    "professor_id": 95120
+  },
+  {
+    "code": "1472",
+    "group": "4",
+    "professor": "EMILIANO NAVA MORALES",
+    "schedules": [
+      {
+        "time": "18:00-20:00",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "O006"
+      }
+    ],
+    "professor_id": 124353
+  },
+  {
+    "code": "1472",
+    "group": "5",
+    "professor": "ZAA RIBE JAZMIN RAMIREZ GRAJEDA",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "O006"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1472",
+    "group": "6",
+    "professor": "OMAR PEREZ ROMERO",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "O006"
+      }
+    ],
+    "professor_id": 173217
+  }
+]

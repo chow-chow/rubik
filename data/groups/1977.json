@@ -1,0 +1,77 @@
+[
+  {
+    "code": "1977",
+    "group": "1",
+    "professor": "EFRAIN ALBOR RAMIREZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "X101"
+      }
+    ]
+  },
+  {
+    "code": "1977",
+    "group": "3",
+    "professor": "BRUNO ELOY MENDEZ AMBROSIO",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "EXTR"
+      }
+    ]
+  },
+  {
+    "code": "1977",
+    "group": "4",
+    "professor": "GRACIELA VELASCO HERRERA",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "EXTR"
+      }
+    ]
+  },
+  {
+    "code": "1977",
+    "group": "5",
+    "professor": "JOSE FEDERICO HERNANDEZ SANCHEZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "EXTR"
+      }
+    ]
+  },
+  {
+    "code": "1977",
+    "group": "6",
+    "professor": "FERNANDO PEREZ ESCAMIROSA",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "EXTR"
+      }
+    ]
+  }
+]

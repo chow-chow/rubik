@@ -1,0 +1,64 @@
+[
+  {
+    "code": "2097",
+    "group": "1",
+    "professor": "OSCAR AGESANDRO GARCIA ARRIOLA",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2
+        ],
+        "classroom": "EXTR"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "2097",
+    "group": "2",
+    "professor": "KAREN ITZEL REYES AYALA",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "B406"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "2097",
+    "group": "3",
+    "professor": "ARMANDO ERNESTO ALATORRE CAMPOS",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "C301"
+      }
+    ],
+    "professor_id": 90935
+  },
+  {
+    "code": "2097",
+    "group": "4",
+    "professor": "",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "C304"
+      }
+    ]
+  }
+]

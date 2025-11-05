@@ -1,0 +1,31 @@
+[
+  {
+    "code": "2811",
+    "group": "1",
+    "professor": "JOSE OMAR CRUZ SANTIAGO",
+    "schedules": [
+      {
+        "time": "07:00-08:30",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "B409"
+      }
+    ]
+  },
+  {
+    "code": "2811",
+    "group": "2",
+    "professor": "JOSE DE JESUS AVILA MANRIQUE",
+    "schedules": [
+      {
+        "time": "17:30-20:30",
+        "days": [
+          3
+        ],
+        "classroom": "EXTR"
+      }
+    ]
+  }
+]

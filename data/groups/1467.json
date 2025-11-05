@@ -1,0 +1,18 @@
+[
+  {
+    "code": "1467",
+    "group": "1",
+    "professor": "JUVENTINO CUELLAR GONZALEZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "D004"
+      }
+    ],
+    "professor_id": 99008
+  }
+]

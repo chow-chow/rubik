@@ -1,0 +1,19 @@
+[
+  {
+    "code": "1219",
+    "group": "1",
+    "professor": "CLAUDIA VALERIA VAZQUEZ RODRIGUEZ",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "J204"
+      }
+    ],
+    "professor_id": 99935
+  }
+]

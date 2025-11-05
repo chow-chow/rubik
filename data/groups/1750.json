@@ -1,0 +1,49 @@
+[
+  {
+    "code": "1750",
+    "group": "1",
+    "professor": "ING NEITH MORENO RODRIGUEZ",
+    "schedules": [
+      {
+        "time": "07:00-08:30",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "A404"
+      },
+      {
+        "time": "07:00-09:00",
+        "days": [
+          5
+        ],
+        "classroom": "A404"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1750",
+    "group": "2",
+    "professor": "ERIK DE VALLE SALGADO",
+    "schedules": [
+      {
+        "time": "19:00-20:30",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "A405"
+      },
+      {
+        "time": "20:30-21:30",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "A405"
+      }
+    ],
+    "professor_id": 93218
+  }
+]

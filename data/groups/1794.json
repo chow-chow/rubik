@@ -1,0 +1,62 @@
+[
+  {
+    "code": "1794",
+    "group": "1",
+    "professor": "ANGELICA ARACELI PONCE NAVA ARAIZA",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          5
+        ],
+        "classroom": "A102"
+      }
+    ],
+    "professor_id": 142495
+  },
+  {
+    "code": "1794",
+    "group": "2",
+    "professor": "JUAN MANUEL BUENO SORIA",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          3
+        ],
+        "classroom": "A202"
+      }
+    ],
+    "professor_id": 105044
+  },
+  {
+    "code": "1794",
+    "group": "3",
+    "professor": "SERGIO EDUARDO ZERECERO GALICIA",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1
+        ],
+        "classroom": "A108"
+      }
+    ],
+    "professor_id": 114257
+  },
+  {
+    "code": "1794",
+    "group": "4",
+    "professor": "MARIA DE LOS ANGELES RODRIGUEZ CORTES",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2
+        ],
+        "classroom": "A108"
+      }
+    ],
+    "professor_id": null
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "code": "1593",
+    "group": "1",
+    "professor": "ANA MARIA SALCEDO GARRIDO",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2
+        ],
+        "classroom": "Y202"
+      }
+    ],
+    "professor_id": 95309
+  },
+  {
+    "code": "1593",
+    "group": "2",
+    "professor": "SONIA KARINA PEREZ JUAREZ",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          2
+        ],
+        "classroom": "J208"
+      }
+    ],
+    "professor_id": 59342
+  },
+  {
+    "code": "1593",
+    "group": "3",
+    "professor": "SONIA KARINA PEREZ JUAREZ",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          4
+        ],
+        "classroom": "J108"
+      }
+    ],
+    "professor_id": 59342
+  },
+  {
+    "code": "1593",
+    "group": "4",
+    "professor": "HAZEL EDITH BOND YAÑEZ",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          5
+        ],
+        "classroom": "J205"
+      }
+    ],
+    "professor_id": 172666
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "code": "1578",
+    "group": "1",
+    "professor": "SERGIO ENRIQUE MACIAS MEDRANO",
+    "schedules": [
+      {
+        "time": "09:00-12:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "C103"
+      }
+    ]
+  },
+  {
+    "code": "1578",
+    "group": "2",
+    "professor": "KARIME GONZÁLEZ ZUCCOLOTTO",
+    "schedules": [
+      {
+        "time": "15:00-18:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "C105"
+      }
+    ]
+  },
+  {
+    "code": "1578",
+    "group": "3",
+    "professor": "ORESTES ANTONIO DE LA ROSA MORA",
+    "schedules": [
+      {
+        "time": "16:00-19:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "C103"
+      }
+    ]
+  }
+]

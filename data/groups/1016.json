@@ -1,0 +1,50 @@
+[
+  {
+    "code": "1016",
+    "group": "1",
+    "professor": "RODOLFO SOTO CARRASCO",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "B206"
+      }
+    ],
+    "professor_id": 134031
+  },
+  {
+    "code": "1016",
+    "group": "2",
+    "professor": "JORGE VELAZQUEZ RAMIREZ",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A206"
+      }
+    ],
+    "professor_id": 74006
+  },
+  {
+    "code": "1016",
+    "group": "3",
+    "professor": "JORGE QUINTANA CASTAÑEDA",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          3,
+          4
+        ],
+        "classroom": "DS01"
+      }
+    ],
+    "professor_id": 95193
+  }
+]

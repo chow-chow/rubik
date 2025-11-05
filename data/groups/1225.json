@@ -1,0 +1,167 @@
+[
+  {
+    "code": "1225",
+    "group": "1",
+    "professor": "ERIC ADRIAN TEJADA MALPICA",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2
+        ],
+        "classroom": "B302"
+      }
+    ],
+    "professor_id": 113002
+  },
+  {
+    "code": "1225",
+    "group": "2",
+    "professor": "ERIC ADRIAN TEJADA MALPICA",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          4
+        ],
+        "classroom": "B302"
+      }
+    ],
+    "professor_id": 113002
+  },
+  {
+    "code": "1225",
+    "group": "3",
+    "professor": "JUAN ARMANDO ORTIZ VALERA",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2
+        ],
+        "classroom": "D001"
+      }
+    ],
+    "professor_id": 84383
+  },
+  {
+    "code": "1225",
+    "group": "4",
+    "professor": "MARTIN REYES FARIAS",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          3
+        ],
+        "classroom": "A109"
+      }
+    ],
+    "professor_id": 51610
+  },
+  {
+    "code": "1225",
+    "group": "5",
+    "professor": "JUAN ARMANDO ORTIZ VALERA",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1
+        ],
+        "classroom": "D001"
+      }
+    ],
+    "professor_id": 84383
+  },
+  {
+    "code": "1225",
+    "group": "6",
+    "professor": "JUAN ARMANDO ORTIZ VALERA",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          3
+        ],
+        "classroom": "D001"
+      }
+    ],
+    "professor_id": 84383
+  },
+  {
+    "code": "1225",
+    "group": "7",
+    "professor": "JOSE JAVIER CERVANTES CABELLO",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          2
+        ],
+        "classroom": "D002"
+      }
+    ],
+    "professor_id": 87021
+  },
+  {
+    "code": "1225",
+    "group": "8",
+    "professor": "MARICARMEN GUILLEN MANDUJANO",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          5
+        ],
+        "classroom": "A311"
+      }
+    ],
+    "professor_id": 142033
+  },
+  {
+    "code": "1225",
+    "group": "9",
+    "professor": "ROGELIO DARIO GUTIERREZ CARRILLO",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          4
+        ],
+        "classroom": "B301"
+      }
+    ],
+    "professor_id": 124462
+  },
+  {
+    "code": "1225",
+    "group": "10",
+    "professor": "JOSE JAVIER CERVANTES CABELLO",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2
+        ],
+        "classroom": "B301"
+      }
+    ],
+    "professor_id": 87021
+  },
+  {
+    "code": "1225",
+    "group": "12",
+    "professor": "PABLO EDUARDO LIRA VELAZQUEZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1
+        ],
+        "classroom": "O002"
+      }
+    ],
+    "professor_id": 188267
+  }
+]

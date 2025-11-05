@@ -1,0 +1,127 @@
+[
+  {
+    "code": "1686",
+    "group": "2",
+    "professor": "ISMAEL ROMERO OCARANZA",
+    "schedules": [
+      {
+        "time": "17:00-18:30",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "B304"
+      }
+    ],
+    "professor_id": 89949
+  },
+  {
+    "code": "1686",
+    "group": "3",
+    "professor": "JORGE ANTONIO MONROY JUAREZ",
+    "schedules": [
+      {
+        "time": "07:00-08:30",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "B408"
+      }
+    ],
+    "professor_id": 89950
+  },
+  {
+    "code": "1686",
+    "group": "5",
+    "professor": "MARIO ALFREDO IBARRA CARRILLO",
+    "schedules": [
+      {
+        "time": "11:00-12:30",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "B304"
+      }
+    ],
+    "professor_id": 99010
+  },
+  {
+    "code": "1686",
+    "group": "6",
+    "professor": "CESAR LEONARDO ORDOÑEZ ROMERO",
+    "schedules": [
+      {
+        "time": "13:00-14:30",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "B103"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1686",
+    "group": "7",
+    "professor": "FLORICEL RAMOS VARGAS",
+    "schedules": [
+      {
+        "time": "15:00-16:30",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A107"
+      }
+    ],
+    "professor_id": 89946
+  },
+  {
+    "code": "1686",
+    "group": "8",
+    "professor": "ADAN BONILLA CHAVEZ",
+    "schedules": [
+      {
+        "time": "08:00-11:00",
+        "days": [
+          6
+        ],
+        "classroom": "B401"
+      }
+    ],
+    "professor_id": 124535
+  },
+  {
+    "code": "1686",
+    "group": "9",
+    "professor": "HUMBERTO FLORES GONZALEZ",
+    "schedules": [
+      {
+        "time": "08:00-11:00",
+        "days": [
+          6
+        ],
+        "classroom": "B101"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1686",
+    "group": "10",
+    "professor": "ERNESTO RAMIREZ CRUZ",
+    "schedules": [
+      {
+        "time": "09:00-12:00",
+        "days": [
+          6
+        ],
+        "classroom": "B103"
+      }
+    ],
+    "professor_id": 130840
+  }
+]

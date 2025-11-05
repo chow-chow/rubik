@@ -1,0 +1,17 @@
+[
+  {
+    "code": "1287",
+    "group": "1",
+    "professor": "ROMINA CASTILLO MALAGÓN",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "A303"
+      }
+    ]
+  }
+]

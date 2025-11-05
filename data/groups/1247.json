@@ -1,0 +1,18 @@
+[
+  {
+    "code": "1247",
+    "group": "1",
+    "professor": "HUGO CESAR GARZA MAGALLON",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "D006"
+      }
+    ],
+    "professor_id": 176675
+  }
+]

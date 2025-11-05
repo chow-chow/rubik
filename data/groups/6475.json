@@ -1,0 +1,32 @@
+[
+  {
+    "code": "6475",
+    "group": "1",
+    "professor": "MIGUEL ALEJANDRO MALDONADO GORDILLO",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          3
+        ],
+        "classroom": "H004"
+      }
+    ],
+    "professor_id": 113918
+  },
+  {
+    "code": "6475",
+    "group": "2",
+    "professor": "MIGUEL ANGEL JAIME VASCONCELOS",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          5
+        ],
+        "classroom": "H001"
+      }
+    ],
+    "professor_id": 42088
+  }
+]

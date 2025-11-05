@@ -1,0 +1,23 @@
+[
+  {
+    "code": "1278",
+    "group": "1",
+    "professor": "KEVIN AXEL VARGAS ZAMUDIO",
+    "schedules": [
+      {
+        "time": "13:00-14:30",
+        "days": [
+          3
+        ],
+        "classroom": "I205"
+      },
+      {
+        "time": "13:00-14:30",
+        "days": [
+          1
+        ],
+        "classroom": "C202"
+      }
+    ]
+  }
+]

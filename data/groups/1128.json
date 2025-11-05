@@ -1,0 +1,229 @@
+[
+  {
+    "code": "1128",
+    "group": "1",
+    "professor": "FABIAN PALACIOS CARBAJAL",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "J203"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1128",
+    "group": "2",
+    "professor": "ALFREDO ARENAS GONZALEZ",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          5
+        ],
+        "classroom": "J205"
+      },
+      {
+        "time": "07:00-09:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "J204"
+      }
+    ],
+    "professor_id": 22843
+  },
+  {
+    "code": "1128",
+    "group": "3",
+    "professor": "CITLALI SOLARES PEÑA",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2,
+          3,
+          4
+        ],
+        "classroom": "J205"
+      }
+    ],
+    "professor_id": 113976
+  },
+  {
+    "code": "1128",
+    "group": "4",
+    "professor": "ANTONIO MIRALLES ESCOBAR",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "J203"
+      }
+    ],
+    "professor_id": 61247
+  },
+  {
+    "code": "1128",
+    "group": "5",
+    "professor": "LORENZO OCTAVIO MIRANDA CORDERO",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "J204"
+      }
+    ],
+    "professor_id": 63626
+  },
+  {
+    "code": "1128",
+    "group": "6",
+    "professor": "FRANCISCO JAVIER PEREZ ESCAMILLA",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "J203"
+      }
+    ],
+    "professor_id": 102885
+  },
+  {
+    "code": "1128",
+    "group": "7",
+    "professor": "CLAUDIA VALERIA VAZQUEZ RODRIGUEZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2,
+          3,
+          4
+        ],
+        "classroom": "J203"
+      }
+    ],
+    "professor_id": 99935
+  },
+  {
+    "code": "1128",
+    "group": "8",
+    "professor": "MARIO ALBERTO MÁRQUEZ CALDERÓN",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "J203"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1128",
+    "group": "9",
+    "professor": "FRANCISCO JAVIER PEREZ ESCAMILLA",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "J204"
+      }
+    ],
+    "professor_id": 102885
+  },
+  {
+    "code": "1128",
+    "group": "10",
+    "professor": "PEDRO JAIMES LOPEZ",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "J205"
+      }
+    ],
+    "professor_id": 70319
+  },
+  {
+    "code": "1128",
+    "group": "11",
+    "professor": "PEDRO JAIMES LOPEZ",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "J203"
+      }
+    ],
+    "professor_id": 70319
+  },
+  {
+    "code": "1128",
+    "group": "12",
+    "professor": "LUIS FERNANDO DONIS RABANALES",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "J205"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1128",
+    "group": "13",
+    "professor": "DIANA LAURA FLORES DIAZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2,
+          3,
+          4
+        ],
+        "classroom": "J205"
+      }
+    ],
+    "professor_id": 167424
+  }
+]

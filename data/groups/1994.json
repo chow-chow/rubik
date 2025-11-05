@@ -1,0 +1,33 @@
+[
+  {
+    "code": "1994",
+    "group": "1",
+    "professor": "IRMA DEL CARMEN GLINZ FEREZ",
+    "schedules": [
+      {
+        "time": "07:00-11:00",
+        "days": [
+          5
+        ],
+        "classroom": "J205"
+      }
+    ],
+    "professor_id": 95130
+  },
+  {
+    "code": "1994",
+    "group": "2",
+    "professor": "VICTOR JUAN LOPEZ HERNANDEZ",
+    "schedules": [
+      {
+        "time": "18:30-20:30",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "D007"
+      }
+    ],
+    "professor_id": 90530
+  }
+]

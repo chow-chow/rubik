@@ -1,0 +1,182 @@
+[
+  {
+    "code": "6617",
+    "group": "1",
+    "professor": "ADOLFO ROJAS JUAREZ",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1
+        ],
+        "classroom": "Q101"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "6617",
+    "group": "2",
+    "professor": "JAIME HECTOR MURILLO QUINTERO",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1
+        ],
+        "classroom": "Q106"
+      }
+    ],
+    "professor_id": 94156
+  },
+  {
+    "code": "6617",
+    "group": "3",
+    "professor": "ARMANDO ROJAS ASCENCIO",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1
+        ],
+        "classroom": "Q101"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "6617",
+    "group": "4",
+    "professor": "MARIA DEL SOCORRO GUEVARA RODRIGUEZ",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2
+        ],
+        "classroom": "Q101"
+      }
+    ],
+    "professor_id": 78454
+  },
+  {
+    "code": "6617",
+    "group": "5",
+    "professor": "ANGEL JOSHUA ROSAS GARCIA",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          2
+        ],
+        "classroom": "Q101"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "6617",
+    "group": "6",
+    "professor": "JESUS RAMIREZ ORTEGA",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          3
+        ],
+        "classroom": "Q101"
+      }
+    ],
+    "professor_id": 112721
+  },
+  {
+    "code": "6617",
+    "group": "7",
+    "professor": "JESUS MARIA FRANCISCO HERNANDEZ MORALES",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          4
+        ],
+        "classroom": "Q101"
+      }
+    ],
+    "professor_id": 80201
+  },
+  {
+    "code": "6617",
+    "group": "8",
+    "professor": "OMAR EDSIEL ABREGO BLANCAS",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          4
+        ],
+        "classroom": "Q101"
+      }
+    ],
+    "professor_id": 161304
+  },
+  {
+    "code": "6617",
+    "group": "9",
+    "professor": "OMAR EDSIEL ABREGO BLANCAS",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          4
+        ],
+        "classroom": "Q101"
+      }
+    ],
+    "professor_id": 161304
+  },
+  {
+    "code": "6617",
+    "group": "10",
+    "professor": "VICENTE FLORES OLVERA",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          5
+        ],
+        "classroom": "Q101"
+      }
+    ],
+    "professor_id": 65407
+  },
+  {
+    "code": "6617",
+    "group": "11",
+    "professor": "JAIME HECTOR MURILLO QUINTERO",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          5
+        ],
+        "classroom": "Q101"
+      }
+    ],
+    "professor_id": 94156
+  },
+  {
+    "code": "6617",
+    "group": "12",
+    "professor": "OMAR EDSIEL ABREGO BLANCAS",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          5
+        ],
+        "classroom": "Q101"
+      }
+    ],
+    "professor_id": 161304
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "code": "1240",
+    "group": "1",
+    "professor": "DANIEL ALFONSO RESENDIZ GARCIA",
+    "schedules": [
+      {
+        "time": "08:30-10:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "R237"
+      }
+    ]
+  }
+]

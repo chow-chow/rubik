@@ -1,0 +1,32 @@
+[
+  {
+    "code": "1456",
+    "group": "1",
+    "professor": "CARLOS AURELIO BERNAL ESPONDA",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1
+        ],
+        "classroom": "C104"
+      }
+    ],
+    "professor_id": 68400
+  },
+  {
+    "code": "1456",
+    "group": "2",
+    "professor": "ELIAS GRANADOS GONZALEZ",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          3
+        ],
+        "classroom": "C103"
+      }
+    ],
+    "professor_id": null
+  }
+]

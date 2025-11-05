@@ -1,0 +1,272 @@
+[
+  {
+    "code": "6125",
+    "group": "1",
+    "professor": "LUIS EDGARDO VIGUERAS RUEDA",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          1
+        ],
+        "classroom": "H003"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "6125",
+    "group": "2",
+    "professor": "LUIS PEÑA CRUZ",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          1
+        ],
+        "classroom": "H004"
+      }
+    ],
+    "professor_id": 128316
+  },
+  {
+    "code": "6125",
+    "group": "3",
+    "professor": "KARINA HERRERA GUZMAN",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          3
+        ],
+        "classroom": "H003"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "6125",
+    "group": "4",
+    "professor": "BRENDA NATALY SÁNCHEZ EGUÍA",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          3
+        ],
+        "classroom": "H004"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "6125",
+    "group": "5",
+    "professor": "ROXANA ISELA NORIEGA NAVARRO",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          3
+        ],
+        "classroom": "H004"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "6125",
+    "group": "6",
+    "professor": "MIGUEL ALEJANDRO MALDONADO GORDILLO",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          3
+        ],
+        "classroom": "H003"
+      }
+    ],
+    "professor_id": 113918
+  },
+  {
+    "code": "6125",
+    "group": "7",
+    "professor": "ANTONIA DEL CARMEN PEREZ LEON",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          4
+        ],
+        "classroom": "H003"
+      }
+    ],
+    "professor_id": 58911
+  },
+  {
+    "code": "6125",
+    "group": "8",
+    "professor": "ROXANA ISELA NORIEGA NAVARRO",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          4
+        ],
+        "classroom": "H004"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "6125",
+    "group": "9",
+    "professor": "FABIOLA VEGA GARCIA",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          4
+        ],
+        "classroom": "H003"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "6125",
+    "group": "10",
+    "professor": "ITZEL EDALIZ PEREZ CABALLERO",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          4
+        ],
+        "classroom": "H004"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "6125",
+    "group": "11",
+    "professor": "THALIA ITZEL FERRERA VELAZQUEZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          4
+        ],
+        "classroom": "H003"
+      }
+    ],
+    "professor_id": 84707
+  },
+  {
+    "code": "6125",
+    "group": "12",
+    "professor": "CLAUDIA ELISA SANCHEZ NAVARRO",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          4
+        ],
+        "classroom": "H004"
+      }
+    ],
+    "professor_id": 68129
+  },
+  {
+    "code": "6125",
+    "group": "13",
+    "professor": "EHECATL LUIS DAVID PALEO GONZALEZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          5
+        ],
+        "classroom": "H003"
+      }
+    ],
+    "professor_id": 84416
+  },
+  {
+    "code": "6125",
+    "group": "14",
+    "professor": "EMMA MARTÍNEZ LUNA",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          5
+        ],
+        "classroom": "H004"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "6125",
+    "group": "15",
+    "professor": "VIANEY FRANCO GARCIA",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          5
+        ],
+        "classroom": "H003"
+      }
+    ],
+    "professor_id": 46452
+  },
+  {
+    "code": "6125",
+    "group": "16",
+    "professor": "CYNTHIA SOFIA RODRIGUEZ MANDUJANO",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          5
+        ],
+        "classroom": "H004"
+      }
+    ],
+    "professor_id": 71932
+  },
+  {
+    "code": "6125",
+    "group": "17",
+    "professor": "VIANEY FRANCO GARCIA",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          5
+        ],
+        "classroom": "H003"
+      }
+    ],
+    "professor_id": 46452
+  },
+  {
+    "code": "6125",
+    "group": "18",
+    "professor": "MONSERRAT AGUILAR PICHARDO",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          5
+        ],
+        "classroom": "H004"
+      }
+    ],
+    "professor_id": null
+  }
+]

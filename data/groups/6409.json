@@ -1,0 +1,527 @@
+[
+  {
+    "code": "6409",
+    "group": "1",
+    "professor": "DIANA PATRICIA ANAYA TELLEZ",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          3
+        ],
+        "classroom": "N005"
+      }
+    ],
+    "professor_id": 134866
+  },
+  {
+    "code": "6409",
+    "group": "2",
+    "professor": "JAIME AGUILAR REYES",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          3
+        ],
+        "classroom": "N005"
+      }
+    ],
+    "professor_id": 161895
+  },
+  {
+    "code": "6409",
+    "group": "3",
+    "professor": "ALEJANDRA MENDOZA CAMPOS",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          3
+        ],
+        "classroom": "N005"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "6409",
+    "group": "4",
+    "professor": "MAURICIO IVAN ESCALANTE CAMARGO",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          3
+        ],
+        "classroom": "N005"
+      }
+    ],
+    "professor_id": 79858
+  },
+  {
+    "code": "6409",
+    "group": "5",
+    "professor": "JAIME AGUILAR REYES",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          3
+        ],
+        "classroom": "N005"
+      }
+    ],
+    "professor_id": 161895
+  },
+  {
+    "code": "6409",
+    "group": "6",
+    "professor": "LUIS FERNANDO DONIS RABANALES",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          3
+        ],
+        "classroom": "N005"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "6409",
+    "group": "7",
+    "professor": "ING OCTAVIO PASTOR REYES GARCIA",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          3
+        ],
+        "classroom": "N005"
+      }
+    ],
+    "professor_id": 98730
+  },
+  {
+    "code": "6409",
+    "group": "8",
+    "professor": "AGUSTIN NIEVES SAAVEDRA",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          3
+        ],
+        "classroom": "N005"
+      }
+    ],
+    "professor_id": 63731
+  },
+  {
+    "code": "6409",
+    "group": "9",
+    "professor": "MAURICIO IVAN ESCALANTE CAMARGO",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          3
+        ],
+        "classroom": "N005"
+      }
+    ],
+    "professor_id": 79858
+  },
+  {
+    "code": "6409",
+    "group": "10",
+    "professor": "JUAN ANTONIO SANDOVAL RODRIGUEZ",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          3
+        ],
+        "classroom": "N005"
+      }
+    ],
+    "professor_id": 71990
+  },
+  {
+    "code": "6409",
+    "group": "11",
+    "professor": "SERVANDO RUIZ RODRIGUEZ",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          3
+        ],
+        "classroom": "N005"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "6409",
+    "group": "12",
+    "professor": "MAURICIO IVAN ESCALANTE CAMARGO",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          3
+        ],
+        "classroom": "N005"
+      }
+    ],
+    "professor_id": 79858
+  },
+  {
+    "code": "6409",
+    "group": "13",
+    "professor": "EDUARDO PEREZ GONZALEZ",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          3
+        ],
+        "classroom": "N005"
+      }
+    ],
+    "professor_id": 149862
+  },
+  {
+    "code": "6409",
+    "group": "14",
+    "professor": "SERVANDO RUIZ RODRIGUEZ",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          3
+        ],
+        "classroom": "N005"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "6409",
+    "group": "15",
+    "professor": "JORGE AGUILAR JUAREZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          3
+        ],
+        "classroom": "N005"
+      }
+    ],
+    "professor_id": 160523
+  },
+  {
+    "code": "6409",
+    "group": "16",
+    "professor": "IAN GUILLERMO MONSIVAIS MONTOLIU",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          3
+        ],
+        "classroom": "N005"
+      }
+    ],
+    "professor_id": 79478
+  },
+  {
+    "code": "6409",
+    "group": "17",
+    "professor": "MAURICIO IVAN ESCALANTE CAMARGO",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          3
+        ],
+        "classroom": "N005"
+      }
+    ],
+    "professor_id": 79858
+  },
+  {
+    "code": "6409",
+    "group": "18",
+    "professor": "ING OCTAVIO PASTOR REYES GARCIA",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          3
+        ],
+        "classroom": "N005"
+      }
+    ],
+    "professor_id": 98730
+  },
+  {
+    "code": "6409",
+    "group": "19",
+    "professor": "JORGE AGUILAR JUAREZ",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          3
+        ],
+        "classroom": "N005"
+      }
+    ],
+    "professor_id": 160523
+  },
+  {
+    "code": "6409",
+    "group": "20",
+    "professor": "LUIS FERNANDO DONIS RABANALES",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          3
+        ],
+        "classroom": "N005"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "6409",
+    "group": "21",
+    "professor": "EDGAR EDUARDO CEDILLO CORNEJO",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          3
+        ],
+        "classroom": "N005"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "6409",
+    "group": "22",
+    "professor": "ING OCTAVIO PASTOR REYES GARCIA",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          3
+        ],
+        "classroom": "N005"
+      }
+    ],
+    "professor_id": 98730
+  },
+  {
+    "code": "6409",
+    "group": "23",
+    "professor": "DIANA PATRICIA ANAYA TELLEZ",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          5
+        ],
+        "classroom": "N005"
+      }
+    ],
+    "professor_id": 134866
+  },
+  {
+    "code": "6409",
+    "group": "24",
+    "professor": "LUIS FERNANDO DONIS RABANALES",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          5
+        ],
+        "classroom": "N005"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "6409",
+    "group": "25",
+    "professor": "DANIEL ESQUIVEL VELAZQUEZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          5
+        ],
+        "classroom": "N005"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "6409",
+    "group": "26",
+    "professor": "LUIS FERNANDO DONIS RABANALES",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          5
+        ],
+        "classroom": "N005"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "6409",
+    "group": "27",
+    "professor": "SONIA LUISA LOPEZ MALDONADO",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          5
+        ],
+        "classroom": "N005"
+      }
+    ],
+    "professor_id": 134971
+  },
+  {
+    "code": "6409",
+    "group": "28",
+    "professor": "SONIA LUISA LOPEZ MALDONADO",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          5
+        ],
+        "classroom": "N005"
+      }
+    ],
+    "professor_id": 134971
+  },
+  {
+    "code": "6409",
+    "group": "29",
+    "professor": "JORGE AGUILAR JUAREZ",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          5
+        ],
+        "classroom": "N005"
+      }
+    ],
+    "professor_id": 160523
+  },
+  {
+    "code": "6409",
+    "group": "30",
+    "professor": "DANIEL ESQUIVEL VELAZQUEZ",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          5
+        ],
+        "classroom": "N005"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "6409",
+    "group": "31",
+    "professor": "RAMON SANDOVAL PEÑA",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          5
+        ],
+        "classroom": "N005"
+      }
+    ],
+    "professor_id": 134458
+  },
+  {
+    "code": "6409",
+    "group": "32",
+    "professor": "JOAQUIN LEONEL REYES GARCIA",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          5
+        ],
+        "classroom": "N005"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "6409",
+    "group": "33",
+    "professor": "JOAQUIN LEONEL REYES GARCIA",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          5
+        ],
+        "classroom": "N005"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "6409",
+    "group": "34",
+    "professor": "ALEJANDRA MENDOZA CAMPOS",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          5
+        ],
+        "classroom": "N005"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "6409",
+    "group": "35",
+    "professor": "ALEJANDRA MENDOZA CAMPOS",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          5
+        ],
+        "classroom": "N005"
+      }
+    ],
+    "professor_id": null
+  }
+]

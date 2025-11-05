@@ -1,0 +1,81 @@
+[
+  {
+    "code": "3098",
+    "group": "1",
+    "professor": "RICARDO FERNANDO ABELA POSADA",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "O006"
+      }
+    ],
+    "professor_id": 104481
+  },
+  {
+    "code": "3098",
+    "group": "2",
+    "professor": "MIGUEL SERRANO REYES",
+    "schedules": [
+      {
+        "time": "14:00-18:00",
+        "days": [
+          5
+        ],
+        "classroom": "O006"
+      }
+    ],
+    "professor_id": 98813
+  },
+  {
+    "code": "3098",
+    "group": "5",
+    "professor": "EMILIANO NAVA MORALES",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "O006"
+      }
+    ],
+    "professor_id": 124353
+  },
+  {
+    "code": "3098",
+    "group": "8",
+    "professor": "JORGE ARMANDO RODRIGUEZ VERA",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "EXTR"
+      }
+    ],
+    "professor_id": 75097
+  },
+  {
+    "code": "3098",
+    "group": "10",
+    "professor": "ZAA RIBE JAZMIN RAMIREZ GRAJEDA",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "O006"
+      }
+    ],
+    "professor_id": null
+  }
+]

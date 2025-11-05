@@ -1,0 +1,50 @@
+[
+  {
+    "code": "2931",
+    "group": "1",
+    "professor": "ANGEL CESAR GOVANTES SALDIVAR",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "Y002"
+      }
+    ],
+    "professor_id": 119388
+  },
+  {
+    "code": "2931",
+    "group": "2",
+    "professor": "SALVADOR PEREZ VIRAMONTES",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "B304"
+      }
+    ],
+    "professor_id": 90758
+  },
+  {
+    "code": "2931",
+    "group": "3",
+    "professor": "GERARDO GABRIEL CARRASCO ZUÑIGA",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A206"
+      }
+    ],
+    "professor_id": 138601
+  }
+]

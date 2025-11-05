@@ -1,0 +1,49 @@
+[
+  {
+    "code": "1439",
+    "group": "1",
+    "professor": "ROSA DE JESUS HERNANDEZ ALVAREZ",
+    "schedules": [
+      {
+        "time": "10:00-13:00",
+        "days": [
+          5
+        ],
+        "classroom": "C201"
+      }
+    ],
+    "professor_id": 101485
+  },
+  {
+    "code": "1439",
+    "group": "2",
+    "professor": "JUAN ANTONIO HERNANDEZ MARTINEZ",
+    "schedules": [
+      {
+        "time": "13:00-14:30",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "C201"
+      }
+    ],
+    "professor_id": 162321
+  },
+  {
+    "code": "1439",
+    "group": "3",
+    "professor": "JANET MONTAÑO SALAZAR",
+    "schedules": [
+      {
+        "time": "11:00-12:30",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "C201"
+      }
+    ],
+    "professor_id": null
+  }
+]

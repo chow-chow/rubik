@@ -1,0 +1,18 @@
+[
+  {
+    "code": "2813",
+    "group": "1",
+    "professor": "MTRO ENRIQUE OCTAVIO DIAZ CERON",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "Q309"
+      }
+    ],
+    "professor_id": 105051
+  }
+]

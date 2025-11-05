@@ -1,0 +1,18 @@
+[
+  {
+    "code": "1753",
+    "group": "1",
+    "professor": "ERIK DE VALLE SALGADO",
+    "schedules": [
+      {
+        "time": "19:00-22:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A405"
+      }
+    ],
+    "professor_id": 93218
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "code": "1068",
+    "group": "1",
+    "professor": "JUAN ANTONIO HERNANDEZ MARTINEZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2
+        ],
+        "classroom": "C205"
+      }
+    ],
+    "professor_id": 162321
+  },
+  {
+    "code": "1068",
+    "group": "2",
+    "professor": "DANIEL MARURE VALDEZ",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "A402"
+      }
+    ],
+    "professor_id": 82781
+  },
+  {
+    "code": "1068",
+    "group": "3",
+    "professor": "ERICK JAIR GORDILLO GUILLEN",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "C402"
+      },
+      {
+        "time": "12:00-14:00",
+        "days": [
+          4
+        ],
+        "classroom": "C205"
+      }
+    ],
+    "professor_id": 149603
+  },
+  {
+    "code": "1068",
+    "group": "4",
+    "professor": "JANET MONTAÑO SALAZAR",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          3
+        ],
+        "classroom": "C205"
+      }
+    ],
+    "professor_id": null
+  }
+]

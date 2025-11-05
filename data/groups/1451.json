@@ -1,0 +1,24 @@
+[
+  {
+    "code": "1451",
+    "group": "1",
+    "professor": "SALVADOR ENRIQUE VILLALOBOS PEREZ",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          3
+        ],
+        "classroom": "J106"
+      },
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1
+        ],
+        "classroom": "H001"
+      }
+    ],
+    "professor_id": 156721
+  }
+]

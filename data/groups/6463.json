@@ -1,0 +1,32 @@
+[
+  {
+    "code": "6463",
+    "group": "1",
+    "professor": "JUAN MANUEL VELASCO MIRANDA",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          5
+        ],
+        "classroom": "P215"
+      }
+    ],
+    "professor_id": 95190
+  },
+  {
+    "code": "6463",
+    "group": "2",
+    "professor": "EDGAR  BALDEMAR AGUADO CRUZ",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          5
+        ],
+        "classroom": "P215"
+      }
+    ],
+    "professor_id": 99901
+  }
+]

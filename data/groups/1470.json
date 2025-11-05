@@ -1,0 +1,18 @@
+[
+  {
+    "code": "1470",
+    "group": "1",
+    "professor": "MIGUEL MOCTEZUMA FLORES",
+    "schedules": [
+      {
+        "time": "11:30-13:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A305"
+      }
+    ],
+    "professor_id": 94778
+  }
+]

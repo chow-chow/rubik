@@ -1,0 +1,97 @@
+[
+  {
+    "code": "1562",
+    "group": "1",
+    "professor": "LUIS ANTONIO ALTAMIRANO YEPEZ",
+    "schedules": [
+      {
+        "time": "09:00-10:30",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "A301"
+      }
+    ],
+    "professor_id": 142401
+  },
+  {
+    "code": "1562",
+    "group": "2",
+    "professor": "VICTOR MANUEL SANCHEZ ESQUIVEL",
+    "schedules": [
+      {
+        "time": "15:00-16:30",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "B101"
+      }
+    ],
+    "professor_id": 71347
+  },
+  {
+    "code": "1562",
+    "group": "3",
+    "professor": "PATRICIA HONG CIRION",
+    "schedules": [
+      {
+        "time": "17:00-18:30",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "B106"
+      }
+    ],
+    "professor_id": 83076
+  },
+  {
+    "code": "1562",
+    "group": "4",
+    "professor": "IVAN MARTINEZ PEREZ",
+    "schedules": [
+      {
+        "time": "19:30-21:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "B101"
+      }
+    ],
+    "professor_id": 135120
+  },
+  {
+    "code": "1562",
+    "group": "5",
+    "professor": "JULIA VAZQUEZ FUENTES",
+    "schedules": [
+      {
+        "time": "09:00-10:30",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "B305"
+      }
+    ],
+    "professor_id": 58672
+  },
+  {
+    "code": "1562",
+    "group": "6",
+    "professor": "MARTHA ISELA TORRES HERNANDEZ",
+    "schedules": [
+      {
+        "time": "09:00-12:00",
+        "days": [
+          6
+        ],
+        "classroom": "A306"
+      }
+    ],
+    "professor_id": 134274
+  }
+]

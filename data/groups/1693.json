@@ -1,0 +1,24 @@
+[
+  {
+    "code": "1693",
+    "group": "1",
+    "professor": "MÉD ANA BRISA GARCIA VILCHIS",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "A310"
+      },
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1
+        ],
+        "classroom": "A310"
+      }
+    ]
+  }
+]

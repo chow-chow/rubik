@@ -1,0 +1,82 @@
+[
+  {
+    "code": "1672",
+    "group": "1",
+    "professor": "RUBEN ANAYA GARCIA",
+    "schedules": [
+      {
+        "time": "07:00-08:30",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "B106"
+      }
+    ],
+    "professor_id": 94395
+  },
+  {
+    "code": "1672",
+    "group": "2",
+    "professor": "MOISES MELENDEZ REYES",
+    "schedules": [
+      {
+        "time": "15:00-16:30",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "B305"
+      }
+    ],
+    "professor_id": 134609
+  },
+  {
+    "code": "1672",
+    "group": "3",
+    "professor": "JOSE ANTONIO DE JESUS ARREDONDO GARZA",
+    "schedules": [
+      {
+        "time": "07:00-08:30",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A302"
+      }
+    ],
+    "professor_id": 71331
+  },
+  {
+    "code": "1672",
+    "group": "4",
+    "professor": "MOISES MELENDEZ REYES",
+    "schedules": [
+      {
+        "time": "15:00-16:30",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "B205"
+      }
+    ],
+    "professor_id": 134609
+  },
+  {
+    "code": "1672",
+    "group": "5",
+    "professor": "ANTONIO SALVA CALLEJA",
+    "schedules": [
+      {
+        "time": "17:30-19:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "B101"
+      }
+    ],
+    "professor_id": 28948
+  }
+]

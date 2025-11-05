@@ -1,0 +1,152 @@
+[
+  {
+    "code": "1796",
+    "group": "1",
+    "professor": "MTRO LUIS EDUARDO LEDESMA SOLANOVer Nota 1",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          1
+        ],
+        "classroom": "A102"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1796",
+    "group": "2",
+    "professor": "ALEJANDRA GARNICA ARROYO",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          3
+        ],
+        "classroom": "A103"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1796",
+    "group": "3",
+    "professor": "MTRO LUIS EDUARDO LEDESMA SOLANOVer Nota 1",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1
+        ],
+        "classroom": "A101"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1796",
+    "group": "4",
+    "professor": "GUILLERMINA PEREZ DURAN",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          3
+        ],
+        "classroom": "A101"
+      }
+    ],
+    "professor_id": 104858
+  },
+  {
+    "code": "1796",
+    "group": "5",
+    "professor": "DR JOSÉ FRANCISCO ALBARRAN NUÑEZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          4
+        ],
+        "classroom": "A103"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1796",
+    "group": "6",
+    "professor": "DIEGO JAVIER SANTAMARIA NAJERA",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          3
+        ],
+        "classroom": "A104"
+      }
+    ],
+    "professor_id": 156753
+  },
+  {
+    "code": "1796",
+    "group": "7",
+    "professor": "ZAIRA LINETTE TORRES CORTES",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          5
+        ],
+        "classroom": "A108"
+      }
+    ],
+    "professor_id": 140654
+  },
+  {
+    "code": "1796",
+    "group": "8",
+    "professor": "DR JOSÉ FRANCISCO ALBARRAN NUÑEZ",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          1
+        ],
+        "classroom": "A108"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1796",
+    "group": "9",
+    "professor": "ROSA ISELA MARQUEZ MONROY",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          1
+        ],
+        "classroom": "A202"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1796",
+    "group": "10",
+    "professor": "ANGELICA ARACELI PONCE NAVA ARAIZA",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          3
+        ],
+        "classroom": "A202"
+      }
+    ],
+    "professor_id": 142495
+  }
+]

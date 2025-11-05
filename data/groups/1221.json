@@ -1,0 +1,376 @@
+[
+  {
+    "code": "1221",
+    "group": "1",
+    "professor": "MARQ BERNARDO NAVARRO VAZQUEZ",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "J201"
+      }
+    ],
+    "professor_id": 46395
+  },
+  {
+    "code": "1221",
+    "group": "2",
+    "professor": "ROSALBA HUERTA CRUZ",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "J110"
+      }
+    ],
+    "professor_id": 56186
+  },
+  {
+    "code": "1221",
+    "group": "3",
+    "professor": "JOEL GOMEZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1
+        ],
+        "classroom": "J110"
+      },
+      {
+        "time": "09:00-11:00",
+        "days": [
+          3
+        ],
+        "classroom": "J107"
+      }
+    ],
+    "professor_id": 30241
+  },
+  {
+    "code": "1221",
+    "group": "4",
+    "professor": "ALEJANDRA VARGAS ESPINOZA DE LOS MONTEROS",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "I306"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1221",
+    "group": "5",
+    "professor": "ROSALBA HUERTA CRUZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "J202"
+      }
+    ],
+    "professor_id": 56186
+  },
+  {
+    "code": "1221",
+    "group": "6",
+    "professor": "MARGARITA RAMIREZ GALINDO",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "J101"
+      }
+    ],
+    "professor_id": 32932
+  },
+  {
+    "code": "1221",
+    "group": "7",
+    "professor": "LUIS HERNANDEZ MORENO",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "J104"
+      }
+    ],
+    "professor_id": 78817
+  },
+  {
+    "code": "1221",
+    "group": "8",
+    "professor": "MARIA ELIZABETH ESQUIVEL RODRIGUEZ",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "J206"
+      }
+    ],
+    "professor_id": 71883
+  },
+  {
+    "code": "1221",
+    "group": "9",
+    "professor": "TAMARA ALICIA TREJO BECERRIL",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "I301"
+      }
+    ],
+    "professor_id": 55921
+  },
+  {
+    "code": "1221",
+    "group": "10",
+    "professor": "VERONICA GONZALEZ PACHECO",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1,
+          5
+        ],
+        "classroom": "Y204"
+      }
+    ],
+    "professor_id": 95169
+  },
+  {
+    "code": "1221",
+    "group": "11",
+    "professor": "HECTOR RODRIGO AMEZCUA RIVERA",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1,
+          5
+        ],
+        "classroom": "J210"
+      }
+    ],
+    "professor_id": 93403
+  },
+  {
+    "code": "1221",
+    "group": "12",
+    "professor": "JESUS ALEJANDRO PLATA MARTINEZ",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "I206"
+      }
+    ],
+    "professor_id": 123084
+  },
+  {
+    "code": "1221",
+    "group": "13",
+    "professor": "PEDRO RAMIREZ MANNY",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1,
+          5
+        ],
+        "classroom": "Y101"
+      }
+    ],
+    "professor_id": 21252
+  },
+  {
+    "code": "1221",
+    "group": "14",
+    "professor": "HORTENCIA CABALLERO LOPEZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "J107"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1221",
+    "group": "15",
+    "professor": "GUILLERMO ALBERTO SANCHEZ LOZANO",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "J208"
+      }
+    ],
+    "professor_id": 135641
+  },
+  {
+    "code": "1221",
+    "group": "16",
+    "professor": "SERGIO CARLOS CRAIL CORZAS",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "J111"
+      }
+    ],
+    "professor_id": 22932
+  },
+  {
+    "code": "1221",
+    "group": "17",
+    "professor": "RUBEN HERNANDEZ BUSTAMANTE",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "J107"
+      }
+    ],
+    "professor_id": 106849
+  },
+  {
+    "code": "1221",
+    "group": "18",
+    "professor": "JOSE LUIS FLORES SILVA",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "J210"
+      }
+    ],
+    "professor_id": 43499
+  },
+  {
+    "code": "1221",
+    "group": "19",
+    "professor": "LUIS ANTONIO PEREZ PEREZ",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          1,
+          5
+        ],
+        "classroom": "I306"
+      }
+    ],
+    "professor_id": 114209
+  },
+  {
+    "code": "1221",
+    "group": "20",
+    "professor": "JAVIER GUTIERREZ SORIA",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "J107"
+      }
+    ],
+    "professor_id": 51786
+  },
+  {
+    "code": "1221",
+    "group": "21",
+    "professor": "SHAMARA ZORAIDA CRUZ ALANIS",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "J201"
+      }
+    ],
+    "professor_id": 111772
+  },
+  {
+    "code": "1221",
+    "group": "22",
+    "professor": "IRLIB BELEN BLANCAS RIOS",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1,
+          5
+        ],
+        "classroom": "J210"
+      }
+    ],
+    "professor_id": 60655
+  },
+  {
+    "code": "1221",
+    "group": "23",
+    "professor": "JONATHAN RODRIGO OLIVARES HERNANDEZ",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "I305"
+      }
+    ],
+    "professor_id": 134293
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "code": "1579",
+    "group": "1",
+    "professor": "BERNARDO IGNACIO GARCIA AMADOR",
+    "schedules": [
+      {
+        "time": "14:00-16:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "J001"
+      }
+    ]
+  }
+]

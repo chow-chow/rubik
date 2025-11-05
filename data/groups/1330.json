@@ -1,0 +1,98 @@
+[
+  {
+    "code": "1330",
+    "group": "1",
+    "professor": "HORTENCIA CABALLERO LOPEZ",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "EXTR"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1330",
+    "group": "2",
+    "professor": "GABRIEL ALEJANDRO JARAMILLO MORALES",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "J106"
+      }
+    ],
+    "professor_id": 32242
+  },
+  {
+    "code": "1330",
+    "group": "3",
+    "professor": "EDUARDO LOPEZ MOLINA",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1,
+          5
+        ],
+        "classroom": "I101"
+      }
+    ],
+    "professor_id": 78455
+  },
+  {
+    "code": "1330",
+    "group": "4",
+    "professor": "DANIEL ESQUIVEL VELAZQUEZ",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "J202"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1330",
+    "group": "5",
+    "professor": "LUIS ANDRES SUAREZ HERNANDEZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1,
+          5
+        ],
+        "classroom": "Y102"
+      }
+    ],
+    "professor_id": 68185
+  },
+  {
+    "code": "1330",
+    "group": "6",
+    "professor": "JORGE ISUNZA HERNANDEZ",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "I306"
+      }
+    ],
+    "professor_id": 49393
+  }
+]

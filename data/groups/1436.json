@@ -1,0 +1,465 @@
+[
+  {
+    "code": "1436",
+    "group": "1",
+    "professor": "SANDRA ALVARADO LOPEZ",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "J205"
+      }
+    ],
+    "professor_id": 100430
+  },
+  {
+    "code": "1436",
+    "group": "2",
+    "professor": "LILIANA FLORES GARCIA",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "I304"
+      }
+    ],
+    "professor_id": 56184
+  },
+  {
+    "code": "1436",
+    "group": "3",
+    "professor": "GABRIELA BETZABE LIZARRAGA RAMIREZ",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "J107"
+      }
+    ],
+    "professor_id": 22143
+  },
+  {
+    "code": "1436",
+    "group": "4",
+    "professor": "AURELIO SANCHEZ VACA",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "I306"
+      }
+    ],
+    "professor_id": 58750
+  },
+  {
+    "code": "1436",
+    "group": "5",
+    "professor": "NORA PATRICIA ROCHA MILLER",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "J104"
+      }
+    ],
+    "professor_id": 70517
+  },
+  {
+    "code": "1436",
+    "group": "6",
+    "professor": "JORGE FEDERICO PANIAGUA BALLINAS",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1,
+          5
+        ],
+        "classroom": "Y102"
+      }
+    ],
+    "professor_id": 70520
+  },
+  {
+    "code": "1436",
+    "group": "7",
+    "professor": "",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "J107"
+      }
+    ]
+  },
+  {
+    "code": "1436",
+    "group": "8",
+    "professor": "NAYELLI MANZANAREZ GOMEZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "Y204"
+      }
+    ],
+    "professor_id": 87593
+  },
+  {
+    "code": "1436",
+    "group": "9",
+    "professor": "ANA MARIA SALCEDO GARRIDO",
+    "schedules": [
+      {
+        "time": "09:00-13:00",
+        "days": [
+          6
+        ],
+        "classroom": "Y202"
+      }
+    ],
+    "professor_id": 95309
+  },
+  {
+    "code": "1436",
+    "group": "10",
+    "professor": "ANGEL LEONARDO BAÑUELOS SAUCEDO",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          3
+        ],
+        "classroom": "J210"
+      },
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1
+        ],
+        "classroom": "J211"
+      }
+    ],
+    "professor_id": 21806
+  },
+  {
+    "code": "1436",
+    "group": "11",
+    "professor": "KENYA VERONICA ESPINOSA HURTADO",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "I206"
+      }
+    ],
+    "professor_id": 99111
+  },
+  {
+    "code": "1436",
+    "group": "12",
+    "professor": "MARINA RAMIREZ ENSASTIGUE",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "I103"
+      }
+    ],
+    "professor_id": 51062
+  },
+  {
+    "code": "1436",
+    "group": "13",
+    "professor": "MIGUEL EDUARDO GONZALEZ CARDENAS",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "J110"
+      }
+    ],
+    "professor_id": 60278
+  },
+  {
+    "code": "1436",
+    "group": "14",
+    "professor": "MIRIAM ESTELA LEMUS",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "J206"
+      }
+    ],
+    "professor_id": 76408
+  },
+  {
+    "code": "1436",
+    "group": "15",
+    "professor": "JESUS ANTONIO CONTRERAS RAMIREZ",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "Y102"
+      }
+    ],
+    "professor_id": 118842
+  },
+  {
+    "code": "1436",
+    "group": "16",
+    "professor": "ARMANDO MOISES PEREZ SILVA",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "I204"
+      }
+    ],
+    "professor_id": 133428
+  },
+  {
+    "code": "1436",
+    "group": "17",
+    "professor": "LILIANA FLORES GARCIA",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "I204"
+      }
+    ],
+    "professor_id": 56184
+  },
+  {
+    "code": "1436",
+    "group": "18",
+    "professor": "ALEJANDRO MORALES TREJO",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          3
+        ],
+        "classroom": "I306"
+      },
+      {
+        "time": "13:00-15:00",
+        "days": [
+          5
+        ],
+        "classroom": "I305"
+      }
+    ],
+    "professor_id": 36975
+  },
+  {
+    "code": "1436",
+    "group": "19",
+    "professor": "",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "Y202"
+      }
+    ]
+  },
+  {
+    "code": "1436",
+    "group": "20",
+    "professor": "SANDRA ALVARADO LOPEZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "J207"
+      }
+    ],
+    "professor_id": 100430
+  },
+  {
+    "code": "1436",
+    "group": "21",
+    "professor": "ANDRES BASILIO RAMIREZ Y VILLA",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "Y102"
+      }
+    ],
+    "professor_id": 63727
+  },
+  {
+    "code": "1436",
+    "group": "22",
+    "professor": "EDGAR ALMANZA RIOS",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          5
+        ],
+        "classroom": "J209"
+      },
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1
+        ],
+        "classroom": "J207"
+      }
+    ],
+    "professor_id": 100507
+  },
+  {
+    "code": "1436",
+    "group": "23",
+    "professor": "JORGE DIEGO FUENTES MORA",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "J109"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1436",
+    "group": "24",
+    "professor": "MARCO POLO GARCÍA RIVERA",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "Y204"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1436",
+    "group": "25",
+    "professor": "JAVIER REYNA ALONSO",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "I302"
+      }
+    ],
+    "professor_id": 103042
+  },
+  {
+    "code": "1436",
+    "group": "26",
+    "professor": "YONI MIGUEL CASTILLO TZEC",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "J208"
+      }
+    ],
+    "professor_id": 176748
+  },
+  {
+    "code": "1436",
+    "group": "27",
+    "professor": "GUILLERMO CASAR MARCOS",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "I101"
+      }
+    ],
+    "professor_id": 95279
+  },
+  {
+    "code": "1436",
+    "group": "28",
+    "professor": "VERONICA HIKRA GARCIA CASANOVA",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "J201"
+      }
+    ],
+    "professor_id": 46460
+  }
+]

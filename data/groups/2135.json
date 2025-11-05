@@ -1,0 +1,76 @@
+[
+  {
+    "code": "2135",
+    "group": "1",
+    "professor": "ERIK PEÑA MEDINA",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1
+        ],
+        "classroom": "B105"
+      },
+      {
+        "time": "13:00-15:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "D003"
+      }
+    ],
+    "professor_id": 171640
+  },
+  {
+    "code": "2135",
+    "group": "2",
+    "professor": "ROBERTO ANGEL GARCIA GARCIA",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "B104"
+      }
+    ],
+    "professor_id": 173549
+  },
+  {
+    "code": "2135",
+    "group": "3",
+    "professor": "SERGIO FRANCISCO CARLOS ESTEVES REBOLLO",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "B303"
+      }
+    ],
+    "professor_id": 114507
+  },
+  {
+    "code": "2135",
+    "group": "4",
+    "professor": "PATRICIO MARTINEZ ZAMUDIO",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "O102"
+      }
+    ],
+    "professor_id": 109269
+  }
+]

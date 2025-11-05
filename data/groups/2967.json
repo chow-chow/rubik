@@ -1,0 +1,49 @@
+[
+  {
+    "code": "2967",
+    "group": "1",
+    "professor": "JOSE LUIS SALAS CORRALES",
+    "schedules": [
+      {
+        "time": "18:00-21:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "C402"
+      }
+    ]
+  },
+  {
+    "code": "2967",
+    "group": "2",
+    "professor": "",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2,
+          4,
+          6
+        ],
+        "classroom": "C202"
+      }
+    ]
+  },
+  {
+    "code": "2967",
+    "group": "3",
+    "professor": "JORGE LOPEZ ALVIS",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "SIN"
+      }
+    ]
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "code": "1787",
+    "group": "1",
+    "professor": "DIDIER TORRES GUZMAN",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "X101"
+      },
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1
+        ],
+        "classroom": "X101"
+      }
+    ]
+  },
+  {
+    "code": "1787",
+    "group": "2",
+    "professor": "EFRAIN ALBOR RAMIREZ",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "X101"
+      },
+      {
+        "time": "07:00-09:00",
+        "days": [
+          5
+        ],
+        "classroom": "X101"
+      }
+    ]
+  }
+]

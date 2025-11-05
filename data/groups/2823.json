@@ -1,0 +1,19 @@
+[
+  {
+    "code": "2823",
+    "group": "1",
+    "professor": "ENRIQUE CESAR VALDEZ",
+    "schedules": [
+      {
+        "time": "11:30-13:00",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "S003"
+      }
+    ],
+    "professor_id": 134950
+  }
+]

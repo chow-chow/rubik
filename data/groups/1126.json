@@ -1,0 +1,72 @@
+[
+  {
+    "code": "1126",
+    "group": "1",
+    "professor": "JESUS ZUÑIGA SANDOVAL",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1
+        ],
+        "classroom": "I104"
+      }
+    ]
+  },
+  {
+    "code": "1126",
+    "group": "2",
+    "professor": "LUIS GUILLERMO UCHA GÓMEZ",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2
+        ],
+        "classroom": "I304"
+      }
+    ]
+  },
+  {
+    "code": "1126",
+    "group": "3",
+    "professor": "LETICIA SANCHEZ GUILLEN",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          4
+        ],
+        "classroom": "I304"
+      }
+    ]
+  },
+  {
+    "code": "1126",
+    "group": "4",
+    "professor": "EDUARDO DORANTES SEVILLA",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2
+        ],
+        "classroom": "I201"
+      }
+    ]
+  },
+  {
+    "code": "1126",
+    "group": "5",
+    "professor": "ERNESTO CISNEROS VEGA",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          1
+        ],
+        "classroom": "I203"
+      }
+    ]
+  }
+]

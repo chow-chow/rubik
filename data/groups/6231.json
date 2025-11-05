@@ -1,0 +1,197 @@
+[
+  {
+    "code": "6231",
+    "group": "2",
+    "professor": "GUILLERMO PEREZ QUINTERO",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          1
+        ],
+        "classroom": "H004"
+      }
+    ],
+    "professor_id": 98612
+  },
+  {
+    "code": "6231",
+    "group": "4",
+    "professor": "BRENDA NATALY SÁNCHEZ EGUÍA",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          3
+        ],
+        "classroom": "H004"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "6231",
+    "group": "5",
+    "professor": "ROXANA ISELA NORIEGA NAVARRO",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          3
+        ],
+        "classroom": "H004"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "6231",
+    "group": "8",
+    "professor": "ROXANA ISELA NORIEGA NAVARRO",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          4
+        ],
+        "classroom": "H004"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "6231",
+    "group": "12",
+    "professor": "CLAUDIA ELISA SANCHEZ NAVARRO",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          4
+        ],
+        "classroom": "H004"
+      }
+    ],
+    "professor_id": 68129
+  },
+  {
+    "code": "6231",
+    "group": "14",
+    "professor": "EMMA MARTÍNEZ LUNA",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          5
+        ],
+        "classroom": "H004"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "6231",
+    "group": "15",
+    "professor": "ALBERTO SANDOVAL GARCIA",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2
+        ],
+        "classroom": "H003"
+      }
+    ],
+    "professor_id": 102860
+  },
+  {
+    "code": "6231",
+    "group": "16",
+    "professor": "CYNTHIA SOFIA RODRIGUEZ MANDUJANO",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          5
+        ],
+        "classroom": "H004"
+      }
+    ],
+    "professor_id": 71932
+  },
+  {
+    "code": "6231",
+    "group": "18",
+    "professor": "MONSERRAT AGUILAR PICHARDO",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          5
+        ],
+        "classroom": "H004"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "6231",
+    "group": "22",
+    "professor": "RAMIRO MARAVILLA GALVAN",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2
+        ],
+        "classroom": "H004"
+      }
+    ],
+    "professor_id": 62749
+  },
+  {
+    "code": "6231",
+    "group": "39",
+    "professor": "MIGUEL ANGEL REYES BUSTAMANTE",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          4
+        ],
+        "classroom": "H003"
+      }
+    ],
+    "professor_id": 84626
+  },
+  {
+    "code": "6231",
+    "group": "41",
+    "professor": "ROXANA ISELA NORIEGA NAVARRO",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          4
+        ],
+        "classroom": "H003"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "6231",
+    "group": "45",
+    "professor": "LUIS PEÑA CRUZ",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          5
+        ],
+        "classroom": "H003"
+      }
+    ],
+    "professor_id": 128316
+  }
+]

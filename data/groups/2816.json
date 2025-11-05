@@ -1,0 +1,33 @@
+[
+  {
+    "code": "2816",
+    "group": "1",
+    "professor": "AIDE ESMERALDA LOPEZ GONZALEZ",
+    "schedules": [
+      {
+        "time": "09:00-12:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "D006"
+      }
+    ]
+  },
+  {
+    "code": "2816",
+    "group": "2",
+    "professor": "ADRIAN MISAEL LEON SANCHEZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "C404"
+      }
+    ]
+  }
+]

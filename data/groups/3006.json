@@ -1,0 +1,17 @@
+[
+  {
+    "code": "3006",
+    "group": "1",
+    "professor": "ATANASIO LOPEZ VIVERO",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          1,
+          5
+        ],
+        "classroom": "B101"
+      }
+    ]
+  }
+]

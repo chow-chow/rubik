@@ -1,0 +1,17 @@
+[
+  {
+    "code": "2095",
+    "group": "1",
+    "professor": "ALFREDO ALANIS ALCANTARA",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "J001"
+      }
+    ]
+  }
+]

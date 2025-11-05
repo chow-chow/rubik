@@ -1,0 +1,49 @@
+[
+  {
+    "code": "2304",
+    "group": "1",
+    "professor": "JUVENTINO CUELLAR GONZALEZ",
+    "schedules": [
+      {
+        "time": "09:30-11:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "Q309"
+      }
+    ],
+    "professor_id": 99008
+  },
+  {
+    "code": "2304",
+    "group": "2",
+    "professor": "SERGIY KHOTYAINTSEV",
+    "schedules": [
+      {
+        "time": "15:00-16:30",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "Q307"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "2304",
+    "group": "3",
+    "professor": "LUIS FRANCISCO GARCIA JIMENEZ",
+    "schedules": [
+      {
+        "time": "11:00-14:00",
+        "days": [
+          5
+        ],
+        "classroom": "Q307"
+      }
+    ],
+    "professor_id": 84771
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "code": "3073",
+    "group": "1",
+    "professor": "MARIA DEL CARMEN NAVARRETE SEVILLA",
+    "schedules": [
+      {
+        "time": "20:00-22:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "EXTR"
+      }
+    ],
+    "professor_id": 124036
+  },
+  {
+    "code": "3073",
+    "group": "2",
+    "professor": "ROSA ISELA MARQUEZ MONROY",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A310"
+      }
+    ],
+    "professor_id": null
+  }
+]

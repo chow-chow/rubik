@@ -1,0 +1,17 @@
+[
+  {
+    "code": "2061",
+    "group": "1",
+    "professor": "JORGE LUIS CABALLERO AGUILAR",
+    "schedules": [
+      {
+        "time": "07:00-09:15",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "SIN"
+      }
+    ]
+  }
+]

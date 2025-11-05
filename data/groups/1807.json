@@ -1,0 +1,56 @@
+[
+  {
+    "code": "1807",
+    "group": "1",
+    "professor": "ARTURO RONQUILLO ARVIZU",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "B303"
+      }
+    ],
+    "professor_id": 114508
+  },
+  {
+    "code": "1807",
+    "group": "2",
+    "professor": "JOSE LUIS MENDOZA SOTO",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "O103"
+      }
+    ],
+    "professor_id": 154073
+  },
+  {
+    "code": "1807",
+    "group": "4",
+    "professor": "DR JUAN MAURICIO ANGELES CERVANTES",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          5
+        ],
+        "classroom": "O103"
+      },
+      {
+        "time": "09:00-11:00",
+        "days": [
+          3
+        ],
+        "classroom": "Y004"
+      }
+    ],
+    "professor_id": 132604
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "code": "2070",
+    "group": "1",
+    "professor": "NORMA ISELA VEGA DELOYA",
+    "schedules": [
+      {
+        "time": "08:30-10:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "R004"
+      },
+      {
+        "time": "10:00-12:00",
+        "days": [
+          3
+        ],
+        "classroom": "R029"
+      }
+    ],
+    "professor_id": 142316
+  },
+  {
+    "code": "2070",
+    "group": "2",
+    "professor": "NORMA ISELA VEGA DELOYA",
+    "schedules": [
+      {
+        "time": "16:00-17:30",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "A404"
+      },
+      {
+        "time": "14:00-16:00",
+        "days": [
+          3
+        ],
+        "classroom": "R029"
+      }
+    ],
+    "professor_id": 142316
+  }
+]

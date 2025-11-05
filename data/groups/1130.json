@@ -1,0 +1,354 @@
+[
+  {
+    "code": "1130",
+    "group": "1",
+    "professor": "CYNTHIA MIRANDA TREJO",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          4
+        ],
+        "classroom": "J110"
+      },
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2
+        ],
+        "classroom": "H002"
+      }
+    ],
+    "professor_id": 125810
+  },
+  {
+    "code": "1130",
+    "group": "2",
+    "professor": "EDUARDO BERNAL VARGAS",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1
+        ],
+        "classroom": "J109"
+      },
+      {
+        "time": "09:00-11:00",
+        "days": [
+          3
+        ],
+        "classroom": "H002"
+      }
+    ],
+    "professor_id": 105127
+  },
+  {
+    "code": "1130",
+    "group": "3",
+    "professor": "ALICIA MARIA ESPONDA CASCAJARES",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1
+        ],
+        "classroom": "I304"
+      },
+      {
+        "time": "09:00-11:00",
+        "days": [
+          5
+        ],
+        "classroom": "H002"
+      }
+    ],
+    "professor_id": 30167
+  },
+  {
+    "code": "1130",
+    "group": "4",
+    "professor": "OMAR DE JESUS PEREZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          4
+        ],
+        "classroom": "I201"
+      },
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2
+        ],
+        "classroom": "H002"
+      }
+    ],
+    "professor_id": 90851
+  },
+  {
+    "code": "1130",
+    "group": "5",
+    "professor": "CARLOS ALBERTO PINEDA FIGUEROA",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2
+        ],
+        "classroom": "I305"
+      },
+      {
+        "time": "09:00-11:00",
+        "days": [
+          4
+        ],
+        "classroom": "H002"
+      }
+    ],
+    "professor_id": 51709
+  },
+  {
+    "code": "1130",
+    "group": "6",
+    "professor": "ALICIA MARIA ESPONDA CASCAJARES",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          5
+        ],
+        "classroom": "J105"
+      },
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1
+        ],
+        "classroom": "H002"
+      }
+    ],
+    "professor_id": 30167
+  },
+  {
+    "code": "1130",
+    "group": "7",
+    "professor": "ALFREDO VELASQUEZ MARQUEZ",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1
+        ],
+        "classroom": "I206"
+      },
+      {
+        "time": "11:00-13:00",
+        "days": [
+          5
+        ],
+        "classroom": "H002"
+      }
+    ],
+    "professor_id": 62000
+  },
+  {
+    "code": "1130",
+    "group": "8",
+    "professor": "JUAN GONZALEZ RUANO",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          4
+        ],
+        "classroom": "I203"
+      },
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2
+        ],
+        "classroom": "H002"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1130",
+    "group": "9",
+    "professor": "MARIA OFELIA RODRIGUEZ DURAN",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1
+        ],
+        "classroom": "I304"
+      },
+      {
+        "time": "13:00-15:00",
+        "days": [
+          3
+        ],
+        "classroom": "H002"
+      }
+    ],
+    "professor_id": 74107
+  },
+  {
+    "code": "1130",
+    "group": "10",
+    "professor": "BEATRIZ EUGENIA HERNANDEZ RODRIGUEZ",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1
+        ],
+        "classroom": "I201"
+      },
+      {
+        "time": "13:00-15:00",
+        "days": [
+          5
+        ],
+        "classroom": "H002"
+      }
+    ],
+    "professor_id": 105095
+  },
+  {
+    "code": "1130",
+    "group": "11",
+    "professor": "MARIA OFELIA RODRIGUEZ DURAN",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          2
+        ],
+        "classroom": "I101"
+      },
+      {
+        "time": "13:00-15:00",
+        "days": [
+          4
+        ],
+        "classroom": "H002"
+      }
+    ],
+    "professor_id": 74107
+  },
+  {
+    "code": "1130",
+    "group": "12",
+    "professor": "BEATRIZ EUGENIA HERNANDEZ RODRIGUEZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          5
+        ],
+        "classroom": "J203"
+      },
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1
+        ],
+        "classroom": "H002"
+      }
+    ],
+    "professor_id": 105095
+  },
+  {
+    "code": "1130",
+    "group": "13",
+    "professor": "EDUARDO BERNAL VARGAS",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          5
+        ],
+        "classroom": "J109"
+      },
+      {
+        "time": "15:00-17:00",
+        "days": [
+          4
+        ],
+        "classroom": "H002"
+      }
+    ],
+    "professor_id": 105127
+  },
+  {
+    "code": "1130",
+    "group": "14",
+    "professor": "ELIZABETH AGUIRRE MALDONADO",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2
+        ],
+        "classroom": "J105"
+      },
+      {
+        "time": "17:00-19:00",
+        "days": [
+          4
+        ],
+        "classroom": "H002"
+      }
+    ],
+    "professor_id": 60632
+  },
+  {
+    "code": "1130",
+    "group": "15",
+    "professor": "LUCIA YAZMIN JUAREZ DE LA MORA",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          1
+        ],
+        "classroom": "J105"
+      },
+      {
+        "time": "19:00-21:00",
+        "days": [
+          3
+        ],
+        "classroom": "H002"
+      }
+    ],
+    "professor_id": 82820
+  },
+  {
+    "code": "1130",
+    "group": "16",
+    "professor": "MARIA DEL CARMEN MELO DIAZ",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2
+        ],
+        "classroom": "J109"
+      },
+      {
+        "time": "11:00-13:00",
+        "days": [
+          4
+        ],
+        "classroom": "H002"
+      }
+    ],
+    "professor_id": 44254
+  }
+]

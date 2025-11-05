@@ -1,0 +1,33 @@
+[
+  {
+    "code": "1871",
+    "group": "1",
+    "professor": "NORMA ERIKA PAREDES LOPEZ",
+    "schedules": [
+      {
+        "time": "10:00-13:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "J100"
+      }
+    ]
+  },
+  {
+    "code": "1871",
+    "group": "2",
+    "professor": "LAURO HORACIO BARRAGAN AVILA",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          1,
+          3,
+          4
+        ],
+        "classroom": "SIN"
+      }
+    ]
+  }
+]

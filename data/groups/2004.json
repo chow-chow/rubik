@@ -1,0 +1,17 @@
+[
+  {
+    "code": "2004",
+    "group": "1",
+    "professor": "NESTOR GONZALEZ CABRERA",
+    "schedules": [
+      {
+        "time": "17:00-18:30",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "B404"
+      }
+    ]
+  }
+]

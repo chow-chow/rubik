@@ -1,0 +1,49 @@
+[
+  {
+    "code": "2934",
+    "group": "1",
+    "professor": "CINTIA QUEZADA REYES",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A206"
+      }
+    ],
+    "professor_id": 75919
+  },
+  {
+    "code": "2934",
+    "group": "2",
+    "professor": "DULCE CAMPOS DEL RAZO",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "SIN"
+      }
+    ],
+    "professor_id": 149586
+  },
+  {
+    "code": "2934",
+    "group": "3",
+    "professor": "DEMIAN ROBERTO GARCIA VELAZQUEZVer Nota 1",
+    "schedules": [
+      {
+        "time": "09:00-13:00",
+        "days": [
+          6
+        ],
+        "classroom": "B106"
+      }
+    ],
+    "professor_id": null
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "code": "2067",
+    "group": "1",
+    "professor": "VICTOR LEONARDO TEJA JUAREZ",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "C103"
+      }
+    ]
+  }
+]

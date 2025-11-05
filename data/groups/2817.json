@@ -1,0 +1,32 @@
+[
+  {
+    "code": "2817",
+    "group": "1",
+    "professor": "FERNANDO GÓMEZ SANTIAGO",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "D008"
+      }
+    ]
+  },
+  {
+    "code": "2817",
+    "group": "2",
+    "professor": "JORGE ALBERTO GUIZAR ALFARO",
+    "schedules": [
+      {
+        "time": "20:00-22:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "A401"
+      }
+    ]
+  }
+]

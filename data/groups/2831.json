@@ -1,0 +1,32 @@
+[
+  {
+    "code": "2831",
+    "group": "1",
+    "professor": "JAVIER CORTES BENIGNO",
+    "schedules": [
+      {
+        "time": "17:30-19:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "B409"
+      }
+    ]
+  },
+  {
+    "code": "2831",
+    "group": "2",
+    "professor": "LOPEZ PEREZ OMAR",
+    "schedules": [
+      {
+        "time": "19:00-20:30",
+        "days": [
+          2,
+          3
+        ],
+        "classroom": "EXTR"
+      }
+    ]
+  }
+]

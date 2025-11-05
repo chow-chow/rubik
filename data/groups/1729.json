@@ -1,0 +1,35 @@
+[
+  {
+    "code": "1729",
+    "group": "1",
+    "professor": "MIGUEL ILDEFONSO VERA OCAMPO",
+    "schedules": [
+      {
+        "time": "16:00-19:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "C302"
+      }
+    ],
+    "professor_id": 108707
+  },
+  {
+    "code": "1729",
+    "group": "2",
+    "professor": "SANDRA ELIZABETH GUERRERO MORENO",
+    "schedules": [
+      {
+        "time": "12:00-14:00",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "C302"
+      }
+    ],
+    "professor_id": null
+  }
+]

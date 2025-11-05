@@ -1,0 +1,302 @@
+[
+  {
+    "code": "7500",
+    "group": "1",
+    "professor": "ISAAC FONSECA CRUZ",
+    "schedules": [
+      {
+        "time": "08:00-10:00",
+        "days": [
+          6
+        ],
+        "classroom": "O001"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "7500",
+    "group": "2",
+    "professor": "AURORA GUTIERREZ MORALES",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1
+        ],
+        "classroom": "O001"
+      }
+    ],
+    "professor_id": 151773
+  },
+  {
+    "code": "7500",
+    "group": "3",
+    "professor": "JOSE LUIS ALMARAZ MORENO",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2
+        ],
+        "classroom": "O001"
+      }
+    ],
+    "professor_id": 141917
+  },
+  {
+    "code": "7500",
+    "group": "4",
+    "professor": "ROBERTO CISNEROS HERNANDEZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          3
+        ],
+        "classroom": "O001"
+      }
+    ],
+    "professor_id": 71882
+  },
+  {
+    "code": "7500",
+    "group": "5",
+    "professor": "ISRAEL GARDUÑO GARCIA",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          5
+        ],
+        "classroom": "O001"
+      }
+    ],
+    "professor_id": 102330
+  },
+  {
+    "code": "7500",
+    "group": "6",
+    "professor": "ADRIAN MANCILLA VELASCO",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1
+        ],
+        "classroom": "O001"
+      }
+    ],
+    "professor_id": 109955
+  },
+  {
+    "code": "7500",
+    "group": "7",
+    "professor": "ADOLFO ALTAMIRANO MEZA",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2
+        ],
+        "classroom": "O001"
+      }
+    ],
+    "professor_id": 66628
+  },
+  {
+    "code": "7500",
+    "group": "8",
+    "professor": "ADOLFO ALTAMIRANO MEZA",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          3
+        ],
+        "classroom": "O001"
+      }
+    ],
+    "professor_id": 66628
+  },
+  {
+    "code": "7500",
+    "group": "9",
+    "professor": "ADOLFO ALTAMIRANO MEZA",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          4
+        ],
+        "classroom": "O001"
+      }
+    ],
+    "professor_id": 66628
+  },
+  {
+    "code": "7500",
+    "group": "10",
+    "professor": "AURORA GUTIERREZ MORALES",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          5
+        ],
+        "classroom": "O001"
+      }
+    ],
+    "professor_id": 151773
+  },
+  {
+    "code": "7500",
+    "group": "11",
+    "professor": "JESUS RAFAEL GONZALEZ PARRA",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1
+        ],
+        "classroom": "O001"
+      }
+    ],
+    "professor_id": 149718
+  },
+  {
+    "code": "7500",
+    "group": "12",
+    "professor": "AURORA GUTIERREZ MORALES",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          2
+        ],
+        "classroom": "O001"
+      }
+    ],
+    "professor_id": 151773
+  },
+  {
+    "code": "7500",
+    "group": "13",
+    "professor": "ADRIAN MANCILLA VELASCO",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          3
+        ],
+        "classroom": "O001"
+      }
+    ],
+    "professor_id": 109955
+  },
+  {
+    "code": "7500",
+    "group": "14",
+    "professor": "DAVID MARTINEZ HERNANDEZ",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          4
+        ],
+        "classroom": "O001"
+      }
+    ],
+    "professor_id": 101528
+  },
+  {
+    "code": "7500",
+    "group": "15",
+    "professor": "ADRIAN MANCILLA VELASCO",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          5
+        ],
+        "classroom": "O001"
+      }
+    ],
+    "professor_id": 109955
+  },
+  {
+    "code": "7500",
+    "group": "16",
+    "professor": "ISRAEL GARDUÑO GARCIA",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          4
+        ],
+        "classroom": "O001"
+      }
+    ],
+    "professor_id": 102330
+  },
+  {
+    "code": "7500",
+    "group": "17",
+    "professor": "DAVID MARTINEZ HERNANDEZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2
+        ],
+        "classroom": "O001"
+      }
+    ],
+    "professor_id": 101528
+  },
+  {
+    "code": "7500",
+    "group": "18",
+    "professor": "DAVID MARTINEZ HERNANDEZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          3
+        ],
+        "classroom": "O001"
+      }
+    ],
+    "professor_id": 101528
+  },
+  {
+    "code": "7500",
+    "group": "19",
+    "professor": "MARTIN REYES FARIAS",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          5
+        ],
+        "classroom": "O001"
+      }
+    ],
+    "professor_id": 51610
+  },
+  {
+    "code": "7500",
+    "group": "20",
+    "professor": "JOSE LUIS ALMARAZ MORENO",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          3
+        ],
+        "classroom": "O001"
+      }
+    ],
+    "professor_id": 141917
+  }
+]

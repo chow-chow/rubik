@@ -1,0 +1,47 @@
+[
+  {
+    "code": "1978",
+    "group": "1",
+    "professor": "MÉD TANIA ROCIO GARIBAY HUARTE",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "DS11"
+      }
+    ]
+  },
+  {
+    "code": "1978",
+    "group": "2",
+    "professor": "MÉD ANA BRISA GARCIA VILCHIS",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "DS11"
+      }
+    ]
+  },
+  {
+    "code": "1978",
+    "group": "3",
+    "professor": "MÉD PERLA BERENISSE VALDIVIEZO ROSALES",
+    "schedules": [
+      {
+        "time": "14:00-16:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "EXTR"
+      }
+    ]
+  }
+]

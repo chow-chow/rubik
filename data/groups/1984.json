@@ -1,0 +1,50 @@
+[
+  {
+    "code": "1984",
+    "group": "1",
+    "professor": "ISRAEL CASTRO HERRERA",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "Y103"
+      }
+    ],
+    "professor_id": 135134
+  },
+  {
+    "code": "1984",
+    "group": "3",
+    "professor": "MARCO ANTONIO JIMENEZ AQUINO",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "D007"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1984",
+    "group": "4",
+    "professor": "DANIEL CABRERA SOTELO",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "D009"
+      }
+    ],
+    "professor_id": null
+  }
+]

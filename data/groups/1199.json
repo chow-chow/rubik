@@ -1,0 +1,17 @@
+[
+  {
+    "code": "1199",
+    "group": "1",
+    "professor": "TAIR TERAN GUERRERO",
+    "schedules": [
+      {
+        "time": "17:30-19:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "S005"
+      }
+    ]
+  }
+]

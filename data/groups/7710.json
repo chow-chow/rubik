@@ -1,0 +1,30 @@
+[
+  {
+    "code": "7710",
+    "group": "1",
+    "professor": "ANA LUISA ALARCÓN JIMÉNEZ",
+    "schedules": [
+      {
+        "time": "10:00-12:00",
+        "days": [
+          1
+        ],
+        "classroom": "EXTR"
+      }
+    ]
+  },
+  {
+    "code": "7710",
+    "group": "2",
+    "professor": "FERNANDO MILLAN VAZQUEZ",
+    "schedules": [
+      {
+        "time": "10:00-12:00",
+        "days": [
+          3
+        ],
+        "classroom": "EXTR"
+      }
+    ]
+  }
+]

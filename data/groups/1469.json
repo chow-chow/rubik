@@ -1,0 +1,18 @@
+[
+  {
+    "code": "1469",
+    "group": "1",
+    "professor": "MARIO ALFREDO IBARRA CARRILLO",
+    "schedules": [
+      {
+        "time": "07:00-08:30",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "B304"
+      }
+    ],
+    "professor_id": 99010
+  }
+]

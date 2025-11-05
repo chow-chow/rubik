@@ -1,0 +1,18 @@
+[
+  {
+    "code": "1899",
+    "group": "1",
+    "professor": "MARICARMEN GUILLEN MANDUJANO",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "D009"
+      }
+    ],
+    "professor_id": 142033
+  }
+]

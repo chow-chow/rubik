@@ -1,0 +1,277 @@
+[
+  {
+    "code": "1317",
+    "group": "1",
+    "professor": "LUIS RICARDO LOPEZ VILLAFAN",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "B306"
+      },
+      {
+        "time": "07:00-09:00",
+        "days": [
+          5
+        ],
+        "classroom": "Q007"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1317",
+    "group": "2",
+    "professor": "DANIEL VARGAS SANCHEZ",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "B206"
+      },
+      {
+        "time": "07:00-09:00",
+        "days": [
+          1
+        ],
+        "classroom": "Q007"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1317",
+    "group": "3",
+    "professor": "EDGAR TISTA GARCIA",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "DS01"
+      },
+      {
+        "time": "09:00-11:00",
+        "days": [
+          5
+        ],
+        "classroom": "P003"
+      }
+    ],
+    "professor_id": 78645
+  },
+  {
+    "code": "1317",
+    "group": "4",
+    "professor": "JORGE ALBERTO SOLANO GALVEZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "B106"
+      },
+      {
+        "time": "09:00-11:00",
+        "days": [
+          5
+        ],
+        "classroom": "Q007"
+      }
+    ],
+    "professor_id": 43431
+  },
+  {
+    "code": "1317",
+    "group": "5",
+    "professor": "ELBA KAREN SAENZ GARCIA",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "Y001"
+      },
+      {
+        "time": "11:00-13:00",
+        "days": [
+          3
+        ],
+        "classroom": "Q008"
+      }
+    ],
+    "professor_id": 60935
+  },
+  {
+    "code": "1317",
+    "group": "6",
+    "professor": "",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "A306"
+      },
+      {
+        "time": "11:00-13:00",
+        "days": [
+          5
+        ],
+        "classroom": "P003"
+      }
+    ]
+  },
+  {
+    "code": "1317",
+    "group": "7",
+    "professor": "FRANCISCO JAVIER RODRIGUEZ GARCIA",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "A302"
+      },
+      {
+        "time": "13:00-15:00",
+        "days": [
+          5
+        ],
+        "classroom": "P003"
+      }
+    ],
+    "professor_id": 78935
+  },
+  {
+    "code": "1317",
+    "group": "8",
+    "professor": "OSCAR ARANA HERNANDEZ",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          3,
+          4
+        ],
+        "classroom": "A201"
+      },
+      {
+        "time": "13:00-15:00",
+        "days": [
+          2
+        ],
+        "classroom": "Q007"
+      }
+    ],
+    "professor_id": 177287
+  },
+  {
+    "code": "1317",
+    "group": "9",
+    "professor": "CARMEN LUCIA BUSTILLO HERNANDEZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "Y002"
+      },
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2
+        ],
+        "classroom": "Q007"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1317",
+    "group": "10",
+    "professor": "GERARDO TOVAR TAPIA",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "B404"
+      },
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1
+        ],
+        "classroom": "Q008"
+      }
+    ],
+    "professor_id": 101573
+  },
+  {
+    "code": "1317",
+    "group": "11",
+    "professor": "GERARDO TOVAR TAPIA",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "B401"
+      },
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1
+        ],
+        "classroom": "Q008"
+      }
+    ],
+    "professor_id": 101573
+  },
+  {
+    "code": "1317",
+    "group": "12",
+    "professor": "JOSE RODRIGO MORENO LOPEZ",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "B206"
+      },
+      {
+        "time": "17:00-19:00",
+        "days": [
+          4
+        ],
+        "classroom": "Q007"
+      }
+    ],
+    "professor_id": 188628
+  }
+]

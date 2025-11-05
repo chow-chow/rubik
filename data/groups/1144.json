@@ -1,0 +1,62 @@
+[
+  {
+    "code": "1144",
+    "group": "1",
+    "professor": "VIVALDO MUÑOZ GONZALEZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          5
+        ],
+        "classroom": "J105"
+      }
+    ],
+    "professor_id": 180859
+  },
+  {
+    "code": "1144",
+    "group": "2",
+    "professor": "LUIS MANUEL CERVANTES MARCELINO",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1
+        ],
+        "classroom": "I102"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1144",
+    "group": "3",
+    "professor": "JUANIBETH RAMIREZ CALDERON",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1
+        ],
+        "classroom": "J104"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1144",
+    "group": "4",
+    "professor": "CESIA ESTHER FABELA PEREZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          3
+        ],
+        "classroom": "J209"
+      }
+    ],
+    "professor_id": 174589
+  }
+]

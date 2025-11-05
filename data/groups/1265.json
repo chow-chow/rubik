@@ -1,0 +1,17 @@
+[
+  {
+    "code": "1265",
+    "group": "1",
+    "professor": "ANGEL GARCIA HERNANDEZVer Nota 1",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "EXTR"
+      }
+    ]
+  }
+]

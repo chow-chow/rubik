@@ -1,0 +1,98 @@
+[
+  {
+    "code": "1059",
+    "group": "1",
+    "professor": "MARINA SERVIN CHAVEZ",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "B105"
+      }
+    ],
+    "professor_id": 105120
+  },
+  {
+    "code": "1059",
+    "group": "2",
+    "professor": "CARLOS AYALA GOMEZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "B302"
+      }
+    ],
+    "professor_id": 105117
+  },
+  {
+    "code": "1059",
+    "group": "3",
+    "professor": "ENRIQUE ISRAEL MARQUEZ ANGELES",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "B201"
+      }
+    ],
+    "professor_id": 181406
+  },
+  {
+    "code": "1059",
+    "group": "4",
+    "professor": "JAVIER NOE AVILA CEDILLO",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "DS11"
+      }
+    ],
+    "professor_id": 109142
+  },
+  {
+    "code": "1059",
+    "group": "5",
+    "professor": "VICTOR MANUEL RIVERA ROMAY",
+    "schedules": [
+      {
+        "time": "18:00-20:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "EXTR"
+      }
+    ],
+    "professor_id": 87744
+  },
+  {
+    "code": "1059",
+    "group": "6",
+    "professor": "ANDREA PAOLA DORADO DIAZ",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "O102"
+      }
+    ],
+    "professor_id": 105123
+  }
+]

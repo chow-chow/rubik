@@ -1,0 +1,50 @@
+[
+  {
+    "code": "1756",
+    "group": "1",
+    "professor": "RUBEN AVILA RODRIGUEZ",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "D003"
+      }
+    ],
+    "professor_id": 74732
+  },
+  {
+    "code": "1756",
+    "group": "2",
+    "professor": "MARCO ANTONIO REYES HUESCA",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "B301"
+      }
+    ],
+    "professor_id": 62499
+  },
+  {
+    "code": "1756",
+    "group": "3",
+    "professor": "JOSE MELESIO SANCHEZ HUERTA",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "B105"
+      }
+    ],
+    "professor_id": 70740
+  }
+]

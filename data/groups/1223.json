@@ -1,0 +1,184 @@
+[
+  {
+    "code": "1223",
+    "group": "1",
+    "professor": "GERARDO JUAREZ CHAVEZ",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "J104"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1223",
+    "group": "2",
+    "professor": "PEDRO STRUCK CANO",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "Y104"
+      }
+    ],
+    "professor_id": 51489
+  },
+  {
+    "code": "1223",
+    "group": "3",
+    "professor": "MANUEL AYALA MARTINEZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "J211"
+      }
+    ],
+    "professor_id": 49791
+  },
+  {
+    "code": "1223",
+    "group": "4",
+    "professor": "JUAN OCARIZ CASTELAZO",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1
+        ],
+        "classroom": "J202"
+      },
+      {
+        "time": "09:00-11:00",
+        "days": [
+          5
+        ],
+        "classroom": "J201"
+      }
+    ],
+    "professor_id": 22035
+  },
+  {
+    "code": "1223",
+    "group": "5",
+    "professor": "EPIFANIO OSCAR CARBALLAR LOPEZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "J111"
+      }
+    ],
+    "professor_id": 70466
+  },
+  {
+    "code": "1223",
+    "group": "6",
+    "professor": "JOSE ANTONIO RUIZ DIAZ",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1,
+          5
+        ],
+        "classroom": "J109"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1223",
+    "group": "7",
+    "professor": "ADRIANA ALARCON MUÑOZ",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "J211"
+      }
+    ],
+    "professor_id": 141997
+  },
+  {
+    "code": "1223",
+    "group": "8",
+    "professor": "ERICA GUZMAN VARGAS",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1,
+          5
+        ],
+        "classroom": "J102"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1223",
+    "group": "9",
+    "professor": "MARIO ALBERTO MÁRQUEZ CALDERÓN",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "J210"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1223",
+    "group": "10",
+    "professor": "ALFREDO ANTONIO AGUILAR CASTILLO",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "I206"
+      }
+    ],
+    "professor_id": 93946
+  },
+  {
+    "code": "1223",
+    "group": "11",
+    "professor": "FERNANDO SANCHEZ RODRIGUEZ",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "J207"
+      }
+    ],
+    "professor_id": 114184
+  }
+]

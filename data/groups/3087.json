@@ -1,0 +1,38 @@
+[
+  {
+    "code": "3087",
+    "group": "1",
+    "professor": "ARTURO BARBA PINGARRON",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "B301"
+      }
+    ]
+  },
+  {
+    "code": "3087",
+    "group": "3",
+    "professor": "",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1
+        ],
+        "classroom": "B301"
+      },
+      {
+        "time": "15:00-17:00",
+        "days": [
+          3
+        ],
+        "classroom": "A311"
+      }
+    ]
+  }
+]

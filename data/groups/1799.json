@@ -1,0 +1,32 @@
+[
+  {
+    "code": "1799",
+    "group": "1",
+    "professor": "LUCY CATERINE DAZA GOMEZ",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "X101"
+      }
+    ]
+  },
+  {
+    "code": "1799",
+    "group": "2",
+    "professor": "GERARDO MARTIN GARCIA",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "X101"
+      }
+    ]
+  }
+]

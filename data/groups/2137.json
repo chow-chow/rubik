@@ -1,0 +1,50 @@
+[
+  {
+    "code": "2137",
+    "group": "1",
+    "professor": "ALEJANDRA MEDINA AREVALO",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "EXTR"
+      }
+    ],
+    "professor_id": 122291
+  },
+  {
+    "code": "2137",
+    "group": "2",
+    "professor": "JUANA ITCHEL NIETO RUIZ",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          5,
+          6
+        ],
+        "classroom": "EXTR"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "2137",
+    "group": "3",
+    "professor": "ALEJANDRA MENDOZA CAMPOS",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A311"
+      }
+    ],
+    "professor_id": null
+  }
+]

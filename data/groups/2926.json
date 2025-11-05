@@ -1,0 +1,97 @@
+[
+  {
+    "code": "2926",
+    "group": "1",
+    "professor": "VICENTE GUILLERMO LOPEZ FERNANDEZ",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "DS07"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "2926",
+    "group": "2",
+    "professor": "ROGELIO ESCALERA CAMPOVERDE",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "DS07"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "2926",
+    "group": "3",
+    "professor": "VICENTE GUILLERMO LOPEZ FERNANDEZ",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "DS07"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "2926",
+    "group": "4",
+    "professor": "AGUSTIN NIEVES SAAVEDRA",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "DS07"
+      }
+    ],
+    "professor_id": 63731
+  },
+  {
+    "code": "2926",
+    "group": "5",
+    "professor": "EDUARDO LEMUS SOTO",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "DS07"
+      }
+    ],
+    "professor_id": 45253
+  },
+  {
+    "code": "2926",
+    "group": "6",
+    "professor": "JOSE FRANCISCO MORENO VILLANUEVA",
+    "schedules": [
+      {
+        "time": "07:00-11:00",
+        "days": [
+          6
+        ],
+        "classroom": "DS07"
+      }
+    ],
+    "professor_id": null
+  }
+]

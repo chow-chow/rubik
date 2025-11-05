@@ -1,0 +1,18 @@
+[
+  {
+    "code": "2821",
+    "group": "1",
+    "professor": "ALFONSO CHAVEZ VASAVILBASO",
+    "schedules": [
+      {
+        "time": "10:00-11:30",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "S005"
+      }
+    ],
+    "professor_id": 171787
+  }
+]

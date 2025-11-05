@@ -1,0 +1,122 @@
+[
+  {
+    "code": "6867",
+    "group": "1",
+    "professor": "ROSA ELENA LOBERA SANCHEZ",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2
+        ],
+        "classroom": "Q209"
+      }
+    ],
+    "professor_id": 149934
+  },
+  {
+    "code": "6867",
+    "group": "2",
+    "professor": "LUIS SERGIO DURAN ARENAS",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2
+        ],
+        "classroom": "Q209"
+      }
+    ],
+    "professor_id": 124016
+  },
+  {
+    "code": "6867",
+    "group": "3",
+    "professor": "ROSA ELENA LOBERA SANCHEZ",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          3
+        ],
+        "classroom": "Q209"
+      }
+    ],
+    "professor_id": 149934
+  },
+  {
+    "code": "6867",
+    "group": "4",
+    "professor": "DIANA KAREN PEREZ PEREZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          3
+        ],
+        "classroom": "Q209"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "6867",
+    "group": "5",
+    "professor": "PEDRO IGNACIO RINCON GOMEZ",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          3
+        ],
+        "classroom": "Q209"
+      }
+    ],
+    "professor_id": 66377
+  },
+  {
+    "code": "6867",
+    "group": "6",
+    "professor": "DIANA KAREN PEREZ PEREZ",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          4
+        ],
+        "classroom": "Q209"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "6867",
+    "group": "7",
+    "professor": "JULIO CESAR CRUZ ESTRADA",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          5
+        ],
+        "classroom": "Q209"
+      }
+    ],
+    "professor_id": 160861
+  },
+  {
+    "code": "6867",
+    "group": "8",
+    "professor": "JORGE FERAT TOSCANO",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          6
+        ],
+        "classroom": "Q209"
+      }
+    ],
+    "professor_id": 36956
+  }
+]

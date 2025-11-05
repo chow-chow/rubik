@@ -1,0 +1,337 @@
+[
+  {
+    "code": "1220",
+    "group": "1",
+    "professor": "ANDRES JOSE BASILE ALVAREZ",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "J101"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1220",
+    "group": "2",
+    "professor": "FELIPE SEGUNDO CUEVAS",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "J101"
+      }
+    ],
+    "professor_id": 37991
+  },
+  {
+    "code": "1220",
+    "group": "3",
+    "professor": "ERIKA LEYRA TOBILLA",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "J103"
+      }
+    ],
+    "professor_id": 55058
+  },
+  {
+    "code": "1220",
+    "group": "4",
+    "professor": "IRLIB BELEN BLANCAS RIOS",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "J201"
+      }
+    ],
+    "professor_id": 60655
+  },
+  {
+    "code": "1220",
+    "group": "5",
+    "professor": "SOFIA MAGDALENA AVILA BECERRIL",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "J202"
+      }
+    ],
+    "professor_id": 34036
+  },
+  {
+    "code": "1220",
+    "group": "6",
+    "professor": "LETICIA HERNANDEZ SANCHEZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "J109"
+      }
+    ],
+    "professor_id": 83884
+  },
+  {
+    "code": "1220",
+    "group": "7",
+    "professor": "ROSALBA RODRIGUEZ CHAVEZ",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "Y204"
+      }
+    ],
+    "professor_id": 42052
+  },
+  {
+    "code": "1220",
+    "group": "8",
+    "professor": "REGINA ANAID MARTINEZ LOBATO",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1,
+          5
+        ],
+        "classroom": "J107"
+      }
+    ],
+    "professor_id": 118726
+  },
+  {
+    "code": "1220",
+    "group": "9",
+    "professor": "ALICIA PINEDA RAMIREZ",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "J209"
+      }
+    ],
+    "professor_id": 33621
+  },
+  {
+    "code": "1220",
+    "group": "10",
+    "professor": "JACQUELYN MARTINEZ ALAVEZ",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "J102"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1220",
+    "group": "11",
+    "professor": "GUILLERMO ALBERTO SANCHEZ LOZANO",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "I203"
+      }
+    ],
+    "professor_id": 135641
+  },
+  {
+    "code": "1220",
+    "group": "12",
+    "professor": "ERICA GUZMAN VARGAS",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "I201"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1220",
+    "group": "13",
+    "professor": "ANA MARISSA JUAREZ MENDOZA",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1,
+          5
+        ],
+        "classroom": "J209"
+      }
+    ],
+    "professor_id": 51835
+  },
+  {
+    "code": "1220",
+    "group": "14",
+    "professor": "CASIANO AGUILAR MORALES",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "J105"
+      }
+    ],
+    "professor_id": 49939
+  },
+  {
+    "code": "1220",
+    "group": "15",
+    "professor": "IVAN MANUEL CUADROS MENDOZA",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "I306"
+      }
+    ],
+    "professor_id": 135652
+  },
+  {
+    "code": "1220",
+    "group": "16",
+    "professor": "JAIME HECTOR DIAZ OSORNIO",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "J104"
+      }
+    ],
+    "professor_id": 58909
+  },
+  {
+    "code": "1220",
+    "group": "17",
+    "professor": "JAVIER GOMEZ MENDEZ",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1,
+          5
+        ],
+        "classroom": "J101"
+      }
+    ],
+    "professor_id": 81587
+  },
+  {
+    "code": "1220",
+    "group": "18",
+    "professor": "GERARDO SILVA GONZALEZ-PACHECO",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "J110"
+      }
+    ],
+    "professor_id": 55875
+  },
+  {
+    "code": "1220",
+    "group": "19",
+    "professor": "ELENA RAMIREZ GARCIA",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "J106"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1220",
+    "group": "20",
+    "professor": "MIGUEL ÁNGEL TOSCANO SANCHEZ NAVARRO",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "J104"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "1220",
+    "group": "21",
+    "professor": "MIGUEL ÁNGEL TOSCANO SANCHEZ NAVARRO",
+    "schedules": [
+      {
+        "time": "08:00-12:00",
+        "days": [
+          6
+        ],
+        "classroom": "J101"
+      }
+    ],
+    "professor_id": null
+  }
+]

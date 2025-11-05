@@ -1,0 +1,18 @@
+[
+  {
+    "code": "3053",
+    "group": "1",
+    "professor": "ENRIQUE BARRANCO VITE",
+    "schedules": [
+      {
+        "time": "08:30-10:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A309"
+      }
+    ],
+    "professor_id": 175459
+  }
+]

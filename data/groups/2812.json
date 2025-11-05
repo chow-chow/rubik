@@ -1,0 +1,46 @@
+[
+  {
+    "code": "2812",
+    "group": "1",
+    "professor": "ALMA ELIA VERA MORALES",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          4
+        ],
+        "classroom": "B404"
+      },
+      {
+        "time": "10:00-11:30",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "A303"
+      }
+    ]
+  },
+  {
+    "code": "2812",
+    "group": "2",
+    "professor": "LINA BEATRIZ LARA HERNANDEZVer Nota 1",
+    "schedules": [
+      {
+        "time": "16:00-17:30",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "EXTR"
+      },
+      {
+        "time": "15:00-17:00",
+        "days": [
+          5
+        ],
+        "classroom": "EXTR"
+      }
+    ]
+  }
+]

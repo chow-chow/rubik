@@ -1,0 +1,25 @@
+[
+  {
+    "code": "1533",
+    "group": "1",
+    "professor": "ANA LILIA SALAS ALVARADO",
+    "schedules": [
+      {
+        "time": "13:00-15:15",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A204"
+      },
+      {
+        "time": "13:00-16:00",
+        "days": [
+          1
+        ],
+        "classroom": "R029"
+      }
+    ],
+    "professor_id": 148143
+  }
+]

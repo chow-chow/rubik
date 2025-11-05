@@ -1,0 +1,47 @@
+[
+  {
+    "code": "7910",
+    "group": "1",
+    "professor": "JORGE CALDERON MENDOZA",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          3
+        ],
+        "classroom": "P001"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "7910",
+    "group": "2",
+    "professor": "GLORIA CORREA PALACIOS",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          5
+        ],
+        "classroom": "P001"
+      }
+    ],
+    "professor_id": 112607
+  },
+  {
+    "code": "7910",
+    "group": "4",
+    "professor": "DAVID QUINTANAR VILLALBA",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          3
+        ],
+        "classroom": "P001"
+      }
+    ],
+    "professor_id": null
+  }
+]

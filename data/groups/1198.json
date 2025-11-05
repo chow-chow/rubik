@@ -1,0 +1,19 @@
+[
+  {
+    "code": "1198",
+    "group": "1",
+    "professor": "GABRIEL HURTADO CHONG",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "O013"
+      }
+    ],
+    "professor_id": 108906
+  }
+]

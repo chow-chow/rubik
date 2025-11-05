@@ -1,0 +1,33 @@
+[
+  {
+    "code": "1985",
+    "group": "1",
+    "professor": "FERNANDO JUÁREZ SÁNCHEZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "D008"
+      }
+    ]
+  },
+  {
+    "code": "1985",
+    "group": "3",
+    "professor": "MARCOS AVALOS GARCIA",
+    "schedules": [
+      {
+        "time": "17:00-20:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "C404"
+      }
+    ]
+  }
+]

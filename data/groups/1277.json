@@ -1,0 +1,17 @@
+[
+  {
+    "code": "1277",
+    "group": "1",
+    "professor": "GUILLERMO OCAÑA ANAYA",
+    "schedules": [
+      {
+        "time": "16:00-17:30",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "B409"
+      }
+    ]
+  }
+]

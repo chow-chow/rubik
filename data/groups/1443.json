@@ -1,0 +1,82 @@
+[
+  {
+    "code": "1443",
+    "group": "1",
+    "professor": "JOSE ANTONIO DE JESUS ARREDONDO GARZA",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "B206"
+      }
+    ],
+    "professor_id": 71331
+  },
+  {
+    "code": "1443",
+    "group": "2",
+    "professor": "RAFAEL IRIARTE VIVAR-BALDERRAMA",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "B204"
+      }
+    ],
+    "professor_id": 114231
+  },
+  {
+    "code": "1443",
+    "group": "3",
+    "professor": "ABEL VILLANUEVA PEÑA",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "B408"
+      }
+    ],
+    "professor_id": 60921
+  },
+  {
+    "code": "1443",
+    "group": "4",
+    "professor": "ROGELIO ALCANTARA SILVA",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A306"
+      }
+    ],
+    "professor_id": 90676
+  },
+  {
+    "code": "1443",
+    "group": "5",
+    "professor": "JUAN MANUEL GOMEZ GONZALEZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "B106"
+      }
+    ],
+    "professor_id": 155677
+  }
+]

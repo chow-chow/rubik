@@ -1,0 +1,272 @@
+[
+  {
+    "code": "6756",
+    "group": "1",
+    "professor": "ENRIQUE BERNAL MARTINEZ",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          1
+        ],
+        "classroom": "N005"
+      }
+    ],
+    "professor_id": 71864
+  },
+  {
+    "code": "6756",
+    "group": "2",
+    "professor": "JOAQUIN LEONEL REYES GARCIA",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          1
+        ],
+        "classroom": "N005"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "6756",
+    "group": "3",
+    "professor": "JOAQUIN LEONEL REYES GARCIA",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1
+        ],
+        "classroom": "N005"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "6756",
+    "group": "4",
+    "professor": "ING OCTAVIO PASTOR REYES GARCIA",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1
+        ],
+        "classroom": "N005"
+      }
+    ],
+    "professor_id": 98730
+  },
+  {
+    "code": "6756",
+    "group": "5",
+    "professor": "MAURICIO IVAN ESCALANTE CAMARGO",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1
+        ],
+        "classroom": "N005"
+      }
+    ],
+    "professor_id": 79858
+  },
+  {
+    "code": "6756",
+    "group": "6",
+    "professor": "ALEJANDRO CORTES ESLAVA",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1
+        ],
+        "classroom": "N005"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "6756",
+    "group": "7",
+    "professor": "OSCAR GARCIA ARANDA",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2
+        ],
+        "classroom": "N005"
+      }
+    ],
+    "professor_id": 159597
+  },
+  {
+    "code": "6756",
+    "group": "8",
+    "professor": "ALEJANDRO CORTES ESLAVA",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          2
+        ],
+        "classroom": "N005"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "6756",
+    "group": "9",
+    "professor": "SERVANDO RUIZ RODRIGUEZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2
+        ],
+        "classroom": "N005"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "6756",
+    "group": "10",
+    "professor": "MILTON CARLOS ALVAREZ SANCHEZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2
+        ],
+        "classroom": "N005"
+      }
+    ],
+    "professor_id": 154270
+  },
+  {
+    "code": "6756",
+    "group": "11",
+    "professor": "LUIS ARTURO NAVARRO BAENA",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          3
+        ],
+        "classroom": "N005"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "6756",
+    "group": "12",
+    "professor": "DANIEL ESQUIVEL VELAZQUEZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          4
+        ],
+        "classroom": "N005"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "6756",
+    "group": "13",
+    "professor": "ARNOLD FRANCISCO BASTIDAS MELO",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          4
+        ],
+        "classroom": "N005"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "6756",
+    "group": "14",
+    "professor": "LUIS FERNANDO DONIS RABANALES",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          4
+        ],
+        "classroom": "N005"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "6756",
+    "group": "15",
+    "professor": "SANTIAGO VALENCIA CAÑOLA",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          5
+        ],
+        "classroom": "N005"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "6756",
+    "group": "16",
+    "professor": "ALEJANDRA MENDOZA CAMPOS",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          5
+        ],
+        "classroom": "N005"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "6756",
+    "group": "17",
+    "professor": "LUIS ARTURO NAVARRO BAENA",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          5
+        ],
+        "classroom": "N005"
+      }
+    ],
+    "professor_id": null
+  },
+  {
+    "code": "6756",
+    "group": "18",
+    "professor": "ZAIRA LINETTE TORRES CORTES",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          5
+        ],
+        "classroom": "N005"
+      }
+    ],
+    "professor_id": 140654
+  }
+]

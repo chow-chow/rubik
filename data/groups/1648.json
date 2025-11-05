@@ -1,0 +1,18 @@
+[
+  {
+    "code": "1648",
+    "group": "1",
+    "professor": "CLAUDIA ELISA SANCHEZ NAVARRO",
+    "schedules": [
+      {
+        "time": "17:30-19:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "R030"
+      }
+    ],
+    "professor_id": 68129
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "code": "3016",
+    "group": "1",
+    "professor": "CECILIA MARTIN DEL CAMPO MARQUEZ",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A201"
+      }
+    ]
+  }
+]

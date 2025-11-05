@@ -1,0 +1,166 @@
+[
+  {
+    "code": "6330",
+    "group": "1",
+    "professor": "LUCIA YAZMIN JUAREZ DE LA MORA",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1
+        ],
+        "classroom": "G002"
+      }
+    ],
+    "professor_id": 82820
+  },
+  {
+    "code": "6330",
+    "group": "2",
+    "professor": "ING DIANA ZARAGOZA ZUÑIGA",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1
+        ],
+        "classroom": "G002"
+      }
+    ],
+    "professor_id": 90126
+  },
+  {
+    "code": "6330",
+    "group": "3",
+    "professor": "LUCIA YAZMIN JUAREZ DE LA MORA",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1
+        ],
+        "classroom": "G002"
+      }
+    ],
+    "professor_id": 82820
+  },
+  {
+    "code": "6330",
+    "group": "4",
+    "professor": "ALFONSO PALACIOS MUÑOZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2
+        ],
+        "classroom": "G002"
+      }
+    ],
+    "professor_id": 101486
+  },
+  {
+    "code": "6330",
+    "group": "5",
+    "professor": "MARIA ELIZABETH ESQUIVEL RODRIGUEZ",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2
+        ],
+        "classroom": "G002"
+      }
+    ],
+    "professor_id": 71883
+  },
+  {
+    "code": "6330",
+    "group": "6",
+    "professor": "",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2
+        ],
+        "classroom": "G002"
+      }
+    ]
+  },
+  {
+    "code": "6330",
+    "group": "7",
+    "professor": "ING DIANA ZARAGOZA ZUÑIGA",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          3
+        ],
+        "classroom": "G002"
+      }
+    ],
+    "professor_id": 90126
+  },
+  {
+    "code": "6330",
+    "group": "8",
+    "professor": "ALFONSO PALACIOS MUÑOZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          4
+        ],
+        "classroom": "G002"
+      }
+    ],
+    "professor_id": 101486
+  },
+  {
+    "code": "6330",
+    "group": "9",
+    "professor": "LUCIA YAZMIN JUAREZ DE LA MORA",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          4
+        ],
+        "classroom": "G002"
+      }
+    ],
+    "professor_id": 82820
+  },
+  {
+    "code": "6330",
+    "group": "10",
+    "professor": "VIANEY FRANCO GARCIA",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          4
+        ],
+        "classroom": "G002"
+      }
+    ],
+    "professor_id": 46452
+  },
+  {
+    "code": "6330",
+    "group": "11",
+    "professor": "ANTONIO GONZALEZ TREVIÑO",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          5
+        ],
+        "classroom": "G002"
+      }
+    ],
+    "professor_id": null
+  }
+]
