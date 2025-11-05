@@ -219,7 +219,7 @@
     "lab": {
       "code": "6437",
       "name": "LAB TERMODINAMICA",
-      "total_groups": 28
+      "total_groups": 0
     }
   },
   {
@@ -425,7 +425,7 @@
     "lab": null
   },
   {
-    "code": "1793",
+    "code: "1793",
     "name": "SEM. SOCIOHUMANISTICO: ING Y POL PUB",
     "credits": 2,
     "section": "humanities",
@@ -784,4 +784,4 @@
     "has_lab": false,
     "lab": null
   }
-]
+]]
