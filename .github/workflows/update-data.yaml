@@ -2,7 +2,7 @@ name: Update Data
 
 on:
   schedule:
-    - cron: "0 0 * * 1"
+    - cron: "0 19 * * 1"
 
   workflow_dispatch:
     inputs:
@@ -58,6 +58,6 @@ jobs:
         if: steps.verify.outputs.changed == 'true'
         uses: stefanzweifel/git-auto-commit-action@v7
         with:
-          commit_message: "chore: update data $(date -u +'%Y-%m-%d')"
+          commit_message: "chore: update data"
           branch: main
           file_pattern: "data/*"
