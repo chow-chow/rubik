@@ -13,7 +13,11 @@
         "classroom": "B102"
       }
     ],
-    "professor_id": 65965
+    "professor_id": 65965,
+    "first_name": "Noé de Jesus",
+    "last_name": "Romero Serrano",
+    "rating": 4.7143,
+    "num_ratings": 21
   },
   {
     "code": "2955",
@@ -29,7 +33,11 @@
         "classroom": "T102"
       }
     ],
-    "professor_id": 105758
+    "professor_id": 105758,
+    "first_name": "Francisco",
+    "last_name": "García ugalde",
+    "rating": 10.0,
+    "num_ratings": 4
   },
   {
     "code": "2955",
@@ -44,6 +52,10 @@
         "classroom": "B306"
       }
     ],
-    "professor_id": 184516
+    "professor_id": 184516,
+    "first_name": "Miguel",
+    "last_name": "Pérez Gaspar",
+    "rating": 8.6,
+    "num_ratings": 5
   }
 ]

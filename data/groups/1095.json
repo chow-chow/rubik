@@ -12,7 +12,11 @@
         "classroom": "P001"
       }
     ],
-    "professor_id": 112607
+    "professor_id": 112607,
+    "first_name": "Gloria",
+    "last_name": "Correa Palacios",
+    "rating": 5.8261,
+    "num_ratings": 23
   },
   {
     "code": "1095",
@@ -27,7 +31,11 @@
         "classroom": "P001"
       }
     ],
-    "professor_id": 99860
+    "professor_id": 99860,
+    "first_name": "Hoover",
+    "last_name": "Mujica Ortega",
+    "rating": 7.6923,
+    "num_ratings": 13
   },
   {
     "code": "1095",
@@ -41,7 +49,6 @@
         ],
         "classroom": "P001"
       }
-    ],
-    "professor_id": null
+    ]
   }
 ]

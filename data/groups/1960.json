@@ -12,7 +12,11 @@
         "classroom": "R029"
       }
     ],
-    "professor_id": 62311
+    "professor_id": 62311,
+    "first_name": "ADOLFO",
+    "last_name": "REYES PIZANO",
+    "rating": 9.375,
+    "num_ratings": 16
   },
   {
     "code": "1960",
@@ -26,7 +30,6 @@
         ],
         "classroom": "R029"
       }
-    ],
-    "professor_id": null
+    ]
   }
 ]

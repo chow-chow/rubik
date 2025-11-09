@@ -12,8 +12,7 @@
         ],
         "classroom": "C304"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1727",
@@ -29,7 +28,11 @@
         "classroom": "C203"
       }
     ],
-    "professor_id": 33616
+    "professor_id": 33616,
+    "first_name": "Emiliano",
+    "last_name": "Campos Madrigal",
+    "rating": 8.125,
+    "num_ratings": 8
   },
   {
     "code": "1727",
@@ -45,6 +48,10 @@
         "classroom": "C203"
       }
     ],
-    "professor_id": 33616
+    "professor_id": 33616,
+    "first_name": "Emiliano",
+    "last_name": "Campos Madrigal",
+    "rating": 8.125,
+    "num_ratings": 8
   }
 ]

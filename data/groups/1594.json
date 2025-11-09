@@ -13,7 +13,11 @@
         "classroom": "B204"
       }
     ],
-    "professor_id": 99064
+    "professor_id": 99064,
+    "first_name": "Francisco Javier",
+    "last_name": "Martinez Rodriguez",
+    "rating": 4.6316,
+    "num_ratings": 38
   },
   {
     "code": "1594",
@@ -29,7 +33,11 @@
         "classroom": "DS01"
       }
     ],
-    "professor_id": 60950
+    "professor_id": 60950,
+    "first_name": "Fátima",
+    "last_name": "Moumtadi",
+    "rating": 5.5385,
+    "num_ratings": 52
   },
   {
     "code": "1594",
@@ -45,7 +53,11 @@
         "classroom": "Y001"
       }
     ],
-    "professor_id": 114293
+    "professor_id": 114293,
+    "first_name": "Óscar Jesús",
+    "last_name": "Rendón Gómez",
+    "rating": 5.5,
+    "num_ratings": 4
   },
   {
     "code": "1594",
@@ -61,6 +73,10 @@
         "classroom": "Y001"
       }
     ],
-    "professor_id": 78508
+    "professor_id": 78508,
+    "first_name": "Heriberto de Jesús",
+    "last_name": "Aguilar Juárez",
+    "rating": 8.6111,
+    "num_ratings": 36
   }
 ]

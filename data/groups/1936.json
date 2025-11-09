@@ -13,7 +13,11 @@
         "classroom": "A301"
       }
     ],
-    "professor_id": 161103
+    "professor_id": 161103,
+    "first_name": "Milton Dave",
+    "last_name": "Huesca Amador",
+    "rating": 7.0,
+    "num_ratings": 4
   },
   {
     "code": "1936",
@@ -28,8 +32,7 @@
         ],
         "classroom": "A302"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1936",
@@ -45,7 +48,11 @@
         "classroom": "A301"
       }
     ],
-    "professor_id": 161103
+    "professor_id": 161103,
+    "first_name": "Milton Dave",
+    "last_name": "Huesca Amador",
+    "rating": 7.0,
+    "num_ratings": 4
   },
   {
     "code": "1936",
@@ -61,6 +68,10 @@
         "classroom": "B407"
       }
     ],
-    "professor_id": 180779
+    "professor_id": 180779,
+    "first_name": "Manuel",
+    "last_name": "Corona Sanchez",
+    "rating": 8.5,
+    "num_ratings": 2
   }
 ]

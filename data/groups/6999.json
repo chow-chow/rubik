@@ -11,8 +11,7 @@
         ],
         "classroom": "Q316"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "6999",
@@ -27,7 +26,11 @@
         "classroom": "Q316"
       }
     ],
-    "professor_id": 141855
+    "professor_id": 141855,
+    "first_name": "Norma",
+    "last_name": "Reyes Cruz",
+    "rating": 8.0,
+    "num_ratings": 5
   },
   {
     "code": "6999",
@@ -42,7 +45,11 @@
         "classroom": "Q314"
       }
     ],
-    "professor_id": 23484
+    "professor_id": 23484,
+    "first_name": "luis",
+    "last_name": "flores",
+    "rating": 2.3333,
+    "num_ratings": 3
   },
   {
     "code": "6999",
@@ -57,7 +64,11 @@
         "classroom": "Q316"
       }
     ],
-    "professor_id": 142432
+    "professor_id": 142432,
+    "first_name": "Andrea",
+    "last_name": "Zentella León",
+    "rating": 9.5,
+    "num_ratings": 2
   },
   {
     "code": "6999",
@@ -72,7 +83,11 @@
         "classroom": "Q314"
       }
     ],
-    "professor_id": 99903
+    "professor_id": 99903,
+    "first_name": "José Alberto",
+    "last_name": "López Cervantes",
+    "rating": 8.5,
+    "num_ratings": 8
   },
   {
     "code": "6999",
@@ -87,7 +102,11 @@
         "classroom": "Q314"
       }
     ],
-    "professor_id": 89949
+    "professor_id": 89949,
+    "first_name": "ISMAEL",
+    "last_name": "ROMERO OCARANZA",
+    "rating": 6.7391,
+    "num_ratings": 23
   },
   {
     "code": "6999",
@@ -101,8 +120,7 @@
         ],
         "classroom": "Q316"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "6999",
@@ -116,8 +134,7 @@
         ],
         "classroom": "Q316"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "6999",
@@ -132,7 +149,11 @@
         "classroom": "Q314"
       }
     ],
-    "professor_id": 89946
+    "professor_id": 89946,
+    "first_name": "FLORICEL",
+    "last_name": "RAMOS VARGAS",
+    "rating": 5.7273,
+    "num_ratings": 33
   },
   {
     "code": "6999",
@@ -147,7 +168,11 @@
         "classroom": "Q316"
       }
     ],
-    "professor_id": 89946
+    "professor_id": 89946,
+    "first_name": "FLORICEL",
+    "last_name": "RAMOS VARGAS",
+    "rating": 5.7273,
+    "num_ratings": 33
   },
   {
     "code": "6999",
@@ -162,7 +187,11 @@
         "classroom": "Q316"
       }
     ],
-    "professor_id": 149553
+    "professor_id": 149553,
+    "first_name": "Edgar Senobio",
+    "last_name": "Mozo Ramos",
+    "rating": 3.0,
+    "num_ratings": 6
   },
   {
     "code": "6999",
@@ -176,8 +205,7 @@
         ],
         "classroom": "Q314"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "6999",
@@ -192,7 +220,11 @@
         "classroom": "Q316"
       }
     ],
-    "professor_id": 89950
+    "professor_id": 89950,
+    "first_name": "Jorge Antonio",
+    "last_name": "Monroy Juarez",
+    "rating": 6.6429,
+    "num_ratings": 14
   },
   {
     "code": "6999",
@@ -207,7 +239,11 @@
         "classroom": "Q314"
       }
     ],
-    "professor_id": 89949
+    "professor_id": 89949,
+    "first_name": "ISMAEL",
+    "last_name": "ROMERO OCARANZA",
+    "rating": 6.7391,
+    "num_ratings": 23
   },
   {
     "code": "6999",
@@ -222,7 +258,11 @@
         "classroom": "Q316"
       }
     ],
-    "professor_id": 99903
+    "professor_id": 99903,
+    "first_name": "José Alberto",
+    "last_name": "López Cervantes",
+    "rating": 8.5,
+    "num_ratings": 8
   },
   {
     "code": "6999",
@@ -236,8 +276,7 @@
         ],
         "classroom": "Q314"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "6999",
@@ -251,8 +290,7 @@
         ],
         "classroom": "Q314"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "6999",
@@ -267,7 +305,11 @@
         "classroom": "Q316"
       }
     ],
-    "professor_id": 99903
+    "professor_id": 99903,
+    "first_name": "José Alberto",
+    "last_name": "López Cervantes",
+    "rating": 8.5,
+    "num_ratings": 8
   },
   {
     "code": "6999",
@@ -282,6 +324,10 @@
         "classroom": "Q316"
       }
     ],
-    "professor_id": 99903
+    "professor_id": 99903,
+    "first_name": "José Alberto",
+    "last_name": "López Cervantes",
+    "rating": 8.5,
+    "num_ratings": 8
   }
 ]

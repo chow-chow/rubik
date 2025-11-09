@@ -12,7 +12,11 @@
         "classroom": "C401"
       }
     ],
-    "professor_id": 172629
+    "professor_id": 172629,
+    "first_name": "Rodolfo Gabriel",
+    "last_name": "Camacho Velazquez",
+    "rating": 5.5,
+    "num_ratings": 2
   },
   {
     "code": "1116",
@@ -27,8 +31,7 @@
         ],
         "classroom": "C404"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1116",
@@ -43,7 +46,6 @@
         ],
         "classroom": "C404"
       }
-    ],
-    "professor_id": null
+    ]
   }
 ]

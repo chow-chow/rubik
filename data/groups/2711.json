@@ -12,8 +12,7 @@
         ],
         "classroom": "S005"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "2711",
@@ -29,6 +28,10 @@
         "classroom": "R206"
       }
     ],
-    "professor_id": 108907
+    "professor_id": 108907,
+    "first_name": "M. I. Alejandra",
+    "last_name": "Medina Arévalo",
+    "rating": 7.2,
+    "num_ratings": 5
   }
 ]

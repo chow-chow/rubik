@@ -13,7 +13,11 @@
         "classroom": "A402"
       }
     ],
-    "professor_id": 94393
+    "professor_id": 94393,
+    "first_name": "CHRISTIAN",
+    "last_name": "HERNANDEZ SANTIAGO",
+    "rating": 9.3125,
+    "num_ratings": 16
   },
   {
     "code": "2830",
@@ -29,6 +33,10 @@
         "classroom": "B409"
       }
     ],
-    "professor_id": 60231
+    "professor_id": 60231,
+    "first_name": "Rodrigo Alejandro",
+    "last_name": "Gutierrez Arenas",
+    "rating": 8.0,
+    "num_ratings": 10
   }
 ]

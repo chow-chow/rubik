@@ -12,8 +12,7 @@
         ],
         "classroom": "C301"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1583",
@@ -27,8 +26,7 @@
         ],
         "classroom": "C204"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1583",
@@ -44,6 +42,10 @@
         "classroom": "C103"
       }
     ],
-    "professor_id": 90939
+    "professor_id": 90939,
+    "first_name": "Javier",
+    "last_name": "Mancera Alejandrez",
+    "rating": 5.3333,
+    "num_ratings": 6
   }
 ]

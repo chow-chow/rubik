@@ -12,7 +12,11 @@
         "classroom": "DS06"
       }
     ],
-    "professor_id": 86743
+    "professor_id": 86743,
+    "first_name": "Fernando",
+    "last_name": "Vallejo Quintero",
+    "rating": 7.5455,
+    "num_ratings": 11
   },
   {
     "code": "6936",
@@ -27,7 +31,11 @@
         "classroom": "DS06"
       }
     ],
-    "professor_id": 109197
+    "professor_id": 109197,
+    "first_name": "Alberto",
+    "last_name": "Cortez",
+    "rating": 8.5,
+    "num_ratings": 4
   },
   {
     "code": "6936",
@@ -42,7 +50,11 @@
         "classroom": "DS06"
       }
     ],
-    "professor_id": 180779
+    "professor_id": 180779,
+    "first_name": "Manuel",
+    "last_name": "Corona Sanchez",
+    "rating": 8.5,
+    "num_ratings": 2
   },
   {
     "code": "6936",
@@ -57,7 +69,11 @@
         "classroom": "DS06"
       }
     ],
-    "professor_id": 172325
+    "professor_id": 172325,
+    "first_name": "Gerardo",
+    "last_name": "Loredo López",
+    "rating": 8.0,
+    "num_ratings": 4
   },
   {
     "code": "6936",
@@ -72,7 +88,11 @@
         "classroom": "DS06"
       }
     ],
-    "professor_id": 172325
+    "professor_id": 172325,
+    "first_name": "Gerardo",
+    "last_name": "Loredo López",
+    "rating": 8.0,
+    "num_ratings": 4
   },
   {
     "code": "6936",
@@ -87,7 +107,11 @@
         "classroom": "DS06"
       }
     ],
-    "professor_id": 109197
+    "professor_id": 109197,
+    "first_name": "Alberto",
+    "last_name": "Cortez",
+    "rating": 8.5,
+    "num_ratings": 4
   },
   {
     "code": "6936",
@@ -102,7 +126,11 @@
         "classroom": "DS06"
       }
     ],
-    "professor_id": 172325
+    "professor_id": 172325,
+    "first_name": "Gerardo",
+    "last_name": "Loredo López",
+    "rating": 8.0,
+    "num_ratings": 4
   },
   {
     "code": "6936",
@@ -117,7 +145,11 @@
         "classroom": "DS06"
       }
     ],
-    "professor_id": 172325
+    "professor_id": 172325,
+    "first_name": "Gerardo",
+    "last_name": "Loredo López",
+    "rating": 8.0,
+    "num_ratings": 4
   },
   {
     "code": "6936",
@@ -131,8 +163,7 @@
         ],
         "classroom": "DS06"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "6936",
@@ -146,8 +177,7 @@
         ],
         "classroom": "DS06"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "6936",
@@ -162,6 +192,10 @@
         "classroom": "DS06"
       }
     ],
-    "professor_id": 118946
+    "professor_id": 118946,
+    "first_name": "Alejandro",
+    "last_name": "Baez Muñoz",
+    "rating": 6.8571,
+    "num_ratings": 7
   }
 ]

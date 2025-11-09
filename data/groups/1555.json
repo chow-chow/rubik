@@ -13,7 +13,11 @@
         "classroom": "A106"
       }
     ],
-    "professor_id": 66566
+    "professor_id": 66566,
+    "first_name": "Cesar",
+    "last_name": "Vazquez Lorenzana",
+    "rating": 6.1149,
+    "num_ratings": 87
   },
   {
     "code": "1555",
@@ -29,7 +33,11 @@
         "classroom": "A203"
       }
     ],
-    "professor_id": 66566
+    "professor_id": 66566,
+    "first_name": "Cesar",
+    "last_name": "Vazquez Lorenzana",
+    "rating": 6.1149,
+    "num_ratings": 87
   },
   {
     "code": "1555",
@@ -44,8 +52,7 @@
         ],
         "classroom": "A208"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1555",
@@ -61,7 +68,11 @@
         "classroom": "A203"
       }
     ],
-    "professor_id": 66566
+    "professor_id": 66566,
+    "first_name": "Cesar",
+    "last_name": "Vazquez Lorenzana",
+    "rating": 6.1149,
+    "num_ratings": 87
   },
   {
     "code": "1555",
@@ -76,8 +87,7 @@
         ],
         "classroom": "A212"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1555",
@@ -92,8 +102,7 @@
         ],
         "classroom": "A211"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1555",
@@ -108,8 +117,7 @@
         ],
         "classroom": "A212"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1555",
@@ -125,7 +133,11 @@
         "classroom": "A211"
       }
     ],
-    "professor_id": 90635
+    "professor_id": 90635,
+    "first_name": "ROBERTO",
+    "last_name": "MAGAÑA DEL TORO",
+    "rating": 4.3333,
+    "num_ratings": 6
   },
   {
     "code": "1555",
@@ -140,7 +152,6 @@
         ],
         "classroom": "A204"
       }
-    ],
-    "professor_id": null
+    ]
   }
 ]

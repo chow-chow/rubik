@@ -13,8 +13,7 @@
         ],
         "classroom": "A210"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1730",
@@ -31,7 +30,11 @@
         "classroom": "A307"
       }
     ],
-    "professor_id": 175830
+    "professor_id": 175830,
+    "first_name": "AMALIA ADRIANA",
+    "last_name": "CAFAGGI FELIX",
+    "rating": 8.2857,
+    "num_ratings": 7
   },
   {
     "code": "1730",
@@ -47,8 +50,7 @@
         ],
         "classroom": "A207"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1730",
@@ -64,8 +66,7 @@
         ],
         "classroom": "B402"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1730",
@@ -81,7 +82,11 @@
         "classroom": "A207"
       }
     ],
-    "professor_id": 181728
+    "professor_id": 181728,
+    "first_name": "LILIANA",
+    "last_name": "AGUILAR YAÑEZ",
+    "rating": 9.4,
+    "num_ratings": 5
   },
   {
     "code": "1730",
@@ -96,7 +101,6 @@
         ],
         "classroom": "A212"
       }
-    ],
-    "professor_id": null
+    ]
   }
 ]

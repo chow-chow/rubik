@@ -1,0 +1,559 @@
+[
+  {
+    "code": "0129",
+    "name": "DINAMICA DE SISTEMAS FISICOS",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "0145",
+    "name": "ELECTRONICA DE POTENCIA",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "0422",
+    "name": "AUTOMATIZACION",
+    "credits": 10,
+    "has_lab": true,
+    "lab": {
+      "code": "5422",
+      "name": "LAB. AUTOMATIZACION"
+    }
+  },
+  {
+    "code": "0423",
+    "name": "INSTALACIONES ELECTRICAS",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "0558",
+    "name": "MEDICION E INSTRUMENTACION",
+    "credits": 8,
+    "has_lab": true,
+    "lab": {
+      "code": "5558",
+      "name": "LAB. MEDICION E INSTRUMENTACION"
+    }
+  },
+  {
+    "code": "0627",
+    "name": "PLANTAS GENERADORAS",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "0636",
+    "name": "PROTECCION DE SISTS.ELECTRIC",
+    "credits": 10,
+    "has_lab": true,
+    "lab": {
+      "code": "5636",
+      "name": "LAB. PROTECCION DE SISTEMAS ELECTRICOS"
+    }
+  },
+  {
+    "code": "0879",
+    "name": "TEORIA ELECTROMAGNETICA",
+    "credits": 10,
+    "has_lab": true,
+    "lab": {
+      "code": "5879",
+      "name": "LAB. TEORIA ELECTROMAGNETICA"
+    }
+  },
+  {
+    "code": "0944",
+    "name": "COSTOS Y EVALUACION DE PROYECTOS",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1016",
+    "name": "SUBESTACIONES ELECTRICAS",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1052",
+    "name": "ETICA PROFESIONAL",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1055",
+    "name": "LITERATURA HISPANOAMERICANA CONTEMPO",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1057",
+    "name": "DESARROLLO DE HABILIDADES DIRECTIVAS",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1059",
+    "name": "DESARROLLO EMPRESARIAL",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1092",
+    "name": "AUTOMATIZACION DE SISTEM.ELECTRICS",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1099",
+    "name": "ILUMINACION",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1120",
+    "name": "ALGEBRA",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1121",
+    "name": "CALCULO Y GEOMETRIA ANALITICA",
+    "credits": 12,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1122",
+    "name": "FUNDAMENTOS DE PROGRAMACION",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1123",
+    "name": "QUIMICA",
+    "credits": 10,
+    "has_lab": true,
+    "lab": {
+      "code": "6123",
+      "name": "LAB. DE QUIMICA (2016)"
+    }
+  },
+  {
+    "code": "1124",
+    "name": "REDACCION Y EXPOSIC TEMAS INGENIERIA",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1220",
+    "name": "ALGEBRA LINEAL",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1221",
+    "name": "CALCULO INTEGRAL",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1222",
+    "name": "CULTURA Y COMUNICACION",
+    "credits": 2,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1227",
+    "name": "ESTRUCTURA DATOS Y ALGORITMOS I",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1228",
+    "name": "MECANICA",
+    "credits": 12,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1321",
+    "name": "CALCULO VECTORIAL",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1325",
+    "name": "ECUACIONES DIFERENCIALES",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1332",
+    "name": "MODELOS DE PROGRAMACION ORIENT.OBJET",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1413",
+    "name": "INTRODUCCION A LA ECONOMIA",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1414",
+    "name": "ELECTRICIDAD Y MAGNETISMO",
+    "credits": 10,
+    "has_lab": true,
+    "lab": {
+      "code": "6414",
+      "name": "LABORATORIO DE ELECTRICIDAD Y MAGNETISMO"
+    }
+  },
+  {
+    "code": "1433",
+    "name": "ANALISIS NUMERICO",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1436",
+    "name": "PROBABILIDAD",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1437",
+    "name": "TERMODINAMICA",
+    "credits": 10,
+    "has_lab": true,
+    "lab": {
+      "code": "6437",
+      "name": "LAB TERMODINAMICA"
+    }
+  },
+  {
+    "code": "1443",
+    "name": "ANALISIS DE SISTEMAS Y SEÑALES",
+    "credits": 10,
+    "has_lab": true,
+    "lab": {
+      "code": "6443",
+      "name": "LAB. ANALISIS DE  SISTEMAS Y SEÑALES"
+    }
+  },
+  {
+    "code": "1592",
+    "name": "ANALISIS DE CIRCUITOS ELECTRICOS",
+    "credits": 10,
+    "has_lab": true,
+    "lab": {
+      "code": "6592",
+      "name": "LAB. ANALISIS DE CIRCUITOS ELECTRICOS"
+    }
+  },
+  {
+    "code": "1593",
+    "name": "ESTADISTICA ING.ELECTRICA ELECTRONIC",
+    "credits": 4,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1594",
+    "name": "FISICA DE SEMICONDUCTORES",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1617",
+    "name": "DISEÑO DIGITAL",
+    "credits": 10,
+    "has_lab": true,
+    "lab": {
+      "code": "6617",
+      "name": "LAB. DISEÑO DIGITAL"
+    }
+  },
+  {
+    "code": "1618",
+    "name": "DISPOSITIVOS-CIRCUITOS ELECTRONICOS",
+    "credits": 10,
+    "has_lab": true,
+    "lab": {
+      "code": "6618",
+      "name": "LAB. DISPOSITIVOS Y CIRCUITOS ELECTRONICOS"
+    }
+  },
+  {
+    "code": "1624",
+    "name": "ENERGIA E IMPACTO AMBIENTAL",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1723",
+    "name": "AMPLIFICADORES ELECTRONICOS",
+    "credits": 10,
+    "has_lab": true,
+    "lab": {
+      "code": "6723",
+      "name": "LAB.  AMPLIFICADORES ELECTRONICOS"
+    }
+  },
+  {
+    "code": "1780",
+    "name": "ACUSTICA Y OPTICA",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1789",
+    "name": "CIENCIA, TECNOLOGIA Y SOCIEDAD",
+    "credits": 4,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1790",
+    "name": "INTRODUCCION ANALIS ECON EMPRESARIAL",
+    "credits": 4,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1791",
+    "name": "MEXICO NACION MULTICULTURAL",
+    "credits": 4,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1792",
+    "name": "SEM. SOCIOHUMANISTICO: HIST PROSP IN",
+    "credits": 2,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1793",
+    "name": "SEM. SOCIOHUMANISTICO: ING Y POL PUB",
+    "credits": 2,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1794",
+    "name": "SEM. SOCIOHUMANISTICO: ING SUSTENTAB",
+    "credits": 2,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1795",
+    "name": "TALLER SOCIOHUMANISTICO: CREATIVIDAD",
+    "credits": 2,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1796",
+    "name": "TALLER SOCIOHUMANISTICO: LIDERAZGO",
+    "credits": 2,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1822",
+    "name": "CIRCUITOS INTEGRADOS ANALOGICOS",
+    "credits": 10,
+    "has_lab": true,
+    "lab": {
+      "code": "6822",
+      "name": "LAB. CIRCUITOS INTEGRADOS ANALOGICOS"
+    }
+  },
+  {
+    "code": "1936",
+    "name": "SISTEMAS ELECTRICOS POTEN.I",
+    "credits": 10,
+    "has_lab": true,
+    "lab": {
+      "code": "6936",
+      "name": "LAB. SISTEMAS ELECTRICOS DE POTENCIA I"
+    }
+  },
+  {
+    "code": "1937",
+    "name": "MICROPROCESADORES-MICROCONT.",
+    "credits": 10,
+    "has_lab": true,
+    "lab": {
+      "code": "6937",
+      "name": "LAB. MICROPROCESADORES Y MICROCONTROLADORES"
+    }
+  },
+  {
+    "code": "1997",
+    "name": "FUNDAMENTOS DE CONTROL",
+    "credits": 10,
+    "has_lab": true,
+    "lab": {
+      "code": "6997",
+      "name": "LAB. FUNDAMENTOS DE CONTROL"
+    }
+  },
+  {
+    "code": "1998",
+    "name": "MAQUINAS ELECTRICAS I",
+    "credits": 10,
+    "has_lab": true,
+    "lab": {
+      "code": "6998",
+      "name": "LAB. MAQUINAS ELECTRICAS I"
+    }
+  },
+  {
+    "code": "1999",
+    "name": "SISTEMAS DE COMUNICACIONES ELECTRONI",
+    "credits": 10,
+    "has_lab": true,
+    "lab": {
+      "code": "6999",
+      "name": "LAB. SISTEMAS DE COMUNICACIONES ELECTRONICAS"
+    }
+  },
+  {
+    "code": "2003",
+    "name": "SISTEMAS DE DISTRIBUCION",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2004",
+    "name": "SISTEMAS DE TRANSPORTE ELECTRICO",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2008",
+    "name": "TEM.SEL.DE INGENIERIA ELECTRICA",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2080",
+    "name": "RECURSOS Y NECESIDADES DE MEXICO",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2103",
+    "name": "CALIDAD",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2900",
+    "name": "MAQUINAS ELECTRICAS II",
+    "credits": 10,
+    "has_lab": true,
+    "lab": {
+      "code": "7900",
+      "name": "LAB. MAQUINAS ELECTRICAS II"
+    }
+  },
+  {
+    "code": "2901",
+    "name": "PROCESAMIENTO DIGITAL DE SEÑALES",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2907",
+    "name": "MAQUINAS ELECTRICAS III",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2908",
+    "name": "SISTEMAS ELECTRICOS DE POTENCIA II",
+    "credits": 10,
+    "has_lab": true,
+    "lab": {
+      "code": "7908",
+      "name": "LAB. SISTEMAS ELECTRICOS DE POTENCIA II"
+    }
+  },
+  {
+    "code": "3001",
+    "name": "PROYECTO DE INVEST.ING.ELECTRIC-ELEC",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3020",
+    "name": "CREATIVIDAD E INNOVACION",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3021",
+    "name": "METODOLOGIA PARA LA PLANEACION",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3022",
+    "name": "RELACIONES LABORALES Y ORGANIZACION.",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "8000",
+    "name": "IGUALDAD DE GENERO EN INGENIERIA",
+    "credits": 0,
+    "has_lab": false,
+    "lab": null
+  }
+]

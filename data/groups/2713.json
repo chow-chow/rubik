@@ -19,7 +19,11 @@
         "classroom": "B409"
       }
     ],
-    "professor_id": 113812
+    "professor_id": 113812,
+    "first_name": "salvador",
+    "last_name": "centeno estrada",
+    "rating": 5.7317,
+    "num_ratings": 41
   },
   {
     "code": "2713",
@@ -34,8 +38,7 @@
         ],
         "classroom": "B409"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "2713",
@@ -50,8 +53,7 @@
         ],
         "classroom": "B409"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "2713",
@@ -66,7 +68,6 @@
         ],
         "classroom": "B409"
       }
-    ],
-    "professor_id": null
+    ]
   }
 ]

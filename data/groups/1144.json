@@ -12,7 +12,11 @@
         "classroom": "J105"
       }
     ],
-    "professor_id": 180859
+    "professor_id": 180859,
+    "first_name": "Vivaldo",
+    "last_name": "Muñoz González",
+    "rating": 3.4,
+    "num_ratings": 5
   },
   {
     "code": "1144",
@@ -26,8 +30,7 @@
         ],
         "classroom": "I102"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1144",
@@ -41,8 +44,7 @@
         ],
         "classroom": "J104"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1144",
@@ -57,6 +59,10 @@
         "classroom": "J209"
       }
     ],
-    "professor_id": 174589
+    "professor_id": 174589,
+    "first_name": "Cesia Esther",
+    "last_name": "Fabela Pérez",
+    "rating": 10.0,
+    "num_ratings": 2
   }
 ]

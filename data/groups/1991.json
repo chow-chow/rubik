@@ -13,7 +13,11 @@
         "classroom": "D008"
       }
     ],
-    "professor_id": 162271
+    "professor_id": 162271,
+    "first_name": "José Angel",
+    "last_name": "Gómez Cabrera",
+    "rating": 3.4,
+    "num_ratings": 5
   },
   {
     "code": "1991",
@@ -28,7 +32,11 @@
         "classroom": "C202"
       }
     ],
-    "professor_id": 133811
+    "professor_id": 133811,
+    "first_name": "Oswaldo David",
+    "last_name": "López Hernández",
+    "rating": 6.0,
+    "num_ratings": 2
   },
   {
     "code": "1991",
@@ -44,6 +52,10 @@
         "classroom": "Y103"
       }
     ],
-    "professor_id": 111901
+    "professor_id": 111901,
+    "first_name": "Gilberto",
+    "last_name": "Sebastián Barrera",
+    "rating": 6.875,
+    "num_ratings": 32
   }
 ]

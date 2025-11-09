@@ -12,8 +12,7 @@
         ],
         "classroom": "B402"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "2600",
@@ -29,7 +28,11 @@
         "classroom": "B402"
       }
     ],
-    "professor_id": 93401
+    "professor_id": 93401,
+    "first_name": "Cesar",
+    "last_name": "Paniagua Lovera",
+    "rating": 6.2,
+    "num_ratings": 20
   },
   {
     "code": "2600",
@@ -45,7 +48,11 @@
         "classroom": "Y203"
       }
     ],
-    "professor_id": 141803
+    "professor_id": 141803,
+    "first_name": "Sixta Hinndi",
+    "last_name": "Mendoza Pérez",
+    "rating": 8.2857,
+    "num_ratings": 7
   },
   {
     "code": "2600",
@@ -61,7 +68,11 @@
         "classroom": "A307"
       }
     ],
-    "professor_id": 154733
+    "professor_id": 154733,
+    "first_name": "Isaac Felipe",
+    "last_name": "Lima Castillo",
+    "rating": 8.0,
+    "num_ratings": 2
   },
   {
     "code": "2600",
@@ -76,8 +87,7 @@
         ],
         "classroom": "SIN"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "2600",
@@ -91,7 +101,6 @@
         ],
         "classroom": "A209"
       }
-    ],
-    "professor_id": null
+    ]
   }
 ]

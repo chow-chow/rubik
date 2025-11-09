@@ -13,7 +13,11 @@
         "classroom": "D007"
       }
     ],
-    "professor_id": 134744
+    "professor_id": 134744,
+    "first_name": "Humberto",
+    "last_name": "Santos Rios",
+    "rating": 6.9375,
+    "num_ratings": 16
   },
   {
     "code": "1983",
@@ -28,7 +32,11 @@
         "classroom": "D006"
       }
     ],
-    "professor_id": 103042
+    "professor_id": 103042,
+    "first_name": "Javier",
+    "last_name": "Reyna Alonso",
+    "rating": 6.5581,
+    "num_ratings": 43
   },
   {
     "code": "1983",
@@ -43,7 +51,6 @@
         ],
         "classroom": "SIN"
       }
-    ],
-    "professor_id": null
+    ]
   }
 ]

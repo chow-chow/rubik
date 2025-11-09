@@ -13,7 +13,11 @@
         "classroom": "B201"
       }
     ],
-    "professor_id": 124462
+    "professor_id": 124462,
+    "first_name": "ROGELIO DARIO",
+    "last_name": "GUTIERREZ",
+    "rating": 5.6,
+    "num_ratings": 15
   },
   {
     "code": "1782",
@@ -28,8 +32,7 @@
         ],
         "classroom": "B302"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1782",
@@ -45,7 +48,11 @@
         "classroom": "D002"
       }
     ],
-    "professor_id": 88053
+    "professor_id": 88053,
+    "first_name": "Gustavo",
+    "last_name": "Rojas Coca",
+    "rating": 6.0,
+    "num_ratings": 28
   },
   {
     "code": "1782",
@@ -61,7 +68,11 @@
         "classroom": "Y004"
       }
     ],
-    "professor_id": 105090
+    "professor_id": 105090,
+    "first_name": "Ricardo",
+    "last_name": "Yañez valdez",
+    "rating": 2.8571,
+    "num_ratings": 14
   },
   {
     "code": "1782",
@@ -77,7 +88,11 @@
         "classroom": "Y003"
       }
     ],
-    "professor_id": 142070
+    "professor_id": 142070,
+    "first_name": "JOSE ROGELIO",
+    "last_name": "VALDES HERRERA",
+    "rating": 7.0,
+    "num_ratings": 4
   },
   {
     "code": "1782",
@@ -93,7 +108,11 @@
         "classroom": "O103"
       }
     ],
-    "professor_id": 42619
+    "professor_id": 42619,
+    "first_name": "Emiliano",
+    "last_name": "Anguiano Rojas",
+    "rating": 4.0,
+    "num_ratings": 35
   },
   {
     "code": "1782",
@@ -108,7 +127,6 @@
         ],
         "classroom": "A109"
       }
-    ],
-    "professor_id": null
+    ]
   }
 ]

@@ -13,7 +13,11 @@
         "classroom": "B105"
       }
     ],
-    "professor_id": 60629
+    "professor_id": 60629,
+    "first_name": "Alejandro",
+    "last_name": "Castillo Montalvo",
+    "rating": 4.3333,
+    "num_ratings": 12
   },
   {
     "code": "1734",
@@ -29,7 +33,11 @@
         "classroom": "D002"
       }
     ],
-    "professor_id": 109063
+    "professor_id": 109063,
+    "first_name": "HÉCTOR",
+    "last_name": "SÁNCHEZ SÁNCHEZ",
+    "rating": 7.625,
+    "num_ratings": 8
   },
   {
     "code": "1734",
@@ -45,7 +53,11 @@
         "classroom": "O101"
       }
     ],
-    "professor_id": 133199
+    "professor_id": 133199,
+    "first_name": "Alejandro",
+    "last_name": "Gonzalez Elizondo",
+    "rating": 7.7647,
+    "num_ratings": 17
   },
   {
     "code": "1734",
@@ -61,7 +73,11 @@
         "classroom": "B104"
       }
     ],
-    "professor_id": 172962
+    "professor_id": 172962,
+    "first_name": "Jessica",
+    "last_name": "Cruz Sanchez",
+    "rating": 7.2308,
+    "num_ratings": 13
   },
   {
     "code": "1734",
@@ -77,7 +93,11 @@
         "classroom": "D003"
       }
     ],
-    "professor_id": 101230
+    "professor_id": 101230,
+    "first_name": "GUMERSINDO ALEJANDRO",
+    "last_name": "OYARZABAL CAMACHO",
+    "rating": 6.6,
+    "num_ratings": 5
   },
   {
     "code": "1734",
@@ -92,8 +112,7 @@
         ],
         "classroom": "B302"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1734",
@@ -109,7 +128,11 @@
         "classroom": "B303"
       }
     ],
-    "professor_id": 83264
+    "professor_id": 83264,
+    "first_name": "Eduardo",
+    "last_name": "Ordiales Yurrita",
+    "rating": 9.0556,
+    "num_ratings": 18
   },
   {
     "code": "1734",
@@ -125,7 +148,11 @@
         "classroom": "B105"
       }
     ],
-    "professor_id": 60629
+    "professor_id": 60629,
+    "first_name": "Alejandro",
+    "last_name": "Castillo Montalvo",
+    "rating": 4.3333,
+    "num_ratings": 12
   },
   {
     "code": "1734",
@@ -140,8 +167,7 @@
         ],
         "classroom": "A109"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1734",
@@ -157,6 +183,10 @@
         "classroom": "D001"
       }
     ],
-    "professor_id": 83264
+    "professor_id": 83264,
+    "first_name": "Eduardo",
+    "last_name": "Ordiales Yurrita",
+    "rating": 9.0556,
+    "num_ratings": 18
   }
 ]

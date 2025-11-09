@@ -15,8 +15,7 @@
         ],
         "classroom": "EXTR"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1976",
@@ -34,8 +33,7 @@
         ],
         "classroom": "EXTR"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1976",
@@ -53,8 +51,7 @@
         ],
         "classroom": "EXTR"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1976",
@@ -72,8 +69,7 @@
         ],
         "classroom": "EXTR"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1976",
@@ -91,8 +87,7 @@
         ],
         "classroom": "EXTR"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1976",
@@ -111,7 +106,11 @@
         "classroom": "EXTR"
       }
     ],
-    "professor_id": 154334
+    "professor_id": 154334,
+    "first_name": "Elizabeth",
+    "last_name": "Orencio Lizardi",
+    "rating": 5.75,
+    "num_ratings": 4
   },
   {
     "code": "1976",
@@ -130,6 +129,10 @@
         "classroom": "EXTR"
       }
     ],
-    "professor_id": 109270
+    "professor_id": 109270,
+    "first_name": "Serafín",
+    "last_name": "Castañeda Cedeño",
+    "rating": 7.3333,
+    "num_ratings": 12
   }
 ]

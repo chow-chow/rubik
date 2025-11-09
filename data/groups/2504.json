@@ -13,7 +13,11 @@
         "classroom": "B403"
       }
     ],
-    "professor_id": 124076
+    "professor_id": 124076,
+    "first_name": "Alberto",
+    "last_name": "Ceciliano Hernandez",
+    "rating": 10.0,
+    "num_ratings": 7
   },
   {
     "code": "2504",
@@ -28,7 +32,6 @@
         ],
         "classroom": "C202"
       }
-    ],
-    "professor_id": null
+    ]
   }
 ]

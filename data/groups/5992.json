@@ -11,8 +11,7 @@
         ],
         "classroom": "O101"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "5992",
@@ -26,8 +25,7 @@
         ],
         "classroom": "D002"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "5992",
@@ -41,8 +39,7 @@
         ],
         "classroom": "B202"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "5992",
@@ -57,6 +54,10 @@
         "classroom": "D003"
       }
     ],
-    "professor_id": 167496
+    "professor_id": 167496,
+    "first_name": "Carolina",
+    "last_name": "Castro Alarcón",
+    "rating": 7.4,
+    "num_ratings": 5
   }
 ]

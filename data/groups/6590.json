@@ -12,7 +12,11 @@
         "classroom": "Q219"
       }
     ],
-    "professor_id": 95352
+    "professor_id": 95352,
+    "first_name": "Arturo",
+    "last_name": "Pérez De la Cruz",
+    "rating": 5.1538,
+    "num_ratings": 26
   },
   {
     "code": "6590",
@@ -27,7 +31,11 @@
         "classroom": "Q219"
       }
     ],
-    "professor_id": 95712
+    "professor_id": 95712,
+    "first_name": "José Roque",
+    "last_name": "Román Guadarrama",
+    "rating": 7.3235,
+    "num_ratings": 34
   },
   {
     "code": "6590",
@@ -42,7 +50,11 @@
         "classroom": "Q219"
       }
     ],
-    "professor_id": 95712
+    "professor_id": 95712,
+    "first_name": "José Roque",
+    "last_name": "Román Guadarrama",
+    "rating": 7.3235,
+    "num_ratings": 34
   },
   {
     "code": "6590",
@@ -56,8 +68,7 @@
         ],
         "classroom": "Q219"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "6590",
@@ -72,7 +83,11 @@
         "classroom": "Q219"
       }
     ],
-    "professor_id": 85623
+    "professor_id": 85623,
+    "first_name": "Sergio",
+    "last_name": "Teodoro Vite",
+    "rating": 8.25,
+    "num_ratings": 28
   },
   {
     "code": "6590",
@@ -87,7 +102,11 @@
         "classroom": "Q219"
       }
     ],
-    "professor_id": 85623
+    "professor_id": 85623,
+    "first_name": "Sergio",
+    "last_name": "Teodoro Vite",
+    "rating": 8.25,
+    "num_ratings": 28
   },
   {
     "code": "6590",
@@ -102,7 +121,11 @@
         "classroom": "Q219"
       }
     ],
-    "professor_id": 95352
+    "professor_id": 95352,
+    "first_name": "Arturo",
+    "last_name": "Pérez De la Cruz",
+    "rating": 5.1538,
+    "num_ratings": 26
   },
   {
     "code": "6590",
@@ -117,7 +140,11 @@
         "classroom": "Q219"
       }
     ],
-    "professor_id": 113612
+    "professor_id": 113612,
+    "first_name": "Carlos Aldair",
+    "last_name": "Roman Balbuena",
+    "rating": 6.1778,
+    "num_ratings": 45
   },
   {
     "code": "6590",
@@ -131,8 +158,7 @@
         ],
         "classroom": "Q219"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "6590",
@@ -147,7 +173,11 @@
         "classroom": "Q219"
       }
     ],
-    "professor_id": 79254
+    "professor_id": 79254,
+    "first_name": "Luis Sergio",
+    "last_name": "Valencia Castro",
+    "rating": 5.9167,
+    "num_ratings": 48
   },
   {
     "code": "6590",
@@ -162,7 +192,11 @@
         "classroom": "Q219"
       }
     ],
-    "professor_id": 79254
+    "professor_id": 79254,
+    "first_name": "Luis Sergio",
+    "last_name": "Valencia Castro",
+    "rating": 5.9167,
+    "num_ratings": 48
   },
   {
     "code": "6590",
@@ -176,8 +210,7 @@
         ],
         "classroom": "Q219"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "6590",
@@ -192,6 +225,10 @@
         "classroom": "Q219"
       }
     ],
-    "professor_id": 95712
+    "professor_id": 95712,
+    "first_name": "José Roque",
+    "last_name": "Román Guadarrama",
+    "rating": 7.3235,
+    "num_ratings": 34
   }
 ]

@@ -12,7 +12,11 @@
         "classroom": "Y201"
       }
     ],
-    "professor_id": 95374
+    "professor_id": 95374,
+    "first_name": "JULIO",
+    "last_name": "SERRANO VILLEGAS",
+    "rating": 9.0588,
+    "num_ratings": 17
   },
   {
     "code": "7714",
@@ -27,7 +31,11 @@
         "classroom": "Y201"
       }
     ],
-    "professor_id": 95374
+    "professor_id": 95374,
+    "first_name": "JULIO",
+    "last_name": "SERRANO VILLEGAS",
+    "rating": 9.0588,
+    "num_ratings": 17
   },
   {
     "code": "7714",
@@ -42,7 +50,11 @@
         "classroom": "Y201"
       }
     ],
-    "professor_id": 95374
+    "professor_id": 95374,
+    "first_name": "JULIO",
+    "last_name": "SERRANO VILLEGAS",
+    "rating": 9.0588,
+    "num_ratings": 17
   },
   {
     "code": "7714",
@@ -57,7 +69,11 @@
         "classroom": "Y201"
       }
     ],
-    "professor_id": 79607
+    "professor_id": 79607,
+    "first_name": "Eduardo",
+    "last_name": "Rosas Lira",
+    "rating": 6.2353,
+    "num_ratings": 17
   },
   {
     "code": "7714",
@@ -72,7 +88,11 @@
         "classroom": "Y201"
       }
     ],
-    "professor_id": 175543
+    "professor_id": 175543,
+    "first_name": "Jorge",
+    "last_name": "Prado Morales",
+    "rating": 7.8333,
+    "num_ratings": 6
   },
   {
     "code": "7714",
@@ -87,7 +107,11 @@
         "classroom": "Y201"
       }
     ],
-    "professor_id": 79607
+    "professor_id": 79607,
+    "first_name": "Eduardo",
+    "last_name": "Rosas Lira",
+    "rating": 6.2353,
+    "num_ratings": 17
   },
   {
     "code": "7714",
@@ -101,8 +125,7 @@
         ],
         "classroom": "Y201"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "7714",
@@ -117,7 +140,11 @@
         "classroom": "Y201"
       }
     ],
-    "professor_id": 79607
+    "professor_id": 79607,
+    "first_name": "Eduardo",
+    "last_name": "Rosas Lira",
+    "rating": 6.2353,
+    "num_ratings": 17
   },
   {
     "code": "7714",
@@ -132,7 +159,11 @@
         "classroom": "Y201"
       }
     ],
-    "professor_id": 175543
+    "professor_id": 175543,
+    "first_name": "Jorge",
+    "last_name": "Prado Morales",
+    "rating": 7.8333,
+    "num_ratings": 6
   },
   {
     "code": "7714",
@@ -146,7 +177,6 @@
         ],
         "classroom": "Y201"
       }
-    ],
-    "professor_id": null
+    ]
   }
 ]

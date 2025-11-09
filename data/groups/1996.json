@@ -26,7 +26,11 @@
         "classroom": "O007"
       }
     ],
-    "professor_id": 27938
+    "professor_id": 27938,
+    "first_name": "Yukihiro",
+    "last_name": "Minami",
+    "rating": 8.175,
+    "num_ratings": 40
   },
   {
     "code": "1996",
@@ -48,7 +52,11 @@
         "classroom": "O007"
       }
     ],
-    "professor_id": 124473
+    "professor_id": 124473,
+    "first_name": "ULISES MARTIN",
+    "last_name": "PEÑUELAS RIVAS",
+    "rating": 8.0909,
+    "num_ratings": 11
   },
   {
     "code": "1996",
@@ -71,7 +79,11 @@
         "classroom": "O007"
       }
     ],
-    "professor_id": 109270
+    "professor_id": 109270,
+    "first_name": "Serafín",
+    "last_name": "Castañeda Cedeño",
+    "rating": 7.3333,
+    "num_ratings": 12
   },
   {
     "code": "1996",
@@ -93,8 +105,7 @@
         ],
         "classroom": "A401"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1996",
@@ -122,7 +133,6 @@
         ],
         "classroom": "O007"
       }
-    ],
-    "professor_id": null
+    ]
   }
 ]

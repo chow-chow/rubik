@@ -13,7 +13,11 @@
         "classroom": "C401"
       }
     ],
-    "professor_id": 90867
+    "professor_id": 90867,
+    "first_name": "Enrique Alejandro",
+    "last_name": "González Torres",
+    "rating": 9.4,
+    "num_ratings": 15
   },
   {
     "code": "1587",
@@ -28,7 +32,6 @@
         ],
         "classroom": "C404"
       }
-    ],
-    "professor_id": null
+    ]
   }
 ]

@@ -11,8 +11,7 @@
         ],
         "classroom": "H003"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "6125",
@@ -27,7 +26,11 @@
         "classroom": "H004"
       }
     ],
-    "professor_id": 128316
+    "professor_id": 128316,
+    "first_name": "Luis",
+    "last_name": "Peña Cruz",
+    "rating": 6.2727,
+    "num_ratings": 11
   },
   {
     "code": "6125",
@@ -41,8 +44,7 @@
         ],
         "classroom": "H003"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "6125",
@@ -56,8 +58,7 @@
         ],
         "classroom": "H004"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "6125",
@@ -71,8 +72,7 @@
         ],
         "classroom": "H004"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "6125",
@@ -87,7 +87,11 @@
         "classroom": "H003"
       }
     ],
-    "professor_id": 113918
+    "professor_id": 113918,
+    "first_name": "Miguel",
+    "last_name": "Maldonado",
+    "rating": 9.0,
+    "num_ratings": 4
   },
   {
     "code": "6125",
@@ -102,7 +106,11 @@
         "classroom": "H003"
       }
     ],
-    "professor_id": 58911
+    "professor_id": 58911,
+    "first_name": "Antonia del Carmen",
+    "last_name": "Perez Leon",
+    "rating": 9.4375,
+    "num_ratings": 48
   },
   {
     "code": "6125",
@@ -116,8 +124,7 @@
         ],
         "classroom": "H004"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "6125",
@@ -131,8 +138,7 @@
         ],
         "classroom": "H003"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "6125",
@@ -146,8 +152,7 @@
         ],
         "classroom": "H004"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "6125",
@@ -162,7 +167,11 @@
         "classroom": "H003"
       }
     ],
-    "professor_id": 84707
+    "professor_id": 84707,
+    "first_name": "Thalia Itzel",
+    "last_name": "Ferrera Velazquez",
+    "rating": 8.9355,
+    "num_ratings": 31
   },
   {
     "code": "6125",
@@ -177,7 +186,11 @@
         "classroom": "H004"
       }
     ],
-    "professor_id": 68129
+    "professor_id": 68129,
+    "first_name": "Claudia Elisa",
+    "last_name": "Sanchez Navarro",
+    "rating": 4.9048,
+    "num_ratings": 21
   },
   {
     "code": "6125",
@@ -192,7 +205,11 @@
         "classroom": "H003"
       }
     ],
-    "professor_id": 84416
+    "professor_id": 84416,
+    "first_name": "Ehecatl Luis",
+    "last_name": "Paleo González",
+    "rating": 6.3448,
+    "num_ratings": 29
   },
   {
     "code": "6125",
@@ -206,8 +223,7 @@
         ],
         "classroom": "H004"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "6125",
@@ -222,7 +238,11 @@
         "classroom": "H003"
       }
     ],
-    "professor_id": 46452
+    "professor_id": 46452,
+    "first_name": "Vianey",
+    "last_name": "Franco García",
+    "rating": 7.1053,
+    "num_ratings": 19
   },
   {
     "code": "6125",
@@ -237,7 +257,11 @@
         "classroom": "H004"
       }
     ],
-    "professor_id": 71932
+    "professor_id": 71932,
+    "first_name": "Cynthia Sofia",
+    "last_name": "Rodriguez Mandujano",
+    "rating": 9.1667,
+    "num_ratings": 30
   },
   {
     "code": "6125",
@@ -252,7 +276,11 @@
         "classroom": "H003"
       }
     ],
-    "professor_id": 46452
+    "professor_id": 46452,
+    "first_name": "Vianey",
+    "last_name": "Franco García",
+    "rating": 7.1053,
+    "num_ratings": 19
   },
   {
     "code": "6125",
@@ -266,7 +294,6 @@
         ],
         "classroom": "H004"
       }
-    ],
-    "professor_id": null
+    ]
   }
 ]

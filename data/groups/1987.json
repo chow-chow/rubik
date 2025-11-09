@@ -13,7 +13,11 @@
         "classroom": "D008"
       }
     ],
-    "professor_id": 162271
+    "professor_id": 162271,
+    "first_name": "José Angel",
+    "last_name": "Gómez Cabrera",
+    "rating": 3.4,
+    "num_ratings": 5
   },
   {
     "code": "1987",
@@ -30,7 +34,11 @@
         "classroom": "D008"
       }
     ],
-    "professor_id": 165708
+    "professor_id": 165708,
+    "first_name": "Antonio Enrique",
+    "last_name": "Acevedo Franco",
+    "rating": 6.5,
+    "num_ratings": 2
   },
   {
     "code": "1987",
@@ -47,6 +55,10 @@
         "classroom": "C204"
       }
     ],
-    "professor_id": 174735
+    "professor_id": 174735,
+    "first_name": "José Alberto",
+    "last_name": "Chávez Garduño",
+    "rating": 8.6667,
+    "num_ratings": 3
   }
 ]

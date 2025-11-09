@@ -12,8 +12,7 @@
         ],
         "classroom": "SIN"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "3033",
@@ -29,6 +28,10 @@
         "classroom": "D010"
       }
     ],
-    "professor_id": 102988
+    "professor_id": 102988,
+    "first_name": "Mauro",
+    "last_name": "Niño Lázaro",
+    "rating": 9.0,
+    "num_ratings": 4
   }
 ]

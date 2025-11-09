@@ -13,7 +13,11 @@
         "classroom": "B408"
       }
     ],
-    "professor_id": 110855
+    "professor_id": 110855,
+    "first_name": "Jose Antonio",
+    "last_name": "Ayala Barbosa",
+    "rating": 7.6,
+    "num_ratings": 40
   },
   {
     "code": "1959",
@@ -29,7 +33,11 @@
         "classroom": "Y001"
       }
     ],
-    "professor_id": 182131
+    "professor_id": 182131,
+    "first_name": "Yasmine",
+    "last_name": "Macedo Reza",
+    "rating": 7.6667,
+    "num_ratings": 3
   },
   {
     "code": "1959",
@@ -45,7 +53,11 @@
         "classroom": "A206"
       }
     ],
-    "professor_id": 60935
+    "professor_id": 60935,
+    "first_name": "Elba Karen",
+    "last_name": "Saenz García",
+    "rating": 5.9672,
+    "num_ratings": 61
   },
   {
     "code": "1959",
@@ -60,8 +72,7 @@
         ],
         "classroom": "B401"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1959",
@@ -77,6 +88,10 @@
         "classroom": "A302"
       }
     ],
-    "professor_id": 172879
+    "professor_id": 172879,
+    "first_name": "José Abraham",
+    "last_name": "Bonilla Pastor",
+    "rating": 7.5556,
+    "num_ratings": 9
   }
 ]

@@ -12,7 +12,11 @@
         "classroom": "Q209"
       }
     ],
-    "professor_id": 149934
+    "professor_id": 149934,
+    "first_name": "ROSA ELENA",
+    "last_name": "LOBERA SANCHEZ",
+    "rating": 5.75,
+    "num_ratings": 4
   },
   {
     "code": "6867",
@@ -27,7 +31,11 @@
         "classroom": "Q209"
       }
     ],
-    "professor_id": 124016
+    "professor_id": 124016,
+    "first_name": "M.I. LUIS SERGIO",
+    "last_name": "DURAN ARENAS",
+    "rating": 8.22,
+    "num_ratings": 46
   },
   {
     "code": "6867",
@@ -42,7 +50,11 @@
         "classroom": "Q209"
       }
     ],
-    "professor_id": 149934
+    "professor_id": 149934,
+    "first_name": "ROSA ELENA",
+    "last_name": "LOBERA SANCHEZ",
+    "rating": 5.75,
+    "num_ratings": 4
   },
   {
     "code": "6867",
@@ -56,8 +68,7 @@
         ],
         "classroom": "Q209"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "6867",
@@ -72,7 +83,11 @@
         "classroom": "Q209"
       }
     ],
-    "professor_id": 66377
+    "professor_id": 66377,
+    "first_name": "Pedro Ignacio",
+    "last_name": "Rincon Gomez",
+    "rating": 8.1852,
+    "num_ratings": 27
   },
   {
     "code": "6867",
@@ -86,8 +101,7 @@
         ],
         "classroom": "Q209"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "6867",
@@ -102,7 +116,11 @@
         "classroom": "Q209"
       }
     ],
-    "professor_id": 160861
+    "professor_id": 160861,
+    "first_name": "Julio Cesar",
+    "last_name": "Cruz Estrada",
+    "rating": 9.4444,
+    "num_ratings": 9
   },
   {
     "code": "6867",
@@ -117,6 +135,10 @@
         "classroom": "Q209"
       }
     ],
-    "professor_id": 36956
+    "professor_id": 36956,
+    "first_name": "jorge",
+    "last_name": "ferat toscano",
+    "rating": 7.78,
+    "num_ratings": 50
   }
 ]

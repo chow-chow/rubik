@@ -12,7 +12,11 @@
         "classroom": "P114"
       }
     ],
-    "professor_id": 156041
+    "professor_id": 156041,
+    "first_name": "Jesús",
+    "last_name": "Yañez Gutiérrez",
+    "rating": 9.3333,
+    "num_ratings": 3
   },
   {
     "code": "6997",
@@ -26,8 +30,7 @@
         ],
         "classroom": "P114"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "6997",
@@ -42,7 +45,11 @@
         "classroom": "P114"
       }
     ],
-    "professor_id": 112610
+    "professor_id": 112610,
+    "first_name": "Adriana Eugenia",
+    "last_name": "Chavira Diaz",
+    "rating": 9.4375,
+    "num_ratings": 16
   },
   {
     "code": "6997",
@@ -57,7 +64,11 @@
         "classroom": "P114"
       }
     ],
-    "professor_id": 104932
+    "professor_id": 104932,
+    "first_name": "MINERVA RUTH",
+    "last_name": "HERRERA RODRIGUEZ",
+    "rating": 4.875,
+    "num_ratings": 8
   },
   {
     "code": "6997",
@@ -72,7 +83,11 @@
         "classroom": "P114"
       }
     ],
-    "professor_id": 161143
+    "professor_id": 161143,
+    "first_name": "Maria Leonor",
+    "last_name": "Salcedo Ubilla",
+    "rating": 8.75,
+    "num_ratings": 4
   },
   {
     "code": "6997",
@@ -87,7 +102,11 @@
         "classroom": "P114"
       }
     ],
-    "professor_id": 112610
+    "professor_id": 112610,
+    "first_name": "Adriana Eugenia",
+    "last_name": "Chavira Diaz",
+    "rating": 9.4375,
+    "num_ratings": 16
   },
   {
     "code": "6997",
@@ -102,7 +121,11 @@
         "classroom": "P114"
       }
     ],
-    "professor_id": 156041
+    "professor_id": 156041,
+    "first_name": "Jesús",
+    "last_name": "Yañez Gutiérrez",
+    "rating": 9.3333,
+    "num_ratings": 3
   },
   {
     "code": "6997",
@@ -116,8 +139,7 @@
         ],
         "classroom": "P114"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "6997",
@@ -132,6 +154,10 @@
         "classroom": "P114"
       }
     ],
-    "professor_id": 159593
+    "professor_id": 159593,
+    "first_name": "Fernanda",
+    "last_name": "Ramos",
+    "rating": 8.3333,
+    "num_ratings": 3
   }
 ]

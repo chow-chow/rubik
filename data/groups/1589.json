@@ -13,7 +13,11 @@
         "classroom": "D009"
       }
     ],
-    "professor_id": 114618
+    "professor_id": 114618,
+    "first_name": "EFRAÍN",
+    "last_name": "GARCIA ACEVEDO",
+    "rating": 6.125,
+    "num_ratings": 8
   },
   {
     "code": "1589",
@@ -28,8 +32,7 @@
         ],
         "classroom": "A402"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1589",
@@ -45,6 +48,10 @@
         "classroom": "Y103"
       }
     ],
-    "professor_id": 159468
+    "professor_id": 159468,
+    "first_name": "Luis",
+    "last_name": "Loera",
+    "rating": 9.6316,
+    "num_ratings": 19
   }
 ]

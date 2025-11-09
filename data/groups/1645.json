@@ -13,7 +13,11 @@
         "classroom": "A306"
       }
     ],
-    "professor_id": 142387
+    "professor_id": 142387,
+    "first_name": "Norma",
+    "last_name": "Elva Chavez Rodriguez",
+    "rating": 8.5714,
+    "num_ratings": 28
   },
   {
     "code": "1645",
@@ -28,8 +32,7 @@
         ],
         "classroom": "A302"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1645",
@@ -44,8 +47,7 @@
         ],
         "classroom": "A302"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1645",
@@ -61,7 +63,11 @@
         "classroom": "B304"
       }
     ],
-    "professor_id": 159593
+    "professor_id": 159593,
+    "first_name": "Fernanda",
+    "last_name": "Ramos",
+    "rating": 8.3333,
+    "num_ratings": 3
   },
   {
     "code": "1645",
@@ -76,8 +82,7 @@
         ],
         "classroom": "B206"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1645",
@@ -92,8 +97,7 @@
         ],
         "classroom": "B306"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1645",
@@ -109,7 +113,11 @@
         "classroom": "B306"
       }
     ],
-    "professor_id": 159593
+    "professor_id": 159593,
+    "first_name": "Fernanda",
+    "last_name": "Ramos",
+    "rating": 8.3333,
+    "num_ratings": 3
   },
   {
     "code": "1645",
@@ -125,7 +133,11 @@
         "classroom": "A206"
       }
     ],
-    "professor_id": 95313
+    "professor_id": 95313,
+    "first_name": "Aban Alonso",
+    "last_name": "Moreno Aguilar",
+    "rating": 8.0,
+    "num_ratings": 9
   },
   {
     "code": "1645",
@@ -140,6 +152,10 @@
         "classroom": "B103"
       }
     ],
-    "professor_id": 85850
+    "professor_id": 85850,
+    "first_name": "Roberto",
+    "last_name": "Mandujano Wild",
+    "rating": 7.5577,
+    "num_ratings": 52
   }
 ]

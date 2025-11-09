@@ -14,7 +14,11 @@
         "classroom": "Y205"
       }
     ],
-    "professor_id": 170993
+    "professor_id": 170993,
+    "first_name": "ARACELI ANGELICA",
+    "last_name": "SANCHEZ ENRIQUEZ",
+    "rating": 2.0,
+    "num_ratings": 4
   },
   {
     "code": "1714",
@@ -31,7 +35,11 @@
         "classroom": "B402"
       }
     ],
-    "professor_id": 181437
+    "professor_id": 181437,
+    "first_name": "M.I. DANIEL",
+    "last_name": "MEJIA LOERA",
+    "rating": 9.6667,
+    "num_ratings": 3
   },
   {
     "code": "1714",
@@ -47,8 +55,7 @@
         ],
         "classroom": "A212"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1714",
@@ -63,8 +70,7 @@
         ],
         "classroom": "R004"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1714",
@@ -80,7 +86,11 @@
         "classroom": "A303"
       }
     ],
-    "professor_id": 142053
+    "professor_id": 142053,
+    "first_name": "CRISTIAN RUBEN",
+    "last_name": "MEDINA GUZMAN",
+    "rating": 10.0,
+    "num_ratings": 3
   },
   {
     "code": "1714",
@@ -95,7 +105,6 @@
         ],
         "classroom": "Y203"
       }
-    ],
-    "professor_id": null
+    ]
   }
 ]

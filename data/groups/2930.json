@@ -13,7 +13,11 @@
         "classroom": "DS01"
       }
     ],
-    "professor_id": 141266
+    "professor_id": 141266,
+    "first_name": "Alejandro",
+    "last_name": "Padron Godínez",
+    "rating": 6.0,
+    "num_ratings": 8
   },
   {
     "code": "2930",
@@ -28,8 +32,7 @@
         ],
         "classroom": "Y002"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "2930",
@@ -44,7 +47,6 @@
         ],
         "classroom": "Q218"
       }
-    ],
-    "professor_id": null
+    ]
   }
 ]

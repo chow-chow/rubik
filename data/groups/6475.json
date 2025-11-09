@@ -12,7 +12,11 @@
         "classroom": "H004"
       }
     ],
-    "professor_id": 113918
+    "professor_id": 113918,
+    "first_name": "Miguel",
+    "last_name": "Maldonado",
+    "rating": 9.0,
+    "num_ratings": 4
   },
   {
     "code": "6475",
@@ -27,6 +31,10 @@
         "classroom": "H001"
       }
     ],
-    "professor_id": 42088
+    "professor_id": 42088,
+    "first_name": "MIGUEL ANGEL",
+    "last_name": "JAIME VASCONCELOS",
+    "rating": 8.8833,
+    "num_ratings": 60
   }
 ]

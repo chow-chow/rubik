@@ -12,7 +12,11 @@
         "classroom": "O005"
       }
     ],
-    "professor_id": 75503
+    "professor_id": 75503,
+    "first_name": "Jose Luis",
+    "last_name": "Espinoza",
+    "rating": 9.1,
+    "num_ratings": 10
   },
   {
     "code": "5507",
@@ -27,7 +31,11 @@
         "classroom": "O005"
       }
     ],
-    "professor_id": 102330
+    "professor_id": 102330,
+    "first_name": "Israel",
+    "last_name": "Garduño Garcia",
+    "rating": 7.6667,
+    "num_ratings": 12
   },
   {
     "code": "5507",
@@ -42,7 +50,11 @@
         "classroom": "O005"
       }
     ],
-    "professor_id": 142033
+    "professor_id": 142033,
+    "first_name": "Ing. Maricarmen",
+    "last_name": "Guillen Mandujano",
+    "rating": 8.2667,
+    "num_ratings": 15
   },
   {
     "code": "5507",
@@ -56,8 +68,7 @@
         ],
         "classroom": "O005"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "5507",
@@ -72,7 +83,11 @@
         "classroom": "O005"
       }
     ],
-    "professor_id": 112014
+    "professor_id": 112014,
+    "first_name": "JORGE ALBERTO",
+    "last_name": "NAJERA CASTREJON",
+    "rating": 8.6667,
+    "num_ratings": 9
   },
   {
     "code": "5507",
@@ -86,8 +101,7 @@
         ],
         "classroom": "O005"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "5507",
@@ -102,7 +116,11 @@
         "classroom": "O005"
       }
     ],
-    "professor_id": 102330
+    "professor_id": 102330,
+    "first_name": "Israel",
+    "last_name": "Garduño Garcia",
+    "rating": 7.6667,
+    "num_ratings": 12
   },
   {
     "code": "5507",
@@ -117,7 +135,11 @@
         "classroom": "O005"
       }
     ],
-    "professor_id": 75503
+    "professor_id": 75503,
+    "first_name": "Jose Luis",
+    "last_name": "Espinoza",
+    "rating": 9.1,
+    "num_ratings": 10
   },
   {
     "code": "5507",
@@ -132,6 +154,10 @@
         "classroom": "O005"
       }
     ],
-    "professor_id": 102330
+    "professor_id": 102330,
+    "first_name": "Israel",
+    "last_name": "Garduño Garcia",
+    "rating": 7.6667,
+    "num_ratings": 12
   }
 ]

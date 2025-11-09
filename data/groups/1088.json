@@ -14,7 +14,11 @@
         "classroom": "J100"
       }
     ],
-    "professor_id": 60657
+    "professor_id": 60657,
+    "first_name": "Gabriel",
+    "last_name": "Salinas Calleros",
+    "rating": 8.8261,
+    "num_ratings": 23
   },
   {
     "code": "1088",
@@ -29,8 +33,7 @@
         ],
         "classroom": "J200"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1088",
@@ -46,7 +49,6 @@
         ],
         "classroom": "C301"
       }
-    ],
-    "professor_id": null
+    ]
   }
 ]

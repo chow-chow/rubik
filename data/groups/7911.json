@@ -12,7 +12,11 @@
         "classroom": "P113"
       }
     ],
-    "professor_id": 115270
+    "professor_id": 115270,
+    "first_name": "Ivan de Jesus",
+    "last_name": "Osio Chavez",
+    "rating": 6.75,
+    "num_ratings": 16
   },
   {
     "code": "7911",
@@ -26,8 +30,7 @@
         ],
         "classroom": "P113"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "7911",
@@ -41,7 +44,6 @@
         ],
         "classroom": "P113"
       }
-    ],
-    "professor_id": null
+    ]
   }
 ]

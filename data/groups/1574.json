@@ -13,7 +13,11 @@
         "classroom": "C303"
       }
     ],
-    "professor_id": 135038
+    "professor_id": 135038,
+    "first_name": "Francisco Javier",
+    "last_name": "Medina Escutia",
+    "rating": 8.3,
+    "num_ratings": 10
   },
   {
     "code": "1574",
@@ -29,6 +33,10 @@
         "classroom": "C303"
       }
     ],
-    "professor_id": 108707
+    "professor_id": 108707,
+    "first_name": "Miguel Ildefonso",
+    "last_name": "Vera Ocampo",
+    "rating": 8.8,
+    "num_ratings": 5
   }
 ]

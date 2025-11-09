@@ -12,8 +12,7 @@
         ],
         "classroom": "D003"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1521",
@@ -29,7 +28,11 @@
         "classroom": "D003"
       }
     ],
-    "professor_id": 84383
+    "professor_id": 84383,
+    "first_name": "Juan Armando",
+    "last_name": "Ortiz Valera",
+    "rating": 6.6,
+    "num_ratings": 30
   },
   {
     "code": "1521",
@@ -45,7 +48,11 @@
         "classroom": "D001"
       }
     ],
-    "professor_id": 74732
+    "professor_id": 74732,
+    "first_name": "Rubén",
+    "last_name": "Ávila Rodríguez",
+    "rating": 6.2593,
+    "num_ratings": 27
   },
   {
     "code": "1521",
@@ -61,7 +68,11 @@
         "classroom": "B105"
       }
     ],
-    "professor_id": 62499
+    "professor_id": 62499,
+    "first_name": "Marco Antonio",
+    "last_name": "Reyes Huesca",
+    "rating": 7.6333,
+    "num_ratings": 30
   },
   {
     "code": "1521",
@@ -77,6 +88,10 @@
         "classroom": "D003"
       }
     ],
-    "professor_id": 34837
+    "professor_id": 34837,
+    "first_name": "Armando",
+    "last_name": "Ortiz Prado",
+    "rating": 5.8333,
+    "num_ratings": 12
   }
 ]

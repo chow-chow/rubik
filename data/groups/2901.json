@@ -12,8 +12,7 @@
         ],
         "classroom": "Y001"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "2901",
@@ -34,8 +33,7 @@
         ],
         "classroom": "A206"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "2901",
@@ -51,7 +49,11 @@
         "classroom": "B405"
       }
     ],
-    "professor_id": 89952
+    "professor_id": 89952,
+    "first_name": "PABLO",
+    "last_name": "PEREZ ALCAZAR",
+    "rating": 5.8636,
+    "num_ratings": 22
   },
   {
     "code": "2901",
@@ -67,7 +69,11 @@
         "classroom": "S227"
       }
     ],
-    "professor_id": 90676
+    "professor_id": 90676,
+    "first_name": "Rogelio",
+    "last_name": "Alcantara Silva",
+    "rating": 4.9,
+    "num_ratings": 20
   },
   {
     "code": "2901",
@@ -83,7 +89,11 @@
         "classroom": "B401"
       }
     ],
-    "professor_id": 79445
+    "professor_id": 79445,
+    "first_name": "Larry hipolito",
+    "last_name": "Escobar salguero",
+    "rating": 7.6552,
+    "num_ratings": 29
   },
   {
     "code": "2901",
@@ -99,7 +109,11 @@
         "classroom": "DS10"
       }
     ],
-    "professor_id": 64057
+    "professor_id": 64057,
+    "first_name": "Mauricio",
+    "last_name": "García Esteban",
+    "rating": 6.8298,
+    "num_ratings": 47
   },
   {
     "code": "2901",
@@ -115,6 +129,10 @@
         "classroom": "B404"
       }
     ],
-    "professor_id": 89815
+    "professor_id": 89815,
+    "first_name": "Edgar",
+    "last_name": "Tello",
+    "rating": 8.1818,
+    "num_ratings": 44
   }
 ]

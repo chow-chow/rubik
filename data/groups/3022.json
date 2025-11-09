@@ -19,7 +19,11 @@
         "classroom": "B105"
       }
     ],
-    "professor_id": 104858
+    "professor_id": 104858,
+    "first_name": "Ing. Guillermina",
+    "last_name": "Perez Duran",
+    "rating": 8.7619,
+    "num_ratings": 21
   },
   {
     "code": "3022",
@@ -35,7 +39,11 @@
         "classroom": "C403"
       }
     ],
-    "professor_id": 104858
+    "professor_id": 104858,
+    "first_name": "Ing. Guillermina",
+    "last_name": "Perez Duran",
+    "rating": 8.7619,
+    "num_ratings": 21
   },
   {
     "code": "3022",
@@ -51,7 +59,11 @@
         "classroom": "B303"
       }
     ],
-    "professor_id": 101548
+    "professor_id": 101548,
+    "first_name": "Bertha",
+    "last_name": "Aguilar Sánchez",
+    "rating": 9.0,
+    "num_ratings": 6
   },
   {
     "code": "3022",
@@ -67,7 +79,11 @@
         "classroom": "A311"
       }
     ],
-    "professor_id": 108909
+    "professor_id": 108909,
+    "first_name": "Lic. Javier",
+    "last_name": "Gómez Rodríguez",
+    "rating": 7.0,
+    "num_ratings": 3
   },
   {
     "code": "3022",
@@ -83,7 +99,11 @@
         "classroom": "D001"
       }
     ],
-    "professor_id": 105118
+    "professor_id": 105118,
+    "first_name": "Rogelio",
+    "last_name": "Arce Macedo",
+    "rating": 9.8333,
+    "num_ratings": 6
   },
   {
     "code": "3022",
@@ -98,7 +118,6 @@
         ],
         "classroom": "D001"
       }
-    ],
-    "professor_id": null
+    ]
   }
 ]

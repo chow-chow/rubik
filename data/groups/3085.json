@@ -13,7 +13,11 @@
         "classroom": "EXTR"
       }
     ],
-    "professor_id": 118817
+    "professor_id": 118817,
+    "first_name": "Carlos Alberto",
+    "last_name": "Gonzalez Rodriguez",
+    "rating": 9.5,
+    "num_ratings": 4
   },
   {
     "code": "3085",
@@ -29,6 +33,10 @@
         "classroom": "D003"
       }
     ],
-    "professor_id": 132604
+    "professor_id": 132604,
+    "first_name": "Juan Mauricio",
+    "last_name": "Angeles Cervantes",
+    "rating": 4.0,
+    "num_ratings": 7
   }
 ]

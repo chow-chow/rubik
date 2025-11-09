@@ -11,8 +11,7 @@
         ],
         "classroom": "EXTR"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "2098",
@@ -27,8 +26,7 @@
         ],
         "classroom": "B406"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "2098",
@@ -44,7 +42,11 @@
         "classroom": "C301"
       }
     ],
-    "professor_id": 90935
+    "professor_id": 90935,
+    "first_name": "Armando Ernesto",
+    "last_name": "Alatorre Campos",
+    "rating": 10.0,
+    "num_ratings": 6
   },
   {
     "code": "2098",
@@ -59,7 +61,6 @@
         ],
         "classroom": "C304"
       }
-    ],
-    "professor_id": null
+    ]
   }
 ]

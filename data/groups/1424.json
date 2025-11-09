@@ -13,7 +13,11 @@
         "classroom": "J111"
       }
     ],
-    "professor_id": 149542
+    "professor_id": 149542,
+    "first_name": "Saul",
+    "last_name": "Lazcano Salas",
+    "rating": 8.4,
+    "num_ratings": 5
   },
   {
     "code": "1424",
@@ -29,7 +33,11 @@
         "classroom": "J206"
       }
     ],
-    "professor_id": 84731
+    "professor_id": 84731,
+    "first_name": "Daniel",
+    "last_name": "Peña Maciel",
+    "rating": 7.2083,
+    "num_ratings": 24
   },
   {
     "code": "1424",
@@ -45,7 +53,11 @@
         "classroom": "Y101"
       }
     ],
-    "professor_id": 84254
+    "professor_id": 84254,
+    "first_name": "Ali",
+    "last_name": "Ramos Gómez",
+    "rating": 8.3846,
+    "num_ratings": 65
   },
   {
     "code": "1424",
@@ -61,7 +73,11 @@
         "classroom": "I102"
       }
     ],
-    "professor_id": 78508
+    "professor_id": 78508,
+    "first_name": "Heriberto de Jesús",
+    "last_name": "Aguilar Juárez",
+    "rating": 8.6111,
+    "num_ratings": 36
   },
   {
     "code": "1424",
@@ -77,7 +93,11 @@
         "classroom": "J101"
       }
     ],
-    "professor_id": 156721
+    "professor_id": 156721,
+    "first_name": "Salvador Enrique",
+    "last_name": "Villalobos Perez",
+    "rating": 6.125,
+    "num_ratings": 16
   },
   {
     "code": "1424",
@@ -99,7 +119,11 @@
         "classroom": "I305"
       }
     ],
-    "professor_id": 43499
+    "professor_id": 43499,
+    "first_name": "Jose luis",
+    "last_name": "Flores Silva",
+    "rating": 7.4,
+    "num_ratings": 55
   },
   {
     "code": "1424",
@@ -115,7 +139,11 @@
         "classroom": "J209"
       }
     ],
-    "professor_id": 86508
+    "professor_id": 86508,
+    "first_name": "Cynthia Lisseth",
+    "last_name": "Velazco Velasco",
+    "rating": 7.3396,
+    "num_ratings": 53
   },
   {
     "code": "1424",
@@ -130,7 +158,6 @@
         ],
         "classroom": "J201"
       }
-    ],
-    "professor_id": null
+    ]
   }
 ]

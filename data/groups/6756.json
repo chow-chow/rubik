@@ -12,7 +12,11 @@
         "classroom": "N005"
       }
     ],
-    "professor_id": 71864
+    "professor_id": 71864,
+    "first_name": "Enrique",
+    "last_name": "Bernal Martínez",
+    "rating": 9.8,
+    "num_ratings": 5
   },
   {
     "code": "6756",
@@ -26,8 +30,7 @@
         ],
         "classroom": "N005"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "6756",
@@ -41,8 +44,7 @@
         ],
         "classroom": "N005"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "6756",
@@ -57,7 +59,11 @@
         "classroom": "N005"
       }
     ],
-    "professor_id": 98730
+    "professor_id": 98730,
+    "first_name": "Octavio Pastor",
+    "last_name": "Reyes García",
+    "rating": 8.0769,
+    "num_ratings": 13
   },
   {
     "code": "6756",
@@ -72,7 +78,11 @@
         "classroom": "N005"
       }
     ],
-    "professor_id": 79858
+    "professor_id": 79858,
+    "first_name": "Mauricio ivan",
+    "last_name": "Escalante Camargo",
+    "rating": 7.2143,
+    "num_ratings": 14
   },
   {
     "code": "6756",
@@ -86,8 +96,7 @@
         ],
         "classroom": "N005"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "6756",
@@ -102,7 +111,11 @@
         "classroom": "N005"
       }
     ],
-    "professor_id": 159597
+    "professor_id": 159597,
+    "first_name": "Óscar",
+    "last_name": "García Aranda",
+    "rating": 6.5,
+    "num_ratings": 2
   },
   {
     "code": "6756",
@@ -116,8 +129,7 @@
         ],
         "classroom": "N005"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "6756",
@@ -131,8 +143,7 @@
         ],
         "classroom": "N005"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "6756",
@@ -147,7 +158,11 @@
         "classroom": "N005"
       }
     ],
-    "professor_id": 154270
+    "professor_id": 154270,
+    "first_name": "Milton Carlos",
+    "last_name": "Álvarez Sánchez",
+    "rating": 7.0,
+    "num_ratings": 2
   },
   {
     "code": "6756",
@@ -161,8 +176,7 @@
         ],
         "classroom": "N005"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "6756",
@@ -176,8 +190,7 @@
         ],
         "classroom": "N005"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "6756",
@@ -191,8 +204,7 @@
         ],
         "classroom": "N005"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "6756",
@@ -206,8 +218,7 @@
         ],
         "classroom": "N005"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "6756",
@@ -221,8 +232,7 @@
         ],
         "classroom": "N005"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "6756",
@@ -236,8 +246,7 @@
         ],
         "classroom": "N005"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "6756",
@@ -251,8 +260,7 @@
         ],
         "classroom": "N005"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "6756",
@@ -267,6 +275,10 @@
         "classroom": "N005"
       }
     ],
-    "professor_id": 140654
+    "professor_id": 140654,
+    "first_name": "Zaira Linette",
+    "last_name": "Torres Cortés",
+    "rating": 8.35,
+    "num_ratings": 20
   }
 ]

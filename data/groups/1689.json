@@ -13,7 +13,11 @@
         "classroom": "A404"
       }
     ],
-    "professor_id": 91801
+    "professor_id": 91801,
+    "first_name": "Griselda Berenice",
+    "last_name": "Hernandez Cruz",
+    "rating": 6.8182,
+    "num_ratings": 11
   },
   {
     "code": "1689",
@@ -29,6 +33,10 @@
         "classroom": "R030"
       }
     ],
-    "professor_id": 158439
+    "professor_id": 158439,
+    "first_name": "Clemencia",
+    "last_name": "Santos",
+    "rating": 7.5,
+    "num_ratings": 2
   }
 ]

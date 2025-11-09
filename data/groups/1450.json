@@ -12,7 +12,11 @@
         "classroom": "I306"
       }
     ],
-    "professor_id": 58911
+    "professor_id": 58911,
+    "first_name": "Antonia del Carmen",
+    "last_name": "Perez Leon",
+    "rating": 9.4375,
+    "num_ratings": 48
   },
   {
     "code": "1450",
@@ -27,7 +31,11 @@
         "classroom": "J109"
       }
     ],
-    "professor_id": 42088
+    "professor_id": 42088,
+    "first_name": "MIGUEL ANGEL",
+    "last_name": "JAIME VASCONCELOS",
+    "rating": 8.8833,
+    "num_ratings": 60
   },
   {
     "code": "1450",
@@ -42,7 +50,11 @@
         "classroom": "J106"
       }
     ],
-    "professor_id": 181455
+    "professor_id": 181455,
+    "first_name": "Susana",
+    "last_name": "Aburto Mejía",
+    "rating": 10.0,
+    "num_ratings": 4
   },
   {
     "code": "1450",
@@ -56,7 +68,6 @@
         ],
         "classroom": "I306"
       }
-    ],
-    "professor_id": null
+    ]
   }
 ]

@@ -12,7 +12,11 @@
         "classroom": "Q315"
       }
     ],
-    "professor_id": 55853
+    "professor_id": 55853,
+    "first_name": "Yonahandy",
+    "last_name": "Malfavón Ruíz",
+    "rating": 7.5882,
+    "num_ratings": 34
   },
   {
     "code": "6459",
@@ -27,6 +31,10 @@
         "classroom": "Q315"
       }
     ],
-    "professor_id": 79762
+    "professor_id": 79762,
+    "first_name": "Margarita",
+    "last_name": "Bautista Gonzalez",
+    "rating": 9.0,
+    "num_ratings": 6
   }
 ]

@@ -12,8 +12,7 @@
         ],
         "classroom": "D009"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1666",
@@ -28,8 +27,7 @@
         ],
         "classroom": "C402"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1666",
@@ -45,6 +43,10 @@
         "classroom": "C105"
       }
     ],
-    "professor_id": 78973
+    "professor_id": 78973,
+    "first_name": "Iván",
+    "last_name": "Guerrero Sarabia",
+    "rating": 6.1,
+    "num_ratings": 10
   }
 ]

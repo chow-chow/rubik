@@ -12,7 +12,11 @@
         "classroom": "G001"
       }
     ],
-    "professor_id": 84646
+    "professor_id": 84646,
+    "first_name": "Ivonne",
+    "last_name": "Blancas Silva",
+    "rating": 7.9,
+    "num_ratings": 10
   },
   {
     "code": "6437",
@@ -27,7 +31,11 @@
         "classroom": "G001"
       }
     ],
-    "professor_id": 90126
+    "professor_id": 90126,
+    "first_name": "Diana",
+    "last_name": "Zaragoza Zuñiga",
+    "rating": 9.0,
+    "num_ratings": 16
   },
   {
     "code": "6437",
@@ -42,7 +50,11 @@
         "classroom": "G001"
       }
     ],
-    "professor_id": 84416
+    "professor_id": 84416,
+    "first_name": "Ehecatl Luis",
+    "last_name": "Paleo González",
+    "rating": 6.3448,
+    "num_ratings": 29
   },
   {
     "code": "6437",
@@ -57,7 +69,11 @@
         "classroom": "G001"
       }
     ],
-    "professor_id": 84413
+    "professor_id": 84413,
+    "first_name": "Jorge",
+    "last_name": "Ramirez Cruz",
+    "rating": 9.6383,
+    "num_ratings": 47
   },
   {
     "code": "6437",
@@ -72,7 +88,11 @@
         "classroom": "G001"
       }
     ],
-    "professor_id": 84703
+    "professor_id": 84703,
+    "first_name": "Gabriela",
+    "last_name": "Macías",
+    "rating": 10.0,
+    "num_ratings": 6
   },
   {
     "code": "6437",
@@ -87,7 +107,11 @@
         "classroom": "G001"
       }
     ],
-    "professor_id": 84626
+    "professor_id": 84626,
+    "first_name": "Miguel Ángel",
+    "last_name": "Reyes Bustamante",
+    "rating": 6.0769,
+    "num_ratings": 13
   },
   {
     "code": "6437",
@@ -102,7 +126,11 @@
         "classroom": "G001"
       }
     ],
-    "professor_id": 101486
+    "professor_id": 101486,
+    "first_name": "Alfonso",
+    "last_name": "Palacios Muñoz",
+    "rating": 9.0,
+    "num_ratings": 21
   },
   {
     "code": "6437",
@@ -117,7 +145,11 @@
         "classroom": "G001"
       }
     ],
-    "professor_id": 84413
+    "professor_id": 84413,
+    "first_name": "Jorge",
+    "last_name": "Ramirez Cruz",
+    "rating": 9.6383,
+    "num_ratings": 47
   },
   {
     "code": "6437",
@@ -131,8 +163,7 @@
         ],
         "classroom": "G001"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "6437",
@@ -147,7 +178,11 @@
         "classroom": "G001"
       }
     ],
-    "professor_id": 68129
+    "professor_id": 68129,
+    "first_name": "Claudia Elisa",
+    "last_name": "Sanchez Navarro",
+    "rating": 4.9048,
+    "num_ratings": 21
   },
   {
     "code": "6437",
@@ -162,7 +197,11 @@
         "classroom": "G001"
       }
     ],
-    "professor_id": 84703
+    "professor_id": 84703,
+    "first_name": "Gabriela",
+    "last_name": "Macías",
+    "rating": 10.0,
+    "num_ratings": 6
   },
   {
     "code": "6437",
@@ -176,8 +215,7 @@
         ],
         "classroom": "G001"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "6437",
@@ -191,8 +229,7 @@
         ],
         "classroom": "G001"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "6437",
@@ -207,7 +244,11 @@
         "classroom": "G001"
       }
     ],
-    "professor_id": 90126
+    "professor_id": 90126,
+    "first_name": "Diana",
+    "last_name": "Zaragoza Zuñiga",
+    "rating": 9.0,
+    "num_ratings": 16
   },
   {
     "code": "6437",
@@ -222,7 +263,11 @@
         "classroom": "G001"
       }
     ],
-    "professor_id": 96626
+    "professor_id": 96626,
+    "first_name": "Javier",
+    "last_name": "Rosas Flores",
+    "rating": 8.8095,
+    "num_ratings": 63
   },
   {
     "code": "6437",
@@ -236,8 +281,7 @@
         ],
         "classroom": "G001"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "6437",
@@ -251,8 +295,7 @@
         ],
         "classroom": "G001"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "6437",
@@ -267,7 +310,11 @@
         "classroom": "G001"
       }
     ],
-    "professor_id": 101486
+    "professor_id": 101486,
+    "first_name": "Alfonso",
+    "last_name": "Palacios Muñoz",
+    "rating": 9.0,
+    "num_ratings": 21
   },
   {
     "code": "6437",
@@ -282,7 +329,11 @@
         "classroom": "G001"
       }
     ],
-    "professor_id": 96626
+    "professor_id": 96626,
+    "first_name": "Javier",
+    "last_name": "Rosas Flores",
+    "rating": 8.8095,
+    "num_ratings": 63
   },
   {
     "code": "6437",
@@ -296,8 +347,7 @@
         ],
         "classroom": "G001"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "6437",
@@ -312,7 +362,11 @@
         "classroom": "G001"
       }
     ],
-    "professor_id": 113771
+    "professor_id": 113771,
+    "first_name": "EDUARDO",
+    "last_name": "PEREZ CONTRERAS",
+    "rating": 9.4667,
+    "num_ratings": 15
   },
   {
     "code": "6437",
@@ -327,7 +381,11 @@
         "classroom": "G001"
       }
     ],
-    "professor_id": 113771
+    "professor_id": 113771,
+    "first_name": "EDUARDO",
+    "last_name": "PEREZ CONTRERAS",
+    "rating": 9.4667,
+    "num_ratings": 15
   },
   {
     "code": "6437",
@@ -341,8 +399,7 @@
         ],
         "classroom": "G001"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "6437",
@@ -356,8 +413,7 @@
         ],
         "classroom": "G001"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "6437",
@@ -371,8 +427,7 @@
         ],
         "classroom": "G001"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "6437",
@@ -387,7 +442,11 @@
         "classroom": "G001"
       }
     ],
-    "professor_id": 90851
+    "professor_id": 90851,
+    "first_name": "OMAR ING.",
+    "last_name": "DE JESUS PEREZ",
+    "rating": 8.0,
+    "num_ratings": 41
   },
   {
     "code": "6437",
@@ -402,7 +461,11 @@
         "classroom": "G001"
       }
     ],
-    "professor_id": 113771
+    "professor_id": 113771,
+    "first_name": "EDUARDO",
+    "last_name": "PEREZ CONTRERAS",
+    "rating": 9.4667,
+    "num_ratings": 15
   },
   {
     "code": "6437",
@@ -417,6 +480,10 @@
         "classroom": "G001"
       }
     ],
-    "professor_id": 113771
+    "professor_id": 113771,
+    "first_name": "EDUARDO",
+    "last_name": "PEREZ CONTRERAS",
+    "rating": 9.4667,
+    "num_ratings": 15
   }
 ]

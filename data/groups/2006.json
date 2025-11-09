@@ -13,7 +13,11 @@
         "classroom": "P318"
       }
     ],
-    "professor_id": 86735
+    "professor_id": 86735,
+    "first_name": "Saúl",
+    "last_name": "de la Rosa Nieves",
+    "rating": 8.8,
+    "num_ratings": 15
   },
   {
     "code": "2006",
@@ -29,7 +33,11 @@
         "classroom": "P318"
       }
     ],
-    "professor_id": 99064
+    "professor_id": 99064,
+    "first_name": "Francisco Javier",
+    "last_name": "Martinez Rodriguez",
+    "rating": 4.6316,
+    "num_ratings": 38
   },
   {
     "code": "2006",
@@ -44,8 +52,7 @@
         ],
         "classroom": "P318"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "2006",
@@ -61,7 +68,11 @@
         "classroom": "S227"
       }
     ],
-    "professor_id": 79445
+    "professor_id": 79445,
+    "first_name": "Larry hipolito",
+    "last_name": "Escobar salguero",
+    "rating": 7.6552,
+    "num_ratings": 29
   },
   {
     "code": "2006",
@@ -76,6 +87,10 @@
         "classroom": "P318"
       }
     ],
-    "professor_id": 89952
+    "professor_id": 89952,
+    "first_name": "PABLO",
+    "last_name": "PEREZ ALCAZAR",
+    "rating": 5.8636,
+    "num_ratings": 22
   }
 ]

@@ -1,0 +1,598 @@
+[
+  {
+    "code": "0192",
+    "name": "ESTUDIO DEL TRABAJO",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "0339",
+    "name": "INVESTIGACION OPERACIONES I",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "0952",
+    "name": "OPTIMIZACION DE OPERACIONES",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1052",
+    "name": "ETICA PROFESIONAL",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1055",
+    "name": "LITERATURA HISPANOAMERICANA CONTEMPO",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1120",
+    "name": "ALGEBRA",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1121",
+    "name": "CALCULO Y GEOMETRIA ANALITICA",
+    "credits": 12,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1122",
+    "name": "FUNDAMENTOS DE PROGRAMACION",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1123",
+    "name": "QUIMICA",
+    "credits": 10,
+    "has_lab": true,
+    "lab": {
+      "code": "6123",
+      "name": "LAB. DE QUIMICA (2016)"
+    }
+  },
+  {
+    "code": "1124",
+    "name": "REDACCION Y EXPOSIC TEMAS INGENIERIA",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1209",
+    "name": "DIBUJO MECANICO E INDUSTRIAL",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1220",
+    "name": "ALGEBRA LINEAL",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1221",
+    "name": "CALCULO INTEGRAL",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1222",
+    "name": "CULTURA Y COMUNICACION",
+    "credits": 2,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1223",
+    "name": "ESTATICA",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1224",
+    "name": "INTRODUC A LA ING SISTEMAS BIOMEDICO",
+    "credits": 2,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1225",
+    "name": "MANUFACTURA I",
+    "credits": 8,
+    "has_lab": true,
+    "lab": {
+      "code": "6225",
+      "name": "LAB. DE MANUFACTURA  I (2016)"
+    }
+  },
+  {
+    "code": "1320",
+    "name": "BIOQUIMICA",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1321",
+    "name": "CALCULO VECTORIAL",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1322",
+    "name": "CINEMATICA Y DINAMICA",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1325",
+    "name": "ECUACIONES DIFERENCIALES",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1413",
+    "name": "INTRODUCCION A LA ECONOMIA",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1414",
+    "name": "ELECTRICIDAD Y MAGNETISMO",
+    "credits": 10,
+    "has_lab": true,
+    "lab": {
+      "code": "6414",
+      "name": "LABORATORIO DE ELECTRICIDAD Y MAGNETISMO"
+    }
+  },
+  {
+    "code": "1424",
+    "name": "MATEMATICAS  AVANZADAS",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1433",
+    "name": "ANALISIS NUMERICO",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1434",
+    "name": "BIOLOGIA CELULAR Y TISULAR",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1436",
+    "name": "PROBABILIDAD",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1437",
+    "name": "TERMODINAMICA",
+    "credits": 10,
+    "has_lab": true,
+    "lab": {
+      "code": "6437",
+      "name": "LAB TERMODINAMICA"
+    }
+  },
+  {
+    "code": "1540",
+    "name": "MECANICA DE SOLIDOS",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1550",
+    "name": "ANALISIS DE CIRCUITOS",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1569",
+    "name": "ESTADISTICA",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1570",
+    "name": "INGENIERIA DE MATERIALES",
+    "credits": 10,
+    "has_lab": true,
+    "lab": {
+      "code": "6570",
+      "name": "LAB INGENIERIA DE MATERIALES"
+    }
+  },
+  {
+    "code": "1571",
+    "name": "INTRODUCC A  ANATOMIA Y FISIOLOG I",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1691",
+    "name": "ELECTRONICA BASICA",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1693",
+    "name": "INTRODUCC A  ANATOM Y FISIOLOG II",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1695",
+    "name": "ANALISIS DE BIOSEÑALES",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1698",
+    "name": "MEDICIONES CLINICAS",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1699",
+    "name": "SISTEMAS DE MEDICION TRADUCT MEDICOS",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1734",
+    "name": "INGENIERIA ECONOMICA",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1778",
+    "name": "MECANICA DEL CUERPO HUMANO",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1779",
+    "name": "PSICOLOGIA MEDICA",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1781",
+    "name": "BIOTERMOFLUIDOS I",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1782",
+    "name": "DISEÑO DE ELEMENTOS DE MAQUINAS",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1783",
+    "name": "ERGONOMIA",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1786",
+    "name": "PLANEACION Y CONTROL DE RECURS HOSP",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1787",
+    "name": "AMPLIF Y FILTRAD SEÑALES MEDICAS",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1789",
+    "name": "CIENCIA, TECNOLOGIA Y SOCIEDAD",
+    "credits": 4,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1790",
+    "name": "INTRODUCCION ANALIS ECON EMPRESARIAL",
+    "credits": 4,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1791",
+    "name": "MEXICO NACION MULTICULTURAL",
+    "credits": 4,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1792",
+    "name": "SEM. SOCIOHUMANISTICO: HIST PROSP IN",
+    "credits": 2,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1793",
+    "name": "SEM. SOCIOHUMANISTICO: ING Y POL PUB",
+    "credits": 2,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1794",
+    "name": "SEM. SOCIOHUMANISTICO: ING SUSTENTAB",
+    "credits": 2,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1795",
+    "name": "TALLER SOCIOHUMANISTICO: CREATIVIDAD",
+    "credits": 2,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1796",
+    "name": "TALLER SOCIOHUMANISTICO: LIDERAZGO",
+    "credits": 2,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1797",
+    "name": "TEMAS SELEC INGEN SIST BIOMED I",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1798",
+    "name": "TEMAS SELEC INGEN SIST BIOMED II",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1799",
+    "name": "TEMAS SELEC INGEN SIST BIOMED III",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1807",
+    "name": "INSTRUMENTACION Y CONTROL",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1895",
+    "name": "ASPECT LEGALES ORGAN ATN MEDICA",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1896",
+    "name": "INSTALACIONES HOSPITALARIAS",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1897",
+    "name": "TEMAS SELEC INGEN SIST BIOMED IV",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1898",
+    "name": "TEMAS SELEC INGEN SIST BIOMED V",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1899",
+    "name": "TEMAS SELEC INGEN SIST BIOMED VI",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1955",
+    "name": "EVALUACION DE PROYECTOS DE INVERSION",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1976",
+    "name": "ESTANCIA",
+    "credits": 20,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1977",
+    "name": "TEMAS SELEC INGEN SIST BIOMED VII",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1978",
+    "name": "TEMAS SELEC AREA MEDICO BIOLOGICA",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1996",
+    "name": "CIRCUITOS DIGITALES",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2079",
+    "name": "BIOMATERIALES",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2080",
+    "name": "RECURSOS Y NECESIDADES DE MEXICO",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2103",
+    "name": "CALIDAD",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2200",
+    "name": "MOVILIDAD I",
+    "credits": 4,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2201",
+    "name": "MOVILIDAD II",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2202",
+    "name": "MOVILIDAD III",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2203",
+    "name": "MOVILIDAD IV",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2204",
+    "name": "MOVILIDAD V",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2205",
+    "name": "MOVILIDAD VI",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2206",
+    "name": "MOVILIDAD VII",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2207",
+    "name": "MOVILIDAD VIII",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2208",
+    "name": "MOVILIDAD IX",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2209",
+    "name": "MOVILIDAD X",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2210",
+    "name": "MOVILIDAD XI",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "8000",
+    "name": "IGUALDAD DE GENERO EN INGENIERIA",
+    "credits": 0,
+    "has_lab": false,
+    "lab": null
+  }
+]

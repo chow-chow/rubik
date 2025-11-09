@@ -13,7 +13,11 @@
         "classroom": "A205"
       }
     ],
-    "professor_id": 149567
+    "professor_id": 149567,
+    "first_name": "Luis Alberto",
+    "last_name": "Medina Fárfan",
+    "rating": 8.8333,
+    "num_ratings": 6
   },
   {
     "code": "1747",
@@ -29,7 +33,11 @@
         "classroom": "XS01"
       }
     ],
-    "professor_id": 133428
+    "professor_id": 133428,
+    "first_name": "Armando Moisés",
+    "last_name": "Pérez Silva",
+    "rating": 9.5556,
+    "num_ratings": 9
   },
   {
     "code": "1747",
@@ -45,7 +53,11 @@
         "classroom": "D001"
       }
     ],
-    "professor_id": 109635
+    "professor_id": 109635,
+    "first_name": "Damian",
+    "last_name": "Canales Sanchez",
+    "rating": 8.7778,
+    "num_ratings": 9
   },
   {
     "code": "1747",
@@ -61,6 +73,10 @@
         "classroom": "XS01"
       }
     ],
-    "professor_id": 99204
+    "professor_id": 99204,
+    "first_name": "José Antonio",
+    "last_name": "Rivera Colmenero",
+    "rating": 7.9,
+    "num_ratings": 10
   }
 ]

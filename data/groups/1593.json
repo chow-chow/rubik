@@ -12,7 +12,11 @@
         "classroom": "Y202"
       }
     ],
-    "professor_id": 95309
+    "professor_id": 95309,
+    "first_name": "Ana María",
+    "last_name": "Salcedo Garrido",
+    "rating": 6.55,
+    "num_ratings": 20
   },
   {
     "code": "1593",
@@ -27,7 +31,11 @@
         "classroom": "J208"
       }
     ],
-    "professor_id": 59342
+    "professor_id": 59342,
+    "first_name": "Sonia Karina",
+    "last_name": "Pérez Juárez",
+    "rating": 5.8947,
+    "num_ratings": 38
   },
   {
     "code": "1593",
@@ -42,7 +50,11 @@
         "classroom": "J108"
       }
     ],
-    "professor_id": 59342
+    "professor_id": 59342,
+    "first_name": "Sonia Karina",
+    "last_name": "Pérez Juárez",
+    "rating": 5.8947,
+    "num_ratings": 38
   },
   {
     "code": "1593",
@@ -57,6 +69,10 @@
         "classroom": "J205"
       }
     ],
-    "professor_id": 172666
+    "professor_id": 172666,
+    "first_name": "HAZEL EDITH",
+    "last_name": "BOND YAÑEZ",
+    "rating": 7.3333,
+    "num_ratings": 3
   }
 ]

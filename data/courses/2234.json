@@ -1,0 +1,607 @@
+[
+  {
+    "code": "0462",
+    "name": "MECANICA D FLUIDOS I",
+    "credits": 10,
+    "has_lab": true,
+    "lab": {
+      "code": "5462",
+      "name": "LAB. MECANICA DE FLUIDOS I"
+    }
+  },
+  {
+    "code": "0508",
+    "name": "MODELADO DE SISTEMAS FISICOS",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "0551",
+    "name": "CONTROL AUTOMATICO",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "0879",
+    "name": "TEORIA ELECTROMAGNETICA",
+    "credits": 10,
+    "has_lab": true,
+    "lab": {
+      "code": "5879",
+      "name": "LAB. TEORIA ELECTROMAGNETICA"
+    }
+  },
+  {
+    "code": "0992",
+    "name": "INGENIERIA DE DISEÑO",
+    "credits": 10,
+    "has_lab": true,
+    "lab": {
+      "code": "5992",
+      "name": "LAB. INGENIERIA DE DISEÑO"
+    }
+  },
+  {
+    "code": "1052",
+    "name": "ETICA PROFESIONAL",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1055",
+    "name": "LITERATURA HISPANOAMERICANA CONTEMPO",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1059",
+    "name": "DESARROLLO EMPRESARIAL",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1120",
+    "name": "ALGEBRA",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1121",
+    "name": "CALCULO Y GEOMETRIA ANALITICA",
+    "credits": 12,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1122",
+    "name": "FUNDAMENTOS DE PROGRAMACION",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1123",
+    "name": "QUIMICA",
+    "credits": 10,
+    "has_lab": true,
+    "lab": {
+      "code": "6123",
+      "name": "LAB. DE QUIMICA (2016)"
+    }
+  },
+  {
+    "code": "1124",
+    "name": "REDACCION Y EXPOSIC TEMAS INGENIERIA",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1130",
+    "name": "FUNDAMENTOS DE FISICA",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1144",
+    "name": "INTRODUCC.A INGENIERIA AEROESPACIAL",
+    "credits": 4,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1219",
+    "name": "DIBUJO INDUSTRIAL",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1220",
+    "name": "ALGEBRA LINEAL",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1221",
+    "name": "CALCULO INTEGRAL",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1222",
+    "name": "CULTURA Y COMUNICACION",
+    "credits": 2,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1223",
+    "name": "ESTATICA",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1245",
+    "name": "MEDIO AMBIENTE AEROESPACIAL",
+    "credits": 4,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1281",
+    "name": "ADMON.DE LA INNOVACION TECNOLOGICA",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1282",
+    "name": "FORMACION DE DIRECTIVOS",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1283",
+    "name": "DESARROLLO DE PROYECTOS TECNOLOGIC.",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1284",
+    "name": "EMPRENDIMIENTO EN INCUBADORAS DE TEC",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1285",
+    "name": "FUMDAMENTOS D INTELIGENCIA EMOCIONAL",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1286",
+    "name": "PROPIEDAD INTELECTUAL",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1287",
+    "name": "RELACIONES Y COMERCIO INTERNACIONAL",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1288",
+    "name": "TEMAS SELEC.CIENCIAS ECONOM.ADMVAS.",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1321",
+    "name": "CALCULO VECTORIAL",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1322",
+    "name": "CINEMATICA Y DINAMICA",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1325",
+    "name": "ECUACIONES DIFERENCIALES",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1337",
+    "name": "FUNDAMENTOS PROBABILIDAD-ESTADISTICA",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1413",
+    "name": "INTRODUCCION A LA ECONOMIA",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1414",
+    "name": "ELECTRICIDAD Y MAGNETISMO",
+    "credits": 10,
+    "has_lab": true,
+    "lab": {
+      "code": "6414",
+      "name": "LABORATORIO DE ELECTRICIDAD Y MAGNETISMO"
+    }
+  },
+  {
+    "code": "1424",
+    "name": "MATEMATICAS  AVANZADAS",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1433",
+    "name": "ANALISIS NUMERICO",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1437",
+    "name": "TERMODINAMICA",
+    "credits": 10,
+    "has_lab": true,
+    "lab": {
+      "code": "6437",
+      "name": "LAB TERMODINAMICA"
+    }
+  },
+  {
+    "code": "1443",
+    "name": "ANALISIS DE SISTEMAS Y SEÑALES",
+    "credits": 10,
+    "has_lab": true,
+    "lab": {
+      "code": "6443",
+      "name": "LAB. ANALISIS DE  SISTEMAS Y SEÑALES"
+    }
+  },
+  {
+    "code": "1476",
+    "name": "FUNDAMENTOS DE MECANICA DE VUELO",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1477",
+    "name": "DERECHO AEREO Y ESPACIAL",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1540",
+    "name": "MECANICA DE SOLIDOS",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1570",
+    "name": "INGENIERIA DE MATERIALES",
+    "credits": 10,
+    "has_lab": true,
+    "lab": {
+      "code": "6570",
+      "name": "LAB INGENIERIA DE MATERIALES"
+    }
+  },
+  {
+    "code": "1592",
+    "name": "ANALISIS DE CIRCUITOS ELECTRICOS",
+    "credits": 10,
+    "has_lab": true,
+    "lab": {
+      "code": "6592",
+      "name": "LAB. ANALISIS DE CIRCUITOS ELECTRICOS"
+    }
+  },
+  {
+    "code": "1617",
+    "name": "DISEÑO DIGITAL",
+    "credits": 10,
+    "has_lab": true,
+    "lab": {
+      "code": "6617",
+      "name": "LAB. DISEÑO DIGITAL"
+    }
+  },
+  {
+    "code": "1618",
+    "name": "DISPOSITIVOS-CIRCUITOS ELECTRONICOS",
+    "credits": 10,
+    "has_lab": true,
+    "lab": {
+      "code": "6618",
+      "name": "LAB. DISPOSITIVOS Y CIRCUITOS ELECTRONICOS"
+    }
+  },
+  {
+    "code": "1686",
+    "name": "SISTEMAS DE COMUNICACIONES",
+    "credits": 8,
+    "has_lab": true,
+    "lab": {
+      "code": "6686",
+      "name": "LAB. SISTEMAS DE COMUNICACIONES"
+    }
+  },
+  {
+    "code": "1789",
+    "name": "CIENCIA, TECNOLOGIA Y SOCIEDAD",
+    "credits": 4,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1790",
+    "name": "INTRODUCCION ANALIS ECON EMPRESARIAL",
+    "credits": 4,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1791",
+    "name": "MEXICO NACION MULTICULTURAL",
+    "credits": 4,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1792",
+    "name": "SEM. SOCIOHUMANISTICO: HIST PROSP IN",
+    "credits": 2,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1793",
+    "name": "SEM. SOCIOHUMANISTICO: ING Y POL PUB",
+    "credits": 2,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1794",
+    "name": "SEM. SOCIOHUMANISTICO: ING SUSTENTAB",
+    "credits": 2,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1795",
+    "name": "TALLER SOCIOHUMANISTICO: CREATIVIDAD",
+    "credits": 2,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1796",
+    "name": "TALLER SOCIOHUMANISTICO: LIDERAZGO",
+    "credits": 2,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1860",
+    "name": "TRANSFERENCIA DE CALOR",
+    "credits": 10,
+    "has_lab": true,
+    "lab": {
+      "code": "6860",
+      "name": "LAB. TRANSFERENCA DE CALOR"
+    }
+  },
+  {
+    "code": "1955",
+    "name": "EVALUACION DE PROYECTOS DE INVERSION",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2080",
+    "name": "RECURSOS Y NECESIDADES DE MEXICO",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2200",
+    "name": "MOVILIDAD I",
+    "credits": 4,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2201",
+    "name": "MOVILIDAD II",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2202",
+    "name": "MOVILIDAD III",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2203",
+    "name": "MOVILIDAD IV",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2204",
+    "name": "MOVILIDAD V",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2205",
+    "name": "MOVILIDAD VI",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2206",
+    "name": "MOVILIDAD VII",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2207",
+    "name": "MOVILIDAD VIII",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2208",
+    "name": "MOVILIDAD IX",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2209",
+    "name": "MOVILIDAD X",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2210",
+    "name": "MOVILIDAD XI",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2614",
+    "name": "INGENIERIA TERMICA",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2713",
+    "name": "AERODINAMICA",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2714",
+    "name": "FUNDAMENTOS SISTEMS.ELECTRON.ANALOG",
+    "credits": 10,
+    "has_lab": true,
+    "lab": {
+      "code": "7714",
+      "name": "LAB. FUNDAMENTOS SISTEMS.ELECTRON.ANALOG"
+    }
+  },
+  {
+    "code": "2715",
+    "name": "VIBRACIONES",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2811",
+    "name": "AVIONICA I",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2812",
+    "name": "DESARROLLO DE EMPRENDEDORES",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2828",
+    "name": "ESTRUCTURAS AEROESPACIALES",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2830",
+    "name": "FUNDAMENTOS ANTENAS-SIST.RADIOTRANC",
+    "credits": 8,
+    "has_lab": true,
+    "lab": {
+      "code": "7830",
+      "name": "LABORATORIO DE FUNDAMENTOS DE ANTENAS Y SISTEMAS DE RADIOTRANCEPTORES (L+)"
+    }
+  },
+  {
+    "code": "2831",
+    "name": "SISTEMAS DE PROPULSION",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2980",
+    "name": "MODELADO BASADO EN DISEÑO",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "8000",
+    "name": "IGUALDAD DE GENERO EN INGENIERIA",
+    "credits": 0,
+    "has_lab": false,
+    "lab": null
+  }
+]

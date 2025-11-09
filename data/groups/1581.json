@@ -13,7 +13,11 @@
         "classroom": "EXTR"
       }
     ],
-    "professor_id": 172361
+    "professor_id": 172361,
+    "first_name": "Jesús",
+    "last_name": "Hernández",
+    "rating": 9.5,
+    "num_ratings": 2
   },
   {
     "code": "1581",
@@ -29,8 +33,7 @@
         ],
         "classroom": "R004"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1581",
@@ -46,6 +49,10 @@
         "classroom": "R004"
       }
     ],
-    "professor_id": 44322
+    "professor_id": 44322,
+    "first_name": "mario",
+    "last_name": "guevara",
+    "rating": 3.9231,
+    "num_ratings": 13
   }
 ]

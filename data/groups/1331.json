@@ -13,7 +13,11 @@
         "classroom": "J100"
       }
     ],
-    "professor_id": 90876
+    "professor_id": 90876,
+    "first_name": "Paola Judith",
+    "last_name": "Villa Mancilla",
+    "rating": 7.3077,
+    "num_ratings": 13
   },
   {
     "code": "1331",
@@ -29,7 +33,11 @@
         "classroom": "J100"
       }
     ],
-    "professor_id": 90876
+    "professor_id": 90876,
+    "first_name": "Paola Judith",
+    "last_name": "Villa Mancilla",
+    "rating": 7.3077,
+    "num_ratings": 13
   },
   {
     "code": "1331",
@@ -45,7 +53,11 @@
         "classroom": "C304"
       }
     ],
-    "professor_id": 167918
+    "professor_id": 167918,
+    "first_name": "ESTHER",
+    "last_name": "ESTHER HERNANDEZ SANCHEZ",
+    "rating": 8.5,
+    "num_ratings": 4
   },
   {
     "code": "1331",
@@ -61,7 +73,11 @@
         "classroom": "C204"
       }
     ],
-    "professor_id": 49792
+    "professor_id": 49792,
+    "first_name": "Martin Carlos",
+    "last_name": "Vidal Garcia",
+    "rating": 6.25,
+    "num_ratings": 4
   },
   {
     "code": "1331",
@@ -76,7 +92,6 @@
         ],
         "classroom": "A205"
       }
-    ],
-    "professor_id": null
+    ]
   }
 ]

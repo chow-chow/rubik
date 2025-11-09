@@ -19,8 +19,7 @@
         ],
         "classroom": "T101"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1858",
@@ -43,7 +42,11 @@
         "classroom": "T101"
       }
     ],
-    "professor_id": 161506
+    "professor_id": 161506,
+    "first_name": "Samuel",
+    "last_name": "Gandarilla Pérez",
+    "rating": 6.5,
+    "num_ratings": 6
   },
   {
     "code": "1858",
@@ -66,7 +69,11 @@
         "classroom": "P003"
       }
     ],
-    "professor_id": 51942
+    "professor_id": 51942,
+    "first_name": "JOSÉ MAURICIO",
+    "last_name": "MATAMOROS DE MARIA Y CAMPOS",
+    "rating": 6.0182,
+    "num_ratings": 55
   },
   {
     "code": "1858",
@@ -88,8 +95,7 @@
         ],
         "classroom": "T101"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1858",
@@ -111,8 +117,7 @@
         ],
         "classroom": "T101"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1858",
@@ -135,6 +140,10 @@
         "classroom": "T101"
       }
     ],
-    "professor_id": 161506
+    "professor_id": 161506,
+    "first_name": "Samuel",
+    "last_name": "Gandarilla Pérez",
+    "rating": 6.5,
+    "num_ratings": 6
   }
 ]

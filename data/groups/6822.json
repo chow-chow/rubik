@@ -12,7 +12,11 @@
         "classroom": "Q109"
       }
     ],
-    "professor_id": 80201
+    "professor_id": 80201,
+    "first_name": "JESUS MARIA FRANCISCO",
+    "last_name": "HERNANDEZ MORALES",
+    "rating": 6.1111,
+    "num_ratings": 18
   },
   {
     "code": "6822",
@@ -27,7 +31,11 @@
         "classroom": "Q109"
       }
     ],
-    "professor_id": 80201
+    "professor_id": 80201,
+    "first_name": "JESUS MARIA FRANCISCO",
+    "last_name": "HERNANDEZ MORALES",
+    "rating": 6.1111,
+    "num_ratings": 18
   },
   {
     "code": "6822",
@@ -41,8 +49,7 @@
         ],
         "classroom": "Q109"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "6822",
@@ -56,8 +63,7 @@
         ],
         "classroom": "Q109"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "6822",
@@ -72,7 +78,11 @@
         "classroom": "Q109"
       }
     ],
-    "professor_id": 71346
+    "professor_id": 71346,
+    "first_name": "Domingo Teodoro",
+    "last_name": "Mendoza Rosales",
+    "rating": 6.9091,
+    "num_ratings": 66
   },
   {
     "code": "6822",
@@ -87,7 +97,11 @@
         "classroom": "Q109"
       }
     ],
-    "professor_id": 71346
+    "professor_id": 71346,
+    "first_name": "Domingo Teodoro",
+    "last_name": "Mendoza Rosales",
+    "rating": 6.9091,
+    "num_ratings": 66
   },
   {
     "code": "6822",
@@ -101,7 +115,6 @@
         ],
         "classroom": "Q109"
       }
-    ],
-    "professor_id": null
+    ]
   }
 ]

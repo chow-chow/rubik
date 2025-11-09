@@ -11,8 +11,7 @@
         ],
         "classroom": "A108"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1793",
@@ -27,6 +26,10 @@
         "classroom": "A104"
       }
     ],
-    "professor_id": 105047
+    "professor_id": 105047,
+    "first_name": "Hector Gerardo",
+    "last_name": "Gonzalez Reza",
+    "rating": 7.0,
+    "num_ratings": 10
   }
 ]

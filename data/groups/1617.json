@@ -13,7 +13,11 @@
         "classroom": "B103"
       }
     ],
-    "professor_id": 85850
+    "professor_id": 85850,
+    "first_name": "Roberto",
+    "last_name": "Mandujano Wild",
+    "rating": 7.5577,
+    "num_ratings": 52
   },
   {
     "code": "1617",
@@ -29,7 +33,11 @@
         "classroom": "B401"
       }
     ],
-    "professor_id": 16919
+    "professor_id": 16919,
+    "first_name": "Pedro",
+    "last_name": "Acevedo",
+    "rating": 5.0,
+    "num_ratings": 2
   },
   {
     "code": "1617",
@@ -45,7 +53,11 @@
         "classroom": "B205"
       }
     ],
-    "professor_id": 65407
+    "professor_id": 65407,
+    "first_name": "vicente",
+    "last_name": "flores",
+    "rating": 7.2745,
+    "num_ratings": 51
   },
   {
     "code": "1617",
@@ -61,7 +73,11 @@
         "classroom": "B305"
       }
     ],
-    "professor_id": 78454
+    "professor_id": 78454,
+    "first_name": "Maria del Socorro",
+    "last_name": "Guevara Rodriguez",
+    "rating": 5.9722,
+    "num_ratings": 36
   },
   {
     "code": "1617",
@@ -77,7 +93,11 @@
         "classroom": "B205"
       }
     ],
-    "professor_id": 79240
+    "professor_id": 79240,
+    "first_name": "Jose miguel",
+    "last_name": "Martinez alcaraz",
+    "rating": 5.6,
+    "num_ratings": 10
   },
   {
     "code": "1617",
@@ -93,7 +113,11 @@
         "classroom": "Y001"
       }
     ],
-    "professor_id": 99861
+    "professor_id": 99861,
+    "first_name": "Beatriz",
+    "last_name": "Eslava Arellanes",
+    "rating": 7.0909,
+    "num_ratings": 11
   },
   {
     "code": "1617",
@@ -109,7 +133,11 @@
         "classroom": "B305"
       }
     ],
-    "professor_id": 71693
+    "professor_id": 71693,
+    "first_name": "Alejandro",
+    "last_name": "Sosa Fuentes",
+    "rating": 4.75,
+    "num_ratings": 16
   },
   {
     "code": "1617",
@@ -125,7 +153,11 @@
         "classroom": "A306"
       }
     ],
-    "professor_id": 112523
+    "professor_id": 112523,
+    "first_name": "Ricardo",
+    "last_name": "Mota Marzano",
+    "rating": 7.4286,
+    "num_ratings": 7
   },
   {
     "code": "1617",
@@ -141,6 +173,10 @@
         "classroom": "Q102"
       }
     ],
-    "professor_id": 173140
+    "professor_id": 173140,
+    "first_name": "Rebeca",
+    "last_name": "Muñoz Melamed",
+    "rating": 6.6364,
+    "num_ratings": 11
   }
 ]

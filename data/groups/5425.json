@@ -12,7 +12,11 @@
         "classroom": "P211"
       }
     ],
-    "professor_id": 171587
+    "professor_id": 171587,
+    "first_name": "Lourdes",
+    "last_name": "Martinez López",
+    "rating": 8.75,
+    "num_ratings": 4
   },
   {
     "code": "5425",
@@ -27,7 +31,11 @@
         "classroom": "P211"
       }
     ],
-    "professor_id": 171587
+    "professor_id": 171587,
+    "first_name": "Lourdes",
+    "last_name": "Martinez López",
+    "rating": 8.75,
+    "num_ratings": 4
   },
   {
     "code": "5425",
@@ -42,7 +50,11 @@
         "classroom": "P211"
       }
     ],
-    "professor_id": 147881
+    "professor_id": 147881,
+    "first_name": "Rosalba",
+    "last_name": "Martinez Lopez",
+    "rating": 6.75,
+    "num_ratings": 12
   },
   {
     "code": "5425",
@@ -56,7 +68,6 @@
         ],
         "classroom": "P211"
       }
-    ],
-    "professor_id": null
+    ]
   }
 ]

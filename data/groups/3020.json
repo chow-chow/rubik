@@ -12,7 +12,11 @@
         "classroom": "D003"
       }
     ],
-    "professor_id": 105115
+    "professor_id": 105115,
+    "first_name": "Esperanza",
+    "last_name": "Ricalde Sarmina",
+    "rating": 6.5,
+    "num_ratings": 6
   },
   {
     "code": "3020",
@@ -28,7 +32,11 @@
         "classroom": "XS01"
       }
     ],
-    "professor_id": 109142
+    "professor_id": 109142,
+    "first_name": "Noé",
+    "last_name": "Avila Cedillo",
+    "rating": 6.0,
+    "num_ratings": 8
   },
   {
     "code": "3020",
@@ -44,7 +52,11 @@
         "classroom": "XS01"
       }
     ],
-    "professor_id": 105123
+    "professor_id": 105123,
+    "first_name": "Andrea Paola",
+    "last_name": "Dorado Diaz",
+    "rating": 8.3333,
+    "num_ratings": 12
   },
   {
     "code": "3020",
@@ -60,7 +72,11 @@
         "classroom": "B301"
       }
     ],
-    "professor_id": 95794
+    "professor_id": 95794,
+    "first_name": "Jorge",
+    "last_name": "Chávez Briseño",
+    "rating": 7.75,
+    "num_ratings": 20
   },
   {
     "code": "3020",
@@ -76,6 +92,10 @@
         "classroom": "D002"
       }
     ],
-    "professor_id": 181406
+    "professor_id": 181406,
+    "first_name": "ENRIQUE ISRAEL",
+    "last_name": "MARQUEZ ANGELES",
+    "rating": 8.5,
+    "num_ratings": 4
   }
 ]

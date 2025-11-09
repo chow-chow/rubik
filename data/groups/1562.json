@@ -13,7 +13,11 @@
         "classroom": "A301"
       }
     ],
-    "professor_id": 142401
+    "professor_id": 142401,
+    "first_name": "Luis Antonio",
+    "last_name": "Altamirano Yepez",
+    "rating": 6.75,
+    "num_ratings": 4
   },
   {
     "code": "1562",
@@ -29,7 +33,11 @@
         "classroom": "B101"
       }
     ],
-    "professor_id": 71347
+    "professor_id": 71347,
+    "first_name": "Victor Manuel",
+    "last_name": "Sanchez Esquivel",
+    "rating": 5.4286,
+    "num_ratings": 42
   },
   {
     "code": "1562",
@@ -45,7 +53,11 @@
         "classroom": "B106"
       }
     ],
-    "professor_id": 83076
+    "professor_id": 83076,
+    "first_name": "Patricia",
+    "last_name": "Hong Cirion",
+    "rating": 7.125,
+    "num_ratings": 24
   },
   {
     "code": "1562",
@@ -61,7 +73,11 @@
         "classroom": "B101"
       }
     ],
-    "professor_id": 135120
+    "professor_id": 135120,
+    "first_name": "Iván",
+    "last_name": "Martínez Pérez",
+    "rating": 5.125,
+    "num_ratings": 24
   },
   {
     "code": "1562",
@@ -77,7 +93,11 @@
         "classroom": "B305"
       }
     ],
-    "professor_id": 58672
+    "professor_id": 58672,
+    "first_name": "Julia",
+    "last_name": "Vazquez Fuentes",
+    "rating": 4.4359,
+    "num_ratings": 39
   },
   {
     "code": "1562",
@@ -92,6 +112,10 @@
         "classroom": "A306"
       }
     ],
-    "professor_id": 134274
+    "professor_id": 134274,
+    "first_name": "Martha Isela",
+    "last_name": "Torres Hernández",
+    "rating": 9.3571,
+    "num_ratings": 14
   }
 ]

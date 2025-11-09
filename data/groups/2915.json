@@ -12,8 +12,7 @@
         ],
         "classroom": "R206"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "2915",
@@ -28,8 +27,7 @@
         ],
         "classroom": "A207"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "2915",
@@ -45,7 +43,11 @@
         "classroom": "A307"
       }
     ],
-    "professor_id": 146711
+    "professor_id": 146711,
+    "first_name": "ALEJANDRO JOSE",
+    "last_name": "LEO VARGAS",
+    "rating": 4.8333,
+    "num_ratings": 6
   },
   {
     "code": "2915",
@@ -60,7 +62,6 @@
         ],
         "classroom": "A308"
       }
-    ],
-    "professor_id": null
+    ]
   }
 ]

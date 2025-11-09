@@ -14,7 +14,11 @@
         "classroom": "B406"
       }
     ],
-    "professor_id": 104881
+    "professor_id": 104881,
+    "first_name": "Andres",
+    "last_name": "Tejero Andrade",
+    "rating": 4.5556,
+    "num_ratings": 9
   },
   {
     "code": "2503",
@@ -29,7 +33,6 @@
         ],
         "classroom": "D007"
       }
-    ],
-    "professor_id": null
+    ]
   }
 ]

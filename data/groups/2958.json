@@ -13,7 +13,11 @@
         "classroom": "Q221"
       }
     ],
-    "professor_id": 181793
+    "professor_id": 181793,
+    "first_name": "NAOMI ITZEL",
+    "last_name": "REYES GRANADOS",
+    "rating": 9.3333,
+    "num_ratings": 3
   },
   {
     "code": "2958",
@@ -29,7 +33,11 @@
         "classroom": "Q218"
       }
     ],
-    "professor_id": 95352
+    "professor_id": 95352,
+    "first_name": "Arturo",
+    "last_name": "Pérez De la Cruz",
+    "rating": 5.1538,
+    "num_ratings": 26
   },
   {
     "code": "2958",
@@ -45,6 +53,10 @@
         "classroom": "SIN"
       }
     ],
-    "professor_id": 99770
+    "professor_id": 99770,
+    "first_name": "Carlos",
+    "last_name": "Saucedo Maciel",
+    "rating": 8.06,
+    "num_ratings": 18
   }
 ]

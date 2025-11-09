@@ -1,0 +1,1391 @@
+[
+  {
+    "code": "2234",
+    "program_code": "139",
+    "name": "ING AEROESPACIAL",
+    "release_year": 2023,
+    "required_credits": 420,
+    "elective_credits": 30,
+    "credit_limit_per_period": null,
+    "courses": [
+      {
+        "code": "1120",
+        "type": "required",
+        "semester": 1
+      },
+      {
+        "code": "1121",
+        "type": "required",
+        "semester": 1
+      },
+      {
+        "code": "1123",
+        "type": "required",
+        "semester": 1
+      },
+      {
+        "code": "1124",
+        "type": "required",
+        "semester": 1
+      },
+      {
+        "code": "1130",
+        "type": "required",
+        "semester": 1
+      },
+      {
+        "code": "1144",
+        "type": "required",
+        "semester": 1
+      },
+      {
+        "code": "8000",
+        "type": "required",
+        "semester": 1
+      },
+      {
+        "code": "1122",
+        "type": "required",
+        "semester": 2
+      },
+      {
+        "code": "1219",
+        "type": "required",
+        "semester": 2
+      },
+      {
+        "code": "1220",
+        "type": "required",
+        "semester": 2
+      },
+      {
+        "code": "1221",
+        "type": "required",
+        "semester": 2
+      },
+      {
+        "code": "1223",
+        "type": "required",
+        "semester": 2
+      },
+      {
+        "code": "1245",
+        "type": "required",
+        "semester": 2
+      },
+      {
+        "code": "1222",
+        "type": "required",
+        "semester": 3
+      },
+      {
+        "code": "1321",
+        "type": "required",
+        "semester": 3
+      },
+      {
+        "code": "1322",
+        "type": "required",
+        "semester": 3
+      },
+      {
+        "code": "1325",
+        "type": "required",
+        "semester": 3
+      },
+      {
+        "code": "1337",
+        "type": "required",
+        "semester": 3
+      },
+      {
+        "code": "1437",
+        "type": "required",
+        "semester": 3
+      },
+      {
+        "code": "1414",
+        "type": "required",
+        "semester": 4
+      },
+      {
+        "code": "1424",
+        "type": "required",
+        "semester": 4
+      },
+      {
+        "code": "1433",
+        "type": "required",
+        "semester": 4
+      },
+      {
+        "code": "1443",
+        "type": "required",
+        "semester": 4
+      },
+      {
+        "code": "1476",
+        "type": "required",
+        "semester": 4
+      },
+      {
+        "code": "0462",
+        "type": "required",
+        "semester": 5
+      },
+      {
+        "code": "0879",
+        "type": "required",
+        "semester": 5
+      },
+      {
+        "code": "1413",
+        "type": "required",
+        "semester": 5
+      },
+      {
+        "code": "1477",
+        "type": "required",
+        "semester": 5
+      },
+      {
+        "code": "1570",
+        "type": "required",
+        "semester": 5
+      },
+      {
+        "code": "1592",
+        "type": "required",
+        "semester": 5
+      },
+      {
+        "code": "0508",
+        "type": "required",
+        "semester": 6
+      },
+      {
+        "code": "1052",
+        "type": "required",
+        "semester": 6
+      },
+      {
+        "code": "1540",
+        "type": "required",
+        "semester": 6
+      },
+      {
+        "code": "1618",
+        "type": "required",
+        "semester": 6
+      },
+      {
+        "code": "1686",
+        "type": "required",
+        "semester": 6
+      },
+      {
+        "code": "2614",
+        "type": "required",
+        "semester": 6
+      },
+      {
+        "code": "0551",
+        "type": "required",
+        "semester": 7
+      },
+      {
+        "code": "1617",
+        "type": "required",
+        "semester": 7
+      },
+      {
+        "code": "1955",
+        "type": "required",
+        "semester": 7
+      },
+      {
+        "code": "2713",
+        "type": "required",
+        "semester": 7
+      },
+      {
+        "code": "2714",
+        "type": "required",
+        "semester": 7
+      },
+      {
+        "code": "2715",
+        "type": "required",
+        "semester": 7
+      },
+      {
+        "code": "1860",
+        "type": "required",
+        "semester": 8
+      },
+      {
+        "code": "2811",
+        "type": "required",
+        "semester": 8
+      },
+      {
+        "code": "2812",
+        "type": "required",
+        "semester": 8
+      },
+      {
+        "code": "2828",
+        "type": "required",
+        "semester": 8
+      },
+      {
+        "code": "2830",
+        "type": "required",
+        "semester": 8
+      },
+      {
+        "code": "2831",
+        "type": "required",
+        "semester": 8
+      },
+      {
+        "code": "2080",
+        "type": "required",
+        "semester": 9
+      },
+      {
+        "code": "2980",
+        "type": "required",
+        "semester": 9
+      },
+      {
+        "code": "1055",
+        "type": "elective_humanities"
+      },
+      {
+        "code": "1789",
+        "type": "elective_humanities"
+      },
+      {
+        "code": "1790",
+        "type": "elective_humanities"
+      },
+      {
+        "code": "1791",
+        "type": "elective_humanities"
+      },
+      {
+        "code": "1792",
+        "type": "elective_humanities"
+      },
+      {
+        "code": "1793",
+        "type": "elective_humanities"
+      },
+      {
+        "code": "1794",
+        "type": "elective_humanities"
+      },
+      {
+        "code": "0992",
+        "type": "elective",
+        "semester": 10
+      },
+      {
+        "code": "1059",
+        "type": "elective",
+        "semester": 10
+      },
+      {
+        "code": "1281",
+        "type": "elective",
+        "semester": 10
+      },
+      {
+        "code": "1282",
+        "type": "elective",
+        "semester": 10
+      },
+      {
+        "code": "1283",
+        "type": "elective",
+        "semester": 10
+      },
+      {
+        "code": "1284",
+        "type": "elective",
+        "semester": 10
+      },
+      {
+        "code": "1285",
+        "type": "elective",
+        "semester": 10
+      },
+      {
+        "code": "1286",
+        "type": "elective",
+        "semester": 10
+      },
+      {
+        "code": "1287",
+        "type": "elective",
+        "semester": 10
+      },
+      {
+        "code": "1288",
+        "type": "elective",
+        "semester": 10
+      },
+      {
+        "code": "1795",
+        "type": "elective",
+        "semester": 10
+      },
+      {
+        "code": "1796",
+        "type": "elective",
+        "semester": 10
+      },
+      {
+        "code": "2200",
+        "type": "elective"
+      },
+      {
+        "code": "2201",
+        "type": "elective"
+      },
+      {
+        "code": "2202",
+        "type": "elective"
+      },
+      {
+        "code": "2203",
+        "type": "elective"
+      },
+      {
+        "code": "2204",
+        "type": "elective"
+      },
+      {
+        "code": "2205",
+        "type": "elective"
+      },
+      {
+        "code": "2206",
+        "type": "elective"
+      },
+      {
+        "code": "2207",
+        "type": "elective"
+      },
+      {
+        "code": "2208",
+        "type": "elective"
+      },
+      {
+        "code": "2209",
+        "type": "elective"
+      },
+      {
+        "code": "2210",
+        "type": "elective"
+      }
+    ]
+  },
+  {
+    "code": "4329",
+    "program_code": "139",
+    "name": "ING AEROESPACIAL-INGENIERIA AERONAUTICA",
+    "release_year": 2023,
+    "required_credits": 420,
+    "elective_credits": 30,
+    "credit_limit_per_period": null,
+    "courses": [
+      {
+        "code": "1120",
+        "type": "required",
+        "semester": 1
+      },
+      {
+        "code": "1121",
+        "type": "required",
+        "semester": 1
+      },
+      {
+        "code": "1123",
+        "type": "required",
+        "semester": 1
+      },
+      {
+        "code": "1124",
+        "type": "required",
+        "semester": 1
+      },
+      {
+        "code": "1130",
+        "type": "required",
+        "semester": 1
+      },
+      {
+        "code": "1144",
+        "type": "required",
+        "semester": 1
+      },
+      {
+        "code": "8000",
+        "type": "required",
+        "semester": 1
+      },
+      {
+        "code": "1122",
+        "type": "required",
+        "semester": 2
+      },
+      {
+        "code": "1219",
+        "type": "required",
+        "semester": 2
+      },
+      {
+        "code": "1220",
+        "type": "required",
+        "semester": 2
+      },
+      {
+        "code": "1221",
+        "type": "required",
+        "semester": 2
+      },
+      {
+        "code": "1223",
+        "type": "required",
+        "semester": 2
+      },
+      {
+        "code": "1245",
+        "type": "required",
+        "semester": 2
+      },
+      {
+        "code": "1222",
+        "type": "required",
+        "semester": 3
+      },
+      {
+        "code": "1321",
+        "type": "required",
+        "semester": 3
+      },
+      {
+        "code": "1322",
+        "type": "required",
+        "semester": 3
+      },
+      {
+        "code": "1325",
+        "type": "required",
+        "semester": 3
+      },
+      {
+        "code": "1337",
+        "type": "required",
+        "semester": 3
+      },
+      {
+        "code": "1437",
+        "type": "required",
+        "semester": 3
+      },
+      {
+        "code": "1414",
+        "type": "required",
+        "semester": 4
+      },
+      {
+        "code": "1424",
+        "type": "required",
+        "semester": 4
+      },
+      {
+        "code": "1433",
+        "type": "required",
+        "semester": 4
+      },
+      {
+        "code": "1443",
+        "type": "required",
+        "semester": 4
+      },
+      {
+        "code": "1476",
+        "type": "required",
+        "semester": 4
+      },
+      {
+        "code": "0462",
+        "type": "required",
+        "semester": 5
+      },
+      {
+        "code": "0879",
+        "type": "required",
+        "semester": 5
+      },
+      {
+        "code": "1413",
+        "type": "required",
+        "semester": 5
+      },
+      {
+        "code": "1477",
+        "type": "required",
+        "semester": 5
+      },
+      {
+        "code": "1570",
+        "type": "required",
+        "semester": 5
+      },
+      {
+        "code": "1592",
+        "type": "required",
+        "semester": 5
+      },
+      {
+        "code": "0508",
+        "type": "required",
+        "semester": 6
+      },
+      {
+        "code": "1052",
+        "type": "required",
+        "semester": 6
+      },
+      {
+        "code": "1540",
+        "type": "required",
+        "semester": 6
+      },
+      {
+        "code": "1618",
+        "type": "required",
+        "semester": 6
+      },
+      {
+        "code": "1686",
+        "type": "required",
+        "semester": 6
+      },
+      {
+        "code": "2614",
+        "type": "required",
+        "semester": 6
+      },
+      {
+        "code": "0551",
+        "type": "required",
+        "semester": 7
+      },
+      {
+        "code": "1617",
+        "type": "required",
+        "semester": 7
+      },
+      {
+        "code": "1955",
+        "type": "required",
+        "semester": 7
+      },
+      {
+        "code": "2713",
+        "type": "required",
+        "semester": 7
+      },
+      {
+        "code": "2714",
+        "type": "required",
+        "semester": 7
+      },
+      {
+        "code": "2715",
+        "type": "required",
+        "semester": 7
+      },
+      {
+        "code": "1860",
+        "type": "required",
+        "semester": 8
+      },
+      {
+        "code": "2811",
+        "type": "required",
+        "semester": 8
+      },
+      {
+        "code": "2812",
+        "type": "required",
+        "semester": 8
+      },
+      {
+        "code": "2828",
+        "type": "required",
+        "semester": 8
+      },
+      {
+        "code": "2830",
+        "type": "required",
+        "semester": 8
+      },
+      {
+        "code": "2831",
+        "type": "required",
+        "semester": 8
+      },
+      {
+        "code": "2080",
+        "type": "required",
+        "semester": 9
+      },
+      {
+        "code": "2980",
+        "type": "required",
+        "semester": 9
+      },
+      {
+        "code": "1246",
+        "type": "required",
+        "semester": 9
+      },
+      {
+        "code": "1247",
+        "type": "required",
+        "semester": 9
+      },
+      {
+        "code": "1248",
+        "type": "required",
+        "semester": 9
+      },
+      {
+        "code": "1249",
+        "type": "required",
+        "semester": 9
+      },
+      {
+        "code": "1250",
+        "type": "required",
+        "semester": 9
+      },
+      {
+        "code": "1937",
+        "type": "required",
+        "semester": 9
+      },
+      {
+        "code": "1055",
+        "type": "elective_humanities"
+      },
+      {
+        "code": "1789",
+        "type": "elective_humanities"
+      },
+      {
+        "code": "1790",
+        "type": "elective_humanities"
+      },
+      {
+        "code": "1791",
+        "type": "elective_humanities"
+      },
+      {
+        "code": "1792",
+        "type": "elective_humanities"
+      },
+      {
+        "code": "1793",
+        "type": "elective_humanities"
+      },
+      {
+        "code": "1794",
+        "type": "elective_humanities"
+      },
+      {
+        "code": "0992",
+        "type": "elective",
+        "semester": 10
+      },
+      {
+        "code": "1059",
+        "type": "elective",
+        "semester": 10
+      },
+      {
+        "code": "1281",
+        "type": "elective",
+        "semester": 10
+      },
+      {
+        "code": "1282",
+        "type": "elective",
+        "semester": 10
+      },
+      {
+        "code": "1283",
+        "type": "elective",
+        "semester": 10
+      },
+      {
+        "code": "1284",
+        "type": "elective",
+        "semester": 10
+      },
+      {
+        "code": "1285",
+        "type": "elective",
+        "semester": 10
+      },
+      {
+        "code": "1286",
+        "type": "elective",
+        "semester": 10
+      },
+      {
+        "code": "1287",
+        "type": "elective",
+        "semester": 10
+      },
+      {
+        "code": "1288",
+        "type": "elective",
+        "semester": 10
+      },
+      {
+        "code": "1795",
+        "type": "elective",
+        "semester": 10
+      },
+      {
+        "code": "1796",
+        "type": "elective",
+        "semester": 10
+      },
+      {
+        "code": "2200",
+        "type": "elective"
+      },
+      {
+        "code": "2201",
+        "type": "elective"
+      },
+      {
+        "code": "2202",
+        "type": "elective"
+      },
+      {
+        "code": "2203",
+        "type": "elective"
+      },
+      {
+        "code": "2204",
+        "type": "elective"
+      },
+      {
+        "code": "2205",
+        "type": "elective"
+      },
+      {
+        "code": "2206",
+        "type": "elective"
+      },
+      {
+        "code": "2207",
+        "type": "elective"
+      },
+      {
+        "code": "2208",
+        "type": "elective"
+      },
+      {
+        "code": "2209",
+        "type": "elective"
+      },
+      {
+        "code": "2210",
+        "type": "elective"
+      },
+      {
+        "code": "0991",
+        "type": "elective",
+        "semester": 10
+      },
+      {
+        "code": "1251",
+        "type": "elective",
+        "semester": 10
+      },
+      {
+        "code": "1252",
+        "type": "elective",
+        "semester": 10
+      },
+      {
+        "code": "1253",
+        "type": "elective",
+        "semester": 10
+      },
+      {
+        "code": "1254",
+        "type": "elective",
+        "semester": 10
+      },
+      {
+        "code": "1255",
+        "type": "elective",
+        "semester": 10
+      },
+      {
+        "code": "1256",
+        "type": "elective",
+        "semester": 10
+      },
+      {
+        "code": "1257",
+        "type": "elective",
+        "semester": 10
+      },
+      {
+        "code": "1258",
+        "type": "elective",
+        "semester": 10
+      },
+      {
+        "code": "1259",
+        "type": "elective",
+        "semester": 10
+      },
+      {
+        "code": "1260",
+        "type": "elective",
+        "semester": 10
+      },
+      {
+        "code": "1261",
+        "type": "elective",
+        "semester": 10
+      },
+      {
+        "code": "1262",
+        "type": "elective",
+        "semester": 10
+      },
+      {
+        "code": "1263",
+        "type": "elective",
+        "semester": 10
+      },
+      {
+        "code": "1264",
+        "type": "elective",
+        "semester": 10
+      }
+    ]
+  },
+  {
+    "code": "4330",
+    "program_code": "139",
+    "name": "ING AEROESPACIAL-INGENIERIA ESPACIAL",
+    "release_year": 2023,
+    "required_credits": 420,
+    "elective_credits": 30,
+    "credit_limit_per_period": null,
+    "courses": [
+      {
+        "code": "1120",
+        "type": "required",
+        "semester": 1
+      },
+      {
+        "code": "1121",
+        "type": "required",
+        "semester": 1
+      },
+      {
+        "code": "1123",
+        "type": "required",
+        "semester": 1
+      },
+      {
+        "code": "1124",
+        "type": "required",
+        "semester": 1
+      },
+      {
+        "code": "1130",
+        "type": "required",
+        "semester": 1
+      },
+      {
+        "code": "1144",
+        "type": "required",
+        "semester": 1
+      },
+      {
+        "code": "8000",
+        "type": "required",
+        "semester": 1
+      },
+      {
+        "code": "1122",
+        "type": "required",
+        "semester": 2
+      },
+      {
+        "code": "1219",
+        "type": "required",
+        "semester": 2
+      },
+      {
+        "code": "1220",
+        "type": "required",
+        "semester": 2
+      },
+      {
+        "code": "1221",
+        "type": "required",
+        "semester": 2
+      },
+      {
+        "code": "1223",
+        "type": "required",
+        "semester": 2
+      },
+      {
+        "code": "1245",
+        "type": "required",
+        "semester": 2
+      },
+      {
+        "code": "1222",
+        "type": "required",
+        "semester": 3
+      },
+      {
+        "code": "1321",
+        "type": "required",
+        "semester": 3
+      },
+      {
+        "code": "1322",
+        "type": "required",
+        "semester": 3
+      },
+      {
+        "code": "1325",
+        "type": "required",
+        "semester": 3
+      },
+      {
+        "code": "1337",
+        "type": "required",
+        "semester": 3
+      },
+      {
+        "code": "1437",
+        "type": "required",
+        "semester": 3
+      },
+      {
+        "code": "1414",
+        "type": "required",
+        "semester": 4
+      },
+      {
+        "code": "1424",
+        "type": "required",
+        "semester": 4
+      },
+      {
+        "code": "1433",
+        "type": "required",
+        "semester": 4
+      },
+      {
+        "code": "1443",
+        "type": "required",
+        "semester": 4
+      },
+      {
+        "code": "1476",
+        "type": "required",
+        "semester": 4
+      },
+      {
+        "code": "0462",
+        "type": "required",
+        "semester": 5
+      },
+      {
+        "code": "0879",
+        "type": "required",
+        "semester": 5
+      },
+      {
+        "code": "1413",
+        "type": "required",
+        "semester": 5
+      },
+      {
+        "code": "1477",
+        "type": "required",
+        "semester": 5
+      },
+      {
+        "code": "1570",
+        "type": "required",
+        "semester": 5
+      },
+      {
+        "code": "1592",
+        "type": "required",
+        "semester": 5
+      },
+      {
+        "code": "0508",
+        "type": "required",
+        "semester": 6
+      },
+      {
+        "code": "1052",
+        "type": "required",
+        "semester": 6
+      },
+      {
+        "code": "1540",
+        "type": "required",
+        "semester": 6
+      },
+      {
+        "code": "1618",
+        "type": "required",
+        "semester": 6
+      },
+      {
+        "code": "1686",
+        "type": "required",
+        "semester": 6
+      },
+      {
+        "code": "2614",
+        "type": "required",
+        "semester": 6
+      },
+      {
+        "code": "0551",
+        "type": "required",
+        "semester": 7
+      },
+      {
+        "code": "1617",
+        "type": "required",
+        "semester": 7
+      },
+      {
+        "code": "1955",
+        "type": "required",
+        "semester": 7
+      },
+      {
+        "code": "2713",
+        "type": "required",
+        "semester": 7
+      },
+      {
+        "code": "2714",
+        "type": "required",
+        "semester": 7
+      },
+      {
+        "code": "2715",
+        "type": "required",
+        "semester": 7
+      },
+      {
+        "code": "1860",
+        "type": "required",
+        "semester": 8
+      },
+      {
+        "code": "2811",
+        "type": "required",
+        "semester": 8
+      },
+      {
+        "code": "2812",
+        "type": "required",
+        "semester": 8
+      },
+      {
+        "code": "2828",
+        "type": "required",
+        "semester": 8
+      },
+      {
+        "code": "2830",
+        "type": "required",
+        "semester": 8
+      },
+      {
+        "code": "2831",
+        "type": "required",
+        "semester": 8
+      },
+      {
+        "code": "2080",
+        "type": "required",
+        "semester": 9
+      },
+      {
+        "code": "2980",
+        "type": "required",
+        "semester": 9
+      },
+      {
+        "code": "1265",
+        "type": "required",
+        "semester": 9
+      },
+      {
+        "code": "1266",
+        "type": "required",
+        "semester": 9
+      },
+      {
+        "code": "1267",
+        "type": "required",
+        "semester": 9
+      },
+      {
+        "code": "1268",
+        "type": "required",
+        "semester": 9
+      },
+      {
+        "code": "1269",
+        "type": "required",
+        "semester": 9
+      },
+      {
+        "code": "1937",
+        "type": "required",
+        "semester": 9
+      },
+      {
+        "code": "1055",
+        "type": "elective_humanities"
+      },
+      {
+        "code": "1789",
+        "type": "elective_humanities"
+      },
+      {
+        "code": "1790",
+        "type": "elective_humanities"
+      },
+      {
+        "code": "1791",
+        "type": "elective_humanities"
+      },
+      {
+        "code": "1792",
+        "type": "elective_humanities"
+      },
+      {
+        "code": "1793",
+        "type": "elective_humanities"
+      },
+      {
+        "code": "1794",
+        "type": "elective_humanities"
+      },
+      {
+        "code": "0992",
+        "type": "elective",
+        "semester": 10
+      },
+      {
+        "code": "1059",
+        "type": "elective",
+        "semester": 10
+      },
+      {
+        "code": "1281",
+        "type": "elective",
+        "semester": 10
+      },
+      {
+        "code": "1282",
+        "type": "elective",
+        "semester": 10
+      },
+      {
+        "code": "1283",
+        "type": "elective",
+        "semester": 10
+      },
+      {
+        "code": "1284",
+        "type": "elective",
+        "semester": 10
+      },
+      {
+        "code": "1285",
+        "type": "elective",
+        "semester": 10
+      },
+      {
+        "code": "1286",
+        "type": "elective",
+        "semester": 10
+      },
+      {
+        "code": "1287",
+        "type": "elective",
+        "semester": 10
+      },
+      {
+        "code": "1288",
+        "type": "elective",
+        "semester": 10
+      },
+      {
+        "code": "1795",
+        "type": "elective",
+        "semester": 10
+      },
+      {
+        "code": "1796",
+        "type": "elective",
+        "semester": 10
+      },
+      {
+        "code": "2200",
+        "type": "elective"
+      },
+      {
+        "code": "2201",
+        "type": "elective"
+      },
+      {
+        "code": "2202",
+        "type": "elective"
+      },
+      {
+        "code": "2203",
+        "type": "elective"
+      },
+      {
+        "code": "2204",
+        "type": "elective"
+      },
+      {
+        "code": "2205",
+        "type": "elective"
+      },
+      {
+        "code": "2206",
+        "type": "elective"
+      },
+      {
+        "code": "2207",
+        "type": "elective"
+      },
+      {
+        "code": "2208",
+        "type": "elective"
+      },
+      {
+        "code": "2209",
+        "type": "elective"
+      },
+      {
+        "code": "2210",
+        "type": "elective"
+      },
+      {
+        "code": "0426",
+        "type": "elective",
+        "semester": 10
+      },
+      {
+        "code": "0991",
+        "type": "elective",
+        "semester": 10
+      },
+      {
+        "code": "1270",
+        "type": "elective",
+        "semester": 10
+      },
+      {
+        "code": "1271",
+        "type": "elective",
+        "semester": 10
+      },
+      {
+        "code": "1272",
+        "type": "elective",
+        "semester": 10
+      },
+      {
+        "code": "1273",
+        "type": "elective",
+        "semester": 10
+      },
+      {
+        "code": "1274",
+        "type": "elective",
+        "semester": 10
+      },
+      {
+        "code": "1275",
+        "type": "elective",
+        "semester": 10
+      },
+      {
+        "code": "1276",
+        "type": "elective",
+        "semester": 10
+      },
+      {
+        "code": "1277",
+        "type": "elective",
+        "semester": 10
+      },
+      {
+        "code": "1278",
+        "type": "elective",
+        "semester": 10
+      },
+      {
+        "code": "1279",
+        "type": "elective",
+        "semester": 10
+      },
+      {
+        "code": "1280",
+        "type": "elective",
+        "semester": 10
+      },
+      {
+        "code": "2301",
+        "type": "elective",
+        "semester": 10
+      },
+      {
+        "code": "2901",
+        "type": "elective",
+        "semester": 10
+      }
+    ]
+  }
+]

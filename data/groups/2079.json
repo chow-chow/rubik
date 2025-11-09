@@ -20,7 +20,11 @@
         "classroom": "X101"
       }
     ],
-    "professor_id": 93949
+    "professor_id": 93949,
+    "first_name": "Nelly",
+    "last_name": "Medina Molotla",
+    "rating": 9.2,
+    "num_ratings": 5
   },
   {
     "code": "2079",
@@ -42,7 +46,6 @@
         ],
         "classroom": "EXTR"
       }
-    ],
-    "professor_id": null
+    ]
   }
 ]

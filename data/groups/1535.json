@@ -20,7 +20,11 @@
         "classroom": "T101"
       }
     ],
-    "professor_id": 185042
+    "professor_id": 185042,
+    "first_name": "Emiliano Ehecatl",
+    "last_name": "García Unzueta",
+    "rating": 9.5,
+    "num_ratings": 4
   },
   {
     "code": "1535",
@@ -42,8 +46,7 @@
         ],
         "classroom": "T101"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1535",
@@ -65,8 +68,7 @@
         ],
         "classroom": "T101"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1535",
@@ -89,7 +91,11 @@
         "classroom": "T101"
       }
     ],
-    "professor_id": 135269
+    "professor_id": 135269,
+    "first_name": "Rafael",
+    "last_name": "Prieto Meléndez",
+    "rating": 7.625,
+    "num_ratings": 16
   },
   {
     "code": "1535",
@@ -110,8 +116,7 @@
         ],
         "classroom": "T101"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1535",
@@ -133,7 +138,11 @@
         "classroom": "T101"
       }
     ],
-    "professor_id": 104486
+    "professor_id": 104486,
+    "first_name": "ALBERTO",
+    "last_name": "NAVARRETE HERNANDEZ",
+    "rating": 5.1111,
+    "num_ratings": 54
   },
   {
     "code": "1535",
@@ -156,6 +165,10 @@
         "classroom": "T101"
       }
     ],
-    "professor_id": 142047
+    "professor_id": 142047,
+    "first_name": "ING. BRYAN EMMANUEL",
+    "last_name": "ALVAREZ SERNA",
+    "rating": 6.1515,
+    "num_ratings": 33
   }
 ]

@@ -19,7 +19,11 @@
         "classroom": "O004"
       }
     ],
-    "professor_id": 112014
+    "professor_id": 112014,
+    "first_name": "JORGE ALBERTO",
+    "last_name": "NAJERA CASTREJON",
+    "rating": 8.6667,
+    "num_ratings": 9
   },
   {
     "code": "1209",
@@ -41,7 +45,11 @@
         "classroom": "O003"
       }
     ],
-    "professor_id": 108487
+    "professor_id": 108487,
+    "first_name": "Guadalupe Gertrudis",
+    "last_name": "Herrera Mejia",
+    "rating": 6.9231,
+    "num_ratings": 13
   },
   {
     "code": "1209",
@@ -63,7 +71,11 @@
         "classroom": "O004"
       }
     ],
-    "professor_id": 102330
+    "professor_id": 102330,
+    "first_name": "Israel",
+    "last_name": "Garduño Garcia",
+    "rating": 7.6667,
+    "num_ratings": 12
   },
   {
     "code": "1209",
@@ -85,7 +97,11 @@
         "classroom": "O003"
       }
     ],
-    "professor_id": 141917
+    "professor_id": 141917,
+    "first_name": "Jose Luis",
+    "last_name": "Almaraz Moreno",
+    "rating": 6.5,
+    "num_ratings": 2
   },
   {
     "code": "1209",
@@ -107,7 +123,11 @@
         "classroom": "O004"
       }
     ],
-    "professor_id": 71882
+    "professor_id": 71882,
+    "first_name": "Roberto",
+    "last_name": "Cisneros Hernandez",
+    "rating": 4.5758,
+    "num_ratings": 33
   },
   {
     "code": "1209",
@@ -129,7 +149,11 @@
         "classroom": "O003"
       }
     ],
-    "professor_id": 51610
+    "professor_id": 51610,
+    "first_name": "Martin Ing.",
+    "last_name": "Reyes Farias",
+    "rating": 5.5588,
+    "num_ratings": 34
   },
   {
     "code": "1209",
@@ -151,7 +175,11 @@
         "classroom": "O003"
       }
     ],
-    "professor_id": 108487
+    "professor_id": 108487,
+    "first_name": "Guadalupe Gertrudis",
+    "last_name": "Herrera Mejia",
+    "rating": 6.9231,
+    "num_ratings": 13
   },
   {
     "code": "1209",
@@ -173,7 +201,11 @@
         "classroom": "O004"
       }
     ],
-    "professor_id": 42619
+    "professor_id": 42619,
+    "first_name": "Emiliano",
+    "last_name": "Anguiano Rojas",
+    "rating": 4.0,
+    "num_ratings": 35
   },
   {
     "code": "1209",
@@ -195,7 +227,11 @@
         "classroom": "O004"
       }
     ],
-    "professor_id": 42619
+    "professor_id": 42619,
+    "first_name": "Emiliano",
+    "last_name": "Anguiano Rojas",
+    "rating": 4.0,
+    "num_ratings": 35
   },
   {
     "code": "1209",
@@ -217,7 +253,11 @@
         "classroom": "O004"
       }
     ],
-    "professor_id": 95361
+    "professor_id": 95361,
+    "first_name": "Efraín",
+    "last_name": "Ramos Trejo",
+    "rating": 9.125,
+    "num_ratings": 8
   },
   {
     "code": "1209",
@@ -239,7 +279,11 @@
         "classroom": "O003"
       }
     ],
-    "professor_id": 124362
+    "professor_id": 124362,
+    "first_name": "JUAN ERIC",
+    "last_name": "DURAN PIÑA",
+    "rating": 7.8333,
+    "num_ratings": 6
   },
   {
     "code": "1209",
@@ -261,7 +305,11 @@
         "classroom": "O004"
       }
     ],
-    "professor_id": 115628
+    "professor_id": 115628,
+    "first_name": "Eduardo",
+    "last_name": "Anguiano Anaya",
+    "rating": 7.2667,
+    "num_ratings": 15
   },
   {
     "code": "1209",
@@ -283,7 +331,11 @@
         "classroom": "O003"
       }
     ],
-    "professor_id": 82396
+    "professor_id": 82396,
+    "first_name": "Roberto",
+    "last_name": "Peña Bandala",
+    "rating": 9.8636,
+    "num_ratings": 22
   },
   {
     "code": "1209",
@@ -305,7 +357,11 @@
         "classroom": "O005"
       }
     ],
-    "professor_id": 93948
+    "professor_id": 93948,
+    "first_name": "Armando",
+    "last_name": "Sánchez Guzmán",
+    "rating": 8.2333,
+    "num_ratings": 30
   },
   {
     "code": "1209",
@@ -327,7 +383,11 @@
         "classroom": "O004"
       }
     ],
-    "professor_id": 115628
+    "professor_id": 115628,
+    "first_name": "Eduardo",
+    "last_name": "Anguiano Anaya",
+    "rating": 7.2667,
+    "num_ratings": 15
   },
   {
     "code": "1209",
@@ -349,7 +409,11 @@
         "classroom": "O003"
       }
     ],
-    "professor_id": 67066
+    "professor_id": 67066,
+    "first_name": "José Luis",
+    "last_name": "Rodríguez Picazo",
+    "rating": 7.68,
+    "num_ratings": 25
   },
   {
     "code": "1209",
@@ -371,7 +435,11 @@
         "classroom": "O005"
       }
     ],
-    "professor_id": 93948
+    "professor_id": 93948,
+    "first_name": "Armando",
+    "last_name": "Sánchez Guzmán",
+    "rating": 8.2333,
+    "num_ratings": 30
   },
   {
     "code": "1209",
@@ -393,6 +461,10 @@
         "classroom": "O003"
       }
     ],
-    "professor_id": 51610
+    "professor_id": 51610,
+    "first_name": "Martin Ing.",
+    "last_name": "Reyes Farias",
+    "rating": 5.5588,
+    "num_ratings": 34
   }
 ]

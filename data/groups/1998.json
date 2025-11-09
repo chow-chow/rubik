@@ -12,8 +12,7 @@
         ],
         "classroom": "A301"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1998",
@@ -29,7 +28,11 @@
         "classroom": "A107"
       }
     ],
-    "professor_id": 118946
+    "professor_id": 118946,
+    "first_name": "Alejandro",
+    "last_name": "Baez Muñoz",
+    "rating": 6.8571,
+    "num_ratings": 7
   },
   {
     "code": "1998",
@@ -45,7 +48,11 @@
         "classroom": "B405"
       }
     ],
-    "professor_id": 155707
+    "professor_id": 155707,
+    "first_name": "Gonzalo",
+    "last_name": "Sandoval Rodriguez",
+    "rating": 4.8,
+    "num_ratings": 10
   },
   {
     "code": "1998",
@@ -61,6 +68,10 @@
         "classroom": "S201"
       }
     ],
-    "professor_id": 102987
+    "professor_id": 102987,
+    "first_name": "Frederic",
+    "last_name": "Trillaud",
+    "rating": 6.2308,
+    "num_ratings": 13
   }
 ]

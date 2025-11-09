@@ -11,8 +11,7 @@
         ],
         "classroom": "C401"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1861",
@@ -27,7 +26,11 @@
         "classroom": "B105"
       }
     ],
-    "professor_id": 80615
+    "professor_id": 80615,
+    "first_name": "VICTORIANO",
+    "last_name": "ANGUIS TERRAZAS",
+    "rating": 6.0,
+    "num_ratings": 2
   },
   {
     "code": "1861",
@@ -41,7 +44,6 @@
         ],
         "classroom": "Y103"
       }
-    ],
-    "professor_id": null
+    ]
   }
 ]

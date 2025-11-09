@@ -20,7 +20,11 @@
         "classroom": "D003"
       }
     ],
-    "professor_id": 171640
+    "professor_id": 171640,
+    "first_name": "Erik",
+    "last_name": "Peña Medina",
+    "rating": 5.5,
+    "num_ratings": 2
   },
   {
     "code": "2135",
@@ -37,7 +41,11 @@
         "classroom": "B104"
       }
     ],
-    "professor_id": 173549
+    "professor_id": 173549,
+    "first_name": "Roberto Ángel",
+    "last_name": "García García",
+    "rating": 7.4286,
+    "num_ratings": 7
   },
   {
     "code": "2135",
@@ -54,7 +62,11 @@
         "classroom": "B303"
       }
     ],
-    "professor_id": 114507
+    "professor_id": 114507,
+    "first_name": "Sergio",
+    "last_name": "Esteves Rebollo",
+    "rating": 9.1667,
+    "num_ratings": 6
   },
   {
     "code": "2135",
@@ -71,6 +83,10 @@
         "classroom": "O102"
       }
     ],
-    "professor_id": 109269
+    "professor_id": 109269,
+    "first_name": "Patricio",
+    "last_name": "Martínez Zamudio",
+    "rating": 2.0,
+    "num_ratings": 5
   }
 ]

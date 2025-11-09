@@ -13,7 +13,11 @@
         "classroom": "A211"
       }
     ],
-    "professor_id": 79610
+    "professor_id": 79610,
+    "first_name": "Luis Antonio",
+    "last_name": "Garcia Villanueva",
+    "rating": 8.0,
+    "num_ratings": 2
   },
   {
     "code": "2824",
@@ -28,7 +32,6 @@
         ],
         "classroom": "R206"
       }
-    ],
-    "professor_id": null
+    ]
   }
 ]

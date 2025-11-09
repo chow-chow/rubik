@@ -12,8 +12,7 @@
         ],
         "classroom": "B203"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1055",
@@ -29,7 +28,11 @@
         "classroom": "A104"
       }
     ],
-    "professor_id": 78031
+    "professor_id": 78031,
+    "first_name": "Jesús",
+    "last_name": "Pérez Esquivel",
+    "rating": 8.662,
+    "num_ratings": 71
   },
   {
     "code": "1055",
@@ -45,7 +48,11 @@
         "classroom": "A108"
       }
     ],
-    "professor_id": 27999
+    "professor_id": 27999,
+    "first_name": "Pablo",
+    "last_name": "Garcia  y colome",
+    "rating": 6.0357,
+    "num_ratings": 112
   },
   {
     "code": "1055",
@@ -60,8 +67,7 @@
         ],
         "classroom": "A103"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1055",
@@ -76,8 +82,7 @@
         ],
         "classroom": "B203"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1055",
@@ -93,7 +98,11 @@
         "classroom": "A108"
       }
     ],
-    "professor_id": 80225
+    "professor_id": 80225,
+    "first_name": "Victoria",
+    "last_name": "Ramiro Esteban",
+    "rating": 7.1429,
+    "num_ratings": 35
   },
   {
     "code": "1055",
@@ -108,8 +117,7 @@
         ],
         "classroom": "A103"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1055",
@@ -125,7 +133,11 @@
         "classroom": "A108"
       }
     ],
-    "professor_id": 78031
+    "professor_id": 78031,
+    "first_name": "Jesús",
+    "last_name": "Pérez Esquivel",
+    "rating": 8.662,
+    "num_ratings": 71
   },
   {
     "code": "1055",
@@ -141,7 +153,11 @@
         "classroom": "A102"
       }
     ],
-    "professor_id": 36978
+    "professor_id": 36978,
+    "first_name": "Margarita",
+    "last_name": "Puebla Cadena",
+    "rating": 8.75,
+    "num_ratings": 28
   },
   {
     "code": "1055",
@@ -157,7 +173,11 @@
         "classroom": "A108"
       }
     ],
-    "professor_id": 80225
+    "professor_id": 80225,
+    "first_name": "Victoria",
+    "last_name": "Ramiro Esteban",
+    "rating": 7.1429,
+    "num_ratings": 35
   },
   {
     "code": "1055",
@@ -173,7 +193,11 @@
         "classroom": "A101"
       }
     ],
-    "professor_id": 78509
+    "professor_id": 78509,
+    "first_name": "María",
+    "last_name": "Cuairán Ruidiaz",
+    "rating": 9.8333,
+    "num_ratings": 12
   },
   {
     "code": "1055",
@@ -188,8 +212,7 @@
         ],
         "classroom": "A105"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1055",
@@ -204,7 +227,11 @@
         "classroom": "A102"
       }
     ],
-    "professor_id": 67966
+    "professor_id": 67966,
+    "first_name": "Tehny Carolina",
+    "last_name": "Ruiz Primo Martínez",
+    "rating": 5.41,
+    "num_ratings": 29
   },
   {
     "code": "1055",
@@ -220,7 +247,11 @@
         "classroom": "A102"
       }
     ],
-    "professor_id": 64967
+    "professor_id": 64967,
+    "first_name": "Ana Luisa",
+    "last_name": "Alberro Lizon",
+    "rating": 9.0,
+    "num_ratings": 21
   },
   {
     "code": "1055",
@@ -236,7 +267,11 @@
         "classroom": "A108"
       }
     ],
-    "professor_id": 183488
+    "professor_id": 183488,
+    "first_name": "Mayra",
+    "last_name": "Casar Acosta",
+    "rating": 10.0,
+    "num_ratings": 2
   },
   {
     "code": "1055",
@@ -252,7 +287,11 @@
         "classroom": "A102"
       }
     ],
-    "professor_id": 61268
+    "professor_id": 61268,
+    "first_name": "Julio Enrique",
+    "last_name": "Gordillo Torres",
+    "rating": 7.7273,
+    "num_ratings": 33
   },
   {
     "code": "1055",
@@ -267,8 +306,7 @@
         ],
         "classroom": "A101"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1055",
@@ -284,7 +322,11 @@
         "classroom": "B203"
       }
     ],
-    "professor_id": 61268
+    "professor_id": 61268,
+    "first_name": "Julio Enrique",
+    "last_name": "Gordillo Torres",
+    "rating": 7.7273,
+    "num_ratings": 33
   },
   {
     "code": "1055",
@@ -299,7 +341,11 @@
         "classroom": "A104"
       }
     ],
-    "professor_id": 67966
+    "professor_id": 67966,
+    "first_name": "Tehny Carolina",
+    "last_name": "Ruiz Primo Martínez",
+    "rating": 5.41,
+    "num_ratings": 29
   },
   {
     "code": "1055",
@@ -314,8 +360,7 @@
         ],
         "classroom": "A102"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1055",
@@ -331,6 +376,10 @@
         "classroom": "A101"
       }
     ],
-    "professor_id": 87088
+    "professor_id": 87088,
+    "first_name": "Antonio",
+    "last_name": "Castro Rangel",
+    "rating": 7.6667,
+    "num_ratings": 30
   }
 ]

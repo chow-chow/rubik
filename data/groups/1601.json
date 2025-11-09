@@ -14,7 +14,11 @@
         "classroom": "A106"
       }
     ],
-    "professor_id": 66566
+    "professor_id": 66566,
+    "first_name": "Cesar",
+    "last_name": "Vazquez Lorenzana",
+    "rating": 6.1149,
+    "num_ratings": 87
   },
   {
     "code": "1601",
@@ -30,8 +34,7 @@
         ],
         "classroom": "A208"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1601",
@@ -47,8 +50,7 @@
         ],
         "classroom": "A208"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1601",
@@ -64,8 +66,7 @@
         ],
         "classroom": "A208"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1601",
@@ -80,8 +81,7 @@
         ],
         "classroom": "DS02"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1601",
@@ -97,6 +97,10 @@
         "classroom": "A203"
       }
     ],
-    "professor_id": 181437
+    "professor_id": 181437,
+    "first_name": "M.I. DANIEL",
+    "last_name": "MEJIA LOERA",
+    "rating": 9.6667,
+    "num_ratings": 3
   }
 ]

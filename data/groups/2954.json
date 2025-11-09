@@ -19,8 +19,7 @@
         ],
         "classroom": "Q208"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "2954",
@@ -42,7 +41,11 @@
         "classroom": "Q208"
       }
     ],
-    "professor_id": 122570
+    "professor_id": 122570,
+    "first_name": "Cesar",
+    "last_name": "Sanabria",
+    "rating": 5.5,
+    "num_ratings": 2
   },
   {
     "code": "2954",
@@ -64,7 +67,6 @@
         ],
         "classroom": "SIN"
       }
-    ],
-    "professor_id": null
+    ]
   }
 ]

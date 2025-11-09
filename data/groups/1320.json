@@ -13,7 +13,11 @@
         "classroom": "O102"
       }
     ],
-    "professor_id": 89958
+    "professor_id": 89958,
+    "first_name": "Zayil",
+    "last_name": "Salazar Campos",
+    "rating": 8.8571,
+    "num_ratings": 21
   },
   {
     "code": "1320",
@@ -28,8 +32,7 @@
         ],
         "classroom": "X101"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1320",
@@ -45,6 +48,10 @@
         "classroom": "X101"
       }
     ],
-    "professor_id": 113918
+    "professor_id": 113918,
+    "first_name": "Miguel",
+    "last_name": "Maldonado",
+    "rating": 9.0,
+    "num_ratings": 4
   }
 ]

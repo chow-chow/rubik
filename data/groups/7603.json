@@ -11,8 +11,7 @@
         ],
         "classroom": "O005"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "7603",
@@ -27,7 +26,11 @@
         "classroom": "O005"
       }
     ],
-    "professor_id": 74730
+    "professor_id": 74730,
+    "first_name": "Edgar Isaac",
+    "last_name": "Ramírez Díaz",
+    "rating": 7.5,
+    "num_ratings": 12
   },
   {
     "code": "7603",
@@ -42,7 +45,11 @@
         "classroom": "O005"
       }
     ],
-    "professor_id": 74730
+    "professor_id": 74730,
+    "first_name": "Edgar Isaac",
+    "last_name": "Ramírez Díaz",
+    "rating": 7.5,
+    "num_ratings": 12
   },
   {
     "code": "7603",
@@ -57,7 +64,11 @@
         "classroom": "O005"
       }
     ],
-    "professor_id": 112014
+    "professor_id": 112014,
+    "first_name": "JORGE ALBERTO",
+    "last_name": "NAJERA CASTREJON",
+    "rating": 8.6667,
+    "num_ratings": 9
   },
   {
     "code": "7603",
@@ -71,8 +82,7 @@
         ],
         "classroom": "O005"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "7603",
@@ -87,7 +97,11 @@
         "classroom": "O005"
       }
     ],
-    "professor_id": 188267
+    "professor_id": 188267,
+    "first_name": "Pablo Eduardo",
+    "last_name": "Lira Velázquez",
+    "rating": 7.0,
+    "num_ratings": 2
   },
   {
     "code": "7603",
@@ -102,7 +116,11 @@
         "classroom": "O005"
       }
     ],
-    "professor_id": 90646
+    "professor_id": 90646,
+    "first_name": "Osvaldo",
+    "last_name": "Ruiz Cervantes",
+    "rating": 5.35,
+    "num_ratings": 20
   },
   {
     "code": "7603",
@@ -116,8 +134,7 @@
         ],
         "classroom": "O005"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "7603",
@@ -132,7 +149,11 @@
         "classroom": "O009"
       }
     ],
-    "professor_id": 188267
+    "professor_id": 188267,
+    "first_name": "Pablo Eduardo",
+    "last_name": "Lira Velázquez",
+    "rating": 7.0,
+    "num_ratings": 2
   },
   {
     "code": "7603",
@@ -147,6 +168,10 @@
         "classroom": "O009"
       }
     ],
-    "professor_id": 188267
+    "professor_id": 188267,
+    "first_name": "Pablo Eduardo",
+    "last_name": "Lira Velázquez",
+    "rating": 7.0,
+    "num_ratings": 2
   }
 ]

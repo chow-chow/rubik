@@ -13,7 +13,11 @@
         "classroom": "J200"
       }
     ],
-    "professor_id": 109884
+    "professor_id": 109884,
+    "first_name": "VICENTE TORRES RODRIGUEZ",
+    "last_name": "TORRES RODRIGUEZ",
+    "rating": 6.0,
+    "num_ratings": 2
   },
   {
     "code": "1573",
@@ -29,6 +33,10 @@
         "classroom": "J001"
       }
     ],
-    "professor_id": 68755
+    "professor_id": 68755,
+    "first_name": "Laura",
+    "last_name": "Mori",
+    "rating": 8.0741,
+    "num_ratings": 27
   }
 ]

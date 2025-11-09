@@ -14,7 +14,11 @@
         "classroom": "A307"
       }
     ],
-    "professor_id": 184691
+    "professor_id": 184691,
+    "first_name": "LEON MANUEL",
+    "last_name": "GARAY ACEVEDO",
+    "rating": 7.0,
+    "num_ratings": 2
   },
   {
     "code": "1731",
@@ -31,7 +35,11 @@
         "classroom": "EXTR"
       }
     ],
-    "professor_id": 154735
+    "professor_id": 154735,
+    "first_name": "Michiko",
+    "last_name": "Amemiya Ramirez",
+    "rating": 9.5,
+    "num_ratings": 2
   },
   {
     "code": "1731",
@@ -47,7 +55,11 @@
         "classroom": "A210"
       }
     ],
-    "professor_id": 135807
+    "professor_id": 135807,
+    "first_name": "Juan Antonio",
+    "last_name": "Del Valle Flores",
+    "rating": 6.75,
+    "num_ratings": 4
   },
   {
     "code": "1731",
@@ -64,7 +76,11 @@
         "classroom": "A106"
       }
     ],
-    "professor_id": 104937
+    "professor_id": 104937,
+    "first_name": "GUILLERMO",
+    "last_name": "MANCILLA URREA",
+    "rating": 8.2105,
+    "num_ratings": 19
   },
   {
     "code": "1731",
@@ -81,7 +97,11 @@
         "classroom": "A106"
       }
     ],
-    "professor_id": 104937
+    "professor_id": 104937,
+    "first_name": "GUILLERMO",
+    "last_name": "MANCILLA URREA",
+    "rating": 8.2105,
+    "num_ratings": 19
   },
   {
     "code": "1731",
@@ -96,7 +116,6 @@
         ],
         "classroom": "A309"
       }
-    ],
-    "professor_id": null
+    ]
   }
 ]

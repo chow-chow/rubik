@@ -20,7 +20,11 @@
         "classroom": "R029"
       }
     ],
-    "professor_id": 135632
+    "professor_id": 135632,
+    "first_name": "Catalina",
+    "last_name": "Ordoñez Ramos",
+    "rating": 8.5,
+    "num_ratings": 10
   },
   {
     "code": "1229",
@@ -43,7 +47,11 @@
         "classroom": "R029"
       }
     ],
-    "professor_id": 141820
+    "professor_id": 141820,
+    "first_name": "Roberto",
+    "last_name": "Ascencio Villagómez",
+    "rating": 5.5,
+    "num_ratings": 2
   },
   {
     "code": "1229",
@@ -66,7 +74,11 @@
         "classroom": "R029"
       }
     ],
-    "professor_id": 84757
+    "professor_id": 84757,
+    "first_name": "beatriz ivonne",
+    "last_name": "alvarado",
+    "rating": 8.6667,
+    "num_ratings": 6
   },
   {
     "code": "1229",
@@ -89,7 +101,11 @@
         "classroom": "R029"
       }
     ],
-    "professor_id": 71265
+    "professor_id": 71265,
+    "first_name": "Benito",
+    "last_name": "Gomez Daza",
+    "rating": 9.2222,
+    "num_ratings": 9
   },
   {
     "code": "1229",
@@ -112,7 +128,11 @@
         "classroom": "R029"
       }
     ],
-    "professor_id": 38449
+    "professor_id": 38449,
+    "first_name": "Angel",
+    "last_name": "Avila Mendoza",
+    "rating": 7.1852,
+    "num_ratings": 27
   },
   {
     "code": "1229",
@@ -135,7 +155,11 @@
         "classroom": "R029"
       }
     ],
-    "professor_id": 38449
+    "professor_id": 38449,
+    "first_name": "Angel",
+    "last_name": "Avila Mendoza",
+    "rating": 7.1852,
+    "num_ratings": 27
   },
   {
     "code": "1229",
@@ -158,7 +182,11 @@
         "classroom": "R029"
       }
     ],
-    "professor_id": 109874
+    "professor_id": 109874,
+    "first_name": "Brenda Iveth",
+    "last_name": "Moreno Hurtado",
+    "rating": 8.625,
+    "num_ratings": 8
   },
   {
     "code": "1229",
@@ -181,7 +209,11 @@
         "classroom": "R029"
       }
     ],
-    "professor_id": 109874
+    "professor_id": 109874,
+    "first_name": "Brenda Iveth",
+    "last_name": "Moreno Hurtado",
+    "rating": 8.625,
+    "num_ratings": 8
   },
   {
     "code": "1229",
@@ -204,7 +236,11 @@
         "classroom": "R029"
       }
     ],
-    "professor_id": 142005
+    "professor_id": 142005,
+    "first_name": "Erik",
+    "last_name": "Marquez Garcia",
+    "rating": 10.0,
+    "num_ratings": 5
   },
   {
     "code": "1229",
@@ -226,6 +262,10 @@
         "classroom": "R029"
       }
     ],
-    "professor_id": 93218
+    "professor_id": 93218,
+    "first_name": "Erik",
+    "last_name": "De Valle Salgado",
+    "rating": 9.3571,
+    "num_ratings": 14
   }
 ]

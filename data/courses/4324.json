@@ -1,0 +1,567 @@
+[
+  {
+    "code": "0018",
+    "name": "ADMINISTRACION",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "0642",
+    "name": "PLANEACION",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1052",
+    "name": "ETICA PROFESIONAL",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1055",
+    "name": "LITERATURA HISPANOAMERICANA CONTEMPO",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1057",
+    "name": "DESARROLLO DE HABILIDADES DIRECTIVAS",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1059",
+    "name": "DESARROLLO EMPRESARIAL",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1088",
+    "name": "HIDROGEOLOGIA",
+    "credits": 9,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1120",
+    "name": "ALGEBRA",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1121",
+    "name": "CALCULO Y GEOMETRIA ANALITICA",
+    "credits": 12,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1124",
+    "name": "REDACCION Y EXPOSIC TEMAS INGENIERIA",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1127",
+    "name": "PROGRAMACION BASICA",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1128",
+    "name": "REPRESENTACIONES GRAFICAS",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1220",
+    "name": "ALGEBRA LINEAL",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1221",
+    "name": "CALCULO INTEGRAL",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1222",
+    "name": "CULTURA Y COMUNICACION",
+    "credits": 2,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1228",
+    "name": "MECANICA",
+    "credits": 12,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1230",
+    "name": "INTRODUCC. AL ESTUDIO DEL MEDIO AMB.",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1231",
+    "name": "QUIMICA INORGANICA",
+    "credits": 10,
+    "has_lab": true,
+    "lab": {
+      "code": "6231",
+      "name": "LAB. QUIMICA INORGANICA"
+    }
+  },
+  {
+    "code": "1240",
+    "name": "SEGURIDAD INDUST.Y PROTECC.AMBIENTAL",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1243",
+    "name": "GESTION DE RESIDUOS DE ALTO IMPACTO",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1244",
+    "name": "TEMAS ESP. GESTION INTEGRAL RESID.SO",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1321",
+    "name": "CALCULO VECTORIAL",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1325",
+    "name": "ECUACIONES DIFERENCIALES",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1335",
+    "name": "FISICOQUIMICA PARA ING. AMBIENTAL",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1413",
+    "name": "INTRODUCCION A LA ECONOMIA",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1433",
+    "name": "ANALISIS NUMERICO",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1436",
+    "name": "PROBABILIDAD",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1437",
+    "name": "TERMODINAMICA",
+    "credits": 10,
+    "has_lab": true,
+    "lab": {
+      "code": "6437",
+      "name": "LAB TERMODINAMICA"
+    }
+  },
+  {
+    "code": "1474",
+    "name": "BIOLOGIA",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1475",
+    "name": "QUIMICA ORGANICA",
+    "credits": 10,
+    "has_lab": true,
+    "lab": {
+      "code": "6475",
+      "name": "LABORATORIO DE QUIMICA ORGANICA"
+    }
+  },
+  {
+    "code": "1506",
+    "name": "GEOLOGIA",
+    "credits": 9,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1569",
+    "name": "ESTADISTICA",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1580",
+    "name": "GEOLOGIA AMBIENTAL",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1789",
+    "name": "CIENCIA, TECNOLOGIA Y SOCIEDAD",
+    "credits": 4,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1790",
+    "name": "INTRODUCCION ANALIS ECON EMPRESARIAL",
+    "credits": 4,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1791",
+    "name": "MEXICO NACION MULTICULTURAL",
+    "credits": 4,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1792",
+    "name": "SEM. SOCIOHUMANISTICO: HIST PROSP IN",
+    "credits": 2,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1793",
+    "name": "SEM. SOCIOHUMANISTICO: ING Y POL PUB",
+    "credits": 2,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1794",
+    "name": "SEM. SOCIOHUMANISTICO: ING SUSTENTAB",
+    "credits": 2,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1795",
+    "name": "TALLER SOCIOHUMANISTICO: CREATIVIDAD",
+    "credits": 2,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1796",
+    "name": "TALLER SOCIOHUMANISTICO: LIDERAZGO",
+    "credits": 2,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1886",
+    "name": "ECOLOGIA E INGENIERIA",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1887",
+    "name": "INGENIERIA DE LOS PROCESOS BIOLOGIC.",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1918",
+    "name": "PROCESOS INDUSTRIALES",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2080",
+    "name": "RECURSOS Y NECESIDADES DE MEXICO",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2092",
+    "name": "MODELACION NUMERICA COMPUT ACUIFEROS",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2211",
+    "name": "FISICA EXPERIMENTAL",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2502",
+    "name": "MECANICA DE FLUIDOS PARA ING.AMBIENT",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2505",
+    "name": "TRANSFERENCIA DE MASA Y ENERGIA",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2602",
+    "name": "CONTABILIDAD F INANCIERA Y DE COSTOS",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2608",
+    "name": "CONDUCTOS A PRESION Y A SUPERF.LIBRE",
+    "credits": 9,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2609",
+    "name": "CONOCIMIENTO TERRITORIAL",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2610",
+    "name": "ECONOMIA AMBIENTAL Y ECOLOGICA",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2611",
+    "name": "EVALUACION DE LA CALIDAD DEL AGUA",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2612",
+    "name": "HIDROLOGIA SUPERFICIAL",
+    "credits": 9,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2613",
+    "name": "TRANSPORT.DISPERS.CONTAMIN.ATMOSFER.",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2710",
+    "name": "EVALUACION DE LA CALIDAD DEL AIRE",
+    "credits": 8,
+    "has_lab": true,
+    "lab": {
+      "code": "7710",
+      "name": "LABORATORIO DE EVALUACION DE LA CALIDAD DEL AIRE"
+    }
+  },
+  {
+    "code": "2711",
+    "name": "GESTION INTEGRAL DE RESIDUOS SOL.URB",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2712",
+    "name": "OPERACIONES Y PROCESOS UNITARIOS",
+    "credits": 9,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2805",
+    "name": "INSTALACIONES INDUSTRIALES",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2818",
+    "name": "CONTAMINACION POR RUIDO Y CONTROL",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2819",
+    "name": "CONTROL DE EMISIONES A LA ATMOSFERA",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2820",
+    "name": "EVALUACION AMBIENTAL ESTRATEGICA",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2821",
+    "name": "GESTION INTEGRAL DE RESID.MANEJO ESP",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2822",
+    "name": "MATERIALES Y RESIDUOS PELIGROSOS",
+    "credits": 9,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2823",
+    "name": "PROYECT.PLANTAS.TRATAM.AGUA CONS.HU",
+    "credits": 9,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2824",
+    "name": "CONTROL DE CONTAM.SUELOS Y ACUIFEROS",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2825",
+    "name": "EVALUACION DE IMPACTO AMBIENTAL",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2826",
+    "name": "PROYECT.PLANTAS TRATAM.AGUA RESIDUAL",
+    "credits": 9,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2827",
+    "name": "SIST.RECUPER.RECURSOS Y ENERGIA",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2829",
+    "name": "EVALUACION DE RIESGO AMBIENTAL",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2978",
+    "name": "APROVECH.VALORIZACION DE RESIDUOS",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2979",
+    "name": "TRATAM.APROVECHAM.DE BIOSOLIDOS",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3022",
+    "name": "RELACIONES LABORALES Y ORGANIZACION.",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3025",
+    "name": "INTRODUCCION A GERENCIA DE PROYECTOS",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3026",
+    "name": "PREPARACION DE CURSOS  OBRA PUBLICA",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3028",
+    "name": "SUPERVISION DE OBRAS",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3092",
+    "name": "DEPOSITOS DE RESIDUOS MINEROS",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "8000",
+    "name": "IGUALDAD DE GENERO EN INGENIERIA",
+    "credits": 0,
+    "has_lab": false,
+    "lab": null
+  }
+]

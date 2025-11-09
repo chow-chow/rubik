@@ -12,7 +12,11 @@
         "classroom": "Q316"
       }
     ],
-    "professor_id": 130840
+    "professor_id": 130840,
+    "first_name": "Ernesto",
+    "last_name": "Ramírez Cruz",
+    "rating": 9.8,
+    "num_ratings": 20
   },
   {
     "code": "6462",
@@ -27,6 +31,10 @@
         "classroom": "Q316"
       }
     ],
-    "professor_id": 79762
+    "professor_id": 79762,
+    "first_name": "Margarita",
+    "last_name": "Bautista Gonzalez",
+    "rating": 9.0,
+    "num_ratings": 6
   }
 ]

@@ -13,7 +13,11 @@
         "classroom": "B206"
       }
     ],
-    "professor_id": 108639
+    "professor_id": 108639,
+    "first_name": "Julio Alfonso",
+    "last_name": "De León Razo",
+    "rating": 6.36,
+    "num_ratings": 25
   },
   {
     "code": "2928",
@@ -28,7 +32,6 @@
         ],
         "classroom": "Y002"
       }
-    ],
-    "professor_id": null
+    ]
   }
 ]

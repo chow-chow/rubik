@@ -13,7 +13,11 @@
         "classroom": "A301"
       }
     ],
-    "professor_id": 142145
+    "professor_id": 142145,
+    "first_name": "Juan",
+    "last_name": "Garcia Romero",
+    "rating": 8.4,
+    "num_ratings": 5
   },
   {
     "code": "1866",
@@ -28,6 +32,10 @@
         "classroom": "B304"
       }
     ],
-    "professor_id": 172881
+    "professor_id": 172881,
+    "first_name": "Javier",
+    "last_name": "León  Cotonieto",
+    "rating": 8.3333,
+    "num_ratings": 6
   }
 ]

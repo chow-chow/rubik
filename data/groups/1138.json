@@ -13,7 +13,11 @@
         "classroom": "Q315"
       }
     ],
-    "professor_id": 134945
+    "professor_id": 134945,
+    "first_name": "Valentina Luisa",
+    "last_name": "Souza Rodríguez",
+    "rating": 8.625,
+    "num_ratings": 8
   },
   {
     "code": "1138",
@@ -29,7 +33,11 @@
         "classroom": "Q315"
       }
     ],
-    "professor_id": 82975
+    "professor_id": 82975,
+    "first_name": "Mauricio",
+    "last_name": "Cortes Hernandez",
+    "rating": 8.5,
+    "num_ratings": 4
   },
   {
     "code": "1138",
@@ -45,7 +53,11 @@
         "classroom": "Q315"
       }
     ],
-    "professor_id": 172905
+    "professor_id": 172905,
+    "first_name": "Hector Ivan",
+    "last_name": "Padilla Rojas",
+    "rating": 9.6667,
+    "num_ratings": 3
   },
   {
     "code": "1138",
@@ -60,8 +72,7 @@
         ],
         "classroom": "Q315"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1138",
@@ -83,6 +94,10 @@
         "classroom": "Q315"
       }
     ],
-    "professor_id": 134945
+    "professor_id": 134945,
+    "first_name": "Valentina Luisa",
+    "last_name": "Souza Rodríguez",
+    "rating": 8.625,
+    "num_ratings": 8
   }
 ]

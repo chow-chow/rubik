@@ -14,7 +14,11 @@
         "classroom": "J001"
       }
     ],
-    "professor_id": 90867
+    "professor_id": 90867,
+    "first_name": "Enrique Alejandro",
+    "last_name": "González Torres",
+    "rating": 9.4,
+    "num_ratings": 15
   },
   {
     "code": "1327",
@@ -30,7 +34,11 @@
         "classroom": "J001"
       }
     ],
-    "professor_id": 68755
+    "professor_id": 68755,
+    "first_name": "Laura",
+    "last_name": "Mori",
+    "rating": 8.0741,
+    "num_ratings": 27
   },
   {
     "code": "1327",
@@ -47,6 +55,10 @@
         "classroom": "J001"
       }
     ],
-    "professor_id": 73851
+    "professor_id": 73851,
+    "first_name": "Aldo",
+    "last_name": "Ramos Rosique",
+    "rating": 7.0,
+    "num_ratings": 21
   }
 ]

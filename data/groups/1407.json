@@ -12,8 +12,7 @@
         ],
         "classroom": "A210"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1407",
@@ -29,7 +28,11 @@
         "classroom": "A204"
       }
     ],
-    "professor_id": 172599
+    "professor_id": 172599,
+    "first_name": "ALEJANDRO",
+    "last_name": "PONCE SERRANO",
+    "rating": 2.75,
+    "num_ratings": 4
   },
   {
     "code": "1407",
@@ -45,7 +48,11 @@
         "classroom": "A304"
       }
     ],
-    "professor_id": 135805
+    "professor_id": 135805,
+    "first_name": "Marco Tulio",
+    "last_name": "Mendoza Rosas",
+    "rating": 8.3333,
+    "num_ratings": 3
   },
   {
     "code": "1407",
@@ -60,8 +67,7 @@
         ],
         "classroom": "A308"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1407",
@@ -77,7 +83,11 @@
         "classroom": "Y205"
       }
     ],
-    "professor_id": 71649
+    "professor_id": 71649,
+    "first_name": "Marcos",
+    "last_name": "Trejo Hernández",
+    "rating": 5.5,
+    "num_ratings": 14
   },
   {
     "code": "1407",
@@ -92,8 +102,7 @@
         ],
         "classroom": "A210"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1407",
@@ -107,8 +116,7 @@
         ],
         "classroom": "SIN"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1407",
@@ -122,7 +130,6 @@
         ],
         "classroom": "A212"
       }
-    ],
-    "professor_id": null
+    ]
   }
 ]

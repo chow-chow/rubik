@@ -12,8 +12,7 @@
         ],
         "classroom": "S005"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "2601",
@@ -29,7 +28,11 @@
         "classroom": "A208"
       }
     ],
-    "professor_id": 147101
+    "professor_id": 147101,
+    "first_name": "Salvador",
+    "last_name": "Salinas Telesforo",
+    "rating": 7.6,
+    "num_ratings": 5
   },
   {
     "code": "2601",
@@ -44,8 +47,7 @@
         ],
         "classroom": "A208"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "2601",
@@ -60,7 +62,6 @@
         ],
         "classroom": "SIN"
       }
-    ],
-    "professor_id": null
+    ]
   }
 ]

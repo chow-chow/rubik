@@ -14,7 +14,11 @@
         "classroom": "B403"
       }
     ],
-    "professor_id": 124070
+    "professor_id": 124070,
+    "first_name": "Juan Pablo",
+    "last_name": "Aguirre Díaz",
+    "rating": 9.5556,
+    "num_ratings": 9
   },
   {
     "code": "2708",
@@ -30,7 +34,6 @@
         ],
         "classroom": "A401"
       }
-    ],
-    "professor_id": null
+    ]
   }
 ]

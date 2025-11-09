@@ -20,7 +20,11 @@
         "classroom": "R029"
       }
     ],
-    "professor_id": 141820
+    "professor_id": 141820,
+    "first_name": "Roberto",
+    "last_name": "Ascencio Villagómez",
+    "rating": 5.5,
+    "num_ratings": 2
   },
   {
     "code": "1647",
@@ -42,8 +46,7 @@
         ],
         "classroom": "R029"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1647",
@@ -65,7 +68,6 @@
         ],
         "classroom": "R029"
       }
-    ],
-    "professor_id": null
+    ]
   }
 ]

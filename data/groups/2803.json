@@ -13,7 +13,11 @@
         "classroom": "A304"
       }
     ],
-    "professor_id": 175457
+    "professor_id": 175457,
+    "first_name": "Guillermo Luis Lauro",
+    "last_name": "Esquivel Castañeda",
+    "rating": 5.3333,
+    "num_ratings": 3
   },
   {
     "code": "2803",
@@ -28,8 +32,7 @@
         ],
         "classroom": "A212"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "2803",
@@ -44,8 +47,7 @@
         ],
         "classroom": "R005"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "2803",
@@ -61,7 +63,11 @@
         "classroom": "A204"
       }
     ],
-    "professor_id": 104937
+    "professor_id": 104937,
+    "first_name": "GUILLERMO",
+    "last_name": "MANCILLA URREA",
+    "rating": 8.2105,
+    "num_ratings": 19
   },
   {
     "code": "2803",
@@ -77,6 +83,10 @@
         "classroom": "A307"
       }
     ],
-    "professor_id": 146711
+    "professor_id": 146711,
+    "first_name": "ALEJANDRO JOSE",
+    "last_name": "LEO VARGAS",
+    "rating": 4.8333,
+    "num_ratings": 6
   }
 ]

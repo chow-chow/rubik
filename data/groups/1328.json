@@ -20,7 +20,11 @@
         "classroom": "H002"
       }
     ],
-    "professor_id": 125810
+    "professor_id": 125810,
+    "first_name": "Cynthia",
+    "last_name": "Miranda",
+    "rating": 6.0,
+    "num_ratings": 4
   },
   {
     "code": "1328",
@@ -42,7 +46,6 @@
         ],
         "classroom": "H002"
       }
-    ],
-    "professor_id": null
+    ]
   }
 ]

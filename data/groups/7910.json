@@ -11,8 +11,7 @@
         ],
         "classroom": "P001"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "7910",
@@ -27,7 +26,11 @@
         "classroom": "P001"
       }
     ],
-    "professor_id": 112607
+    "professor_id": 112607,
+    "first_name": "Gloria",
+    "last_name": "Correa Palacios",
+    "rating": 5.8261,
+    "num_ratings": 23
   },
   {
     "code": "7910",
@@ -41,7 +44,6 @@
         ],
         "classroom": "P001"
       }
-    ],
-    "professor_id": null
+    ]
   }
 ]

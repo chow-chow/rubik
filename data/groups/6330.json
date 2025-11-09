@@ -12,7 +12,11 @@
         "classroom": "G002"
       }
     ],
-    "professor_id": 82820
+    "professor_id": 82820,
+    "first_name": "Lucia Yazmín",
+    "last_name": "Juárez de la Mora",
+    "rating": 6.5778,
+    "num_ratings": 45
   },
   {
     "code": "6330",
@@ -27,7 +31,11 @@
         "classroom": "G002"
       }
     ],
-    "professor_id": 90126
+    "professor_id": 90126,
+    "first_name": "Diana",
+    "last_name": "Zaragoza Zuñiga",
+    "rating": 9.0,
+    "num_ratings": 16
   },
   {
     "code": "6330",
@@ -42,7 +50,11 @@
         "classroom": "G002"
       }
     ],
-    "professor_id": 82820
+    "professor_id": 82820,
+    "first_name": "Lucia Yazmín",
+    "last_name": "Juárez de la Mora",
+    "rating": 6.5778,
+    "num_ratings": 45
   },
   {
     "code": "6330",
@@ -57,7 +69,11 @@
         "classroom": "G002"
       }
     ],
-    "professor_id": 101486
+    "professor_id": 101486,
+    "first_name": "Alfonso",
+    "last_name": "Palacios Muñoz",
+    "rating": 9.0,
+    "num_ratings": 21
   },
   {
     "code": "6330",
@@ -72,7 +88,11 @@
         "classroom": "G002"
       }
     ],
-    "professor_id": 71883
+    "professor_id": 71883,
+    "first_name": "Maria Elizabeth",
+    "last_name": "Esquivel Rodriguez",
+    "rating": 7.5,
+    "num_ratings": 28
   },
   {
     "code": "6330",
@@ -86,8 +106,7 @@
         ],
         "classroom": "G002"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "6330",
@@ -102,7 +121,11 @@
         "classroom": "G002"
       }
     ],
-    "professor_id": 90126
+    "professor_id": 90126,
+    "first_name": "Diana",
+    "last_name": "Zaragoza Zuñiga",
+    "rating": 9.0,
+    "num_ratings": 16
   },
   {
     "code": "6330",
@@ -117,7 +140,11 @@
         "classroom": "G002"
       }
     ],
-    "professor_id": 101486
+    "professor_id": 101486,
+    "first_name": "Alfonso",
+    "last_name": "Palacios Muñoz",
+    "rating": 9.0,
+    "num_ratings": 21
   },
   {
     "code": "6330",
@@ -132,7 +159,11 @@
         "classroom": "G002"
       }
     ],
-    "professor_id": 82820
+    "professor_id": 82820,
+    "first_name": "Lucia Yazmín",
+    "last_name": "Juárez de la Mora",
+    "rating": 6.5778,
+    "num_ratings": 45
   },
   {
     "code": "6330",
@@ -147,7 +178,11 @@
         "classroom": "G002"
       }
     ],
-    "professor_id": 46452
+    "professor_id": 46452,
+    "first_name": "Vianey",
+    "last_name": "Franco García",
+    "rating": 7.1053,
+    "num_ratings": 19
   },
   {
     "code": "6330",
@@ -161,7 +196,6 @@
         ],
         "classroom": "G002"
       }
-    ],
-    "professor_id": null
+    ]
   }
 ]

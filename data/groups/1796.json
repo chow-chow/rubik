@@ -11,8 +11,7 @@
         ],
         "classroom": "A102"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1796",
@@ -26,8 +25,7 @@
         ],
         "classroom": "A103"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1796",
@@ -41,8 +39,7 @@
         ],
         "classroom": "A101"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1796",
@@ -57,7 +54,11 @@
         "classroom": "A101"
       }
     ],
-    "professor_id": 104858
+    "professor_id": 104858,
+    "first_name": "Ing. Guillermina",
+    "last_name": "Perez Duran",
+    "rating": 8.7619,
+    "num_ratings": 21
   },
   {
     "code": "1796",
@@ -71,8 +72,7 @@
         ],
         "classroom": "A103"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1796",
@@ -87,7 +87,11 @@
         "classroom": "A104"
       }
     ],
-    "professor_id": 156753
+    "professor_id": 156753,
+    "first_name": "Diego Javier",
+    "last_name": "Santamaría Nájera",
+    "rating": 10.0,
+    "num_ratings": 5
   },
   {
     "code": "1796",
@@ -102,7 +106,11 @@
         "classroom": "A108"
       }
     ],
-    "professor_id": 140654
+    "professor_id": 140654,
+    "first_name": "Zaira Linette",
+    "last_name": "Torres Cortés",
+    "rating": 8.35,
+    "num_ratings": 20
   },
   {
     "code": "1796",
@@ -116,8 +124,7 @@
         ],
         "classroom": "A108"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1796",
@@ -131,8 +138,7 @@
         ],
         "classroom": "A202"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1796",
@@ -147,6 +153,10 @@
         "classroom": "A202"
       }
     ],
-    "professor_id": 142495
+    "professor_id": 142495,
+    "first_name": "Angélica Araceli",
+    "last_name": "Ponce Nava Araiza",
+    "rating": 10.0,
+    "num_ratings": 3
   }
 ]

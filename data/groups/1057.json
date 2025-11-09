@@ -13,7 +13,11 @@
         "classroom": "B302"
       }
     ],
-    "professor_id": 105117
+    "professor_id": 105117,
+    "first_name": "Carlos",
+    "last_name": "Ayala Gomez",
+    "rating": 8.4444,
+    "num_ratings": 9
   },
   {
     "code": "1057",
@@ -29,7 +33,11 @@
         "classroom": "Y003"
       }
     ],
-    "professor_id": 172914
+    "professor_id": 172914,
+    "first_name": "Jaime",
+    "last_name": "Escamilla Rivera",
+    "rating": 10.0,
+    "num_ratings": 2
   },
   {
     "code": "1057",
@@ -44,7 +52,11 @@
         "classroom": "D002"
       }
     ],
-    "professor_id": 90128
+    "professor_id": 90128,
+    "first_name": "Luis Eduardo",
+    "last_name": "Ledesma Solano",
+    "rating": 9.5567,
+    "num_ratings": 203
   },
   {
     "code": "1057",
@@ -60,7 +72,11 @@
         "classroom": "EXTR"
       }
     ],
-    "professor_id": 124036
+    "professor_id": 124036,
+    "first_name": "ING. MARIA DEL CARMEN",
+    "last_name": "NAVARRETE SEVILLA",
+    "rating": 5.6667,
+    "num_ratings": 6
   },
   {
     "code": "1057",
@@ -76,6 +92,10 @@
         "classroom": "Y003"
       }
     ],
-    "professor_id": 172914
+    "professor_id": 172914,
+    "first_name": "Jaime",
+    "last_name": "Escamilla Rivera",
+    "rating": 10.0,
+    "num_ratings": 2
   }
 ]

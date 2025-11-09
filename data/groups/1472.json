@@ -13,7 +13,11 @@
         "classroom": "O006"
       }
     ],
-    "professor_id": 98813
+    "professor_id": 98813,
+    "first_name": "Miguel",
+    "last_name": "Serrano Reyes",
+    "rating": 9.2353,
+    "num_ratings": 17
   },
   {
     "code": "1472",
@@ -30,7 +34,11 @@
         "classroom": "EXTR"
       }
     ],
-    "professor_id": 75097
+    "professor_id": 75097,
+    "first_name": "Jorge Armando",
+    "last_name": "Rodríguez Vera",
+    "rating": 8.1923,
+    "num_ratings": 26
   },
   {
     "code": "1472",
@@ -46,7 +54,11 @@
         "classroom": "O006"
       }
     ],
-    "professor_id": 95120
+    "professor_id": 95120,
+    "first_name": "Maria Fernanda",
+    "last_name": "Morales Merino",
+    "rating": 5.5946,
+    "num_ratings": 37
   },
   {
     "code": "1472",
@@ -63,7 +75,11 @@
         "classroom": "O006"
       }
     ],
-    "professor_id": 124353
+    "professor_id": 124353,
+    "first_name": "Emiliano",
+    "last_name": "Nava Morales",
+    "rating": 5.0,
+    "num_ratings": 2
   },
   {
     "code": "1472",
@@ -79,8 +95,7 @@
         ],
         "classroom": "O006"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1472",
@@ -97,6 +112,10 @@
         "classroom": "O006"
       }
     ],
-    "professor_id": 173217
+    "professor_id": 173217,
+    "first_name": "Omar",
+    "last_name": "Pérez Romero",
+    "rating": 10.0,
+    "num_ratings": 2
   }
 ]

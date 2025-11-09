@@ -13,7 +13,11 @@
         "classroom": "P318"
       }
     ],
-    "professor_id": 86735
+    "professor_id": 86735,
+    "first_name": "Saúl",
+    "last_name": "de la Rosa Nieves",
+    "rating": 8.8,
+    "num_ratings": 15
   },
   {
     "code": "1010",
@@ -29,6 +33,10 @@
         "classroom": "B306"
       }
     ],
-    "professor_id": 99861
+    "professor_id": 99861,
+    "first_name": "Beatriz",
+    "last_name": "Eslava Arellanes",
+    "rating": 7.0909,
+    "num_ratings": 11
   }
 ]

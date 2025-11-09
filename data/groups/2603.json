@@ -13,7 +13,11 @@
         "classroom": "D002"
       }
     ],
-    "professor_id": 90646
+    "professor_id": 90646,
+    "first_name": "Osvaldo",
+    "last_name": "Ruiz Cervantes",
+    "rating": 5.35,
+    "num_ratings": 20
   },
   {
     "code": "2603",
@@ -29,7 +33,11 @@
         "classroom": "D001"
       }
     ],
-    "professor_id": 84383
+    "professor_id": 84383,
+    "first_name": "Juan Armando",
+    "last_name": "Ortiz Valera",
+    "rating": 6.6,
+    "num_ratings": 30
   },
   {
     "code": "2603",
@@ -45,7 +53,11 @@
         "classroom": "D001"
       }
     ],
-    "professor_id": 34837
+    "professor_id": 34837,
+    "first_name": "Armando",
+    "last_name": "Ortiz Prado",
+    "rating": 5.8333,
+    "num_ratings": 12
   },
   {
     "code": "2603",
@@ -60,8 +72,7 @@
         ],
         "classroom": "O101"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "2603",
@@ -77,6 +88,10 @@
         "classroom": "O101"
       }
     ],
-    "professor_id": 188267
+    "professor_id": 188267,
+    "first_name": "Pablo Eduardo",
+    "last_name": "Lira Velázquez",
+    "rating": 7.0,
+    "num_ratings": 2
   }
 ]

@@ -12,8 +12,7 @@
         ],
         "classroom": "A109"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1784",
@@ -29,7 +28,11 @@
         "classroom": "A109"
       }
     ],
-    "professor_id": 56184
+    "professor_id": 56184,
+    "first_name": "Liliana",
+    "last_name": "Flores Garcia",
+    "rating": 8.4146,
+    "num_ratings": 41
   },
   {
     "code": "1784",
@@ -43,8 +46,7 @@
         ],
         "classroom": "B104"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1784",
@@ -59,8 +61,7 @@
         ],
         "classroom": "DS11"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1784",
@@ -76,6 +77,10 @@
         "classroom": "O103"
       }
     ],
-    "professor_id": 99204
+    "professor_id": 99204,
+    "first_name": "José Antonio",
+    "last_name": "Rivera Colmenero",
+    "rating": 7.9,
+    "num_ratings": 10
   }
 ]

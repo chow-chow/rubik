@@ -14,7 +14,11 @@
         "classroom": "A402"
       }
     ],
-    "professor_id": 133440
+    "professor_id": 133440,
+    "first_name": "Cesar",
+    "last_name": "Sanchez Arriaga",
+    "rating": 8.8,
+    "num_ratings": 5
   },
   {
     "code": "1442",
@@ -30,7 +34,11 @@
         "classroom": "D007"
       }
     ],
-    "professor_id": 135138
+    "professor_id": 135138,
+    "first_name": "berenice",
+    "last_name": "Martinez Cabañas",
+    "rating": 7.4118,
+    "num_ratings": 17
   },
   {
     "code": "1442",
@@ -47,7 +55,11 @@
         "classroom": "C401"
       }
     ],
-    "professor_id": 114618
+    "professor_id": 114618,
+    "first_name": "EFRAÍN",
+    "last_name": "GARCIA ACEVEDO",
+    "rating": 6.125,
+    "num_ratings": 8
   },
   {
     "code": "1442",
@@ -63,7 +75,6 @@
         ],
         "classroom": "Y103"
       }
-    ],
-    "professor_id": null
+    ]
   }
 ]

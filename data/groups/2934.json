@@ -13,7 +13,11 @@
         "classroom": "A206"
       }
     ],
-    "professor_id": 75919
+    "professor_id": 75919,
+    "first_name": "CINTIA",
+    "last_name": "QUEZADA REYES",
+    "rating": 6.3596,
+    "num_ratings": 114
   },
   {
     "code": "2934",
@@ -29,7 +33,11 @@
         "classroom": "SIN"
       }
     ],
-    "professor_id": 149586
+    "professor_id": 149586,
+    "first_name": "Dulce",
+    "last_name": "Campos del Razo",
+    "rating": 9.3333,
+    "num_ratings": 3
   },
   {
     "code": "2934",
@@ -43,7 +51,6 @@
         ],
         "classroom": "B106"
       }
-    ],
-    "professor_id": null
+    ]
   }
 ]

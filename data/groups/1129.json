@@ -12,7 +12,11 @@
         "classroom": "I201"
       }
     ],
-    "professor_id": 98611
+    "professor_id": 98611,
+    "first_name": "Silvina",
+    "last_name": "Hernández García",
+    "rating": 6.7143,
+    "num_ratings": 7
   },
   {
     "code": "1129",
@@ -27,7 +31,11 @@
         "classroom": "J106"
       }
     ],
-    "professor_id": 47499
+    "professor_id": 47499,
+    "first_name": "Juan",
+    "last_name": "Ursul Solanes",
+    "rating": 7.6,
+    "num_ratings": 25
   },
   {
     "code": "1129",
@@ -41,8 +49,7 @@
         ],
         "classroom": "I203"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1129",
@@ -56,8 +63,7 @@
         ],
         "classroom": "I106"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1129",
@@ -72,6 +78,10 @@
         "classroom": "I202"
       }
     ],
-    "professor_id": 84656
+    "professor_id": 84656,
+    "first_name": "Diego",
+    "last_name": "Nieto Fierro",
+    "rating": 9.8333,
+    "num_ratings": 6
   }
 ]

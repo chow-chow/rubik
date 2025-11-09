@@ -12,7 +12,11 @@
         "classroom": "C205"
       }
     ],
-    "professor_id": 162321
+    "professor_id": 162321,
+    "first_name": "ING. JUAN ANTONIO",
+    "last_name": "HERNANDEZ MARTINEZ",
+    "rating": 8.6667,
+    "num_ratings": 3
   },
   {
     "code": "1068",
@@ -28,7 +32,11 @@
         "classroom": "A402"
       }
     ],
-    "professor_id": 82781
+    "professor_id": 82781,
+    "first_name": "Daniel",
+    "last_name": "Marure Valdez",
+    "rating": 5.5455,
+    "num_ratings": 22
   },
   {
     "code": "1068",
@@ -51,7 +59,11 @@
         "classroom": "C205"
       }
     ],
-    "professor_id": 149603
+    "professor_id": 149603,
+    "first_name": "ERICK JAIR",
+    "last_name": "GORDILLO GUILLEN",
+    "rating": 8.2857,
+    "num_ratings": 7
   },
   {
     "code": "1068",
@@ -65,7 +77,6 @@
         ],
         "classroom": "C205"
       }
-    ],
-    "professor_id": null
+    ]
   }
 ]

@@ -13,7 +13,11 @@
         "classroom": "C106"
       }
     ],
-    "professor_id": 31343
+    "professor_id": 31343,
+    "first_name": "Juan",
+    "last_name": "Velazquez",
+    "rating": 8.1667,
+    "num_ratings": 6
   },
   {
     "code": "1142",
@@ -28,8 +32,7 @@
         ],
         "classroom": "D007"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1142",
@@ -44,8 +47,7 @@
         ],
         "classroom": "C404"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1142",
@@ -60,8 +62,7 @@
         ],
         "classroom": "C104"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1142",
@@ -76,7 +77,6 @@
         ],
         "classroom": "B406"
       }
-    ],
-    "professor_id": null
+    ]
   }
 ]

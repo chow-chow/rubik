@@ -13,7 +13,11 @@
         "classroom": "B303"
       }
     ],
-    "professor_id": 114508
+    "professor_id": 114508,
+    "first_name": "Arturo",
+    "last_name": "Ronquillo Arvizú",
+    "rating": 5.1,
+    "num_ratings": 10
   },
   {
     "code": "1807",
@@ -29,7 +33,11 @@
         "classroom": "O103"
       }
     ],
-    "professor_id": 154073
+    "professor_id": 154073,
+    "first_name": "Jose Luis",
+    "last_name": "Mendoza Soto",
+    "rating": 9.1667,
+    "num_ratings": 6
   },
   {
     "code": "1807",
@@ -51,6 +59,10 @@
         "classroom": "Y004"
       }
     ],
-    "professor_id": 132604
+    "professor_id": 132604,
+    "first_name": "Juan Mauricio",
+    "last_name": "Angeles Cervantes",
+    "rating": 4.0,
+    "num_ratings": 7
   }
 ]

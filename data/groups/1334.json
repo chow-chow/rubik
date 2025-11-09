@@ -20,8 +20,7 @@
         ],
         "classroom": "R032"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1334",
@@ -44,7 +43,11 @@
         "classroom": "R032"
       }
     ],
-    "professor_id": 99543
+    "professor_id": 99543,
+    "first_name": "Luis Bruno",
+    "last_name": "Garduño Castro",
+    "rating": 8.6,
+    "num_ratings": 5
   },
   {
     "code": "1334",
@@ -67,6 +70,10 @@
         "classroom": "R032"
       }
     ],
-    "professor_id": 99543
+    "professor_id": 99543,
+    "first_name": "Luis Bruno",
+    "last_name": "Garduño Castro",
+    "rating": 8.6,
+    "num_ratings": 5
   }
 ]

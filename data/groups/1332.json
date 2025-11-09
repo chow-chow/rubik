@@ -19,7 +19,11 @@
         "classroom": "SIN"
       }
     ],
-    "professor_id": 172904
+    "professor_id": 172904,
+    "first_name": "CINTHIA",
+    "last_name": "RODRIGUEZ MAYA",
+    "rating": 8.5,
+    "num_ratings": 2
   },
   {
     "code": "1332",
@@ -41,7 +45,11 @@
         "classroom": "P003"
       }
     ],
-    "professor_id": 64679
+    "professor_id": 64679,
+    "first_name": "Jorge Luis",
+    "last_name": "López García",
+    "rating": 8.4848,
+    "num_ratings": 66
   },
   {
     "code": "1332",
@@ -62,8 +70,7 @@
         ],
         "classroom": "P010"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1332",
@@ -85,7 +92,11 @@
         "classroom": "P003"
       }
     ],
-    "professor_id": 64679
+    "professor_id": 64679,
+    "first_name": "Jorge Luis",
+    "last_name": "López García",
+    "rating": 8.4848,
+    "num_ratings": 66
   },
   {
     "code": "1332",
@@ -107,7 +118,11 @@
         "classroom": "P003"
       }
     ],
-    "professor_id": 36976
+    "professor_id": 36976,
+    "first_name": "Patricia",
+    "last_name": "Del Valle Morales",
+    "rating": 7.3956,
+    "num_ratings": 91
   },
   {
     "code": "1332",
@@ -129,7 +144,11 @@
         "classroom": "Q007"
       }
     ],
-    "professor_id": 187681
+    "professor_id": 187681,
+    "first_name": "ING. JESSICA",
+    "last_name": "ROJAS SERRANO",
+    "rating": 9.6667,
+    "num_ratings": 3
   },
   {
     "code": "1332",
@@ -150,8 +169,7 @@
         ],
         "classroom": "P003"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1332",
@@ -173,7 +191,11 @@
         "classroom": "P003"
       }
     ],
-    "professor_id": 162200
+    "professor_id": 162200,
+    "first_name": "YOVANNI",
+    "last_name": "ALVAREZ ULLOA",
+    "rating": 9.2941,
+    "num_ratings": 17
   },
   {
     "code": "1332",
@@ -195,6 +217,10 @@
         "classroom": "P003"
       }
     ],
-    "professor_id": 172904
+    "professor_id": 172904,
+    "first_name": "CINTHIA",
+    "last_name": "RODRIGUEZ MAYA",
+    "rating": 8.5,
+    "num_ratings": 2
   }
 ]

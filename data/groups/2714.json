@@ -13,7 +13,11 @@
         "classroom": "A401"
       }
     ],
-    "professor_id": 175543
+    "professor_id": 175543,
+    "first_name": "Jorge",
+    "last_name": "Prado Morales",
+    "rating": 7.8333,
+    "num_ratings": 6
   },
   {
     "code": "2714",
@@ -28,8 +32,7 @@
         ],
         "classroom": "A401"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "2714",
@@ -45,7 +48,11 @@
         "classroom": "A401"
       }
     ],
-    "professor_id": 175543
+    "professor_id": 175543,
+    "first_name": "Jorge",
+    "last_name": "Prado Morales",
+    "rating": 7.8333,
+    "num_ratings": 6
   },
   {
     "code": "2714",
@@ -66,7 +73,6 @@
         ],
         "classroom": "A310"
       }
-    ],
-    "professor_id": null
+    ]
   }
 ]

@@ -12,8 +12,7 @@
         ],
         "classroom": "B306"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1643",
@@ -29,7 +28,11 @@
         "classroom": "Y001"
       }
     ],
-    "professor_id": 113856
+    "professor_id": 113856,
+    "first_name": "Orlando",
+    "last_name": "Zaldivar Esquivel",
+    "rating": 9.2,
+    "num_ratings": 35
   },
   {
     "code": "1643",
@@ -45,7 +48,11 @@
         "classroom": "DS01"
       }
     ],
-    "professor_id": 114130
+    "professor_id": 114130,
+    "first_name": "ING. CLAUDIA ANGELICA",
+    "last_name": "CORDERO HIDALGO",
+    "rating": 7.1579,
+    "num_ratings": 19
   },
   {
     "code": "1643",
@@ -60,8 +67,7 @@
         ],
         "classroom": "A201"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1643",
@@ -76,7 +82,11 @@
         "classroom": "Y002"
       }
     ],
-    "professor_id": 113856
+    "professor_id": 113856,
+    "first_name": "Orlando",
+    "last_name": "Zaldivar Esquivel",
+    "rating": 9.2,
+    "num_ratings": 35
   },
   {
     "code": "1643",
@@ -90,8 +100,7 @@
         ],
         "classroom": "A301"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1643",
@@ -106,7 +115,6 @@
         ],
         "classroom": "B205"
       }
-    ],
-    "professor_id": null
+    ]
   }
 ]

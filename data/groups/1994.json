@@ -12,7 +12,11 @@
         "classroom": "J205"
       }
     ],
-    "professor_id": 95130
+    "professor_id": 95130,
+    "first_name": "IRMA DEL CARMEN",
+    "last_name": "GLINZ FEREZ",
+    "rating": 10.0,
+    "num_ratings": 4
   },
   {
     "code": "1994",
@@ -28,6 +32,10 @@
         "classroom": "D007"
       }
     ],
-    "professor_id": 90530
+    "professor_id": 90530,
+    "first_name": "Víctor Juan",
+    "last_name": "López Hernández",
+    "rating": 7.3333,
+    "num_ratings": 3
   }
 ]

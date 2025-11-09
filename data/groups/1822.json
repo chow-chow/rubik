@@ -14,7 +14,11 @@
         "classroom": "B205"
       }
     ],
-    "professor_id": 104675
+    "professor_id": 104675,
+    "first_name": "LAURO",
+    "last_name": "SANTIAGO CRUZ",
+    "rating": 5.4634,
+    "num_ratings": 41
   },
   {
     "code": "1822",
@@ -31,7 +35,11 @@
         "classroom": "B305"
       }
     ],
-    "professor_id": 95201
+    "professor_id": 95201,
+    "first_name": "Jesus",
+    "last_name": "Alvarez Castillo (El chango)",
+    "rating": 4.7368,
+    "num_ratings": 19
   },
   {
     "code": "1822",
@@ -47,7 +55,11 @@
         "classroom": "B101"
       }
     ],
-    "professor_id": 99064
+    "professor_id": 99064,
+    "first_name": "Francisco Javier",
+    "last_name": "Martinez Rodriguez",
+    "rating": 4.6316,
+    "num_ratings": 38
   },
   {
     "code": "1822",
@@ -63,7 +75,11 @@
         "classroom": "D004"
       }
     ],
-    "professor_id": 86746
+    "professor_id": 86746,
+    "first_name": "Eliseo",
+    "last_name": "Díaz Nacar",
+    "rating": 7.7895,
+    "num_ratings": 19
   },
   {
     "code": "1822",
@@ -78,7 +94,6 @@
         ],
         "classroom": "B305"
       }
-    ],
-    "professor_id": null
+    ]
   }
 ]

@@ -12,7 +12,11 @@
         "classroom": "B302"
       }
     ],
-    "professor_id": 113002
+    "professor_id": 113002,
+    "first_name": "Eric Adrián",
+    "last_name": "Tejada Malpica",
+    "rating": 8.1176,
+    "num_ratings": 17
   },
   {
     "code": "1225",
@@ -27,7 +31,11 @@
         "classroom": "B302"
       }
     ],
-    "professor_id": 113002
+    "professor_id": 113002,
+    "first_name": "Eric Adrián",
+    "last_name": "Tejada Malpica",
+    "rating": 8.1176,
+    "num_ratings": 17
   },
   {
     "code": "1225",
@@ -42,7 +50,11 @@
         "classroom": "D001"
       }
     ],
-    "professor_id": 84383
+    "professor_id": 84383,
+    "first_name": "Juan Armando",
+    "last_name": "Ortiz Valera",
+    "rating": 6.6,
+    "num_ratings": 30
   },
   {
     "code": "1225",
@@ -57,7 +69,11 @@
         "classroom": "A109"
       }
     ],
-    "professor_id": 51610
+    "professor_id": 51610,
+    "first_name": "Martin Ing.",
+    "last_name": "Reyes Farias",
+    "rating": 5.5588,
+    "num_ratings": 34
   },
   {
     "code": "1225",
@@ -72,7 +88,11 @@
         "classroom": "D001"
       }
     ],
-    "professor_id": 84383
+    "professor_id": 84383,
+    "first_name": "Juan Armando",
+    "last_name": "Ortiz Valera",
+    "rating": 6.6,
+    "num_ratings": 30
   },
   {
     "code": "1225",
@@ -87,7 +107,11 @@
         "classroom": "D001"
       }
     ],
-    "professor_id": 84383
+    "professor_id": 84383,
+    "first_name": "Juan Armando",
+    "last_name": "Ortiz Valera",
+    "rating": 6.6,
+    "num_ratings": 30
   },
   {
     "code": "1225",
@@ -102,7 +126,11 @@
         "classroom": "D002"
       }
     ],
-    "professor_id": 87021
+    "professor_id": 87021,
+    "first_name": "Jose Javier",
+    "last_name": "Cervantes Cabello",
+    "rating": 5.2917,
+    "num_ratings": 24
   },
   {
     "code": "1225",
@@ -117,7 +145,11 @@
         "classroom": "A311"
       }
     ],
-    "professor_id": 142033
+    "professor_id": 142033,
+    "first_name": "Ing. Maricarmen",
+    "last_name": "Guillen Mandujano",
+    "rating": 8.2667,
+    "num_ratings": 15
   },
   {
     "code": "1225",
@@ -132,7 +164,11 @@
         "classroom": "B301"
       }
     ],
-    "professor_id": 124462
+    "professor_id": 124462,
+    "first_name": "ROGELIO DARIO",
+    "last_name": "GUTIERREZ",
+    "rating": 5.6,
+    "num_ratings": 15
   },
   {
     "code": "1225",
@@ -147,7 +183,11 @@
         "classroom": "B301"
       }
     ],
-    "professor_id": 87021
+    "professor_id": 87021,
+    "first_name": "Jose Javier",
+    "last_name": "Cervantes Cabello",
+    "rating": 5.2917,
+    "num_ratings": 24
   },
   {
     "code": "1225",
@@ -162,6 +202,10 @@
         "classroom": "O002"
       }
     ],
-    "professor_id": 188267
+    "professor_id": 188267,
+    "first_name": "Pablo Eduardo",
+    "last_name": "Lira Velázquez",
+    "rating": 7.0,
+    "num_ratings": 2
   }
 ]

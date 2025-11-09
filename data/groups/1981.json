@@ -12,8 +12,7 @@
         ],
         "classroom": "C401"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1981",
@@ -30,7 +29,11 @@
         "classroom": "D007"
       }
     ],
-    "professor_id": 134744
+    "professor_id": 134744,
+    "first_name": "Humberto",
+    "last_name": "Santos Rios",
+    "rating": 6.9375,
+    "num_ratings": 16
   },
   {
     "code": "1981",
@@ -47,6 +50,10 @@
         "classroom": "B406"
       }
     ],
-    "professor_id": 114618
+    "professor_id": 114618,
+    "first_name": "EFRAÍN",
+    "last_name": "GARCIA ACEVEDO",
+    "rating": 6.125,
+    "num_ratings": 8
   }
 ]

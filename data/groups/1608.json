@@ -13,7 +13,11 @@
         "classroom": "Y203"
       }
     ],
-    "professor_id": 141799
+    "professor_id": 141799,
+    "first_name": "Pedro Luis",
+    "last_name": "Barrera del Campo Olavarrieta",
+    "rating": 9.5,
+    "num_ratings": 4
   },
   {
     "code": "1608",
@@ -29,7 +33,11 @@
         "classroom": "Y203"
       }
     ],
-    "professor_id": 141799
+    "professor_id": 141799,
+    "first_name": "Pedro Luis",
+    "last_name": "Barrera del Campo Olavarrieta",
+    "rating": 9.5,
+    "num_ratings": 4
   },
   {
     "code": "1608",
@@ -44,8 +52,7 @@
         ],
         "classroom": "A304"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1608",
@@ -60,8 +67,7 @@
         ],
         "classroom": "A208"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1608",
@@ -76,7 +82,6 @@
         ],
         "classroom": "A208"
       }
-    ],
-    "professor_id": null
+    ]
   }
 ]

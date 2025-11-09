@@ -12,8 +12,7 @@
         ],
         "classroom": "DS11"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "2916",
@@ -28,8 +27,7 @@
         ],
         "classroom": "A106"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "2916",
@@ -44,8 +42,7 @@
         ],
         "classroom": "U306"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "2916",
@@ -61,6 +58,10 @@
         "classroom": "A106"
       }
     ],
-    "professor_id": 118842
+    "professor_id": 118842,
+    "first_name": "Jesús Antonio",
+    "last_name": "Contreras Ramírez",
+    "rating": 5.6774,
+    "num_ratings": 31
   }
 ]

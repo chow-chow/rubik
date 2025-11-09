@@ -14,7 +14,11 @@
         "classroom": "A307"
       }
     ],
-    "professor_id": 175830
+    "professor_id": 175830,
+    "first_name": "AMALIA ADRIANA",
+    "last_name": "CAFAGGI FELIX",
+    "rating": 8.2857,
+    "num_ratings": 7
   },
   {
     "code": "1402",
@@ -31,7 +35,11 @@
         "classroom": "A207"
       }
     ],
-    "professor_id": 135259
+    "professor_id": 135259,
+    "first_name": "Jesús",
+    "last_name": "Gallegos Silva",
+    "rating": 6.5,
+    "num_ratings": 4
   },
   {
     "code": "1402",
@@ -48,7 +56,11 @@
         "classroom": "A212"
       }
     ],
-    "professor_id": 20638
+    "professor_id": 20638,
+    "first_name": "Luis",
+    "last_name": "Hernandez",
+    "rating": 7.75,
+    "num_ratings": 16
   },
   {
     "code": "1402",
@@ -64,8 +76,7 @@
         ],
         "classroom": "A106"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1402",
@@ -82,7 +93,11 @@
         "classroom": "A204"
       }
     ],
-    "professor_id": 92973
+    "professor_id": 92973,
+    "first_name": "Lilia",
+    "last_name": "Reyes",
+    "rating": 5.0,
+    "num_ratings": 21
   },
   {
     "code": "1402",
@@ -98,8 +113,7 @@
         ],
         "classroom": "B402"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1402",
@@ -115,7 +129,11 @@
         "classroom": "A212"
       }
     ],
-    "professor_id": 95094
+    "professor_id": 95094,
+    "first_name": "Nikte",
+    "last_name": "Ocampo Guerrero",
+    "rating": 8.2742,
+    "num_ratings": 62
   },
   {
     "code": "1402",
@@ -130,7 +148,6 @@
         ],
         "classroom": "A209"
       }
-    ],
-    "professor_id": null
+    ]
   }
 ]

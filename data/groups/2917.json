@@ -12,7 +12,11 @@
         "classroom": "EXTR"
       }
     ],
-    "professor_id": 178387
+    "professor_id": 178387,
+    "first_name": "Veronica",
+    "last_name": "Olvera Rodriguez",
+    "rating": 9.1667,
+    "num_ratings": 6
   },
   {
     "code": "2917",
@@ -26,8 +30,7 @@
         ],
         "classroom": "EXTR"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "2917",
@@ -42,7 +45,11 @@
         "classroom": "EXTR"
       }
     ],
-    "professor_id": 120294
+    "professor_id": 120294,
+    "first_name": "Susana Casy",
+    "last_name": "Tellez Ballesteros",
+    "rating": 9.5,
+    "num_ratings": 6
   },
   {
     "code": "2917",
@@ -56,8 +63,7 @@
         ],
         "classroom": "EXTR"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "2917",
@@ -71,8 +77,7 @@
         ],
         "classroom": "EXTR"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "2917",
@@ -87,8 +92,7 @@
         ],
         "classroom": "EXTR"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "2917",
@@ -103,7 +107,11 @@
         "classroom": "EXTR"
       }
     ],
-    "professor_id": 141771
+    "professor_id": 141771,
+    "first_name": "Victor Hugo",
+    "last_name": "Torres Aguilar",
+    "rating": 6.8462,
+    "num_ratings": 13
   },
   {
     "code": "2917",
@@ -118,7 +126,11 @@
         "classroom": "EXTR"
       }
     ],
-    "professor_id": 142293
+    "professor_id": 142293,
+    "first_name": "Ricardo",
+    "last_name": "Torres Mendoza",
+    "rating": 9.2,
+    "num_ratings": 5
   },
   {
     "code": "2917",
@@ -133,7 +145,11 @@
         "classroom": "EXTR"
       }
     ],
-    "professor_id": 84656
+    "professor_id": 84656,
+    "first_name": "Diego",
+    "last_name": "Nieto Fierro",
+    "rating": 9.8333,
+    "num_ratings": 6
   },
   {
     "code": "2917",
@@ -147,8 +163,7 @@
         ],
         "classroom": "EXTR"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "2917",
@@ -163,7 +178,11 @@
         "classroom": "EXTR"
       }
     ],
-    "professor_id": 84733
+    "professor_id": 84733,
+    "first_name": "Wulfrano",
+    "last_name": "Gomez Gallardo",
+    "rating": 6.1667,
+    "num_ratings": 12
   },
   {
     "code": "2917",
@@ -178,7 +197,11 @@
         "classroom": "EXTR"
       }
     ],
-    "professor_id": 56349
+    "professor_id": 56349,
+    "first_name": "Heriberto",
+    "last_name": "García Ledezma",
+    "rating": 7.25,
+    "num_ratings": 36
   },
   {
     "code": "2917",
@@ -192,7 +215,6 @@
         ],
         "classroom": "EXTR"
       }
-    ],
-    "professor_id": null
+    ]
   }
 ]

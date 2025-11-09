@@ -12,8 +12,7 @@
         ],
         "classroom": "D009"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1989",
@@ -28,8 +27,7 @@
         ],
         "classroom": "A401"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1989",
@@ -44,7 +42,11 @@
         "classroom": "C205"
       }
     ],
-    "professor_id": 162321
+    "professor_id": 162321,
+    "first_name": "ING. JUAN ANTONIO",
+    "last_name": "HERNANDEZ MARTINEZ",
+    "rating": 8.6667,
+    "num_ratings": 3
   },
   {
     "code": "1989",
@@ -58,8 +60,7 @@
         ],
         "classroom": "C205"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1989",
@@ -80,7 +81,6 @@
         ],
         "classroom": "A401"
       }
-    ],
-    "professor_id": null
+    ]
   }
 ]

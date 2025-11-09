@@ -12,7 +12,11 @@
         "classroom": "P215"
       }
     ],
-    "professor_id": 58672
+    "professor_id": 58672,
+    "first_name": "Julia",
+    "last_name": "Vazquez Fuentes",
+    "rating": 4.4359,
+    "num_ratings": 39
   },
   {
     "code": "6562",
@@ -27,7 +31,11 @@
         "classroom": "P215"
       }
     ],
-    "professor_id": 95374
+    "professor_id": 95374,
+    "first_name": "JULIO",
+    "last_name": "SERRANO VILLEGAS",
+    "rating": 9.0588,
+    "num_ratings": 17
   },
   {
     "code": "6562",
@@ -42,7 +50,11 @@
         "classroom": "P215"
       }
     ],
-    "professor_id": 95374
+    "professor_id": 95374,
+    "first_name": "JULIO",
+    "last_name": "SERRANO VILLEGAS",
+    "rating": 9.0588,
+    "num_ratings": 17
   },
   {
     "code": "6562",
@@ -57,7 +69,11 @@
         "classroom": "P215"
       }
     ],
-    "professor_id": 134274
+    "professor_id": 134274,
+    "first_name": "Martha Isela",
+    "last_name": "Torres Hernández",
+    "rating": 9.3571,
+    "num_ratings": 14
   },
   {
     "code": "6562",
@@ -72,7 +88,11 @@
         "classroom": "P215"
       }
     ],
-    "professor_id": 134274
+    "professor_id": 134274,
+    "first_name": "Martha Isela",
+    "last_name": "Torres Hernández",
+    "rating": 9.3571,
+    "num_ratings": 14
   },
   {
     "code": "6562",
@@ -87,7 +107,11 @@
         "classroom": "P215"
       }
     ],
-    "professor_id": 83076
+    "professor_id": 83076,
+    "first_name": "Patricia",
+    "last_name": "Hong Cirion",
+    "rating": 7.125,
+    "num_ratings": 24
   },
   {
     "code": "6562",
@@ -102,7 +126,11 @@
         "classroom": "P215"
       }
     ],
-    "professor_id": 58672
+    "professor_id": 58672,
+    "first_name": "Julia",
+    "last_name": "Vazquez Fuentes",
+    "rating": 4.4359,
+    "num_ratings": 39
   },
   {
     "code": "6562",
@@ -117,7 +145,11 @@
         "classroom": "P215"
       }
     ],
-    "professor_id": 95190
+    "professor_id": 95190,
+    "first_name": "Juan Manuel",
+    "last_name": "Velasco Miranda",
+    "rating": 8.9091,
+    "num_ratings": 11
   },
   {
     "code": "6562",
@@ -132,7 +164,11 @@
         "classroom": "P215"
       }
     ],
-    "professor_id": 95374
+    "professor_id": 95374,
+    "first_name": "JULIO",
+    "last_name": "SERRANO VILLEGAS",
+    "rating": 9.0588,
+    "num_ratings": 17
   },
   {
     "code": "6562",
@@ -146,8 +182,7 @@
         ],
         "classroom": "P215"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "6562",
@@ -162,7 +197,11 @@
         "classroom": "P215"
       }
     ],
-    "professor_id": 95190
+    "professor_id": 95190,
+    "first_name": "Juan Manuel",
+    "last_name": "Velasco Miranda",
+    "rating": 8.9091,
+    "num_ratings": 11
   },
   {
     "code": "6562",
@@ -177,7 +216,11 @@
         "classroom": "P215"
       }
     ],
-    "professor_id": 74386
+    "professor_id": 74386,
+    "first_name": "Mauricio",
+    "last_name": "Ayala Hernandez",
+    "rating": 8.4286,
+    "num_ratings": 14
   },
   {
     "code": "6562",
@@ -191,8 +234,7 @@
         ],
         "classroom": "P215"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "6562",
@@ -206,8 +248,7 @@
         ],
         "classroom": "P215"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "6562",
@@ -222,7 +263,11 @@
         "classroom": "P215"
       }
     ],
-    "professor_id": 99901
+    "professor_id": 99901,
+    "first_name": "Edgar Baldemar",
+    "last_name": "Aguado Cruz",
+    "rating": 8.25,
+    "num_ratings": 28
   },
   {
     "code": "6562",
@@ -237,6 +282,10 @@
         "classroom": "P215"
       }
     ],
-    "professor_id": 99901
+    "professor_id": 99901,
+    "first_name": "Edgar Baldemar",
+    "last_name": "Aguado Cruz",
+    "rating": 8.25,
+    "num_ratings": 28
   }
 ]

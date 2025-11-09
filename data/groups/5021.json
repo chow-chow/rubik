@@ -11,8 +11,7 @@
         ],
         "classroom": "DS07"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "5021",
@@ -27,7 +26,11 @@
         "classroom": "DS07"
       }
     ],
-    "professor_id": 134971
+    "professor_id": 134971,
+    "first_name": "Sonia Luisa",
+    "last_name": "López Maldonado",
+    "rating": 4.86,
+    "num_ratings": 7
   },
   {
     "code": "5021",
@@ -42,7 +45,11 @@
         "classroom": "DS07"
       }
     ],
-    "professor_id": 93961
+    "professor_id": 93961,
+    "first_name": "Omar  Rafael",
+    "last_name": "Rodriguez Guadarrama",
+    "rating": 7.1667,
+    "num_ratings": 6
   },
   {
     "code": "5021",
@@ -56,7 +63,6 @@
         ],
         "classroom": "DS07"
       }
-    ],
-    "professor_id": null
+    ]
   }
 ]

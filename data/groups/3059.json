@@ -13,7 +13,11 @@
         "classroom": "A405"
       }
     ],
-    "professor_id": 175457
+    "professor_id": 175457,
+    "first_name": "Guillermo Luis Lauro",
+    "last_name": "Esquivel Castañeda",
+    "rating": 5.3333,
+    "num_ratings": 3
   },
   {
     "code": "3059",
@@ -29,6 +33,10 @@
         "classroom": "A405"
       }
     ],
-    "professor_id": 175457
+    "professor_id": 175457,
+    "first_name": "Guillermo Luis Lauro",
+    "last_name": "Esquivel Castañeda",
+    "rating": 5.3333,
+    "num_ratings": 3
   }
 ]

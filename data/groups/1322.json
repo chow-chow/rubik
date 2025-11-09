@@ -13,7 +13,11 @@
         "classroom": "J111"
       }
     ],
-    "professor_id": 49791
+    "professor_id": 49791,
+    "first_name": "Manuel",
+    "last_name": "Ayala Martinez",
+    "rating": 4.6111,
+    "num_ratings": 18
   },
   {
     "code": "1322",
@@ -29,7 +33,11 @@
         "classroom": "I302"
       }
     ],
-    "professor_id": 82797
+    "professor_id": 82797,
+    "first_name": "Nicolás",
+    "last_name": "Rodríguez Carreón",
+    "rating": 9.6122,
+    "num_ratings": 49
   },
   {
     "code": "1322",
@@ -45,7 +53,11 @@
         "classroom": "I206"
       }
     ],
-    "professor_id": 70466
+    "professor_id": 70466,
+    "first_name": "Epifanio Oscar",
+    "last_name": "Carballar López",
+    "rating": 7.359,
+    "num_ratings": 39
   },
   {
     "code": "1322",
@@ -61,7 +73,11 @@
         "classroom": "J209"
       }
     ],
-    "professor_id": 84710
+    "professor_id": 84710,
+    "first_name": "Hugo German",
+    "last_name": "Serrano Miranda",
+    "rating": 5.9091,
+    "num_ratings": 22
   },
   {
     "code": "1322",
@@ -77,7 +93,11 @@
         "classroom": "Y101"
       }
     ],
-    "professor_id": 30241
+    "professor_id": 30241,
+    "first_name": "Ing. Joel",
+    "last_name": "Gomez",
+    "rating": 4.6087,
+    "num_ratings": 46
   },
   {
     "code": "1322",
@@ -92,7 +112,11 @@
         "classroom": "Y101"
       }
     ],
-    "professor_id": 115337
+    "professor_id": 115337,
+    "first_name": "Oscar",
+    "last_name": "Morales López",
+    "rating": 9.6842,
+    "num_ratings": 57
   },
   {
     "code": "1322",
@@ -107,8 +131,7 @@
         ],
         "classroom": "J207"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1322",
@@ -130,7 +153,11 @@
         "classroom": "J209"
       }
     ],
-    "professor_id": 58547
+    "professor_id": 58547,
+    "first_name": "Edgar Raymundo",
+    "last_name": "López Tellez",
+    "rating": 7.1159,
+    "num_ratings": 69
   },
   {
     "code": "1322",
@@ -146,7 +173,11 @@
         "classroom": "J201"
       }
     ],
-    "professor_id": 22035
+    "professor_id": 22035,
+    "first_name": "Juan",
+    "last_name": "Ocáriz Castelazo",
+    "rating": 8.6481,
+    "num_ratings": 162
   },
   {
     "code": "1322",
@@ -162,7 +193,11 @@
         "classroom": "J205"
       }
     ],
-    "professor_id": 22843
+    "professor_id": 22843,
+    "first_name": "Alfredo",
+    "last_name": "Arenas",
+    "rating": 7.3,
+    "num_ratings": 76
   },
   {
     "code": "1322",
@@ -178,7 +213,11 @@
         "classroom": "I206"
       }
     ],
-    "professor_id": 66464
+    "professor_id": 66464,
+    "first_name": "Diego Alberto",
+    "last_name": "Zavala Galicia",
+    "rating": 8.2,
+    "num_ratings": 90
   },
   {
     "code": "1322",
@@ -194,7 +233,11 @@
         "classroom": "J111"
       }
     ],
-    "professor_id": 105197
+    "professor_id": 105197,
+    "first_name": "RICARDO ARTURO",
+    "last_name": "PINZON AGUIRRE",
+    "rating": 9.0,
+    "num_ratings": 35
   },
   {
     "code": "1322",
@@ -210,7 +253,11 @@
         "classroom": "Y104"
       }
     ],
-    "professor_id": 95313
+    "professor_id": 95313,
+    "first_name": "Aban Alonso",
+    "last_name": "Moreno Aguilar",
+    "rating": 8.0,
+    "num_ratings": 9
   },
   {
     "code": "1322",
@@ -225,8 +272,7 @@
         ],
         "classroom": "J108"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1322",
@@ -242,7 +288,11 @@
         "classroom": "J209"
       }
     ],
-    "professor_id": 95313
+    "professor_id": 95313,
+    "first_name": "Aban Alonso",
+    "last_name": "Moreno Aguilar",
+    "rating": 8.0,
+    "num_ratings": 9
   },
   {
     "code": "1322",
@@ -264,7 +314,11 @@
         "classroom": "J101"
       }
     ],
-    "professor_id": 93946
+    "professor_id": 93946,
+    "first_name": "Alfredo Antonio",
+    "last_name": "Aguilar Castillo",
+    "rating": 7.7391,
+    "num_ratings": 23
   },
   {
     "code": "1322",
@@ -280,7 +334,11 @@
         "classroom": "EXTR"
       }
     ],
-    "professor_id": 115337
+    "professor_id": 115337,
+    "first_name": "Oscar",
+    "last_name": "Morales López",
+    "rating": 9.6842,
+    "num_ratings": 57
   },
   {
     "code": "1322",
@@ -296,6 +354,10 @@
         "classroom": "J105"
       }
     ],
-    "professor_id": 105197
+    "professor_id": 105197,
+    "first_name": "RICARDO ARTURO",
+    "last_name": "PINZON AGUIRRE",
+    "rating": 9.0,
+    "num_ratings": 35
   }
 ]

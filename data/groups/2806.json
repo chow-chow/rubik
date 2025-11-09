@@ -12,8 +12,7 @@
         ],
         "classroom": "O101"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "2806",
@@ -29,7 +28,11 @@
         "classroom": "B105"
       }
     ],
-    "professor_id": 74731
+    "professor_id": 74731,
+    "first_name": "Francisco",
+    "last_name": "Cuenca Jiménez",
+    "rating": 9.1905,
+    "num_ratings": 21
   },
   {
     "code": "2806",
@@ -45,7 +48,11 @@
         "classroom": "Y004"
       }
     ],
-    "professor_id": 108443
+    "professor_id": 108443,
+    "first_name": "José Antonio",
+    "last_name": "Silva Rico",
+    "rating": 10.0,
+    "num_ratings": 4
   },
   {
     "code": "2806",
@@ -61,6 +68,10 @@
         "classroom": "O103"
       }
     ],
-    "professor_id": 42619
+    "professor_id": 42619,
+    "first_name": "Emiliano",
+    "last_name": "Anguiano Rojas",
+    "rating": 4.0,
+    "num_ratings": 35
   }
 ]

@@ -12,8 +12,7 @@
         ],
         "classroom": "I106"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1125",
@@ -29,7 +28,11 @@
         "classroom": "I101"
       }
     ],
-    "professor_id": 128316
+    "professor_id": 128316,
+    "first_name": "Luis",
+    "last_name": "Peña Cruz",
+    "rating": 6.2727,
+    "num_ratings": 11
   },
   {
     "code": "1125",
@@ -44,8 +47,7 @@
         ],
         "classroom": "I101"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1125",
@@ -61,7 +63,11 @@
         "classroom": "I205"
       }
     ],
-    "professor_id": 98612
+    "professor_id": 98612,
+    "first_name": "Guillermo",
+    "last_name": "Pérez Quintero",
+    "rating": 8.6,
+    "num_ratings": 30
   },
   {
     "code": "1125",
@@ -77,7 +83,11 @@
         "classroom": "I104"
       }
     ],
-    "professor_id": 51350
+    "professor_id": 51350,
+    "first_name": "Ana Laura",
+    "last_name": "Pérez Martínez",
+    "rating": 7.2647,
+    "num_ratings": 34
   },
   {
     "code": "1125",
@@ -92,8 +102,7 @@
         ],
         "classroom": "I201"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1125",
@@ -109,7 +118,11 @@
         "classroom": "I205"
       }
     ],
-    "professor_id": 78549
+    "professor_id": 78549,
+    "first_name": "Martha Elena",
+    "last_name": "Alcantara Garduño",
+    "rating": 5.4737,
+    "num_ratings": 19
   },
   {
     "code": "1125",
@@ -125,7 +138,11 @@
         "classroom": "I203"
       }
     ],
-    "professor_id": 62945
+    "professor_id": 62945,
+    "first_name": "Gerardo",
+    "last_name": "Barón Sánchez",
+    "rating": 9.375,
+    "num_ratings": 16
   },
   {
     "code": "1125",
@@ -141,7 +158,11 @@
         "classroom": "I206"
       }
     ],
-    "professor_id": 75804
+    "professor_id": 75804,
+    "first_name": "Phaedra Suriel",
+    "last_name": "Silva Bermudez",
+    "rating": 8.17,
+    "num_ratings": 29
   },
   {
     "code": "1125",
@@ -163,7 +184,11 @@
         "classroom": "J211"
       }
     ],
-    "professor_id": 102860
+    "professor_id": 102860,
+    "first_name": "Alberto",
+    "last_name": "Sandoval Garcia",
+    "rating": 8.5909,
+    "num_ratings": 22
   },
   {
     "code": "1125",
@@ -178,7 +203,6 @@
         ],
         "classroom": "J201"
       }
-    ],
-    "professor_id": null
+    ]
   }
 ]

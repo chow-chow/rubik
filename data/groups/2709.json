@@ -13,7 +13,11 @@
         "classroom": "C402"
       }
     ],
-    "professor_id": 124069
+    "professor_id": 124069,
+    "first_name": "Martín",
+    "last_name": "Cardenas Soto",
+    "rating": 4.0,
+    "num_ratings": 2
   },
   {
     "code": "2709",
@@ -28,7 +32,6 @@
         ],
         "classroom": "A402"
       }
-    ],
-    "professor_id": null
+    ]
   }
 ]

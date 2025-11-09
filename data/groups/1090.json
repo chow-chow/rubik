@@ -19,8 +19,7 @@
         ],
         "classroom": "Y103"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1090",
@@ -43,7 +42,11 @@
         "classroom": "D007"
       }
     ],
-    "professor_id": 134744
+    "professor_id": 134744,
+    "first_name": "Humberto",
+    "last_name": "Santos Rios",
+    "rating": 6.9375,
+    "num_ratings": 16
   },
   {
     "code": "1090",
@@ -65,7 +68,6 @@
         ],
         "classroom": "D006"
       }
-    ],
-    "professor_id": null
+    ]
   }
 ]

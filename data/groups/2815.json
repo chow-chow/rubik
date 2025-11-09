@@ -13,7 +13,11 @@
         "classroom": "D006"
       }
     ],
-    "professor_id": 75933
+    "professor_id": 75933,
+    "first_name": "Miguel",
+    "last_name": "Enríquez Vargas",
+    "rating": 8.2727,
+    "num_ratings": 11
   },
   {
     "code": "2815",
@@ -28,7 +32,6 @@
         ],
         "classroom": "C402"
       }
-    ],
-    "professor_id": null
+    ]
   }
 ]

@@ -13,7 +13,11 @@
         "classroom": "B201"
       }
     ],
-    "professor_id": 108443
+    "professor_id": 108443,
+    "first_name": "José Antonio",
+    "last_name": "Silva Rico",
+    "rating": 10.0,
+    "num_ratings": 4
   },
   {
     "code": "1659",
@@ -29,7 +33,11 @@
         "classroom": "B105"
       }
     ],
-    "professor_id": 74731
+    "professor_id": 74731,
+    "first_name": "Francisco",
+    "last_name": "Cuenca Jiménez",
+    "rating": 9.1905,
+    "num_ratings": 21
   },
   {
     "code": "1659",
@@ -45,7 +53,11 @@
         "classroom": "O103"
       }
     ],
-    "professor_id": 124462
+    "professor_id": 124462,
+    "first_name": "ROGELIO DARIO",
+    "last_name": "GUTIERREZ",
+    "rating": 5.6,
+    "num_ratings": 15
   },
   {
     "code": "1659",
@@ -61,7 +73,11 @@
         "classroom": "B302"
       }
     ],
-    "professor_id": 105090
+    "professor_id": 105090,
+    "first_name": "Ricardo",
+    "last_name": "Yañez valdez",
+    "rating": 2.8571,
+    "num_ratings": 14
   },
   {
     "code": "1659",
@@ -77,6 +93,10 @@
         "classroom": "B303"
       }
     ],
-    "professor_id": 95428
+    "professor_id": 95428,
+    "first_name": "Epifanio",
+    "last_name": "Vargas Alcaraz",
+    "rating": 7.2963,
+    "num_ratings": 27
   }
 ]

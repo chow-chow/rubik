@@ -13,7 +13,11 @@
         "classroom": "C106"
       }
     ],
-    "professor_id": 142178
+    "professor_id": 142178,
+    "first_name": "Gerardo",
+    "last_name": "Cifuentes Nava",
+    "rating": 9.5,
+    "num_ratings": 2
   },
   {
     "code": "2605",
@@ -29,6 +33,10 @@
         "classroom": "B403"
       }
     ],
-    "professor_id": 124073
+    "professor_id": 124073,
+    "first_name": "Josue",
+    "last_name": "Tago Pacheco",
+    "rating": 8.6667,
+    "num_ratings": 6
   }
 ]

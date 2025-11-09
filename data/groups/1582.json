@@ -13,7 +13,11 @@
         "classroom": "C202"
       }
     ],
-    "professor_id": 90860
+    "professor_id": 90860,
+    "first_name": "Arnulfo",
+    "last_name": "Sánchez Valerio",
+    "rating": 9.3818,
+    "num_ratings": 55
   },
   {
     "code": "1582",
@@ -28,7 +32,6 @@
         ],
         "classroom": "C202"
       }
-    ],
-    "professor_id": null
+    ]
   }
 ]

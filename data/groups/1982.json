@@ -13,7 +13,11 @@
         "classroom": "C402"
       }
     ],
-    "professor_id": 75449
+    "professor_id": 75449,
+    "first_name": "Miguel Ángel",
+    "last_name": "López Carrillo",
+    "rating": 6.4714,
+    "num_ratings": 70
   },
   {
     "code": "1982",
@@ -28,7 +32,11 @@
         "classroom": "A205"
       }
     ],
-    "professor_id": 149600
+    "professor_id": 149600,
+    "first_name": "HORACIO ANDRES",
+    "last_name": "ORTEGA BENAVIDES",
+    "rating": 6.0,
+    "num_ratings": 5
   },
   {
     "code": "1982",
@@ -44,6 +52,10 @@
         "classroom": "D009"
       }
     ],
-    "professor_id": 78973
+    "professor_id": 78973,
+    "first_name": "Iván",
+    "last_name": "Guerrero Sarabia",
+    "rating": 6.1,
+    "num_ratings": 10
   }
 ]

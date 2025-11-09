@@ -13,8 +13,7 @@
         ],
         "classroom": "B404"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1644",
@@ -31,7 +30,11 @@
         "classroom": "B103"
       }
     ],
-    "professor_id": 79253
+    "professor_id": 79253,
+    "first_name": "Lucila Patricia",
+    "last_name": "Arellano Mendoza",
+    "rating": 6.8696,
+    "num_ratings": 46
   },
   {
     "code": "1644",
@@ -48,7 +51,11 @@
         "classroom": "B304"
       }
     ],
-    "professor_id": 27303
+    "professor_id": 27303,
+    "first_name": "Luciralia",
+    "last_name": "Hernandez Hernandez",
+    "rating": 6.0426,
+    "num_ratings": 47
   },
   {
     "code": "1644",
@@ -65,7 +72,11 @@
         "classroom": "A306"
       }
     ],
-    "professor_id": 114128
+    "professor_id": 114128,
+    "first_name": "ING. MARTHA",
+    "last_name": "LOPEZ PELCASTRE",
+    "rating": 8.0,
+    "num_ratings": 42
   },
   {
     "code": "1644",
@@ -81,8 +92,7 @@
         ],
         "classroom": "B304"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1644",
@@ -99,7 +109,11 @@
         "classroom": "B306"
       }
     ],
-    "professor_id": 124534
+    "professor_id": 124534,
+    "first_name": "DAVID RICARDO",
+    "last_name": "RUIZ REYES",
+    "rating": 7.5238,
+    "num_ratings": 21
   },
   {
     "code": "1644",
@@ -114,7 +128,6 @@
         ],
         "classroom": "A302"
       }
-    ],
-    "professor_id": null
+    ]
   }
 ]

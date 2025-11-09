@@ -12,8 +12,7 @@
         ],
         "classroom": "A206"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "3077",
@@ -29,6 +28,10 @@
         "classroom": "B301"
       }
     ],
-    "professor_id": 95794
+    "professor_id": 95794,
+    "first_name": "Jorge",
+    "last_name": "Chávez Briseño",
+    "rating": 7.75,
+    "num_ratings": 20
   }
 ]

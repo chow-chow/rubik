@@ -13,7 +13,11 @@
         "classroom": "A201"
       }
     ],
-    "professor_id": 108516
+    "professor_id": 108516,
+    "first_name": "Jorge Alberto",
+    "last_name": "Rodríguez Campos",
+    "rating": 8.3922,
+    "num_ratings": 51
   },
   {
     "code": "2929",
@@ -28,6 +32,10 @@
         "classroom": "Y002"
       }
     ],
-    "professor_id": 22143
+    "professor_id": 22143,
+    "first_name": "Gabriela Betzabé",
+    "last_name": "Lizárraga Ramírez",
+    "rating": 6.1395,
+    "num_ratings": 43
   }
 ]

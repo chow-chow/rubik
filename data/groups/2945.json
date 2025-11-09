@@ -12,8 +12,7 @@
         ],
         "classroom": "A201"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "2945",
@@ -29,7 +28,11 @@
         "classroom": "D004"
       }
     ],
-    "professor_id": 135119
+    "professor_id": 135119,
+    "first_name": "Juan Ángel",
+    "last_name": "Calvillo Pérez",
+    "rating": 8.9375,
+    "num_ratings": 16
   },
   {
     "code": "2945",
@@ -45,6 +48,10 @@
         "classroom": "B401"
       }
     ],
-    "professor_id": 173728
+    "professor_id": 173728,
+    "first_name": "Ángel",
+    "last_name": "Brito Segura",
+    "rating": 9.5,
+    "num_ratings": 2
   }
 ]

@@ -12,7 +12,11 @@
         "classroom": "C201"
       }
     ],
-    "professor_id": 101485
+    "professor_id": 101485,
+    "first_name": "Rosa de Jesús",
+    "last_name": "Hernández Álvarez",
+    "rating": 5.3333,
+    "num_ratings": 9
   },
   {
     "code": "1439",
@@ -28,7 +32,11 @@
         "classroom": "C201"
       }
     ],
-    "professor_id": 162321
+    "professor_id": 162321,
+    "first_name": "ING. JUAN ANTONIO",
+    "last_name": "HERNANDEZ MARTINEZ",
+    "rating": 8.6667,
+    "num_ratings": 3
   },
   {
     "code": "1439",
@@ -43,7 +51,6 @@
         ],
         "classroom": "C201"
       }
-    ],
-    "professor_id": null
+    ]
   }
 ]

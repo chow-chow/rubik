@@ -13,7 +13,11 @@
         "classroom": "D009"
       }
     ],
-    "professor_id": 74008
+    "professor_id": 74008,
+    "first_name": "Gaspar",
+    "last_name": "Franco hernandez",
+    "rating": 5.8462,
+    "num_ratings": 13
   },
   {
     "code": "1995",
@@ -27,8 +31,7 @@
         ],
         "classroom": "D009"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1995",
@@ -49,8 +52,7 @@
         ],
         "classroom": "Y103"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1995",
@@ -65,7 +67,6 @@
         ],
         "classroom": "B406"
       }
-    ],
-    "professor_id": null
+    ]
   }
 ]

@@ -13,7 +13,11 @@
         "classroom": "Y202"
       }
     ],
-    "professor_id": 84651
+    "professor_id": 84651,
+    "first_name": "Amparo",
+    "last_name": "Bañuelos Duran",
+    "rating": 6.7895,
+    "num_ratings": 19
   },
   {
     "code": "1445",
@@ -29,7 +33,11 @@
         "classroom": "J203"
       }
     ],
-    "professor_id": 84414
+    "professor_id": 84414,
+    "first_name": "Bertha Isabel",
+    "last_name": "Vega Galicia",
+    "rating": 8.8298,
+    "num_ratings": 47
   },
   {
     "code": "1445",
@@ -45,7 +53,11 @@
         "classroom": "J205"
       }
     ],
-    "professor_id": 66375
+    "professor_id": 66375,
+    "first_name": "Isabel Patricia",
+    "last_name": "Aguilar Juarez",
+    "rating": 8.1923,
+    "num_ratings": 26
   },
   {
     "code": "1445",
@@ -61,6 +73,10 @@
         "classroom": "I202"
       }
     ],
-    "professor_id": 45295
+    "professor_id": 45295,
+    "first_name": "Ann",
+    "last_name": "Wellens",
+    "rating": 6.5882,
+    "num_ratings": 17
   }
 ]

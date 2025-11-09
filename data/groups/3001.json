@@ -13,7 +13,11 @@
         "classroom": "DS01"
       }
     ],
-    "professor_id": 108660
+    "professor_id": 108660,
+    "first_name": "Leonid Fridman",
+    "last_name": "Goldreich",
+    "rating": 6.42,
+    "num_ratings": 12
   },
   {
     "code": "3001",
@@ -29,6 +33,10 @@
         "classroom": "A301"
       }
     ],
-    "professor_id": 28948
+    "professor_id": 28948,
+    "first_name": "Antonio",
+    "last_name": "Salva Calleja",
+    "rating": 9.1905,
+    "num_ratings": 21
   }
 ]

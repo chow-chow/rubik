@@ -13,7 +13,11 @@
         "classroom": "Y102"
       }
     ],
-    "professor_id": 84651
+    "professor_id": 84651,
+    "first_name": "Amparo",
+    "last_name": "Bañuelos Duran",
+    "rating": 6.7895,
+    "num_ratings": 19
   },
   {
     "code": "1337",
@@ -29,7 +33,11 @@
         "classroom": "I104"
       }
     ],
-    "professor_id": 162444
+    "professor_id": 162444,
+    "first_name": "Diana",
+    "last_name": "Soriano Fernández",
+    "rating": 7.4615,
+    "num_ratings": 13
   },
   {
     "code": "1337",
@@ -45,6 +53,10 @@
         "classroom": "J103"
       }
     ],
-    "professor_id": 162444
+    "professor_id": 162444,
+    "first_name": "Diana",
+    "last_name": "Soriano Fernández",
+    "rating": 7.4615,
+    "num_ratings": 13
   }
 ]

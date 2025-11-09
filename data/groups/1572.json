@@ -12,8 +12,7 @@
         ],
         "classroom": "C204"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1572",
@@ -29,7 +28,11 @@
         "classroom": "C304"
       }
     ],
-    "professor_id": 104921
+    "professor_id": 104921,
+    "first_name": "Ricardo Jose",
+    "last_name": "Padilla y Sanchez",
+    "rating": 8.2,
+    "num_ratings": 5
   },
   {
     "code": "1572",
@@ -44,7 +47,6 @@
         ],
         "classroom": "J200"
       }
-    ],
-    "professor_id": null
+    ]
   }
 ]

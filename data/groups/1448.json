@@ -20,7 +20,11 @@
         "classroom": "R029"
       }
     ],
-    "professor_id": 79822
+    "professor_id": 79822,
+    "first_name": "Roberto Rene",
+    "last_name": "Manzano Islas",
+    "rating": 8.4,
+    "num_ratings": 5
   },
   {
     "code": "1448",
@@ -43,7 +47,11 @@
         "classroom": "R029"
       }
     ],
-    "professor_id": 135313
+    "professor_id": 135313,
+    "first_name": "ALEJANDRA",
+    "last_name": "GUZMAN CORTEZ",
+    "rating": 7.3636,
+    "num_ratings": 11
   },
   {
     "code": "1448",
@@ -66,6 +74,10 @@
         "classroom": "R029"
       }
     ],
-    "professor_id": 135313
+    "professor_id": 135313,
+    "first_name": "ALEJANDRA",
+    "last_name": "GUZMAN CORTEZ",
+    "rating": 7.3636,
+    "num_ratings": 11
   }
 ]

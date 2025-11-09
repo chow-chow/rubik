@@ -18,8 +18,7 @@
         ],
         "classroom": "EXTR"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "2078",
@@ -34,8 +33,7 @@
         ],
         "classroom": "DS11"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "2078",
@@ -50,8 +48,7 @@
         ],
         "classroom": "N005"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "2078",
@@ -66,8 +63,7 @@
         ],
         "classroom": "EXTR"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "2078",
@@ -83,7 +79,11 @@
         "classroom": "Y004"
       }
     ],
-    "professor_id": 113818
+    "professor_id": 113818,
+    "first_name": "Francisco Javier",
+    "last_name": "Solorio Ordaz",
+    "rating": 7.8889,
+    "num_ratings": 9
   },
   {
     "code": "2078",
@@ -97,7 +97,6 @@
         ],
         "classroom": "EXTR"
       }
-    ],
-    "professor_id": null
+    ]
   }
 ]

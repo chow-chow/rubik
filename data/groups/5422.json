@@ -11,8 +11,7 @@
         ],
         "classroom": "P001"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "5422",
@@ -26,8 +25,7 @@
         ],
         "classroom": "P001"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "5422",
@@ -41,8 +39,7 @@
         ],
         "classroom": "P001"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "5422",
@@ -56,8 +53,7 @@
         ],
         "classroom": "P001"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "5422",
@@ -72,7 +68,11 @@
         "classroom": "P001"
       }
     ],
-    "professor_id": 109852
+    "professor_id": 109852,
+    "first_name": "Ricardo",
+    "last_name": "Garibay Jiménez",
+    "rating": 4.2,
+    "num_ratings": 10
   },
   {
     "code": "5422",
@@ -86,8 +86,7 @@
         ],
         "classroom": "P001"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "5422",
@@ -102,7 +101,11 @@
         "classroom": "P001"
       }
     ],
-    "professor_id": 112607
+    "professor_id": 112607,
+    "first_name": "Gloria",
+    "last_name": "Correa Palacios",
+    "rating": 5.8261,
+    "num_ratings": 23
   },
   {
     "code": "5422",
@@ -116,8 +119,7 @@
         ],
         "classroom": "P001"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "5422",
@@ -131,8 +133,7 @@
         ],
         "classroom": "P001"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "5422",
@@ -146,7 +147,6 @@
         ],
         "classroom": "P001"
       }
-    ],
-    "professor_id": null
+    ]
   }
 ]

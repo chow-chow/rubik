@@ -13,7 +13,11 @@
         "classroom": "C203"
       }
     ],
-    "professor_id": 23452
+    "professor_id": 23452,
+    "first_name": "José Luis",
+    "last_name": "Arcos Hernández",
+    "rating": 7.45,
+    "num_ratings": 40
   },
   {
     "code": "1575",
@@ -29,6 +33,10 @@
         "classroom": "C203"
       }
     ],
-    "professor_id": 89992
+    "professor_id": 89992,
+    "first_name": "Fernando",
+    "last_name": "Rosique Naranjo",
+    "rating": 6.25,
+    "num_ratings": 8
   }
 ]

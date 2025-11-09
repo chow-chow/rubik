@@ -13,7 +13,11 @@
         "classroom": "O006"
       }
     ],
-    "professor_id": 104481
+    "professor_id": 104481,
+    "first_name": "RICARDO FERNANDO",
+    "last_name": "ABELA POSADA",
+    "rating": 9.45,
+    "num_ratings": 20
   },
   {
     "code": "1964",
@@ -28,7 +32,11 @@
         "classroom": "O006"
       }
     ],
-    "professor_id": 98813
+    "professor_id": 98813,
+    "first_name": "Miguel",
+    "last_name": "Serrano Reyes",
+    "rating": 9.2353,
+    "num_ratings": 17
   },
   {
     "code": "1964",
@@ -44,7 +52,11 @@
         "classroom": "O006"
       }
     ],
-    "professor_id": 124353
+    "professor_id": 124353,
+    "first_name": "Emiliano",
+    "last_name": "Nava Morales",
+    "rating": 5.0,
+    "num_ratings": 2
   },
   {
     "code": "1964",
@@ -60,7 +72,11 @@
         "classroom": "EXTR"
       }
     ],
-    "professor_id": 75097
+    "professor_id": 75097,
+    "first_name": "Jorge Armando",
+    "last_name": "Rodríguez Vera",
+    "rating": 8.1923,
+    "num_ratings": 26
   },
   {
     "code": "1964",
@@ -75,7 +91,6 @@
         ],
         "classroom": "O006"
       }
-    ],
-    "professor_id": null
+    ]
   }
 ]

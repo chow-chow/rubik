@@ -11,8 +11,7 @@
         ],
         "classroom": "Q208"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "6598",
@@ -27,7 +26,11 @@
         "classroom": "Q208"
       }
     ],
-    "professor_id": 75919
+    "professor_id": 75919,
+    "first_name": "CINTIA",
+    "last_name": "QUEZADA REYES",
+    "rating": 6.3596,
+    "num_ratings": 114
   },
   {
     "code": "6598",
@@ -42,7 +45,11 @@
         "classroom": "Q208"
       }
     ],
-    "professor_id": 73106
+    "professor_id": 73106,
+    "first_name": "Edgar",
+    "last_name": "Martinez Meza",
+    "rating": 6.8333,
+    "num_ratings": 6
   },
   {
     "code": "6598",
@@ -57,7 +64,11 @@
         "classroom": "Q208"
       }
     ],
-    "professor_id": 119470
+    "professor_id": 119470,
+    "first_name": "Jaquelina",
+    "last_name": "Lopez Barrientos",
+    "rating": 6.7391,
+    "num_ratings": 23
   },
   {
     "code": "6598",
@@ -71,8 +82,7 @@
         ],
         "classroom": "Q208"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "6598",
@@ -87,7 +97,11 @@
         "classroom": "Q208"
       }
     ],
-    "professor_id": 172881
+    "professor_id": 172881,
+    "first_name": "Javier",
+    "last_name": "León  Cotonieto",
+    "rating": 8.3333,
+    "num_ratings": 6
   },
   {
     "code": "6598",
@@ -102,7 +116,11 @@
         "classroom": "Q208"
       }
     ],
-    "professor_id": 173568
+    "professor_id": 173568,
+    "first_name": "María Eugenia",
+    "last_name": "Bautista González",
+    "rating": 9.5,
+    "num_ratings": 4
   },
   {
     "code": "6598",
@@ -117,7 +135,11 @@
         "classroom": "Q208"
       }
     ],
-    "professor_id": 173568
+    "professor_id": 173568,
+    "first_name": "María Eugenia",
+    "last_name": "Bautista González",
+    "rating": 9.5,
+    "num_ratings": 4
   },
   {
     "code": "6598",
@@ -131,8 +153,7 @@
         ],
         "classroom": "Q208"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "6598",
@@ -146,8 +167,7 @@
         ],
         "classroom": "Q208"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "6598",
@@ -162,6 +182,10 @@
         "classroom": "Q208"
       }
     ],
-    "professor_id": 173568
+    "professor_id": 173568,
+    "first_name": "María Eugenia",
+    "last_name": "Bautista González",
+    "rating": 9.5,
+    "num_ratings": 4
   }
 ]

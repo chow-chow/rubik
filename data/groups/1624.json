@@ -12,8 +12,7 @@
         ],
         "classroom": "B407"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1624",
@@ -29,7 +28,11 @@
         "classroom": "A201"
       }
     ],
-    "professor_id": 156042
+    "professor_id": 156042,
+    "first_name": "José Luis",
+    "last_name": "García Urresti",
+    "rating": 8.2857,
+    "num_ratings": 7
   },
   {
     "code": "1624",
@@ -45,7 +48,11 @@
         "classroom": "B206"
       }
     ],
-    "professor_id": 101789
+    "professor_id": 101789,
+    "first_name": "VERONICA",
+    "last_name": "FLORES GARCIA",
+    "rating": 7.5882,
+    "num_ratings": 17
   },
   {
     "code": "1624",
@@ -60,6 +67,10 @@
         "classroom": "D004"
       }
     ],
-    "professor_id": 147325
+    "professor_id": 147325,
+    "first_name": "Marco Antonio",
+    "last_name": "Polo Labarrios",
+    "rating": 6.75,
+    "num_ratings": 4
   }
 ]

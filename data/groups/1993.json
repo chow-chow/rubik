@@ -12,8 +12,7 @@
         ],
         "classroom": "Y103"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1993",
@@ -28,8 +27,7 @@
         ],
         "classroom": "B403"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1993",
@@ -45,6 +43,10 @@
         "classroom": "D008"
       }
     ],
-    "professor_id": 68400
+    "professor_id": 68400,
+    "first_name": "Carlos Aurelio",
+    "last_name": "Bernal Esponda",
+    "rating": 8.4348,
+    "num_ratings": 23
   }
 ]

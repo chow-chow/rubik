@@ -12,8 +12,7 @@
         ],
         "classroom": "S005"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "3052",
@@ -29,6 +28,10 @@
         "classroom": "A404"
       }
     ],
-    "professor_id": 101789
+    "professor_id": 101789,
+    "first_name": "VERONICA",
+    "last_name": "FLORES GARCIA",
+    "rating": 7.5882,
+    "num_ratings": 17
   }
 ]

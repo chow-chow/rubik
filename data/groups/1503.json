@@ -13,7 +13,11 @@
         "classroom": "A206"
       }
     ],
-    "professor_id": 36956
+    "professor_id": 36956,
+    "first_name": "jorge",
+    "last_name": "ferat toscano",
+    "rating": 7.78,
+    "num_ratings": 50
   },
   {
     "code": "1503",
@@ -29,7 +33,11 @@
         "classroom": "B304"
       }
     ],
-    "professor_id": 124016
+    "professor_id": 124016,
+    "first_name": "M.I. LUIS SERGIO",
+    "last_name": "DURAN ARENAS",
+    "rating": 8.22,
+    "num_ratings": 46
   },
   {
     "code": "1503",
@@ -45,7 +53,11 @@
         "classroom": "B101"
       }
     ],
-    "professor_id": 104486
+    "professor_id": 104486,
+    "first_name": "ALBERTO",
+    "last_name": "NAVARRETE HERNANDEZ",
+    "rating": 5.1111,
+    "num_ratings": 54
   },
   {
     "code": "1503",
@@ -61,7 +73,11 @@
         "classroom": "B103"
       }
     ],
-    "professor_id": 186596
+    "professor_id": 186596,
+    "first_name": "Abraham",
+    "last_name": "Perez Alonzo",
+    "rating": 8.5,
+    "num_ratings": 2
   },
   {
     "code": "1503",
@@ -76,8 +92,7 @@
         ],
         "classroom": "B103"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1503",
@@ -93,7 +108,11 @@
         "classroom": "A201"
       }
     ],
-    "professor_id": 66377
+    "professor_id": 66377,
+    "first_name": "Pedro Ignacio",
+    "last_name": "Rincon Gomez",
+    "rating": 8.1852,
+    "num_ratings": 27
   },
   {
     "code": "1503",
@@ -109,6 +128,10 @@
         "classroom": "DS01"
       }
     ],
-    "professor_id": 60536
+    "professor_id": 60536,
+    "first_name": "Miguel Israel",
+    "last_name": "Barragán Ocampo",
+    "rating": 8.1515,
+    "num_ratings": 33
   }
 ]

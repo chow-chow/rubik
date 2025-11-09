@@ -13,7 +13,11 @@
         "classroom": "EXTR"
       }
     ],
-    "professor_id": 59342
+    "professor_id": 59342,
+    "first_name": "Sonia Karina",
+    "last_name": "Pérez Juárez",
+    "rating": 5.8947,
+    "num_ratings": 38
   },
   {
     "code": "2921",
@@ -28,8 +32,7 @@
         ],
         "classroom": "XS01"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "2921",
@@ -45,7 +48,11 @@
         "classroom": "XS01"
       }
     ],
-    "professor_id": 133428
+    "professor_id": 133428,
+    "first_name": "Armando Moisés",
+    "last_name": "Pérez Silva",
+    "rating": 9.5556,
+    "num_ratings": 9
   },
   {
     "code": "2921",
@@ -60,7 +67,6 @@
         ],
         "classroom": "XS01"
       }
-    ],
-    "professor_id": null
+    ]
   }
 ]

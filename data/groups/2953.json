@@ -13,7 +13,11 @@
         "classroom": "S227"
       }
     ],
-    "professor_id": 81491
+    "professor_id": 81491,
+    "first_name": "Jesus",
+    "last_name": "Savage Carmona",
+    "rating": 6.1429,
+    "num_ratings": 14
   },
   {
     "code": "2953",
@@ -29,6 +33,10 @@
         "classroom": "S227"
       }
     ],
-    "professor_id": 68365
+    "professor_id": 68365,
+    "first_name": "Marco Antonio",
+    "last_name": "Negrete villanueva",
+    "rating": 7.5,
+    "num_ratings": 24
   }
 ]

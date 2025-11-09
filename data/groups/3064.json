@@ -20,7 +20,11 @@
         "classroom": "O005"
       }
     ],
-    "professor_id": 98184
+    "professor_id": 98184,
+    "first_name": "Eduardo Valentín",
+    "last_name": "Talavera Moctezuma",
+    "rating": 7.6591,
+    "num_ratings": 44
   },
   {
     "code": "3064",
@@ -43,6 +47,10 @@
         "classroom": "O005"
       }
     ],
-    "professor_id": 98184
+    "professor_id": 98184,
+    "first_name": "Eduardo Valentín",
+    "last_name": "Talavera Moctezuma",
+    "rating": 7.6591,
+    "num_ratings": 44
   }
 ]

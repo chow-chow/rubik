@@ -21,7 +21,11 @@
         "classroom": "B403"
       }
     ],
-    "professor_id": 72080
+    "professor_id": 72080,
+    "first_name": "Thalia Alfonsina",
+    "last_name": "Reyes Pimentel",
+    "rating": 7.2667,
+    "num_ratings": 15
   },
   {
     "code": "1577",
@@ -47,6 +51,10 @@
         "classroom": "A402"
       }
     ],
-    "professor_id": 155633
+    "professor_id": 155633,
+    "first_name": "XOCHITL",
+    "last_name": "FLORES SOTO",
+    "rating": 9.5,
+    "num_ratings": 2
   }
 ]

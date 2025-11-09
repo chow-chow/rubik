@@ -12,8 +12,7 @@
         ],
         "classroom": "C104"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "2960",
@@ -29,6 +28,10 @@
         "classroom": "C105"
       }
     ],
-    "professor_id": 90940
+    "professor_id": 90940,
+    "first_name": "José de Jesús",
+    "last_name": "Huezo Casillas",
+    "rating": 8.0,
+    "num_ratings": 2
   }
 ]

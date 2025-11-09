@@ -11,8 +11,7 @@
         ],
         "classroom": "Q102"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "6937",
@@ -27,7 +26,11 @@
         "classroom": "Q102"
       }
     ],
-    "professor_id": 105055
+    "professor_id": 105055,
+    "first_name": "Jorge",
+    "last_name": "Diaz Salgado",
+    "rating": 8.0,
+    "num_ratings": 19
   },
   {
     "code": "6937",
@@ -41,8 +44,7 @@
         ],
         "classroom": "Q102"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "6937",
@@ -57,7 +59,11 @@
         "classroom": "Q102"
       }
     ],
-    "professor_id": 86745
+    "professor_id": 86745,
+    "first_name": "José Salvador",
+    "last_name": "Zamora Alarcón",
+    "rating": 9.8571,
+    "num_ratings": 7
   },
   {
     "code": "6937",
@@ -72,7 +78,11 @@
         "classroom": "Q102"
       }
     ],
-    "professor_id": 71693
+    "professor_id": 71693,
+    "first_name": "Alejandro",
+    "last_name": "Sosa Fuentes",
+    "rating": 4.75,
+    "num_ratings": 16
   },
   {
     "code": "6937",
@@ -86,8 +96,7 @@
         ],
         "classroom": "Q102"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "6937",
@@ -102,7 +111,11 @@
         "classroom": "Q102"
       }
     ],
-    "professor_id": 105055
+    "professor_id": 105055,
+    "first_name": "Jorge",
+    "last_name": "Diaz Salgado",
+    "rating": 8.0,
+    "num_ratings": 19
   },
   {
     "code": "6937",
@@ -117,7 +130,11 @@
         "classroom": "Q102"
       }
     ],
-    "professor_id": 86745
+    "professor_id": 86745,
+    "first_name": "José Salvador",
+    "last_name": "Zamora Alarcón",
+    "rating": 9.8571,
+    "num_ratings": 7
   },
   {
     "code": "6937",
@@ -132,7 +149,11 @@
         "classroom": "Q102"
       }
     ],
-    "professor_id": 71693
+    "professor_id": 71693,
+    "first_name": "Alejandro",
+    "last_name": "Sosa Fuentes",
+    "rating": 4.75,
+    "num_ratings": 16
   },
   {
     "code": "6937",
@@ -147,6 +168,10 @@
         "classroom": "Q102"
       }
     ],
-    "professor_id": 86745
+    "professor_id": 86745,
+    "first_name": "José Salvador",
+    "last_name": "Zamora Alarcón",
+    "rating": 9.8571,
+    "num_ratings": 7
   }
 ]

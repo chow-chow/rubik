@@ -12,8 +12,7 @@
         ],
         "classroom": "SIN"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "2800",
@@ -28,8 +27,7 @@
         ],
         "classroom": "A203"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "2800",
@@ -44,8 +42,7 @@
         ],
         "classroom": "A405"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "2800",
@@ -60,8 +57,7 @@
         ],
         "classroom": "A303"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "2800",
@@ -77,6 +73,10 @@
         "classroom": "S005"
       }
     ],
-    "professor_id": 146710
+    "professor_id": 146710,
+    "first_name": "VICENTE",
+    "last_name": "QUEZADA BELTRAN",
+    "rating": 5.0,
+    "num_ratings": 2
   }
 ]

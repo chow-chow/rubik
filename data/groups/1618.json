@@ -14,7 +14,11 @@
         "classroom": "B401"
       }
     ],
-    "professor_id": 21291
+    "professor_id": 21291,
+    "first_name": "juan carlos",
+    "last_name": "roa beiza",
+    "rating": 6.5538,
+    "num_ratings": 65
   },
   {
     "code": "1618",
@@ -29,8 +33,7 @@
         ],
         "classroom": "B204"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1618",
@@ -46,7 +49,11 @@
         "classroom": "D004"
       }
     ],
-    "professor_id": 171587
+    "professor_id": 171587,
+    "first_name": "Lourdes",
+    "last_name": "Martinez López",
+    "rating": 8.75,
+    "num_ratings": 4
   },
   {
     "code": "1618",
@@ -62,7 +69,11 @@
         "classroom": "B401"
       }
     ],
-    "professor_id": 71346
+    "professor_id": 71346,
+    "first_name": "Domingo Teodoro",
+    "last_name": "Mendoza Rosales",
+    "rating": 6.9091,
+    "num_ratings": 66
   },
   {
     "code": "1618",
@@ -78,7 +89,11 @@
         "classroom": "A107"
       }
     ],
-    "professor_id": 89952
+    "professor_id": 89952,
+    "first_name": "PABLO",
+    "last_name": "PEREZ ALCAZAR",
+    "rating": 5.8636,
+    "num_ratings": 22
   },
   {
     "code": "1618",
@@ -94,7 +109,11 @@
         "classroom": "B407"
       }
     ],
-    "professor_id": 148822
+    "professor_id": 148822,
+    "first_name": "Dr. José Ismael",
+    "last_name": "Martínez López",
+    "rating": 6.3043,
+    "num_ratings": 23
   },
   {
     "code": "1618",
@@ -110,6 +129,10 @@
         "classroom": "B405"
       }
     ],
-    "professor_id": 124529
+    "professor_id": 124529,
+    "first_name": "Roberto",
+    "last_name": "Zepeda Puebla",
+    "rating": 7.4737,
+    "num_ratings": 19
   }
 ]

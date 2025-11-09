@@ -12,7 +12,11 @@
         "classroom": "DS06"
       }
     ],
-    "professor_id": 109197
+    "professor_id": 109197,
+    "first_name": "Alberto",
+    "last_name": "Cortez",
+    "rating": 8.5,
+    "num_ratings": 4
   },
   {
     "code": "6998",
@@ -26,8 +30,7 @@
         ],
         "classroom": "DS06"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "6998",
@@ -41,8 +44,7 @@
         ],
         "classroom": "DS06"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "6998",
@@ -57,7 +59,11 @@
         "classroom": "DS06"
       }
     ],
-    "professor_id": 95192
+    "professor_id": 95192,
+    "first_name": "Ruben",
+    "last_name": "Tapia Olvera",
+    "rating": 6.5385,
+    "num_ratings": 26
   },
   {
     "code": "6998",
@@ -72,7 +78,11 @@
         "classroom": "DS06"
       }
     ],
-    "professor_id": 99549
+    "professor_id": 99549,
+    "first_name": "Ivan",
+    "last_name": "Urzua Rosas",
+    "rating": 9.1429,
+    "num_ratings": 7
   },
   {
     "code": "6998",
@@ -87,7 +97,11 @@
         "classroom": "DS06"
       }
     ],
-    "professor_id": 99548
+    "professor_id": 99548,
+    "first_name": "Jose Armando",
+    "last_name": "Pluma Rosales",
+    "rating": 6.3333,
+    "num_ratings": 6
   },
   {
     "code": "6998",
@@ -102,7 +116,11 @@
         "classroom": "DS06"
       }
     ],
-    "professor_id": 99548
+    "professor_id": 99548,
+    "first_name": "Jose Armando",
+    "last_name": "Pluma Rosales",
+    "rating": 6.3333,
+    "num_ratings": 6
   },
   {
     "code": "6998",
@@ -117,7 +135,11 @@
         "classroom": "DS06"
       }
     ],
-    "professor_id": 99548
+    "professor_id": 99548,
+    "first_name": "Jose Armando",
+    "last_name": "Pluma Rosales",
+    "rating": 6.3333,
+    "num_ratings": 6
   },
   {
     "code": "6998",
@@ -132,7 +154,11 @@
         "classroom": "DS06"
       }
     ],
-    "professor_id": 99549
+    "professor_id": 99549,
+    "first_name": "Ivan",
+    "last_name": "Urzua Rosas",
+    "rating": 9.1429,
+    "num_ratings": 7
   },
   {
     "code": "6998",
@@ -147,7 +173,11 @@
         "classroom": "DS06"
       }
     ],
-    "professor_id": 99549
+    "professor_id": 99549,
+    "first_name": "Ivan",
+    "last_name": "Urzua Rosas",
+    "rating": 9.1429,
+    "num_ratings": 7
   },
   {
     "code": "6998",
@@ -162,7 +192,11 @@
         "classroom": "DS06"
       }
     ],
-    "professor_id": 118946
+    "professor_id": 118946,
+    "first_name": "Alejandro",
+    "last_name": "Baez Muñoz",
+    "rating": 6.8571,
+    "num_ratings": 7
   },
   {
     "code": "6998",
@@ -177,6 +211,10 @@
         "classroom": "DS06"
       }
     ],
-    "professor_id": 118946
+    "professor_id": 118946,
+    "first_name": "Alejandro",
+    "last_name": "Baez Muñoz",
+    "rating": 6.8571,
+    "num_ratings": 7
   }
 ]

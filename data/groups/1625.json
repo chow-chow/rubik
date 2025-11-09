@@ -12,8 +12,7 @@
         ],
         "classroom": "C106"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1625",
@@ -29,6 +28,10 @@
         "classroom": "A401"
       }
     ],
-    "professor_id": 76875
+    "professor_id": 76875,
+    "first_name": "Ricardo",
+    "last_name": "Alfaro Fuentes",
+    "rating": 8.75,
+    "num_ratings": 8
   }
 ]

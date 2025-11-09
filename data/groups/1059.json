@@ -13,7 +13,11 @@
         "classroom": "B105"
       }
     ],
-    "professor_id": 105120
+    "professor_id": 105120,
+    "first_name": "Marina",
+    "last_name": "Servin Chavez",
+    "rating": 7.0,
+    "num_ratings": 2
   },
   {
     "code": "1059",
@@ -29,7 +33,11 @@
         "classroom": "B302"
       }
     ],
-    "professor_id": 105117
+    "professor_id": 105117,
+    "first_name": "Carlos",
+    "last_name": "Ayala Gomez",
+    "rating": 8.4444,
+    "num_ratings": 9
   },
   {
     "code": "1059",
@@ -45,7 +53,11 @@
         "classroom": "B201"
       }
     ],
-    "professor_id": 181406
+    "professor_id": 181406,
+    "first_name": "ENRIQUE ISRAEL",
+    "last_name": "MARQUEZ ANGELES",
+    "rating": 8.5,
+    "num_ratings": 4
   },
   {
     "code": "1059",
@@ -61,7 +73,11 @@
         "classroom": "DS11"
       }
     ],
-    "professor_id": 109142
+    "professor_id": 109142,
+    "first_name": "Noé",
+    "last_name": "Avila Cedillo",
+    "rating": 6.0,
+    "num_ratings": 8
   },
   {
     "code": "1059",
@@ -77,7 +93,11 @@
         "classroom": "EXTR"
       }
     ],
-    "professor_id": 87744
+    "professor_id": 87744,
+    "first_name": "Victor manuel",
+    "last_name": "Rivera Romay",
+    "rating": 8.875,
+    "num_ratings": 8
   },
   {
     "code": "1059",
@@ -93,6 +113,10 @@
         "classroom": "O102"
       }
     ],
-    "professor_id": 105123
+    "professor_id": 105123,
+    "first_name": "Andrea Paola",
+    "last_name": "Dorado Diaz",
+    "rating": 8.3333,
+    "num_ratings": 12
   }
 ]

@@ -12,8 +12,7 @@
         ],
         "classroom": "B409"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1477",
@@ -29,7 +28,11 @@
         "classroom": "B409"
       }
     ],
-    "professor_id": 172322
+    "professor_id": 172322,
+    "first_name": "Diego Alonso",
+    "last_name": "Amante Soria",
+    "rating": 7.8333,
+    "num_ratings": 6
   },
   {
     "code": "1477",
@@ -45,7 +48,11 @@
         "classroom": "B409"
       }
     ],
-    "professor_id": 172322
+    "professor_id": 172322,
+    "first_name": "Diego Alonso",
+    "last_name": "Amante Soria",
+    "rating": 7.8333,
+    "num_ratings": 6
   },
   {
     "code": "1477",
@@ -59,7 +66,6 @@
         ],
         "classroom": "B409"
       }
-    ],
-    "professor_id": null
+    ]
   }
 ]

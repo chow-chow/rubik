@@ -1,0 +1,467 @@
+[
+  {
+    "code": "0032",
+    "name": "ABAST DE AGUA POTABLE",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "0152",
+    "name": "CIMENTACIONES",
+    "credits": 9,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "0230",
+    "name": "DISEÑO ESTRUCTURAL",
+    "credits": 9,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "0234",
+    "name": "EDIFICACION",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "0275",
+    "name": "ESTRUCTURAS ISOSTATICAS",
+    "credits": 9,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "0379",
+    "name": "HIDROLOGIA",
+    "credits": 9,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "0387",
+    "name": "INGENIERIA DE SISTEMAS I",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "0465",
+    "name": "MECANICA DE MATERIALES I",
+    "credits": 9,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "0466",
+    "name": "MECANICA DE MATERIALES II",
+    "credits": 9,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "0610",
+    "name": "OBRAS HIDRAULICAS",
+    "credits": 9,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "0642",
+    "name": "PLANEACION",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1052",
+    "name": "ETICA PROFESIONAL",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1055",
+    "name": "LITERATURA HISPANOAMERICANA CONTEMPO",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1120",
+    "name": "ALGEBRA",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1121",
+    "name": "CALCULO Y GEOMETRIA ANALITICA",
+    "credits": 12,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1124",
+    "name": "REDACCION Y EXPOSIC TEMAS INGENIERIA",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1127",
+    "name": "PROGRAMACION BASICA",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1128",
+    "name": "REPRESENTACIONES GRAFICAS",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1220",
+    "name": "ALGEBRA LINEAL",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1221",
+    "name": "CALCULO INTEGRAL",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1222",
+    "name": "CULTURA Y COMUNICACION",
+    "credits": 2,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1223",
+    "name": "ESTATICA",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1229",
+    "name": "GEOMATICA BASICA",
+    "credits": 9,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1321",
+    "name": "CALCULO VECTORIAL",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1322",
+    "name": "CINEMATICA Y DINAMICA",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1325",
+    "name": "ECUACIONES DIFERENCIALES",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1333",
+    "name": "SISTEMAS TERMODIN-ELECTROMAGNETISMO",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1402",
+    "name": "HIDRAULICA BASICA",
+    "credits": 9,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1407",
+    "name": "RECURSOS DE LA CONSTRUCCION",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1413",
+    "name": "INTRODUCCION A LA ECONOMIA",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1433",
+    "name": "ANALISIS NUMERICO",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1436",
+    "name": "PROBABILIDAD",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1444",
+    "name": "PROCEDIM.CONSTRUC.ELEMENT.ESTRUCTUR.",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1450",
+    "name": "SISTEMAS QUIMICOS EN INGENIERIA",
+    "credits": 6,
+    "has_lab": true,
+    "lab": {
+      "code": "6450",
+      "name": "LAB SISTEMAS QUIMICOS EN ING"
+    }
+  },
+  {
+    "code": "1506",
+    "name": "GEOLOGIA",
+    "credits": 9,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1507",
+    "name": "HIDRAULICA DE CANALES",
+    "credits": 9,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1555",
+    "name": "FUNDAMENTOS DE MECANICA MEDIO CONTIN",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1595",
+    "name": "INGENIERIA AMBIENTAL I",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1596",
+    "name": "PROGRAMACION Y PRESUPUESTACION",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1601",
+    "name": "COMPORTAMIENTO DE SUELOS",
+    "credits": 9,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1608",
+    "name": "MOVIMIENTO DE TIERRAS",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1703",
+    "name": "ANALISIS ESTRUCTURAL",
+    "credits": 9,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1714",
+    "name": "MECANICA DE SUELOS",
+    "credits": 9,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1730",
+    "name": "HIDRAULICA MAQ.-TRANSITORIOS",
+    "credits": 9,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1731",
+    "name": "INGENIERIA DE SISTEMAS II",
+    "credits": 9,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1760",
+    "name": "ADMINISTRACION EN INGENIERIA",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1789",
+    "name": "CIENCIA, TECNOLOGIA Y SOCIEDAD",
+    "credits": 4,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1790",
+    "name": "INTRODUCCION ANALIS ECON EMPRESARIAL",
+    "credits": 4,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1791",
+    "name": "MEXICO NACION MULTICULTURAL",
+    "credits": 4,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1792",
+    "name": "SEM. SOCIOHUMANISTICO: HIST PROSP IN",
+    "credits": 2,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1793",
+    "name": "SEM. SOCIOHUMANISTICO: ING Y POL PUB",
+    "credits": 2,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1794",
+    "name": "SEM. SOCIOHUMANISTICO: ING SUSTENTAB",
+    "credits": 2,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1795",
+    "name": "TALLER SOCIOHUMANISTICO: CREATIVIDAD",
+    "credits": 2,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1796",
+    "name": "TALLER SOCIOHUMANISTICO: LIDERAZGO",
+    "credits": 2,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1935",
+    "name": "TRATAMIENTO AGUAS RESIDUALES",
+    "credits": 9,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2080",
+    "name": "RECURSOS Y NECESIDADES DE MEXICO",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2156",
+    "name": "EVALUACION DE PROYECTOS",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2600",
+    "name": "ESTADISTICA APLICADA A ING. CIVIL",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2601",
+    "name": "INGENIERIA AMBIENTAL II",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2800",
+    "name": "ALCANTARILLADO SANITARIO-PLUVIAL",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2801",
+    "name": "DIMENSIONAM.ELEMENTOS ESTRUCTURALES",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2803",
+    "name": "INGENIERIA DE TRANSITO",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2913",
+    "name": "INGENIERIA DEL TRANSPORTE I",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2915",
+    "name": "INGENIERIA DEL TRANSPORTE II",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2916",
+    "name": "INTEGRACION DE PROYECTOS",
+    "credits": 4,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "8000",
+    "name": "IGUALDAD DE GENERO EN INGENIERIA",
+    "credits": 0,
+    "has_lab": false,
+    "lab": null
+  }
+]

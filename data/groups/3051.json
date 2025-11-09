@@ -13,7 +13,11 @@
         "classroom": "A204"
       }
     ],
-    "professor_id": 134814
+    "professor_id": 134814,
+    "first_name": "Rodrigo Takashi",
+    "last_name": "Sepúlveda Hirose",
+    "rating": 7.2222,
+    "num_ratings": 9
   },
   {
     "code": "3051",
@@ -28,7 +32,6 @@
         ],
         "classroom": "A211"
       }
-    ],
-    "professor_id": null
+    ]
   }
 ]

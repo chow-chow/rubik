@@ -13,7 +13,11 @@
         "classroom": "A305"
       }
     ],
-    "professor_id": 95352
+    "professor_id": 95352,
+    "first_name": "Arturo",
+    "last_name": "Pérez De la Cruz",
+    "rating": 5.1538,
+    "num_ratings": 26
   },
   {
     "code": "1590",
@@ -29,7 +33,11 @@
         "classroom": "B204"
       }
     ],
-    "professor_id": 85623
+    "professor_id": 85623,
+    "first_name": "Sergio",
+    "last_name": "Teodoro Vite",
+    "rating": 8.25,
+    "num_ratings": 28
   },
   {
     "code": "1590",
@@ -45,7 +53,11 @@
         "classroom": "A206"
       }
     ],
-    "professor_id": 79254
+    "professor_id": 79254,
+    "first_name": "Luis Sergio",
+    "last_name": "Valencia Castro",
+    "rating": 5.9167,
+    "num_ratings": 48
   },
   {
     "code": "1590",
@@ -61,7 +73,11 @@
         "classroom": "B204"
       }
     ],
-    "professor_id": 186585
+    "professor_id": 186585,
+    "first_name": "JOSE RAMON",
+    "last_name": "PEREZ ATHIE",
+    "rating": 7.0,
+    "num_ratings": 2
   },
   {
     "code": "1590",
@@ -77,7 +93,11 @@
         "classroom": "B205"
       }
     ],
-    "professor_id": 113612
+    "professor_id": 113612,
+    "first_name": "Carlos Aldair",
+    "last_name": "Roman Balbuena",
+    "rating": 6.1778,
+    "num_ratings": 45
   },
   {
     "code": "1590",
@@ -92,6 +112,10 @@
         "classroom": "A201"
       }
     ],
-    "professor_id": 95712
+    "professor_id": 95712,
+    "first_name": "José Roque",
+    "last_name": "Román Guadarrama",
+    "rating": 7.3235,
+    "num_ratings": 34
   }
 ]

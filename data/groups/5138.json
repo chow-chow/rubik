@@ -12,7 +12,11 @@
         "classroom": "Q108"
       }
     ],
-    "professor_id": 99064
+    "professor_id": 99064,
+    "first_name": "Francisco Javier",
+    "last_name": "Martinez Rodriguez",
+    "rating": 4.6316,
+    "num_ratings": 38
   },
   {
     "code": "5138",
@@ -26,8 +30,7 @@
         ],
         "classroom": "Q108"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "5138",
@@ -41,8 +44,7 @@
         ],
         "classroom": "Q108"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "5138",
@@ -56,8 +58,7 @@
         ],
         "classroom": "Q108"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "5138",
@@ -72,7 +73,11 @@
         "classroom": "Q109"
       }
     ],
-    "professor_id": 94156
+    "professor_id": 94156,
+    "first_name": "Jaime Hector",
+    "last_name": "Murillo Quintero",
+    "rating": 4.5714,
+    "num_ratings": 21
   },
   {
     "code": "5138",
@@ -87,7 +92,11 @@
         "classroom": "Q108"
       }
     ],
-    "professor_id": 99902
+    "professor_id": 99902,
+    "first_name": "Raúl",
+    "last_name": "Ruvalcaba Morales",
+    "rating": 9.7333,
+    "num_ratings": 15
   },
   {
     "code": "5138",
@@ -102,7 +111,11 @@
         "classroom": "Q108"
       }
     ],
-    "professor_id": 80201
+    "professor_id": 80201,
+    "first_name": "JESUS MARIA FRANCISCO",
+    "last_name": "HERNANDEZ MORALES",
+    "rating": 6.1111,
+    "num_ratings": 18
   },
   {
     "code": "5138",
@@ -117,7 +130,11 @@
         "classroom": "Q107"
       }
     ],
-    "professor_id": 89949
+    "professor_id": 89949,
+    "first_name": "ISMAEL",
+    "last_name": "ROMERO OCARANZA",
+    "rating": 6.7391,
+    "num_ratings": 23
   },
   {
     "code": "5138",
@@ -132,7 +149,11 @@
         "classroom": "Q108"
       }
     ],
-    "professor_id": 179085
+    "professor_id": 179085,
+    "first_name": "JOSE SALVADOR",
+    "last_name": "VELARDE MENCHACA",
+    "rating": 6.0,
+    "num_ratings": 2
   },
   {
     "code": "5138",
@@ -147,7 +168,11 @@
         "classroom": "Q108"
       }
     ],
-    "professor_id": 94156
+    "professor_id": 94156,
+    "first_name": "Jaime Hector",
+    "last_name": "Murillo Quintero",
+    "rating": 4.5714,
+    "num_ratings": 21
   },
   {
     "code": "5138",
@@ -162,7 +187,11 @@
         "classroom": "Q108"
       }
     ],
-    "professor_id": 108136
+    "professor_id": 108136,
+    "first_name": "Roman Victoriano",
+    "last_name": "Osorio Comparan",
+    "rating": 7.4706,
+    "num_ratings": 17
   },
   {
     "code": "5138",
@@ -177,7 +206,11 @@
         "classroom": "Q108"
       }
     ],
-    "professor_id": 89949
+    "professor_id": 89949,
+    "first_name": "ISMAEL",
+    "last_name": "ROMERO OCARANZA",
+    "rating": 6.7391,
+    "num_ratings": 23
   },
   {
     "code": "5138",
@@ -192,6 +225,10 @@
         "classroom": "Q107"
       }
     ],
-    "professor_id": 124066
+    "professor_id": 124066,
+    "first_name": "ING. PATRICIA",
+    "last_name": "ARANDA MELO",
+    "rating": 6.7778,
+    "num_ratings": 9
   }
 ]

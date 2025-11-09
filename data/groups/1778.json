@@ -26,7 +26,11 @@
         "classroom": "X101"
       }
     ],
-    "professor_id": 114209
+    "professor_id": 114209,
+    "first_name": "Luis Antonio",
+    "last_name": "Pérez Pérez",
+    "rating": 8.4872,
+    "num_ratings": 39
   },
   {
     "code": "1778",
@@ -49,6 +53,10 @@
         "classroom": "X101"
       }
     ],
-    "professor_id": 59794
+    "professor_id": 59794,
+    "first_name": "Lazaro",
+    "last_name": "Morales Acosta",
+    "rating": 8.3529,
+    "num_ratings": 17
   }
 ]

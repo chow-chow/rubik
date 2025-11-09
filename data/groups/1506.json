@@ -14,7 +14,11 @@
         "classroom": "B402"
       }
     ],
-    "professor_id": 125194
+    "professor_id": 125194,
+    "first_name": "Mario",
+    "last_name": "Galván Tapia",
+    "rating": 7.9259,
+    "num_ratings": 27
   },
   {
     "code": "1506",
@@ -31,7 +35,11 @@
         "classroom": "Y203"
       }
     ],
-    "professor_id": 79463
+    "professor_id": 79463,
+    "first_name": "Armando Javier",
+    "last_name": "Ramírez Rascón",
+    "rating": 4.3333,
+    "num_ratings": 12
   },
   {
     "code": "1506",
@@ -47,8 +55,7 @@
         ],
         "classroom": "A211"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1506",
@@ -65,7 +72,11 @@
         "classroom": "A209"
       }
     ],
-    "professor_id": 142326
+    "professor_id": 142326,
+    "first_name": "Miguel",
+    "last_name": "Segura Jiménez",
+    "rating": 6.9167,
+    "num_ratings": 12
   },
   {
     "code": "1506",
@@ -81,8 +92,7 @@
         ],
         "classroom": "A309"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1506",
@@ -98,7 +108,11 @@
         "classroom": "A207"
       }
     ],
-    "professor_id": 125194
+    "professor_id": 125194,
+    "first_name": "Mario",
+    "last_name": "Galván Tapia",
+    "rating": 7.9259,
+    "num_ratings": 27
   },
   {
     "code": "1506",
@@ -113,8 +127,7 @@
         ],
         "classroom": "A106"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1506",
@@ -130,7 +143,11 @@
         "classroom": "Y205"
       }
     ],
-    "professor_id": 79463
+    "professor_id": 79463,
+    "first_name": "Armando Javier",
+    "last_name": "Ramírez Rascón",
+    "rating": 4.3333,
+    "num_ratings": 12
   },
   {
     "code": "1506",
@@ -146,7 +163,11 @@
         "classroom": "A405"
       }
     ],
-    "professor_id": 125194
+    "professor_id": 125194,
+    "first_name": "Mario",
+    "last_name": "Galván Tapia",
+    "rating": 7.9259,
+    "num_ratings": 27
   },
   {
     "code": "1506",
@@ -162,7 +183,11 @@
         "classroom": "B402"
       }
     ],
-    "professor_id": 153358
+    "professor_id": 153358,
+    "first_name": "Martha",
+    "last_name": "Suárez López",
+    "rating": 4.4,
+    "num_ratings": 5
   },
   {
     "code": "1506",
@@ -177,7 +202,6 @@
         ],
         "classroom": "A210"
       }
-    ],
-    "professor_id": null
+    ]
   }
 ]

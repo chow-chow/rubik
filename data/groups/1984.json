@@ -13,7 +13,11 @@
         "classroom": "Y103"
       }
     ],
-    "professor_id": 135134
+    "professor_id": 135134,
+    "first_name": "israel",
+    "last_name": "castro herrera",
+    "rating": 8.1667,
+    "num_ratings": 6
   },
   {
     "code": "1984",
@@ -28,8 +32,7 @@
         ],
         "classroom": "D007"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1984",
@@ -44,7 +47,6 @@
         ],
         "classroom": "D009"
       }
-    ],
-    "professor_id": null
+    ]
   }
 ]

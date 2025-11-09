@@ -12,8 +12,7 @@
         ],
         "classroom": "B105"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "2920",
@@ -28,8 +27,7 @@
         ],
         "classroom": "B302"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "2920",
@@ -45,7 +43,11 @@
         "classroom": "A109"
       }
     ],
-    "professor_id": 141771
+    "professor_id": 141771,
+    "first_name": "Victor Hugo",
+    "last_name": "Torres Aguilar",
+    "rating": 6.8462,
+    "num_ratings": 13
   },
   {
     "code": "2920",
@@ -61,7 +63,11 @@
         "classroom": "EXTR"
       }
     ],
-    "professor_id": 124092
+    "professor_id": 124092,
+    "first_name": "Ricardo",
+    "last_name": "Ferat Duran",
+    "rating": 5.3333,
+    "num_ratings": 3
   },
   {
     "code": "2920",
@@ -75,8 +81,7 @@
         ],
         "classroom": "O101"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "2920",
@@ -92,6 +97,10 @@
         "classroom": "B202"
       }
     ],
-    "professor_id": 89973
+    "professor_id": 89973,
+    "first_name": "Ricardo Adolfo",
+    "last_name": "Vidal Castro",
+    "rating": 7.5,
+    "num_ratings": 12
   }
 ]

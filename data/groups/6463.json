@@ -12,7 +12,11 @@
         "classroom": "P215"
       }
     ],
-    "professor_id": 95190
+    "professor_id": 95190,
+    "first_name": "Juan Manuel",
+    "last_name": "Velasco Miranda",
+    "rating": 8.9091,
+    "num_ratings": 11
   },
   {
     "code": "6463",
@@ -27,6 +31,10 @@
         "classroom": "P215"
       }
     ],
-    "professor_id": 99901
+    "professor_id": 99901,
+    "first_name": "Edgar Baldemar",
+    "last_name": "Aguado Cruz",
+    "rating": 8.25,
+    "num_ratings": 28
   }
 ]

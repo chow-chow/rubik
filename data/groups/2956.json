@@ -13,7 +13,11 @@
         "classroom": "D004"
       }
     ],
-    "professor_id": 113608
+    "professor_id": 113608,
+    "first_name": "Jose Gabriel",
+    "last_name": "Peral Garcia",
+    "rating": 9.0,
+    "num_ratings": 2
   },
   {
     "code": "2956",
@@ -28,8 +32,7 @@
         ],
         "classroom": "T102"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "2956",
@@ -45,7 +48,11 @@
         "classroom": "T102"
       }
     ],
-    "professor_id": 113612
+    "professor_id": 113612,
+    "first_name": "Carlos Aldair",
+    "last_name": "Roman Balbuena",
+    "rating": 6.1778,
+    "num_ratings": 45
   },
   {
     "code": "2956",
@@ -59,7 +66,6 @@
         ],
         "classroom": "B306"
       }
-    ],
-    "professor_id": null
+    ]
   }
 ]

@@ -13,7 +13,11 @@
         "classroom": "C203"
       }
     ],
-    "professor_id": 78441
+    "professor_id": 78441,
+    "first_name": "Gilberto",
+    "last_name": "Silva Romo",
+    "rating": 7.8421,
+    "num_ratings": 19
   },
   {
     "code": "1067",
@@ -28,8 +32,7 @@
         ],
         "classroom": "C203"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1067",
@@ -45,7 +48,11 @@
         "classroom": "C301"
       }
     ],
-    "professor_id": 89992
+    "professor_id": 89992,
+    "first_name": "Fernando",
+    "last_name": "Rosique Naranjo",
+    "rating": 6.25,
+    "num_ratings": 8
   },
   {
     "code": "1067",
@@ -61,7 +68,11 @@
         "classroom": "J001"
       }
     ],
-    "professor_id": 89992
+    "professor_id": 89992,
+    "first_name": "Fernando",
+    "last_name": "Rosique Naranjo",
+    "rating": 6.25,
+    "num_ratings": 8
   },
   {
     "code": "1067",
@@ -76,7 +87,6 @@
         ],
         "classroom": "C203"
       }
-    ],
-    "professor_id": null
+    ]
   }
 ]

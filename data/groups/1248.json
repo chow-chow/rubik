@@ -12,8 +12,7 @@
         ],
         "classroom": "A401"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1248",
@@ -29,6 +28,10 @@
         "classroom": "Y103"
       }
     ],
-    "professor_id": 96627
+    "professor_id": 96627,
+    "first_name": "David Israel",
+    "last_name": "Posadas Navarro",
+    "rating": 9.6,
+    "num_ratings": 10
   }
 ]

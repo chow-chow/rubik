@@ -19,8 +19,7 @@
         ],
         "classroom": "H002"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "2211",
@@ -49,7 +48,11 @@
         "classroom": "H001"
       }
     ],
-    "professor_id": 90851
+    "professor_id": 90851,
+    "first_name": "OMAR ING.",
+    "last_name": "DE JESUS PEREZ",
+    "rating": 8.0,
+    "num_ratings": 41
   },
   {
     "code": "2211",
@@ -72,7 +75,11 @@
         "classroom": "H002"
       }
     ],
-    "professor_id": 74107
+    "professor_id": 74107,
+    "first_name": "María Ofelia",
+    "last_name": "Rodriguez Durán",
+    "rating": 7.102,
+    "num_ratings": 49
   },
   {
     "code": "2211",
@@ -95,7 +102,11 @@
         "classroom": "H002"
       }
     ],
-    "professor_id": 90851
+    "professor_id": 90851,
+    "first_name": "OMAR ING.",
+    "last_name": "DE JESUS PEREZ",
+    "rating": 8.0,
+    "num_ratings": 41
   },
   {
     "code": "2211",
@@ -118,7 +129,11 @@
         "classroom": "H002"
       }
     ],
-    "professor_id": 78455
+    "professor_id": 78455,
+    "first_name": "Eduardo",
+    "last_name": "López Molina",
+    "rating": 8.25,
+    "num_ratings": 63
   },
   {
     "code": "2211",
@@ -141,7 +156,11 @@
         "classroom": "H001"
       }
     ],
-    "professor_id": 115336
+    "professor_id": 115336,
+    "first_name": "Gabriel",
+    "last_name": "Ramos Román",
+    "rating": 9.2,
+    "num_ratings": 5
   },
   {
     "code": "2211",
@@ -164,7 +183,11 @@
         "classroom": "H002"
       }
     ],
-    "professor_id": 68185
+    "professor_id": 68185,
+    "first_name": "Luis Andrés",
+    "last_name": "Suárez Hernández",
+    "rating": 7.8,
+    "num_ratings": 20
   },
   {
     "code": "2211",
@@ -187,7 +210,11 @@
         "classroom": "H002"
       }
     ],
-    "professor_id": 60632
+    "professor_id": 60632,
+    "first_name": "Elizabeth",
+    "last_name": "Aguirre Maldonado",
+    "rating": 7.2326,
+    "num_ratings": 43
   },
   {
     "code": "2211",
@@ -215,8 +242,7 @@
         ],
         "classroom": "H001"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "2211",
@@ -239,7 +265,11 @@
         "classroom": "H001"
       }
     ],
-    "professor_id": 115336
+    "professor_id": 115336,
+    "first_name": "Gabriel",
+    "last_name": "Ramos Román",
+    "rating": 9.2,
+    "num_ratings": 5
   },
   {
     "code": "2211",
@@ -262,6 +292,10 @@
         "classroom": "H002"
       }
     ],
-    "professor_id": 105095
+    "professor_id": 105095,
+    "first_name": "Beatriz Eugenia",
+    "last_name": "Hernandez Rodriguez",
+    "rating": 7.3333,
+    "num_ratings": 24
   }
 ]

@@ -20,7 +20,11 @@
         "classroom": "P003"
       }
     ],
-    "professor_id": 161901
+    "professor_id": 161901,
+    "first_name": "RENE ADRIAN",
+    "last_name": "DAVILA PEREZ",
+    "rating": 8.4545,
+    "num_ratings": 22
   },
   {
     "code": "1323",
@@ -49,7 +53,11 @@
         "classroom": "Q008"
       }
     ],
-    "professor_id": 110855
+    "professor_id": 110855,
+    "first_name": "Jose Antonio",
+    "last_name": "Ayala Barbosa",
+    "rating": 7.6,
+    "num_ratings": 40
   },
   {
     "code": "1323",
@@ -72,7 +80,11 @@
         "classroom": "Q008"
       }
     ],
-    "professor_id": 78645
+    "professor_id": 78645,
+    "first_name": "Edgar",
+    "last_name": "Tista",
+    "rating": 8.8605,
+    "num_ratings": 43
   },
   {
     "code": "1323",
@@ -95,7 +107,11 @@
         "classroom": "T101"
       }
     ],
-    "professor_id": 156753
+    "professor_id": 156753,
+    "first_name": "Diego Javier",
+    "last_name": "Santamaría Nájera",
+    "rating": 10.0,
+    "num_ratings": 5
   },
   {
     "code": "1323",
@@ -118,7 +134,11 @@
         "classroom": "Q007"
       }
     ],
-    "professor_id": 56349
+    "professor_id": 56349,
+    "first_name": "Heriberto",
+    "last_name": "García Ledezma",
+    "rating": 7.25,
+    "num_ratings": 36
   },
   {
     "code": "1323",
@@ -141,7 +161,11 @@
         "classroom": "P003"
       }
     ],
-    "professor_id": 90648
+    "professor_id": 90648,
+    "first_name": "JORGE ANGEL ING.",
+    "last_name": "HERNANDEZ LOPEZ",
+    "rating": 5.7692,
+    "num_ratings": 13
   },
   {
     "code": "1323",
@@ -164,7 +188,11 @@
         "classroom": "P003"
       }
     ],
-    "professor_id": 161901
+    "professor_id": 161901,
+    "first_name": "RENE ADRIAN",
+    "last_name": "DAVILA PEREZ",
+    "rating": 8.4545,
+    "num_ratings": 22
   },
   {
     "code": "1323",
@@ -187,7 +215,11 @@
         "classroom": "Q008"
       }
     ],
-    "professor_id": 104952
+    "professor_id": 104952,
+    "first_name": "Adan",
+    "last_name": "Zepeda",
+    "rating": 7.25,
+    "num_ratings": 4
   },
   {
     "code": "1323",
@@ -210,7 +242,11 @@
         "classroom": "Q007"
       }
     ],
-    "professor_id": 135119
+    "professor_id": 135119,
+    "first_name": "Juan Ángel",
+    "last_name": "Calvillo Pérez",
+    "rating": 8.9375,
+    "num_ratings": 16
   },
   {
     "code": "1323",
@@ -232,8 +268,7 @@
         ],
         "classroom": "P003"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1323",
@@ -256,7 +291,11 @@
         "classroom": "Q007"
       }
     ],
-    "professor_id": 56349
+    "professor_id": 56349,
+    "first_name": "Heriberto",
+    "last_name": "García Ledezma",
+    "rating": 7.25,
+    "num_ratings": 36
   },
   {
     "code": "1323",
@@ -279,6 +318,10 @@
         "classroom": "P003"
       }
     ],
-    "professor_id": 134834
+    "professor_id": 134834,
+    "first_name": "Jesus Jair",
+    "last_name": "Camacho Alfaro",
+    "rating": 9.7143,
+    "num_ratings": 14
   }
 ]

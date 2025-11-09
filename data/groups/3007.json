@@ -13,7 +13,11 @@
         "classroom": "SIN"
       }
     ],
-    "professor_id": 74593
+    "professor_id": 74593,
+    "first_name": "Rosa Itzel",
+    "last_name": "Flores Luna",
+    "rating": 5.4,
+    "num_ratings": 5
   },
   {
     "code": "3007",
@@ -29,6 +33,10 @@
         "classroom": "Q003"
       }
     ],
-    "professor_id": 155677
+    "professor_id": 155677,
+    "first_name": "Juan Manuel",
+    "last_name": "Gómez González",
+    "rating": 7.7,
+    "num_ratings": 10
   }
 ]

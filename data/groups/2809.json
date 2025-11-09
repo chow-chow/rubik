@@ -12,8 +12,7 @@
         ],
         "classroom": "C106"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "2809",
@@ -29,6 +28,10 @@
         "classroom": "C106"
       }
     ],
-    "professor_id": 133815
+    "professor_id": 133815,
+    "first_name": "Guadalupe",
+    "last_name": "Ochoa",
+    "rating": 8.3333,
+    "num_ratings": 3
   }
 ]

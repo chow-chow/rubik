@@ -12,8 +12,7 @@
         ],
         "classroom": "A210"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1444",
@@ -29,7 +28,11 @@
         "classroom": "A207"
       }
     ],
-    "professor_id": 78273
+    "professor_id": 78273,
+    "first_name": "Alvaro",
+    "last_name": "Ortiz Fernandez",
+    "rating": 7.6154,
+    "num_ratings": 13
   },
   {
     "code": "1444",
@@ -45,7 +48,11 @@
         "classroom": "A204"
       }
     ],
-    "professor_id": 172599
+    "professor_id": 172599,
+    "first_name": "ALEJANDRO",
+    "last_name": "PONCE SERRANO",
+    "rating": 2.75,
+    "num_ratings": 4
   },
   {
     "code": "1444",
@@ -60,8 +67,7 @@
         ],
         "classroom": "A209"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1444",
@@ -75,7 +81,6 @@
         ],
         "classroom": "A212"
       }
-    ],
-    "professor_id": null
+    ]
   }
 ]

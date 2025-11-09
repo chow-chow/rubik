@@ -13,7 +13,11 @@
         "classroom": "A302"
       }
     ],
-    "professor_id": 138601
+    "professor_id": 138601,
+    "first_name": "Gerardo Gabriel",
+    "last_name": "Carrasco Zuñiga",
+    "rating": 9.2857,
+    "num_ratings": 14
   },
   {
     "code": "2933",
@@ -29,7 +33,11 @@
         "classroom": "D004"
       }
     ],
-    "professor_id": 172971
+    "professor_id": 172971,
+    "first_name": "HECTOR",
+    "last_name": "BAUTISTA VAZQUEZ",
+    "rating": 9.3333,
+    "num_ratings": 3
   },
   {
     "code": "2933",
@@ -45,7 +53,11 @@
         "classroom": "A306"
       }
     ],
-    "professor_id": 172615
+    "professor_id": 172615,
+    "first_name": "M.C. JOSE CONCEPCION ROBERTO",
+    "last_name": "OLVERA LOPEZ",
+    "rating": 9.5,
+    "num_ratings": 4
   },
   {
     "code": "2933",
@@ -60,7 +72,6 @@
         ],
         "classroom": "A107"
       }
-    ],
-    "professor_id": null
+    ]
   }
 ]

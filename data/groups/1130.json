@@ -19,7 +19,11 @@
         "classroom": "H002"
       }
     ],
-    "professor_id": 125810
+    "professor_id": 125810,
+    "first_name": "Cynthia",
+    "last_name": "Miranda",
+    "rating": 6.0,
+    "num_ratings": 4
   },
   {
     "code": "1130",
@@ -41,7 +45,11 @@
         "classroom": "H002"
       }
     ],
-    "professor_id": 105127
+    "professor_id": 105127,
+    "first_name": "Eduardo",
+    "last_name": "Bernal Vargas",
+    "rating": 9.6667,
+    "num_ratings": 12
   },
   {
     "code": "1130",
@@ -63,7 +71,11 @@
         "classroom": "H002"
       }
     ],
-    "professor_id": 30167
+    "professor_id": 30167,
+    "first_name": "Alicia",
+    "last_name": "Esponda Cascajares",
+    "rating": 7.6154,
+    "num_ratings": 39
   },
   {
     "code": "1130",
@@ -85,7 +97,11 @@
         "classroom": "H002"
       }
     ],
-    "professor_id": 90851
+    "professor_id": 90851,
+    "first_name": "OMAR ING.",
+    "last_name": "DE JESUS PEREZ",
+    "rating": 8.0,
+    "num_ratings": 41
   },
   {
     "code": "1130",
@@ -107,7 +123,11 @@
         "classroom": "H002"
       }
     ],
-    "professor_id": 51709
+    "professor_id": 51709,
+    "first_name": "Carlos Alberto",
+    "last_name": "Pineda Figueroa",
+    "rating": 9.4286,
+    "num_ratings": 84
   },
   {
     "code": "1130",
@@ -129,7 +149,11 @@
         "classroom": "H002"
       }
     ],
-    "professor_id": 30167
+    "professor_id": 30167,
+    "first_name": "Alicia",
+    "last_name": "Esponda Cascajares",
+    "rating": 7.6154,
+    "num_ratings": 39
   },
   {
     "code": "1130",
@@ -151,7 +175,11 @@
         "classroom": "H002"
       }
     ],
-    "professor_id": 62000
+    "professor_id": 62000,
+    "first_name": "Alfredo",
+    "last_name": "Velásquez Márquez",
+    "rating": 6.5195,
+    "num_ratings": 77
   },
   {
     "code": "1130",
@@ -172,8 +200,7 @@
         ],
         "classroom": "H002"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1130",
@@ -195,7 +222,11 @@
         "classroom": "H002"
       }
     ],
-    "professor_id": 74107
+    "professor_id": 74107,
+    "first_name": "María Ofelia",
+    "last_name": "Rodriguez Durán",
+    "rating": 7.102,
+    "num_ratings": 49
   },
   {
     "code": "1130",
@@ -217,7 +248,11 @@
         "classroom": "H002"
       }
     ],
-    "professor_id": 105095
+    "professor_id": 105095,
+    "first_name": "Beatriz Eugenia",
+    "last_name": "Hernandez Rodriguez",
+    "rating": 7.3333,
+    "num_ratings": 24
   },
   {
     "code": "1130",
@@ -239,7 +274,11 @@
         "classroom": "H002"
       }
     ],
-    "professor_id": 74107
+    "professor_id": 74107,
+    "first_name": "María Ofelia",
+    "last_name": "Rodriguez Durán",
+    "rating": 7.102,
+    "num_ratings": 49
   },
   {
     "code": "1130",
@@ -261,7 +300,11 @@
         "classroom": "H002"
       }
     ],
-    "professor_id": 105095
+    "professor_id": 105095,
+    "first_name": "Beatriz Eugenia",
+    "last_name": "Hernandez Rodriguez",
+    "rating": 7.3333,
+    "num_ratings": 24
   },
   {
     "code": "1130",
@@ -283,7 +326,11 @@
         "classroom": "H002"
       }
     ],
-    "professor_id": 105127
+    "professor_id": 105127,
+    "first_name": "Eduardo",
+    "last_name": "Bernal Vargas",
+    "rating": 9.6667,
+    "num_ratings": 12
   },
   {
     "code": "1130",
@@ -305,7 +352,11 @@
         "classroom": "H002"
       }
     ],
-    "professor_id": 60632
+    "professor_id": 60632,
+    "first_name": "Elizabeth",
+    "last_name": "Aguirre Maldonado",
+    "rating": 7.2326,
+    "num_ratings": 43
   },
   {
     "code": "1130",
@@ -327,7 +378,11 @@
         "classroom": "H002"
       }
     ],
-    "professor_id": 82820
+    "professor_id": 82820,
+    "first_name": "Lucia Yazmín",
+    "last_name": "Juárez de la Mora",
+    "rating": 6.5778,
+    "num_ratings": 45
   },
   {
     "code": "1130",
@@ -349,6 +404,10 @@
         "classroom": "H002"
       }
     ],
-    "professor_id": 44254
+    "professor_id": 44254,
+    "first_name": "Maria del Carmen",
+    "last_name": "Melo Díaz",
+    "rating": 7.0263,
+    "num_ratings": 76
   }
 ]

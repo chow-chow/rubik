@@ -13,7 +13,11 @@
         "classroom": "C402"
       }
     ],
-    "professor_id": 101486
+    "professor_id": 101486,
+    "first_name": "Alfonso",
+    "last_name": "Palacios Muñoz",
+    "rating": 9.0,
+    "num_ratings": 21
   },
   {
     "code": "1441",
@@ -29,7 +33,11 @@
         "classroom": "B406"
       }
     ],
-    "professor_id": 101486
+    "professor_id": 101486,
+    "first_name": "Alfonso",
+    "last_name": "Palacios Muñoz",
+    "rating": 9.0,
+    "num_ratings": 21
   },
   {
     "code": "1441",
@@ -44,8 +52,7 @@
         ],
         "classroom": "D007"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1441",
@@ -60,7 +67,6 @@
         ],
         "classroom": "D008"
       }
-    ],
-    "professor_id": null
+    ]
   }
 ]

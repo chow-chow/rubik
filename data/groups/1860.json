@@ -13,7 +13,11 @@
         "classroom": "B303"
       }
     ],
-    "professor_id": 74598
+    "professor_id": 74598,
+    "first_name": "William",
+    "last_name": "Vicente y Rodríguez",
+    "rating": 7.1429,
+    "num_ratings": 7
   },
   {
     "code": "1860",
@@ -28,8 +32,7 @@
         ],
         "classroom": "D001"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1860",
@@ -50,8 +53,7 @@
         ],
         "classroom": "B105"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1860",
@@ -66,8 +68,7 @@
         ],
         "classroom": "EXTR"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1860",
@@ -83,6 +84,10 @@
         "classroom": "Y004"
       }
     ],
-    "professor_id": 113818
+    "professor_id": 113818,
+    "first_name": "Francisco Javier",
+    "last_name": "Solorio Ordaz",
+    "rating": 7.8889,
+    "num_ratings": 9
   }
 ]

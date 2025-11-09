@@ -12,8 +12,7 @@
         ],
         "classroom": "J104"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1223",
@@ -29,7 +28,11 @@
         "classroom": "Y104"
       }
     ],
-    "professor_id": 51489
+    "professor_id": 51489,
+    "first_name": "Pedro",
+    "last_name": "Struck Cano",
+    "rating": 6.625,
+    "num_ratings": 48
   },
   {
     "code": "1223",
@@ -45,7 +48,11 @@
         "classroom": "J211"
       }
     ],
-    "professor_id": 49791
+    "professor_id": 49791,
+    "first_name": "Manuel",
+    "last_name": "Ayala Martinez",
+    "rating": 4.6111,
+    "num_ratings": 18
   },
   {
     "code": "1223",
@@ -67,7 +74,11 @@
         "classroom": "J201"
       }
     ],
-    "professor_id": 22035
+    "professor_id": 22035,
+    "first_name": "Juan",
+    "last_name": "Ocáriz Castelazo",
+    "rating": 8.6481,
+    "num_ratings": 162
   },
   {
     "code": "1223",
@@ -83,7 +94,11 @@
         "classroom": "J111"
       }
     ],
-    "professor_id": 70466
+    "professor_id": 70466,
+    "first_name": "Epifanio Oscar",
+    "last_name": "Carballar López",
+    "rating": 7.359,
+    "num_ratings": 39
   },
   {
     "code": "1223",
@@ -98,8 +113,7 @@
         ],
         "classroom": "J109"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1223",
@@ -115,7 +129,11 @@
         "classroom": "J211"
       }
     ],
-    "professor_id": 141997
+    "professor_id": 141997,
+    "first_name": "Adriana",
+    "last_name": "Alarcon Muñoz",
+    "rating": 8.6596,
+    "num_ratings": 47
   },
   {
     "code": "1223",
@@ -130,8 +148,7 @@
         ],
         "classroom": "J102"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1223",
@@ -146,8 +163,7 @@
         ],
         "classroom": "J210"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1223",
@@ -163,7 +179,11 @@
         "classroom": "I206"
       }
     ],
-    "professor_id": 93946
+    "professor_id": 93946,
+    "first_name": "Alfredo Antonio",
+    "last_name": "Aguilar Castillo",
+    "rating": 7.7391,
+    "num_ratings": 23
   },
   {
     "code": "1223",
@@ -179,6 +199,10 @@
         "classroom": "J207"
       }
     ],
-    "professor_id": 114184
+    "professor_id": 114184,
+    "first_name": "Fernando",
+    "last_name": "Sanchez Rodriguez",
+    "rating": 5.3571,
+    "num_ratings": 28
   }
 ]

@@ -13,7 +13,11 @@
         "classroom": "B206"
       }
     ],
-    "professor_id": 134031
+    "professor_id": 134031,
+    "first_name": "Rodolfo",
+    "last_name": "Soto Carrasco",
+    "rating": 7.875,
+    "num_ratings": 8
   },
   {
     "code": "1016",
@@ -29,7 +33,11 @@
         "classroom": "A206"
       }
     ],
-    "professor_id": 74006
+    "professor_id": 74006,
+    "first_name": "Jorge",
+    "last_name": "Velazquez Ramirez",
+    "rating": 8.41,
+    "num_ratings": 27
   },
   {
     "code": "1016",
@@ -45,6 +53,10 @@
         "classroom": "DS01"
       }
     ],
-    "professor_id": 95193
+    "professor_id": 95193,
+    "first_name": "jorge",
+    "last_name": "quintana castañeda",
+    "rating": 4.33,
+    "num_ratings": 18
   }
 ]

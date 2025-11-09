@@ -13,7 +13,11 @@
         "classroom": "Y002"
       }
     ],
-    "professor_id": 119388
+    "professor_id": 119388,
+    "first_name": "Angel Cesar",
+    "last_name": "Govantes Saldivar",
+    "rating": 5.375,
+    "num_ratings": 16
   },
   {
     "code": "2931",
@@ -29,7 +33,11 @@
         "classroom": "B304"
       }
     ],
-    "professor_id": 90758
+    "professor_id": 90758,
+    "first_name": "Salvador",
+    "last_name": "Perez Viramontes",
+    "rating": 5.3684,
+    "num_ratings": 19
   },
   {
     "code": "2931",
@@ -45,6 +53,10 @@
         "classroom": "A206"
       }
     ],
-    "professor_id": 138601
+    "professor_id": 138601,
+    "first_name": "Gerardo Gabriel",
+    "last_name": "Carrasco Zuñiga",
+    "rating": 9.2857,
+    "num_ratings": 14
   }
 ]

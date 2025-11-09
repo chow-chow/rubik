@@ -13,7 +13,11 @@
         "classroom": "B305"
       }
     ],
-    "professor_id": 124535
+    "professor_id": 124535,
+    "first_name": "Adan",
+    "last_name": "Bonilla Chávez",
+    "rating": 8.7368,
+    "num_ratings": 19
   },
   {
     "code": "1999",
@@ -29,7 +33,11 @@
         "classroom": "A305"
       }
     ],
-    "professor_id": 99010
+    "professor_id": 99010,
+    "first_name": "Mario Alfredo",
+    "last_name": "Ibarra Carrillo",
+    "rating": 8.0,
+    "num_ratings": 8
   },
   {
     "code": "1999",
@@ -45,7 +53,11 @@
         "classroom": "A306"
       }
     ],
-    "professor_id": 104552
+    "professor_id": 104552,
+    "first_name": "Benjamin",
+    "last_name": "Valera Orozco",
+    "rating": 7.4,
+    "num_ratings": 5
   },
   {
     "code": "1999",
@@ -61,6 +73,10 @@
         "classroom": "A301"
       }
     ],
-    "professor_id": 89946
+    "professor_id": 89946,
+    "first_name": "FLORICEL",
+    "last_name": "RAMOS VARGAS",
+    "rating": 5.7273,
+    "num_ratings": 33
   }
 ]

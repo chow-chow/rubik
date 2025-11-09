@@ -12,7 +12,11 @@
         "classroom": "Q307"
       }
     ],
-    "professor_id": 82398
+    "professor_id": 82398,
+    "first_name": "Monica",
+    "last_name": "López coyote",
+    "rating": 7.28,
+    "num_ratings": 67
   },
   {
     "code": "7830",
@@ -27,7 +31,11 @@
         "classroom": "Q307"
       }
     ],
-    "professor_id": 94393
+    "professor_id": 94393,
+    "first_name": "CHRISTIAN",
+    "last_name": "HERNANDEZ SANTIAGO",
+    "rating": 9.3125,
+    "num_ratings": 16
   },
   {
     "code": "7830",
@@ -42,7 +50,11 @@
         "classroom": "Q307"
       }
     ],
-    "professor_id": 82398
+    "professor_id": 82398,
+    "first_name": "Monica",
+    "last_name": "López coyote",
+    "rating": 7.28,
+    "num_ratings": 67
   },
   {
     "code": "7830",
@@ -57,7 +69,11 @@
         "classroom": "Q307"
       }
     ],
-    "professor_id": 94393
+    "professor_id": 94393,
+    "first_name": "CHRISTIAN",
+    "last_name": "HERNANDEZ SANTIAGO",
+    "rating": 9.3125,
+    "num_ratings": 16
   },
   {
     "code": "7830",
@@ -72,6 +88,10 @@
         "classroom": "Q307"
       }
     ],
-    "professor_id": 134945
+    "professor_id": 134945,
+    "first_name": "Valentina Luisa",
+    "last_name": "Souza Rodríguez",
+    "rating": 8.625,
+    "num_ratings": 8
   }
 ]

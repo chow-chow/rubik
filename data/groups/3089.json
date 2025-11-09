@@ -13,7 +13,11 @@
         "classroom": "EXTR"
       }
     ],
-    "professor_id": 86735
+    "professor_id": 86735,
+    "first_name": "Saúl",
+    "last_name": "de la Rosa Nieves",
+    "rating": 8.8,
+    "num_ratings": 15
   },
   {
     "code": "3089",
@@ -29,7 +33,11 @@
         "classroom": "EXTR"
       }
     ],
-    "professor_id": 68365
+    "professor_id": 68365,
+    "first_name": "Marco Antonio",
+    "last_name": "Negrete villanueva",
+    "rating": 7.5,
+    "num_ratings": 24
   },
   {
     "code": "3089",
@@ -45,7 +53,11 @@
         "classroom": "B201"
       }
     ],
-    "professor_id": 90944
+    "professor_id": 90944,
+    "first_name": "NEFTALI",
+    "last_name": "ELORZA LOPEZ",
+    "rating": 5.2609,
+    "num_ratings": 23
   },
   {
     "code": "3089",
@@ -60,8 +72,7 @@
         ],
         "classroom": "EXTR"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "3089",
@@ -77,7 +88,11 @@
         "classroom": "B302"
       }
     ],
-    "professor_id": 104481
+    "professor_id": 104481,
+    "first_name": "RICARDO FERNANDO",
+    "last_name": "ABELA POSADA",
+    "rating": 9.45,
+    "num_ratings": 20
   },
   {
     "code": "3089",
@@ -92,8 +107,7 @@
         ],
         "classroom": "EXTR"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "3089",
@@ -109,7 +123,11 @@
         "classroom": "EXTR"
       }
     ],
-    "professor_id": 81491
+    "professor_id": 81491,
+    "first_name": "Jesus",
+    "last_name": "Savage Carmona",
+    "rating": 6.1429,
+    "num_ratings": 14
   },
   {
     "code": "3089",
@@ -124,8 +142,7 @@
         ],
         "classroom": "A311"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "3089",
@@ -140,8 +157,7 @@
         ],
         "classroom": "EXTR"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "3089",
@@ -157,7 +173,11 @@
         "classroom": "EXTR"
       }
     ],
-    "professor_id": 171640
+    "professor_id": 171640,
+    "first_name": "Erik",
+    "last_name": "Peña Medina",
+    "rating": 5.5,
+    "num_ratings": 2
   },
   {
     "code": "3089",
@@ -172,8 +192,7 @@
         ],
         "classroom": "A310"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "3089",
@@ -188,8 +207,7 @@
         ],
         "classroom": "EXTR"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "3089",
@@ -204,8 +222,7 @@
         ],
         "classroom": "O103"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "3089",
@@ -220,8 +237,7 @@
         ],
         "classroom": "EXTR"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "3089",
@@ -236,8 +252,7 @@
         ],
         "classroom": "EXTR"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "3089",
@@ -252,7 +267,6 @@
         ],
         "classroom": "EXTR"
       }
-    ],
-    "professor_id": null
+    ]
   }
 ]

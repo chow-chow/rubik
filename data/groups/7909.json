@@ -11,8 +11,7 @@
         ],
         "classroom": "P113"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "7909",
@@ -27,7 +26,11 @@
         "classroom": "P113"
       }
     ],
-    "professor_id": 159593
+    "professor_id": 159593,
+    "first_name": "Fernanda",
+    "last_name": "Ramos",
+    "rating": 8.3333,
+    "num_ratings": 3
   },
   {
     "code": "7909",
@@ -41,8 +44,7 @@
         ],
         "classroom": "P113"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "7909",
@@ -56,7 +58,6 @@
         ],
         "classroom": "P113"
       }
-    ],
-    "professor_id": null
+    ]
   }
 ]

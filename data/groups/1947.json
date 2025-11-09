@@ -12,8 +12,7 @@
         ],
         "classroom": "EXTR"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1947",
@@ -29,6 +28,10 @@
         "classroom": "A208"
       }
     ],
-    "professor_id": 64677
+    "professor_id": 64677,
+    "first_name": "Tanya Itzel",
+    "last_name": "Arteaga Ricci",
+    "rating": 9.14,
+    "num_ratings": 37
   }
 ]

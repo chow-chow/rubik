@@ -13,7 +13,11 @@
         "classroom": "O002"
       }
     ],
-    "professor_id": 79845
+    "professor_id": 79845,
+    "first_name": "Carlos Gabriel",
+    "last_name": "Figueroa Alcántara",
+    "rating": 7.5556,
+    "num_ratings": 18
   },
   {
     "code": "2500",
@@ -28,8 +32,7 @@
         ],
         "classroom": "O103"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "2500",
@@ -45,7 +48,11 @@
         "classroom": "B303"
       }
     ],
-    "professor_id": 112892
+    "professor_id": 112892,
+    "first_name": "Tatiana Lilia",
+    "last_name": "Ávalos Rendón",
+    "rating": 7.0,
+    "num_ratings": 15
   },
   {
     "code": "2500",
@@ -61,7 +68,11 @@
         "classroom": "B303"
       }
     ],
-    "professor_id": 23484
+    "professor_id": 23484,
+    "first_name": "luis",
+    "last_name": "flores",
+    "rating": 2.3333,
+    "num_ratings": 3
   },
   {
     "code": "2500",
@@ -77,7 +88,11 @@
         "classroom": "O101"
       }
     ],
-    "professor_id": 149718
+    "professor_id": 149718,
+    "first_name": "JESUS RAFAEL",
+    "last_name": "GONZALEZ PARRA",
+    "rating": 6.1667,
+    "num_ratings": 12
   },
   {
     "code": "2500",
@@ -93,7 +108,11 @@
         "classroom": "B303"
       }
     ],
-    "professor_id": 112892
+    "professor_id": 112892,
+    "first_name": "Tatiana Lilia",
+    "last_name": "Ávalos Rendón",
+    "rating": 7.0,
+    "num_ratings": 15
   },
   {
     "code": "2500",
@@ -108,8 +127,7 @@
         ],
         "classroom": "D002"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "2500",
@@ -124,7 +142,6 @@
         ],
         "classroom": "B105"
       }
-    ],
-    "professor_id": null
+    ]
   }
 ]

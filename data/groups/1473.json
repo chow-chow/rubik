@@ -13,7 +13,11 @@
         "classroom": "B404"
       }
     ],
-    "professor_id": 89815
+    "professor_id": 89815,
+    "first_name": "Edgar",
+    "last_name": "Tello",
+    "rating": 8.1818,
+    "num_ratings": 44
   },
   {
     "code": "1473",
@@ -28,8 +32,7 @@
         ],
         "classroom": "A306"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1473",
@@ -45,7 +48,11 @@
         "classroom": "A306"
       }
     ],
-    "professor_id": 95166
+    "professor_id": 95166,
+    "first_name": "OSCAR",
+    "last_name": "PILLONI CHOREÑO",
+    "rating": 9.04,
+    "num_ratings": 25
   },
   {
     "code": "1473",
@@ -61,7 +68,11 @@
         "classroom": "A107"
       }
     ],
-    "professor_id": 89815
+    "professor_id": 89815,
+    "first_name": "Edgar",
+    "last_name": "Tello",
+    "rating": 8.1818,
+    "num_ratings": 44
   },
   {
     "code": "1473",
@@ -77,7 +88,11 @@
         "classroom": "B304"
       }
     ],
-    "professor_id": 159593
+    "professor_id": 159593,
+    "first_name": "Fernanda",
+    "last_name": "Ramos",
+    "rating": 8.3333,
+    "num_ratings": 3
   },
   {
     "code": "1473",
@@ -92,6 +107,10 @@
         "classroom": "B205"
       }
     ],
-    "professor_id": 99801
+    "professor_id": 99801,
+    "first_name": "ERIKA SUSANA ING.",
+    "last_name": "MENDOZA URRUTIA",
+    "rating": 6.8387,
+    "num_ratings": 31
   }
 ]

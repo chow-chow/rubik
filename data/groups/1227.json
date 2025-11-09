@@ -20,7 +20,11 @@
         "classroom": "T101"
       }
     ],
-    "professor_id": 36976
+    "professor_id": 36976,
+    "first_name": "Patricia",
+    "last_name": "Del Valle Morales",
+    "rating": 7.3956,
+    "num_ratings": 91
   },
   {
     "code": "1227",
@@ -42,8 +46,7 @@
         ],
         "classroom": "Q007"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1227",
@@ -65,8 +68,7 @@
         ],
         "classroom": "Q007"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1227",
@@ -89,7 +91,11 @@
         "classroom": "Q007"
       }
     ],
-    "professor_id": 78645
+    "professor_id": 78645,
+    "first_name": "Edgar",
+    "last_name": "Tista",
+    "rating": 8.8605,
+    "num_ratings": 43
   },
   {
     "code": "1227",
@@ -111,8 +117,7 @@
         ],
         "classroom": "Q007"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1227",
@@ -135,7 +140,11 @@
         "classroom": "P003"
       }
     ],
-    "professor_id": 63714
+    "professor_id": 63714,
+    "first_name": "GABRIEL",
+    "last_name": "CASTILLO HERNANDEZ",
+    "rating": 9.1064,
+    "num_ratings": 47
   },
   {
     "code": "1227",
@@ -158,7 +167,11 @@
         "classroom": "Q008"
       }
     ],
-    "professor_id": 104952
+    "professor_id": 104952,
+    "first_name": "Adan",
+    "last_name": "Zepeda",
+    "rating": 7.25,
+    "num_ratings": 4
   },
   {
     "code": "1227",
@@ -181,6 +194,10 @@
         "classroom": "Q007"
       }
     ],
-    "professor_id": 114087
+    "professor_id": 114087,
+    "first_name": "Hugo",
+    "last_name": "Zúñiga Barragán",
+    "rating": 7.3333,
+    "num_ratings": 18
   }
 ]

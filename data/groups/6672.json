@@ -12,7 +12,11 @@
         "classroom": "Q209"
       }
     ],
-    "professor_id": 134609
+    "professor_id": 134609,
+    "first_name": "Moises",
+    "last_name": "Melendez Reyes",
+    "rating": 7.9,
+    "num_ratings": 20
   },
   {
     "code": "6672",
@@ -27,7 +31,11 @@
         "classroom": "Q209"
       }
     ],
-    "professor_id": 134609
+    "professor_id": 134609,
+    "first_name": "Moises",
+    "last_name": "Melendez Reyes",
+    "rating": 7.9,
+    "num_ratings": 20
   },
   {
     "code": "6672",
@@ -42,7 +50,11 @@
         "classroom": "Q209"
       }
     ],
-    "professor_id": 94396
+    "professor_id": 94396,
+    "first_name": "DIANA",
+    "last_name": "CRUZ HERNANDEZ",
+    "rating": 5.2,
+    "num_ratings": 10
   },
   {
     "code": "6672",
@@ -57,7 +69,11 @@
         "classroom": "Q209"
       }
     ],
-    "professor_id": 94395
+    "professor_id": 94395,
+    "first_name": "RUBEN",
+    "last_name": "ANAYA GARCIA",
+    "rating": 8.1333,
+    "num_ratings": 15
   },
   {
     "code": "6672",
@@ -72,7 +88,11 @@
         "classroom": "Q209"
       }
     ],
-    "professor_id": 124037
+    "professor_id": 124037,
+    "first_name": "Lourdes Angelica",
+    "last_name": "Quiñones Juarez",
+    "rating": 8.0,
+    "num_ratings": 17
   },
   {
     "code": "6672",
@@ -87,7 +107,11 @@
         "classroom": "Q209"
       }
     ],
-    "professor_id": 134609
+    "professor_id": 134609,
+    "first_name": "Moises",
+    "last_name": "Melendez Reyes",
+    "rating": 7.9,
+    "num_ratings": 20
   },
   {
     "code": "6672",
@@ -102,7 +126,11 @@
         "classroom": "Q209"
       }
     ],
-    "professor_id": 124037
+    "professor_id": 124037,
+    "first_name": "Lourdes Angelica",
+    "last_name": "Quiñones Juarez",
+    "rating": 8.0,
+    "num_ratings": 17
   },
   {
     "code": "6672",
@@ -117,7 +145,11 @@
         "classroom": "Q209"
       }
     ],
-    "professor_id": 94395
+    "professor_id": 94395,
+    "first_name": "RUBEN",
+    "last_name": "ANAYA GARCIA",
+    "rating": 8.1333,
+    "num_ratings": 15
   },
   {
     "code": "6672",
@@ -132,7 +164,11 @@
         "classroom": "Q209"
       }
     ],
-    "professor_id": 108136
+    "professor_id": 108136,
+    "first_name": "Roman Victoriano",
+    "last_name": "Osorio Comparan",
+    "rating": 7.4706,
+    "num_ratings": 17
   },
   {
     "code": "6672",
@@ -147,6 +183,10 @@
         "classroom": "Q209"
       }
     ],
-    "professor_id": 108136
+    "professor_id": 108136,
+    "first_name": "Roman Victoriano",
+    "last_name": "Osorio Comparan",
+    "rating": 7.4706,
+    "num_ratings": 17
   }
 ]

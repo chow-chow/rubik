@@ -11,8 +11,7 @@
         ],
         "classroom": "A109"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "2804",
@@ -28,7 +27,11 @@
         "classroom": "B105"
       }
     ],
-    "professor_id": 172889
+    "professor_id": 172889,
+    "first_name": "ADRIAN ESTEBAN",
+    "last_name": "ORTIZ VALERA",
+    "rating": 8.6667,
+    "num_ratings": 3
   },
   {
     "code": "2804",
@@ -44,7 +47,11 @@
         "classroom": "C403"
       }
     ],
-    "professor_id": 142293
+    "professor_id": 142293,
+    "first_name": "Ricardo",
+    "last_name": "Torres Mendoza",
+    "rating": 9.2,
+    "num_ratings": 5
   },
   {
     "code": "2804",
@@ -58,7 +65,6 @@
         ],
         "classroom": "A109"
       }
-    ],
-    "professor_id": null
+    ]
   }
 ]

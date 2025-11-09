@@ -13,7 +13,11 @@
         "classroom": "B304"
       }
     ],
-    "professor_id": 89949
+    "professor_id": 89949,
+    "first_name": "ISMAEL",
+    "last_name": "ROMERO OCARANZA",
+    "rating": 6.7391,
+    "num_ratings": 23
   },
   {
     "code": "1686",
@@ -29,7 +33,11 @@
         "classroom": "B408"
       }
     ],
-    "professor_id": 89950
+    "professor_id": 89950,
+    "first_name": "Jorge Antonio",
+    "last_name": "Monroy Juarez",
+    "rating": 6.6429,
+    "num_ratings": 14
   },
   {
     "code": "1686",
@@ -45,7 +53,11 @@
         "classroom": "B304"
       }
     ],
-    "professor_id": 99010
+    "professor_id": 99010,
+    "first_name": "Mario Alfredo",
+    "last_name": "Ibarra Carrillo",
+    "rating": 8.0,
+    "num_ratings": 8
   },
   {
     "code": "1686",
@@ -60,8 +72,7 @@
         ],
         "classroom": "B103"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1686",
@@ -77,7 +88,11 @@
         "classroom": "A107"
       }
     ],
-    "professor_id": 89946
+    "professor_id": 89946,
+    "first_name": "FLORICEL",
+    "last_name": "RAMOS VARGAS",
+    "rating": 5.7273,
+    "num_ratings": 33
   },
   {
     "code": "1686",
@@ -92,7 +107,11 @@
         "classroom": "B401"
       }
     ],
-    "professor_id": 124535
+    "professor_id": 124535,
+    "first_name": "Adan",
+    "last_name": "Bonilla Chávez",
+    "rating": 8.7368,
+    "num_ratings": 19
   },
   {
     "code": "1686",
@@ -106,8 +125,7 @@
         ],
         "classroom": "B101"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1686",
@@ -122,6 +140,10 @@
         "classroom": "B103"
       }
     ],
-    "professor_id": 130840
+    "professor_id": 130840,
+    "first_name": "Ernesto",
+    "last_name": "Ramírez Cruz",
+    "rating": 9.8,
+    "num_ratings": 20
   }
 ]

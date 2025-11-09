@@ -13,7 +13,11 @@
         "classroom": "C203"
       }
     ],
-    "professor_id": 78441
+    "professor_id": 78441,
+    "first_name": "Gilberto",
+    "last_name": "Silva Romo",
+    "rating": 7.8421,
+    "num_ratings": 19
   },
   {
     "code": "1438",
@@ -28,8 +32,7 @@
         ],
         "classroom": "C203"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1438",
@@ -44,8 +47,7 @@
         ],
         "classroom": "C204"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1438",
@@ -60,7 +62,6 @@
         ],
         "classroom": "C203"
       }
-    ],
-    "professor_id": null
+    ]
   }
 ]

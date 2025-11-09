@@ -11,8 +11,7 @@
         ],
         "classroom": "T101"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "6644",
@@ -27,7 +26,11 @@
         "classroom": "T101"
       }
     ],
-    "professor_id": 114128
+    "professor_id": 114128,
+    "first_name": "ING. MARTHA",
+    "last_name": "LOPEZ PELCASTRE",
+    "rating": 8.0,
+    "num_ratings": 42
   },
   {
     "code": "6644",
@@ -42,7 +45,11 @@
         "classroom": "T101"
       }
     ],
-    "professor_id": 135119
+    "professor_id": 135119,
+    "first_name": "Juan Ángel",
+    "last_name": "Calvillo Pérez",
+    "rating": 8.9375,
+    "num_ratings": 16
   },
   {
     "code": "6644",
@@ -57,7 +64,11 @@
         "classroom": "T101"
       }
     ],
-    "professor_id": 135119
+    "professor_id": 135119,
+    "first_name": "Juan Ángel",
+    "last_name": "Calvillo Pérez",
+    "rating": 8.9375,
+    "num_ratings": 16
   },
   {
     "code": "6644",
@@ -72,7 +83,11 @@
         "classroom": "T101"
       }
     ],
-    "professor_id": 105202
+    "professor_id": 105202,
+    "first_name": "Czeslaw Kristofer",
+    "last_name": "Lugowski Rivero",
+    "rating": 8.7895,
+    "num_ratings": 19
   },
   {
     "code": "6644",
@@ -87,7 +102,11 @@
         "classroom": "T101"
       }
     ],
-    "professor_id": 108516
+    "professor_id": 108516,
+    "first_name": "Jorge Alberto",
+    "last_name": "Rodríguez Campos",
+    "rating": 8.3922,
+    "num_ratings": 51
   },
   {
     "code": "6644",
@@ -102,7 +121,11 @@
         "classroom": "T101"
       }
     ],
-    "professor_id": 114128
+    "professor_id": 114128,
+    "first_name": "ING. MARTHA",
+    "last_name": "LOPEZ PELCASTRE",
+    "rating": 8.0,
+    "num_ratings": 42
   },
   {
     "code": "6644",
@@ -117,6 +140,10 @@
         "classroom": "T101"
       }
     ],
-    "professor_id": 114128
+    "professor_id": 114128,
+    "first_name": "ING. MARTHA",
+    "last_name": "LOPEZ PELCASTRE",
+    "rating": 8.0,
+    "num_ratings": 42
   }
 ]

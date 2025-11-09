@@ -18,8 +18,7 @@
         ],
         "classroom": "Q008"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1127",
@@ -41,7 +40,11 @@
         "classroom": "Q007"
       }
     ],
-    "professor_id": 90758
+    "professor_id": 90758,
+    "first_name": "Salvador",
+    "last_name": "Perez Viramontes",
+    "rating": 5.3684,
+    "num_ratings": 19
   },
   {
     "code": "1127",
@@ -62,8 +65,7 @@
         ],
         "classroom": "Q007"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1127",
@@ -85,7 +87,11 @@
         "classroom": "Q008"
       }
     ],
-    "professor_id": 49563
+    "professor_id": 49563,
+    "first_name": "Dulce Monica",
+    "last_name": "Castillo Corona",
+    "rating": 7.06,
+    "num_ratings": 87
   },
   {
     "code": "1127",
@@ -107,7 +113,11 @@
         "classroom": "Q007"
       }
     ],
-    "professor_id": 187681
+    "professor_id": 187681,
+    "first_name": "ING. JESSICA",
+    "last_name": "ROJAS SERRANO",
+    "rating": 9.6667,
+    "num_ratings": 3
   },
   {
     "code": "1127",
@@ -129,7 +139,11 @@
         "classroom": "Q007"
       }
     ],
-    "professor_id": 58571
+    "professor_id": 58571,
+    "first_name": "Maria Guadalupe",
+    "last_name": "Morales Nava",
+    "rating": 8.6585,
+    "num_ratings": 41
   },
   {
     "code": "1127",
@@ -150,8 +164,7 @@
         ],
         "classroom": "Q008"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1127",
@@ -173,7 +186,11 @@
         "classroom": "Q007"
       }
     ],
-    "professor_id": 187681
+    "professor_id": 187681,
+    "first_name": "ING. JESSICA",
+    "last_name": "ROJAS SERRANO",
+    "rating": 9.6667,
+    "num_ratings": 3
   },
   {
     "code": "1127",
@@ -194,8 +211,7 @@
         ],
         "classroom": "Q008"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1127",
@@ -217,6 +233,10 @@
         "classroom": "P003"
       }
     ],
-    "professor_id": 64679
+    "professor_id": 64679,
+    "first_name": "Jorge Luis",
+    "last_name": "López García",
+    "rating": 8.4848,
+    "num_ratings": 66
   }
 ]

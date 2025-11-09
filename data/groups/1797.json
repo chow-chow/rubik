@@ -13,7 +13,11 @@
         "classroom": "EXTR"
       }
     ],
-    "professor_id": 98813
+    "professor_id": 98813,
+    "first_name": "Miguel",
+    "last_name": "Serrano Reyes",
+    "rating": 9.2353,
+    "num_ratings": 17
   },
   {
     "code": "1797",
@@ -28,8 +32,7 @@
         ],
         "classroom": "EXTR"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1797",
@@ -43,7 +46,6 @@
         ],
         "classroom": "X101"
       }
-    ],
-    "professor_id": null
+    ]
   }
 ]

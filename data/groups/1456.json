@@ -12,7 +12,11 @@
         "classroom": "C104"
       }
     ],
-    "professor_id": 68400
+    "professor_id": 68400,
+    "first_name": "Carlos Aurelio",
+    "last_name": "Bernal Esponda",
+    "rating": 8.4348,
+    "num_ratings": 23
   },
   {
     "code": "1456",
@@ -26,7 +30,6 @@
         ],
         "classroom": "C103"
       }
-    ],
-    "professor_id": null
+    ]
   }
 ]

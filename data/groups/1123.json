@@ -12,8 +12,7 @@
         ],
         "classroom": "I104"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1123",
@@ -28,8 +27,7 @@
         ],
         "classroom": "I303"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1123",
@@ -45,7 +43,11 @@
         "classroom": "I105"
       }
     ],
-    "professor_id": 98612
+    "professor_id": 98612,
+    "first_name": "Guillermo",
+    "last_name": "Pérez Quintero",
+    "rating": 8.6,
+    "num_ratings": 30
   },
   {
     "code": "1123",
@@ -61,7 +63,11 @@
         "classroom": "I303"
       }
     ],
-    "professor_id": 62000
+    "professor_id": 62000,
+    "first_name": "Alfredo",
+    "last_name": "Velásquez Márquez",
+    "rating": 6.5195,
+    "num_ratings": 77
   },
   {
     "code": "1123",
@@ -76,8 +82,7 @@
         ],
         "classroom": "I302"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1123",
@@ -93,7 +98,11 @@
         "classroom": "I304"
       }
     ],
-    "professor_id": 128316
+    "professor_id": 128316,
+    "first_name": "Luis",
+    "last_name": "Peña Cruz",
+    "rating": 6.2727,
+    "num_ratings": 11
   },
   {
     "code": "1123",
@@ -109,7 +118,11 @@
         "classroom": "J108"
       }
     ],
-    "professor_id": 98612
+    "professor_id": 98612,
+    "first_name": "Guillermo",
+    "last_name": "Pérez Quintero",
+    "rating": 8.6,
+    "num_ratings": 30
   },
   {
     "code": "1123",
@@ -125,7 +138,11 @@
         "classroom": "J102"
       }
     ],
-    "professor_id": 51350
+    "professor_id": 51350,
+    "first_name": "Ana Laura",
+    "last_name": "Pérez Martínez",
+    "rating": 7.2647,
+    "num_ratings": 34
   },
   {
     "code": "1123",
@@ -141,7 +158,11 @@
         "classroom": "I202"
       }
     ],
-    "professor_id": 71932
+    "professor_id": 71932,
+    "first_name": "Cynthia Sofia",
+    "last_name": "Rodriguez Mandujano",
+    "rating": 9.1667,
+    "num_ratings": 30
   },
   {
     "code": "1123",
@@ -156,8 +177,7 @@
         ],
         "classroom": "J105"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1123",
@@ -173,7 +193,11 @@
         "classroom": "J107"
       }
     ],
-    "professor_id": 35006
+    "professor_id": 35006,
+    "first_name": "Esther",
+    "last_name": "Flores Cruz",
+    "rating": 6.9348,
+    "num_ratings": 46
   },
   {
     "code": "1123",
@@ -188,8 +212,7 @@
         ],
         "classroom": "J102"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1123",
@@ -205,7 +228,11 @@
         "classroom": "I206"
       }
     ],
-    "professor_id": 71932
+    "professor_id": 71932,
+    "first_name": "Cynthia Sofia",
+    "last_name": "Rodriguez Mandujano",
+    "rating": 9.1667,
+    "num_ratings": 30
   },
   {
     "code": "1123",
@@ -221,7 +248,11 @@
         "classroom": "I102"
       }
     ],
-    "professor_id": 84707
+    "professor_id": 84707,
+    "first_name": "Thalia Itzel",
+    "last_name": "Ferrera Velazquez",
+    "rating": 8.9355,
+    "num_ratings": 31
   },
   {
     "code": "1123",
@@ -236,8 +267,7 @@
         ],
         "classroom": "I105"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1123",
@@ -253,7 +283,11 @@
         "classroom": "I106"
       }
     ],
-    "professor_id": 42088
+    "professor_id": 42088,
+    "first_name": "MIGUEL ANGEL",
+    "last_name": "JAIME VASCONCELOS",
+    "rating": 8.8833,
+    "num_ratings": 60
   },
   {
     "code": "1123",
@@ -268,8 +302,7 @@
         ],
         "classroom": "I304"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1123",
@@ -291,7 +324,11 @@
         "classroom": "I205"
       }
     ],
-    "professor_id": 62749
+    "professor_id": 62749,
+    "first_name": "ramiro",
+    "last_name": "maravilla",
+    "rating": 3.5,
+    "num_ratings": 18
   },
   {
     "code": "1123",
@@ -307,7 +344,11 @@
         "classroom": "I106"
       }
     ],
-    "professor_id": 56526
+    "professor_id": 56526,
+    "first_name": "Adriana",
+    "last_name": "Ramirez Gonzalez",
+    "rating": 7.7,
+    "num_ratings": 20
   },
   {
     "code": "1123",
@@ -322,8 +363,7 @@
         ],
         "classroom": "J101"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1123",
@@ -338,8 +378,7 @@
         ],
         "classroom": "I301"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1123",
@@ -354,8 +393,7 @@
         ],
         "classroom": "I202"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1123",
@@ -371,7 +409,11 @@
         "classroom": "J105"
       }
     ],
-    "professor_id": 62749
+    "professor_id": 62749,
+    "first_name": "ramiro",
+    "last_name": "maravilla",
+    "rating": 3.5,
+    "num_ratings": 18
   },
   {
     "code": "1123",
@@ -387,7 +429,11 @@
         "classroom": "I302"
       }
     ],
-    "professor_id": 181455
+    "professor_id": 181455,
+    "first_name": "Susana",
+    "last_name": "Aburto Mejía",
+    "rating": 10.0,
+    "num_ratings": 4
   },
   {
     "code": "1123",
@@ -409,7 +455,11 @@
         "classroom": "J210"
       }
     ],
-    "professor_id": 133194
+    "professor_id": 133194,
+    "first_name": "Jose Alejandro",
+    "last_name": "Sánchez Pérez",
+    "rating": 7.0,
+    "num_ratings": 4
   },
   {
     "code": "1123",
@@ -425,7 +475,11 @@
         "classroom": "I305"
       }
     ],
-    "professor_id": 75804
+    "professor_id": 75804,
+    "first_name": "Phaedra Suriel",
+    "last_name": "Silva Bermudez",
+    "rating": 8.17,
+    "num_ratings": 29
   },
   {
     "code": "1123",
@@ -441,7 +495,11 @@
         "classroom": "J101"
       }
     ],
-    "professor_id": 133194
+    "professor_id": 133194,
+    "first_name": "Jose Alejandro",
+    "last_name": "Sánchez Pérez",
+    "rating": 7.0,
+    "num_ratings": 4
   },
   {
     "code": "1123",
@@ -457,7 +515,11 @@
         "classroom": "J103"
       }
     ],
-    "professor_id": 181455
+    "professor_id": 181455,
+    "first_name": "Susana",
+    "last_name": "Aburto Mejía",
+    "rating": 10.0,
+    "num_ratings": 4
   },
   {
     "code": "1123",
@@ -473,7 +535,11 @@
         "classroom": "J109"
       }
     ],
-    "professor_id": 75634
+    "professor_id": 75634,
+    "first_name": "Natasha",
+    "last_name": "Villaseñor",
+    "rating": 3.6429,
+    "num_ratings": 14
   },
   {
     "code": "1123",
@@ -488,8 +554,7 @@
         ],
         "classroom": "Y104"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1123",
@@ -505,6 +570,10 @@
         "classroom": "I304"
       }
     ],
-    "professor_id": 58910
+    "professor_id": 58910,
+    "first_name": "Rosa",
+    "last_name": "Estrada Reyes",
+    "rating": 5.2857,
+    "num_ratings": 21
   }
 ]

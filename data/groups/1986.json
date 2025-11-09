@@ -13,7 +13,11 @@
         "classroom": "SIN"
       }
     ],
-    "professor_id": 161573
+    "professor_id": 161573,
+    "first_name": "Alfredo",
+    "last_name": "León García",
+    "rating": 7.0,
+    "num_ratings": 3
   },
   {
     "code": "1986",
@@ -36,7 +40,11 @@
         "classroom": "D006"
       }
     ],
-    "professor_id": 153583
+    "professor_id": 153583,
+    "first_name": "Ubaldo",
+    "last_name": "Ortiz Romero",
+    "rating": 8.8,
+    "num_ratings": 5
   },
   {
     "code": "1986",
@@ -52,7 +60,6 @@
         ],
         "classroom": "D006"
       }
-    ],
-    "professor_id": null
+    ]
   }
 ]

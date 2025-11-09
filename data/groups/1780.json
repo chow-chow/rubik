@@ -20,7 +20,11 @@
         "classroom": "H001"
       }
     ],
-    "professor_id": 105095
+    "professor_id": 105095,
+    "first_name": "Beatriz Eugenia",
+    "last_name": "Hernandez Rodriguez",
+    "rating": 7.3333,
+    "num_ratings": 24
   },
   {
     "code": "1780",
@@ -43,7 +47,11 @@
         "classroom": "H001"
       }
     ],
-    "professor_id": 99087
+    "professor_id": 99087,
+    "first_name": "Luis Enrique",
+    "last_name": "Quintanar Cortes",
+    "rating": 7.6,
+    "num_ratings": 5
   },
   {
     "code": "1780",
@@ -66,7 +74,11 @@
         "classroom": "H001"
       }
     ],
-    "professor_id": 105490
+    "professor_id": 105490,
+    "first_name": "María Beatriz",
+    "last_name": "De La Mora Mojica",
+    "rating": 9.5556,
+    "num_ratings": 9
   },
   {
     "code": "1780",
@@ -89,6 +101,10 @@
         "classroom": "H001"
       }
     ],
-    "professor_id": 88849
+    "professor_id": 88849,
+    "first_name": "Felipe Arturo",
+    "last_name": "Machuca Tzili",
+    "rating": 6.8148,
+    "num_ratings": 27
   }
 ]

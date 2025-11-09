@@ -13,7 +13,11 @@
         "classroom": "A205"
       }
     ],
-    "professor_id": 85765
+    "professor_id": 85765,
+    "first_name": "Manuel",
+    "last_name": "Enriquez Poy",
+    "rating": 4.7143,
+    "num_ratings": 7
   },
   {
     "code": "1588",
@@ -29,7 +33,11 @@
         "classroom": "A205"
       }
     ],
-    "professor_id": 85765
+    "professor_id": 85765,
+    "first_name": "Manuel",
+    "last_name": "Enriquez Poy",
+    "rating": 4.7143,
+    "num_ratings": 7
   },
   {
     "code": "1588",
@@ -45,6 +53,10 @@
         "classroom": "A205"
       }
     ],
-    "professor_id": 101486
+    "professor_id": 101486,
+    "first_name": "Alfonso",
+    "last_name": "Palacios Muñoz",
+    "rating": 9.0,
+    "num_ratings": 21
   }
 ]

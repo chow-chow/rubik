@@ -12,8 +12,7 @@
         ],
         "classroom": "A205"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1980",
@@ -29,7 +28,11 @@
         "classroom": "C402"
       }
     ],
-    "professor_id": 64701
+    "professor_id": 64701,
+    "first_name": "Iza",
+    "last_name": "Canales García",
+    "rating": 8.0513,
+    "num_ratings": 39
   },
   {
     "code": "1980",
@@ -43,7 +46,6 @@
         ],
         "classroom": "C105"
       }
-    ],
-    "professor_id": null
+    ]
   }
 ]

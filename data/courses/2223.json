@@ -1,0 +1,423 @@
+[
+  {
+    "code": "0119",
+    "name": "ESTRUCTURAS DISCRETAS",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "0138",
+    "name": "DISPOSITIVOS ELECTRONICOS",
+    "credits": 10,
+    "has_lab": true,
+    "lab": {
+      "code": "5138",
+      "name": "LAB. DISPOSITIVOS ELECTRONICOS"
+    }
+  },
+  {
+    "code": "0406",
+    "name": "INTELIGENCIA ARTIFICIAL",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "0434",
+    "name": "COMPILADORES",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "0442",
+    "name": "LENGUAJES FORMALES-AUTOMATAS",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "0840",
+    "name": "SISTEMAS OPERATIVOS",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1052",
+    "name": "ETICA PROFESIONAL",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1055",
+    "name": "LITERATURA HISPANOAMERICANA CONTEMPO",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1120",
+    "name": "ALGEBRA",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1121",
+    "name": "CALCULO Y GEOMETRIA ANALITICA",
+    "credits": 12,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1122",
+    "name": "FUNDAMENTOS DE PROGRAMACION",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1123",
+    "name": "QUIMICA",
+    "credits": 10,
+    "has_lab": true,
+    "lab": {
+      "code": "6123",
+      "name": "LAB. DE QUIMICA (2016)"
+    }
+  },
+  {
+    "code": "1124",
+    "name": "REDACCION Y EXPOSIC TEMAS INGENIERIA",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1130",
+    "name": "FUNDAMENTOS DE FISICA",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1220",
+    "name": "ALGEBRA LINEAL",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1221",
+    "name": "CALCULO INTEGRAL",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1222",
+    "name": "CULTURA Y COMUNICACION",
+    "credits": 2,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1227",
+    "name": "ESTRUCTURA DATOS Y ALGORITMOS I",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1228",
+    "name": "MECANICA",
+    "credits": 12,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1317",
+    "name": "ESTRUCTURA DATOS Y ALGORITMOS II",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1321",
+    "name": "CALCULO VECTORIAL",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1323",
+    "name": "PROGRAMACION ORIENTADA A OBJETOS",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1325",
+    "name": "ECUACIONES DIFERENCIALES",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1413",
+    "name": "INTRODUCCION A LA ECONOMIA",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1414",
+    "name": "ELECTRICIDAD Y MAGNETISMO",
+    "credits": 10,
+    "has_lab": true,
+    "lab": {
+      "code": "6414",
+      "name": "LABORATORIO DE ELECTRICIDAD Y MAGNETISMO"
+    }
+  },
+  {
+    "code": "1424",
+    "name": "MATEMATICAS  AVANZADAS",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1433",
+    "name": "ANALISIS NUMERICO",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1436",
+    "name": "PROBABILIDAD",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1445",
+    "name": "FUNDAMENTOS DE ESTADISTICA",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1473",
+    "name": "SEÑALES Y SISTEMAS",
+    "credits": 8,
+    "has_lab": true,
+    "lab": {
+      "code": "6473",
+      "name": "LAB. SEÑALES Y SISTEMAS"
+    }
+  },
+  {
+    "code": "1503",
+    "name": "ESTRUCTURA Y PROGRAMAC.COMPUTADOR",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1531",
+    "name": "INGENIERIA DE SOFTWARE",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1535",
+    "name": "DISEÑO DIGITAL VLSI",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1537",
+    "name": "FINANZAS EN  INGENIERIA  COMPUTACION",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1562",
+    "name": "CIRCUITOS ELECTRICOS",
+    "credits": 8,
+    "has_lab": true,
+    "lab": {
+      "code": "6562",
+      "name": "LAB. CIRCUITOS ELECTRICOS"
+    }
+  },
+  {
+    "code": "1590",
+    "name": "COMPUTACION GRAFICA E INTERAC.HUMANO",
+    "credits": 10,
+    "has_lab": true,
+    "lab": {
+      "code": "6590",
+      "name": "LAB. COMPUTACION GRAFICA E INTERACCION HUMANO-COMPUTADORA"
+    }
+  },
+  {
+    "code": "1598",
+    "name": "REDES DE DATOS SEGURAS",
+    "credits": 14,
+    "has_lab": true,
+    "lab": {
+      "code": "6598",
+      "name": "LAB. REDES DE DATOS SEGURAS"
+    }
+  },
+  {
+    "code": "1643",
+    "name": "ADMINISTRACION PROYECTOS SOFTWARE",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1644",
+    "name": "BASES DE DATOS",
+    "credits": 14,
+    "has_lab": true,
+    "lab": {
+      "code": "6644",
+      "name": "LAB. BASES DE DATOS"
+    }
+  },
+  {
+    "code": "1645",
+    "name": "DISEÑO DIGITAL MODERNO",
+    "credits": 10,
+    "has_lab": true,
+    "lab": {
+      "code": "6645",
+      "name": "LAB. DISEÑO DIGITAL MODERNO"
+    }
+  },
+  {
+    "code": "1672",
+    "name": "MICROCOMPUTADORAS",
+    "credits": 8,
+    "has_lab": true,
+    "lab": {
+      "code": "6672",
+      "name": "LAB. MICROCOMPUTADORAS"
+    }
+  },
+  {
+    "code": "1686",
+    "name": "SISTEMAS DE COMUNICACIONES",
+    "credits": 8,
+    "has_lab": true,
+    "lab": {
+      "code": "6686",
+      "name": "LAB. SISTEMAS DE COMUNICACIONES"
+    }
+  },
+  {
+    "code": "1789",
+    "name": "CIENCIA, TECNOLOGIA Y SOCIEDAD",
+    "credits": 4,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1790",
+    "name": "INTRODUCCION ANALIS ECON EMPRESARIAL",
+    "credits": 4,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1791",
+    "name": "MEXICO NACION MULTICULTURAL",
+    "credits": 4,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1792",
+    "name": "SEM. SOCIOHUMANISTICO: HIST PROSP IN",
+    "credits": 2,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1793",
+    "name": "SEM. SOCIOHUMANISTICO: ING Y POL PUB",
+    "credits": 2,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1794",
+    "name": "SEM. SOCIOHUMANISTICO: ING SUSTENTAB",
+    "credits": 2,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1795",
+    "name": "TALLER SOCIOHUMANISTICO: CREATIVIDAD",
+    "credits": 2,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1796",
+    "name": "TALLER SOCIOHUMANISTICO: LIDERAZGO",
+    "credits": 2,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1858",
+    "name": "FUNDAMENTOS SISTEMAS EMBEBIDOS",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1867",
+    "name": "ORGANIZACION Y ARQUITEC.COMPUTADORA",
+    "credits": 8,
+    "has_lab": true,
+    "lab": {
+      "code": "6867",
+      "name": "LAB. ORGANIZACION Y ARQUITECTURA DE COMPUTADORAS"
+    }
+  },
+  {
+    "code": "1959",
+    "name": "SISTEMAS DISTRIBUIDOS",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2080",
+    "name": "RECURSOS Y NECESIDADES DE MEXICO",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "8000",
+    "name": "IGUALDAD DE GENERO EN INGENIERIA",
+    "credits": 0,
+    "has_lab": false,
+    "lab": null
+  }
+]

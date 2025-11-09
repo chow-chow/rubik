@@ -12,8 +12,7 @@
         ],
         "classroom": "Y003"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1955",
@@ -29,7 +28,11 @@
         "classroom": "XS01"
       }
     ],
-    "professor_id": 84733
+    "professor_id": 84733,
+    "first_name": "Wulfrano",
+    "last_name": "Gomez Gallardo",
+    "rating": 6.1667,
+    "num_ratings": 12
   },
   {
     "code": "1955",
@@ -45,7 +48,11 @@
         "classroom": "B302"
       }
     ],
-    "professor_id": 86529
+    "professor_id": 86529,
+    "first_name": "Andrés",
+    "last_name": "Mota Solorzano",
+    "rating": 6.0,
+    "num_ratings": 7
   },
   {
     "code": "1955",
@@ -61,7 +68,11 @@
         "classroom": "A310"
       }
     ],
-    "professor_id": 134036
+    "professor_id": 134036,
+    "first_name": "Jorge Luis",
+    "last_name": "Rojas Arce",
+    "rating": 7.0,
+    "num_ratings": 9
   },
   {
     "code": "1955",
@@ -76,8 +87,7 @@
         ],
         "classroom": "B301"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1955",
@@ -92,6 +102,10 @@
         "classroom": "A311"
       }
     ],
-    "professor_id": 167153
+    "professor_id": 167153,
+    "first_name": "cecilia guadalupe",
+    "last_name": "morales juarez",
+    "rating": 7.2857,
+    "num_ratings": 21
   }
 ]

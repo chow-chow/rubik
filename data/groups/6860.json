@@ -11,8 +11,7 @@
         ],
         "classroom": "N005"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "6860",
@@ -27,7 +26,11 @@
         "classroom": "N005"
       }
     ],
-    "professor_id": 98730
+    "professor_id": 98730,
+    "first_name": "Octavio Pastor",
+    "last_name": "Reyes García",
+    "rating": 8.0769,
+    "num_ratings": 13
   },
   {
     "code": "6860",
@@ -41,8 +44,7 @@
         ],
         "classroom": "N005"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "6860",
@@ -56,8 +58,7 @@
         ],
         "classroom": "N005"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "6860",
@@ -71,8 +72,7 @@
         ],
         "classroom": "N005"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "6860",
@@ -87,7 +87,11 @@
         "classroom": "N005"
       }
     ],
-    "professor_id": 79478
+    "professor_id": 79478,
+    "first_name": "IAN GUILLERMO M.I.",
+    "last_name": "MONSIVAIS MONTOLIU",
+    "rating": 7.375,
+    "num_ratings": 24
   },
   {
     "code": "6860",
@@ -101,8 +105,7 @@
         ],
         "classroom": "N005"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "6860",
@@ -117,7 +120,11 @@
         "classroom": "N005"
       }
     ],
-    "professor_id": 159597
+    "professor_id": 159597,
+    "first_name": "Óscar",
+    "last_name": "García Aranda",
+    "rating": 6.5,
+    "num_ratings": 2
   },
   {
     "code": "6860",
@@ -131,8 +138,7 @@
         ],
         "classroom": "N005"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "6860",
@@ -147,7 +153,11 @@
         "classroom": "N005"
       }
     ],
-    "professor_id": 98730
+    "professor_id": 98730,
+    "first_name": "Octavio Pastor",
+    "last_name": "Reyes García",
+    "rating": 8.0769,
+    "num_ratings": 13
   },
   {
     "code": "6860",
@@ -161,8 +171,7 @@
         ],
         "classroom": "N005"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "6860",
@@ -176,8 +185,7 @@
         ],
         "classroom": "N005"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "6860",
@@ -191,8 +199,7 @@
         ],
         "classroom": "N005"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "6860",
@@ -206,8 +213,7 @@
         ],
         "classroom": "N005"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "6860",
@@ -222,7 +228,11 @@
         "classroom": "N005"
       }
     ],
-    "professor_id": 79858
+    "professor_id": 79858,
+    "first_name": "Mauricio ivan",
+    "last_name": "Escalante Camargo",
+    "rating": 7.2143,
+    "num_ratings": 14
   },
   {
     "code": "6860",
@@ -236,8 +246,7 @@
         ],
         "classroom": "N005"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "6860",
@@ -251,8 +260,7 @@
         ],
         "classroom": "N005"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "6860",
@@ -266,8 +274,7 @@
         ],
         "classroom": "N005"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "6860",
@@ -281,8 +288,7 @@
         ],
         "classroom": "N005"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "6860",
@@ -296,8 +302,7 @@
         ],
         "classroom": "N005"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "6860",
@@ -311,8 +316,7 @@
         ],
         "classroom": "N005"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "6860",
@@ -326,8 +330,7 @@
         ],
         "classroom": "N005"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "6860",
@@ -341,8 +344,7 @@
         ],
         "classroom": "N005"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "6860",
@@ -356,8 +358,7 @@
         ],
         "classroom": "N005"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "6860",
@@ -371,7 +372,6 @@
         ],
         "classroom": "N005"
       }
-    ],
-    "professor_id": null
+    ]
   }
 ]

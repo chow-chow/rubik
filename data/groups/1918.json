@@ -12,7 +12,11 @@
         "classroom": "D001"
       }
     ],
-    "professor_id": 161845
+    "professor_id": 161845,
+    "first_name": "CLAUDIO",
+    "last_name": "MELENDEZ GONZALEZ",
+    "rating": 9.6667,
+    "num_ratings": 3
   },
   {
     "code": "1918",
@@ -28,7 +32,11 @@
         "classroom": "Y004"
       }
     ],
-    "professor_id": 161847
+    "professor_id": 161847,
+    "first_name": "ADRIANA",
+    "last_name": "GAVIRA DURON",
+    "rating": 8.5,
+    "num_ratings": 2
   },
   {
     "code": "1918",
@@ -43,7 +51,6 @@
         ],
         "classroom": "EXTR"
       }
-    ],
-    "professor_id": null
+    ]
   }
 ]

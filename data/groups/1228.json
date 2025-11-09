@@ -13,8 +13,7 @@
         ],
         "classroom": "I105"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1228",
@@ -31,7 +30,11 @@
         "classroom": "I104"
       }
     ],
-    "professor_id": 114184
+    "professor_id": 114184,
+    "first_name": "Fernando",
+    "last_name": "Sanchez Rodriguez",
+    "rating": 5.3571,
+    "num_ratings": 28
   },
   {
     "code": "1228",
@@ -48,7 +51,11 @@
         "classroom": "I202"
       }
     ],
-    "professor_id": 104481
+    "professor_id": 104481,
+    "first_name": "RICARDO FERNANDO",
+    "last_name": "ABELA POSADA",
+    "rating": 9.45,
+    "num_ratings": 20
   },
   {
     "code": "1228",
@@ -65,7 +72,11 @@
         "classroom": "I306"
       }
     ],
-    "professor_id": 66464
+    "professor_id": 66464,
+    "first_name": "Diego Alberto",
+    "last_name": "Zavala Galicia",
+    "rating": 8.2,
+    "num_ratings": 90
   },
   {
     "code": "1228",
@@ -82,7 +93,11 @@
         "classroom": "J103"
       }
     ],
-    "professor_id": 95313
+    "professor_id": 95313,
+    "first_name": "Aban Alonso",
+    "last_name": "Moreno Aguilar",
+    "rating": 8.0,
+    "num_ratings": 9
   },
   {
     "code": "1228",
@@ -105,7 +120,11 @@
         "classroom": "J203"
       }
     ],
-    "professor_id": 141997
+    "professor_id": 141997,
+    "first_name": "Adriana",
+    "last_name": "Alarcon Muñoz",
+    "rating": 8.6596,
+    "num_ratings": 47
   },
   {
     "code": "1228",
@@ -121,8 +140,7 @@
         ],
         "classroom": "I304"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1228",
@@ -139,7 +157,11 @@
         "classroom": "J111"
       }
     ],
-    "professor_id": 105197
+    "professor_id": 105197,
+    "first_name": "RICARDO ARTURO",
+    "last_name": "PINZON AGUIRRE",
+    "rating": 9.0,
+    "num_ratings": 35
   },
   {
     "code": "1228",
@@ -156,7 +178,11 @@
         "classroom": "J107"
       }
     ],
-    "professor_id": 44293
+    "professor_id": 44293,
+    "first_name": "Gregorio",
+    "last_name": "Pérez Miguel",
+    "rating": 6.77,
+    "num_ratings": 52
   },
   {
     "code": "1228",
@@ -172,8 +198,7 @@
         ],
         "classroom": "J102"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1228",
@@ -189,8 +214,7 @@
         ],
         "classroom": "Y204"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1228",
@@ -207,6 +231,10 @@
         "classroom": "J201"
       }
     ],
-    "professor_id": 22035
+    "professor_id": 22035,
+    "first_name": "Juan",
+    "last_name": "Ocáriz Castelazo",
+    "rating": 8.6481,
+    "num_ratings": 162
   }
 ]

@@ -19,8 +19,7 @@
         ],
         "classroom": "Q007"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1317",
@@ -42,8 +41,7 @@
         ],
         "classroom": "Q007"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1317",
@@ -66,7 +64,11 @@
         "classroom": "P003"
       }
     ],
-    "professor_id": 78645
+    "professor_id": 78645,
+    "first_name": "Edgar",
+    "last_name": "Tista",
+    "rating": 8.8605,
+    "num_ratings": 43
   },
   {
     "code": "1317",
@@ -89,7 +91,11 @@
         "classroom": "Q007"
       }
     ],
-    "professor_id": 43431
+    "professor_id": 43431,
+    "first_name": "Jorge",
+    "last_name": "Solano",
+    "rating": 5.6875,
+    "num_ratings": 32
   },
   {
     "code": "1317",
@@ -112,7 +118,11 @@
         "classroom": "Q008"
       }
     ],
-    "professor_id": 60935
+    "professor_id": 60935,
+    "first_name": "Elba Karen",
+    "last_name": "Saenz García",
+    "rating": 5.9672,
+    "num_ratings": 61
   },
   {
     "code": "1317",
@@ -134,8 +144,7 @@
         ],
         "classroom": "P003"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1317",
@@ -158,7 +167,11 @@
         "classroom": "P003"
       }
     ],
-    "professor_id": 78935
+    "professor_id": 78935,
+    "first_name": "francisco javier",
+    "last_name": "rodriguez garcia",
+    "rating": 6.3889,
+    "num_ratings": 36
   },
   {
     "code": "1317",
@@ -181,7 +194,11 @@
         "classroom": "Q007"
       }
     ],
-    "professor_id": 177287
+    "professor_id": 177287,
+    "first_name": "Oscar",
+    "last_name": "Arana Hernández",
+    "rating": 5.75,
+    "num_ratings": 8
   },
   {
     "code": "1317",
@@ -203,8 +220,7 @@
         ],
         "classroom": "Q007"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1317",
@@ -227,7 +243,11 @@
         "classroom": "Q008"
       }
     ],
-    "professor_id": 101573
+    "professor_id": 101573,
+    "first_name": "Gerardo",
+    "last_name": "Tovar Tapia",
+    "rating": 7.2292,
+    "num_ratings": 48
   },
   {
     "code": "1317",
@@ -250,7 +270,11 @@
         "classroom": "Q008"
       }
     ],
-    "professor_id": 101573
+    "professor_id": 101573,
+    "first_name": "Gerardo",
+    "last_name": "Tovar Tapia",
+    "rating": 7.2292,
+    "num_ratings": 48
   },
   {
     "code": "1317",
@@ -273,6 +297,10 @@
         "classroom": "Q007"
       }
     ],
-    "professor_id": 188628
+    "professor_id": 188628,
+    "first_name": "Jose Rodrigo",
+    "last_name": "Moreno Lopez",
+    "rating": 10.0,
+    "num_ratings": 2
   }
 ]

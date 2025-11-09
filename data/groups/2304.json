@@ -13,7 +13,11 @@
         "classroom": "Q309"
       }
     ],
-    "professor_id": 99008
+    "professor_id": 99008,
+    "first_name": "Juventino",
+    "last_name": "Cuellar Gonzalez",
+    "rating": 7.0,
+    "num_ratings": 3
   },
   {
     "code": "2304",
@@ -28,8 +32,7 @@
         ],
         "classroom": "Q307"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "2304",
@@ -44,6 +47,10 @@
         "classroom": "Q307"
       }
     ],
-    "professor_id": 84771
+    "professor_id": 84771,
+    "first_name": "Luis Francisco",
+    "last_name": "Garcia Jimenez",
+    "rating": 7.0,
+    "num_ratings": 2
   }
 ]

@@ -19,8 +19,7 @@
         ],
         "classroom": "O005"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "2923",
@@ -43,7 +42,11 @@
         "classroom": "EXTR"
       }
     ],
-    "professor_id": 67066
+    "professor_id": 67066,
+    "first_name": "José Luis",
+    "last_name": "Rodríguez Picazo",
+    "rating": 7.68,
+    "num_ratings": 25
   },
   {
     "code": "2923",
@@ -65,7 +68,6 @@
         ],
         "classroom": "EXTR"
       }
-    ],
-    "professor_id": null
+    ]
   }
 ]

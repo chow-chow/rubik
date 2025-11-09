@@ -13,7 +13,11 @@
         "classroom": "C302"
       }
     ],
-    "professor_id": 108707
+    "professor_id": 108707,
+    "first_name": "Miguel Ildefonso",
+    "last_name": "Vera Ocampo",
+    "rating": 8.8,
+    "num_ratings": 5
   },
   {
     "code": "1729",
@@ -29,7 +33,6 @@
         ],
         "classroom": "C302"
       }
-    ],
-    "professor_id": null
+    ]
   }
 ]

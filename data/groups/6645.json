@@ -11,8 +11,7 @@
         ],
         "classroom": "T101"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "6645",
@@ -27,7 +26,11 @@
         "classroom": "T101"
       }
     ],
-    "professor_id": 142387
+    "professor_id": 142387,
+    "first_name": "Norma",
+    "last_name": "Elva Chavez Rodriguez",
+    "rating": 8.5714,
+    "num_ratings": 28
   },
   {
     "code": "6645",
@@ -41,8 +44,7 @@
         ],
         "classroom": "T101"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "6645",
@@ -56,8 +58,7 @@
         ],
         "classroom": "T101"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "6645",
@@ -72,7 +73,11 @@
         "classroom": "T101"
       }
     ],
-    "professor_id": 124016
+    "professor_id": 124016,
+    "first_name": "M.I. LUIS SERGIO",
+    "last_name": "DURAN ARENAS",
+    "rating": 8.22,
+    "num_ratings": 46
   },
   {
     "code": "6645",
@@ -87,7 +92,11 @@
         "classroom": "T101"
       }
     ],
-    "professor_id": 142387
+    "professor_id": 142387,
+    "first_name": "Norma",
+    "last_name": "Elva Chavez Rodriguez",
+    "rating": 8.5714,
+    "num_ratings": 28
   },
   {
     "code": "6645",
@@ -102,7 +111,11 @@
         "classroom": "T101"
       }
     ],
-    "professor_id": 159593
+    "professor_id": 159593,
+    "first_name": "Fernanda",
+    "last_name": "Ramos",
+    "rating": 8.3333,
+    "num_ratings": 3
   },
   {
     "code": "6645",
@@ -117,6 +130,10 @@
         "classroom": "T101"
       }
     ],
-    "professor_id": 104486
+    "professor_id": 104486,
+    "first_name": "ALBERTO",
+    "last_name": "NAVARRETE HERNANDEZ",
+    "rating": 5.1111,
+    "num_ratings": 54
   }
 ]

@@ -12,7 +12,11 @@
         "classroom": "S201"
       }
     ],
-    "professor_id": 99894
+    "professor_id": 99894,
+    "first_name": "Luis Miguel",
+    "last_name": "Castro González",
+    "rating": 6.875,
+    "num_ratings": 16
   },
   {
     "code": "7908",
@@ -26,7 +30,6 @@
         ],
         "classroom": "S201"
       }
-    ],
-    "professor_id": null
+    ]
   }
 ]

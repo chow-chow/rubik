@@ -19,8 +19,7 @@
         ],
         "classroom": "O007"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1691",
@@ -43,7 +42,11 @@
         "classroom": "O007"
       }
     ],
-    "professor_id": 74599
+    "professor_id": 74599,
+    "first_name": "Omar",
+    "last_name": "García González",
+    "rating": 7.4839,
+    "num_ratings": 31
   },
   {
     "code": "1691",
@@ -66,7 +69,11 @@
         "classroom": "O007"
       }
     ],
-    "professor_id": 167439
+    "professor_id": 167439,
+    "first_name": "Sergio",
+    "last_name": "Hernández",
+    "rating": 9.0,
+    "num_ratings": 11
   },
   {
     "code": "1691",
@@ -95,7 +102,11 @@
         "classroom": "O007"
       }
     ],
-    "professor_id": 104960
+    "professor_id": 104960,
+    "first_name": "M.I. BILLY ARTURO",
+    "last_name": "FLORES MEDERO NAVARRO",
+    "rating": 7.5556,
+    "num_ratings": 9
   },
   {
     "code": "1691",
@@ -117,8 +128,7 @@
         ],
         "classroom": "O007"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1691",
@@ -141,7 +151,11 @@
         "classroom": "Q108"
       }
     ],
-    "professor_id": 74599
+    "professor_id": 74599,
+    "first_name": "Omar",
+    "last_name": "García González",
+    "rating": 7.4839,
+    "num_ratings": 31
   },
   {
     "code": "1691",
@@ -164,7 +178,11 @@
         "classroom": "X401"
       }
     ],
-    "professor_id": 74599
+    "professor_id": 74599,
+    "first_name": "Omar",
+    "last_name": "García González",
+    "rating": 7.4839,
+    "num_ratings": 31
   },
   {
     "code": "1691",
@@ -187,7 +205,11 @@
         "classroom": "X401"
       }
     ],
-    "professor_id": 59070
+    "professor_id": 59070,
+    "first_name": "Hanna Leslye",
+    "last_name": "García Guerra",
+    "rating": 4.425,
+    "num_ratings": 40
   },
   {
     "code": "1691",
@@ -210,7 +232,11 @@
         "classroom": "X401"
       }
     ],
-    "professor_id": 59070
+    "professor_id": 59070,
+    "first_name": "Hanna Leslye",
+    "last_name": "García Guerra",
+    "rating": 4.425,
+    "num_ratings": 40
   },
   {
     "code": "1691",
@@ -232,8 +258,7 @@
         ],
         "classroom": "X401"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1691",
@@ -261,8 +286,7 @@
         ],
         "classroom": "O007"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1691",
@@ -285,7 +309,11 @@
         "classroom": "Q108"
       }
     ],
-    "professor_id": 60921
+    "professor_id": 60921,
+    "first_name": "ABEL",
+    "last_name": "VILLANUEVA PEÑA",
+    "rating": 5.1333,
+    "num_ratings": 30
   },
   {
     "code": "1691",
@@ -308,7 +336,11 @@
         "classroom": "O007"
       }
     ],
-    "professor_id": 104960
+    "professor_id": 104960,
+    "first_name": "M.I. BILLY ARTURO",
+    "last_name": "FLORES MEDERO NAVARRO",
+    "rating": 7.5556,
+    "num_ratings": 9
   },
   {
     "code": "1691",
@@ -331,7 +363,11 @@
         "classroom": "O007"
       }
     ],
-    "professor_id": 167704
+    "professor_id": 167704,
+    "first_name": "LUIS DARIO",
+    "last_name": "REYES DELGADO",
+    "rating": 7.8,
+    "num_ratings": 5
   },
   {
     "code": "1691",
@@ -354,6 +390,10 @@
         "classroom": "X401"
       }
     ],
-    "professor_id": 85612
+    "professor_id": 85612,
+    "first_name": "Arturo",
+    "last_name": "Zapata y Rosales",
+    "rating": 4.3,
+    "num_ratings": 10
   }
 ]

@@ -19,7 +19,11 @@
         "classroom": "O007"
       }
     ],
-    "professor_id": 93473
+    "professor_id": 93473,
+    "first_name": "Maria del Pilar",
+    "last_name": "Corona Lira",
+    "rating": 7.1333,
+    "num_ratings": 15
   },
   {
     "code": "1973",
@@ -41,7 +45,11 @@
         "classroom": "O007"
       }
     ],
-    "professor_id": 135354
+    "professor_id": 135354,
+    "first_name": "Said Ulises",
+    "last_name": "Pérez Sierra",
+    "rating": 9.4,
+    "num_ratings": 5
   },
   {
     "code": "1973",
@@ -63,7 +71,11 @@
         "classroom": "O007"
       }
     ],
-    "professor_id": 98574
+    "professor_id": 98574,
+    "first_name": "Javier Francisco",
+    "last_name": "Marquez Correo",
+    "rating": 8.0,
+    "num_ratings": 3
   },
   {
     "code": "1973",
@@ -79,6 +91,10 @@
         "classroom": "X401"
       }
     ],
-    "professor_id": 109271
+    "professor_id": 109271,
+    "first_name": "Luis Yair",
+    "last_name": "Bautista Blanco",
+    "rating": 8.4286,
+    "num_ratings": 7
   }
 ]

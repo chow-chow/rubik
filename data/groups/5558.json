@@ -12,7 +12,11 @@
         "classroom": "P217"
       }
     ],
-    "professor_id": 104949
+    "professor_id": 104949,
+    "first_name": "Javier",
+    "last_name": "Gonzalez Prado",
+    "rating": 10.0,
+    "num_ratings": 6
   },
   {
     "code": "5558",
@@ -26,8 +30,7 @@
         ],
         "classroom": "P217"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "5558",
@@ -41,8 +44,7 @@
         ],
         "classroom": "P217"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "5558",
@@ -56,8 +58,7 @@
         ],
         "classroom": "P217"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "5558",
@@ -72,7 +73,11 @@
         "classroom": "P217"
       }
     ],
-    "professor_id": 104949
+    "professor_id": 104949,
+    "first_name": "Javier",
+    "last_name": "Gonzalez Prado",
+    "rating": 10.0,
+    "num_ratings": 6
   },
   {
     "code": "5558",
@@ -87,7 +92,11 @@
         "classroom": "P217"
       }
     ],
-    "professor_id": 95329
+    "professor_id": 95329,
+    "first_name": "Juan Manuel",
+    "last_name": "Barbosa Castillo",
+    "rating": 8.0,
+    "num_ratings": 5
   },
   {
     "code": "5558",
@@ -102,7 +111,11 @@
         "classroom": "P217"
       }
     ],
-    "professor_id": 87572
+    "professor_id": 87572,
+    "first_name": "José Alberto",
+    "last_name": "Arellano Figueroa",
+    "rating": 7.7778,
+    "num_ratings": 18
   },
   {
     "code": "5558",
@@ -117,7 +130,11 @@
         "classroom": "P217"
       }
     ],
-    "professor_id": 95329
+    "professor_id": 95329,
+    "first_name": "Juan Manuel",
+    "last_name": "Barbosa Castillo",
+    "rating": 8.0,
+    "num_ratings": 5
   },
   {
     "code": "5558",
@@ -132,7 +149,11 @@
         "classroom": "P217"
       }
     ],
-    "professor_id": 60921
+    "professor_id": 60921,
+    "first_name": "ABEL",
+    "last_name": "VILLANUEVA PEÑA",
+    "rating": 5.1333,
+    "num_ratings": 30
   },
   {
     "code": "5558",
@@ -147,6 +168,10 @@
         "classroom": "P217"
       }
     ],
-    "professor_id": 104949
+    "professor_id": 104949,
+    "first_name": "Javier",
+    "last_name": "Gonzalez Prado",
+    "rating": 10.0,
+    "num_ratings": 6
   }
 ]

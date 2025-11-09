@@ -13,7 +13,11 @@
         "classroom": "S201"
       }
     ],
-    "professor_id": 99894
+    "professor_id": 99894,
+    "first_name": "Luis Miguel",
+    "last_name": "Castro González",
+    "rating": 6.875,
+    "num_ratings": 16
   },
   {
     "code": "2908",
@@ -28,6 +32,10 @@
         "classroom": "A107"
       }
     ],
-    "professor_id": 79238
+    "professor_id": 79238,
+    "first_name": "Armando",
+    "last_name": "Grande gonzalez",
+    "rating": 8.5,
+    "num_ratings": 4
   }
 ]

@@ -12,7 +12,11 @@
         "classroom": "Q107"
       }
     ],
-    "professor_id": 21291
+    "professor_id": 21291,
+    "first_name": "juan carlos",
+    "last_name": "roa beiza",
+    "rating": 6.5538,
+    "num_ratings": 65
   },
   {
     "code": "6723",
@@ -27,7 +31,11 @@
         "classroom": "Q109"
       }
     ],
-    "professor_id": 71346
+    "professor_id": 71346,
+    "first_name": "Domingo Teodoro",
+    "last_name": "Mendoza Rosales",
+    "rating": 6.9091,
+    "num_ratings": 66
   },
   {
     "code": "6723",
@@ -42,7 +50,11 @@
         "classroom": "Q107"
       }
     ],
-    "professor_id": 99064
+    "professor_id": 99064,
+    "first_name": "Francisco Javier",
+    "last_name": "Martinez Rodriguez",
+    "rating": 4.6316,
+    "num_ratings": 38
   },
   {
     "code": "6723",
@@ -57,7 +69,11 @@
         "classroom": "Q107"
       }
     ],
-    "professor_id": 21291
+    "professor_id": 21291,
+    "first_name": "juan carlos",
+    "last_name": "roa beiza",
+    "rating": 6.5538,
+    "num_ratings": 65
   },
   {
     "code": "6723",
@@ -72,7 +88,11 @@
         "classroom": "Q109"
       }
     ],
-    "professor_id": 71346
+    "professor_id": 71346,
+    "first_name": "Domingo Teodoro",
+    "last_name": "Mendoza Rosales",
+    "rating": 6.9091,
+    "num_ratings": 66
   },
   {
     "code": "6723",
@@ -87,6 +107,10 @@
         "classroom": "Q109"
       }
     ],
-    "professor_id": 89949
+    "professor_id": 89949,
+    "first_name": "ISMAEL",
+    "last_name": "ROMERO OCARANZA",
+    "rating": 6.7391,
+    "num_ratings": 23
   }
 ]

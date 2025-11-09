@@ -13,7 +13,11 @@
         "classroom": "D002"
       }
     ],
-    "professor_id": 34837
+    "professor_id": 34837,
+    "first_name": "Armando",
+    "last_name": "Ortiz Prado",
+    "rating": 5.8333,
+    "num_ratings": 12
   },
   {
     "code": "1540",
@@ -28,8 +32,7 @@
         ],
         "classroom": "O101"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1540",
@@ -44,8 +47,7 @@
         ],
         "classroom": "B303"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1540",
@@ -61,7 +63,11 @@
         "classroom": "A109"
       }
     ],
-    "professor_id": 142062
+    "professor_id": 142062,
+    "first_name": "Antonio",
+    "last_name": "Zepeda Sanchez",
+    "rating": 8.75,
+    "num_ratings": 8
   },
   {
     "code": "1540",
@@ -77,7 +83,11 @@
         "classroom": "D003"
       }
     ],
-    "professor_id": 82618
+    "professor_id": 82618,
+    "first_name": "Alvaro",
+    "last_name": "Ayala Ruiz",
+    "rating": 5.25,
+    "num_ratings": 20
   },
   {
     "code": "1540",
@@ -93,7 +103,11 @@
         "classroom": "O101"
       }
     ],
-    "professor_id": 71882
+    "professor_id": 71882,
+    "first_name": "Roberto",
+    "last_name": "Cisneros Hernandez",
+    "rating": 4.5758,
+    "num_ratings": 33
   },
   {
     "code": "1540",
@@ -109,7 +123,11 @@
         "classroom": "B105"
       }
     ],
-    "professor_id": 66629
+    "professor_id": 66629,
+    "first_name": "Adrián",
+    "last_name": "Espinosa Bautista",
+    "rating": 8.0,
+    "num_ratings": 22
   },
   {
     "code": "1540",
@@ -125,7 +143,11 @@
         "classroom": "D002"
       }
     ],
-    "professor_id": 88053
+    "professor_id": 88053,
+    "first_name": "Gustavo",
+    "last_name": "Rojas Coca",
+    "rating": 6.0,
+    "num_ratings": 28
   },
   {
     "code": "1540",
@@ -141,7 +163,11 @@
         "classroom": "Y004"
       }
     ],
-    "professor_id": 67066
+    "professor_id": 67066,
+    "first_name": "José Luis",
+    "last_name": "Rodríguez Picazo",
+    "rating": 7.68,
+    "num_ratings": 25
   },
   {
     "code": "1540",
@@ -157,6 +183,10 @@
         "classroom": "EXTR"
       }
     ],
-    "professor_id": 95428
+    "professor_id": 95428,
+    "first_name": "Epifanio",
+    "last_name": "Vargas Alcaraz",
+    "rating": 7.2963,
+    "num_ratings": 27
   }
 ]

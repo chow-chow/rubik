@@ -13,8 +13,7 @@
         ],
         "classroom": "A203"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1935",
@@ -30,8 +29,7 @@
         ],
         "classroom": "A203"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1935",
@@ -47,8 +45,7 @@
         ],
         "classroom": "Y205"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1935",
@@ -64,8 +61,7 @@
         ],
         "classroom": "A211"
       }
-    ],
-    "professor_id": null
+    ]
   },
   {
     "code": "1935",
@@ -82,7 +78,11 @@
         "classroom": "A203"
       }
     ],
-    "professor_id": 79610
+    "professor_id": 79610,
+    "first_name": "Luis Antonio",
+    "last_name": "Garcia Villanueva",
+    "rating": 8.0,
+    "num_ratings": 2
   },
   {
     "code": "1935",
@@ -99,6 +99,10 @@
         "classroom": "S005"
       }
     ],
-    "professor_id": 146710
+    "professor_id": 146710,
+    "first_name": "VICENTE",
+    "last_name": "QUEZADA BELTRAN",
+    "rating": 5.0,
+    "num_ratings": 2
   }
 ]

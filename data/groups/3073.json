@@ -13,7 +13,11 @@
         "classroom": "EXTR"
       }
     ],
-    "professor_id": 124036
+    "professor_id": 124036,
+    "first_name": "ING. MARIA DEL CARMEN",
+    "last_name": "NAVARRETE SEVILLA",
+    "rating": 5.6667,
+    "num_ratings": 6
   },
   {
     "code": "3073",
@@ -28,7 +32,6 @@
         ],
         "classroom": "A310"
       }
-    ],
-    "professor_id": null
+    ]
   }
 ]
