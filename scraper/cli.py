@@ -3,6 +3,7 @@ Command-line interface for the scraper system.
 
 Usage:
     python -m scraper.cli programs
+    python -m scraper.cli study_plans
     python -m scraper.cli courses
     python -m scraper.cli labs
     python -m scraper.cli groups
@@ -21,7 +22,7 @@ import click
 from .http_client import HTTPClient
 from .linker import link_professors_groups
 from .models import ScraperResult, ScraperStatus
-from .scrapers import courses, groups, labs, professors, programs
+from .scrapers import courses, groups, labs, professors, programs, study_plans
 from .storage import DataStorage
 
 logging.basicConfig(
@@ -35,6 +36,7 @@ logger = logging.getLogger(__name__)
 
 SCRAPERS = {
     "programs": programs.scrape_programs,
+    "study_plans": study_plans.scrape_study_plans,
     "courses": courses.scrape_courses,
     "labs": labs.scrape_labs,
     "groups": groups.scrape_groups,
@@ -57,6 +59,17 @@ def programs(data_dir, verbose):
         logging.getLogger().setLevel(logging.DEBUG)
 
     _run_scraper("programs", data_dir)
+
+
+@cli.command()
+@click.option("--data-dir", default="data", help="Data directory")
+@click.option("--verbose", is_flag=True, help="Enable debug logging")
+def study_plans(data_dir, verbose):
+    """Scrape study plans with course organization."""
+    if verbose:
+        logging.getLogger().setLevel(logging.DEBUG)
+
+    _run_scraper("study_plans", data_dir)
 
 
 @cli.command()
@@ -121,7 +134,7 @@ def all(data_dir, verbose):
     if verbose:
         logging.getLogger().setLevel(logging.DEBUG)
 
-    order = ["programs", "courses", "labs", "groups", "professors", "link"]
+    order = ["programs", "study_plans", "courses", "labs", "groups", "professors", "link"]
 
     logger.info("Running all scrapers in sequence")
 

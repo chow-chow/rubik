@@ -7,7 +7,7 @@ from typing import Dict
 
 from bs4 import BeautifulSoup
 
-from ..models import Course, SectionType
+from ..models import Course
 from .base import BaseParser
 
 logger = logging.getLogger(__name__)
@@ -59,18 +59,7 @@ class CoursesParser(BaseParser):
                 except ValueError:
                     credits = None
 
-                section_type = self._get_section_type(section)
                 courses[code] = Course(
-                    code=code, name=name, credits=credits, section=section_type
+                    code=code, name=name, credits=credits
                 )
 
-    def _get_section_type(self, section: str) -> SectionType:
-        """Determine section type."""
-        s = section.lower().strip()
-
-        if "obligatoria" in s:
-            return SectionType.CORE
-        elif "humanidades" in s:
-            return SectionType.HUMANITIES
-        else:
-            return SectionType.ELECTIVE

@@ -39,7 +39,7 @@ def scrape_courses(http_client, storage) -> ScraperResult:
                 status=ScraperStatus.FAILED,
                 items=0,
                 errors=["Programs file not found. Run 'programs' scraper first."],
-                start_time=start_time,
+                execution_time=time.time() - start_time,
             )
 
         with open(programs_file, "r") as f:
@@ -66,13 +66,13 @@ def scrape_courses(http_client, storage) -> ScraperResult:
             status=ScraperStatus.SUCCESS,
             items=total_courses,
             errors=[],
-            start_time=start_time,
+            execution_time=execution_time,
         )
 
     except Exception as e:
         logger.error(f"Error in courses scraper: {e}", exc_info=True)
         return _create_result(
-            status=ScraperStatus.FAILED, items=0, errors=[str(e)], start_time=start_time
+            status=ScraperStatus.FAILED, items=0, errors=[str(e)], execution_time=time.time() - start_time
         )
 
 
@@ -137,14 +137,14 @@ def _process_program(program: dict, http_client, storage, config) -> int:
 
 
 def _create_result(
-    status: ScraperStatus, items: int, errors: list, start_time: float
+    status: ScraperStatus, items: int, errors: list, execution_time: float
 ) -> ScraperResult:
     """Create scraper result."""
     return ScraperResult(
         scraper_name="courses",
         status=status.value,
         items_processed=items,
-        execution_time=time.time() - start_time,
+        execution_time=execution_time,
         timestamp=datetime.now().isoformat(),
         errors=errors,
     )

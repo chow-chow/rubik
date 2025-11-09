@@ -11,7 +11,15 @@ from datetime import datetime
 from pathlib import Path
 from typing import Any, Dict, List
 
-from .models import Course, Group, Professor, Program, ScraperMetadata, ScraperResult
+from .models import (
+    Course,
+    Group,
+    Professor,
+    Program,
+    ScraperMetadata,
+    ScraperResult,
+    StudyPlan,
+)
 
 logger = logging.getLogger(__name__)
 
@@ -120,7 +128,6 @@ class DataStorage:
         data = []
         for course in courses:
             course_dict = asdict(course)
-            course_dict["section"] = course.section.value
 
             if course.code in existing_courses:
                 existing = existing_courses[course.code]
@@ -146,6 +153,41 @@ class DataStorage:
         if success:
             logger.info(f"Saved {len(groups)} groups for course {course_code}")
         return success
+
+    def save_study_plans(self, study_plans: List[StudyPlan]) -> bool:
+        """Save study plans index."""
+        data = [asdict(plan) for plan in study_plans]
+        filepath = self.data_dir / "study_plans.json"
+        success = self._save_json(data, filepath)
+        if success:
+            logger.info(f"Saved {len(study_plans)} study plans")
+        return success
+
+    def load_study_plans(self) -> List[Dict]:
+        """Load study plans from file."""
+        filepath = self.data_dir / "study_plans.json"
+        if not filepath.exists():
+            return []
+
+        try:
+            with open(filepath, "r", encoding="utf-8") as f:
+                return json.load(f)
+        except Exception as e:
+            logger.error(f"Failed to load study plans: {e}")
+            return []
+
+    def load_programs(self) -> List[Dict]:
+        """Load programs from file."""
+        filepath = self.data_dir / "programs.json"
+        if not filepath.exists():
+            return []
+
+        try:
+            with open(filepath, "r", encoding="utf-8") as f:
+                return json.load(f)
+        except Exception as e:
+            logger.error(f"Failed to load programs: {e}")
+            return []
 
     def save_professors(self, professors: List[Professor]) -> bool:
         """Save professor ratings."""
@@ -232,11 +274,9 @@ class DataStorage:
 
                 updated = False
                 for course in courses:
-                    # Update main course
                     if course.get("code") == course_code:
                         course["total_groups"] = total_groups
                         updated = True
-                    # Update lab if the code matches
                     elif (
                         course.get("has_lab")
                         and course.get("lab")

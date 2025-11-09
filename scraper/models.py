@@ -32,8 +32,8 @@ class Program:
 
     code: str
     name: str
-    release_year: int
     duration: int
+    study_plan_codes: List[str] = field(default_factory=list)
     total_courses: int = 0
 
 
@@ -44,7 +44,6 @@ class Course:
     code: str
     name: str
     credits: Optional[int] = None
-    section: SectionType = SectionType.CORE
     total_groups: int = 0
     has_lab: bool = False
     lab: Optional[Dict] = None
@@ -79,11 +78,12 @@ class StudyPlan:
     code: str
     name: str
     release_year: int
-    duration: int
-    courses: List[str] = field(default_factory=list)
+    required_credits: int
+    elective_credits: int
+    credit_limit_per_period: Optional[int] = None
+    courses: Dict[str, List[str]] = field(default_factory=dict)
 
 
-# Scraper Metadata
 @dataclass
 class ScraperResult:
     """Result of a scraper execution."""

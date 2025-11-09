@@ -36,7 +36,7 @@ def scrape_labs(http_client, storage) -> ScraperResult:
                 status=ScraperStatus.FAILED,
                 items=0,
                 errors=["Failed to fetch labs JavaScript file"],
-                start_time=start_time,
+                execution_time=time.time() - start_time,
             )
 
         parser = LabsParser()
@@ -47,7 +47,7 @@ def scrape_labs(http_client, storage) -> ScraperResult:
                 status=ScraperStatus.FAILED,
                 items=0,
                 errors=["No lab courses found"],
-                start_time=start_time,
+                execution_time=time.time() - start_time,
             )
 
         logger.info(f"Found {len(labs)} lab courses")
@@ -63,25 +63,25 @@ def scrape_labs(http_client, storage) -> ScraperResult:
             status=ScraperStatus.SUCCESS,
             items=len(labs),
             errors=[],
-            start_time=start_time,
+            execution_time=execution_time,
         )
 
     except Exception as e:
         logger.error(f"Error in labs scraper: {e}", exc_info=True)
         return _create_result(
-            status=ScraperStatus.FAILED, items=0, errors=[str(e)], start_time=start_time
+            status=ScraperStatus.FAILED, items=0, errors=[str(e)], execution_time=time.time() - start_time
         )
 
 
 def _create_result(
-    status: ScraperStatus, items: int, errors: list, start_time: float
+    status: ScraperStatus, items: int, errors: list, execution_time: float
 ) -> ScraperResult:
     """Create scraper result."""
     return ScraperResult(
         scraper_name="labs",
         status=status.value,
         items_processed=items,
-        execution_time=time.time() - start_time,
+        execution_time=execution_time,
         timestamp=datetime.now().isoformat(),
         errors=errors,
     )

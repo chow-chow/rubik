@@ -73,13 +73,13 @@ def scrape_programs(http_client, storage) -> ScraperResult:
         )
 
         return _create_result(
-            status=status, items=len(programs), errors=[], start_time=start_time
+            status=status, items=len(programs), errors=[], execution_time=execution_time
         )
 
     except Exception as e:
         logger.error(f"Error in programs scraper: {e}", exc_info=True)
         return _create_result(
-            status=ScraperStatus.FAILED, items=0, errors=[str(e)], start_time=start_time
+            status=ScraperStatus.FAILED, items=0, errors=[str(e)], execution_time=time.time() - start_time
         )
 
 
@@ -105,13 +105,26 @@ def _process_program(program_data: dict, http_client, config) -> Program:
             logger.warning(f"No study plans for {code}")
             return None
 
-        main_plan = plans[0]
+        study_plan_codes = [p.code for p in plans]
+        duration = plans[0].release_year if hasattr(plans[0], "release_year") else 10
+
+        try:
+            table = soup.find("table", class_="TblBlk")
+            if table:
+                rows = table.find_all("tr")[1:]
+                if rows:
+                    cells = rows[0].find_all("td")
+                    if len(cells) >= 6:
+                        duration_text = cells[5].get_text(strip=True)
+                        duration = int(duration_text.split()[0])
+        except (ValueError, IndexError, AttributeError):
+            duration = 10
 
         return Program(
             code=code,
             name=name,
-            release_year=main_plan.release_year,
-            duration=main_plan.duration,
+            duration=duration,
+            study_plan_codes=study_plan_codes,
             total_courses=0,
         )
 
@@ -121,14 +134,14 @@ def _process_program(program_data: dict, http_client, config) -> Program:
 
 
 def _create_result(
-    status: ScraperStatus, items: int, errors: list, start_time: float
+    status: ScraperStatus, items: int, errors: list, execution_time: float
 ) -> ScraperResult:
     """Create scraper result."""
     return ScraperResult(
         scraper_name="programs",
         status=status.value,
         items_processed=items,
-        execution_time=time.time() - start_time,
+        execution_time=execution_time,
         timestamp=datetime.now().isoformat(),
         errors=errors,
     )

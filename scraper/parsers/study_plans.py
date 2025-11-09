@@ -3,6 +3,7 @@ Parser for study plans.
 """
 
 import logging
+import re
 from typing import List
 
 from bs4 import BeautifulSoup
@@ -28,18 +29,37 @@ class StudyPlansParser(BaseParser):
 
             for row in rows:
                 cells = self.safe_find_all(row, "td")
+                logger.debug(f"Row has {len(cells)} cells")
                 if len(cells) < 10:
+                    logger.debug(f"Skipping row with only {len(cells)} cells")
                     continue
 
                 try:
+                    code = self.safe_get_text(cells[1])
+                    name = self.safe_get_text(cells[2]).strip()
+                    release_year = int(self.safe_get_text(cells[4]))
+                    required_credits = int(self.safe_get_text(cells[6]))
+                    elective_credits = int(self.safe_get_text(cells[7]))
+                    credit_limit_text = self.safe_get_text(cells[8])
+
+                    logger.debug(
+                        f"Parsing plan: code={code}, name={name}, year={release_year}, "
+                        f"req={required_credits}, elec={elective_credits}, limit={credit_limit_text}"
+                    )
+
+                    credit_limit = self._extract_credit_limit(credit_limit_text)
+
                     plan = StudyPlan(
-                        code=self.safe_get_text(cells[1]),
-                        name=self.safe_get_text(cells[2]).split("-")[-1].strip(),
-                        release_year=int(self.safe_get_text(cells[4])),
-                        duration=int(self.safe_get_text(cells[5]).split()[0]),
+                        code=code,
+                        name=name,
+                        release_year=release_year,
+                        required_credits=required_credits,
+                        elective_credits=elective_credits,
+                        credit_limit_per_period=credit_limit,
                     )
                     raw_plans.append(plan)
-                except (ValueError, IndexError):
+                except (ValueError, IndexError) as e:
+                    logger.warning(f"Skipping invalid row: {e}")
                     continue
 
             if not raw_plans:
@@ -56,3 +76,13 @@ class StudyPlansParser(BaseParser):
         except Exception as e:
             logger.error(f"Error parsing study plans for {program_code}: {e}")
             return []
+
+    def _extract_credit_limit(self, text: str) -> int:
+        """Extract numeric credit limit from text."""
+        if not text or text.strip() == "":
+            return None
+
+        match = re.search(r"(\d+)", text)
+        if match:
+            return int(match.group(1))
+        return None
