@@ -3,7 +3,6 @@
     "code": "0054",
     "name": "DIBUJO",
     "credits": 6,
-    "section": "core",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -12,7 +11,6 @@
     "code": "1120",
     "name": "ALGEBRA",
     "credits": 8,
-    "section": "core",
     "total_groups": 57,
     "has_lab": false,
     "lab": null
@@ -21,7 +19,6 @@
     "code": "1121",
     "name": "CALCULO Y GEOMETRIA ANALITICA",
     "credits": 12,
-    "section": "core",
     "total_groups": 56,
     "has_lab": false,
     "lab": null
@@ -30,7 +27,6 @@
     "code": "1124",
     "name": "REDACCION Y EXPOSIC TEMAS INGENIERIA",
     "credits": 6,
-    "section": "core",
     "total_groups": 39,
     "has_lab": false,
     "lab": null
@@ -39,7 +35,6 @@
     "code": "1125",
     "name": "QUIMICA DE CIENCIAS DE LA TIERRA",
     "credits": 10,
-    "section": "core",
     "total_groups": 11,
     "has_lab": true,
     "lab": {
@@ -52,7 +47,6 @@
     "code": "8000",
     "name": "IGUALDAD DE GENERO EN INGENIERIA",
     "credits": 0,
-    "section": "core",
     "total_groups": 54,
     "has_lab": false,
     "lab": null
@@ -61,7 +55,6 @@
     "code": "1067",
     "name": "GEOMETRIA DESCRIPTIVA APLICADA",
     "credits": 6,
-    "section": "core",
     "total_groups": 5,
     "has_lab": false,
     "lab": null
@@ -70,7 +63,6 @@
     "code": "1122",
     "name": "FUNDAMENTOS DE PROGRAMACION",
     "credits": 10,
-    "section": "core",
     "total_groups": 33,
     "has_lab": false,
     "lab": null
@@ -79,7 +71,6 @@
     "code": "1220",
     "name": "ALGEBRA LINEAL",
     "credits": 8,
-    "section": "core",
     "total_groups": 21,
     "has_lab": false,
     "lab": null
@@ -88,7 +79,6 @@
     "code": "1221",
     "name": "CALCULO INTEGRAL",
     "credits": 8,
-    "section": "core",
     "total_groups": 23,
     "has_lab": false,
     "lab": null
@@ -97,7 +87,6 @@
     "code": "1228",
     "name": "MECANICA",
     "credits": 12,
-    "section": "core",
     "total_groups": 12,
     "has_lab": false,
     "lab": null
@@ -106,7 +95,6 @@
     "code": "1222",
     "name": "CULTURA Y COMUNICACION",
     "credits": 2,
-    "section": "core",
     "total_groups": 28,
     "has_lab": false,
     "lab": null
@@ -115,7 +103,6 @@
     "code": "1321",
     "name": "CALCULO VECTORIAL",
     "credits": 8,
-    "section": "core",
     "total_groups": 36,
     "has_lab": false,
     "lab": null
@@ -124,7 +111,6 @@
     "code": "1325",
     "name": "ECUACIONES DIFERENCIALES",
     "credits": 8,
-    "section": "core",
     "total_groups": 36,
     "has_lab": false,
     "lab": null
@@ -133,7 +119,6 @@
     "code": "1327",
     "name": "GEOLOGIA FISICA",
     "credits": 9,
-    "section": "core",
     "total_groups": 3,
     "has_lab": false,
     "lab": null
@@ -142,7 +127,6 @@
     "code": "1328",
     "name": "FISICA",
     "credits": 10,
-    "section": "core",
     "total_groups": 2,
     "has_lab": false,
     "lab": null
@@ -151,7 +135,6 @@
     "code": "1329",
     "name": "PALEONTOLOGIA GENERAL",
     "credits": 6,
-    "section": "core",
     "total_groups": 1,
     "has_lab": false,
     "lab": null
@@ -160,7 +143,6 @@
     "code": "0487",
     "name": "MINERALOGIA",
     "credits": 9,
-    "section": "core",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -169,7 +151,6 @@
     "code": "0824",
     "name": "SEDIMENTOLOGIA",
     "credits": 6,
-    "section": "core",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -178,7 +159,6 @@
     "code": "1413",
     "name": "INTRODUCCION A LA ECONOMIA",
     "credits": 8,
-    "section": "core",
     "total_groups": 27,
     "has_lab": false,
     "lab": null
@@ -187,7 +167,6 @@
     "code": "1433",
     "name": "ANALISIS NUMERICO",
     "credits": 8,
-    "section": "core",
     "total_groups": 21,
     "has_lab": false,
     "lab": null
@@ -196,7 +175,6 @@
     "code": "1436",
     "name": "PROBABILIDAD",
     "credits": 8,
-    "section": "core",
     "total_groups": 28,
     "has_lab": false,
     "lab": null
@@ -205,7 +183,6 @@
     "code": "1438",
     "name": "TECNICAS GEOLOGICAS DE CAMPO",
     "credits": 6,
-    "section": "core",
     "total_groups": 4,
     "has_lab": false,
     "lab": null
@@ -214,7 +191,6 @@
     "code": "1055",
     "name": "LITERATURA HISPANOAMERICANA CONTEMPO",
     "credits": 6,
-    "section": "core",
     "total_groups": 21,
     "has_lab": false,
     "lab": null
@@ -223,7 +199,6 @@
     "code": "1569",
     "name": "ESTADISTICA",
     "credits": 8,
-    "section": "core",
     "total_groups": 14,
     "has_lab": false,
     "lab": null
@@ -232,7 +207,6 @@
     "code": "1572",
     "name": "GEOLOGIA ESTRUCTURAL",
     "credits": 8,
-    "section": "core",
     "total_groups": 3,
     "has_lab": false,
     "lab": null
@@ -241,7 +215,6 @@
     "code": "1573",
     "name": "GEOQUIMICA",
     "credits": 8,
-    "section": "core",
     "total_groups": 2,
     "has_lab": false,
     "lab": null
@@ -250,7 +223,6 @@
     "code": "1574",
     "name": "MINERALOGIA OPTICA",
     "credits": 9,
-    "section": "core",
     "total_groups": 2,
     "has_lab": false,
     "lab": null
@@ -259,7 +231,6 @@
     "code": "1727",
     "name": "ESTRATIGRAFIA",
     "credits": 8,
-    "section": "core",
     "total_groups": 3,
     "has_lab": false,
     "lab": null
@@ -268,7 +239,6 @@
     "code": "1575",
     "name": "GEOLOGIA DE CAMPO Y CARTOGRAFIA",
     "credits": 6,
-    "section": "core",
     "total_groups": 2,
     "has_lab": false,
     "lab": null
@@ -277,7 +247,6 @@
     "code": "1576",
     "name": "GEOMORFOLOGIA",
     "credits": 8,
-    "section": "core",
     "total_groups": 2,
     "has_lab": false,
     "lab": null
@@ -286,7 +255,6 @@
     "code": "1577",
     "name": "PROSPECCION GEOFISICA REGIST POZOS",
     "credits": 9,
-    "section": "core",
     "total_groups": 2,
     "has_lab": false,
     "lab": null
@@ -295,7 +263,6 @@
     "code": "1677",
     "name": "PETROLOGIA METAMORFICA",
     "credits": 9,
-    "section": "core",
     "total_groups": 2,
     "has_lab": false,
     "lab": null
@@ -304,7 +271,6 @@
     "code": "1690",
     "name": "PETROLOGIA IGNEA",
     "credits": 9,
-    "section": "core",
     "total_groups": 2,
     "has_lab": false,
     "lab": null
@@ -313,7 +279,6 @@
     "code": "1790",
     "name": "INTRODUCCION ANALIS ECON EMPRESARIAL",
     "credits": 4,
-    "section": "core",
     "total_groups": 12,
     "has_lab": false,
     "lab": null
@@ -322,7 +287,6 @@
     "code": "1088",
     "name": "HIDROGEOLOGIA",
     "credits": 9,
-    "section": "core",
     "total_groups": 3,
     "has_lab": false,
     "lab": null
@@ -331,7 +295,6 @@
     "code": "1578",
     "name": "SISTEMAS DE INFORMACION GEOGRAFICA",
     "credits": 9,
-    "section": "core",
     "total_groups": 3,
     "has_lab": false,
     "lab": null
@@ -340,7 +303,6 @@
     "code": "1579",
     "name": "TECTONICA",
     "credits": 8,
-    "section": "core",
     "total_groups": 1,
     "has_lab": false,
     "lab": null
@@ -349,7 +311,6 @@
     "code": "1729",
     "name": "PETROLOGIA SEDIMENTARIA",
     "credits": 9,
-    "section": "core",
     "total_groups": 2,
     "has_lab": false,
     "lab": null
@@ -358,7 +319,6 @@
     "code": "1850",
     "name": "METALOGENIA",
     "credits": 9,
-    "section": "core",
     "total_groups": 2,
     "has_lab": false,
     "lab": null
@@ -367,7 +327,6 @@
     "code": "1066",
     "name": "GEOLOGIA DEL PETROLEO",
     "credits": 9,
-    "section": "core",
     "total_groups": 1,
     "has_lab": false,
     "lab": null
@@ -376,7 +335,6 @@
     "code": "1580",
     "name": "GEOLOGIA AMBIENTAL",
     "credits": 8,
-    "section": "core",
     "total_groups": 2,
     "has_lab": false,
     "lab": null
@@ -385,7 +343,6 @@
     "code": "1582",
     "name": "GEOLOGIA DEL SUBSUELO",
     "credits": 8,
-    "section": "core",
     "total_groups": 2,
     "has_lab": false,
     "lab": null
@@ -394,7 +351,6 @@
     "code": "1583",
     "name": "MECANICA DE ROCAS",
     "credits": 8,
-    "section": "core",
     "total_groups": 3,
     "has_lab": false,
     "lab": null
@@ -403,7 +359,6 @@
     "code": "1871",
     "name": "GEOLOGIA APLICADA A LA MINERIA",
     "credits": 9,
-    "section": "core",
     "total_groups": 2,
     "has_lab": false,
     "lab": null
@@ -412,7 +367,6 @@
     "code": "1052",
     "name": "ETICA PROFESIONAL",
     "credits": 6,
-    "section": "core",
     "total_groups": 25,
     "has_lab": false,
     "lab": null
@@ -421,7 +375,6 @@
     "code": "1061",
     "name": "GEOLOGIA APLICADA A LA ING. CIVIL",
     "credits": 9,
-    "section": "core",
     "total_groups": 2,
     "has_lab": false,
     "lab": null
@@ -430,7 +383,6 @@
     "code": "1584",
     "name": "GEOESTADISTICA",
     "credits": 8,
-    "section": "core",
     "total_groups": 3,
     "has_lab": false,
     "lab": null
@@ -439,7 +391,6 @@
     "code": "1585",
     "name": "GEOLOGIA HISTORICA",
     "credits": 8,
-    "section": "core",
     "total_groups": 2,
     "has_lab": false,
     "lab": null
@@ -448,7 +399,6 @@
     "code": "1586",
     "name": "PROYECTOS DE INGENIERIA GEOLOGICA",
     "credits": 8,
-    "section": "core",
     "total_groups": 2,
     "has_lab": false,
     "lab": null
@@ -457,7 +407,6 @@
     "code": "1587",
     "name": "GEOLOGIA DE MEXICO",
     "credits": 8,
-    "section": "core",
     "total_groups": 2,
     "has_lab": false,
     "lab": null
@@ -466,7 +415,6 @@
     "code": "2080",
     "name": "RECURSOS Y NECESIDADES DE MEXICO",
     "credits": 8,
-    "section": "core",
     "total_groups": 25,
     "has_lab": false,
     "lab": null
@@ -475,7 +423,6 @@
     "code": "1090",
     "name": "SIMULACION MATEMATICA DE YACIMIENTOS",
     "credits": 9,
-    "section": "elective",
     "total_groups": 3,
     "has_lab": false,
     "lab": null
@@ -484,7 +431,6 @@
     "code": "2081",
     "name": "EQUIPOS Y HERRAMIENTAS PERFOR POZOS",
     "credits": 8,
-    "section": "elective",
     "total_groups": 3,
     "has_lab": false,
     "lab": null
@@ -493,7 +439,6 @@
     "code": "2082",
     "name": "EXPLORACION GEOTERMICA",
     "credits": 8,
-    "section": "elective",
     "total_groups": 1,
     "has_lab": false,
     "lab": null
@@ -502,7 +447,6 @@
     "code": "2083",
     "name": "EXPLORACION Y EVALUAC AGUAS SUBTERR",
     "credits": 8,
-    "section": "elective",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -511,7 +455,6 @@
     "code": "2084",
     "name": "GEOLOGIA MARINA",
     "credits": 8,
-    "section": "elective",
     "total_groups": 1,
     "has_lab": false,
     "lab": null
@@ -520,7 +463,6 @@
     "code": "2085",
     "name": "GEOLOGIA URBANA",
     "credits": 8,
-    "section": "elective",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -529,7 +471,6 @@
     "code": "2086",
     "name": "GEOMECANICA",
     "credits": 8,
-    "section": "elective",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -538,7 +479,6 @@
     "code": "2087",
     "name": "GEOQUIMICA ORGANICA",
     "credits": 8,
-    "section": "elective",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -547,7 +487,6 @@
     "code": "2088",
     "name": "GEOTECNIA DE EXCAVACION",
     "credits": 8,
-    "section": "elective",
     "total_groups": 1,
     "has_lab": false,
     "lab": null
@@ -556,7 +495,6 @@
     "code": "2089",
     "name": "HIDROGEOLOGIA DE CONTAMINANTES",
     "credits": 8,
-    "section": "elective",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -565,7 +503,6 @@
     "code": "2090",
     "name": "MECANICA DE SUELOS CIENCIAS DE TIERR",
     "credits": 8,
-    "section": "elective",
     "total_groups": 1,
     "has_lab": false,
     "lab": null
@@ -574,7 +511,6 @@
     "code": "2091",
     "name": "MODELACION NUMERICA ING GEOLOGICA",
     "credits": 8,
-    "section": "elective",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -583,7 +519,6 @@
     "code": "2092",
     "name": "MODELACION NUMERICA COMPUT ACUIFEROS",
     "credits": 8,
-    "section": "elective",
     "total_groups": 1,
     "has_lab": false,
     "lab": null
@@ -592,7 +527,6 @@
     "code": "2093",
     "name": "PALEONTOLOGIA ESTRATIGRAFICA",
     "credits": 8,
-    "section": "elective",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -601,7 +535,6 @@
     "code": "2094",
     "name": "PETROFISICA Y REGIST GEOFISIC POZOS",
     "credits": 10,
-    "section": "elective",
     "total_groups": 2,
     "has_lab": false,
     "lab": null
@@ -610,7 +543,6 @@
     "code": "2095",
     "name": "RIESGO GEOLOGICO",
     "credits": 8,
-    "section": "elective",
     "total_groups": 1,
     "has_lab": false,
     "lab": null
@@ -619,7 +551,6 @@
     "code": "2096",
     "name": "TEMAS SELEC INGEN GEOLOGICA I",
     "credits": 8,
-    "section": "elective",
     "total_groups": 4,
     "has_lab": false,
     "lab": null
@@ -628,7 +559,6 @@
     "code": "2097",
     "name": "TEMAS SELEC INGEN GEOLOGICA II",
     "credits": 8,
-    "section": "elective",
     "total_groups": 4,
     "has_lab": false,
     "lab": null
@@ -637,7 +567,6 @@
     "code": "2098",
     "name": "TEMAS SELEC INGEN GEOLOGICA III",
     "credits": 8,
-    "section": "elective",
     "total_groups": 4,
     "has_lab": false,
     "lab": null
@@ -646,7 +575,6 @@
     "code": "2099",
     "name": "YACIMIENT MINERALS TECNIC ANALITICAS",
     "credits": 9,
-    "section": "elective",
     "total_groups": 1,
     "has_lab": false,
     "lab": null

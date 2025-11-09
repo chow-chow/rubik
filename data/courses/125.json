@@ -3,7 +3,6 @@
     "code": "1110",
     "name": "PRACTICAS DE TOPOGRAFIA I",
     "credits": 5,
-    "section": "core",
     "total_groups": 5,
     "has_lab": false,
     "lab": null
@@ -12,7 +11,6 @@
     "code": "1114",
     "name": "TOPOGRAFIA I",
     "credits": 9,
-    "section": "core",
     "total_groups": 5,
     "has_lab": false,
     "lab": null
@@ -21,7 +19,6 @@
     "code": "1120",
     "name": "ALGEBRA",
     "credits": 8,
-    "section": "core",
     "total_groups": 57,
     "has_lab": false,
     "lab": null
@@ -30,7 +27,6 @@
     "code": "1121",
     "name": "CALCULO Y GEOMETRIA ANALITICA",
     "credits": 12,
-    "section": "core",
     "total_groups": 56,
     "has_lab": false,
     "lab": null
@@ -39,7 +35,6 @@
     "code": "1124",
     "name": "REDACCION Y EXPOSIC TEMAS INGENIERIA",
     "credits": 6,
-    "section": "core",
     "total_groups": 39,
     "has_lab": false,
     "lab": null
@@ -48,7 +43,6 @@
     "code": "1128",
     "name": "REPRESENTACIONES GRAFICAS",
     "credits": 8,
-    "section": "core",
     "total_groups": 13,
     "has_lab": false,
     "lab": null
@@ -57,7 +51,6 @@
     "code": "8000",
     "name": "IGUALDAD DE GENERO EN INGENIERIA",
     "credits": 0,
-    "section": "core",
     "total_groups": 54,
     "has_lab": false,
     "lab": null
@@ -66,7 +59,6 @@
     "code": "1127",
     "name": "PROGRAMACION BASICA",
     "credits": 6,
-    "section": "core",
     "total_groups": 10,
     "has_lab": false,
     "lab": null
@@ -75,7 +67,6 @@
     "code": "1217",
     "name": "PRACTICAS DE TOPOGRAFIA II",
     "credits": 5,
-    "section": "core",
     "total_groups": 1,
     "has_lab": false,
     "lab": null
@@ -84,7 +75,6 @@
     "code": "1218",
     "name": "TOPOGRAFIA II",
     "credits": 9,
-    "section": "core",
     "total_groups": 1,
     "has_lab": false,
     "lab": null
@@ -93,7 +83,6 @@
     "code": "1220",
     "name": "ALGEBRA LINEAL",
     "credits": 8,
-    "section": "core",
     "total_groups": 21,
     "has_lab": false,
     "lab": null
@@ -102,7 +91,6 @@
     "code": "1221",
     "name": "CALCULO INTEGRAL",
     "credits": 8,
-    "section": "core",
     "total_groups": 23,
     "has_lab": false,
     "lab": null
@@ -111,7 +99,6 @@
     "code": "1222",
     "name": "CULTURA Y COMUNICACION",
     "credits": 2,
-    "section": "core",
     "total_groups": 28,
     "has_lab": false,
     "lab": null
@@ -120,7 +107,6 @@
     "code": "1223",
     "name": "ESTATICA",
     "credits": 8,
-    "section": "core",
     "total_groups": 11,
     "has_lab": false,
     "lab": null
@@ -129,7 +115,6 @@
     "code": "1321",
     "name": "CALCULO VECTORIAL",
     "credits": 8,
-    "section": "core",
     "total_groups": 36,
     "has_lab": false,
     "lab": null
@@ -138,7 +123,6 @@
     "code": "1322",
     "name": "CINEMATICA Y DINAMICA",
     "credits": 8,
-    "section": "core",
     "total_groups": 18,
     "has_lab": false,
     "lab": null
@@ -147,7 +131,6 @@
     "code": "1325",
     "name": "ECUACIONES DIFERENCIALES",
     "credits": 8,
-    "section": "core",
     "total_groups": 36,
     "has_lab": false,
     "lab": null
@@ -156,7 +139,6 @@
     "code": "1334",
     "name": "FOTOGRAMETRIA",
     "credits": 12,
-    "section": "core",
     "total_groups": 3,
     "has_lab": false,
     "lab": null
@@ -165,7 +147,6 @@
     "code": "1436",
     "name": "PROBABILIDAD",
     "credits": 8,
-    "section": "core",
     "total_groups": 28,
     "has_lab": false,
     "lab": null
@@ -174,7 +155,6 @@
     "code": "1433",
     "name": "ANALISIS NUMERICO",
     "credits": 8,
-    "section": "core",
     "total_groups": 21,
     "has_lab": false,
     "lab": null
@@ -183,7 +163,6 @@
     "code": "1446",
     "name": "ELECTROMAGNETISMO Y OPTICA",
     "credits": 10,
-    "section": "core",
     "total_groups": 1,
     "has_lab": false,
     "lab": null
@@ -192,7 +171,6 @@
     "code": "1447",
     "name": "ESTADISTICA APLICADA ING. GEOMATICA",
     "credits": 4,
-    "section": "core",
     "total_groups": 1,
     "has_lab": false,
     "lab": null
@@ -201,7 +179,6 @@
     "code": "1448",
     "name": "GEODESIA I",
     "credits": 8,
-    "section": "core",
     "total_groups": 3,
     "has_lab": false,
     "lab": null
@@ -210,7 +187,6 @@
     "code": "1449",
     "name": "PROCESOS FOTOGRAMETRICOS",
     "credits": 12,
-    "section": "core",
     "total_groups": 2,
     "has_lab": false,
     "lab": null
@@ -219,7 +195,6 @@
     "code": "1413",
     "name": "INTRODUCCION A LA ECONOMIA",
     "credits": 8,
-    "section": "core",
     "total_groups": 27,
     "has_lab": false,
     "lab": null
@@ -228,7 +203,6 @@
     "code": "1533",
     "name": "GEODESIA II",
     "credits": 12,
-    "section": "core",
     "total_groups": 1,
     "has_lab": false,
     "lab": null
@@ -237,7 +211,6 @@
     "code": "1534",
     "name": "INTRODUCCION BASE DATOS ESPACIALES",
     "credits": 6,
-    "section": "core",
     "total_groups": 1,
     "has_lab": false,
     "lab": null
@@ -246,7 +219,6 @@
     "code": "1542",
     "name": "GEOLOGIA Y GEOMORFOLOGIA",
     "credits": 8,
-    "section": "core",
     "total_groups": 2,
     "has_lab": false,
     "lab": null
@@ -255,7 +227,6 @@
     "code": "1543",
     "name": "MODELACION MATEMATICA",
     "credits": 6,
-    "section": "core",
     "total_groups": 2,
     "has_lab": false,
     "lab": null
@@ -264,7 +235,6 @@
     "code": "1750",
     "name": "CARTOGRAFIA",
     "credits": 8,
-    "section": "core",
     "total_groups": 2,
     "has_lab": false,
     "lab": null
@@ -273,7 +243,6 @@
     "code": "1052",
     "name": "ETICA PROFESIONAL",
     "credits": 6,
-    "section": "core",
     "total_groups": 25,
     "has_lab": false,
     "lab": null
@@ -282,7 +251,6 @@
     "code": "1637",
     "name": "TEORIA DE LOS ERRORES",
     "credits": 6,
-    "section": "core",
     "total_groups": 1,
     "has_lab": false,
     "lab": null
@@ -291,7 +259,6 @@
     "code": "1646",
     "name": "GEODESIA III",
     "credits": 9,
-    "section": "core",
     "total_groups": 1,
     "has_lab": false,
     "lab": null
@@ -300,7 +267,6 @@
     "code": "1647",
     "name": "SISTEMAS DE POSICIONAMIENTO GLOBAL",
     "credits": 8,
-    "section": "core",
     "total_groups": 3,
     "has_lab": false,
     "lab": null
@@ -309,7 +275,6 @@
     "code": "1652",
     "name": "SISTEMAS INFORMACION GEOGRAFICA I",
     "credits": 9,
-    "section": "core",
     "total_groups": 1,
     "has_lab": false,
     "lab": null
@@ -318,7 +283,6 @@
     "code": "1548",
     "name": "CALCULO DE AJUSTES",
     "credits": 6,
-    "section": "core",
     "total_groups": 1,
     "has_lab": false,
     "lab": null
@@ -327,7 +291,6 @@
     "code": "1581",
     "name": "HIDRAULICA E HIDROLOGIA",
     "credits": 9,
-    "section": "core",
     "total_groups": 3,
     "has_lab": false,
     "lab": null
@@ -336,7 +299,6 @@
     "code": "1689",
     "name": "PERCEPCION REMOTA I",
     "credits": 9,
-    "section": "core",
     "total_groups": 2,
     "has_lab": false,
     "lab": null
@@ -345,7 +307,6 @@
     "code": "1753",
     "name": "SISTEMAS INFORMACION GEOGRAFICA II",
     "credits": 9,
-    "section": "core",
     "total_groups": 1,
     "has_lab": false,
     "lab": null
@@ -354,7 +315,6 @@
     "code": "2070",
     "name": "TOPOGRAFIA DE YACIMIENTOS MINERALS",
     "credits": 8,
-    "section": "core",
     "total_groups": 2,
     "has_lab": false,
     "lab": null
@@ -363,7 +323,6 @@
     "code": "1599",
     "name": "FUNDAMENTOS DE CATASTRO",
     "credits": 8,
-    "section": "core",
     "total_groups": 1,
     "has_lab": false,
     "lab": null
@@ -372,7 +331,6 @@
     "code": "1648",
     "name": "GESTION AMBIENTAL",
     "credits": 6,
-    "section": "core",
     "total_groups": 1,
     "has_lab": false,
     "lab": null
@@ -381,7 +339,6 @@
     "code": "1649",
     "name": "LEGISLACION APLIC.INGENIERIA GEOMAT.",
     "credits": 6,
-    "section": "core",
     "total_groups": 1,
     "has_lab": false,
     "lab": null
@@ -390,7 +347,6 @@
     "code": "1679",
     "name": "PROYECTO GEOMETRICO OBRAS INFRAEST",
     "credits": 9,
-    "section": "core",
     "total_groups": 1,
     "has_lab": false,
     "lab": null
@@ -399,7 +355,6 @@
     "code": "1752",
     "name": "PERCEPCION REMOTA II",
     "credits": 9,
-    "section": "core",
     "total_groups": 1,
     "has_lab": false,
     "lab": null
@@ -408,7 +363,6 @@
     "code": "2080",
     "name": "RECURSOS Y NECESIDADES DE MEXICO",
     "credits": 8,
-    "section": "core",
     "total_groups": 25,
     "has_lab": false,
     "lab": null
@@ -417,7 +371,6 @@
     "code": "1854",
     "name": "PROYECTO GEOMATICO",
     "credits": 6,
-    "section": "core",
     "total_groups": 1,
     "has_lab": false,
     "lab": null
@@ -426,7 +379,6 @@
     "code": "1947",
     "name": "ADMINISTRACION DE PROYECTOS",
     "credits": 6,
-    "section": "core",
     "total_groups": 2,
     "has_lab": false,
     "lab": null
@@ -435,7 +387,6 @@
     "code": "1960",
     "name": "PRACTICAS PROFESIONALES",
     "credits": 6,
-    "section": "core",
     "total_groups": 2,
     "has_lab": false,
     "lab": null
@@ -444,7 +395,6 @@
     "code": "0032",
     "name": "ABAST DE AGUA POTABLE",
     "credits": 6,
-    "section": "elective",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -453,7 +403,6 @@
     "code": "2068",
     "name": "HIDROGRAFIA",
     "credits": 9,
-    "section": "elective",
     "total_groups": 1,
     "has_lab": false,
     "lab": null
@@ -462,7 +411,6 @@
     "code": "2800",
     "name": "ALCANTARILLADO SANITARIO-PLUVIAL",
     "credits": 6,
-    "section": "elective",
     "total_groups": 5,
     "has_lab": false,
     "lab": null
@@ -471,7 +419,6 @@
     "code": "2935",
     "name": "ASTRONOMIA DE POSICION",
     "credits": 9,
-    "section": "elective",
     "total_groups": 1,
     "has_lab": false,
     "lab": null
@@ -480,7 +427,6 @@
     "code": "2936",
     "name": "CARTOGRAFIA DIGITAL",
     "credits": 9,
-    "section": "elective",
     "total_groups": 1,
     "has_lab": false,
     "lab": null
@@ -489,7 +435,6 @@
     "code": "2937",
     "name": "GEOMATICA APLICADA AL ORDENAM.TERRIT",
     "credits": 9,
-    "section": "elective",
     "total_groups": 1,
     "has_lab": false,
     "lab": null
@@ -498,7 +443,6 @@
     "code": "2938",
     "name": "GEOMATICA APLICADA AL TRANSPORTE",
     "credits": 9,
-    "section": "elective",
     "total_groups": 1,
     "has_lab": false,
     "lab": null
@@ -507,7 +451,6 @@
     "code": "2939",
     "name": "METODOS GEOFISICOS",
     "credits": 9,
-    "section": "elective",
     "total_groups": 1,
     "has_lab": false,
     "lab": null
@@ -516,7 +459,6 @@
     "code": "2940",
     "name": "PREANALISIS Y DISEÑO PROYEC.TOPOGRAF",
     "credits": 9,
-    "section": "elective",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -525,7 +467,6 @@
     "code": "2941",
     "name": "PROGRAMACION APLIC. A LA GEOMATICA",
     "credits": 6,
-    "section": "elective",
     "total_groups": 1,
     "has_lab": false,
     "lab": null
@@ -534,7 +475,6 @@
     "code": "2942",
     "name": "TOPOGRAFIA APLIC.CONSTRUC.EDIFICACIO",
     "credits": 9,
-    "section": "elective",
     "total_groups": 1,
     "has_lab": false,
     "lab": null
@@ -543,7 +483,6 @@
     "code": "1055",
     "name": "LITERATURA HISPANOAMERICANA CONTEMPO",
     "credits": 6,
-    "section": "humanities",
     "total_groups": 21,
     "has_lab": false,
     "lab": null
@@ -552,7 +491,6 @@
     "code": "1789",
     "name": "CIENCIA, TECNOLOGIA Y SOCIEDAD",
     "credits": 4,
-    "section": "humanities",
     "total_groups": 12,
     "has_lab": false,
     "lab": null
@@ -561,7 +499,6 @@
     "code": "1790",
     "name": "INTRODUCCION ANALIS ECON EMPRESARIAL",
     "credits": 4,
-    "section": "humanities",
     "total_groups": 12,
     "has_lab": false,
     "lab": null
@@ -570,7 +507,6 @@
     "code": "1791",
     "name": "MEXICO NACION MULTICULTURAL",
     "credits": 4,
-    "section": "humanities",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -579,7 +515,6 @@
     "code": "1792",
     "name": "SEM. SOCIOHUMANISTICO: HIST PROSP IN",
     "credits": 2,
-    "section": "humanities",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -588,7 +523,6 @@
     "code": "1793",
     "name": "SEM. SOCIOHUMANISTICO: ING Y POL PUB",
     "credits": 2,
-    "section": "humanities",
     "total_groups": 2,
     "has_lab": false,
     "lab": null
@@ -597,7 +531,6 @@
     "code": "1794",
     "name": "SEM. SOCIOHUMANISTICO: ING SUSTENTAB",
     "credits": 2,
-    "section": "humanities",
     "total_groups": 4,
     "has_lab": false,
     "lab": null
@@ -606,7 +539,6 @@
     "code": "1795",
     "name": "TALLER SOCIOHUMANISTICO: CREATIVIDAD",
     "credits": 2,
-    "section": "humanities",
     "total_groups": 6,
     "has_lab": false,
     "lab": null
@@ -615,7 +547,6 @@
     "code": "1796",
     "name": "TALLER SOCIOHUMANISTICO: LIDERAZGO",
     "credits": 2,
-    "section": "humanities",
     "total_groups": 10,
     "has_lab": false,
     "lab": null

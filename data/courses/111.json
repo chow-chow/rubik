@@ -3,7 +3,6 @@
     "code": "1120",
     "name": "ALGEBRA",
     "credits": 8,
-    "section": "core",
     "total_groups": 57,
     "has_lab": false,
     "lab": null
@@ -12,7 +11,6 @@
     "code": "1121",
     "name": "CALCULO Y GEOMETRIA ANALITICA",
     "credits": 12,
-    "section": "core",
     "total_groups": 56,
     "has_lab": false,
     "lab": null
@@ -21,7 +19,6 @@
     "code": "1122",
     "name": "FUNDAMENTOS DE PROGRAMACION",
     "credits": 10,
-    "section": "core",
     "total_groups": 33,
     "has_lab": false,
     "lab": null
@@ -30,7 +27,6 @@
     "code": "1123",
     "name": "QUIMICA",
     "credits": 10,
-    "section": "core",
     "total_groups": 31,
     "has_lab": true,
     "lab": {
@@ -43,7 +39,6 @@
     "code": "1130",
     "name": "FUNDAMENTOS DE FISICA",
     "credits": 6,
-    "section": "core",
     "total_groups": 16,
     "has_lab": false,
     "lab": null
@@ -52,7 +47,6 @@
     "code": "8000",
     "name": "IGUALDAD DE GENERO EN INGENIERIA",
     "credits": 0,
-    "section": "core",
     "total_groups": 54,
     "has_lab": false,
     "lab": null
@@ -61,7 +55,6 @@
     "code": "1124",
     "name": "REDACCION Y EXPOSIC TEMAS INGENIERIA",
     "credits": 6,
-    "section": "core",
     "total_groups": 39,
     "has_lab": false,
     "lab": null
@@ -70,7 +63,6 @@
     "code": "1220",
     "name": "ALGEBRA LINEAL",
     "credits": 8,
-    "section": "core",
     "total_groups": 21,
     "has_lab": false,
     "lab": null
@@ -79,7 +71,6 @@
     "code": "1221",
     "name": "CALCULO INTEGRAL",
     "credits": 8,
-    "section": "core",
     "total_groups": 23,
     "has_lab": false,
     "lab": null
@@ -88,7 +79,6 @@
     "code": "1227",
     "name": "ESTRUCTURA DATOS Y ALGORITMOS I",
     "credits": 10,
-    "section": "core",
     "total_groups": 8,
     "has_lab": false,
     "lab": null
@@ -97,7 +87,6 @@
     "code": "1228",
     "name": "MECANICA",
     "credits": 12,
-    "section": "core",
     "total_groups": 12,
     "has_lab": false,
     "lab": null
@@ -106,7 +95,6 @@
     "code": "1138",
     "name": "PRINCIPIOS PRACTICOS DE ELECTRONICA",
     "credits": 4,
-    "section": "core",
     "total_groups": 5,
     "has_lab": false,
     "lab": null
@@ -115,7 +103,6 @@
     "code": "1222",
     "name": "CULTURA Y COMUNICACION",
     "credits": 2,
-    "section": "core",
     "total_groups": 28,
     "has_lab": false,
     "lab": null
@@ -124,7 +111,6 @@
     "code": "1321",
     "name": "CALCULO VECTORIAL",
     "credits": 8,
-    "section": "core",
     "total_groups": 36,
     "has_lab": false,
     "lab": null
@@ -133,7 +119,6 @@
     "code": "1323",
     "name": "PROGRAMACION ORIENTADA A OBJETOS",
     "credits": 10,
-    "section": "core",
     "total_groups": 12,
     "has_lab": false,
     "lab": null
@@ -142,7 +127,6 @@
     "code": "1325",
     "name": "ECUACIONES DIFERENCIALES",
     "credits": 8,
-    "section": "core",
     "total_groups": 36,
     "has_lab": false,
     "lab": null
@@ -151,7 +135,6 @@
     "code": "1424",
     "name": "MATEMATICAS  AVANZADAS",
     "credits": 8,
-    "section": "core",
     "total_groups": 8,
     "has_lab": false,
     "lab": null
@@ -160,7 +143,6 @@
     "code": "1436",
     "name": "PROBABILIDAD",
     "credits": 8,
-    "section": "core",
     "total_groups": 28,
     "has_lab": false,
     "lab": null
@@ -169,7 +151,6 @@
     "code": "1414",
     "name": "ELECTRICIDAD Y MAGNETISMO",
     "credits": 10,
-    "section": "core",
     "total_groups": 17,
     "has_lab": true,
     "lab": {
@@ -182,7 +163,6 @@
     "code": "1433",
     "name": "ANALISIS NUMERICO",
     "credits": 8,
-    "section": "core",
     "total_groups": 21,
     "has_lab": false,
     "lab": null
@@ -191,7 +171,6 @@
     "code": "1451",
     "name": "FUNDAMENTOS DE OPTICA",
     "credits": 6,
-    "section": "core",
     "total_groups": 1,
     "has_lab": false,
     "lab": null
@@ -200,7 +179,6 @@
     "code": "1452",
     "name": "INTRODUCCION A FISICA DEL EDO. SOLID",
     "credits": 8,
-    "section": "core",
     "total_groups": 1,
     "has_lab": false,
     "lab": null
@@ -209,7 +187,6 @@
     "code": "1453",
     "name": "SISTEMAS DIGITALES",
     "credits": 8,
-    "section": "core",
     "total_groups": 1,
     "has_lab": true,
     "lab": {
@@ -222,7 +199,6 @@
     "code": "1454",
     "name": "SISTEMAS Y SEÑALES",
     "credits": 8,
-    "section": "core",
     "total_groups": 1,
     "has_lab": false,
     "lab": null
@@ -231,7 +207,6 @@
     "code": "1458",
     "name": "CAMPOS Y ONDAS",
     "credits": 8,
-    "section": "core",
     "total_groups": 1,
     "has_lab": false,
     "lab": null
@@ -240,7 +215,6 @@
     "code": "1459",
     "name": "DISPOSITIVOS DE RADIO-FRECUENCIA",
     "credits": 10,
-    "section": "core",
     "total_groups": 1,
     "has_lab": true,
     "lab": {
@@ -253,7 +227,6 @@
     "code": "1460",
     "name": "ELEMENTOS DE CONTROL",
     "credits": 6,
-    "section": "core",
     "total_groups": 1,
     "has_lab": false,
     "lab": null
@@ -262,7 +235,6 @@
     "code": "1461",
     "name": "FUNDAMENTOS DE PROCESOS ALEATORIOS",
     "credits": 6,
-    "section": "core",
     "total_groups": 1,
     "has_lab": false,
     "lab": null
@@ -271,7 +243,6 @@
     "code": "1462",
     "name": "FUNDAMENTOS SISTEMAS DE COMUNICACION",
     "credits": 10,
-    "section": "core",
     "total_groups": 1,
     "has_lab": true,
     "lab": {
@@ -284,7 +255,6 @@
     "code": "1463",
     "name": "TEORIA DE CIRCUITOS",
     "credits": 8,
-    "section": "core",
     "total_groups": 1,
     "has_lab": true,
     "lab": {
@@ -297,7 +267,6 @@
     "code": "0109",
     "name": "COMUNICACIONES DIGITALES",
     "credits": 10,
-    "section": "core",
     "total_groups": 0,
     "has_lab": true,
     "lab": {
@@ -310,7 +279,6 @@
     "code": "1413",
     "name": "INTRODUCCION A LA ECONOMIA",
     "credits": 8,
-    "section": "core",
     "total_groups": 27,
     "has_lab": false,
     "lab": null
@@ -319,7 +287,6 @@
     "code": "1467",
     "name": "CIRCUITOS DE RADIO-FRECUENCIA",
     "credits": 10,
-    "section": "core",
     "total_groups": 1,
     "has_lab": true,
     "lab": {
@@ -332,7 +299,6 @@
     "code": "1469",
     "name": "FUNDAMENTOS APLICAC.PROCES.DIGIT.SEÑ",
     "credits": 6,
-    "section": "core",
     "total_groups": 1,
     "has_lab": false,
     "lab": null
@@ -341,7 +307,6 @@
     "code": "1470",
     "name": "INTRODUCCION A CODIFIC.FUENTE-CANAL",
     "credits": 6,
-    "section": "core",
     "total_groups": 1,
     "has_lab": false,
     "lab": null
@@ -350,7 +315,6 @@
     "code": "1682",
     "name": "MEDIOS DE TRANSMISION",
     "credits": 8,
-    "section": "core",
     "total_groups": 1,
     "has_lab": true,
     "lab": {
@@ -363,7 +327,6 @@
     "code": "1052",
     "name": "ETICA PROFESIONAL",
     "credits": 6,
-    "section": "core",
     "total_groups": 25,
     "has_lab": false,
     "lab": null
@@ -372,7 +335,6 @@
     "code": "1773",
     "name": "ANTENAS",
     "credits": 8,
-    "section": "core",
     "total_groups": 1,
     "has_lab": true,
     "lab": {
@@ -385,7 +347,6 @@
     "code": "1774",
     "name": "DISPOSITIVOS DE MICROONDAS I",
     "credits": 8,
-    "section": "core",
     "total_groups": 1,
     "has_lab": true,
     "lab": {
@@ -398,7 +359,6 @@
     "code": "2704",
     "name": "PROCESAM.SEÑALES DIGITAL.TIEMPO REAL",
     "credits": 8,
-    "section": "core",
     "total_groups": 1,
     "has_lab": true,
     "lab": {
@@ -411,7 +371,6 @@
     "code": "2705",
     "name": "REDES DE TELECOMUNICACIONES",
     "credits": 8,
-    "section": "core",
     "total_groups": 1,
     "has_lab": false,
     "lab": null
@@ -420,7 +379,6 @@
     "code": "2706",
     "name": "TRANSMISORES Y RECEPTORES",
     "credits": 10,
-    "section": "core",
     "total_groups": 1,
     "has_lab": true,
     "lab": {
@@ -433,7 +391,6 @@
     "code": "1874",
     "name": "DISPOSITIVOS DE MICROONDAS II",
     "credits": 8,
-    "section": "core",
     "total_groups": 1,
     "has_lab": true,
     "lab": {
@@ -446,7 +403,6 @@
     "code": "1875",
     "name": "SISTEMAS DE COMUNICACIONES OPTICAS",
     "credits": 8,
-    "section": "core",
     "total_groups": 1,
     "has_lab": true,
     "lab": {
@@ -459,7 +415,6 @@
     "code": "2080",
     "name": "RECURSOS Y NECESIDADES DE MEXICO",
     "credits": 8,
-    "section": "core",
     "total_groups": 25,
     "has_lab": false,
     "lab": null
@@ -468,7 +423,6 @@
     "code": "2813",
     "name": "SISTEMAS DE RADIO-COMUNICACIONES I",
     "credits": 8,
-    "section": "core",
     "total_groups": 1,
     "has_lab": false,
     "lab": null
@@ -477,7 +431,6 @@
     "code": "2814",
     "name": "TECNOLOGIAS E INTERCONEXION DE REDES",
     "credits": 8,
-    "section": "core",
     "total_groups": 1,
     "has_lab": false,
     "lab": null
@@ -486,7 +439,6 @@
     "code": "1059",
     "name": "DESARROLLO EMPRESARIAL",
     "credits": 6,
-    "section": "core",
     "total_groups": 6,
     "has_lab": false,
     "lab": null
@@ -495,7 +447,6 @@
     "code": "1974",
     "name": "REDES INALAMBRICAS Y MOVILES",
     "credits": 6,
-    "section": "core",
     "total_groups": 1,
     "has_lab": false,
     "lab": null
@@ -504,7 +455,6 @@
     "code": "2962",
     "name": "REGULACION DE LAS TELECOMUNICACIONES",
     "credits": 6,
-    "section": "core",
     "total_groups": 1,
     "has_lab": false,
     "lab": null
@@ -513,7 +463,6 @@
     "code": "2963",
     "name": "SISTEMAS DE RADIO-COMUNICACIONES II",
     "credits": 8,
-    "section": "core",
     "total_groups": 1,
     "has_lab": false,
     "lab": null
@@ -522,7 +471,6 @@
     "code": "1055",
     "name": "LITERATURA HISPANOAMERICANA CONTEMPO",
     "credits": 6,
-    "section": "humanities",
     "total_groups": 21,
     "has_lab": false,
     "lab": null
@@ -531,7 +479,6 @@
     "code": "1789",
     "name": "CIENCIA, TECNOLOGIA Y SOCIEDAD",
     "credits": 4,
-    "section": "humanities",
     "total_groups": 12,
     "has_lab": false,
     "lab": null
@@ -540,7 +487,6 @@
     "code": "1790",
     "name": "INTRODUCCION ANALIS ECON EMPRESARIAL",
     "credits": 4,
-    "section": "humanities",
     "total_groups": 12,
     "has_lab": false,
     "lab": null
@@ -549,7 +495,6 @@
     "code": "1791",
     "name": "MEXICO NACION MULTICULTURAL",
     "credits": 4,
-    "section": "humanities",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -558,7 +503,6 @@
     "code": "1792",
     "name": "SEM. SOCIOHUMANISTICO: HIST PROSP IN",
     "credits": 2,
-    "section": "humanities",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -567,7 +511,6 @@
     "code": "1793",
     "name": "SEM. SOCIOHUMANISTICO: ING Y POL PUB",
     "credits": 2,
-    "section": "humanities",
     "total_groups": 2,
     "has_lab": false,
     "lab": null
@@ -576,7 +519,6 @@
     "code": "1794",
     "name": "SEM. SOCIOHUMANISTICO: ING SUSTENTAB",
     "credits": 2,
-    "section": "humanities",
     "total_groups": 4,
     "has_lab": false,
     "lab": null
@@ -585,7 +527,6 @@
     "code": "1795",
     "name": "TALLER SOCIOHUMANISTICO: CREATIVIDAD",
     "credits": 2,
-    "section": "humanities",
     "total_groups": 6,
     "has_lab": false,
     "lab": null
@@ -594,7 +535,6 @@
     "code": "1796",
     "name": "TALLER SOCIOHUMANISTICO: LIDERAZGO",
     "credits": 2,
-    "section": "humanities",
     "total_groups": 10,
     "has_lab": false,
     "lab": null
@@ -603,7 +543,6 @@
     "code": "2300",
     "name": "FUNDAMENTOS DE RADIO-ELECTRON.ESPAC",
     "credits": 6,
-    "section": "elective",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -612,7 +551,6 @@
     "code": "2301",
     "name": "FUNDAMENTOS SISTEMAS COMANDO MANEJ",
     "credits": 6,
-    "section": "elective",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -621,7 +559,6 @@
     "code": "2302",
     "name": "INNOVACION TECNOL.PROSPEC.TELECOMUN",
     "credits": 6,
-    "section": "elective",
     "total_groups": 1,
     "has_lab": false,
     "lab": null
@@ -630,7 +567,6 @@
     "code": "2303",
     "name": "INTRODUCC.ANALISIS COMPATIBIL.ELECTR",
     "credits": 6,
-    "section": "elective",
     "total_groups": 1,
     "has_lab": false,
     "lab": null
@@ -639,7 +575,6 @@
     "code": "2304",
     "name": "PROYECTO INVESTI.PARA TELECOMUNICAC.",
     "credits": 6,
-    "section": "elective",
     "total_groups": 3,
     "has_lab": false,
     "lab": null
@@ -648,7 +583,6 @@
     "code": "2305",
     "name": "TEMAS SEL.DE NORMALIZAC,DESARR.INDUS",
     "credits": 6,
-    "section": "elective",
     "total_groups": 1,
     "has_lab": false,
     "lab": null
@@ -657,7 +591,6 @@
     "code": "2306",
     "name": "TEMAS SEL. DE TELECOMUNICACIONES",
     "credits": 6,
-    "section": "elective",
     "total_groups": 3,
     "has_lab": false,
     "lab": null
@@ -666,7 +599,6 @@
     "code": "2307",
     "name": "POLITICA Y LEGISLACION TELECOMUNICAC",
     "credits": 6,
-    "section": "elective",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -675,7 +607,6 @@
     "code": "2308",
     "name": "TECNOLOGIAS PARA SOCIEDAD INFORMACIO",
     "credits": 6,
-    "section": "elective",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -684,7 +615,6 @@
     "code": "0674",
     "name": "COMPUTO MOVIL",
     "credits": 6,
-    "section": "elective",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -693,7 +623,6 @@
     "code": "2309",
     "name": "REDES EMBEBIDAS INALAMBRICAS",
     "credits": 6,
-    "section": "elective",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -702,7 +631,6 @@
     "code": "2310",
     "name": "TECNOLOGIAS E INTERCONEXION REDES II",
     "credits": 6,
-    "section": "elective",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -711,7 +639,6 @@
     "code": "2055",
     "name": "RADIODIFUSION",
     "credits": 6,
-    "section": "elective",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -720,7 +647,6 @@
     "code": "2311",
     "name": "CODIFICACION MULTIMEDIA",
     "credits": 6,
-    "section": "elective",
     "total_groups": 1,
     "has_lab": false,
     "lab": null
@@ -729,7 +655,6 @@
     "code": "2312",
     "name": "TRANSMISION MULTIMEDIA",
     "credits": 6,
-    "section": "elective",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -738,7 +663,6 @@
     "code": "2313",
     "name": "ANTENAS RECONFIGUR.ARREGLOS ANTENAS",
     "credits": 6,
-    "section": "elective",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -747,7 +671,6 @@
     "code": "2314",
     "name": "INTRODUCC. A LOS SISTEMAS EMBEBIDOS",
     "credits": 6,
-    "section": "elective",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -756,7 +679,6 @@
     "code": "2315",
     "name": "REDES OPTICAS Y DE ACCESO",
     "credits": 6,
-    "section": "elective",
     "total_groups": 0,
     "has_lab": false,
     "lab": null

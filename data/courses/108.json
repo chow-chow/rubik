@@ -3,7 +3,6 @@
     "code": "0424",
     "name": "GEOLOGIA GENERAL",
     "credits": 9,
-    "section": "core",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -12,7 +11,6 @@
     "code": "1120",
     "name": "ALGEBRA",
     "credits": 8,
-    "section": "core",
     "total_groups": 57,
     "has_lab": false,
     "lab": null
@@ -21,7 +19,6 @@
     "code": "1121",
     "name": "CALCULO Y GEOMETRIA ANALITICA",
     "credits": 12,
-    "section": "core",
     "total_groups": 56,
     "has_lab": false,
     "lab": null
@@ -30,7 +27,6 @@
     "code": "1131",
     "name": "INTRODUC.INGENIER.MINAS Y METALURGIA",
     "credits": 4,
-    "section": "core",
     "total_groups": 1,
     "has_lab": false,
     "lab": null
@@ -39,7 +35,6 @@
     "code": "1222",
     "name": "CULTURA Y COMUNICACION",
     "credits": 2,
-    "section": "core",
     "total_groups": 28,
     "has_lab": false,
     "lab": null
@@ -48,7 +43,6 @@
     "code": "8000",
     "name": "IGUALDAD DE GENERO EN INGENIERIA",
     "credits": 0,
-    "section": "core",
     "total_groups": 54,
     "has_lab": false,
     "lab": null
@@ -57,7 +51,6 @@
     "code": "0487",
     "name": "MINERALOGIA",
     "credits": 9,
-    "section": "core",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -66,7 +59,6 @@
     "code": "1122",
     "name": "FUNDAMENTOS DE PROGRAMACION",
     "credits": 10,
-    "section": "core",
     "total_groups": 33,
     "has_lab": false,
     "lab": null
@@ -75,7 +67,6 @@
     "code": "1125",
     "name": "QUIMICA DE CIENCIAS DE LA TIERRA",
     "credits": 10,
-    "section": "core",
     "total_groups": 11,
     "has_lab": true,
     "lab": {
@@ -88,7 +79,6 @@
     "code": "1220",
     "name": "ALGEBRA LINEAL",
     "credits": 8,
-    "section": "core",
     "total_groups": 21,
     "has_lab": false,
     "lab": null
@@ -97,7 +87,6 @@
     "code": "1221",
     "name": "CALCULO INTEGRAL",
     "credits": 8,
-    "section": "core",
     "total_groups": 23,
     "has_lab": false,
     "lab": null
@@ -106,7 +95,6 @@
     "code": "0054",
     "name": "DIBUJO",
     "credits": 6,
-    "section": "core",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -115,7 +103,6 @@
     "code": "1124",
     "name": "REDACCION Y EXPOSIC TEMAS INGENIERIA",
     "credits": 6,
-    "section": "core",
     "total_groups": 39,
     "has_lab": false,
     "lab": null
@@ -124,7 +111,6 @@
     "code": "1137",
     "name": "PETROLOGIA",
     "credits": 6,
-    "section": "core",
     "total_groups": 3,
     "has_lab": false,
     "lab": null
@@ -133,7 +119,6 @@
     "code": "1321",
     "name": "CALCULO VECTORIAL",
     "credits": 8,
-    "section": "core",
     "total_groups": 36,
     "has_lab": false,
     "lab": null
@@ -142,7 +127,6 @@
     "code": "1325",
     "name": "ECUACIONES DIFERENCIALES",
     "credits": 8,
-    "section": "core",
     "total_groups": 36,
     "has_lab": false,
     "lab": null
@@ -151,7 +135,6 @@
     "code": "1330",
     "name": "FUNDAM TERMODINAMICA ELECTROMAGNET",
     "credits": 10,
-    "section": "core",
     "total_groups": 6,
     "has_lab": true,
     "lab": {
@@ -164,7 +147,6 @@
     "code": "1067",
     "name": "GEOMETRIA DESCRIPTIVA APLICADA",
     "credits": 6,
-    "section": "core",
     "total_groups": 5,
     "has_lab": false,
     "lab": null
@@ -173,7 +155,6 @@
     "code": "1228",
     "name": "MECANICA",
     "credits": 12,
-    "section": "core",
     "total_groups": 12,
     "has_lab": false,
     "lab": null
@@ -182,7 +163,6 @@
     "code": "1433",
     "name": "ANALISIS NUMERICO",
     "credits": 8,
-    "section": "core",
     "total_groups": 21,
     "has_lab": false,
     "lab": null
@@ -191,7 +171,6 @@
     "code": "1436",
     "name": "PROBABILIDAD",
     "credits": 8,
-    "section": "core",
     "total_groups": 28,
     "has_lab": false,
     "lab": null
@@ -200,7 +179,6 @@
     "code": "1625",
     "name": "FISICOQUIMICA",
     "credits": 8,
-    "section": "core",
     "total_groups": 2,
     "has_lab": false,
     "lab": null
@@ -209,7 +187,6 @@
     "code": "1413",
     "name": "INTRODUCCION A LA ECONOMIA",
     "credits": 8,
-    "section": "core",
     "total_groups": 27,
     "has_lab": false,
     "lab": null
@@ -218,7 +195,6 @@
     "code": "1455",
     "name": "ANALISIS QUIMICO",
     "credits": 8,
-    "section": "core",
     "total_groups": 1,
     "has_lab": false,
     "lab": null
@@ -227,7 +203,6 @@
     "code": "1456",
     "name": "LEGISLACION MINERA",
     "credits": 4,
-    "section": "core",
     "total_groups": 2,
     "has_lab": false,
     "lab": null
@@ -236,7 +211,6 @@
     "code": "1457",
     "name": "METODOS MEDICION MINERO-CARTOGRAFICO",
     "credits": 11,
-    "section": "core",
     "total_groups": 2,
     "has_lab": false,
     "lab": null
@@ -245,7 +219,6 @@
     "code": "1569",
     "name": "ESTADISTICA",
     "credits": 8,
-    "section": "core",
     "total_groups": 14,
     "has_lab": false,
     "lab": null
@@ -254,7 +227,6 @@
     "code": "1572",
     "name": "GEOLOGIA ESTRUCTURAL",
     "credits": 8,
-    "section": "core",
     "total_groups": 3,
     "has_lab": false,
     "lab": null
@@ -263,7 +235,6 @@
     "code": "1055",
     "name": "LITERATURA HISPANOAMERICANA CONTEMPO",
     "credits": 6,
-    "section": "core",
     "total_groups": 21,
     "has_lab": false,
     "lab": null
@@ -272,7 +243,6 @@
     "code": "1441",
     "name": "MECANICA DE FLUIDOS",
     "credits": 8,
-    "section": "core",
     "total_groups": 4,
     "has_lab": false,
     "lab": null
@@ -281,7 +251,6 @@
     "code": "1464",
     "name": "FUNDAMENTOS DE METALURGIA EXTRACTIVA",
     "credits": 8,
-    "section": "core",
     "total_groups": 1,
     "has_lab": false,
     "lab": null
@@ -290,7 +259,6 @@
     "code": "1465",
     "name": "FUNDAMENTOS PARA EXPLOTACION D MINAS",
     "credits": 8,
-    "section": "core",
     "total_groups": 1,
     "has_lab": false,
     "lab": null
@@ -299,7 +267,6 @@
     "code": "1466",
     "name": "PROSPECCION Y EXPLORACION MINERA",
     "credits": 6,
-    "section": "core",
     "total_groups": 1,
     "has_lab": false,
     "lab": null
@@ -308,7 +275,6 @@
     "code": "1583",
     "name": "MECANICA DE ROCAS",
     "credits": 8,
-    "section": "core",
     "total_groups": 3,
     "has_lab": false,
     "lab": null
@@ -317,7 +283,6 @@
     "code": "1584",
     "name": "GEOESTADISTICA",
     "credits": 8,
-    "section": "core",
     "total_groups": 3,
     "has_lab": false,
     "lab": null
@@ -326,7 +291,6 @@
     "code": "2088",
     "name": "GEOTECNIA DE EXCAVACION",
     "credits": 8,
-    "section": "core",
     "total_groups": 1,
     "has_lab": false,
     "lab": null
@@ -335,7 +299,6 @@
     "code": "2701",
     "name": "EXPLOTACION DE MINAS SUBTERRANEAS",
     "credits": 8,
-    "section": "core",
     "total_groups": 1,
     "has_lab": false,
     "lab": null
@@ -344,7 +307,6 @@
     "code": "2702",
     "name": "MECANICA APLIC.PROCEDIM.CONSTRUCCION",
     "credits": 8,
-    "section": "core",
     "total_groups": 1,
     "has_lab": false,
     "lab": null
@@ -353,7 +315,6 @@
     "code": "2703",
     "name": "PREPARACION Y CONCENTRAC.MINERALES",
     "credits": 8,
-    "section": "core",
     "total_groups": 1,
     "has_lab": false,
     "lab": null
@@ -362,7 +323,6 @@
     "code": "1052",
     "name": "ETICA PROFESIONAL",
     "credits": 6,
-    "section": "core",
     "total_groups": 25,
     "has_lab": false,
     "lab": null
@@ -371,7 +331,6 @@
     "code": "1939",
     "name": "INSTALACIONES MINERO METALUR",
     "credits": 8,
-    "section": "core",
     "total_groups": 1,
     "has_lab": false,
     "lab": null
@@ -380,7 +339,6 @@
     "code": "2807",
     "name": "ADMINISTRACION APLICADA A LA MINERIA",
     "credits": 8,
-    "section": "core",
     "total_groups": 1,
     "has_lab": false,
     "lab": null
@@ -389,7 +347,6 @@
     "code": "2808",
     "name": "EXPLOTACION DE MINAS A CIELO ABIERTO",
     "credits": 8,
-    "section": "core",
     "total_groups": 1,
     "has_lab": false,
     "lab": null
@@ -398,7 +355,6 @@
     "code": "2809",
     "name": "GESTION AMBIENTAL EN MINERIA",
     "credits": 8,
-    "section": "core",
     "total_groups": 2,
     "has_lab": false,
     "lab": null
@@ -407,7 +363,6 @@
     "code": "2810",
     "name": "HIDRO Y PIROMETALURGIA",
     "credits": 8,
-    "section": "core",
     "total_groups": 2,
     "has_lab": false,
     "lab": null
@@ -416,7 +371,6 @@
     "code": "2959",
     "name": "ANALISIS EVALUCION PROYECTOS INVERS.",
     "credits": 8,
-    "section": "core",
     "total_groups": 2,
     "has_lab": false,
     "lab": null
@@ -425,7 +379,6 @@
     "code": "2960",
     "name": "DISEÑO DE OPERACIONES METALURGICAS",
     "credits": 8,
-    "section": "core",
     "total_groups": 2,
     "has_lab": false,
     "lab": null
@@ -434,7 +387,6 @@
     "code": "2961",
     "name": "INTRODUCCION DISEÑO OPERAC. MINERAS",
     "credits": 8,
-    "section": "core",
     "total_groups": 2,
     "has_lab": false,
     "lab": null
@@ -443,7 +395,6 @@
     "code": "2080",
     "name": "RECURSOS Y NECESIDADES DE MEXICO",
     "credits": 8,
-    "section": "core",
     "total_groups": 25,
     "has_lab": false,
     "lab": null
@@ -452,7 +403,6 @@
     "code": "2964",
     "name": "GESTION DE SEGURIDAD E HIGIENE",
     "credits": 8,
-    "section": "core",
     "total_groups": 2,
     "has_lab": false,
     "lab": null
@@ -461,7 +411,6 @@
     "code": "2965",
     "name": "DISEÑO DE OPERACIONES MINERAS",
     "credits": 8,
-    "section": "core",
     "total_groups": 2,
     "has_lab": false,
     "lab": null
@@ -470,7 +419,6 @@
     "code": "0914",
     "name": "VENTILACION",
     "credits": 8,
-    "section": "elective",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -479,7 +427,6 @@
     "code": "0948",
     "name": "TEMAS SELECTOS",
     "credits": 8,
-    "section": "elective",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -488,7 +435,6 @@
     "code": "1088",
     "name": "HIDROGEOLOGIA",
     "credits": 9,
-    "section": "elective",
     "total_groups": 3,
     "has_lab": false,
     "lab": null
@@ -497,7 +443,6 @@
     "code": "2099",
     "name": "YACIMIENT MINERALS TECNIC ANALITICAS",
     "credits": 9,
-    "section": "elective",
     "total_groups": 1,
     "has_lab": false,
     "lab": null
@@ -506,7 +451,6 @@
     "code": "3091",
     "name": "CIERRE DE OPERACIONES MINERAS",
     "credits": 8,
-    "section": "elective",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -515,7 +459,6 @@
     "code": "3092",
     "name": "DEPOSITOS DE RESIDUOS MINEROS",
     "credits": 8,
-    "section": "elective",
     "total_groups": 1,
     "has_lab": false,
     "lab": null
@@ -524,7 +467,6 @@
     "code": "3093",
     "name": "FENOMENOS INTERFACIALES",
     "credits": 8,
-    "section": "elective",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -533,7 +475,6 @@
     "code": "3094",
     "name": "MINERALES NO METALICOS",
     "credits": 8,
-    "section": "elective",
     "total_groups": 1,
     "has_lab": false,
     "lab": null
@@ -542,7 +483,6 @@
     "code": "3095",
     "name": "MOLIENDA FINA Y ULTRAFINA",
     "credits": 8,
-    "section": "elective",
     "total_groups": 1,
     "has_lab": false,
     "lab": null
@@ -551,7 +491,6 @@
     "code": "3097",
     "name": "VOLADURA DE ROCAS",
     "credits": 8,
-    "section": "elective",
     "total_groups": 1,
     "has_lab": false,
     "lab": null
@@ -560,7 +499,6 @@
     "code": "1795",
     "name": "TALLER SOCIOHUMANISTICO: CREATIVIDAD",
     "credits": 2,
-    "section": "elective",
     "total_groups": 6,
     "has_lab": false,
     "lab": null
@@ -569,7 +507,6 @@
     "code": "1796",
     "name": "TALLER SOCIOHUMANISTICO: LIDERAZGO",
     "credits": 2,
-    "section": "elective",
     "total_groups": 10,
     "has_lab": false,
     "lab": null
@@ -578,7 +515,6 @@
     "code": "1792",
     "name": "SEM. SOCIOHUMANISTICO: HIST PROSP IN",
     "credits": 2,
-    "section": "humanities",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -587,7 +523,6 @@
     "code": "1793",
     "name": "SEM. SOCIOHUMANISTICO: ING Y POL PUB",
     "credits": 2,
-    "section": "humanities",
     "total_groups": 2,
     "has_lab": false,
     "lab": null
@@ -596,7 +531,6 @@
     "code": "1794",
     "name": "SEM. SOCIOHUMANISTICO: ING SUSTENTAB",
     "credits": 2,
-    "section": "humanities",
     "total_groups": 4,
     "has_lab": false,
     "lab": null

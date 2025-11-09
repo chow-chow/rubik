@@ -3,7 +3,6 @@
     "code": "1120",
     "name": "ALGEBRA",
     "credits": 8,
-    "section": "core",
     "total_groups": 57,
     "has_lab": false,
     "lab": null
@@ -12,7 +11,6 @@
     "code": "1121",
     "name": "CALCULO Y GEOMETRIA ANALITICA",
     "credits": 12,
-    "section": "core",
     "total_groups": 56,
     "has_lab": false,
     "lab": null
@@ -21,7 +19,6 @@
     "code": "1122",
     "name": "FUNDAMENTOS DE PROGRAMACION",
     "credits": 10,
-    "section": "core",
     "total_groups": 33,
     "has_lab": false,
     "lab": null
@@ -30,7 +27,6 @@
     "code": "1123",
     "name": "QUIMICA",
     "credits": 10,
-    "section": "core",
     "total_groups": 31,
     "has_lab": true,
     "lab": {
@@ -43,7 +39,6 @@
     "code": "1124",
     "name": "REDACCION Y EXPOSIC TEMAS INGENIERIA",
     "credits": 6,
-    "section": "core",
     "total_groups": 39,
     "has_lab": false,
     "lab": null
@@ -52,7 +47,6 @@
     "code": "8000",
     "name": "IGUALDAD DE GENERO EN INGENIERIA",
     "credits": 0,
-    "section": "core",
     "total_groups": 54,
     "has_lab": false,
     "lab": null
@@ -61,7 +55,6 @@
     "code": "1209",
     "name": "DIBUJO MECANICO E INDUSTRIAL",
     "credits": 6,
-    "section": "core",
     "total_groups": 18,
     "has_lab": false,
     "lab": null
@@ -70,7 +63,6 @@
     "code": "1220",
     "name": "ALGEBRA LINEAL",
     "credits": 8,
-    "section": "core",
     "total_groups": 21,
     "has_lab": false,
     "lab": null
@@ -79,7 +71,6 @@
     "code": "1221",
     "name": "CALCULO INTEGRAL",
     "credits": 8,
-    "section": "core",
     "total_groups": 23,
     "has_lab": false,
     "lab": null
@@ -88,7 +79,6 @@
     "code": "1223",
     "name": "ESTATICA",
     "credits": 8,
-    "section": "core",
     "total_groups": 11,
     "has_lab": false,
     "lab": null
@@ -97,7 +87,6 @@
     "code": "2211",
     "name": "FISICA EXPERIMENTAL",
     "credits": 10,
-    "section": "core",
     "total_groups": 11,
     "has_lab": false,
     "lab": null
@@ -106,7 +95,6 @@
     "code": "1222",
     "name": "CULTURA Y COMUNICACION",
     "credits": 2,
-    "section": "core",
     "total_groups": 28,
     "has_lab": false,
     "lab": null
@@ -115,7 +103,6 @@
     "code": "1225",
     "name": "MANUFACTURA I",
     "credits": 8,
-    "section": "core",
     "total_groups": 11,
     "has_lab": true,
     "lab": {
@@ -128,7 +115,6 @@
     "code": "1321",
     "name": "CALCULO VECTORIAL",
     "credits": 8,
-    "section": "core",
     "total_groups": 36,
     "has_lab": false,
     "lab": null
@@ -137,7 +123,6 @@
     "code": "1322",
     "name": "CINEMATICA Y DINAMICA",
     "credits": 8,
-    "section": "core",
     "total_groups": 18,
     "has_lab": false,
     "lab": null
@@ -146,7 +131,6 @@
     "code": "1325",
     "name": "ECUACIONES DIFERENCIALES",
     "credits": 8,
-    "section": "core",
     "total_groups": 36,
     "has_lab": false,
     "lab": null
@@ -155,7 +139,6 @@
     "code": "1436",
     "name": "PROBABILIDAD",
     "credits": 8,
-    "section": "core",
     "total_groups": 28,
     "has_lab": false,
     "lab": null
@@ -164,7 +147,6 @@
     "code": "1414",
     "name": "ELECTRICIDAD Y MAGNETISMO",
     "credits": 10,
-    "section": "core",
     "total_groups": 17,
     "has_lab": true,
     "lab": {
@@ -177,7 +159,6 @@
     "code": "1424",
     "name": "MATEMATICAS  AVANZADAS",
     "credits": 8,
-    "section": "core",
     "total_groups": 8,
     "has_lab": false,
     "lab": null
@@ -186,7 +167,6 @@
     "code": "1433",
     "name": "ANALISIS NUMERICO",
     "credits": 8,
-    "section": "core",
     "total_groups": 21,
     "has_lab": false,
     "lab": null
@@ -195,7 +175,6 @@
     "code": "1437",
     "name": "TERMODINAMICA",
     "credits": 10,
-    "section": "core",
     "total_groups": 16,
     "has_lab": true,
     "lab": {
@@ -208,7 +187,6 @@
     "code": "1569",
     "name": "ESTADISTICA",
     "credits": 8,
-    "section": "core",
     "total_groups": 14,
     "has_lab": false,
     "lab": null
@@ -217,7 +195,6 @@
     "code": "1409",
     "name": "TERMOFLUIDOS",
     "credits": 10,
-    "section": "core",
     "total_groups": 6,
     "has_lab": true,
     "lab": {
@@ -230,7 +207,6 @@
     "code": "1472",
     "name": "TECNICAS DE PROGRAMACION",
     "credits": 10,
-    "section": "core",
     "total_groups": 6,
     "has_lab": false,
     "lab": null
@@ -239,7 +215,6 @@
     "code": "1540",
     "name": "MECANICA DE SOLIDOS",
     "credits": 8,
-    "section": "core",
     "total_groups": 10,
     "has_lab": false,
     "lab": null
@@ -248,7 +223,6 @@
     "code": "1550",
     "name": "ANALISIS DE CIRCUITOS",
     "credits": 10,
-    "section": "core",
     "total_groups": 16,
     "has_lab": false,
     "lab": null
@@ -257,7 +231,6 @@
     "code": "1570",
     "name": "INGENIERIA DE MATERIALES",
     "credits": 10,
-    "section": "core",
     "total_groups": 9,
     "has_lab": true,
     "lab": {
@@ -270,7 +243,6 @@
     "code": "0507",
     "name": "INGENIERIA DE MANUFACTURA",
     "credits": 10,
-    "section": "core",
     "total_groups": 0,
     "has_lab": true,
     "lab": {
@@ -283,7 +255,6 @@
     "code": "0508",
     "name": "MODELADO DE SISTEMAS FISICOS",
     "credits": 8,
-    "section": "core",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -292,7 +263,6 @@
     "code": "1659",
     "name": "MECANISMOS",
     "credits": 8,
-    "section": "core",
     "total_groups": 5,
     "has_lab": false,
     "lab": null
@@ -301,7 +271,6 @@
     "code": "1691",
     "name": "ELECTRONICA BASICA",
     "credits": 10,
-    "section": "core",
     "total_groups": 15,
     "has_lab": false,
     "lab": null
@@ -310,7 +279,6 @@
     "code": "1964",
     "name": "TEMAS SEL. DE PROGRAMACION I",
     "credits": 6,
-    "section": "core",
     "total_groups": 5,
     "has_lab": false,
     "lab": null
@@ -319,7 +287,6 @@
     "code": "1413",
     "name": "INTRODUCCION A LA ECONOMIA",
     "credits": 8,
-    "section": "core",
     "total_groups": 27,
     "has_lab": false,
     "lab": null
@@ -328,7 +295,6 @@
     "code": "1734",
     "name": "INGENIERIA ECONOMICA",
     "credits": 8,
-    "section": "core",
     "total_groups": 10,
     "has_lab": false,
     "lab": null
@@ -337,7 +303,6 @@
     "code": "1782",
     "name": "DISEÑO DE ELEMENTOS DE MAQUINAS",
     "credits": 8,
-    "section": "core",
     "total_groups": 7,
     "has_lab": false,
     "lab": null
@@ -346,7 +311,6 @@
     "code": "1973",
     "name": "SISTEMAS ELECTRONICOS LINEALES",
     "credits": 8,
-    "section": "core",
     "total_groups": 4,
     "has_lab": false,
     "lab": null
@@ -355,7 +319,6 @@
     "code": "1996",
     "name": "CIRCUITOS DIGITALES",
     "credits": 10,
-    "section": "core",
     "total_groups": 5,
     "has_lab": false,
     "lab": null
@@ -364,7 +327,6 @@
     "code": "0510",
     "name": "INSTRUMENTACION",
     "credits": 8,
-    "section": "core",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -373,7 +335,6 @@
     "code": "0549",
     "name": "MAQUINAS ELECTRICAS",
     "credits": 10,
-    "section": "core",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -382,7 +343,6 @@
     "code": "0551",
     "name": "CONTROL AUTOMATICO",
     "credits": 8,
-    "section": "core",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -391,7 +351,6 @@
     "code": "1059",
     "name": "DESARROLLO EMPRESARIAL",
     "credits": 6,
-    "section": "core",
     "total_groups": 6,
     "has_lab": false,
     "lab": null
@@ -400,7 +359,6 @@
     "code": "0563",
     "name": "DISEÑO MECATRONICO",
     "credits": 10,
-    "section": "core",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -409,7 +367,6 @@
     "code": "0572",
     "name": "AUTOMATIZACION INDUSTRIAL",
     "credits": 8,
-    "section": "core",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -418,7 +375,6 @@
     "code": "0972",
     "name": "DISEÑO Y MANUFACT. ASIST. COMPUTADOR",
     "credits": 10,
-    "section": "core",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -427,7 +383,6 @@
     "code": "1052",
     "name": "ETICA PROFESIONAL",
     "credits": 6,
-    "section": "core",
     "total_groups": 25,
     "has_lab": false,
     "lab": null
@@ -436,7 +391,6 @@
     "code": "2135",
     "name": "ROBOTICA",
     "credits": 10,
-    "section": "core",
     "total_groups": 4,
     "has_lab": false,
     "lab": null
@@ -445,7 +399,6 @@
     "code": "2080",
     "name": "RECURSOS Y NECESIDADES DE MEXICO",
     "credits": 8,
-    "section": "core",
     "total_groups": 25,
     "has_lab": false,
     "lab": null
@@ -454,7 +407,6 @@
     "code": "0018",
     "name": "ADMINISTRACION",
     "credits": 6,
-    "section": "elective",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -463,7 +415,6 @@
     "code": "0143",
     "name": "DISEÑO DE SISTEMAS PRODUCTIVOS",
     "credits": 8,
-    "section": "elective",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -472,7 +423,6 @@
     "code": "0192",
     "name": "ESTUDIO DEL TRABAJO",
     "credits": 10,
-    "section": "elective",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -481,7 +431,6 @@
     "code": "0406",
     "name": "INTELIGENCIA ARTIFICIAL",
     "credits": 8,
-    "section": "elective",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -490,7 +439,6 @@
     "code": "0462",
     "name": "MECANICA D FLUIDOS I",
     "credits": 10,
-    "section": "elective",
     "total_groups": 0,
     "has_lab": true,
     "lab": {
@@ -503,7 +451,6 @@
     "code": "0574",
     "name": "INTRODUC. SISTEMAS NO LINEALES",
     "credits": 8,
-    "section": "elective",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -512,7 +459,6 @@
     "code": "0619",
     "name": "PLANEAC Y CONTROL D PRODUCC",
     "credits": 10,
-    "section": "elective",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -521,7 +467,6 @@
     "code": "0971",
     "name": "DISEÑO DEL PRODUCTO",
     "credits": 8,
-    "section": "elective",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -530,7 +475,6 @@
     "code": "0992",
     "name": "INGENIERIA DE DISEÑO",
     "credits": 10,
-    "section": "elective",
     "total_groups": 0,
     "has_lab": true,
     "lab": {
@@ -543,7 +487,6 @@
     "code": "1009",
     "name": "BIOMECANICA",
     "credits": 10,
-    "section": "elective",
     "total_groups": 2,
     "has_lab": false,
     "lab": null
@@ -552,7 +495,6 @@
     "code": "1057",
     "name": "DESARROLLO DE HABILIDADES DIRECTIVAS",
     "credits": 6,
-    "section": "elective",
     "total_groups": 5,
     "has_lab": false,
     "lab": null
@@ -561,7 +503,6 @@
     "code": "1074",
     "name": "LEGISLACION INDUSTRIAL",
     "credits": 6,
-    "section": "elective",
     "total_groups": 1,
     "has_lab": false,
     "lab": null
@@ -570,7 +511,6 @@
     "code": "1115",
     "name": "SISTEMAS DE COMERCIALIZACION",
     "credits": 6,
-    "section": "elective",
     "total_groups": 1,
     "has_lab": false,
     "lab": null
@@ -579,7 +519,6 @@
     "code": "1198",
     "name": "AUTOMATIZACION AVANZADA",
     "credits": 8,
-    "section": "elective",
     "total_groups": 1,
     "has_lab": false,
     "lab": null
@@ -588,7 +527,6 @@
     "code": "1780",
     "name": "ACUSTICA Y OPTICA",
     "credits": 10,
-    "section": "elective",
     "total_groups": 4,
     "has_lab": false,
     "lab": null
@@ -597,7 +535,6 @@
     "code": "2035",
     "name": "CONTROL APLICADO",
     "credits": 8,
-    "section": "elective",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -606,7 +543,6 @@
     "code": "2077",
     "name": "TEMAS SELECTOS DE TERMOFLUIDOS I",
     "credits": 8,
-    "section": "elective",
     "total_groups": 6,
     "has_lab": false,
     "lab": null
@@ -615,7 +551,6 @@
     "code": "2078",
     "name": "TEMAS SELECTOS DE TERMOFLUIDOS II",
     "credits": 8,
-    "section": "elective",
     "total_groups": 6,
     "has_lab": false,
     "lab": null
@@ -624,7 +559,6 @@
     "code": "2137",
     "name": "SISTEMAS MEJORAMIENTO AMBIEN",
     "credits": 8,
-    "section": "elective",
     "total_groups": 3,
     "has_lab": false,
     "lab": null
@@ -633,7 +567,6 @@
     "code": "2200",
     "name": "MOVILIDAD I",
     "credits": 4,
-    "section": "elective",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -642,7 +575,6 @@
     "code": "2201",
     "name": "MOVILIDAD II",
     "credits": 6,
-    "section": "elective",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -651,7 +583,6 @@
     "code": "2202",
     "name": "MOVILIDAD III",
     "credits": 6,
-    "section": "elective",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -660,7 +591,6 @@
     "code": "2203",
     "name": "MOVILIDAD IV",
     "credits": 6,
-    "section": "elective",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -669,7 +599,6 @@
     "code": "2204",
     "name": "MOVILIDAD V",
     "credits": 6,
-    "section": "elective",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -678,7 +607,6 @@
     "code": "2205",
     "name": "MOVILIDAD VI",
     "credits": 6,
-    "section": "elective",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -687,7 +615,6 @@
     "code": "2206",
     "name": "MOVILIDAD VII",
     "credits": 8,
-    "section": "elective",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -696,7 +623,6 @@
     "code": "2207",
     "name": "MOVILIDAD VIII",
     "credits": 8,
-    "section": "elective",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -705,7 +631,6 @@
     "code": "2208",
     "name": "MOVILIDAD IX",
     "credits": 8,
-    "section": "elective",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -714,7 +639,6 @@
     "code": "2209",
     "name": "MOVILIDAD X",
     "credits": 8,
-    "section": "elective",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -723,7 +647,6 @@
     "code": "2210",
     "name": "MOVILIDAD XI",
     "credits": 10,
-    "section": "elective",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -732,7 +655,6 @@
     "code": "2804",
     "name": "DISEÑO DE LA CADENA DE SUMINISTROS",
     "credits": 8,
-    "section": "elective",
     "total_groups": 4,
     "has_lab": false,
     "lab": null
@@ -741,7 +663,6 @@
     "code": "2805",
     "name": "INSTALACIONES INDUSTRIALES",
     "credits": 8,
-    "section": "elective",
     "total_groups": 4,
     "has_lab": false,
     "lab": null
@@ -750,7 +671,6 @@
     "code": "2806",
     "name": "DINAMICA DE MAQUINARIA",
     "credits": 10,
-    "section": "elective",
     "total_groups": 4,
     "has_lab": true,
     "lab": {
@@ -763,7 +683,6 @@
     "code": "2909",
     "name": "CONTROL AVANZADO",
     "credits": 10,
-    "section": "elective",
     "total_groups": 1,
     "has_lab": true,
     "lab": {
@@ -776,7 +695,6 @@
     "code": "2920",
     "name": "DIRECCION DE PROYECTOS",
     "credits": 6,
-    "section": "elective",
     "total_groups": 6,
     "has_lab": false,
     "lab": null
@@ -785,7 +703,6 @@
     "code": "2926",
     "name": "SISTEMAS TERMOENERGETICOS",
     "credits": 6,
-    "section": "elective",
     "total_groups": 6,
     "has_lab": false,
     "lab": null
@@ -794,7 +711,6 @@
     "code": "3007",
     "name": "TEMAS SEL. DE INGENIERIA BIOMEDICA",
     "credits": 6,
-    "section": "elective",
     "total_groups": 2,
     "has_lab": false,
     "lab": null
@@ -803,7 +719,6 @@
     "code": "3064",
     "name": "SISTEMAS MANUFACTURA FLEXIBLE",
     "credits": 8,
-    "section": "elective",
     "total_groups": 2,
     "has_lab": false,
     "lab": null
@@ -812,7 +727,6 @@
     "code": "3068",
     "name": "TEMAS SEL.GESTION CADENA SUMINISTROS",
     "credits": 6,
-    "section": "elective",
     "total_groups": 2,
     "has_lab": false,
     "lab": null
@@ -821,7 +735,6 @@
     "code": "3071",
     "name": "INGENIERIA AUTOMOTRIZ I",
     "credits": 8,
-    "section": "elective",
     "total_groups": 1,
     "has_lab": false,
     "lab": null
@@ -830,7 +743,6 @@
     "code": "3077",
     "name": "TEMAS SEL.DIRECCION-CREAC.EMPRESAS",
     "credits": 6,
-    "section": "elective",
     "total_groups": 2,
     "has_lab": false,
     "lab": null
@@ -839,7 +751,6 @@
     "code": "3080",
     "name": "INGENIERIA AUTOMOTRIZ II",
     "credits": 8,
-    "section": "elective",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -848,7 +759,6 @@
     "code": "3083",
     "name": "TEMAS SEL.INGENIERIA DE DISEÑO I",
     "credits": 8,
-    "section": "elective",
     "total_groups": 6,
     "has_lab": false,
     "lab": null
@@ -857,7 +767,6 @@
     "code": "3084",
     "name": "TEMAS SEL. INGENIERIA DE DISEÑO II",
     "credits": 8,
-    "section": "elective",
     "total_groups": 1,
     "has_lab": false,
     "lab": null
@@ -866,7 +775,6 @@
     "code": "3085",
     "name": "TEMAS SEL. DE INGENIERIA MECANICA I",
     "credits": 8,
-    "section": "elective",
     "total_groups": 2,
     "has_lab": false,
     "lab": null
@@ -875,7 +783,6 @@
     "code": "3086",
     "name": "TEMAS SEL. DE INGENIERIA MECANICA II",
     "credits": 8,
-    "section": "elective",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -884,7 +791,6 @@
     "code": "3087",
     "name": "TEMAS SEL.ING.MATERIALES-MANUFAC. I",
     "credits": 8,
-    "section": "elective",
     "total_groups": 2,
     "has_lab": false,
     "lab": null
@@ -893,7 +799,6 @@
     "code": "3088",
     "name": "TEMAS SEL.ING.MATERIALES-MANUFAC.II",
     "credits": 8,
-    "section": "elective",
     "total_groups": 1,
     "has_lab": false,
     "lab": null
@@ -902,7 +807,6 @@
     "code": "3089",
     "name": "TEMAS SEL. DE MECATRONICA I",
     "credits": 8,
-    "section": "elective",
     "total_groups": 16,
     "has_lab": false,
     "lab": null
@@ -911,7 +815,6 @@
     "code": "3090",
     "name": "TEMAS SEL. DE MECATRONICA II",
     "credits": 8,
-    "section": "elective",
     "total_groups": 16,
     "has_lab": false,
     "lab": null
@@ -920,7 +823,6 @@
     "code": "3098",
     "name": "TEMAS SEL. DE PROGRAMACION II",
     "credits": 8,
-    "section": "elective",
     "total_groups": 5,
     "has_lab": false,
     "lab": null
@@ -929,7 +831,6 @@
     "code": "1795",
     "name": "TALLER SOCIOHUMANISTICO: CREATIVIDAD",
     "credits": 2,
-    "section": "elective",
     "total_groups": 6,
     "has_lab": false,
     "lab": null
@@ -938,7 +839,6 @@
     "code": "1796",
     "name": "TALLER SOCIOHUMANISTICO: LIDERAZGO",
     "credits": 2,
-    "section": "elective",
     "total_groups": 10,
     "has_lab": false,
     "lab": null
@@ -947,7 +847,6 @@
     "code": "1055",
     "name": "LITERATURA HISPANOAMERICANA CONTEMPO",
     "credits": 6,
-    "section": "humanities",
     "total_groups": 21,
     "has_lab": false,
     "lab": null
@@ -956,7 +855,6 @@
     "code": "1789",
     "name": "CIENCIA, TECNOLOGIA Y SOCIEDAD",
     "credits": 4,
-    "section": "humanities",
     "total_groups": 12,
     "has_lab": false,
     "lab": null
@@ -965,7 +863,6 @@
     "code": "1790",
     "name": "INTRODUCCION ANALIS ECON EMPRESARIAL",
     "credits": 4,
-    "section": "humanities",
     "total_groups": 12,
     "has_lab": false,
     "lab": null
@@ -974,7 +871,6 @@
     "code": "1791",
     "name": "MEXICO NACION MULTICULTURAL",
     "credits": 4,
-    "section": "humanities",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -983,7 +879,6 @@
     "code": "1792",
     "name": "SEM. SOCIOHUMANISTICO: HIST PROSP IN",
     "credits": 2,
-    "section": "humanities",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -992,7 +887,6 @@
     "code": "1793",
     "name": "SEM. SOCIOHUMANISTICO: ING Y POL PUB",
     "credits": 2,
-    "section": "humanities",
     "total_groups": 2,
     "has_lab": false,
     "lab": null
@@ -1001,7 +895,6 @@
     "code": "1794",
     "name": "SEM. SOCIOHUMANISTICO: ING SUSTENTAB",
     "credits": 2,
-    "section": "humanities",
     "total_groups": 4,
     "has_lab": false,
     "lab": null

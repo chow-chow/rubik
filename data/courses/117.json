@@ -3,7 +3,6 @@
     "code": "0054",
     "name": "DIBUJO",
     "credits": 6,
-    "section": "core",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -12,7 +11,6 @@
     "code": "1120",
     "name": "ALGEBRA",
     "credits": 8,
-    "section": "core",
     "total_groups": 57,
     "has_lab": false,
     "lab": null
@@ -21,7 +19,6 @@
     "code": "1121",
     "name": "CALCULO Y GEOMETRIA ANALITICA",
     "credits": 12,
-    "section": "core",
     "total_groups": 56,
     "has_lab": false,
     "lab": null
@@ -30,7 +27,6 @@
     "code": "1125",
     "name": "QUIMICA DE CIENCIAS DE LA TIERRA",
     "credits": 10,
-    "section": "core",
     "total_groups": 11,
     "has_lab": true,
     "lab": {
@@ -43,7 +39,6 @@
     "code": "1126",
     "name": "INTRODUCCION INGENIERIA PETROLERA",
     "credits": 4,
-    "section": "core",
     "total_groups": 5,
     "has_lab": false,
     "lab": null
@@ -52,7 +47,6 @@
     "code": "1222",
     "name": "CULTURA Y COMUNICACION",
     "credits": 2,
-    "section": "core",
     "total_groups": 28,
     "has_lab": false,
     "lab": null
@@ -61,7 +55,6 @@
     "code": "8000",
     "name": "IGUALDAD DE GENERO EN INGENIERIA",
     "credits": 0,
-    "section": "core",
     "total_groups": 54,
     "has_lab": false,
     "lab": null
@@ -70,7 +63,6 @@
     "code": "0424",
     "name": "GEOLOGIA GENERAL",
     "credits": 9,
-    "section": "core",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -79,7 +71,6 @@
     "code": "1122",
     "name": "FUNDAMENTOS DE PROGRAMACION",
     "credits": 10,
-    "section": "core",
     "total_groups": 33,
     "has_lab": false,
     "lab": null
@@ -88,7 +79,6 @@
     "code": "1220",
     "name": "ALGEBRA LINEAL",
     "credits": 8,
-    "section": "core",
     "total_groups": 21,
     "has_lab": false,
     "lab": null
@@ -97,7 +87,6 @@
     "code": "1221",
     "name": "CALCULO INTEGRAL",
     "credits": 8,
-    "section": "core",
     "total_groups": 23,
     "has_lab": false,
     "lab": null
@@ -106,7 +95,6 @@
     "code": "1228",
     "name": "MECANICA",
     "credits": 12,
-    "section": "core",
     "total_groups": 12,
     "has_lab": false,
     "lab": null
@@ -115,7 +103,6 @@
     "code": "1124",
     "name": "REDACCION Y EXPOSIC TEMAS INGENIERIA",
     "credits": 6,
-    "section": "core",
     "total_groups": 39,
     "has_lab": false,
     "lab": null
@@ -124,7 +111,6 @@
     "code": "1321",
     "name": "CALCULO VECTORIAL",
     "credits": 8,
-    "section": "core",
     "total_groups": 36,
     "has_lab": false,
     "lab": null
@@ -133,7 +119,6 @@
     "code": "1325",
     "name": "ECUACIONES DIFERENCIALES",
     "credits": 8,
-    "section": "core",
     "total_groups": 36,
     "has_lab": false,
     "lab": null
@@ -142,7 +127,6 @@
     "code": "1330",
     "name": "FUNDAM TERMODINAMICA ELECTROMAGNET",
     "credits": 10,
-    "section": "core",
     "total_groups": 6,
     "has_lab": true,
     "lab": {
@@ -155,7 +139,6 @@
     "code": "1331",
     "name": "GEOLOGIA DE YACIMIENTOS DE FLUIDOS",
     "credits": 8,
-    "section": "core",
     "total_groups": 5,
     "has_lab": false,
     "lab": null
@@ -164,7 +147,6 @@
     "code": "2081",
     "name": "EQUIPOS Y HERRAMIENTAS PERFOR POZOS",
     "credits": 8,
-    "section": "core",
     "total_groups": 3,
     "has_lab": false,
     "lab": null
@@ -173,7 +155,6 @@
     "code": "1433",
     "name": "ANALISIS NUMERICO",
     "credits": 8,
-    "section": "core",
     "total_groups": 21,
     "has_lab": false,
     "lab": null
@@ -182,7 +163,6 @@
     "code": "1436",
     "name": "PROBABILIDAD",
     "credits": 8,
-    "section": "core",
     "total_groups": 28,
     "has_lab": false,
     "lab": null
@@ -191,7 +171,6 @@
     "code": "1439",
     "name": "FLUIDOS DE PERFORACION",
     "credits": 5,
-    "section": "core",
     "total_groups": 3,
     "has_lab": false,
     "lab": null
@@ -200,7 +179,6 @@
     "code": "1440",
     "name": "GEOLOGIA Y GEOQUIMICA DEL PETROLEO",
     "credits": 9,
-    "section": "core",
     "total_groups": 2,
     "has_lab": false,
     "lab": null
@@ -209,7 +187,6 @@
     "code": "1441",
     "name": "MECANICA DE FLUIDOS",
     "credits": 8,
-    "section": "core",
     "total_groups": 4,
     "has_lab": false,
     "lab": null
@@ -218,7 +195,6 @@
     "code": "1442",
     "name": "PROPIEDADES DE LS FLUIDOS PETROLEROS",
     "credits": 10,
-    "section": "core",
     "total_groups": 4,
     "has_lab": false,
     "lab": null
@@ -227,7 +203,6 @@
     "code": "1055",
     "name": "LITERATURA HISPANOAMERICANA CONTEMPO",
     "credits": 6,
-    "section": "core",
     "total_groups": 21,
     "has_lab": false,
     "lab": null
@@ -236,7 +211,6 @@
     "code": "1569",
     "name": "ESTADISTICA",
     "credits": 8,
-    "section": "core",
     "total_groups": 14,
     "has_lab": false,
     "lab": null
@@ -245,7 +219,6 @@
     "code": "1588",
     "name": "BOMBEO Y COMPRESION DE HIDROCARBURO",
     "credits": 8,
-    "section": "core",
     "total_groups": 3,
     "has_lab": false,
     "lab": null
@@ -254,7 +227,6 @@
     "code": "1589",
     "name": "PRINCIPIOS DE MECANICA DE YACIMIENT.",
     "credits": 8,
-    "section": "core",
     "total_groups": 3,
     "has_lab": false,
     "lab": null
@@ -263,7 +235,6 @@
     "code": "1591",
     "name": "REGISTROS GEOFISICOS EN POZOS",
     "credits": 10,
-    "section": "core",
     "total_groups": 3,
     "has_lab": false,
     "lab": null
@@ -272,7 +243,6 @@
     "code": "1666",
     "name": "PROGRAMACION AVANZADA",
     "credits": 6,
-    "section": "core",
     "total_groups": 3,
     "has_lab": false,
     "lab": null
@@ -281,7 +251,6 @@
     "code": "1068",
     "name": "INGENIERIA DE PERFORACION DE POZOS",
     "credits": 10,
-    "section": "core",
     "total_groups": 4,
     "has_lab": false,
     "lab": null
@@ -290,7 +259,6 @@
     "code": "1980",
     "name": "CARACTERIZACION ESTATICA DE YACIMIEN",
     "credits": 8,
-    "section": "core",
     "total_groups": 3,
     "has_lab": false,
     "lab": null
@@ -299,7 +267,6 @@
     "code": "1981",
     "name": "COMPORTAMIENTO DE YACIMIENTOS",
     "credits": 12,
-    "section": "core",
     "total_groups": 3,
     "has_lab": false,
     "lab": null
@@ -308,7 +275,6 @@
     "code": "1982",
     "name": "FLUJO MULTIFASICO EN TUBERIAS",
     "credits": 8,
-    "section": "core",
     "total_groups": 3,
     "has_lab": false,
     "lab": null
@@ -317,7 +283,6 @@
     "code": "1983",
     "name": "PRODUCTIVIDAD DE POZOS",
     "credits": 8,
-    "section": "core",
     "total_groups": 3,
     "has_lab": false,
     "lab": null
@@ -326,7 +291,6 @@
     "code": "1984",
     "name": "CARACTERIZAC DINAMICA DE YACIMIENTOS",
     "credits": 8,
-    "section": "core",
     "total_groups": 3,
     "has_lab": false,
     "lab": null
@@ -335,7 +299,6 @@
     "code": "1985",
     "name": "PERFORACION NO CONVENCIONAL",
     "credits": 12,
-    "section": "core",
     "total_groups": 2,
     "has_lab": false,
     "lab": null
@@ -344,7 +307,6 @@
     "code": "1986",
     "name": "RECUPERACION SECUNDARIA Y MEJORADA",
     "credits": 12,
-    "section": "core",
     "total_groups": 3,
     "has_lab": false,
     "lab": null
@@ -353,7 +315,6 @@
     "code": "1987",
     "name": "SISTEMAS ARTIFICIALES DE PRODUCCION",
     "credits": 12,
-    "section": "core",
     "total_groups": 3,
     "has_lab": false,
     "lab": null
@@ -362,7 +323,6 @@
     "code": "1090",
     "name": "SIMULACION MATEMATICA DE YACIMIENTOS",
     "credits": 9,
-    "section": "core",
     "total_groups": 3,
     "has_lab": false,
     "lab": null
@@ -371,7 +331,6 @@
     "code": "1413",
     "name": "INTRODUCCION A LA ECONOMIA",
     "credits": 8,
-    "section": "core",
     "total_groups": 27,
     "has_lab": false,
     "lab": null
@@ -380,7 +339,6 @@
     "code": "1988",
     "name": "INGENIERIA DE YACIMIENTOS DE GAS",
     "credits": 8,
-    "section": "core",
     "total_groups": 2,
     "has_lab": false,
     "lab": null
@@ -389,7 +347,6 @@
     "code": "1989",
     "name": "TERMINACION Y MANTENIMIENTO DE POZOS",
     "credits": 10,
-    "section": "core",
     "total_groups": 5,
     "has_lab": false,
     "lab": null
@@ -398,7 +355,6 @@
     "code": "1052",
     "name": "ETICA PROFESIONAL",
     "credits": 6,
-    "section": "core",
     "total_groups": 25,
     "has_lab": false,
     "lab": null
@@ -407,7 +363,6 @@
     "code": "1861",
     "name": "ADMON.SEGUR.INDUSTR.PROTEC.AMBIENT.",
     "credits": 6,
-    "section": "core",
     "total_groups": 3,
     "has_lab": false,
     "lab": null
@@ -416,7 +371,6 @@
     "code": "1990",
     "name": "ADMINISTRACION INTEGRAL DE YACIMIENT",
     "credits": 8,
-    "section": "core",
     "total_groups": 2,
     "has_lab": false,
     "lab": null
@@ -425,7 +379,6 @@
     "code": "1991",
     "name": "CONDUC MANEJO DE PRODUCC HIDROCARBU",
     "credits": 8,
-    "section": "core",
     "total_groups": 3,
     "has_lab": false,
     "lab": null
@@ -434,7 +387,6 @@
     "code": "1992",
     "name": "ECONOMIA DE LOS HIDROCARBUROS",
     "credits": 4,
-    "section": "core",
     "total_groups": 4,
     "has_lab": false,
     "lab": null
@@ -443,7 +395,6 @@
     "code": "1116",
     "name": "TEM. SEL. DE INGENIERIA PETROLERA",
     "credits": 6,
-    "section": "core",
     "total_groups": 3,
     "has_lab": false,
     "lab": null
@@ -452,7 +403,6 @@
     "code": "1993",
     "name": "LEGISLACION DE  INDUSTRIA PETROLERA",
     "credits": 8,
-    "section": "core",
     "total_groups": 3,
     "has_lab": false,
     "lab": null
@@ -461,7 +411,6 @@
     "code": "1994",
     "name": "PLANEACION Y EVALUAC PROYEC PETROLER",
     "credits": 6,
-    "section": "core",
     "total_groups": 2,
     "has_lab": false,
     "lab": null
@@ -470,7 +419,6 @@
     "code": "1995",
     "name": "PROYECTOS INTEGRALES PETROLEROS",
     "credits": 6,
-    "section": "core",
     "total_groups": 4,
     "has_lab": false,
     "lab": null
@@ -479,7 +427,6 @@
     "code": "2080",
     "name": "RECURSOS Y NECESIDADES DE MEXICO",
     "credits": 8,
-    "section": "core",
     "total_groups": 25,
     "has_lab": false,
     "lab": null
@@ -488,7 +435,6 @@
     "code": "0956",
     "name": "ASEGURAMIENTO DE FLUJO",
     "credits": 8,
-    "section": "elective",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -497,7 +443,6 @@
     "code": "0960",
     "name": "CARACTERIZ ESTATICA DINAMICA DE YNF",
     "credits": 8,
-    "section": "elective",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -506,7 +451,6 @@
     "code": "0970",
     "name": "COMERCIALIZACION CRUDO Y GAS NATURAL",
     "credits": 8,
-    "section": "elective",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -515,7 +459,6 @@
     "code": "0977",
     "name": "FRACTURAMIENTO HIDRAULICO",
     "credits": 8,
-    "section": "elective",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -524,7 +467,6 @@
     "code": "0978",
     "name": "METROLOGIA APLIC MEDIC CAUDAL HIDROC",
     "credits": 8,
-    "section": "elective",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -533,7 +475,6 @@
     "code": "0979",
     "name": "METODOS GEOFICOS PARA PETROLEROS",
     "credits": 8,
-    "section": "elective",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -542,7 +483,6 @@
     "code": "2011",
     "name": "PERFORACION POZOS AGUAS PROFUNDAS",
     "credits": 8,
-    "section": "elective",
     "total_groups": 1,
     "has_lab": false,
     "lab": null
@@ -551,7 +491,6 @@
     "code": "2013",
     "name": "REGISTROS EN POZO ENTUBADO",
     "credits": 8,
-    "section": "elective",
     "total_groups": 1,
     "has_lab": false,
     "lab": null
@@ -560,7 +499,6 @@
     "code": "2067",
     "name": "SIMULACION NUMER YACIM NATUR FRACTUR",
     "credits": 8,
-    "section": "elective",
     "total_groups": 1,
     "has_lab": false,
     "lab": null
@@ -569,7 +507,6 @@
     "code": "2069",
     "name": "YACIMIENTOS GAS BAJA PERMEABILIDAD",
     "credits": 8,
-    "section": "elective",
     "total_groups": 1,
     "has_lab": false,
     "lab": null
@@ -578,7 +515,6 @@
     "code": "1789",
     "name": "CIENCIA, TECNOLOGIA Y SOCIEDAD",
     "credits": 4,
-    "section": "humanities",
     "total_groups": 12,
     "has_lab": false,
     "lab": null
@@ -587,7 +523,6 @@
     "code": "1790",
     "name": "INTRODUCCION ANALIS ECON EMPRESARIAL",
     "credits": 4,
-    "section": "humanities",
     "total_groups": 12,
     "has_lab": false,
     "lab": null
@@ -596,7 +531,6 @@
     "code": "1791",
     "name": "MEXICO NACION MULTICULTURAL",
     "credits": 4,
-    "section": "humanities",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -605,7 +539,6 @@
     "code": "1792",
     "name": "SEM. SOCIOHUMANISTICO: HIST PROSP IN",
     "credits": 2,
-    "section": "humanities",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -614,7 +547,6 @@
     "code": "1793",
     "name": "SEM. SOCIOHUMANISTICO: ING Y POL PUB",
     "credits": 2,
-    "section": "humanities",
     "total_groups": 2,
     "has_lab": false,
     "lab": null
@@ -623,7 +555,6 @@
     "code": "1794",
     "name": "SEM. SOCIOHUMANISTICO: ING SUSTENTAB",
     "credits": 2,
-    "section": "humanities",
     "total_groups": 4,
     "has_lab": false,
     "lab": null
@@ -632,7 +563,6 @@
     "code": "1795",
     "name": "TALLER SOCIOHUMANISTICO: CREATIVIDAD",
     "credits": 2,
-    "section": "humanities",
     "total_groups": 6,
     "has_lab": false,
     "lab": null
@@ -641,7 +571,6 @@
     "code": "1796",
     "name": "TALLER SOCIOHUMANISTICO: LIDERAZGO",
     "credits": 2,
-    "section": "humanities",
     "total_groups": 10,
     "has_lab": false,
     "lab": null

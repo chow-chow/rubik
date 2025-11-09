@@ -3,7 +3,6 @@
     "code": "1120",
     "name": "ALGEBRA",
     "credits": 8,
-    "section": "core",
     "total_groups": 57,
     "has_lab": false,
     "lab": null
@@ -12,7 +11,6 @@
     "code": "1121",
     "name": "CALCULO Y GEOMETRIA ANALITICA",
     "credits": 12,
-    "section": "core",
     "total_groups": 56,
     "has_lab": false,
     "lab": null
@@ -21,7 +19,6 @@
     "code": "1122",
     "name": "FUNDAMENTOS DE PROGRAMACION",
     "credits": 10,
-    "section": "core",
     "total_groups": 33,
     "has_lab": false,
     "lab": null
@@ -30,7 +27,6 @@
     "code": "1123",
     "name": "QUIMICA",
     "credits": 10,
-    "section": "core",
     "total_groups": 31,
     "has_lab": true,
     "lab": {
@@ -43,7 +39,6 @@
     "code": "1130",
     "name": "FUNDAMENTOS DE FISICA",
     "credits": 6,
-    "section": "core",
     "total_groups": 16,
     "has_lab": false,
     "lab": null
@@ -52,7 +47,6 @@
     "code": "8000",
     "name": "IGUALDAD DE GENERO EN INGENIERIA",
     "credits": 0,
-    "section": "core",
     "total_groups": 54,
     "has_lab": false,
     "lab": null
@@ -61,7 +55,6 @@
     "code": "1124",
     "name": "REDACCION Y EXPOSIC TEMAS INGENIERIA",
     "credits": 6,
-    "section": "core",
     "total_groups": 39,
     "has_lab": false,
     "lab": null
@@ -70,7 +63,6 @@
     "code": "1220",
     "name": "ALGEBRA LINEAL",
     "credits": 8,
-    "section": "core",
     "total_groups": 21,
     "has_lab": false,
     "lab": null
@@ -79,7 +71,6 @@
     "code": "1221",
     "name": "CALCULO INTEGRAL",
     "credits": 8,
-    "section": "core",
     "total_groups": 23,
     "has_lab": false,
     "lab": null
@@ -88,7 +79,6 @@
     "code": "1227",
     "name": "ESTRUCTURA DATOS Y ALGORITMOS I",
     "credits": 10,
-    "section": "core",
     "total_groups": 8,
     "has_lab": false,
     "lab": null
@@ -97,7 +87,6 @@
     "code": "1228",
     "name": "MECANICA",
     "credits": 12,
-    "section": "core",
     "total_groups": 12,
     "has_lab": false,
     "lab": null
@@ -106,7 +95,6 @@
     "code": "1222",
     "name": "CULTURA Y COMUNICACION",
     "credits": 2,
-    "section": "core",
     "total_groups": 28,
     "has_lab": false,
     "lab": null
@@ -115,7 +103,6 @@
     "code": "1317",
     "name": "ESTRUCTURA DATOS Y ALGORITMOS II",
     "credits": 10,
-    "section": "core",
     "total_groups": 12,
     "has_lab": false,
     "lab": null
@@ -124,7 +111,6 @@
     "code": "1321",
     "name": "CALCULO VECTORIAL",
     "credits": 8,
-    "section": "core",
     "total_groups": 36,
     "has_lab": false,
     "lab": null
@@ -133,7 +119,6 @@
     "code": "1323",
     "name": "PROGRAMACION ORIENTADA A OBJETOS",
     "credits": 10,
-    "section": "core",
     "total_groups": 12,
     "has_lab": false,
     "lab": null
@@ -142,7 +127,6 @@
     "code": "1325",
     "name": "ECUACIONES DIFERENCIALES",
     "credits": 8,
-    "section": "core",
     "total_groups": 36,
     "has_lab": false,
     "lab": null
@@ -151,7 +135,6 @@
     "code": "1436",
     "name": "PROBABILIDAD",
     "credits": 8,
-    "section": "core",
     "total_groups": 28,
     "has_lab": false,
     "lab": null
@@ -160,7 +143,6 @@
     "code": "0119",
     "name": "ESTRUCTURAS DISCRETAS",
     "credits": 8,
-    "section": "core",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -169,7 +151,6 @@
     "code": "1414",
     "name": "ELECTRICIDAD Y MAGNETISMO",
     "credits": 10,
-    "section": "core",
     "total_groups": 17,
     "has_lab": true,
     "lab": {
@@ -182,7 +163,6 @@
     "code": "1424",
     "name": "MATEMATICAS  AVANZADAS",
     "credits": 8,
-    "section": "core",
     "total_groups": 8,
     "has_lab": false,
     "lab": null
@@ -191,7 +171,6 @@
     "code": "1433",
     "name": "ANALISIS NUMERICO",
     "credits": 8,
-    "section": "core",
     "total_groups": 21,
     "has_lab": false,
     "lab": null
@@ -200,7 +179,6 @@
     "code": "1445",
     "name": "FUNDAMENTOS DE ESTADISTICA",
     "credits": 8,
-    "section": "core",
     "total_groups": 4,
     "has_lab": false,
     "lab": null
@@ -209,7 +187,6 @@
     "code": "0138",
     "name": "DISPOSITIVOS ELECTRONICOS",
     "credits": 10,
-    "section": "core",
     "total_groups": 0,
     "has_lab": true,
     "lab": {
@@ -222,7 +199,6 @@
     "code": "0442",
     "name": "LENGUAJES FORMALES-AUTOMATAS",
     "credits": 8,
-    "section": "core",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -231,7 +207,6 @@
     "code": "1473",
     "name": "SEÑALES Y SISTEMAS",
     "credits": 8,
-    "section": "core",
     "total_groups": 6,
     "has_lab": true,
     "lab": {
@@ -244,7 +219,6 @@
     "code": "1503",
     "name": "ESTRUCTURA Y PROGRAMAC.COMPUTADOR",
     "credits": 8,
-    "section": "core",
     "total_groups": 7,
     "has_lab": false,
     "lab": null
@@ -253,7 +227,6 @@
     "code": "1531",
     "name": "INGENIERIA DE SOFTWARE",
     "credits": 8,
-    "section": "core",
     "total_groups": 7,
     "has_lab": false,
     "lab": null
@@ -262,7 +235,6 @@
     "code": "0840",
     "name": "SISTEMAS OPERATIVOS",
     "credits": 8,
-    "section": "core",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -271,7 +243,6 @@
     "code": "1562",
     "name": "CIRCUITOS ELECTRICOS",
     "credits": 8,
-    "section": "core",
     "total_groups": 6,
     "has_lab": true,
     "lab": {
@@ -284,7 +255,6 @@
     "code": "1643",
     "name": "ADMINISTRACION PROYECTOS SOFTWARE",
     "credits": 8,
-    "section": "core",
     "total_groups": 7,
     "has_lab": false,
     "lab": null
@@ -293,7 +263,6 @@
     "code": "1644",
     "name": "BASES DE DATOS",
     "credits": 14,
-    "section": "core",
     "total_groups": 7,
     "has_lab": true,
     "lab": {
@@ -306,7 +275,6 @@
     "code": "1645",
     "name": "DISEÑO DIGITAL MODERNO",
     "credits": 10,
-    "section": "core",
     "total_groups": 9,
     "has_lab": true,
     "lab": {
@@ -319,7 +287,6 @@
     "code": "0406",
     "name": "INTELIGENCIA ARTIFICIAL",
     "credits": 8,
-    "section": "core",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -328,7 +295,6 @@
     "code": "0434",
     "name": "COMPILADORES",
     "credits": 8,
-    "section": "core",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -337,7 +303,6 @@
     "code": "1413",
     "name": "INTRODUCCION A LA ECONOMIA",
     "credits": 8,
-    "section": "core",
     "total_groups": 27,
     "has_lab": false,
     "lab": null
@@ -346,7 +311,6 @@
     "code": "1535",
     "name": "DISEÑO DIGITAL VLSI",
     "credits": 8,
-    "section": "core",
     "total_groups": 7,
     "has_lab": false,
     "lab": null
@@ -355,7 +319,6 @@
     "code": "1537",
     "name": "FINANZAS EN  INGENIERIA  COMPUTACION",
     "credits": 6,
-    "section": "core",
     "total_groups": 7,
     "has_lab": false,
     "lab": null
@@ -364,7 +327,6 @@
     "code": "1686",
     "name": "SISTEMAS DE COMUNICACIONES",
     "credits": 8,
-    "section": "core",
     "total_groups": 8,
     "has_lab": true,
     "lab": {
@@ -377,7 +339,6 @@
     "code": "1052",
     "name": "ETICA PROFESIONAL",
     "credits": 6,
-    "section": "core",
     "total_groups": 25,
     "has_lab": false,
     "lab": null
@@ -386,7 +347,6 @@
     "code": "1590",
     "name": "COMPUTACION GRAFICA E INTERAC.HUMANO",
     "credits": 10,
-    "section": "core",
     "total_groups": 6,
     "has_lab": true,
     "lab": {
@@ -399,7 +359,6 @@
     "code": "1598",
     "name": "REDES DE DATOS SEGURAS",
     "credits": 14,
-    "section": "core",
     "total_groups": 10,
     "has_lab": true,
     "lab": {
@@ -412,7 +371,6 @@
     "code": "1672",
     "name": "MICROCOMPUTADORAS",
     "credits": 8,
-    "section": "core",
     "total_groups": 5,
     "has_lab": true,
     "lab": {
@@ -425,7 +383,6 @@
     "code": "1858",
     "name": "FUNDAMENTOS SISTEMAS EMBEBIDOS",
     "credits": 8,
-    "section": "core",
     "total_groups": 6,
     "has_lab": false,
     "lab": null
@@ -434,7 +391,6 @@
     "code": "1867",
     "name": "ORGANIZACION Y ARQUITEC.COMPUTADORA",
     "credits": 8,
-    "section": "core",
     "total_groups": 5,
     "has_lab": true,
     "lab": {
@@ -447,7 +403,6 @@
     "code": "1959",
     "name": "SISTEMAS DISTRIBUIDOS",
     "credits": 8,
-    "section": "core",
     "total_groups": 5,
     "has_lab": false,
     "lab": null
@@ -456,7 +411,6 @@
     "code": "2080",
     "name": "RECURSOS Y NECESIDADES DE MEXICO",
     "credits": 8,
-    "section": "core",
     "total_groups": 25,
     "has_lab": false,
     "lab": null
@@ -465,7 +419,6 @@
     "code": "1055",
     "name": "LITERATURA HISPANOAMERICANA CONTEMPO",
     "credits": 6,
-    "section": "humanities",
     "total_groups": 21,
     "has_lab": false,
     "lab": null
@@ -474,7 +427,6 @@
     "code": "1789",
     "name": "CIENCIA, TECNOLOGIA Y SOCIEDAD",
     "credits": 4,
-    "section": "humanities",
     "total_groups": 12,
     "has_lab": false,
     "lab": null
@@ -483,7 +435,6 @@
     "code": "1790",
     "name": "INTRODUCCION ANALIS ECON EMPRESARIAL",
     "credits": 4,
-    "section": "humanities",
     "total_groups": 12,
     "has_lab": false,
     "lab": null
@@ -492,7 +443,6 @@
     "code": "1791",
     "name": "MEXICO NACION MULTICULTURAL",
     "credits": 4,
-    "section": "humanities",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -501,7 +451,6 @@
     "code": "1792",
     "name": "SEM. SOCIOHUMANISTICO: HIST PROSP IN",
     "credits": 2,
-    "section": "humanities",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -510,7 +459,6 @@
     "code": "1793",
     "name": "SEM. SOCIOHUMANISTICO: ING Y POL PUB",
     "credits": 2,
-    "section": "humanities",
     "total_groups": 2,
     "has_lab": false,
     "lab": null
@@ -519,7 +467,6 @@
     "code": "1794",
     "name": "SEM. SOCIOHUMANISTICO: ING SUSTENTAB",
     "credits": 2,
-    "section": "humanities",
     "total_groups": 4,
     "has_lab": false,
     "lab": null
@@ -528,7 +475,6 @@
     "code": "1795",
     "name": "TALLER SOCIOHUMANISTICO: CREATIVIDAD",
     "credits": 2,
-    "section": "humanities",
     "total_groups": 6,
     "has_lab": false,
     "lab": null
@@ -537,7 +483,6 @@
     "code": "1796",
     "name": "TALLER SOCIOHUMANISTICO: LIDERAZGO",
     "credits": 2,
-    "section": "humanities",
     "total_groups": 10,
     "has_lab": false,
     "lab": null
@@ -546,7 +491,6 @@
     "code": "0674",
     "name": "COMPUTO MOVIL",
     "credits": 6,
-    "section": "elective",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -555,7 +499,6 @@
     "code": "0757",
     "name": "RECONOCIMIENTO DE PATRONES",
     "credits": 6,
-    "section": "elective",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -564,7 +507,6 @@
     "code": "1018",
     "name": "PROCESAMIENTO DIGITAL DE VOZ",
     "credits": 8,
-    "section": "elective",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -573,7 +515,6 @@
     "code": "1765",
     "name": "DISPOSITIVOS DE ALMACENAMIENTO E S",
     "credits": 8,
-    "section": "elective",
     "total_groups": 1,
     "has_lab": true,
     "lab": {
@@ -586,7 +527,6 @@
     "code": "1866",
     "name": "ADMINISTRACION DE REDES",
     "credits": 8,
-    "section": "elective",
     "total_groups": 2,
     "has_lab": true,
     "lab": {
@@ -599,7 +539,6 @@
     "code": "1916",
     "name": "PROCESAMIENTO DIGITAL IMAGEN",
     "credits": 8,
-    "section": "elective",
     "total_groups": 1,
     "has_lab": false,
     "lab": null
@@ -608,7 +547,6 @@
     "code": "2901",
     "name": "PROCESAMIENTO DIGITAL DE SEÑALES",
     "credits": 8,
-    "section": "elective",
     "total_groups": 7,
     "has_lab": false,
     "lab": null
@@ -617,7 +555,6 @@
     "code": "2914",
     "name": "SISTEMAS DE CONTROL",
     "credits": 10,
-    "section": "elective",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -626,7 +563,6 @@
     "code": "2927",
     "name": "SISTEMAS EMBEBIDOS AVANZADOS",
     "credits": 8,
-    "section": "elective",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -635,7 +571,6 @@
     "code": "2932",
     "name": "ANALIS.PROCESAM.INTELIGEN.DE TEXTOS",
     "credits": 8,
-    "section": "elective",
     "total_groups": 1,
     "has_lab": false,
     "lab": null
@@ -644,7 +579,6 @@
     "code": "2933",
     "name": "MINERIA DE DATOS",
     "credits": 8,
-    "section": "elective",
     "total_groups": 4,
     "has_lab": false,
     "lab": null
@@ -653,7 +587,6 @@
     "code": "2934",
     "name": "SEGURIDAD INFORMATICA BASICA",
     "credits": 8,
-    "section": "elective",
     "total_groups": 3,
     "has_lab": false,
     "lab": null
@@ -662,7 +595,6 @@
     "code": "2944",
     "name": "ADMON.CENTROS TECNOLOGIA INFORMACIO",
     "credits": 8,
-    "section": "elective",
     "total_groups": 1,
     "has_lab": false,
     "lab": null
@@ -671,7 +603,6 @@
     "code": "2945",
     "name": "ADMON.SERVICIOS DE INTERNET",
     "credits": 8,
-    "section": "elective",
     "total_groups": 3,
     "has_lab": false,
     "lab": null
@@ -680,7 +611,6 @@
     "code": "2946",
     "name": "ARQUITECTURA CLIENTE-SERVIDOR",
     "credits": 6,
-    "section": "elective",
     "total_groups": 1,
     "has_lab": false,
     "lab": null
@@ -689,7 +619,6 @@
     "code": "2947",
     "name": "BASES DE DATOS DISTRIBUIDAS",
     "credits": 8,
-    "section": "elective",
     "total_groups": 1,
     "has_lab": false,
     "lab": null
@@ -698,7 +627,6 @@
     "code": "2948",
     "name": "COMPUTACION GRAFICA AVANZADA",
     "credits": 8,
-    "section": "elective",
     "total_groups": 1,
     "has_lab": false,
     "lab": null
@@ -707,7 +635,6 @@
     "code": "2949",
     "name": "FISICA CUANTICA",
     "credits": 8,
-    "section": "elective",
     "total_groups": 1,
     "has_lab": false,
     "lab": null
@@ -716,7 +643,6 @@
     "code": "2950",
     "name": "PROCESAMIENTO DE LENGUAJE NATURAL",
     "credits": 6,
-    "section": "elective",
     "total_groups": 1,
     "has_lab": false,
     "lab": null
@@ -725,7 +651,6 @@
     "code": "2951",
     "name": "PROGRAMACION MASIVA  ARQ.UNIFICADA",
     "credits": 8,
-    "section": "elective",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -734,7 +659,6 @@
     "code": "2952",
     "name": "PROYECTO INVEST. ING. EN COMPUTACION",
     "credits": 6,
-    "section": "elective",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -743,7 +667,6 @@
     "code": "2953",
     "name": "ROBOTS MOVILES",
     "credits": 6,
-    "section": "elective",
     "total_groups": 2,
     "has_lab": false,
     "lab": null
@@ -752,7 +675,6 @@
     "code": "2954",
     "name": "SEGURIDAD INFORMATICA AVANZADA",
     "credits": 8,
-    "section": "elective",
     "total_groups": 3,
     "has_lab": false,
     "lab": null
@@ -761,7 +683,6 @@
     "code": "2955",
     "name": "SEMINARIO TITULACION ING. EN COMPUT.",
     "credits": 6,
-    "section": "elective",
     "total_groups": 3,
     "has_lab": false,
     "lab": null
@@ -770,7 +691,6 @@
     "code": "2956",
     "name": "TEMAS SEL. DE ING. EN COMPUTACION I",
     "credits": 6,
-    "section": "elective",
     "total_groups": 4,
     "has_lab": false,
     "lab": null
@@ -779,7 +699,6 @@
     "code": "2957",
     "name": "TEMAS SEL. DE ING. EN COMPUTACION II",
     "credits": 6,
-    "section": "elective",
     "total_groups": 5,
     "has_lab": false,
     "lab": null
@@ -788,7 +707,6 @@
     "code": "2958",
     "name": "TEMAS SEL. DE ING.EN COMPUTACION III",
     "credits": 8,
-    "section": "elective",
     "total_groups": 3,
     "has_lab": false,
     "lab": null
@@ -797,7 +715,6 @@
     "code": "2928",
     "name": "ADMINISTRACION DE PROYECTOS TIC",
     "credits": 8,
-    "section": "elective",
     "total_groups": 2,
     "has_lab": false,
     "lab": null
@@ -806,7 +723,6 @@
     "code": "2929",
     "name": "BASES DE DATOS AVANZADAS",
     "credits": 8,
-    "section": "elective",
     "total_groups": 2,
     "has_lab": false,
     "lab": null
@@ -815,7 +731,6 @@
     "code": "2930",
     "name": "CRIPTOGRAFIA",
     "credits": 8,
-    "section": "elective",
     "total_groups": 3,
     "has_lab": false,
     "lab": null
@@ -824,7 +739,6 @@
     "code": "2931",
     "name": "NEGOCIOS ELECTRON.Y DESARR.DE WEB",
     "credits": 8,
-    "section": "elective",
     "total_groups": 3,
     "has_lab": false,
     "lab": null

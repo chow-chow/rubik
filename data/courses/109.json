@@ -3,7 +3,6 @@
     "code": "1120",
     "name": "ALGEBRA",
     "credits": 8,
-    "section": "core",
     "total_groups": 57,
     "has_lab": false,
     "lab": null
@@ -12,7 +11,6 @@
     "code": "1121",
     "name": "CALCULO Y GEOMETRIA ANALITICA",
     "credits": 12,
-    "section": "core",
     "total_groups": 56,
     "has_lab": false,
     "lab": null
@@ -21,7 +19,6 @@
     "code": "1122",
     "name": "FUNDAMENTOS DE PROGRAMACION",
     "credits": 10,
-    "section": "core",
     "total_groups": 33,
     "has_lab": false,
     "lab": null
@@ -30,7 +27,6 @@
     "code": "1123",
     "name": "QUIMICA",
     "credits": 10,
-    "section": "core",
     "total_groups": 31,
     "has_lab": true,
     "lab": {
@@ -43,7 +39,6 @@
     "code": "1124",
     "name": "REDACCION Y EXPOSIC TEMAS INGENIERIA",
     "credits": 6,
-    "section": "core",
     "total_groups": 39,
     "has_lab": false,
     "lab": null
@@ -52,7 +47,6 @@
     "code": "8000",
     "name": "IGUALDAD DE GENERO EN INGENIERIA",
     "credits": 0,
-    "section": "core",
     "total_groups": 54,
     "has_lab": false,
     "lab": null
@@ -61,7 +55,6 @@
     "code": "1220",
     "name": "ALGEBRA LINEAL",
     "credits": 8,
-    "section": "core",
     "total_groups": 21,
     "has_lab": false,
     "lab": null
@@ -70,7 +63,6 @@
     "code": "1221",
     "name": "CALCULO INTEGRAL",
     "credits": 8,
-    "section": "core",
     "total_groups": 23,
     "has_lab": false,
     "lab": null
@@ -79,7 +71,6 @@
     "code": "1222",
     "name": "CULTURA Y COMUNICACION",
     "credits": 2,
-    "section": "core",
     "total_groups": 28,
     "has_lab": false,
     "lab": null
@@ -88,7 +79,6 @@
     "code": "1227",
     "name": "ESTRUCTURA DATOS Y ALGORITMOS I",
     "credits": 10,
-    "section": "core",
     "total_groups": 8,
     "has_lab": false,
     "lab": null
@@ -97,7 +87,6 @@
     "code": "1228",
     "name": "MECANICA",
     "credits": 12,
-    "section": "core",
     "total_groups": 12,
     "has_lab": false,
     "lab": null
@@ -106,7 +95,6 @@
     "code": "1321",
     "name": "CALCULO VECTORIAL",
     "credits": 8,
-    "section": "core",
     "total_groups": 36,
     "has_lab": false,
     "lab": null
@@ -115,7 +103,6 @@
     "code": "1325",
     "name": "ECUACIONES DIFERENCIALES",
     "credits": 8,
-    "section": "core",
     "total_groups": 36,
     "has_lab": false,
     "lab": null
@@ -124,7 +111,6 @@
     "code": "1332",
     "name": "MODELOS DE PROGRAMACION ORIENT.OBJET",
     "credits": 6,
-    "section": "core",
     "total_groups": 9,
     "has_lab": false,
     "lab": null
@@ -133,7 +119,6 @@
     "code": "1437",
     "name": "TERMODINAMICA",
     "credits": 10,
-    "section": "core",
     "total_groups": 16,
     "has_lab": true,
     "lab": {
@@ -146,7 +131,6 @@
     "code": "0944",
     "name": "COSTOS Y EVALUACION DE PROYECTOS",
     "credits": 6,
-    "section": "core",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -155,7 +139,6 @@
     "code": "1414",
     "name": "ELECTRICIDAD Y MAGNETISMO",
     "credits": 10,
-    "section": "core",
     "total_groups": 17,
     "has_lab": true,
     "lab": {
@@ -168,7 +151,6 @@
     "code": "1433",
     "name": "ANALISIS NUMERICO",
     "credits": 8,
-    "section": "core",
     "total_groups": 21,
     "has_lab": false,
     "lab": null
@@ -177,7 +159,6 @@
     "code": "1436",
     "name": "PROBABILIDAD",
     "credits": 8,
-    "section": "core",
     "total_groups": 28,
     "has_lab": false,
     "lab": null
@@ -186,7 +167,6 @@
     "code": "1443",
     "name": "ANALISIS DE SISTEMAS Y SEÑALES",
     "credits": 10,
-    "section": "core",
     "total_groups": 5,
     "has_lab": true,
     "lab": {
@@ -199,7 +179,6 @@
     "code": "0129",
     "name": "DINAMICA DE SISTEMAS FISICOS",
     "credits": 8,
-    "section": "core",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -208,7 +187,6 @@
     "code": "1592",
     "name": "ANALISIS DE CIRCUITOS ELECTRICOS",
     "credits": 10,
-    "section": "core",
     "total_groups": 6,
     "has_lab": true,
     "lab": {
@@ -221,7 +199,6 @@
     "code": "1593",
     "name": "ESTADISTICA ING.ELECTRICA ELECTRONIC",
     "credits": 4,
-    "section": "core",
     "total_groups": 4,
     "has_lab": false,
     "lab": null
@@ -230,7 +207,6 @@
     "code": "1594",
     "name": "FISICA DE SEMICONDUCTORES",
     "credits": 8,
-    "section": "core",
     "total_groups": 4,
     "has_lab": false,
     "lab": null
@@ -239,7 +215,6 @@
     "code": "1624",
     "name": "ENERGIA E IMPACTO AMBIENTAL",
     "credits": 8,
-    "section": "core",
     "total_groups": 4,
     "has_lab": false,
     "lab": null
@@ -248,7 +223,6 @@
     "code": "1780",
     "name": "ACUSTICA Y OPTICA",
     "credits": 10,
-    "section": "core",
     "total_groups": 4,
     "has_lab": false,
     "lab": null
@@ -257,7 +231,6 @@
     "code": "0879",
     "name": "TEORIA ELECTROMAGNETICA",
     "credits": 10,
-    "section": "core",
     "total_groups": 0,
     "has_lab": true,
     "lab": {
@@ -270,7 +243,6 @@
     "code": "1413",
     "name": "INTRODUCCION A LA ECONOMIA",
     "credits": 8,
-    "section": "core",
     "total_groups": 27,
     "has_lab": false,
     "lab": null
@@ -279,7 +251,6 @@
     "code": "1618",
     "name": "DISPOSITIVOS-CIRCUITOS ELECTRONICOS",
     "credits": 10,
-    "section": "core",
     "total_groups": 7,
     "has_lab": true,
     "lab": {
@@ -292,7 +263,6 @@
     "code": "1997",
     "name": "FUNDAMENTOS DE CONTROL",
     "credits": 10,
-    "section": "core",
     "total_groups": 6,
     "has_lab": true,
     "lab": {
@@ -305,7 +275,6 @@
     "code": "1998",
     "name": "MAQUINAS ELECTRICAS I",
     "credits": 10,
-    "section": "core",
     "total_groups": 4,
     "has_lab": true,
     "lab": {
@@ -318,7 +287,6 @@
     "code": "0558",
     "name": "MEDICION E INSTRUMENTACION",
     "credits": 8,
-    "section": "core",
     "total_groups": 0,
     "has_lab": true,
     "lab": {
@@ -331,7 +299,6 @@
     "code": "1617",
     "name": "DISEÑO DIGITAL",
     "credits": 10,
-    "section": "core",
     "total_groups": 9,
     "has_lab": true,
     "lab": {
@@ -344,7 +311,6 @@
     "code": "1723",
     "name": "AMPLIFICADORES ELECTRONICOS",
     "credits": 10,
-    "section": "core",
     "total_groups": 5,
     "has_lab": true,
     "lab": {
@@ -357,7 +323,6 @@
     "code": "1936",
     "name": "SISTEMAS ELECTRICOS POTEN.I",
     "credits": 10,
-    "section": "core",
     "total_groups": 4,
     "has_lab": true,
     "lab": {
@@ -370,7 +335,6 @@
     "code": "1999",
     "name": "SISTEMAS DE COMUNICACIONES ELECTRONI",
     "credits": 10,
-    "section": "core",
     "total_groups": 4,
     "has_lab": true,
     "lab": {
@@ -383,7 +347,6 @@
     "code": "0422",
     "name": "AUTOMATIZACION",
     "credits": 10,
-    "section": "core",
     "total_groups": 0,
     "has_lab": true,
     "lab": {
@@ -396,7 +359,6 @@
     "code": "0423",
     "name": "INSTALACIONES ELECTRICAS",
     "credits": 8,
-    "section": "core",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -405,7 +367,6 @@
     "code": "1822",
     "name": "CIRCUITOS INTEGRADOS ANALOGICOS",
     "credits": 10,
-    "section": "core",
     "total_groups": 5,
     "has_lab": true,
     "lab": {
@@ -418,7 +379,6 @@
     "code": "1937",
     "name": "MICROPROCESADORES-MICROCONT.",
     "credits": 10,
-    "section": "core",
     "total_groups": 6,
     "has_lab": true,
     "lab": {
@@ -431,7 +391,6 @@
     "code": "2901",
     "name": "PROCESAMIENTO DIGITAL DE SEÑALES",
     "credits": 8,
-    "section": "core",
     "total_groups": 7,
     "has_lab": false,
     "lab": null
@@ -440,7 +399,6 @@
     "code": "1016",
     "name": "SUBESTACIONES ELECTRICAS",
     "credits": 8,
-    "section": "core",
     "total_groups": 3,
     "has_lab": false,
     "lab": null
@@ -449,7 +407,6 @@
     "code": "1052",
     "name": "ETICA PROFESIONAL",
     "credits": 6,
-    "section": "core",
     "total_groups": 25,
     "has_lab": false,
     "lab": null
@@ -458,7 +415,6 @@
     "code": "0627",
     "name": "PLANTAS GENERADORAS",
     "credits": 8,
-    "section": "core",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -467,7 +423,6 @@
     "code": "2080",
     "name": "RECURSOS Y NECESIDADES DE MEXICO",
     "credits": 8,
-    "section": "core",
     "total_groups": 25,
     "has_lab": false,
     "lab": null
@@ -476,7 +431,6 @@
     "code": "1055",
     "name": "LITERATURA HISPANOAMERICANA CONTEMPO",
     "credits": 6,
-    "section": "humanities",
     "total_groups": 21,
     "has_lab": false,
     "lab": null
@@ -485,7 +439,6 @@
     "code": "1789",
     "name": "CIENCIA, TECNOLOGIA Y SOCIEDAD",
     "credits": 4,
-    "section": "humanities",
     "total_groups": 12,
     "has_lab": false,
     "lab": null
@@ -494,7 +447,6 @@
     "code": "1790",
     "name": "INTRODUCCION ANALIS ECON EMPRESARIAL",
     "credits": 4,
-    "section": "humanities",
     "total_groups": 12,
     "has_lab": false,
     "lab": null
@@ -503,7 +455,6 @@
     "code": "1791",
     "name": "MEXICO NACION MULTICULTURAL",
     "credits": 4,
-    "section": "humanities",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -512,7 +463,6 @@
     "code": "1792",
     "name": "SEM. SOCIOHUMANISTICO: HIST PROSP IN",
     "credits": 2,
-    "section": "humanities",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -521,7 +471,6 @@
     "code": "1793",
     "name": "SEM. SOCIOHUMANISTICO: ING Y POL PUB",
     "credits": 2,
-    "section": "humanities",
     "total_groups": 2,
     "has_lab": false,
     "lab": null
@@ -530,7 +479,6 @@
     "code": "1794",
     "name": "SEM. SOCIOHUMANISTICO: ING SUSTENTAB",
     "credits": 2,
-    "section": "humanities",
     "total_groups": 4,
     "has_lab": false,
     "lab": null
@@ -539,7 +487,6 @@
     "code": "1795",
     "name": "TALLER SOCIOHUMANISTICO: CREATIVIDAD",
     "credits": 2,
-    "section": "humanities",
     "total_groups": 6,
     "has_lab": false,
     "lab": null
@@ -548,7 +495,6 @@
     "code": "1796",
     "name": "TALLER SOCIOHUMANISTICO: LIDERAZGO",
     "credits": 2,
-    "section": "humanities",
     "total_groups": 10,
     "has_lab": false,
     "lab": null
@@ -557,7 +503,6 @@
     "code": "1057",
     "name": "DESARROLLO DE HABILIDADES DIRECTIVAS",
     "credits": 6,
-    "section": "elective",
     "total_groups": 5,
     "has_lab": false,
     "lab": null
@@ -566,7 +511,6 @@
     "code": "1059",
     "name": "DESARROLLO EMPRESARIAL",
     "credits": 6,
-    "section": "elective",
     "total_groups": 6,
     "has_lab": false,
     "lab": null
@@ -575,7 +519,6 @@
     "code": "2103",
     "name": "CALIDAD",
     "credits": 8,
-    "section": "elective",
     "total_groups": 7,
     "has_lab": false,
     "lab": null
@@ -584,7 +527,6 @@
     "code": "3020",
     "name": "CREATIVIDAD E INNOVACION",
     "credits": 6,
-    "section": "elective",
     "total_groups": 5,
     "has_lab": false,
     "lab": null
@@ -593,7 +535,6 @@
     "code": "3021",
     "name": "METODOLOGIA PARA LA PLANEACION",
     "credits": 6,
-    "section": "elective",
     "total_groups": 4,
     "has_lab": false,
     "lab": null
@@ -602,7 +543,6 @@
     "code": "3022",
     "name": "RELACIONES LABORALES Y ORGANIZACION.",
     "credits": 8,
-    "section": "elective",
     "total_groups": 6,
     "has_lab": false,
     "lab": null
@@ -611,7 +551,6 @@
     "code": "0145",
     "name": "ELECTRONICA DE POTENCIA",
     "credits": 8,
-    "section": "core",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -620,7 +559,6 @@
     "code": "2909",
     "name": "CONTROL AVANZADO",
     "credits": 10,
-    "section": "core",
     "total_groups": 1,
     "has_lab": true,
     "lab": {
@@ -633,7 +571,6 @@
     "code": "2910",
     "name": "CONTROLADORES INDUSTRIALES PROGRAM.",
     "credits": 8,
-    "section": "core",
     "total_groups": 3,
     "has_lab": true,
     "lab": {
@@ -646,7 +583,6 @@
     "code": "2911",
     "name": "ROBOTICA INDUSTRIAL",
     "credits": 8,
-    "section": "core",
     "total_groups": 1,
     "has_lab": true,
     "lab": {
@@ -659,7 +595,6 @@
     "code": "0678",
     "name": "CONTROL AUTOMATICO INDUSTRIAL",
     "credits": 8,
-    "section": "elective",
     "total_groups": 0,
     "has_lab": true,
     "lab": {
@@ -672,7 +607,6 @@
     "code": "0693",
     "name": "INSTRUMENTACION VIRTUAL",
     "credits": 8,
-    "section": "elective",
     "total_groups": 0,
     "has_lab": true,
     "lab": {
@@ -685,7 +619,6 @@
     "code": "1093",
     "name": "CONTROL DE SISTEMAS NO LINEALES",
     "credits": 8,
-    "section": "elective",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -694,7 +627,6 @@
     "code": "1095",
     "name": "CONTR.DISTR.INTEGR.SCADA (REDS.AUT",
     "credits": 8,
-    "section": "elective",
     "total_groups": 3,
     "has_lab": true,
     "lab": {
@@ -707,7 +639,6 @@
     "code": "2902",
     "name": "SISTEMAS EMBEBIDOS INSTRUM.CONTROL",
     "credits": 8,
-    "section": "elective",
     "total_groups": 1,
     "has_lab": true,
     "lab": {
@@ -720,7 +651,6 @@
     "code": "2903",
     "name": "TEMAS SEL.DE CONTROL Y ROBOTICA",
     "credits": 6,
-    "section": "elective",
     "total_groups": 2,
     "has_lab": false,
     "lab": null
@@ -729,7 +659,6 @@
     "code": "3001",
     "name": "PROYECTO DE INVEST.ING.ELECTRIC-ELEC",
     "credits": 6,
-    "section": "elective",
     "total_groups": 2,
     "has_lab": false,
     "lab": null
@@ -738,7 +667,6 @@
     "code": "2900",
     "name": "MAQUINAS ELECTRICAS II",
     "credits": 10,
-    "section": "core",
     "total_groups": 1,
     "has_lab": true,
     "lab": {
@@ -751,7 +679,6 @@
     "code": "2908",
     "name": "SISTEMAS ELECTRICOS DE POTENCIA II",
     "credits": 10,
-    "section": "core",
     "total_groups": 2,
     "has_lab": true,
     "lab": {
@@ -764,7 +691,6 @@
     "code": "0636",
     "name": "PROTECCION DE SISTS.ELECTRIC",
     "credits": 10,
-    "section": "core",
     "total_groups": 0,
     "has_lab": true,
     "lab": {
@@ -777,7 +703,6 @@
     "code": "2003",
     "name": "SISTEMAS DE DISTRIBUCION",
     "credits": 6,
-    "section": "core",
     "total_groups": 1,
     "has_lab": false,
     "lab": null
@@ -786,7 +711,6 @@
     "code": "2907",
     "name": "MAQUINAS ELECTRICAS III",
     "credits": 8,
-    "section": "core",
     "total_groups": 1,
     "has_lab": false,
     "lab": null
@@ -795,7 +719,6 @@
     "code": "1092",
     "name": "AUTOMATIZACION DE SISTEM.ELECTRICS",
     "credits": 8,
-    "section": "elective",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -804,7 +727,6 @@
     "code": "1099",
     "name": "ILUMINACION",
     "credits": 6,
-    "section": "elective",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -813,7 +735,6 @@
     "code": "2004",
     "name": "SISTEMAS DE TRANSPORTE ELECTRICO",
     "credits": 6,
-    "section": "elective",
     "total_groups": 1,
     "has_lab": false,
     "lab": null
@@ -822,7 +743,6 @@
     "code": "2008",
     "name": "TEM.SEL.DE INGENIERIA ELECTRICA",
     "credits": 6,
-    "section": "elective",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -831,7 +751,6 @@
     "code": "0425",
     "name": "CIRCUITOS PARA COMUNICACIONES",
     "credits": 10,
-    "section": "core",
     "total_groups": 0,
     "has_lab": true,
     "lab": {
@@ -844,7 +763,6 @@
     "code": "0426",
     "name": "DISPOSITIVOS ELECTRONICOS PROGRAMABL",
     "credits": 8,
-    "section": "core",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -853,7 +771,6 @@
     "code": "0427",
     "name": "INTRODUCCION A LA TECNOLOGIA MEMS",
     "credits": 8,
-    "section": "core",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -862,7 +779,6 @@
     "code": "1010",
     "name": "SISTEMAS EMBEBIDOS",
     "credits": 8,
-    "section": "core",
     "total_groups": 2,
     "has_lab": false,
     "lab": null
@@ -871,7 +787,6 @@
     "code": "0428",
     "name": "AMPLIFICADORES PARA MICROONDAS",
     "credits": 6,
-    "section": "elective",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -880,7 +795,6 @@
     "code": "0700",
     "name": "BIOMEMS Y DISPOSITIVOS LAB ON A CHIP",
     "credits": 6,
-    "section": "elective",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -889,7 +803,6 @@
     "code": "0767",
     "name": "MEMS PARA RADIOFRECUENCIA",
     "credits": 6,
-    "section": "elective",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -898,7 +811,6 @@
     "code": "0768",
     "name": "PROCESADORES MULTINUCLEO",
     "credits": 8,
-    "section": "elective",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -907,7 +819,6 @@
     "code": "0918",
     "name": "SISTEMAS DIFUSOS",
     "credits": 6,
-    "section": "elective",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -916,7 +827,6 @@
     "code": "2006",
     "name": "TEM.SEL.DE ELECTRONICA",
     "credits": 6,
-    "section": "elective",
     "total_groups": 5,
     "has_lab": false,
     "lab": null
@@ -925,7 +835,6 @@
     "code": "3002",
     "name": "SISTEMAS ELECTRONICOS",
     "credits": 8,
-    "section": "elective",
     "total_groups": 1,
     "has_lab": true,
     "lab": {
@@ -938,7 +847,6 @@
     "code": "3003",
     "name": "SISTEMAS OPERATIVOS EN TIEMPO REAL",
     "credits": 8,
-    "section": "elective",
     "total_groups": 1,
     "has_lab": false,
     "lab": null
@@ -947,7 +855,6 @@
     "code": "0692",
     "name": "FUNDAMENTOS DE INSTRUMENTAC. BIOMEDI",
     "credits": 8,
-    "section": "core",
     "total_groups": 0,
     "has_lab": true,
     "lab": {
@@ -960,7 +867,6 @@
     "code": "2904",
     "name": "FISIOLOGIA SISTEMAS HOMEOSTATICOS",
     "credits": 8,
-    "section": "core",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -969,7 +875,6 @@
     "code": "2905",
     "name": "FISIOLOGIA SISTEMA ENDOCRINO-NERVIOS",
     "credits": 8,
-    "section": "core",
     "total_groups": 1,
     "has_lab": true,
     "lab": {
@@ -982,7 +887,6 @@
     "code": "2906",
     "name": "INGENIERIA CLINICA",
     "credits": 8,
-    "section": "core",
     "total_groups": 1,
     "has_lab": false,
     "lab": null
@@ -991,7 +895,6 @@
     "code": "0607",
     "name": "AUDIOMETRIA",
     "credits": 6,
-    "section": "elective",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -1000,7 +903,6 @@
     "code": "0754",
     "name": "PROCESAM.DIGIT.IMAGEN.MEDIC:IMAGEN",
     "credits": 8,
-    "section": "elective",
     "total_groups": 0,
     "has_lab": true,
     "lab": {
@@ -1013,7 +915,6 @@
     "code": "0930",
     "name": "APLICACIONES OPTOELECT. EN MEDICINA",
     "credits": 8,
-    "section": "elective",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -1022,7 +923,6 @@
     "code": "0949",
     "name": "INTRODUCCION A LA BIOFISICA",
     "credits": 6,
-    "section": "elective",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -1031,7 +931,6 @@
     "code": "0955",
     "name": "SIST.Y EQUIP.BIOMEDICS.ELECTRONICS",
     "credits": 6,
-    "section": "elective",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -1040,7 +939,6 @@
     "code": "0957",
     "name": "TELESALUD",
     "credits": 6,
-    "section": "elective",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -1049,7 +947,6 @@
     "code": "0967",
     "name": "TRANSDUCTORES BIOMEDICOS",
     "credits": 6,
-    "section": "elective",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -1058,7 +955,6 @@
     "code": "3006",
     "name": "SEGURIDAD E INSTALACIONES HOSPITALAR",
     "credits": 8,
-    "section": "elective",
     "total_groups": 1,
     "has_lab": false,
     "lab": null
@@ -1067,7 +963,6 @@
     "code": "3007",
     "name": "TEMAS SEL. DE INGENIERIA BIOMEDICA",
     "credits": 6,
-    "section": "elective",
     "total_groups": 2,
     "has_lab": false,
     "lab": null
@@ -1076,7 +971,6 @@
     "code": "2912",
     "name": "INTRODUCCION A SISTEMAS ENERGETICOS",
     "credits": 8,
-    "section": "core",
     "total_groups": 1,
     "has_lab": false,
     "lab": null
@@ -1085,7 +979,6 @@
     "code": "2009",
     "name": "TEM.SEL.DE SISTEMAS ENERGETICOS",
     "credits": 6,
-    "section": "elective",
     "total_groups": 1,
     "has_lab": false,
     "lab": null
@@ -1094,7 +987,6 @@
     "code": "3008",
     "name": "ENERGIAS RENOVABLES",
     "credits": 8,
-    "section": "elective",
     "total_groups": 2,
     "has_lab": false,
     "lab": null
@@ -1103,7 +995,6 @@
     "code": "3009",
     "name": "FUNDAMENTOS DE INGENIERIA NUCLEAR",
     "credits": 8,
-    "section": "elective",
     "total_groups": 1,
     "has_lab": false,
     "lab": null
@@ -1112,7 +1003,6 @@
     "code": "3010",
     "name": "HERRAM.COMPUTAC.OPTIMZ.SIST.ENERGET.",
     "credits": 8,
-    "section": "elective",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -1121,7 +1011,6 @@
     "code": "3011",
     "name": "INGENIERIA DE REACTORES NUCLEARES",
     "credits": 8,
-    "section": "elective",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -1130,7 +1019,6 @@
     "code": "3012",
     "name": "INTRODUCCIONA A CONVERSION D ENERGIA",
     "credits": 8,
-    "section": "elective",
     "total_groups": 1,
     "has_lab": false,
     "lab": null
@@ -1139,7 +1027,6 @@
     "code": "3013",
     "name": "INTRODUCC. A FISICA DE REACT.NUCLEAR",
     "credits": 8,
-    "section": "elective",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -1148,7 +1035,6 @@
     "code": "3014",
     "name": "INTRODUCC.AHORRO GESTION ENERGETICA",
     "credits": 8,
-    "section": "elective",
     "total_groups": 1,
     "has_lab": false,
     "lab": null
@@ -1157,7 +1043,6 @@
     "code": "3015",
     "name": "INTRODUCC.ANALISIS PROBAB.SEGURIDAD",
     "credits": 8,
-    "section": "elective",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -1166,7 +1051,6 @@
     "code": "3016",
     "name": "PLANEACION DE SISTEMAS GENERAC.ELECT",
     "credits": 8,
-    "section": "elective",
     "total_groups": 1,
     "has_lab": false,
     "lab": null
@@ -1175,7 +1059,6 @@
     "code": "3017",
     "name": "PLANEACION E INSTALAC.SISTEM.BIOENER",
     "credits": 8,
-    "section": "elective",
     "total_groups": 1,
     "has_lab": false,
     "lab": null
@@ -1184,7 +1067,6 @@
     "code": "3019",
     "name": "SEGURIDAD DE REACTORES NUCLEARES",
     "credits": 8,
-    "section": "elective",
     "total_groups": 0,
     "has_lab": false,
     "lab": null
@@ -1193,7 +1075,6 @@
     "code": "3023",
     "name": "USO EFICIENTE EQUIPO DE SERVICIOS",
     "credits": 8,
-    "section": "elective",
     "total_groups": 1,
     "has_lab": false,
     "lab": null
