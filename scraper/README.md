@@ -12,7 +12,8 @@ A robust web scraping system designed to collect academic data from UNAM's Facul
 
 The scraper collects and structures data from multiple UNAM sources and 3rd party sources:
 
-- **Academic Programs**: Engineering programs and their curricula
+- **Academic Programs**: Engineering programs with references to their study plans
+- **Study Plans**: Detailed curriculum information with course organization by section
 - **Courses**: Course information, credits, and laboratory associations
 - **Groups**: Course sections with schedules and professor assignments
 - **Professor Ratings**: Faculty evaluations from external platforms
@@ -51,14 +52,15 @@ pip install -r requirements.txt
 
 ```bash
 # Run all scrapers in sequence
-python -m scraper all
+python -m scraper.cli all
 
 # Run individual scrapers
-python -m scraper programs   # Scrape academic programs
-python -m scraper courses    # Scrape courses for all programs
-python -m scraper labs       # Scrape laboratory associations
-python -m scraper groups     # Scrape course groups/sections
-python -m scraper professors # Scrape professor ratings
+python -m scraper.cli programs     # Scrape academic programs
+python -m scraper.cli study_plans  # Scrape study plans with course organization
+python -m scraper.cli courses      # Scrape courses for all programs
+python -m scraper.cli labs         # Scrape laboratory associations
+python -m scraper.cli groups       # Scrape course groups/sections
+python -m scraper.cli professors   # Scrape professor ratings
 ```
 
 > [!TIP]
@@ -72,14 +74,38 @@ The scraper outputs structured JSON data to the `data/` directory:
 data/
 ├── metadata.json              # Execution metadata and timestamps
 ├── programs.json              # Academic programs index
+├── study_plans.json           # Study plans with course organization
 ├── professor_ratings.json     # Professor ratings and evaluations
 ├── courses/                   # Courses by program
-│   ├── 1114.json             # Program code
+│   ├── 107.json              # Program code
 │   └── ...
 └── groups/                    # Groups by course
-    ├── 1124.json             # Course code
+    ├── 1120.json             # Course code
     └── ...
 ```
+
+### Data Architecture
+
+The data is normalized across multiple files with clear relationships:
+
+```
+programs.json
+    ↓ (study_plan_codes)
+study_plans.json
+    ↓ (courses: {required, elective, elective_humanities})
+courses/*.json
+    ↓ (code)
+groups/*.json
+```
+
+**Execution Order**: `programs` → `study_plans` → `courses` → `labs` → `groups` → `professors`
+
+1. **Programs** scraper extracts program metadata and study plan references
+2. **Study Plans** scraper fetches detailed curriculum with course organization
+3. **Courses** scraper collects unique courses from all study plans
+4. **Labs** scraper associates laboratory courses
+5. **Groups** scraper fetches schedules for each course
+6. **Professors** scraper retrieves faculty ratings
 
 ### Data Models
 
@@ -88,11 +114,32 @@ data/
 
 ```json
 {
-  "code": "1114",
-  "name": "Ingeniería Civil",
-  "release_year": 2016,
-  "duration": 9,
-  "total_courses": 58
+  "code": "107",
+  "name": "INGENIERIA CIVIL",
+  "duration": 10,
+  "study_plan_codes": ["2232", "4318", "4319"],
+  "total_courses": 108
+}
+```
+
+</details>
+
+<details>
+<summary><b>Study Plan</b></summary>
+
+```json
+{
+  "code": "2232",
+  "name": "ING CIVIL",
+  "release_year": 2023,
+  "required_credits": 413,
+  "elective_credits": 36,
+  "credit_limit_per_period": 60,
+  "courses": {
+    "required": ["1120", "1121", "1803"],
+    "elective": ["0274", "2061"],
+    "elective_humanities": ["1055", "1789"]
+  }
 }
 ```
 
@@ -103,15 +150,16 @@ data/
 
 ```json
 {
-  "code": "1124",
-  "name": "Álgebra",
-  "credits": 10,
-  "section": "core",
-  "total_groups": 12,
+  "code": "1120",
+  "name": "ALGEBRA",
+  "credits": 8,
+  "total_groups": 57,
   "has_lab": false,
   "lab": null
 }
 ```
+
+> **Note**: The `section` field has been removed from courses. Section information (required, elective, elective_humanities) is now managed at the study plan level.
 
 </details>
 
@@ -120,7 +168,7 @@ data/
 
 ```json
 {
-  "code": "1124",
+  "code": "1120",
   "group": "01",
   "professor": "MARTÍNEZ GARCÍA JUAN",
   "professor_id": 12345,
@@ -143,7 +191,7 @@ data/
 ```json
 {
   "id": 12345,
-  "full_name": "Juan Martínez García",
+  "full_name": "JUAN MARTINES GARCIA",
   "first_name": "Juan",
   "last_name": "Martínez García",
   "num_ratings": 156,
