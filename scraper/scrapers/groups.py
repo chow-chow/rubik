@@ -41,12 +41,17 @@ def scrape_groups(http_client, storage) -> ScraperResult:
                 start_time=start_time,
             )
 
+        professor_ratings = storage.load_professor_ratings()
+        logger.info(f"Loaded {len(professor_ratings)} professor ratings")
+
         logger.info(f"Processing {len(course_codes)} courses")
 
         with ThreadPoolExecutor(max_workers=config.MAX_WORKERS) as executor:
             results = list(
                 executor.map(
-                    lambda code: _process_course(code, http_client, storage, config),
+                    lambda code: _process_course(
+                        code, http_client, storage, config, professor_ratings
+                    ),
                     course_codes,
                 )
             )
@@ -68,12 +73,17 @@ def scrape_groups(http_client, storage) -> ScraperResult:
     except Exception as e:
         logger.error(f"Error in groups scraper: {e}", exc_info=True)
         return _create_result(
-            status=ScraperStatus.FAILED, items=0, errors=[str(e)], execution_time=time.time() - start_time
+            status=ScraperStatus.FAILED,
+            items=0,
+            errors=[str(e)],
+            execution_time=time.time() - start_time,
         )
 
 
-def _process_course(course_code: str, http_client, storage, config) -> int:
-    """Process groups for a single course."""
+def _process_course(
+    course_code: str, http_client, storage, config, professor_ratings: dict
+) -> int:
+    """Process groups for a single course with embedded professor data."""
     try:
         logger.info(f"Processing groups for course {course_code}")
 
@@ -91,9 +101,7 @@ def _process_course(course_code: str, http_client, storage, config) -> int:
             logger.debug(f"No groups found for {course_code}")
             return 0
 
-        storage.save_groups(course_code, groups)
-
-        storage.update_course_group_count(course_code, len(groups))
+        storage.save_groups(course_code, groups, professor_ratings)
 
         logger.info(f"Saved {len(groups)} groups for {course_code}")
         return len(groups)

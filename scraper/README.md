@@ -72,121 +72,80 @@ The scraper outputs structured JSON data to the `data/` directory:
 
 ```bash
 data/
-├── metadata.json              # Execution metadata and timestamps
-├── programs.json              # Academic programs index
-├── study_plans.json           # Study plans with course organization
-├── professor_ratings.json     # Professor ratings and evaluations
-├── courses/                   # Courses by program
-│   ├── 107.json              # Program code
+├── metadata.json                   # Execution metadata and timestamps
+├── programs.json                   # Academic programs index
+├── study_plans/                    # Study plans by program
+│   ├── 107.json                   # Program code
 │   └── ...
-└── groups/                    # Groups by course
-    ├── 1120.json             # Course code
+├── courses/                        # Courses by study plan
+│   ├── 2232.json                  # Study plan code
+│   └── ...
+├── courses_index.json              # All unique courses for search
+├── professor_ratings_index.json    # Professor ratings index
+└── groups/                         # Groups by course with professor data
+    ├── 1120.json                  # Course code
     └── ...
 ```
 
-### Data Architecture
-
-The data is normalized across multiple files with clear relationships:
-
-```
-programs.json
-    ↓ (study_plan_codes)
-study_plans.json
-    ↓ (courses: {required, elective, elective_humanities})
-courses/*.json
-    ↓ (code)
-groups/*.json
-```
-
-**Execution Order**: `programs` → `study_plans` → `courses` → `labs` → `groups` → `professors`
-
-1. **Programs** scraper extracts program metadata and study plan references
-2. **Study Plans** scraper fetches detailed curriculum with course organization
-3. **Courses** scraper collects unique courses from all study plans
-4. **Labs** scraper associates laboratory courses
-5. **Groups** scraper fetches schedules for each course
-6. **Professors** scraper retrieves faculty ratings
-
 ### Data Models
-
-<details>
-<summary><b>Program</b></summary>
 
 ```json
 {
   "code": "107",
   "name": "INGENIERIA CIVIL",
   "duration": 10,
-  "study_plan_codes": ["2232", "4318", "4319"],
-  "total_courses": 108
+  "study_plan_codes": ["2232", "4318", "4319"]
 }
 ```
-
-</details>
-
-<details>
-<summary><b>Study Plan</b></summary>
 
 ```json
 {
   "code": "2232",
+  "program_code": "107",
   "name": "ING CIVIL",
   "release_year": 2023,
   "required_credits": 413,
   "elective_credits": 36,
   "credit_limit_per_period": 60,
-  "courses": {
-    "required": ["1120", "1121", "1803"],
-    "elective": ["0274", "2061"],
-    "elective_humanities": ["1055", "1789"]
-  }
+  "courses": [
+    { "code": "1120", "semester": 1, "type": "required" },
+    { "code": "1121", "semester": 1, "type": "required" },
+    { "code": "1803", "semester": 2, "type": "required" },
+    { "code": "0274", "type": "elective" },
+    { "code": "1055", "type": "elective_humanities" }
+  ]
 }
 ```
-
-</details>
-
-<details>
-<summary><b>Course</b></summary>
 
 ```json
 {
   "code": "1120",
   "name": "ALGEBRA",
   "credits": 8,
-  "total_groups": 57,
   "has_lab": false,
   "lab": null
 }
 ```
 
-> **Note**: The `section` field has been removed from courses. Section information (required, elective, elective_humanities) is now managed at the study plan level.
-
-</details>
-
-<details>
-<summary><b>Group</b></summary>
-
 ```json
 {
   "code": "1120",
   "group": "01",
-  "professor": "MARTÍNEZ GARCÍA JUAN",
-  "professor_id": 12345,
+  "professor": "JUAN MANUEL AVALOS OCHOA",
+  "professor_id": 101229,
+  "first_name": "Juan Manuel",
+  "last_name": "Avalos Ochoa",
+  "rating": 4.5,
+  "num_ratings": 120,
   "schedules": [
     {
-      "day": "Lunes",
-      "start": "07:00",
-      "end": "09:00",
-      "location": "Aula 301"
+      "time": "07:00-09:00",
+      "days": [1, 3],
+      "classroom": "A301"
     }
   ]
 }
 ```
-
-</details>
-
-<details>
-<summary><b>Professor</b></summary>
 
 ```json
 {
@@ -198,8 +157,6 @@ groups/*.json
   "rating": 4.5
 }
 ```
-
-</details>
 
 ## Configuration
 

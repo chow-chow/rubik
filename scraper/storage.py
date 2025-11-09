@@ -11,6 +11,7 @@ from datetime import datetime
 from pathlib import Path
 from typing import Any, Dict, List
 
+from .linker import ProfessorGroupsLinker
 from .models import (
     Course,
     Group,
@@ -37,8 +38,10 @@ class DataStorage:
         self.data_dir = Path(data_dir)
         self.data_dir.mkdir(exist_ok=True)
 
+        self.study_plans_dir = self.data_dir / "study_plans"
         self.courses_dir = self.data_dir / "courses"
         self.groups_dir = self.data_dir / "groups"
+        self.study_plans_dir.mkdir(exist_ok=True)
         self.courses_dir.mkdir(exist_ok=True)
         self.groups_dir.mkdir(exist_ok=True)
 
@@ -80,38 +83,30 @@ class DataStorage:
             return False
 
     def save_programs(self, programs: List[Program]) -> bool:
-        """Save programs index, preserving existing fields."""
+        """Save programs index."""
+        data = [asdict(program) for program in programs]
         filepath = self.data_dir / "programs.json"
-
-        existing_programs = {}
-        if filepath.exists():
-            try:
-                with open(filepath, "r", encoding="utf-8") as f:
-                    existing_data = json.load(f)
-                    for program in existing_data:
-                        existing_programs[program["code"]] = program
-            except Exception as e:
-                logger.warning(f"Could not load existing programs: {e}")
-
-        data = []
-        for program in programs:
-            program_dict = asdict(program)
-
-            if program.code in existing_programs:
-                existing = existing_programs[program.code]
-                if "total_courses" in existing:
-                    program_dict["total_courses"] = existing["total_courses"]
-
-            data.append(program_dict)
-
         success = self._save_json(data, filepath)
         if success:
             logger.info(f"Saved {len(programs)} programs")
         return success
 
-    def save_courses(self, program_code: str, courses: List[Course]) -> bool:
-        """Save courses for a program, preserving existing fields"""
-        filepath = self.courses_dir / f"{program_code}.json"
+    def save_courses(self, study_plan_code: str, courses: List[Course]) -> bool:
+        """Save courses for a specific study plan."""
+        data = [asdict(course) for course in courses]
+        data.sort(key=lambda x: x["code"])
+
+        filepath = self.courses_dir / f"{study_plan_code}.json"
+        success = self._save_json(data, filepath)
+        if success:
+            logger.info(
+                f"Saved {len(courses)} courses for study plan {study_plan_code}"
+            )
+        return success
+
+    def save_courses_index(self, all_courses: Dict[str, Course]) -> bool:
+        """Save global courses index for search."""
+        filepath = self.data_dir / "courses_index.json"
 
         existing_courses = {}
         if filepath.exists():
@@ -121,18 +116,14 @@ class DataStorage:
                     for course in existing_data:
                         existing_courses[course["code"]] = course
             except Exception as e:
-                logger.warning(
-                    f"Could not load existing courses for {program_code}: {e}"
-                )
+                logger.warning(f"Could not load existing courses index: {e}")
 
         data = []
-        for course in courses:
+        for course in all_courses.values():
             course_dict = asdict(course)
 
             if course.code in existing_courses:
                 existing = existing_courses[course.code]
-                if "total_groups" in existing:
-                    course_dict["total_groups"] = existing["total_groups"]
                 if "has_lab" in existing:
                     course_dict["has_lab"] = existing["has_lab"]
                 if "lab" in existing:
@@ -140,27 +131,57 @@ class DataStorage:
 
             data.append(course_dict)
 
+        data.sort(key=lambda x: x["code"])
+
         success = self._save_json(data, filepath)
         if success:
-            logger.info(f"Saved {len(courses)} courses for program {program_code}")
+            logger.info(f"Saved {len(data)} courses to index")
         return success
 
-    def save_groups(self, course_code: str, groups: List[Group]) -> bool:
+    def save_groups(
+        self,
+        course_code: str,
+        groups: List[Group],
+        professor_ratings: Dict[int, Dict] = None,
+    ) -> bool:
         """Save groups for a course."""
-        data = [asdict(g) for g in groups]
+
+        data = []
+        linker = ProfessorGroupsLinker()
+        linker.professors = (
+            list(professor_ratings.values()) if professor_ratings else []
+        )
+        linker._build_indexes()
+
+        for group in groups:
+            group_dict = asdict(group)
+
+            if professor_ratings and group.professor:
+                match = linker._match_professor(group.professor)
+                if match:
+                    group_dict["professor_id"] = match.get("id")
+                    group_dict["first_name"] = match.get("first_name")
+                    group_dict["last_name"] = match.get("last_name")
+                    group_dict["rating"] = match.get("rating")
+                    group_dict["num_ratings"] = match.get("num_ratings")
+
+            data.append(group_dict)
+
         filepath = self.groups_dir / f"{course_code}.json"
         success = self._save_json(data, filepath)
         if success:
             logger.info(f"Saved {len(groups)} groups for course {course_code}")
         return success
 
-    def save_study_plans(self, study_plans: List[StudyPlan]) -> bool:
-        """Save study plans index."""
+    def save_study_plans(self, program_code: str, study_plans: List[StudyPlan]) -> bool:
+        """Save study plans for a specific program."""
         data = [asdict(plan) for plan in study_plans]
-        filepath = self.data_dir / "study_plans.json"
+        filepath = self.study_plans_dir / f"{program_code}.json"
         success = self._save_json(data, filepath)
         if success:
-            logger.info(f"Saved {len(study_plans)} study plans")
+            logger.info(
+                f"Saved {len(study_plans)} study plans for program {program_code}"
+            )
         return success
 
     def load_study_plans(self) -> List[Dict]:
@@ -190,150 +211,122 @@ class DataStorage:
             return []
 
     def save_professors(self, professors: List[Professor]) -> bool:
-        """Save professor ratings."""
+        """Save professor ratings index."""
         sorted_profs = sorted(
             professors, key=lambda p: (p.rating, p.num_ratings), reverse=True
         )
         data = [asdict(p) for p in sorted_profs]
-        filepath = self.data_dir / "professor_ratings.json"
+        filepath = self.data_dir / "professor_ratings_index.json"
         success = self._save_json(data, filepath)
         if success:
-            logger.info(f"Saved {len(professors)} professors")
+            logger.info(f"Saved {len(professors)} professors to index")
         return success
 
-    def get_all_course_codes(self) -> set:
-        """Get all unique course codes from saved data, including labs."""
-        codes = set()
-        for file in self.courses_dir.glob("*.json"):
-            try:
-                with open(file, "r", encoding="utf-8") as f:
-                    courses = json.load(f)
-                for course in courses:
-                    if "code" in course:
-                        codes.add(course["code"])
-                    # Also add lab codes
-                    if course.get("has_lab") and course.get("lab"):
-                        lab_code = course["lab"].get("code")
-                        if lab_code:
-                            codes.add(lab_code)
-            except Exception as e:
-                logger.warning(f"Error reading {file}: {e}")
-        return codes
-
-    def update_program_total_courses(
-        self, program_code: str, total_courses: int
-    ) -> bool:
-        """
-        Update total_courses field for a program in programs.json.
-
-        Args:
-            program_code: Program identifier
-            total_courses: Number of courses
-
-        Returns:
-            True if successful
-        """
-        programs_file = self.data_dir / "programs.json"
-
-        if not programs_file.exists():
-            logger.warning("programs.json not found")
-            return False
+    def load_professor_ratings(self) -> Dict[int, Dict]:
+        """Load professor ratings as dict keyed by professor_id."""
+        filepath = self.data_dir / "professor_ratings_index.json"
+        if not filepath.exists():
+            logger.warning("Professor ratings index not found")
+            return {}
 
         try:
-            with open(programs_file, "r", encoding="utf-8") as f:
-                programs = json.load(f)
-
-            updated = False
-            for program in programs:
-                if program.get("code") == program_code:
-                    program["total_courses"] = total_courses
-                    updated = True
-                    logger.debug(
-                        f"Updated total_courses={total_courses} for program {program_code}"
-                    )
-                    break
-
-            if not updated:
-                logger.warning(f"Program {program_code} not found in programs.json")
-                return False
-
-            return self._save_json(programs, programs_file)
-
+            with open(filepath, "r", encoding="utf-8") as f:
+                professors = json.load(f)
+                return {p["id"]: p for p in professors}
         except Exception as e:
-            logger.error(
-                f"Error updating total_courses for program {program_code}: {e}"
-            )
-            return False
+            logger.error(f"Failed to load professor ratings: {e}")
+            return {}
 
-    def update_course_group_count(self, course_code: str, total_groups: int) -> None:
-        """Update total_groups for a course or lab across all program files."""
-        for file in self.courses_dir.glob("*.json"):
-            try:
-                with open(file, "r", encoding="utf-8") as f:
-                    courses = json.load(f)
+    def get_all_course_codes(self) -> set:
+        """Get all unique course codes from courses_index.json, including labs."""
+        codes = set()
+        filepath = self.data_dir / "courses_index.json"
 
-                updated = False
-                for course in courses:
-                    if course.get("code") == course_code:
-                        course["total_groups"] = total_groups
-                        updated = True
-                    elif (
-                        course.get("has_lab")
-                        and course.get("lab")
-                        and course["lab"].get("code") == course_code
-                    ):
-                        course["lab"]["total_groups"] = total_groups
-                        updated = True
+        if not filepath.exists():
+            return codes
 
-                if updated:
-                    self._save_json(courses, file)
+        try:
+            with open(filepath, "r", encoding="utf-8") as f:
+                courses = json.load(f)
 
-            except Exception as e:
-                logger.warning(f"Error updating {file}: {e}")
+            for course in courses:
+                if "code" in course:
+                    codes.add(course["code"])
+                if course.get("has_lab") and course.get("lab"):
+                    lab_code = course["lab"].get("code")
+                    if lab_code:
+                        codes.add(lab_code)
+        except Exception as e:
+            logger.warning(f"Error reading courses_index.json: {e}")
+
+        return codes
 
     def save_lab_associations(self, lab_data: List[Dict]) -> bool:
-        """
-        Update courses with lab associations.
+        """Update courses_index.json and all courses/*.json with lab associations."""
 
-        Args:
-            lab_data: List of lab course dictionaries
+        def update_course_list(courses_list):
+            """Helper to update a list of course dicts with lab data."""
+            for course in courses_list:
+                course["has_lab"] = False
+                course["lab"] = None
 
-        Returns:
-            True if successful
-        """
-        associations = 0
-        for file in self.courses_dir.glob("*.json"):
-            try:
-                with open(file, "r", encoding="utf-8") as f:
-                    courses = json.load(f)
+            associations = 0
+            for course in courses_list:
+                course_code = course["code"]
+                for lab in lab_data:
+                    try:
+                        expected_base = f"{int(lab['code']) - 5000:04d}"
+                        if expected_base == course_code:
+                            course["has_lab"] = True
+                            course["lab"] = {
+                                "code": lab["code"],
+                                "name": lab["name"],
+                            }
+                            associations += 1
+                            break
+                    except (ValueError, TypeError):
+                        continue
+            return associations
 
-                updated = False
-                for course in courses:
-                    course_code = course["code"]
-                    for lab in lab_data:
-                        try:
-                            expected_base = f"{int(lab['code']) - 5000:04d}"
-                            if expected_base == course_code:
-                                course["has_lab"] = True
-                                course["lab"] = {
-                                    "code": lab["code"],
-                                    "name": lab["name"],
-                                    "total_groups": 0,
-                                }
-                                associations += 1
-                                updated = True
-                                break
-                        except (ValueError, TypeError):
-                            continue
+        try:
+            total_associations = 0
 
-                if updated:
-                    self._save_json(courses, file)
+            index_path = self.data_dir / "courses_index.json"
+            if index_path.exists():
+                with open(index_path, "r", encoding="utf-8") as f:
+                    index_courses = json.load(f)
 
-            except Exception as e:
-                logger.warning(f"Error processing {file}: {e}")
+                associations = update_course_list(index_courses)
+                self._save_json(index_courses, index_path)
+                total_associations += associations
+                logger.info(
+                    f"Updated courses_index.json: {associations} lab associations"
+                )
 
-        logger.info(f"Created {associations} lab associations")
-        return associations > 0
+            if self.courses_dir.exists():
+                for course_file in self.courses_dir.glob("*.json"):
+                    try:
+                        with open(course_file, "r", encoding="utf-8") as f:
+                            plan_courses = json.load(f)
+
+                        associations = update_course_list(plan_courses)
+                        self._save_json(plan_courses, course_file)
+                        if associations > 0:
+                            logger.debug(
+                                f"Updated {course_file.name}: {associations} lab associations"
+                            )
+                        total_associations += associations
+                    except Exception as e:
+                        logger.warning(f"Error updating {course_file.name}: {e}")
+
+            logger.info(
+                f"Total lab associations across all files: {total_associations}"
+            )
+            return total_associations > 0
+
+        except Exception as e:
+            logger.error(f"Error processing lab associations: {e}")
+            return False
 
     def update_metadata(self, result: ScraperResult) -> None:
         """Update metadata after scraper execution."""

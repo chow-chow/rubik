@@ -47,15 +47,24 @@ def scrape_courses(http_client, storage) -> ScraperResult:
 
         logger.info(f"Processing {len(programs)} programs")
 
+        all_unique_courses = {}
+
         with ThreadPoolExecutor(max_workers=config.MAX_WORKERS) as executor:
             results = list(
                 executor.map(
-                    lambda p: _process_program(p, http_client, storage, config),
+                    lambda p: _process_program(p, http_client, config, storage),
                     programs,
                 )
             )
 
-        total_courses = sum(r for r in results if r is not None)
+        for course_dict in results:
+            if course_dict:
+                all_unique_courses.update(course_dict)
+
+        if all_unique_courses:
+            storage.save_courses_index(all_unique_courses)
+
+        total_courses = len(all_unique_courses)
 
         execution_time = time.time() - start_time
         logger.info(
@@ -72,12 +81,15 @@ def scrape_courses(http_client, storage) -> ScraperResult:
     except Exception as e:
         logger.error(f"Error in courses scraper: {e}", exc_info=True)
         return _create_result(
-            status=ScraperStatus.FAILED, items=0, errors=[str(e)], execution_time=time.time() - start_time
+            status=ScraperStatus.FAILED,
+            items=0,
+            errors=[str(e)],
+            execution_time=time.time() - start_time,
         )
 
 
-def _process_program(program: dict, http_client, storage, config) -> int:
-    """Process courses for a single program."""
+def _process_program(program: dict, http_client, config, storage) -> dict:
+    """Process courses for a single program, save per study plan, and return unique courses."""
     from ..parsers import StudyPlansParser
 
     code = program["code"]
@@ -91,16 +103,16 @@ def _process_program(program: dict, http_client, storage, config) -> int:
 
         if not soup:
             logger.warning(f"Failed to fetch study plans for {code}")
-            return 0
+            return {}
 
         plans_parser = StudyPlansParser()
         study_plans = plans_parser.parse(soup, code)
 
         if not study_plans:
             logger.warning(f"No study plans found for {code}")
-            return 0
+            return {}
 
-        all_courses = {}
+        all_unique_courses = {}
         courses_parser = CoursesParser()
 
         for plan in study_plans:
@@ -110,30 +122,29 @@ def _process_program(program: dict, http_client, storage, config) -> int:
 
                 if courses_soup:
                     plan_courses = courses_parser.parse(courses_soup)
-                    all_courses.update(plan_courses)
+
+                    courses_list = list(plan_courses.values())
+                    storage.save_courses(plan.code, courses_list)
+
+                    all_unique_courses.update(plan_courses)
+
                     logger.debug(
-                        f"Found {len(plan_courses)} courses in plan {plan.code}"
+                        f"Saved {len(plan_courses)} courses for plan {plan.code}"
                     )
             except Exception as e:
                 logger.warning(f"Failed to fetch courses for plan {plan.code}: {e}")
                 continue
 
-        if not all_courses:
-            logger.warning(f"No courses found for {code}")
-            return 0
+        if all_unique_courses:
+            logger.info(
+                f"Collected {len(all_unique_courses)} unique courses for {code}"
+            )
 
-        courses = list(all_courses.values())
-
-        storage.save_courses(code, courses)
-
-        storage.update_program_total_courses(code, len(courses))
-
-        logger.info(f"Saved {len(courses)} courses for {code}")
-        return len(courses)
+        return all_unique_courses
 
     except Exception as e:
         logger.error(f"Error processing courses for {code}: {e}")
-        return 0
+        return {}
 
 
 def _create_result(

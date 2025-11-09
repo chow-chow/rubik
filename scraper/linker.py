@@ -50,9 +50,9 @@ class ProfessorGroupsLinker:
 
     def _load_professors(self) -> None:
         """Load professor ratings."""
-        filepath = self.data_dir / "professor_ratings.json"
+        filepath = self.data_dir / "professor_ratings_index.json"
         if not filepath.exists():
-            logger.warning("professor_ratings.json not found")
+            logger.warning("professor_ratings_index.json not found")
             return
 
         try:

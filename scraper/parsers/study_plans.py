@@ -51,6 +51,7 @@ class StudyPlansParser(BaseParser):
 
                     plan = StudyPlan(
                         code=code,
+                        program_code=program_code,
                         name=name,
                         release_year=release_year,
                         required_credits=required_credits,

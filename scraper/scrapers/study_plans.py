@@ -40,42 +40,43 @@ def scrape_study_plans(http_client, storage) -> ScraperResult:
                 execution_time=time.time() - start_time,
             )
 
-        all_plans = []
+        total_plans = 0
 
         with ThreadPoolExecutor(max_workers=config.MAX_WORKERS) as executor:
             results = list(
                 executor.map(
-                    lambda p: _process_program_plans(p, http_client, config), programs
+                    lambda p: _process_program_plans(p, http_client, config, storage),
+                    programs,
                 )
             )
 
-        for plans in results:
-            if plans:
-                all_plans.extend(plans)
-
-        if all_plans:
-            storage.save_study_plans(all_plans)
+        for count in results:
+            if count:
+                total_plans += count
 
         execution_time = time.time() - start_time
-        status = ScraperStatus.SUCCESS if all_plans else ScraperStatus.FAILED
+        status = ScraperStatus.SUCCESS if total_plans > 0 else ScraperStatus.FAILED
 
         logger.info(
-            f"Study plans scraper completed: {len(all_plans)} plans in {execution_time:.2f}s"
+            f"Study plans scraper completed: {total_plans} plans in {execution_time:.2f}s"
         )
 
         return _create_result(
-            status=status, items=len(all_plans), errors=[], execution_time=execution_time
+            status=status, items=total_plans, errors=[], execution_time=execution_time
         )
 
     except Exception as e:
         logger.error(f"Error in study plans scraper: {e}", exc_info=True)
         return _create_result(
-            status=ScraperStatus.FAILED, items=0, errors=[str(e)], execution_time=time.time() - start_time
+            status=ScraperStatus.FAILED,
+            items=0,
+            errors=[str(e)],
+            execution_time=time.time() - start_time,
         )
 
 
-def _process_program_plans(program: dict, http_client, config) -> list:
-    """Process all study plans for a program."""
+def _process_program_plans(program: dict, http_client, config, storage) -> int:
+    """Process all study plans for a program and save them."""
     code = program["code"]
 
     try:
@@ -86,14 +87,14 @@ def _process_program_plans(program: dict, http_client, config) -> list:
 
         if not soup:
             logger.warning(f"Failed to fetch study plans page for {code}")
-            return []
+            return 0
 
         parser = StudyPlansParser()
         plans = parser.parse(soup, code)
 
         if not plans:
             logger.warning(f"No study plans found for {code}")
-            return []
+            return 0
 
         completed_plans = []
         courses_parser = StudyPlanCoursesParser()
@@ -117,11 +118,15 @@ def _process_program_plans(program: dict, http_client, config) -> list:
                 logger.error(f"Error processing plan {plan.code}: {e}")
                 continue
 
-        return completed_plans
+        if completed_plans:
+            storage.save_study_plans(code, completed_plans)
+            return len(completed_plans)
+
+        return 0
 
     except Exception as e:
         logger.error(f"Error processing program {code}: {e}")
-        return []
+        return 0
 
 
 def _create_result(

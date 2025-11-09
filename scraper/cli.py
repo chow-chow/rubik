@@ -134,7 +134,7 @@ def all(data_dir, verbose):
     if verbose:
         logging.getLogger().setLevel(logging.DEBUG)
 
-    order = ["programs", "study_plans", "courses", "labs", "groups", "professors", "link"]
+    order = ["programs", "study_plans", "courses", "labs", "professors", "groups"]
 
     logger.info("Running all scrapers in sequence")
 

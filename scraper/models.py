@@ -34,7 +34,6 @@ class Program:
     name: str
     duration: int
     study_plan_codes: List[str] = field(default_factory=list)
-    total_courses: int = 0
 
 
 @dataclass
@@ -44,7 +43,6 @@ class Course:
     code: str
     name: str
     credits: Optional[int] = None
-    total_groups: int = 0
     has_lab: bool = False
     lab: Optional[Dict] = None
 
@@ -76,12 +74,13 @@ class StudyPlan:
     """Represents a study plan."""
 
     code: str
+    program_code: str
     name: str
     release_year: int
     required_credits: int
     elective_credits: int
     credit_limit_per_period: Optional[int] = None
-    courses: Dict[str, List[str]] = field(default_factory=dict)
+    courses: List[Dict] = field(default_factory=list)
 
 
 @dataclass

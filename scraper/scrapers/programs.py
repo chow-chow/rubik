@@ -125,7 +125,6 @@ def _process_program(program_data: dict, http_client, config) -> Program:
             name=name,
             duration=duration,
             study_plan_codes=study_plan_codes,
-            total_courses=0,
         )
 
     except Exception as e:
