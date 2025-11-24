@@ -76,8 +76,8 @@
     "professor_id": 84710,
     "first_name": "Hugo German",
     "last_name": "Serrano Miranda",
-    "rating": 5.9091,
-    "num_ratings": 22
+    "rating": 5.7391,
+    "num_ratings": 23
   },
   {
     "code": "1322",
@@ -272,7 +272,12 @@
         ],
         "classroom": "J108"
       }
-    ]
+    ],
+    "professor_id": 187334,
+    "first_name": "Adriana",
+    "last_name": "López Zazueta",
+    "rating": 6.6667,
+    "num_ratings": 3
   },
   {
     "code": "1322",

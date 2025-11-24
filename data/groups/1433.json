@@ -113,8 +113,8 @@
     "professor_id": 173728,
     "first_name": "Ángel",
     "last_name": "Brito Segura",
-    "rating": 9.5,
-    "num_ratings": 2
+    "rating": 9.6667,
+    "num_ratings": 3
   },
   {
     "code": "1433",
@@ -275,7 +275,12 @@
         ],
         "classroom": "J211"
       }
-    ]
+    ],
+    "professor_id": 187334,
+    "first_name": "Adriana",
+    "last_name": "López Zazueta",
+    "rating": 6.6667,
+    "num_ratings": 3
   },
   {
     "code": "1433",
