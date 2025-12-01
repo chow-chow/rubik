@@ -1,43 +1,43 @@
 {
-  "timestamp": "2025-11-24T19:17:55.956193",
+  "timestamp": "2025-12-01T19:25:29.570102",
   "version": "1.0.0",
   "execution_time_seconds": 0.0,
   "total_items": 0,
   "scrapers": {
     "programs": {
       "status": "success",
-      "last_run": "2025-11-24T19:13:55.705268",
-      "execution_time": 5.455993890762329,
+      "last_run": "2025-12-01T19:21:30.348926",
+      "execution_time": 5.7184882164001465,
       "items_processed": 15
     },
     "study_plans": {
       "status": "success",
-      "last_run": "2025-11-24T19:14:17.092952",
-      "execution_time": 21.386418342590332,
+      "last_run": "2025-12-01T19:21:52.908229",
+      "execution_time": 22.558123350143433,
       "items_processed": 57
     },
     "courses": {
       "status": "success",
-      "last_run": "2025-11-24T19:14:39.001689",
-      "execution_time": 21.907104015350342,
+      "last_run": "2025-12-01T19:22:18.803272",
+      "execution_time": 25.89388084411621,
       "items_processed": 750
     },
     "labs": {
       "status": "success",
-      "last_run": "2025-11-24T19:14:39.573819",
-      "execution_time": 0.5703980922698975,
+      "last_run": "2025-12-01T19:22:19.301336",
+      "execution_time": 0.49654102325439453,
       "items_processed": 80
     },
     "professors": {
       "status": "success",
-      "last_run": "2025-11-24T19:14:41.089597",
-      "execution_time": 1.5146868228912354,
-      "items_processed": 1695
+      "last_run": "2025-12-01T19:22:20.667462",
+      "execution_time": 1.364922285079956,
+      "items_processed": 1696
     },
     "groups": {
       "status": "success",
-      "last_run": "2025-11-24T19:17:55.956193",
-      "execution_time": 194.86480712890625,
+      "last_run": "2025-12-01T19:25:29.570102",
+      "execution_time": 188.90098810195923,
       "items_processed": 3053
     }
   }

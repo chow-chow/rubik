@@ -94,8 +94,8 @@
     "professor_id": 43431,
     "first_name": "Jorge",
     "last_name": "Solano",
-    "rating": 5.6875,
-    "num_ratings": 32
+    "rating": 5.6364,
+    "num_ratings": 33
   },
   {
     "code": "1317",
@@ -197,8 +197,8 @@
     "professor_id": 177287,
     "first_name": "Oscar",
     "last_name": "Arana Hernández",
-    "rating": 5.75,
-    "num_ratings": 8
+    "rating": 6.4,
+    "num_ratings": 10
   },
   {
     "code": "1317",
@@ -246,8 +246,8 @@
     "professor_id": 101573,
     "first_name": "Gerardo",
     "last_name": "Tovar Tapia",
-    "rating": 7.2449,
-    "num_ratings": 49
+    "rating": 7.2308,
+    "num_ratings": 52
   },
   {
     "code": "1317",
@@ -273,8 +273,8 @@
     "professor_id": 101573,
     "first_name": "Gerardo",
     "last_name": "Tovar Tapia",
-    "rating": 7.2449,
-    "num_ratings": 49
+    "rating": 7.2308,
+    "num_ratings": 52
   },
   {
     "code": "1317",
@@ -301,6 +301,6 @@
     "first_name": "Jose Rodrigo",
     "last_name": "Moreno Lopez",
     "rating": 10.0,
-    "num_ratings": 2
+    "num_ratings": 3
   }
 ]

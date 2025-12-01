@@ -13,7 +13,12 @@
         ],
         "classroom": "J100"
       }
-    ]
+    ],
+    "professor_id": 189661,
+    "first_name": "Josmark Alfredo",
+    "last_name": "Sanchez Gonzalez",
+    "rating": 9.0,
+    "num_ratings": 6
   },
   {
     "code": "1440",
@@ -29,6 +34,11 @@
         ],
         "classroom": "J100"
       }
-    ]
+    ],
+    "professor_id": 189661,
+    "first_name": "Josmark Alfredo",
+    "last_name": "Sanchez Gonzalez",
+    "rating": 9.0,
+    "num_ratings": 6
   }
 ]
