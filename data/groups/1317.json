@@ -197,8 +197,8 @@
     "professor_id": 177287,
     "first_name": "Oscar",
     "last_name": "Arana Hernández",
-    "rating": 6.4,
-    "num_ratings": 10
+    "rating": 6.6364,
+    "num_ratings": 11
   },
   {
     "code": "1317",
@@ -220,7 +220,12 @@
         ],
         "classroom": "Q007"
       }
-    ]
+    ],
+    "professor_id": 190028,
+    "first_name": "Carmen Lucia",
+    "last_name": "Bustillo Hernández",
+    "rating": 2.0,
+    "num_ratings": 2
   },
   {
     "code": "1317",
@@ -246,8 +251,8 @@
     "professor_id": 101573,
     "first_name": "Gerardo",
     "last_name": "Tovar Tapia",
-    "rating": 7.1887,
-    "num_ratings": 53
+    "rating": 7.2407,
+    "num_ratings": 54
   },
   {
     "code": "1317",
@@ -273,8 +278,8 @@
     "professor_id": 101573,
     "first_name": "Gerardo",
     "last_name": "Tovar Tapia",
-    "rating": 7.1887,
-    "num_ratings": 53
+    "rating": 7.2407,
+    "num_ratings": 54
   },
   {
     "code": "1317",

@@ -398,8 +398,8 @@
     "professor_id": 58750,
     "first_name": "Aurelio",
     "last_name": "Sanchez Vaca",
-    "rating": 6.1765,
-    "num_ratings": 17
+    "rating": 6.1667,
+    "num_ratings": 18
   },
   {
     "code": "1122",
@@ -502,7 +502,12 @@
         ],
         "classroom": "Q008"
       }
-    ]
+    ],
+    "professor_id": 190028,
+    "first_name": "Carmen Lucia",
+    "last_name": "Bustillo Hernández",
+    "rating": 2.0,
+    "num_ratings": 2
   },
   {
     "code": "1122",
@@ -609,8 +614,8 @@
     "professor_id": 56349,
     "first_name": "Heriberto",
     "last_name": "García Ledezma",
-    "rating": 7.19,
-    "num_ratings": 37
+    "rating": 7.21,
+    "num_ratings": 38
   },
   {
     "code": "1122",
