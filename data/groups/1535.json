@@ -23,8 +23,8 @@
     "professor_id": 185042,
     "first_name": "Emiliano Ehecatl",
     "last_name": "García Unzueta",
-    "rating": 9.6,
-    "num_ratings": 5
+    "rating": 9.5,
+    "num_ratings": 6
   },
   {
     "code": "1535",
@@ -46,7 +46,12 @@
         ],
         "classroom": "T101"
       }
-    ]
+    ],
+    "professor_id": 108435,
+    "first_name": "Víctor Manuel",
+    "last_name": "Lomas Barrie",
+    "rating": 7.0,
+    "num_ratings": 2
   },
   {
     "code": "1535",
@@ -168,7 +173,7 @@
     "professor_id": 142047,
     "first_name": "ING. BRYAN EMMANUEL",
     "last_name": "ALVAREZ SERNA",
-    "rating": 6.1515,
-    "num_ratings": 33
+    "rating": 6.2059,
+    "num_ratings": 34
   }
 ]

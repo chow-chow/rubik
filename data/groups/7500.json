@@ -11,7 +11,12 @@
         ],
         "classroom": "O001"
       }
-    ]
+    ],
+    "professor_id": 166353,
+    "first_name": "Isaac",
+    "last_name": "Fonseca Cruz",
+    "rating": 7.5,
+    "num_ratings": 2
   },
   {
     "code": "7500",
@@ -105,8 +110,8 @@
     "professor_id": 109955,
     "first_name": "ADRIAN",
     "last_name": "Mancilla Velasco",
-    "rating": 9.9,
-    "num_ratings": 10
+    "rating": 9.9091,
+    "num_ratings": 11
   },
   {
     "code": "7500",
@@ -238,8 +243,8 @@
     "professor_id": 109955,
     "first_name": "ADRIAN",
     "last_name": "Mancilla Velasco",
-    "rating": 9.9,
-    "num_ratings": 10
+    "rating": 9.9091,
+    "num_ratings": 11
   },
   {
     "code": "7500",
@@ -276,8 +281,8 @@
     "professor_id": 109955,
     "first_name": "ADRIAN",
     "last_name": "Mancilla Velasco",
-    "rating": 9.9,
-    "num_ratings": 10
+    "rating": 9.9091,
+    "num_ratings": 11
   },
   {
     "code": "7500",
