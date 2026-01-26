@@ -10,7 +10,7 @@
           2,
           4
         ],
-        "classroom": "D003"
+        "classroom": "25"
       }
     ],
     "professor_id": 74732,
@@ -30,7 +30,7 @@
           2,
           4
         ],
-        "classroom": "B301"
+        "classroom": "25"
       }
     ],
     "professor_id": 62499,
@@ -50,7 +50,7 @@
           2,
           4
         ],
-        "classroom": "B105"
+        "classroom": "25"
       }
     ],
     "professor_id": 70740,
@@ -58,5 +58,25 @@
     "last_name": "Sánchez Huerta",
     "rating": 6.6111,
     "num_ratings": 18
+  },
+  {
+    "code": "1756",
+    "group": "4",
+    "professor": "ALEJANDRO RODRIGUEZ VALDES",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "25"
+      }
+    ],
+    "professor_id": 60656,
+    "first_name": "Alejandro",
+    "last_name": "Rodríguez Rodríguez",
+    "rating": 8.7778,
+    "num_ratings": 9
   }
 ]

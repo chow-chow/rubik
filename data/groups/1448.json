@@ -2,6 +2,26 @@
   {
     "code": "1448",
     "group": "1",
+    "professor": "ALEJANDRA GUZMAN CORTEZ",
+    "schedules": [
+      {
+        "time": "11:30-13:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "15"
+      }
+    ],
+    "professor_id": 135313,
+    "first_name": "ALEJANDRA",
+    "last_name": "GUZMAN CORTEZ",
+    "rating": 6.9167,
+    "num_ratings": 12
+  },
+  {
+    "code": "1448",
+    "group": "2",
     "professor": "ROBERTO RENE MANZANO ISLAS",
     "schedules": [
       {
@@ -10,14 +30,7 @@
           1,
           3
         ],
-        "classroom": "R031"
-      },
-      {
-        "time": "13:00-15:00",
-        "days": [
-          2
-        ],
-        "classroom": "R029"
+        "classroom": "15"
       }
     ],
     "professor_id": 79822,
@@ -32,46 +45,12 @@
     "professor": "ALEJANDRA GUZMAN CORTEZ",
     "schedules": [
       {
-        "time": "11:30-13:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "A209"
-      },
-      {
-        "time": "15:00-17:00",
-        "days": [
-          2
-        ],
-        "classroom": "R029"
-      }
-    ],
-    "professor_id": 135313,
-    "first_name": "ALEJANDRA",
-    "last_name": "GUZMAN CORTEZ",
-    "rating": 6.9167,
-    "num_ratings": 12
-  },
-  {
-    "code": "1448",
-    "group": "4",
-    "professor": "ALEJANDRA GUZMAN CORTEZ",
-    "schedules": [
-      {
         "time": "13:00-14:30",
         "days": [
           1,
           3
         ],
-        "classroom": "A209"
-      },
-      {
-        "time": "15:00-17:00",
-        "days": [
-          4
-        ],
-        "classroom": "R029"
+        "classroom": "15"
       }
     ],
     "professor_id": 135313,

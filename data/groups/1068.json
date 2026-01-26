@@ -2,21 +2,16 @@
   {
     "code": "1068",
     "group": "1",
-    "professor": "JUAN ANTONIO HERNANDEZ MARTINEZ",
+    "professor": "ANDRÉS ASTUDILLO NICANOR",
     "schedules": [
       {
         "time": "15:00-17:00",
         "days": [
-          2
+          1
         ],
-        "classroom": "C205"
+        "classroom": "20"
       }
-    ],
-    "professor_id": 162321,
-    "first_name": "ING. JUAN ANTONIO",
-    "last_name": "HERNANDEZ MARTINEZ",
-    "rating": 8.6667,
-    "num_ratings": 3
+    ]
   },
   {
     "code": "1068",
@@ -29,7 +24,7 @@
           3,
           5
         ],
-        "classroom": "A402"
+        "classroom": "20"
       }
     ],
     "professor_id": 82781,
@@ -49,14 +44,7 @@
           2,
           4
         ],
-        "classroom": "C402"
-      },
-      {
-        "time": "12:00-14:00",
-        "days": [
-          4
-        ],
-        "classroom": "C205"
+        "classroom": "20"
       }
     ],
     "professor_id": 149603,
@@ -68,15 +56,20 @@
   {
     "code": "1068",
     "group": "4",
-    "professor": "JANET MONTAÑO SALAZAR",
+    "professor": "RUBEN MIRANDA ARIAS",
     "schedules": [
       {
         "time": "11:00-13:00",
         "days": [
           3
         ],
-        "classroom": "C205"
+        "classroom": "20"
       }
-    ]
+    ],
+    "professor_id": 91807,
+    "first_name": "Ruben",
+    "last_name": "Miranda Arias",
+    "rating": 4.7273,
+    "num_ratings": 22
   }
 ]

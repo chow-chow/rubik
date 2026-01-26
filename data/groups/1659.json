@@ -10,7 +10,7 @@
           2,
           4
         ],
-        "classroom": "B201"
+        "classroom": "35"
       }
     ],
     "professor_id": 108443,
@@ -30,7 +30,7 @@
           2,
           4
         ],
-        "classroom": "B105"
+        "classroom": "35"
       }
     ],
     "professor_id": 74731,
@@ -48,9 +48,9 @@
         "time": "13:00-15:00",
         "days": [
           1,
-          3
+          5
         ],
-        "classroom": "O103"
+        "classroom": "35"
       }
     ],
     "professor_id": 124462,
@@ -65,12 +65,12 @@
     "professor": "RICARDO YAÑEZ VALDEZ",
     "schedules": [
       {
-        "time": "15:00-17:00",
+        "time": "17:00-19:00",
         "days": [
           2,
           4
         ],
-        "classroom": "B302"
+        "classroom": "35"
       }
     ],
     "professor_id": 105090,
@@ -90,7 +90,7 @@
           1,
           3
         ],
-        "classroom": "B303"
+        "classroom": "35"
       }
     ],
     "professor_id": 95428,
@@ -98,5 +98,25 @@
     "last_name": "Vargas Alcaraz",
     "rating": 7.2143,
     "num_ratings": 28
+  },
+  {
+    "code": "1659",
+    "group": "6",
+    "professor": "JOSE ROGELIO VALDES HERRERA",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "35"
+      }
+    ],
+    "professor_id": 142070,
+    "first_name": "JOSE ROGELIO",
+    "last_name": "VALDES HERRERA",
+    "rating": 7.0,
+    "num_ratings": 4
   }
 ]

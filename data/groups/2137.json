@@ -10,7 +10,7 @@
           2,
           4
         ],
-        "classroom": "EXTR"
+        "classroom": "30"
       }
     ],
     "professor_id": 108907,
@@ -30,7 +30,7 @@
           5,
           6
         ],
-        "classroom": "EXTR"
+        "classroom": "30"
       }
     ]
   },
@@ -42,10 +42,10 @@
       {
         "time": "17:00-19:00",
         "days": [
-          2,
-          4
+          1,
+          5
         ],
-        "classroom": "A311"
+        "classroom": "30"
       }
     ],
     "professor_id": 186559,
@@ -53,5 +53,25 @@
     "last_name": "Mendoza Campos",
     "rating": 9.5,
     "num_ratings": 2
+  },
+  {
+    "code": "2137",
+    "group": "4",
+    "professor": "FLOR HERNANDEZ PADILLA",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "30"
+      }
+    ],
+    "professor_id": 94327,
+    "first_name": "Flor",
+    "last_name": "Hernández Padilla",
+    "rating": 5.8421,
+    "num_ratings": 19
   }
 ]

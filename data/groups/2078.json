@@ -1,7 +1,7 @@
 [
   {
     "code": "2078",
-    "group": "2",
+    "group": "1",
     "professor": "NESTOR DANIEL LUNA GONZALEZ",
     "schedules": [
       {
@@ -9,50 +9,13 @@
         "days": [
           2
         ],
-        "classroom": "EXTR"
-      },
-      {
-        "time": "07:00-09:00",
-        "days": [
-          6
-        ],
-        "classroom": "EXTR"
+        "classroom": "10"
       }
     ]
   },
   {
     "code": "2078",
-    "group": "3",
-    "professor": "ELISEO MARTINEZ ESPINOSA",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "DS11"
-      }
-    ]
-  },
-  {
-    "code": "2078",
-    "group": "4",
-    "professor": "ROGELIO GONZALEZ OROPEZA",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "N005"
-      }
-    ]
-  },
-  {
-    "code": "2078",
-    "group": "5",
+    "group": "2",
     "professor": "JOSE LUIS FERNANDEZ ZAYAS",
     "schedules": [
       {
@@ -61,33 +24,33 @@
           2,
           4
         ],
-        "classroom": "EXTR"
+        "classroom": "10"
       }
     ]
   },
   {
     "code": "2078",
-    "group": "6",
-    "professor": "FRANCISCO JAVIER SOLORIO ORDAZ",
+    "group": "3",
+    "professor": "GABRIEL ASCANIO GASCA",
     "schedules": [
       {
-        "time": "13:00-15:00",
+        "time": "09:00-11:00",
         "days": [
           2,
           4
         ],
-        "classroom": "Y004"
+        "classroom": "10"
       }
     ],
-    "professor_id": 113818,
-    "first_name": "Francisco Javier",
-    "last_name": "Solorio Ordaz",
-    "rating": 7.8889,
-    "num_ratings": 9
+    "professor_id": 149445,
+    "first_name": "GABRIEL",
+    "last_name": "ASCANIO GASCA",
+    "rating": 7.2,
+    "num_ratings": 5
   },
   {
     "code": "2078",
-    "group": "7",
+    "group": "4",
     "professor": "VALAUR EKBALAM MARQUEZ BAÑOS",
     "schedules": [
       {
@@ -95,7 +58,22 @@
         "days": [
           6
         ],
-        "classroom": "EXTR"
+        "classroom": "10"
+      }
+    ]
+  },
+  {
+    "code": "2078",
+    "group": "5",
+    "professor": "DAVID ABRAHAM BARRERA GARCIA",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "10"
       }
     ]
   }

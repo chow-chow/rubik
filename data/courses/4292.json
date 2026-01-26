@@ -515,18 +515,18 @@
     "code": "2904",
     "name": "FISIOLOGIA SISTEMAS HOMEOSTATICOS",
     "credits": 8,
-    "has_lab": false,
-    "lab": null
+    "has_lab": true,
+    "lab": {
+      "code": "7904",
+      "name": "LABORATORIO FISIOLOGIA DE LOS SISTEMAS HOMEOSTATICOS"
+    }
   },
   {
     "code": "2905",
     "name": "FISIOLOGIA SISTEMA ENDOCRINO-NERVIOS",
     "credits": 8,
-    "has_lab": true,
-    "lab": {
-      "code": "7905",
-      "name": "LABORATORIO FISIOLOGIA DEL SISTEMA ENDOCRINO Y NERVIOSO"
-    }
+    "has_lab": false,
+    "lab": null
   },
   {
     "code": "2906",

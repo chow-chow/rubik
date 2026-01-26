@@ -10,7 +10,7 @@
           1,
           3
         ],
-        "classroom": "SIN"
+        "classroom": "5"
       }
     ],
     "professor_id": 74593,
@@ -30,7 +30,7 @@
           2,
           4
         ],
-        "classroom": "Q003"
+        "classroom": "10"
       }
     ],
     "professor_id": 155677,
@@ -38,5 +38,24 @@
     "last_name": "Gómez González",
     "rating": 7.6364,
     "num_ratings": 11
+  },
+  {
+    "code": "3007",
+    "group": "3",
+    "professor": "LAURA ADRIANA OROPEZA RAMOS",
+    "schedules": [
+      {
+        "time": "10:00-13:00",
+        "days": [
+          5
+        ],
+        "classroom": "5"
+      }
+    ],
+    "professor_id": 135063,
+    "first_name": "Laura Adriana",
+    "last_name": "Oropeza Ramos",
+    "rating": 6.5556,
+    "num_ratings": 18
   }
 ]

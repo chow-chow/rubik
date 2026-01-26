@@ -10,7 +10,7 @@
           2,
           4
         ],
-        "classroom": "A210"
+        "classroom": "20"
       }
     ],
     "professor_id": 134950,
@@ -18,5 +18,19 @@
     "last_name": "Valdez",
     "rating": 8.75,
     "num_ratings": 4
+  },
+  {
+    "code": "2829",
+    "group": "2",
+    "professor": "ERICK FELIPE JIMENEZ QUIROZ",
+    "schedules": [
+      {
+        "time": "07:00-10:00",
+        "days": [
+          5
+        ],
+        "classroom": "20"
+      }
+    ]
   }
 ]

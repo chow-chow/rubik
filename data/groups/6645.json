@@ -9,7 +9,7 @@
         "days": [
           1
         ],
-        "classroom": "T101"
+        "classroom": "35"
       }
     ]
   },
@@ -23,7 +23,7 @@
         "days": [
           2
         ],
-        "classroom": "T101"
+        "classroom": "35"
       }
     ],
     "professor_id": 142387,
@@ -42,27 +42,13 @@
         "days": [
           3
         ],
-        "classroom": "T101"
+        "classroom": "35"
       }
     ]
   },
   {
     "code": "6645",
     "group": "4",
-    "professor": "Grupo cancelado, contactar a la División.",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          3
-        ],
-        "classroom": "T101"
-      }
-    ]
-  },
-  {
-    "code": "6645",
-    "group": "5",
     "professor": "LUIS SERGIO DURAN ARENAS",
     "schedules": [
       {
@@ -70,7 +56,7 @@
         "days": [
           4
         ],
-        "classroom": "T101"
+        "classroom": "35"
       }
     ],
     "professor_id": 124016,
@@ -81,7 +67,7 @@
   },
   {
     "code": "6645",
-    "group": "6",
+    "group": "5",
     "professor": "NORMA ELVA CHAVEZ RODRIGUEZ",
     "schedules": [
       {
@@ -89,7 +75,7 @@
         "days": [
           4
         ],
-        "classroom": "T101"
+        "classroom": "35"
       }
     ],
     "professor_id": 142387,
@@ -100,7 +86,7 @@
   },
   {
     "code": "6645",
-    "group": "7",
+    "group": "6",
     "professor": "FERNANDA RAMOS GARCIA",
     "schedules": [
       {
@@ -108,7 +94,7 @@
         "days": [
           5
         ],
-        "classroom": "T101"
+        "classroom": "35"
       }
     ],
     "professor_id": 159593,
@@ -119,7 +105,7 @@
   },
   {
     "code": "6645",
-    "group": "8",
+    "group": "7",
     "professor": "ALBERTO NAVARRETE HERNANDEZ",
     "schedules": [
       {
@@ -127,7 +113,7 @@
         "days": [
           5
         ],
-        "classroom": "T101"
+        "classroom": "35"
       }
     ],
     "professor_id": 104486,

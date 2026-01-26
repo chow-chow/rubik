@@ -9,7 +9,7 @@
         "days": [
           2
         ],
-        "classroom": "A103"
+        "classroom": "35"
       }
     ],
     "professor_id": 95281,
@@ -28,7 +28,7 @@
         "days": [
           5
         ],
-        "classroom": "A103"
+        "classroom": "35"
       }
     ],
     "professor_id": 95281,
@@ -47,7 +47,7 @@
         "days": [
           5
         ],
-        "classroom": "A108"
+        "classroom": "35"
       }
     ],
     "professor_id": 51469,
@@ -66,7 +66,7 @@
         "days": [
           1
         ],
-        "classroom": "A202"
+        "classroom": "35"
       }
     ],
     "professor_id": 90265,
@@ -81,11 +81,11 @@
     "professor": "OMAR ALEJANDRO LLANES BRICEÑOVer Nota 1",
     "schedules": [
       {
-        "time": "19:00-21:00",
+        "time": "15:00-17:00",
         "days": [
           3
         ],
-        "classroom": "A108"
+        "classroom": "35"
       }
     ]
   },
@@ -99,7 +99,7 @@
         "days": [
           4
         ],
-        "classroom": "A104"
+        "classroom": "35"
       }
     ]
   }

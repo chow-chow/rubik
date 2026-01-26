@@ -11,14 +11,7 @@
           3,
           5
         ],
-        "classroom": "A405"
-      },
-      {
-        "time": "10:00-13:00",
-        "days": [
-          2
-        ],
-        "classroom": "R032"
+        "classroom": "8"
       }
     ],
     "professor_id": 141820,
@@ -39,15 +32,28 @@
           3,
           5
         ],
-        "classroom": "R005"
-      },
-      {
-        "time": "16:00-19:00",
-        "days": [
-          2
-        ],
-        "classroom": "R032"
+        "classroom": "8"
       }
     ]
+  },
+  {
+    "code": "1449",
+    "group": "3",
+    "professor": "LUIS BRUNO GARDUÑO CASTRO",
+    "schedules": [
+      {
+        "time": "07:00-09:15",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "8"
+      }
+    ],
+    "professor_id": 99543,
+    "first_name": "Luis Bruno",
+    "last_name": "Garduño Castro",
+    "rating": 8.6,
+    "num_ratings": 5
   }
 ]

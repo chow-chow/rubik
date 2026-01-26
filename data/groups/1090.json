@@ -5,19 +5,12 @@
     "professor": "VICTOR LEONARDO TEJA JUAREZ",
     "schedules": [
       {
-        "time": "09:00-10:00",
-        "days": [
-          5
-        ],
-        "classroom": "C103"
-      },
-      {
         "time": "09:00-11:00",
         "days": [
           1,
           3
         ],
-        "classroom": "Y103"
+        "classroom": "22"
       }
     ]
   },
@@ -27,19 +20,11 @@
     "professor": "HUMBERTO SANTOS RIOS",
     "schedules": [
       {
-        "time": "11:00-13:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "D007"
-      },
-      {
         "time": "11:00-12:00",
         "days": [
           5
         ],
-        "classroom": "D007"
+        "classroom": "30"
       }
     ],
     "professor_id": 134744,
@@ -54,19 +39,11 @@
     "professor": "SALVADOR HERNÁNDEZ IBAÑEZ",
     "schedules": [
       {
-        "time": "18:00-20:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "D006"
-      },
-      {
         "time": "18:00-19:00",
         "days": [
           5
         ],
-        "classroom": "D006"
+        "classroom": "30"
       }
     ]
   }

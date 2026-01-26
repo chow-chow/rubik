@@ -10,39 +10,23 @@
           2,
           4
         ],
-        "classroom": "C402"
+        "classroom": "15"
       }
     ]
   },
   {
     "code": "2967",
     "group": "2",
-    "professor": "Grupo cancelado, contactar a la División.",
+    "professor": "CLAUDIA ARANGO GALVAN",
     "schedules": [
       {
-        "time": "11:00-13:00",
-        "days": [
-          2,
-          4,
-          6
-        ],
-        "classroom": "C202"
-      }
-    ]
-  },
-  {
-    "code": "2967",
-    "group": "3",
-    "professor": "JORGE LOPEZ ALVIS",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
+        "time": "09:00-11:00",
         "days": [
           1,
           3,
           5
         ],
-        "classroom": "SIN"
+        "classroom": "15"
       }
     ]
   }

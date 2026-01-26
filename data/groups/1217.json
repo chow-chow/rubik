@@ -9,7 +9,7 @@
         "days": [
           2
         ],
-        "classroom": "R029"
+        "classroom": "18"
       }
     ],
     "professor_id": 142316,
@@ -17,5 +17,43 @@
     "last_name": "VEGA DELOYA",
     "rating": 8.0,
     "num_ratings": 2
+  },
+  {
+    "code": "1217",
+    "group": "2",
+    "professor": "JOSE MARIA BRISEÑO ALMARAZ",
+    "schedules": [
+      {
+        "time": "11:00-16:00",
+        "days": [
+          4
+        ],
+        "classroom": "18"
+      }
+    ],
+    "professor_id": 153667,
+    "first_name": "José María",
+    "last_name": "Briseño Almaraz",
+    "rating": 8.25,
+    "num_ratings": 4
+  },
+  {
+    "code": "1217",
+    "group": "3",
+    "professor": "SERGIO FEDERICO GAYTAN SANCHEZ",
+    "schedules": [
+      {
+        "time": "12:00-17:00",
+        "days": [
+          4
+        ],
+        "classroom": "18"
+      }
+    ],
+    "professor_id": 102021,
+    "first_name": "Sergio",
+    "last_name": "Gaytán",
+    "rating": 9.25,
+    "num_ratings": 8
   }
 ]

@@ -1,87 +1,21 @@
 [
   {
     "code": "1129",
-    "group": "1",
-    "professor": "SILVINA HERNANDEZ GARCIA",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          2
-        ],
-        "classroom": "I201"
-      }
-    ],
-    "professor_id": 98611,
-    "first_name": "Silvina",
-    "last_name": "Hernández García",
-    "rating": 6.7143,
-    "num_ratings": 7
-  },
-  {
-    "code": "1129",
-    "group": "2",
-    "professor": "JUAN URSUL SOLANES",
+    "group": "3",
+    "professor": "VELDA LILIANA RODRIGUEZ HERNANDEZ",
     "schedules": [
       {
         "time": "11:00-13:00",
         "days": [
-          1
+          5
         ],
-        "classroom": "J106"
+        "classroom": "20"
       }
     ],
-    "professor_id": 47499,
-    "first_name": "Juan",
-    "last_name": "Ursul Solanes",
-    "rating": 7.3103,
-    "num_ratings": 29
-  },
-  {
-    "code": "1129",
-    "group": "3",
-    "professor": "PROFESOR POR ASIGNAR",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          3
-        ],
-        "classroom": "I203"
-      }
-    ]
-  },
-  {
-    "code": "1129",
-    "group": "4",
-    "professor": "KALID PAOLA ABURTO MORENO",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          3
-        ],
-        "classroom": "I106"
-      }
-    ]
-  },
-  {
-    "code": "1129",
-    "group": "5",
-    "professor": "DIEGO ALBERTO NIETO FIERRO",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          2
-        ],
-        "classroom": "I202"
-      }
-    ],
-    "professor_id": 84656,
-    "first_name": "Diego",
-    "last_name": "Nieto Fierro",
-    "rating": 9.8333,
-    "num_ratings": 6
+    "professor_id": 60017,
+    "first_name": "Liliana",
+    "last_name": "Rodríguez Hernández",
+    "rating": 7.9091,
+    "num_ratings": 11
   }
 ]

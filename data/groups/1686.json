@@ -1,7 +1,7 @@
 [
   {
     "code": "1686",
-    "group": "2",
+    "group": "1",
     "professor": "ISMAEL ROMERO OCARANZA",
     "schedules": [
       {
@@ -10,7 +10,7 @@
           1,
           3
         ],
-        "classroom": "B304"
+        "classroom": "34"
       }
     ],
     "professor_id": 89949,
@@ -21,7 +21,7 @@
   },
   {
     "code": "1686",
-    "group": "3",
+    "group": "2",
     "professor": "JORGE ANTONIO MONROY JUAREZ",
     "schedules": [
       {
@@ -30,7 +30,7 @@
           2,
           4
         ],
-        "classroom": "B408"
+        "classroom": "34"
       }
     ],
     "professor_id": 89950,
@@ -41,7 +41,7 @@
   },
   {
     "code": "1686",
-    "group": "5",
+    "group": "3",
     "professor": "MARIO ALFREDO IBARRA CARRILLO",
     "schedules": [
       {
@@ -50,7 +50,7 @@
           2,
           4
         ],
-        "classroom": "B304"
+        "classroom": "34"
       }
     ],
     "professor_id": 99010,
@@ -61,22 +61,22 @@
   },
   {
     "code": "1686",
-    "group": "6",
-    "professor": "CESAR LEONARDO ORDOÑEZ ROMERO",
+    "group": "4",
+    "professor": "ROILHI FRAJO IBARRA HERNANDEZ",
     "schedules": [
       {
-        "time": "13:00-14:30",
+        "time": "15:00-16:30",
         "days": [
           2,
           4
         ],
-        "classroom": "B103"
+        "classroom": "34"
       }
     ]
   },
   {
     "code": "1686",
-    "group": "7",
+    "group": "5",
     "professor": "FLORICEL RAMOS VARGAS",
     "schedules": [
       {
@@ -85,7 +85,7 @@
           2,
           4
         ],
-        "classroom": "A107"
+        "classroom": "34"
       }
     ],
     "professor_id": 89946,
@@ -96,7 +96,7 @@
   },
   {
     "code": "1686",
-    "group": "8",
+    "group": "6",
     "professor": "ADAN BONILLA CHAVEZ",
     "schedules": [
       {
@@ -104,7 +104,7 @@
         "days": [
           6
         ],
-        "classroom": "B401"
+        "classroom": "34"
       }
     ],
     "professor_id": 124535,
@@ -115,7 +115,7 @@
   },
   {
     "code": "1686",
-    "group": "9",
+    "group": "7",
     "professor": "HUMBERTO FLORES GONZALEZ",
     "schedules": [
       {
@@ -123,13 +123,13 @@
         "days": [
           6
         ],
-        "classroom": "B101"
+        "classroom": "34"
       }
     ]
   },
   {
     "code": "1686",
-    "group": "10",
+    "group": "8",
     "professor": "ERNESTO RAMIREZ CRUZ",
     "schedules": [
       {
@@ -137,7 +137,7 @@
         "days": [
           6
         ],
-        "classroom": "B103"
+        "classroom": "34"
       }
     ],
     "professor_id": 130840,

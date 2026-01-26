@@ -9,7 +9,7 @@
         "days": [
           1
         ],
-        "classroom": "Q209"
+        "classroom": "19"
       }
     ],
     "professor_id": 134609,
@@ -28,7 +28,7 @@
         "days": [
           1
         ],
-        "classroom": "Q209"
+        "classroom": "19"
       }
     ],
     "professor_id": 134609,
@@ -47,7 +47,7 @@
         "days": [
           2
         ],
-        "classroom": "Q209"
+        "classroom": "19"
       }
     ],
     "professor_id": 94396,
@@ -66,7 +66,7 @@
         "days": [
           2
         ],
-        "classroom": "Q209"
+        "classroom": "19"
       }
     ],
     "professor_id": 94395,
@@ -78,21 +78,21 @@
   {
     "code": "6672",
     "group": "5",
-    "professor": "LOURDES ANGELICA QUIÑONES JUAREZ",
+    "professor": "DIANA CRUZ HERNANDEZ",
     "schedules": [
       {
         "time": "09:00-11:00",
         "days": [
           3
         ],
-        "classroom": "Q209"
+        "classroom": "19"
       }
     ],
-    "professor_id": 124037,
-    "first_name": "Lourdes Angelica",
-    "last_name": "Quiñones Juarez",
-    "rating": 8.0556,
-    "num_ratings": 18
+    "professor_id": 94396,
+    "first_name": "DIANA",
+    "last_name": "CRUZ HERNANDEZ",
+    "rating": 5.2,
+    "num_ratings": 10
   },
   {
     "code": "6672",
@@ -104,7 +104,7 @@
         "days": [
           3
         ],
-        "classroom": "Q209"
+        "classroom": "19"
       }
     ],
     "professor_id": 134609,
@@ -119,11 +119,11 @@
     "professor": "LOURDES ANGELICA QUIÑONES JUAREZ",
     "schedules": [
       {
-        "time": "09:00-11:00",
+        "time": "07:00-09:00",
         "days": [
           4
         ],
-        "classroom": "Q209"
+        "classroom": "19"
       }
     ],
     "professor_id": 124037,
@@ -142,7 +142,7 @@
         "days": [
           4
         ],
-        "classroom": "Q209"
+        "classroom": "19"
       }
     ],
     "professor_id": 94395,
@@ -161,7 +161,7 @@
         "days": [
           5
         ],
-        "classroom": "Q209"
+        "classroom": "19"
       }
     ],
     "professor_id": 108136,
@@ -180,7 +180,7 @@
         "days": [
           5
         ],
-        "classroom": "Q209"
+        "classroom": "19"
       }
     ],
     "professor_id": 108136,
@@ -188,5 +188,33 @@
     "last_name": "Osorio Comparan",
     "rating": 7.1667,
     "num_ratings": 18
+  },
+  {
+    "code": "6672",
+    "group": "11",
+    "professor": "PROFESOR POR ASIGNAR",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          5
+        ],
+        "classroom": "19"
+      }
+    ]
+  },
+  {
+    "code": "6672",
+    "group": "12",
+    "professor": "PROFESOR POR ASIGNAR",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          5
+        ],
+        "classroom": "19"
+      }
+    ]
   }
 ]

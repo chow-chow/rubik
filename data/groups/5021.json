@@ -9,7 +9,7 @@
         "days": [
           6
         ],
-        "classroom": "DS07"
+        "classroom": "4"
       }
     ]
   },
@@ -23,7 +23,7 @@
         "days": [
           6
         ],
-        "classroom": "DS07"
+        "classroom": "4"
       }
     ],
     "professor_id": 134971,
@@ -42,7 +42,7 @@
         "days": [
           4
         ],
-        "classroom": "DS07"
+        "classroom": "4"
       }
     ],
     "professor_id": 93961,
@@ -59,9 +59,9 @@
       {
         "time": "15:00-17:00",
         "days": [
-          2
+          1
         ],
-        "classroom": "DS07"
+        "classroom": "4"
       }
     ]
   }

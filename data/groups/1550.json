@@ -10,14 +10,7 @@
           2,
           4
         ],
-        "classroom": "Y003"
-      },
-      {
-        "time": "11:00-13:00",
-        "days": [
-          2
-        ],
-        "classroom": "X401"
+        "classroom": "15"
       }
     ],
     "professor_id": 112894,
@@ -37,14 +30,7 @@
           1,
           5
         ],
-        "classroom": "Y004"
-      },
-      {
-        "time": "09:00-11:00",
-        "days": [
-          3
-        ],
-        "classroom": "O007"
+        "classroom": "15"
       }
     ],
     "professor_id": 59070,
@@ -64,14 +50,7 @@
           2,
           4
         ],
-        "classroom": "Y003"
-      },
-      {
-        "time": "11:00-13:00",
-        "days": [
-          4
-        ],
-        "classroom": "O007"
+        "classroom": "20"
       }
     ],
     "professor_id": 112894,
@@ -91,14 +70,7 @@
           1,
           3
         ],
-        "classroom": "O103"
-      },
-      {
-        "time": "13:00-15:00",
-        "days": [
-          5
-        ],
-        "classroom": "Q109"
+        "classroom": "25"
       }
     ],
     "professor_id": 94468,
@@ -118,14 +90,7 @@
           1,
           3
         ],
-        "classroom": "B202"
-      },
-      {
-        "time": "15:00-17:00",
-        "days": [
-          5
-        ],
-        "classroom": "Q107"
+        "classroom": "25"
       }
     ]
   },
@@ -140,14 +105,7 @@
           3,
           5
         ],
-        "classroom": "B301"
-      },
-      {
-        "time": "15:00-17:00",
-        "days": [
-          1
-        ],
-        "classroom": "Q107"
+        "classroom": "25"
       }
     ],
     "professor_id": 58672,
@@ -167,14 +125,7 @@
           1,
           5
         ],
-        "classroom": "A311"
-      },
-      {
-        "time": "15:00-17:00",
-        "days": [
-          3
-        ],
-        "classroom": "X401"
+        "classroom": "15"
       }
     ],
     "professor_id": 90944,
@@ -194,14 +145,7 @@
           2,
           4
         ],
-        "classroom": "DS11"
-      },
-      {
-        "time": "17:00-19:00",
-        "days": [
-          5
-        ],
-        "classroom": "Q109"
+        "classroom": "25"
       }
     ]
   },
@@ -216,14 +160,7 @@
           2,
           4
         ],
-        "classroom": "O102"
-      },
-      {
-        "time": "17:00-19:00",
-        "days": [
-          2
-        ],
-        "classroom": "O007"
+        "classroom": "20"
       }
     ]
   },
@@ -238,14 +175,7 @@
           1,
           3
         ],
-        "classroom": "O102"
-      },
-      {
-        "time": "19:00-21:00",
-        "days": [
-          5
-        ],
-        "classroom": "O007"
+        "classroom": "20"
       }
     ],
     "professor_id": 79607,
@@ -265,43 +195,9 @@
           1,
           3
         ],
-        "classroom": "A310"
-      },
-      {
-        "time": "15:00-17:00",
-        "days": [
-          5
-        ],
-        "classroom": "Q109"
+        "classroom": "25"
       }
     ]
-  },
-  {
-    "code": "1550",
-    "group": "12",
-    "professor": "MARIA DEL PILAR CORONA LIRA",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          3,
-          5
-        ],
-        "classroom": "B201"
-      },
-      {
-        "time": "09:00-11:00",
-        "days": [
-          1
-        ],
-        "classroom": "O007"
-      }
-    ],
-    "professor_id": 93473,
-    "first_name": "Maria del Pilar",
-    "last_name": "Corona Lira",
-    "rating": 7.1333,
-    "num_ratings": 15
   },
   {
     "code": "1550",
@@ -314,14 +210,7 @@
           2,
           4
         ],
-        "classroom": "B201"
-      },
-      {
-        "time": "19:00-21:00",
-        "days": [
-          4
-        ],
-        "classroom": "O007"
+        "classroom": "20"
       }
     ],
     "professor_id": 79607,
@@ -341,14 +230,7 @@
           1,
           5
         ],
-        "classroom": "B301"
-      },
-      {
-        "time": "13:00-15:00",
-        "days": [
-          3
-        ],
-        "classroom": "X401"
+        "classroom": "15"
       }
     ],
     "professor_id": 173549,
@@ -368,14 +250,7 @@
           2,
           4
         ],
-        "classroom": "A311"
-      },
-      {
-        "time": "07:00-09:00",
-        "days": [
-          6
-        ],
-        "classroom": "O007"
+        "classroom": "20"
       }
     ],
     "professor_id": 114507,
@@ -392,23 +267,9 @@
       {
         "time": "07:00-09:00",
         "days": [
-          5
-        ],
-        "classroom": "Y003"
-      },
-      {
-        "time": "07:00-09:00",
-        "days": [
           1
         ],
-        "classroom": "Y004"
-      },
-      {
-        "time": "07:00-09:00",
-        "days": [
-          3
-        ],
-        "classroom": "O007"
+        "classroom": "20"
       }
     ],
     "professor_id": 84710,

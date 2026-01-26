@@ -10,15 +10,28 @@
           3,
           5
         ],
-        "classroom": "X101"
-      },
-      {
-        "time": "13:00-15:00",
-        "days": [
-          1
-        ],
-        "classroom": "X101"
+        "classroom": "12"
       }
     ]
+  },
+  {
+    "code": "1695",
+    "group": "2",
+    "professor": "MIGUEL SERRANO REYES",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "12"
+      }
+    ],
+    "professor_id": 98813,
+    "first_name": "Miguel",
+    "last_name": "Serrano Reyes",
+    "rating": 9.2778,
+    "num_ratings": 18
   }
 ]

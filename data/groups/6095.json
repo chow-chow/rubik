@@ -9,7 +9,7 @@
         "days": [
           4
         ],
-        "classroom": "P001"
+        "classroom": "12"
       }
     ],
     "professor_id": 112607,
@@ -28,7 +28,7 @@
         "days": [
           5
         ],
-        "classroom": "P001"
+        "classroom": "12"
       }
     ],
     "professor_id": 112607,
@@ -39,15 +39,15 @@
   },
   {
     "code": "6095",
-    "group": "4",
+    "group": "3",
     "professor": "DAVID QUINTANAR VILLALBA",
     "schedules": [
       {
-        "time": "17:00-19:00",
+        "time": "11:00-13:00",
         "days": [
-          5
+          6
         ],
-        "classroom": "P001"
+        "classroom": "12"
       }
     ]
   }

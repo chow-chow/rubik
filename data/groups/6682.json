@@ -9,7 +9,7 @@
         "days": [
           3
         ],
-        "classroom": "Q303"
+        "classroom": "8"
       }
     ],
     "professor_id": 99092,
@@ -17,5 +17,24 @@
     "last_name": "VILLEDAS MORALES",
     "rating": 7.2857,
     "num_ratings": 7
+  },
+  {
+    "code": "6682",
+    "group": "2",
+    "professor": "MONICA LOPEZ COYOTE",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          5
+        ],
+        "classroom": "8"
+      }
+    ],
+    "professor_id": 82398,
+    "first_name": "Monica",
+    "last_name": "López coyote",
+    "rating": 7.25,
+    "num_ratings": 69
   }
 ]

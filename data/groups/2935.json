@@ -5,19 +5,31 @@
     "professor": "ALEJANDRA GUZMAN CORTEZ",
     "schedules": [
       {
+        "time": "07:00-10:00",
+        "days": [
+          3
+        ],
+        "classroom": "10"
+      }
+    ],
+    "professor_id": 135313,
+    "first_name": "ALEJANDRA",
+    "last_name": "GUZMAN CORTEZ",
+    "rating": 6.9167,
+    "num_ratings": 12
+  },
+  {
+    "code": "2935",
+    "group": "2",
+    "professor": "ALEJANDRA GUZMAN CORTEZ",
+    "schedules": [
+      {
         "time": "13:30-15:00",
         "days": [
           2,
           4
         ],
-        "classroom": "R004"
-      },
-      {
-        "time": "07:00-10:00",
-        "days": [
-          3
-        ],
-        "classroom": "R029"
+        "classroom": "10"
       }
     ],
     "professor_id": 135313,

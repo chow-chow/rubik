@@ -2,21 +2,15 @@
   {
     "code": "1282",
     "group": "1",
-    "professor": "HOMERO LUIS MALAGON CARTAS",
+    "professor": "HOMERO LUIS MALAGON CARTASVer Nota 1",
     "schedules": [
       {
-        "time": "13:00-14:30",
+        "time": "16:00-17:30",
         "days": [
-          5
+          1,
+          4
         ],
-        "classroom": "B409"
-      },
-      {
-        "time": "13:00-14:30",
-        "days": [
-          1
-        ],
-        "classroom": "A402"
+        "classroom": "25"
       }
     ]
   }

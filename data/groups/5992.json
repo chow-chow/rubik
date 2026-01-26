@@ -9,7 +9,7 @@
         "days": [
           5
         ],
-        "classroom": "O101"
+        "classroom": "17"
       }
     ]
   },
@@ -23,7 +23,7 @@
         "days": [
           4
         ],
-        "classroom": "D002"
+        "classroom": "18"
       }
     ]
   },
@@ -37,7 +37,7 @@
         "days": [
           5
         ],
-        "classroom": "B202"
+        "classroom": "17"
       }
     ]
   },
@@ -47,11 +47,11 @@
     "professor": "CAROLINA CASTRO ALARCON",
     "schedules": [
       {
-        "time": "19:00-21:00",
+        "time": "17:00-19:00",
         "days": [
-          1
+          4
         ],
-        "classroom": "D003"
+        "classroom": "17"
       }
     ],
     "professor_id": 167496,

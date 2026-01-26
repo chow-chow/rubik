@@ -2,21 +2,6 @@
   {
     "code": "2827",
     "group": "1",
-    "professor": "ADRIANA RIVERA HUERTA",
-    "schedules": [
-      {
-        "time": "14:30-16:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "S005"
-      }
-    ]
-  },
-  {
-    "code": "2827",
-    "group": "2",
     "professor": "ALEJANDRA MEDINA AREVALO",
     "schedules": [
       {
@@ -25,7 +10,7 @@
           2,
           4
         ],
-        "classroom": "A207"
+        "classroom": "15"
       }
     ],
     "professor_id": 108907,

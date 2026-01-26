@@ -10,7 +10,7 @@
           1,
           3
         ],
-        "classroom": "C106"
+        "classroom": "15"
       }
     ],
     "professor_id": 124038,
@@ -18,20 +18,5 @@
     "last_name": "Calla Choque",
     "rating": 5.3333,
     "num_ratings": 9
-  },
-  {
-    "code": "2810",
-    "group": "2",
-    "professor": "MIGUEL MARQUEZ MARTINEZ",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "C104"
-      }
-    ]
   }
 ]

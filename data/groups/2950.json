@@ -5,12 +5,11 @@
     "professor": "EMILIO ALEJANDRO MORALES JUÁREZ",
     "schedules": [
       {
-        "time": "11:30-13:00",
+        "time": "10:00-13:00",
         "days": [
-          2,
-          4
+          6
         ],
-        "classroom": "B204"
+        "classroom": "30"
       }
     ]
   }

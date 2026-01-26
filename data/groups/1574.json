@@ -10,7 +10,7 @@
           1,
           3
         ],
-        "classroom": "C303"
+        "classroom": "9"
       }
     ],
     "professor_id": 135038,
@@ -22,21 +22,17 @@
   {
     "code": "1574",
     "group": "2",
-    "professor": "MIGUEL ILDEFONSO VERA OCAMPO",
+    "professor": "CARLOS URIEL MIGUEL MORALES",
     "schedules": [
       {
-        "time": "16:00-19:00",
+        "time": "14:00-16:00",
         "days": [
           1,
-          3
+          3,
+          5
         ],
-        "classroom": "C303"
+        "classroom": "9"
       }
-    ],
-    "professor_id": 108707,
-    "first_name": "Miguel Ildefonso",
-    "last_name": "Vera Ocampo",
-    "rating": 8.8,
-    "num_ratings": 5
+    ]
   }
 ]

@@ -2,7 +2,7 @@
   {
     "code": "1121",
     "group": "1",
-    "professor": "ISMAEL VAZQUEZ MARTINEZ",
+    "professor": "CESAR PANIAGUA LOVERA",
     "schedules": [
       {
         "time": "07:00-09:00",
@@ -11,70 +11,28 @@
           3,
           5
         ],
-        "classroom": "I202"
+        "classroom": "35"
       }
     ],
-    "professor_id": 107808,
-    "first_name": "Ismael",
-    "last_name": "Vázquez Martínez",
-    "rating": 5.0,
-    "num_ratings": 2
+    "professor_id": 93401,
+    "first_name": "Cesar",
+    "last_name": "Paniagua Lovera",
+    "rating": 6.2,
+    "num_ratings": 20
   },
   {
     "code": "1121",
     "group": "2",
-    "professor": "JESUS ALEJANDRO PLATA MARTINEZ",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          1,
-          3,
-          5
-        ],
-        "classroom": "I203"
-      }
-    ],
-    "professor_id": 123084,
-    "first_name": "Jesus Alejandro",
-    "last_name": "Plata Martinez",
-    "rating": 8.9028,
-    "num_ratings": 72
-  },
-  {
-    "code": "1121",
-    "group": "3",
-    "professor": "LUIS ANGEL FLORES CARBAJAL",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          1,
-          3,
-          5
-        ],
-        "classroom": "J106"
-      }
-    ],
-    "professor_id": 23484,
-    "first_name": "luis",
-    "last_name": "flores",
-    "rating": 2.3333,
-    "num_ratings": 3
-  },
-  {
-    "code": "1121",
-    "group": "4",
     "professor": "MARIA ELIZABETH ESQUIVEL RODRIGUEZ",
     "schedules": [
       {
         "time": "07:00-09:00",
         "days": [
-          1,
+          2,
           3,
-          5
+          4
         ],
-        "classroom": "I305"
+        "classroom": "48"
       }
     ],
     "professor_id": 71883,
@@ -85,17 +43,38 @@
   },
   {
     "code": "1121",
+    "group": "4",
+    "professor": "ALFREDO VELASQUEZ MARQUEZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "48"
+      }
+    ],
+    "professor_id": 62000,
+    "first_name": "Alfredo",
+    "last_name": "Velásquez Márquez",
+    "rating": 6.5625,
+    "num_ratings": 80
+  },
+  {
+    "code": "1121",
     "group": "5",
     "professor": "BERTHA ISABEL VEGA GALICIA",
     "schedules": [
       {
-        "time": "07:00-09:00",
+        "time": "09:00-11:00",
         "days": [
-          2,
+          1,
           3,
-          4
+          5
         ],
-        "classroom": "I103"
+        "classroom": "48"
       }
     ],
     "professor_id": 84414,
@@ -107,153 +86,121 @@
   {
     "code": "1121",
     "group": "6",
-    "professor": "LUIS ANTONIO PEREZ PEREZ",
+    "professor": "IRLIB BELEN BLANCAS RIOS",
     "schedules": [
       {
-        "time": "07:00-09:00",
+        "time": "09:00-11:00",
         "days": [
           2,
           3,
           4
         ],
-        "classroom": "I303"
+        "classroom": "48"
       }
     ],
-    "professor_id": 114209,
-    "first_name": "Luis Antonio",
-    "last_name": "Pérez Pérez",
-    "rating": 8.2927,
-    "num_ratings": 41
+    "professor_id": 60655,
+    "first_name": "Irlib Belén",
+    "last_name": "Blancas Ríos",
+    "rating": 8.7209,
+    "num_ratings": 43
   },
   {
     "code": "1121",
     "group": "7",
-    "professor": "ELENA RAMIREZ GARCIA",
+    "professor": "LUIS HERNANDEZ MORENO",
     "schedules": [
       {
-        "time": "07:00-09:00",
-        "days": [
-          2,
-          3,
-          4
-        ],
-        "classroom": "I201"
-      }
-    ]
-  },
-  {
-    "code": "1121",
-    "group": "8",
-    "professor": "YUKIHIRO MINAMI KOYAMA",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          2,
-          3,
-          4
-        ],
-        "classroom": "I302"
-      }
-    ],
-    "professor_id": 27938,
-    "first_name": "Yukihiro",
-    "last_name": "Minami",
-    "rating": 8.175,
-    "num_ratings": 40
-  },
-  {
-    "code": "1121",
-    "group": "9",
-    "professor": "ALFREDO VELASQUEZ MARQUEZ",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
+        "time": "11:00-13:00",
         "days": [
           1,
           3,
           5
         ],
-        "classroom": "J208"
+        "classroom": "48"
       }
     ],
-    "professor_id": 62000,
-    "first_name": "Alfredo",
-    "last_name": "Velásquez Márquez",
-    "rating": 6.5625,
+    "professor_id": 78817,
+    "first_name": "Luis",
+    "last_name": "Hernandez Moreno",
+    "rating": 7.3889,
+    "num_ratings": 18
+  },
+  {
+    "code": "1121",
+    "group": "8",
+    "professor": "LUIS HUMBERTO SORIANO SANCHEZ",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "48"
+      }
+    ],
+    "professor_id": 25670,
+    "first_name": "Luis Humberto",
+    "last_name": "Soriano Sánchez",
+    "rating": 8.9368,
+    "num_ratings": 95
+  },
+  {
+    "code": "1121",
+    "group": "9",
+    "professor": "MARIA TERESA PEÑUÑURI SANTOYO",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2,
+          3,
+          4
+        ],
+        "classroom": "35"
+      }
+    ],
+    "professor_id": 46393,
+    "first_name": "Maria Teresa",
+    "last_name": "Peñuñuri Santoyo",
+    "rating": 7.5375,
     "num_ratings": 80
   },
   {
     "code": "1121",
     "group": "10",
-    "professor": "MARIA ELIZABETH ESQUIVEL RODRIGUEZ",
+    "professor": "ALICIA PINEDA RAMIREZ",
     "schedules": [
       {
-        "time": "09:00-11:00",
+        "time": "11:00-13:00",
         "days": [
-          1,
+          2,
           3,
-          5
+          4
         ],
-        "classroom": "J103"
+        "classroom": "48"
       }
     ],
-    "professor_id": 71883,
-    "first_name": "Maria Elizabeth",
-    "last_name": "Esquivel Rodriguez",
-    "rating": 7.5517,
-    "num_ratings": 29
+    "professor_id": 33621,
+    "first_name": "Alicia",
+    "last_name": "Pineda Ramirez",
+    "rating": 7.8641,
+    "num_ratings": 103
   },
   {
     "code": "1121",
     "group": "11",
-    "professor": "MARCO ANTONIO GOMEZ RAMIREZ",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          1,
-          3,
-          5
-        ],
-        "classroom": "I204"
-      }
-    ],
-    "professor_id": 67964,
-    "first_name": "Marco Antonio",
-    "last_name": "Gómez Ramírez",
-    "rating": 5.9615,
-    "num_ratings": 26
-  },
-  {
-    "code": "1121",
-    "group": "12",
-    "professor": "JOSÉ RAFAEL GONZÁLEZ MARTÍNEZ",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          1,
-          3,
-          5
-        ],
-        "classroom": "I201"
-      }
-    ]
-  },
-  {
-    "code": "1121",
-    "group": "13",
     "professor": "ADRIANA SANTIAGO SOBREVILLA",
     "schedules": [
       {
-        "time": "09:00-11:00",
+        "time": "13:00-15:00",
         "days": [
           1,
           3,
           5
         ],
-        "classroom": "I106"
+        "classroom": "48"
       }
     ],
     "professor_id": 183965,
@@ -264,17 +211,57 @@
   },
   {
     "code": "1121",
-    "group": "14",
-    "professor": "SILVIA JENNIFER AGUILAR DELGADO",
+    "group": "12",
+    "professor": "ESTEFANIA ABARCA RODRIGUEZ",
     "schedules": [
       {
-        "time": "09:00-11:00",
+        "time": "13:00-15:00",
         "days": [
           1,
           3,
           5
         ],
-        "classroom": "J106"
+        "classroom": "48"
+      }
+    ],
+    "professor_id": 183563,
+    "first_name": "ESTEFANIA",
+    "last_name": "ABARCA RODRIGUEZ",
+    "rating": 6.6667,
+    "num_ratings": 3
+  },
+  {
+    "code": "1121",
+    "group": "13",
+    "professor": "PABLO GARCIA Y COLOME",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          3
+        ],
+        "classroom": "48"
+      }
+    ],
+    "professor_id": 27999,
+    "first_name": "Pablo",
+    "last_name": "Garcia  y colome",
+    "rating": 6.0702,
+    "num_ratings": 114
+  },
+  {
+    "code": "1121",
+    "group": "14",
+    "professor": "SILVIA JENNIFER AGUILAR DELGADO",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          2,
+          3,
+          4
+        ],
+        "classroom": "48"
       }
     ],
     "professor_id": 68301,
@@ -286,289 +273,16 @@
   {
     "code": "1121",
     "group": "15",
-    "professor": "GILBERTO SEBASTIAN BARRERA",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          1,
-          3,
-          5
-        ],
-        "classroom": "J108"
-      }
-    ],
-    "professor_id": 111901,
-    "first_name": "Gilberto",
-    "last_name": "Sebastián Barrera",
-    "rating": 6.9091,
-    "num_ratings": 33
-  },
-  {
-    "code": "1121",
-    "group": "16",
-    "professor": "VICTOR MANUEL DURAN CAMPOS",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          1,
-          3,
-          5
-        ],
-        "classroom": "J207"
-      }
-    ],
-    "professor_id": 79462,
-    "first_name": "Víctor Manuel",
-    "last_name": "Durán Campos",
-    "rating": 6.7,
-    "num_ratings": 10
-  },
-  {
-    "code": "1121",
-    "group": "17",
-    "professor": "BERTHA LOPEZ NAJERA",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          2,
-          3,
-          4
-        ],
-        "classroom": "I102"
-      }
-    ],
-    "professor_id": 50095,
-    "first_name": "Bertha",
-    "last_name": "López Nájera",
-    "rating": 8.1304,
-    "num_ratings": 69
-  },
-  {
-    "code": "1121",
-    "group": "18",
-    "professor": "ROSALBA RODRIGUEZ CHAVEZ",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          2,
-          3,
-          4
-        ],
-        "classroom": "I301"
-      }
-    ],
-    "professor_id": 42052,
-    "first_name": "Rosalba",
-    "last_name": "Rodríguez Chávez",
-    "rating": 9.1461,
-    "num_ratings": 89
-  },
-  {
-    "code": "1121",
-    "group": "19",
-    "professor": "ANTONIO MIRALLES ESCOBAR",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          2,
-          3,
-          4
-        ],
-        "classroom": "I105"
-      }
-    ],
-    "professor_id": 61247,
-    "first_name": "ANTONIO",
-    "last_name": "MIRALLES ESCOBAR",
-    "rating": 8.0566,
-    "num_ratings": 106
-  },
-  {
-    "code": "1121",
-    "group": "20",
-    "professor": "LUIS HERNANDEZ MORENO",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          1,
-          3,
-          5
-        ],
-        "classroom": "I201"
-      }
-    ],
-    "professor_id": 78817,
-    "first_name": "Luis",
-    "last_name": "Hernandez Moreno",
-    "rating": 7.3889,
-    "num_ratings": 18
-  },
-  {
-    "code": "1121",
-    "group": "21",
-    "professor": "LUIS HUMBERTO SORIANO SANCHEZ",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          1,
-          3,
-          5
-        ],
-        "classroom": "I105"
-      }
-    ],
-    "professor_id": 25670,
-    "first_name": "Luis Humberto",
-    "last_name": "Soriano Sánchez",
-    "rating": 8.9368,
-    "num_ratings": 95
-  },
-  {
-    "code": "1121",
-    "group": "22",
-    "professor": "MARIA TERESA PEÑUÑURI SANTOYO",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          1,
-          3,
-          5
-        ],
-        "classroom": "I304"
-      }
-    ],
-    "professor_id": 46393,
-    "first_name": "Maria Teresa",
-    "last_name": "Peñuñuri Santoyo",
-    "rating": 7.5375,
-    "num_ratings": 80
-  },
-  {
-    "code": "1121",
-    "group": "23",
-    "professor": "GILBERTO SEBASTIAN BARRERA",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          1,
-          3,
-          5
-        ],
-        "classroom": "J103"
-      }
-    ],
-    "professor_id": 111901,
-    "first_name": "Gilberto",
-    "last_name": "Sebastián Barrera",
-    "rating": 6.9091,
-    "num_ratings": 33
-  },
-  {
-    "code": "1121",
-    "group": "24",
-    "professor": "ALICIA PINEDA RAMIREZ",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          1,
-          3,
-          5
-        ],
-        "classroom": "I305"
-      }
-    ],
-    "professor_id": 33621,
-    "first_name": "Alicia",
-    "last_name": "Pineda Ramirez",
-    "rating": 7.8641,
-    "num_ratings": 103
-  },
-  {
-    "code": "1121",
-    "group": "25",
-    "professor": "IRLIB BELEN BLANCAS RIOS",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          2,
-          3,
-          4
-        ],
-        "classroom": "I302"
-      }
-    ],
-    "professor_id": 60655,
-    "first_name": "Irlib Belén",
-    "last_name": "Blancas Ríos",
-    "rating": 8.7209,
-    "num_ratings": 43
-  },
-  {
-    "code": "1121",
-    "group": "26",
-    "professor": "HECTOR HERNANDEZ LOPEZ",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          2,
-          3,
-          4
-        ],
-        "classroom": "I204"
-      }
-    ],
-    "professor_id": 63724,
-    "first_name": "HECTOR",
-    "last_name": "HERNANDEZ LOPEZ",
-    "rating": 6.81,
-    "num_ratings": 164
-  },
-  {
-    "code": "1121",
-    "group": "27",
-    "professor": "ESTEFANIA ABARCA RODRIGUEZ",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          1,
-          3,
-          5
-        ],
-        "classroom": "I101"
-      }
-    ],
-    "professor_id": 183563,
-    "first_name": "ESTEFANIA",
-    "last_name": "ABARCA RODRIGUEZ",
-    "rating": 6.6667,
-    "num_ratings": 3
-  },
-  {
-    "code": "1121",
-    "group": "28",
     "professor": "ADRIANA SANTIAGO SOBREVILLA",
     "schedules": [
       {
-        "time": "13:00-15:00",
+        "time": "15:00-17:00",
         "days": [
           1,
           3,
           5
         ],
-        "classroom": "I303"
+        "classroom": "48"
       }
     ],
     "professor_id": 183965,
@@ -579,149 +293,7 @@
   },
   {
     "code": "1121",
-    "group": "29",
-    "professor": "MARIA ANAYELI RAMIREZ RAMIREZ",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          1,
-          3,
-          5
-        ],
-        "classroom": "I105"
-      }
-    ],
-    "professor_id": 133917,
-    "first_name": "Anayeli",
-    "last_name": "Ramirez Ramirez",
-    "rating": 7.5,
-    "num_ratings": 24
-  },
-  {
-    "code": "1121",
-    "group": "30",
-    "professor": "LETICIA HERNANDEZ SANCHEZ",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          1,
-          3,
-          5
-        ],
-        "classroom": "I202"
-      }
-    ],
-    "professor_id": 83884,
-    "first_name": "Leticia",
-    "last_name": "Hernández Sánchez",
-    "rating": 8.6349,
-    "num_ratings": 63
-  },
-  {
-    "code": "1121",
-    "group": "31",
-    "professor": "ALAIN MORALES MARTINEZ",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          1,
-          3,
-          5
-        ],
-        "classroom": "J103"
-      }
-    ]
-  },
-  {
-    "code": "1121",
-    "group": "32",
-    "professor": "JAIME ALFONSO REYES CORTES",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          1,
-          3,
-          5
-        ],
-        "classroom": "I302"
-      }
-    ],
-    "professor_id": 93529,
-    "first_name": "Alfonso",
-    "last_name": "Reyes",
-    "rating": 7.0667,
-    "num_ratings": 15
-  },
-  {
-    "code": "1121",
-    "group": "33",
-    "professor": "MARIA ANAYELI RAMIREZ RAMIREZ",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          2,
-          3,
-          4
-        ],
-        "classroom": "I105"
-      }
-    ],
-    "professor_id": 133917,
-    "first_name": "Anayeli",
-    "last_name": "Ramirez Ramirez",
-    "rating": 7.5,
-    "num_ratings": 24
-  },
-  {
-    "code": "1121",
-    "group": "34",
-    "professor": "ABRAHAM CORTES OCHOA",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          2,
-          3,
-          4
-        ],
-        "classroom": "I102"
-      }
-    ],
-    "professor_id": 149609,
-    "first_name": "Abraham",
-    "last_name": "Cortes Ochoa",
-    "rating": 7.47,
-    "num_ratings": 32
-  },
-  {
-    "code": "1121",
-    "group": "35",
-    "professor": "VERONICA HIKRA GARCIA CASANOVA",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          2,
-          3,
-          4
-        ],
-        "classroom": "J104"
-      }
-    ],
-    "professor_id": 46460,
-    "first_name": "Veronica Hikra",
-    "last_name": "Garcia Casanova",
-    "rating": 5.1304,
-    "num_ratings": 46
-  },
-  {
-    "code": "1121",
-    "group": "36",
+    "group": "16",
     "professor": "REGINA ANAID MARTINEZ LOBATO",
     "schedules": [
       {
@@ -731,7 +303,7 @@
           3,
           4
         ],
-        "classroom": "I204"
+        "classroom": "48"
       }
     ],
     "professor_id": 118726,
@@ -742,28 +314,7 @@
   },
   {
     "code": "1121",
-    "group": "37",
-    "professor": "JAVIER GOMEZ MENDEZ",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          2,
-          3,
-          4
-        ],
-        "classroom": "I203"
-      }
-    ],
-    "professor_id": 81587,
-    "first_name": "Javier",
-    "last_name": "Gómez Méndez",
-    "rating": 8.04,
-    "num_ratings": 85
-  },
-  {
-    "code": "1121",
-    "group": "38",
+    "group": "17",
     "professor": "VERONICA GONZALEZ PACHECO",
     "schedules": [
       {
@@ -773,7 +324,7 @@
           3,
           5
         ],
-        "classroom": "I206"
+        "classroom": "48"
       }
     ],
     "professor_id": 95169,
@@ -784,8 +335,8 @@
   },
   {
     "code": "1121",
-    "group": "39",
-    "professor": "SERGIO CARLOS CRAIL CORZAS",
+    "group": "18",
+    "professor": "LUIS ANTONIO PEREZ PEREZ",
     "schedules": [
       {
         "time": "17:00-19:00",
@@ -794,109 +345,19 @@
           3,
           5
         ],
-        "classroom": "I103"
+        "classroom": "48"
       }
     ],
-    "professor_id": 22932,
-    "first_name": "SERGIO CARLOS",
-    "last_name": "CRAIL CORZAS",
-    "rating": 8.1237,
-    "num_ratings": 97
+    "professor_id": 114209,
+    "first_name": "Luis Antonio",
+    "last_name": "Pérez Pérez",
+    "rating": 8.2927,
+    "num_ratings": 41
   },
   {
     "code": "1121",
-    "group": "40",
-    "professor": "PEDRO RAMIREZ MANNY",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          1,
-          3,
-          5
-        ],
-        "classroom": "I202"
-      }
-    ],
-    "professor_id": 21252,
-    "first_name": "Pedro",
-    "last_name": "Ramirez Manny",
-    "rating": 8.1233,
-    "num_ratings": 146
-  },
-  {
-    "code": "1121",
-    "group": "41",
-    "professor": "DAVID IVAN MORALES HUERTA",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          1,
-          3,
-          5
-        ],
-        "classroom": "I105"
-      }
-    ],
-    "professor_id": 181249,
-    "first_name": "David Ivan",
-    "last_name": "Morales Huerta",
-    "rating": 9.3077,
-    "num_ratings": 13
-  },
-  {
-    "code": "1121",
-    "group": "42",
-    "professor": "LUIS REYNALDO MOTA SANTIAGO",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          1,
-          3,
-          5
-        ],
-        "classroom": "I106"
-      }
-    ],
-    "professor_id": 90663,
-    "first_name": "Luis Reynaldo",
-    "last_name": "Santiago Mota",
-    "rating": 6.0,
-    "num_ratings": 17
-  },
-  {
-    "code": "1121",
-    "group": "43",
-    "professor": "SERGIO ROBERTO ARZAMENDI PEREZ",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          1,
-          5
-        ],
-        "classroom": "I101"
-      },
-      {
-        "time": "17:00-19:00",
-        "days": [
-          3
-        ],
-        "classroom": "I204"
-      }
-    ],
-    "professor_id": 46394,
-    "first_name": "Sergio Roberto",
-    "last_name": "Arzamendi Perez",
-    "rating": 8.14,
-    "num_ratings": 36
-  },
-  {
-    "code": "1121",
-    "group": "44",
-    "professor": "DIEGO ALBERTO ZAVALA GALICIA",
+    "group": "19",
+    "professor": "VERONICA HIKRA GARCIA CASANOVA",
     "schedules": [
       {
         "time": "17:00-19:00",
@@ -905,49 +366,28 @@
           3,
           4
         ],
-        "classroom": "I201"
+        "classroom": "48"
       }
     ],
-    "professor_id": 66464,
-    "first_name": "Diego Alberto",
-    "last_name": "Zavala Galicia",
-    "rating": 8.1915,
-    "num_ratings": 94
+    "professor_id": 46460,
+    "first_name": "Veronica Hikra",
+    "last_name": "Garcia Casanova",
+    "rating": 5.1304,
+    "num_ratings": 46
   },
   {
     "code": "1121",
-    "group": "45",
-    "professor": "JUANA ITZEL HERNANDEZ PEÑA",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          2,
-          3,
-          4
-        ],
-        "classroom": "I104"
-      }
-    ],
-    "professor_id": 161375,
-    "first_name": "Juana Itzel",
-    "last_name": "Hernández Peña",
-    "rating": 9.6719,
-    "num_ratings": 64
-  },
-  {
-    "code": "1121",
-    "group": "46",
+    "group": "20",
     "professor": "VICTOR HUGO PIÑA RAMIREZ",
     "schedules": [
       {
-        "time": "17:00-19:00",
+        "time": "19:00-21:00",
         "days": [
-          2,
+          1,
           3,
-          4
+          5
         ],
-        "classroom": "I101"
+        "classroom": "48"
       }
     ],
     "professor_id": 36531,
@@ -958,123 +398,7 @@
   },
   {
     "code": "1121",
-    "group": "47",
-    "professor": "GERARDO MEDINA LADRÓN DE GUEVARA",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          2,
-          3,
-          4
-        ],
-        "classroom": "I303"
-      }
-    ]
-  },
-  {
-    "code": "1121",
-    "group": "48",
-    "professor": "RUBEN HERNANDEZ BUSTAMANTE",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          1,
-          3,
-          5
-        ],
-        "classroom": "I101"
-      }
-    ],
-    "professor_id": 106849,
-    "first_name": "Rubén",
-    "last_name": "Hernández Bustamante",
-    "rating": 9.791,
-    "num_ratings": 67
-  },
-  {
-    "code": "1121",
-    "group": "49",
-    "professor": "NOE  ANDRES ANAYA BADILLO",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          1,
-          3,
-          5
-        ],
-        "classroom": "J110"
-      }
-    ],
-    "professor_id": 124388,
-    "first_name": "Noé Andrés",
-    "last_name": "Anaya Badillo",
-    "rating": 9.08,
-    "num_ratings": 60
-  },
-  {
-    "code": "1121",
-    "group": "50",
-    "professor": "MARIA GUADALUPE ORTEGA BARBOSA",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          1,
-          3,
-          5
-        ],
-        "classroom": "I103"
-      }
-    ],
-    "professor_id": 68082,
-    "first_name": "Maria Guadalupe",
-    "last_name": "Ortega Barbosa",
-    "rating": 8.4091,
-    "num_ratings": 22
-  },
-  {
-    "code": "1121",
-    "group": "51",
-    "professor": "VICTOR HUGO PIÑA RAMIREZ",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          2,
-          3,
-          4
-        ],
-        "classroom": "I106"
-      }
-    ],
-    "professor_id": 36531,
-    "first_name": "Victor Hugo",
-    "last_name": "Piña Ramirez",
-    "rating": 8.3939,
-    "num_ratings": 132
-  },
-  {
-    "code": "1121",
-    "group": "52",
-    "professor": "GERARDO MEDINA LADRÓN DE GUEVARA",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          2,
-          3,
-          4
-        ],
-        "classroom": "J102"
-      }
-    ]
-  },
-  {
-    "code": "1121",
-    "group": "53",
+    "group": "21",
     "professor": "ARTURO CAMACHO TRUJILLO",
     "schedules": [
       {
@@ -1084,7 +408,7 @@
           3,
           4
         ],
-        "classroom": "I205"
+        "classroom": "48"
       }
     ],
     "professor_id": 74045,
@@ -1092,63 +416,5 @@
     "last_name": "Camacho Trujillo",
     "rating": 4.44,
     "num_ratings": 39
-  },
-  {
-    "code": "1121",
-    "group": "54",
-    "professor": "JUANA ITZEL HERNANDEZ PEÑA",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          2,
-          3,
-          4
-        ],
-        "classroom": "I203"
-      }
-    ],
-    "professor_id": 161375,
-    "first_name": "Juana Itzel",
-    "last_name": "Hernández Peña",
-    "rating": 9.6719,
-    "num_ratings": 64
-  },
-  {
-    "code": "1121",
-    "group": "55",
-    "professor": "LUIS REYNALDO MOTA SANTIAGO",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          1,
-          3,
-          5
-        ],
-        "classroom": "I205"
-      }
-    ],
-    "professor_id": 90663,
-    "first_name": "Luis Reynaldo",
-    "last_name": "Santiago Mota",
-    "rating": 6.0,
-    "num_ratings": 17
-  },
-  {
-    "code": "1121",
-    "group": "56",
-    "professor": "HIPÓLITO LORENZO MORALES RODRIGUEZ",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          2,
-          3,
-          4
-        ],
-        "classroom": "J105"
-      }
-    ]
   }
 ]

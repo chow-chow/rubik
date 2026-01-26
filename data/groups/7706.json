@@ -2,20 +2,20 @@
   {
     "code": "7706",
     "group": "1",
-    "professor": "IRVING RENDON SALGADO",
+    "professor": "ERNESTO RAMIREZ CRUZ",
     "schedules": [
       {
         "time": "07:00-09:00",
         "days": [
-          1
+          4
         ],
-        "classroom": "Q315"
+        "classroom": "8"
       }
     ],
-    "professor_id": 135656,
-    "first_name": "IRVING",
-    "last_name": "RENDON SALGADO",
-    "rating": 10.0,
-    "num_ratings": 3
+    "professor_id": 130840,
+    "first_name": "Ernesto",
+    "last_name": "Ramírez Cruz",
+    "rating": 9.8182,
+    "num_ratings": 22
   }
 ]

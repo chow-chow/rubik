@@ -496,18 +496,18 @@
     "code": "2400",
     "name": "MATERIALES I",
     "credits": 10,
-    "has_lab": false,
-    "lab": null
+    "has_lab": true,
+    "lab": {
+      "code": "7400",
+      "name": "LABORATORIO DE MATERIALES I"
+    }
   },
   {
     "code": "2500",
     "name": "MATERIALES II",
     "credits": 10,
-    "has_lab": true,
-    "lab": {
-      "code": "7500",
-      "name": "LAB MATERIALES II"
-    }
+    "has_lab": false,
+    "lab": null
   },
   {
     "code": "2501",

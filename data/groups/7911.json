@@ -9,7 +9,7 @@
         "days": [
           1
         ],
-        "classroom": "P113"
+        "classroom": "12"
       }
     ],
     "professor_id": 115270,
@@ -21,28 +21,28 @@
   {
     "code": "7911",
     "group": "2",
-    "professor": "AGUSTIN SANCHEZ CONTRERAS",
+    "professor": "EDUARDO PEREZ CAMACHO",
     "schedules": [
       {
-        "time": "09:00-11:00",
+        "time": "17:00-19:00",
         "days": [
           2
         ],
-        "classroom": "P113"
+        "classroom": "12"
       }
     ]
   },
   {
     "code": "7911",
     "group": "3",
-    "professor": "EDUARDO PEREZ CAMACHO",
+    "professor": "AGUSTIN SANCHEZ CONTRERAS",
     "schedules": [
       {
-        "time": "19:00-21:00",
+        "time": "09:00-11:00",
         "days": [
-          2
+          5
         ],
-        "classroom": "P113"
+        "classroom": "12"
       }
     ]
   }

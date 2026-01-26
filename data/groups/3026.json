@@ -2,6 +2,26 @@
   {
     "code": "3026",
     "group": "1",
+    "professor": "DANIEL FRANCESCO ARIZCORRETA GUADARRAMA",
+    "schedules": [
+      {
+        "time": "19:00-20:30",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "30"
+      }
+    ],
+    "professor_id": 190761,
+    "first_name": "Daniel Francesco",
+    "last_name": "Arizcorreta Guadarrama",
+    "rating": 9.0,
+    "num_ratings": 2
+  },
+  {
+    "code": "3026",
+    "group": "2",
     "professor": "EDMUNDO SANCHEZ RAMIREZ",
     "schedules": [
       {
@@ -9,7 +29,7 @@
         "days": [
           6
         ],
-        "classroom": "SIN"
+        "classroom": "30"
       }
     ]
   }

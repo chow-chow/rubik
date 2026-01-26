@@ -2,34 +2,67 @@
   {
     "code": "1245",
     "group": "1",
-    "professor": "BARBARA BERMUDEZ REYES",
+    "professor": "BARBARA BERMUDEZ REYESVer Nota 1",
     "schedules": [
       {
-        "time": "17:00-19:00",
+        "time": "15:00-17:00",
         "days": [
           3
         ],
-        "classroom": "EXTR"
+        "classroom": "30"
       }
     ]
   },
   {
     "code": "1245",
     "group": "2",
-    "professor": "Grupo cancelado, contactar a la División.",
+    "professor": "DAVID ISRAEL POSADAS NAVARRO",
     "schedules": [
       {
-        "time": "11:00-13:00",
+        "time": "09:00-11:00",
         "days": [
           5
         ],
-        "classroom": "A210"
+        "classroom": "30"
+      }
+    ],
+    "professor_id": 96627,
+    "first_name": "David Israel",
+    "last_name": "Posadas Navarro",
+    "rating": 9.6,
+    "num_ratings": 10
+  },
+  {
+    "code": "1245",
+    "group": "3",
+    "professor": "JAVIER CORTES BENIGNOVer Nota 1",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1
+        ],
+        "classroom": "30"
       }
     ]
   },
   {
     "code": "1245",
-    "group": "3",
+    "group": "4",
+    "professor": "JAVIER CORTES BENIGNOVer Nota 1",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          3
+        ],
+        "classroom": "30"
+      }
+    ]
+  },
+  {
+    "code": "1245",
+    "group": "5",
     "professor": "CESAR ABRAHAM LUNA ESTRADAVer Nota 2",
     "schedules": [
       {
@@ -37,7 +70,21 @@
         "days": [
           5
         ],
-        "classroom": "A401"
+        "classroom": "20"
+      }
+    ]
+  },
+  {
+    "code": "1245",
+    "group": "6",
+    "professor": "VIVALDO MUÑOZ GONZALEZVer Nota 1",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2
+        ],
+        "classroom": "30"
       }
     ]
   }

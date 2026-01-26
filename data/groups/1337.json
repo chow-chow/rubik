@@ -2,15 +2,35 @@
   {
     "code": "1337",
     "group": "1",
-    "professor": "AMPARO BAÑUELOS DURAN",
+    "professor": "ALEJANDRO MORALES TREJO",
     "schedules": [
       {
-        "time": "09:00-11:00",
+        "time": "13:00-15:00",
         "days": [
           2,
           4
         ],
-        "classroom": "Y102"
+        "classroom": "35"
+      }
+    ],
+    "professor_id": 36975,
+    "first_name": "Alejandro",
+    "last_name": "Morales Trejo",
+    "rating": 8.6207,
+    "num_ratings": 58
+  },
+  {
+    "code": "1337",
+    "group": "2",
+    "professor": "AMPARO BAÑUELOS DURAN",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "35"
       }
     ],
     "professor_id": 84651,
@@ -18,45 +38,5 @@
     "last_name": "Bañuelos Duran",
     "rating": 6.7895,
     "num_ratings": 19
-  },
-  {
-    "code": "1337",
-    "group": "2",
-    "professor": "DIANA SORIANO FERNANDEZ",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          3,
-          5
-        ],
-        "classroom": "I104"
-      }
-    ],
-    "professor_id": 162444,
-    "first_name": "Diana",
-    "last_name": "Soriano Fernández",
-    "rating": 7.4286,
-    "num_ratings": 14
-  },
-  {
-    "code": "1337",
-    "group": "3",
-    "professor": "DIANA SORIANO FERNANDEZ",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "J103"
-      }
-    ],
-    "professor_id": 162444,
-    "first_name": "Diana",
-    "last_name": "Soriano Fernández",
-    "rating": 7.4286,
-    "num_ratings": 14
   }
 ]

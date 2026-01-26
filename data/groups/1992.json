@@ -9,7 +9,7 @@
         "days": [
           2
         ],
-        "classroom": "B406"
+        "classroom": "20"
       }
     ]
   },
@@ -21,9 +21,9 @@
       {
         "time": "07:00-09:00",
         "days": [
-          1
+          2
         ],
-        "classroom": "C401"
+        "classroom": "20"
       }
     ]
   },
@@ -37,7 +37,7 @@
         "days": [
           4
         ],
-        "classroom": "B406"
+        "classroom": "20"
       }
     ]
   },
@@ -51,7 +51,7 @@
         "days": [
           4
         ],
-        "classroom": "A205"
+        "classroom": "20"
       }
     ],
     "professor_id": 68400,

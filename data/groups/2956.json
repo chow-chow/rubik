@@ -10,7 +10,7 @@
           1,
           3
         ],
-        "classroom": "D004"
+        "classroom": "25"
       }
     ],
     "professor_id": 113608,
@@ -30,7 +30,7 @@
           2,
           4
         ],
-        "classroom": "T102"
+        "classroom": "10"
       }
     ]
   },
@@ -45,7 +45,7 @@
           2,
           4
         ],
-        "classroom": "T102"
+        "classroom": "10"
       }
     ],
     "professor_id": 113612,
@@ -56,15 +56,16 @@
   },
   {
     "code": "2956",
-    "group": "4",
-    "professor": "KEVIN AXEL ROMERO HERNANDEZ",
+    "group": "5",
+    "professor": "JIMENA OLVERES MONTIEL",
     "schedules": [
       {
-        "time": "09:00-12:00",
+        "time": "09:30-11:00",
         "days": [
-          6
+          1,
+          3
         ],
-        "classroom": "B306"
+        "classroom": "10"
       }
     ]
   }

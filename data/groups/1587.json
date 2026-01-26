@@ -2,6 +2,21 @@
   {
     "code": "1587",
     "group": "1",
+    "professor": "ELENA CENTENO GARCIA",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "26"
+      }
+    ]
+  },
+  {
+    "code": "1587",
+    "group": "2",
     "professor": "ENRIQUE ALEJANDRO GONZALEZ TORRES",
     "schedules": [
       {
@@ -10,7 +25,7 @@
           2,
           4
         ],
-        "classroom": "C401"
+        "classroom": "26"
       }
     ],
     "professor_id": 90867,
@@ -21,17 +36,22 @@
   },
   {
     "code": "1587",
-    "group": "2",
-    "professor": "ELENA CENTENO GARCIA",
+    "group": "3",
+    "professor": "ENRIQUE ALEJANDRO GONZALEZ TORRES",
     "schedules": [
       {
-        "time": "15:00-17:00",
+        "time": "18:00-20:00",
         "days": [
           2,
           4
         ],
-        "classroom": "C404"
+        "classroom": "26"
       }
-    ]
+    ],
+    "professor_id": 90867,
+    "first_name": "Enrique Alejandro",
+    "last_name": "González Torres",
+    "rating": 9.4375,
+    "num_ratings": 16
   }
 ]

@@ -9,7 +9,7 @@
         "days": [
           1
         ],
-        "classroom": "O001"
+        "classroom": "12"
       }
     ],
     "professor_id": 71882,
@@ -28,7 +28,7 @@
         "days": [
           3
         ],
-        "classroom": "O001"
+        "classroom": "12"
       }
     ]
   },
@@ -42,7 +42,7 @@
         "days": [
           6
         ],
-        "classroom": "O001"
+        "classroom": "12"
       }
     ],
     "professor_id": 152491,
@@ -61,7 +61,7 @@
         "days": [
           1
         ],
-        "classroom": "O001"
+        "classroom": "12"
       }
     ],
     "professor_id": 71882,
@@ -80,7 +80,7 @@
         "days": [
           2
         ],
-        "classroom": "O001"
+        "classroom": "12"
       }
     ]
   },
@@ -94,7 +94,7 @@
         "days": [
           3
         ],
-        "classroom": "O001"
+        "classroom": "12"
       }
     ],
     "professor_id": 151773,
@@ -113,7 +113,7 @@
         "days": [
           4
         ],
-        "classroom": "O001"
+        "classroom": "12"
       }
     ],
     "professor_id": 141917,
@@ -132,7 +132,7 @@
         "days": [
           5
         ],
-        "classroom": "O001"
+        "classroom": "12"
       }
     ],
     "professor_id": 141917,
@@ -151,7 +151,7 @@
         "days": [
           1
         ],
-        "classroom": "O001"
+        "classroom": "12"
       }
     ],
     "professor_id": 66628,
@@ -170,7 +170,7 @@
         "days": [
           2
         ],
-        "classroom": "O001"
+        "classroom": "12"
       }
     ],
     "professor_id": 102330,
@@ -189,7 +189,7 @@
         "days": [
           3
         ],
-        "classroom": "O001"
+        "classroom": "12"
       }
     ],
     "professor_id": 101528,
@@ -208,7 +208,7 @@
         "days": [
           4
         ],
-        "classroom": "O001"
+        "classroom": "12"
       }
     ]
   },
@@ -222,7 +222,7 @@
         "days": [
           5
         ],
-        "classroom": "O001"
+        "classroom": "12"
       }
     ],
     "professor_id": 109955,
@@ -241,7 +241,7 @@
         "days": [
           1
         ],
-        "classroom": "O001"
+        "classroom": "12"
       }
     ],
     "professor_id": 151773,
@@ -260,7 +260,7 @@
         "days": [
           2
         ],
-        "classroom": "O001"
+        "classroom": "12"
       }
     ],
     "professor_id": 109955,
@@ -279,7 +279,7 @@
         "days": [
           3
         ],
-        "classroom": "O001"
+        "classroom": "12"
       }
     ],
     "professor_id": 66628,
@@ -298,7 +298,7 @@
         "days": [
           4
         ],
-        "classroom": "O001"
+        "classroom": "12"
       }
     ],
     "professor_id": 66628,
@@ -310,25 +310,6 @@
   {
     "code": "6570",
     "group": "18",
-    "professor": "ISRAEL GARDUÑO GARCIA",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          5
-        ],
-        "classroom": "O001"
-      }
-    ],
-    "professor_id": 102330,
-    "first_name": "Israel",
-    "last_name": "Garduño Garcia",
-    "rating": 7.6667,
-    "num_ratings": 12
-  },
-  {
-    "code": "6570",
-    "group": "19",
     "professor": "ADRIAN MANCILLA VELASCO",
     "schedules": [
       {
@@ -336,7 +317,7 @@
         "days": [
           1
         ],
-        "classroom": "O001"
+        "classroom": "12"
       }
     ],
     "professor_id": 109955,
@@ -347,15 +328,29 @@
   },
   {
     "code": "6570",
-    "group": "20",
-    "professor": "ADRIAN MANCILLA VELASCO",
+    "group": "19",
+    "professor": "HUGO ZAMORA RUIZ",
     "schedules": [
       {
         "time": "15:00-17:00",
         "days": [
           2
         ],
-        "classroom": "O001"
+        "classroom": "12"
+      }
+    ]
+  },
+  {
+    "code": "6570",
+    "group": "20",
+    "professor": "ADRIAN MANCILLA VELASCO",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          3
+        ],
+        "classroom": "12"
       }
     ],
     "professor_id": 109955,
@@ -367,33 +362,14 @@
   {
     "code": "6570",
     "group": "21",
-    "professor": "ADRIAN MANCILLA VELASCO",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          3
-        ],
-        "classroom": "O001"
-      }
-    ],
-    "professor_id": 109955,
-    "first_name": "ADRIAN",
-    "last_name": "Mancilla Velasco",
-    "rating": 9.9091,
-    "num_ratings": 11
-  },
-  {
-    "code": "6570",
-    "group": "22",
     "professor": "JESUS RAFAEL GONZALEZ PARRA",
     "schedules": [
       {
-        "time": "15:00-17:00",
+        "time": "17:00-19:00",
         "days": [
           4
         ],
-        "classroom": "O001"
+        "classroom": "12"
       }
     ],
     "professor_id": 149718,
@@ -404,26 +380,7 @@
   },
   {
     "code": "6570",
-    "group": "23",
-    "professor": "ISRAEL GARDUÑO GARCIA",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          5
-        ],
-        "classroom": "O001"
-      }
-    ],
-    "professor_id": 102330,
-    "first_name": "Israel",
-    "last_name": "Garduño Garcia",
-    "rating": 7.6667,
-    "num_ratings": 12
-  },
-  {
-    "code": "6570",
-    "group": "24",
+    "group": "22",
     "professor": "MARTIN REYES FARIAS",
     "schedules": [
       {
@@ -431,7 +388,7 @@
         "days": [
           1
         ],
-        "classroom": "O001"
+        "classroom": "12"
       }
     ],
     "professor_id": 51610,
@@ -442,7 +399,7 @@
   },
   {
     "code": "6570",
-    "group": "25",
+    "group": "23",
     "professor": "MARTIN REYES FARIAS",
     "schedules": [
       {
@@ -450,7 +407,7 @@
         "days": [
           3
         ],
-        "classroom": "O001"
+        "classroom": "12"
       }
     ],
     "professor_id": 51610,
@@ -461,15 +418,15 @@
   },
   {
     "code": "6570",
-    "group": "26",
+    "group": "24",
     "professor": "JESUS FRUTIS GODINEZ",
     "schedules": [
       {
         "time": "19:00-21:00",
         "days": [
-          4
+          2
         ],
-        "classroom": "O001"
+        "classroom": "12"
       }
     ],
     "professor_id": 74595,
@@ -480,15 +437,15 @@
   },
   {
     "code": "6570",
-    "group": "27",
+    "group": "25",
     "professor": "JESUS FRUTIS GODINEZ",
     "schedules": [
       {
         "time": "19:00-21:00",
         "days": [
-          2
+          4
         ],
-        "classroom": "O001"
+        "classroom": "12"
       }
     ],
     "professor_id": 74595,

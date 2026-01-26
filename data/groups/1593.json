@@ -2,25 +2,6 @@
   {
     "code": "1593",
     "group": "1",
-    "professor": "ANA MARIA SALCEDO GARRIDO",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          2
-        ],
-        "classroom": "Y202"
-      }
-    ],
-    "professor_id": 95309,
-    "first_name": "Ana María",
-    "last_name": "Salcedo Garrido",
-    "rating": 6.55,
-    "num_ratings": 20
-  },
-  {
-    "code": "1593",
-    "group": "2",
     "professor": "SONIA KARINA PEREZ JUAREZ",
     "schedules": [
       {
@@ -28,7 +9,7 @@
         "days": [
           2
         ],
-        "classroom": "J208"
+        "classroom": "25"
       }
     ],
     "professor_id": 59342,
@@ -36,6 +17,25 @@
     "last_name": "Pérez Juárez",
     "rating": 5.8947,
     "num_ratings": 38
+  },
+  {
+    "code": "1593",
+    "group": "2",
+    "professor": "HAZEL EDITH BOND YAÑEZ",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1
+        ],
+        "classroom": "48"
+      }
+    ],
+    "professor_id": 172666,
+    "first_name": "HAZEL EDITH",
+    "last_name": "BOND YAÑEZ",
+    "rating": 8.0,
+    "num_ratings": 4
   },
   {
     "code": "1593",
@@ -47,7 +47,7 @@
         "days": [
           4
         ],
-        "classroom": "J108"
+        "classroom": "25"
       }
     ],
     "professor_id": 59342,
@@ -55,24 +55,5 @@
     "last_name": "Pérez Juárez",
     "rating": 5.8947,
     "num_ratings": 38
-  },
-  {
-    "code": "1593",
-    "group": "4",
-    "professor": "HAZEL EDITH BOND YAÑEZ",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          5
-        ],
-        "classroom": "J205"
-      }
-    ],
-    "professor_id": 172666,
-    "first_name": "HAZEL EDITH",
-    "last_name": "BOND YAÑEZ",
-    "rating": 8.0,
-    "num_ratings": 4
   }
 ]

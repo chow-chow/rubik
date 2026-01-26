@@ -2,7 +2,7 @@
   {
     "code": "1935",
     "group": "1",
-    "professor": "CARLOS MANUEL MENENDEZ MARTINEZ",
+    "professor": "VICENTE QUEZADA BELTRAN",
     "schedules": [
       {
         "time": "07:00-08:30",
@@ -11,14 +11,19 @@
           3,
           5
         ],
-        "classroom": "A203"
+        "classroom": "30"
       }
-    ]
+    ],
+    "professor_id": 146710,
+    "first_name": "VICENTE",
+    "last_name": "QUEZADA BELTRAN",
+    "rating": 5.0,
+    "num_ratings": 2
   },
   {
     "code": "1935",
     "group": "2",
-    "professor": "CARLOS MANUEL MENENDEZ MARTINEZ",
+    "professor": "DULCE MARIA CISNEROS PERALTA",
     "schedules": [
       {
         "time": "08:30-10:00",
@@ -27,45 +32,13 @@
           3,
           5
         ],
-        "classroom": "A203"
+        "classroom": "30"
       }
     ]
   },
   {
     "code": "1935",
     "group": "3",
-    "professor": "ENRIQUE CONTRERAS LIRA",
-    "schedules": [
-      {
-        "time": "10:00-11:30",
-        "days": [
-          1,
-          3,
-          5
-        ],
-        "classroom": "Y205"
-      }
-    ]
-  },
-  {
-    "code": "1935",
-    "group": "4",
-    "professor": "DULCE MARIA CISNEROS PERALTA",
-    "schedules": [
-      {
-        "time": "11:30-13:00",
-        "days": [
-          1,
-          3,
-          5
-        ],
-        "classroom": "A211"
-      }
-    ]
-  },
-  {
-    "code": "1935",
-    "group": "5",
     "professor": "LUIS ANTONIO GARCIA VILLANUEVA",
     "schedules": [
       {
@@ -75,7 +48,7 @@
           3,
           5
         ],
-        "classroom": "A203"
+        "classroom": "30"
       }
     ],
     "professor_id": 79610,
@@ -86,23 +59,23 @@
   },
   {
     "code": "1935",
-    "group": "6",
-    "professor": "VICENTE QUEZADA BELTRAN",
+    "group": "4",
+    "professor": "ALEJANDRA MEDINA AREVALO",
     "schedules": [
       {
-        "time": "19:00-20:30",
+        "time": "16:00-17:30",
         "days": [
           1,
           3,
           5
         ],
-        "classroom": "S005"
+        "classroom": "30"
       }
     ],
-    "professor_id": 146710,
-    "first_name": "VICENTE",
-    "last_name": "QUEZADA BELTRAN",
-    "rating": 5.0,
-    "num_ratings": 2
+    "professor_id": 108907,
+    "first_name": "M. I. Alejandra",
+    "last_name": "Medina Arévalo",
+    "rating": 7.2,
+    "num_ratings": 5
   }
 ]

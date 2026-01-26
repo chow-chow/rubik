@@ -5,12 +5,12 @@
     "professor": "BRAYAN HOMERO RAMIREZ CONTRERAS",
     "schedules": [
       {
-        "time": "07:00-09:00",
+        "time": "13:00-15:00",
         "days": [
-          3,
-          5
+          2,
+          4
         ],
-        "classroom": "EXTR"
+        "classroom": "10"
       }
     ]
   },
@@ -25,7 +25,7 @@
           2,
           4
         ],
-        "classroom": "X101"
+        "classroom": "10"
       }
     ]
   }

@@ -404,11 +404,8 @@
     "code": "2710",
     "name": "EVALUACION DE LA CALIDAD DEL AIRE",
     "credits": 8,
-    "has_lab": true,
-    "lab": {
-      "code": "7710",
-      "name": "LABORATORIO DE EVALUACION DE LA CALIDAD DEL AIRE"
-    }
+    "has_lab": false,
+    "lab": null
   },
   {
     "code": "2711",

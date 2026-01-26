@@ -1,0 +1,172 @@
+[
+  {
+    "code": "2400",
+    "group": "1",
+    "professor": "CARLOS GABRIEL FIGUEROA ALCANTARA",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "30"
+      }
+    ],
+    "professor_id": 79845,
+    "first_name": "Carlos Gabriel",
+    "last_name": "Figueroa Alcántara",
+    "rating": 7.6842,
+    "num_ratings": 19
+  },
+  {
+    "code": "2400",
+    "group": "2",
+    "professor": "ARTEMISA MAZON MARTINEZ",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "30"
+      }
+    ]
+  },
+  {
+    "code": "2400",
+    "group": "3",
+    "professor": "RAFAEL SCHOUWENAARS",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "30"
+      }
+    ],
+    "professor_id": 79048,
+    "first_name": "Rafael",
+    "last_name": "Schouwenaars Franssens",
+    "rating": 7.5714,
+    "num_ratings": 14
+  },
+  {
+    "code": "2400",
+    "group": "4",
+    "professor": "JORGE LUIS FLORES ALARCON",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "30"
+      }
+    ],
+    "professor_id": 190156,
+    "first_name": "Jorge Luis",
+    "last_name": "Flores Alarcón",
+    "rating": 7.5,
+    "num_ratings": 2
+  },
+  {
+    "code": "2400",
+    "group": "5",
+    "professor": "SANDRA MARCELA ROJAS MONTOYA",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "30"
+      }
+    ],
+    "professor_id": 162118,
+    "first_name": "Sandra Marcela",
+    "last_name": "Rojas Montoya",
+    "rating": 8.3333,
+    "num_ratings": 6
+  },
+  {
+    "code": "2400",
+    "group": "6",
+    "professor": "JESUS RAFAEL GONZALEZ PARRA",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "30"
+      }
+    ],
+    "professor_id": 149718,
+    "first_name": "JESUS RAFAEL",
+    "last_name": "GONZALEZ PARRA",
+    "rating": 6.1667,
+    "num_ratings": 12
+  },
+  {
+    "code": "2400",
+    "group": "7",
+    "professor": "JULIO CESAR GONZALEZ SANCHEZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "30"
+      }
+    ]
+  },
+  {
+    "code": "2400",
+    "group": "8",
+    "professor": "TATIANA LILIA AVALOS RENDON",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "30"
+      }
+    ],
+    "professor_id": 112892,
+    "first_name": "Tatiana Lilia",
+    "last_name": "Ávalos Rendón",
+    "rating": 7.1875,
+    "num_ratings": 16
+  },
+  {
+    "code": "2400",
+    "group": "9",
+    "professor": "MIGUEL ANGEL HERNANDEZ GALLEGOS",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "38"
+      }
+    ],
+    "professor_id": 71869,
+    "first_name": "Miguel Ángel",
+    "last_name": "Hernández Gallegos",
+    "rating": 6.3333,
+    "num_ratings": 6
+  }
+]

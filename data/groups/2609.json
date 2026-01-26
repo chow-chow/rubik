@@ -9,28 +9,21 @@
         "days": [
           5
         ],
-        "classroom": "A404"
-      },
-      {
-        "time": "17:30-19:30",
-        "days": [
-          4
-        ],
-        "classroom": "EXTR"
+        "classroom": "25"
       }
     ]
   },
   {
     "code": "2609",
     "group": "2",
-    "professor": "Grupo cancelado, contactar a la División.",
+    "professor": "MARIA JOSE SOLER PEREZ DE SALAZAR",
     "schedules": [
       {
-        "time": "10:00-13:00",
+        "time": "16:30-19:30",
         "days": [
           5
         ],
-        "classroom": "SIN"
+        "classroom": "20"
       }
     ]
   }

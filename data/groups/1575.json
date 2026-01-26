@@ -2,41 +2,36 @@
   {
     "code": "1575",
     "group": "1",
-    "professor": "JOSE LUIS ARCOS HERNANDEZ",
+    "professor": "GILBERTO SILVA ROMO",
     "schedules": [
       {
-        "time": "14:00-16:00",
+        "time": "10:00-12:00",
         "days": [
           1,
           3
         ],
-        "classroom": "C203"
+        "classroom": "12"
       }
     ],
-    "professor_id": 23452,
-    "first_name": "José Luis",
-    "last_name": "Arcos Hernández",
-    "rating": 7.45,
-    "num_ratings": 40
+    "professor_id": 78441,
+    "first_name": "Gilberto",
+    "last_name": "Silva Romo",
+    "rating": 7.8421,
+    "num_ratings": 19
   },
   {
     "code": "1575",
     "group": "2",
-    "professor": "FERNANDO ROSIQUE NARANJO",
+    "professor": "CLAUDIA CRISTINA MENDOZA ROSALES",
     "schedules": [
       {
-        "time": "12:00-14:00",
+        "time": "16:00-18:00",
         "days": [
           1,
           3
         ],
-        "classroom": "C203"
+        "classroom": "12"
       }
-    ],
-    "professor_id": 89992,
-    "first_name": "Fernando",
-    "last_name": "Rosique Naranjo",
-    "rating": 6.25,
-    "num_ratings": 8
+    ]
   }
 ]

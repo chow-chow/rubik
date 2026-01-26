@@ -2,20 +2,15 @@
   {
     "code": "8002",
     "group": "1",
-    "professor": "DOMINGO TEODORO MENDOZA ROSALES",
+    "professor": "MANUEL ALBERTO SORIANO AVILA",
     "schedules": [
       {
         "time": "11:00-13:00",
         "days": [
-          4
+          2
         ],
-        "classroom": "Q107"
+        "classroom": "10"
       }
-    ],
-    "professor_id": 71346,
-    "first_name": "Domingo Teodoro",
-    "last_name": "Mendoza Rosales",
-    "rating": 6.9565,
-    "num_ratings": 69
+    ]
   }
 ]

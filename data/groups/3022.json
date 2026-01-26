@@ -7,16 +7,9 @@
       {
         "time": "09:00-11:00",
         "days": [
-          1
-        ],
-        "classroom": "B201"
-      },
-      {
-        "time": "09:00-11:00",
-        "days": [
           5
         ],
-        "classroom": "B105"
+        "classroom": "28"
       }
     ],
     "professor_id": 104858,
@@ -36,7 +29,7 @@
           1,
           3
         ],
-        "classroom": "C403"
+        "classroom": "30"
       }
     ],
     "professor_id": 104858,
@@ -56,7 +49,7 @@
           1,
           3
         ],
-        "classroom": "B303"
+        "classroom": "35"
       }
     ],
     "professor_id": 101548,
@@ -76,7 +69,7 @@
           3,
           5
         ],
-        "classroom": "A311"
+        "classroom": "35"
       }
     ],
     "professor_id": 108909,
@@ -96,7 +89,7 @@
           2,
           4
         ],
-        "classroom": "D001"
+        "classroom": "35"
       }
     ],
     "professor_id": 105118,
@@ -116,7 +109,7 @@
           1,
           3
         ],
-        "classroom": "D001"
+        "classroom": "30"
       }
     ]
   }

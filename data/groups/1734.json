@@ -1,26 +1,6 @@
 [
   {
     "code": "1734",
-    "group": "1",
-    "professor": "ALEJANDRO CASTILLO MONTALVO",
-    "schedules": [
-      {
-        "time": "20:00-22:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "B105"
-      }
-    ],
-    "professor_id": 60629,
-    "first_name": "Alejandro",
-    "last_name": "Castillo Montalvo",
-    "rating": 4.3333,
-    "num_ratings": 12
-  },
-  {
-    "code": "1734",
     "group": "2",
     "professor": "HECTOR SANCHEZ SANCHEZ",
     "schedules": [
@@ -30,7 +10,7 @@
           1,
           3
         ],
-        "classroom": "D002"
+        "classroom": "38"
       }
     ],
     "professor_id": 109063,
@@ -42,22 +22,22 @@
   {
     "code": "1734",
     "group": "3",
-    "professor": "ALEJANDRO GONZALEZ ELIZONDO",
+    "professor": "WULFRANO GOMEZ GALLARDO",
     "schedules": [
       {
-        "time": "11:00-13:00",
+        "time": "09:00-11:00",
         "days": [
           1,
           3
         ],
-        "classroom": "O101"
+        "classroom": "38"
       }
     ],
-    "professor_id": 133199,
-    "first_name": "Alejandro",
-    "last_name": "Gonzalez Elizondo",
-    "rating": 7.7647,
-    "num_ratings": 17
+    "professor_id": 84733,
+    "first_name": "Wulfrano",
+    "last_name": "Gomez Gallardo",
+    "rating": 6.1667,
+    "num_ratings": 12
   },
   {
     "code": "1734",
@@ -70,7 +50,7 @@
           2,
           4
         ],
-        "classroom": "B104"
+        "classroom": "38"
       }
     ],
     "professor_id": 172962,
@@ -90,7 +70,7 @@
           2,
           4
         ],
-        "classroom": "D003"
+        "classroom": "38"
       }
     ],
     "professor_id": 101230,
@@ -110,7 +90,7 @@
           1,
           3
         ],
-        "classroom": "B302"
+        "classroom": "38"
       }
     ]
   },
@@ -125,7 +105,7 @@
           1,
           3
         ],
-        "classroom": "B303"
+        "classroom": "38"
       }
     ],
     "professor_id": 83264,
@@ -145,7 +125,7 @@
           2,
           4
         ],
-        "classroom": "B105"
+        "classroom": "35"
       }
     ],
     "professor_id": 60629,
@@ -160,12 +140,12 @@
     "professor": "KALID PAOLA ABURTO MORENO",
     "schedules": [
       {
-        "time": "15:00-17:00",
+        "time": "07:00-09:00",
         "days": [
-          1,
-          5
+          2,
+          4
         ],
-        "classroom": "A109"
+        "classroom": "35"
       }
     ]
   },
@@ -180,7 +160,7 @@
           2,
           4
         ],
-        "classroom": "D001"
+        "classroom": "38"
       }
     ],
     "professor_id": 83264,

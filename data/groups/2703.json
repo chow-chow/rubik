@@ -5,12 +5,12 @@
     "professor": "JOSE DE JESUS HUEZO CASILLAS",
     "schedules": [
       {
-        "time": "09:00-11:00",
+        "time": "13:00-15:00",
         "days": [
           2,
           4
         ],
-        "classroom": "C105"
+        "classroom": "10"
       }
     ],
     "professor_id": 90940,

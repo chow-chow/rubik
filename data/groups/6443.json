@@ -9,7 +9,7 @@
         "days": [
           1
         ],
-        "classroom": "P109"
+        "classroom": "14"
       }
     ],
     "professor_id": 161143,
@@ -28,7 +28,7 @@
         "days": [
           1
         ],
-        "classroom": "P109"
+        "classroom": "14"
       }
     ]
   },
@@ -42,7 +42,7 @@
         "days": [
           1
         ],
-        "classroom": "P109"
+        "classroom": "14"
       }
     ]
   },
@@ -56,7 +56,7 @@
         "days": [
           1
         ],
-        "classroom": "P109"
+        "classroom": "14"
       }
     ],
     "professor_id": 161143,
@@ -64,6 +64,25 @@
     "last_name": "Salcedo Ubilla",
     "rating": 8.75,
     "num_ratings": 4
+  },
+  {
+    "code": "6443",
+    "group": "5",
+    "professor": "JESUS YAÑEZ GUTIERREZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2
+        ],
+        "classroom": "14"
+      }
+    ],
+    "professor_id": 156041,
+    "first_name": "Jesús",
+    "last_name": "Yañez Gutiérrez",
+    "rating": 9.3333,
+    "num_ratings": 3
   },
   {
     "code": "6443",
@@ -75,7 +94,7 @@
         "days": [
           2
         ],
-        "classroom": "P109"
+        "classroom": "14"
       }
     ],
     "professor_id": 112610,
@@ -87,25 +106,6 @@
   {
     "code": "6443",
     "group": "7",
-    "professor": "JESUS YAÑEZ GUTIERREZ",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          2
-        ],
-        "classroom": "P109"
-      }
-    ],
-    "professor_id": 156041,
-    "first_name": "Jesús",
-    "last_name": "Yañez Gutiérrez",
-    "rating": 9.3333,
-    "num_ratings": 3
-  },
-  {
-    "code": "6443",
-    "group": "8",
     "professor": "ALBERTO RAMIRO GARIBAY MARTINEZ",
     "schedules": [
       {
@@ -113,7 +113,7 @@
         "days": [
           2
         ],
-        "classroom": "P114"
+        "classroom": "14"
       }
     ],
     "professor_id": 109182,
@@ -124,7 +124,7 @@
   },
   {
     "code": "6443",
-    "group": "9",
+    "group": "8",
     "professor": "MIREYA OSORIO PALACIOS",
     "schedules": [
       {
@@ -132,13 +132,13 @@
         "days": [
           3
         ],
-        "classroom": "P109"
+        "classroom": "14"
       }
     ]
   },
   {
     "code": "6443",
-    "group": "10",
+    "group": "9",
     "professor": "MARIA LEONOR SALCEDO UBILLA",
     "schedules": [
       {
@@ -146,7 +146,7 @@
         "days": [
           3
         ],
-        "classroom": "P109"
+        "classroom": "14"
       }
     ],
     "professor_id": 161143,
@@ -157,7 +157,7 @@
   },
   {
     "code": "6443",
-    "group": "11",
+    "group": "10",
     "professor": "LAURO FERNANDO VAZQUEZ ALBERTO",
     "schedules": [
       {
@@ -165,7 +165,7 @@
         "days": [
           3
         ],
-        "classroom": "P109"
+        "classroom": "14"
       }
     ],
     "professor_id": 124067,
@@ -176,7 +176,7 @@
   },
   {
     "code": "6443",
-    "group": "12",
+    "group": "11",
     "professor": "MARIA LEONOR SALCEDO UBILLA",
     "schedules": [
       {
@@ -184,7 +184,7 @@
         "days": [
           4
         ],
-        "classroom": "P109"
+        "classroom": "14"
       }
     ],
     "professor_id": 161143,
@@ -195,7 +195,7 @@
   },
   {
     "code": "6443",
-    "group": "13",
+    "group": "12",
     "professor": "LAURO FERNANDO VAZQUEZ ALBERTO",
     "schedules": [
       {
@@ -203,7 +203,7 @@
         "days": [
           4
         ],
-        "classroom": "P109"
+        "classroom": "14"
       }
     ],
     "professor_id": 124067,
@@ -214,7 +214,7 @@
   },
   {
     "code": "6443",
-    "group": "15",
+    "group": "13",
     "professor": "ISRAEL RIVERA CONTRERAS",
     "schedules": [
       {
@@ -222,13 +222,13 @@
         "days": [
           4
         ],
-        "classroom": "P109"
+        "classroom": "14"
       }
     ]
   },
   {
     "code": "6443",
-    "group": "16",
+    "group": "14",
     "professor": "JOSE ALBERTO ARELLANO FIGUEROA",
     "schedules": [
       {
@@ -236,7 +236,7 @@
         "days": [
           5
         ],
-        "classroom": "P109"
+        "classroom": "14"
       }
     ],
     "professor_id": 87572,
@@ -247,7 +247,7 @@
   },
   {
     "code": "6443",
-    "group": "17",
+    "group": "15",
     "professor": "MICHAEL JOSSUE ROJAS GARCIA",
     "schedules": [
       {
@@ -255,7 +255,7 @@
         "days": [
           5
         ],
-        "classroom": "P109"
+        "classroom": "14"
       }
     ],
     "professor_id": 124068,
@@ -266,7 +266,7 @@
   },
   {
     "code": "6443",
-    "group": "18",
+    "group": "16",
     "professor": "MICHAEL JOSSUE ROJAS GARCIA",
     "schedules": [
       {
@@ -274,7 +274,7 @@
         "days": [
           5
         ],
-        "classroom": "P109"
+        "classroom": "14"
       }
     ],
     "professor_id": 124068,
@@ -285,7 +285,7 @@
   },
   {
     "code": "6443",
-    "group": "19",
+    "group": "17",
     "professor": "VALENTINA FABIENNE RUIZ VILLALBA",
     "schedules": [
       {
@@ -293,7 +293,7 @@
         "days": [
           5
         ],
-        "classroom": "P109"
+        "classroom": "14"
       }
     ]
   }

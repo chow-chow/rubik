@@ -5,12 +5,12 @@
     "professor": "FRANCISCO JAVIER MARTINEZ RODRIGUEZ",
     "schedules": [
       {
-        "time": "07:00-09:00",
+        "time": "09:00-11:00",
         "days": [
           2,
           4
         ],
-        "classroom": "B204"
+        "classroom": "32"
       }
     ],
     "professor_id": 99064,
@@ -30,7 +30,7 @@
           2,
           4
         ],
-        "classroom": "DS01"
+        "classroom": "32"
       }
     ],
     "professor_id": 60950,
@@ -50,7 +50,7 @@
           2,
           4
         ],
-        "classroom": "Y001"
+        "classroom": "32"
       }
     ],
     "professor_id": 114293,
@@ -70,7 +70,7 @@
           3,
           5
         ],
-        "classroom": "Y001"
+        "classroom": "32"
       }
     ],
     "professor_id": 78508,

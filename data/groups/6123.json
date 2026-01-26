@@ -2,61 +2,42 @@
   {
     "code": "6123",
     "group": "1",
-    "professor": "ROXANA ISELA NORIEGA NAVARRO",
+    "professor": "MONSERRAT AGUILAR PICHARDO",
     "schedules": [
       {
-        "time": "07:00-09:00",
+        "time": "15:00-17:00",
         "days": [
           1
         ],
-        "classroom": "H003"
+        "classroom": "20"
       }
     ]
   },
   {
     "code": "6123",
     "group": "2",
-    "professor": "GUILLERMO PEREZ QUINTERO",
+    "professor": "ROXANA ISELA NORIEGA NAVARRO",
     "schedules": [
       {
-        "time": "07:00-09:00",
+        "time": "17:00-19:00",
         "days": [
           1
         ],
-        "classroom": "H004"
-      }
-    ],
-    "professor_id": 98612,
-    "first_name": "Guillermo",
-    "last_name": "Pérez Quintero",
-    "rating": 8.6563,
-    "num_ratings": 32
-  },
-  {
-    "code": "6123",
-    "group": "3",
-    "professor": "GIOVANNI ALDANA GUTIERREZ",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          1
-        ],
-        "classroom": "H003"
+        "classroom": "20"
       }
     ]
   },
   {
     "code": "6123",
-    "group": "4",
+    "group": "3",
     "professor": "GEORGINA NIETO CASTAÑEDA",
     "schedules": [
       {
         "time": "09:00-11:00",
         "days": [
-          1
+          2
         ],
-        "classroom": "H004"
+        "classroom": "20"
       }
     ],
     "professor_id": 142352,
@@ -67,190 +48,7 @@
   },
   {
     "code": "6123",
-    "group": "5",
-    "professor": "VIOLETA ALVAREZ VENICIO",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          1
-        ],
-        "classroom": "H003"
-      }
-    ]
-  },
-  {
-    "code": "6123",
-    "group": "6",
-    "professor": "KARINA HERRERA GUZMAN",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          1
-        ],
-        "classroom": "H004"
-      }
-    ]
-  },
-  {
-    "code": "6123",
-    "group": "7",
-    "professor": "FABIOLA VEGA GARCIA",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          1
-        ],
-        "classroom": "H004"
-      }
-    ]
-  },
-  {
-    "code": "6123",
-    "group": "8",
-    "professor": "EDGAR HÉCTOR GUZMÁN CASTELLÓN",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          1
-        ],
-        "classroom": "H003"
-      }
-    ]
-  },
-  {
-    "code": "6123",
-    "group": "9",
-    "professor": "MARIA DEL PILAR CARREON CASTRO",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          1
-        ],
-        "classroom": "H003"
-      }
-    ]
-  },
-  {
-    "code": "6123",
-    "group": "10",
-    "professor": "ADRIANA RAMIREZ GONZALEZ",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          1
-        ],
-        "classroom": "H004"
-      }
-    ],
-    "professor_id": 56526,
-    "first_name": "Adriana",
-    "last_name": "Ramirez Gonzalez",
-    "rating": 7.7,
-    "num_ratings": 20
-  },
-  {
-    "code": "6123",
-    "group": "11",
-    "professor": "ROXANA ISELA NORIEGA NAVARRO",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          1
-        ],
-        "classroom": "H003"
-      }
-    ]
-  },
-  {
-    "code": "6123",
-    "group": "12",
-    "professor": "ITZEL EDALIZ PEREZ CABALLERO",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          1
-        ],
-        "classroom": "H004"
-      }
-    ]
-  },
-  {
-    "code": "6123",
-    "group": "13",
-    "professor": "MARÍA FERNANDA HEIMPEL COVARRUBIAS",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          2
-        ],
-        "classroom": "H003"
-      }
-    ]
-  },
-  {
-    "code": "6123",
-    "group": "14",
-    "professor": "GUILLERMO PEREZ QUINTERO",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          2
-        ],
-        "classroom": "H004"
-      }
-    ],
-    "professor_id": 98612,
-    "first_name": "Guillermo",
-    "last_name": "Pérez Quintero",
-    "rating": 8.6563,
-    "num_ratings": 32
-  },
-  {
-    "code": "6123",
-    "group": "15",
-    "professor": "ALBERTO SANDOVAL GARCIA",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          2
-        ],
-        "classroom": "H003"
-      }
-    ],
-    "professor_id": 102860,
-    "first_name": "Alberto",
-    "last_name": "Sandoval Garcia",
-    "rating": 8.5909,
-    "num_ratings": 22
-  },
-  {
-    "code": "6123",
-    "group": "16",
-    "professor": "EMMA MARTÍNEZ LUNA",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          2
-        ],
-        "classroom": "H004"
-      }
-    ]
-  },
-  {
-    "code": "6123",
-    "group": "17",
+    "group": "4",
     "professor": "LIOUDMILA FOMINA",
     "schedules": [
       {
@@ -258,7 +56,7 @@
         "days": [
           2
         ],
-        "classroom": "H003"
+        "classroom": "20"
       }
     ],
     "professor_id": 60337,
@@ -269,54 +67,21 @@
   },
   {
     "code": "6123",
-    "group": "18",
-    "professor": "GIOVANNI ALDANA GUTIERREZ",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          2
-        ],
-        "classroom": "H004"
-      }
-    ]
-  },
-  {
-    "code": "6123",
-    "group": "19",
-    "professor": "ROXANA ISELA NORIEGA NAVARRO",
+    "group": "5",
+    "professor": "FABIOLA VEGA GARCIA",
     "schedules": [
       {
         "time": "13:00-15:00",
         "days": [
           2
         ],
-        "classroom": "H003"
+        "classroom": "20"
       }
     ]
   },
   {
     "code": "6123",
-    "group": "20",
-    "professor": "MARIA DE JESUS MUÑOZ ESPINAL",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          2
-        ],
-        "classroom": "H004"
-      }
-    ],
-    "professor_id": 85360,
-    "first_name": "Maria de Jesus",
-    "last_name": "Muñoz Espinal",
-    "rating": 5.8182,
-    "num_ratings": 11
-  },
-  {
-    "code": "6123",
-    "group": "21",
+    "group": "6",
     "professor": "THALIA ITZEL FERRERA VELAZQUEZ",
     "schedules": [
       {
@@ -324,7 +89,7 @@
         "days": [
           2
         ],
-        "classroom": "H003"
+        "classroom": "20"
       }
     ],
     "professor_id": 84707,
@@ -335,187 +100,7 @@
   },
   {
     "code": "6123",
-    "group": "22",
-    "professor": "RAMIRO MARAVILLA GALVAN",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          2
-        ],
-        "classroom": "H004"
-      }
-    ],
-    "professor_id": 62749,
-    "first_name": "ramiro",
-    "last_name": "maravilla",
-    "rating": 3.4737,
-    "num_ratings": 19
-  },
-  {
-    "code": "6123",
-    "group": "23",
-    "professor": "MIGUEL ANGEL REYES BUSTAMANTE",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          2
-        ],
-        "classroom": "H003"
-      }
-    ],
-    "professor_id": 84626,
-    "first_name": "Miguel Ángel",
-    "last_name": "Reyes Bustamante",
-    "rating": 6.2143,
-    "num_ratings": 14
-  },
-  {
-    "code": "6123",
-    "group": "24",
-    "professor": "MONSERRAT AGUILAR PICHARDO",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          2
-        ],
-        "classroom": "H004"
-      }
-    ]
-  },
-  {
-    "code": "6123",
-    "group": "25",
-    "professor": "MIGUEL ALEJANDRO MALDONADO GORDILLO",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          2
-        ],
-        "classroom": "H004"
-      }
-    ],
-    "professor_id": 113918,
-    "first_name": "Miguel",
-    "last_name": "Maldonado",
-    "rating": 9.0,
-    "num_ratings": 4
-  },
-  {
-    "code": "6123",
-    "group": "26",
-    "professor": "MIGUEL ANGEL REYES BUSTAMANTE",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          2
-        ],
-        "classroom": "H003"
-      }
-    ],
-    "professor_id": 84626,
-    "first_name": "Miguel Ángel",
-    "last_name": "Reyes Bustamante",
-    "rating": 6.2143,
-    "num_ratings": 14
-  },
-  {
-    "code": "6123",
-    "group": "27",
-    "professor": "MAYRA LEON SANTIAGO",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          3
-        ],
-        "classroom": "H003"
-      }
-    ],
-    "professor_id": 176747,
-    "first_name": "Mayra",
-    "last_name": "León Santiago",
-    "rating": 9.25,
-    "num_ratings": 4
-  },
-  {
-    "code": "6123",
-    "group": "28",
-    "professor": "GUILLERMO PEREZ QUINTERO",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          3
-        ],
-        "classroom": "H004"
-      }
-    ],
-    "professor_id": 98612,
-    "first_name": "Guillermo",
-    "last_name": "Pérez Quintero",
-    "rating": 8.6563,
-    "num_ratings": 32
-  },
-  {
-    "code": "6123",
-    "group": "29",
-    "professor": "GEORGINA NIETO CASTAÑEDA",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          3
-        ],
-        "classroom": "H003"
-      }
-    ],
-    "professor_id": 142352,
-    "first_name": "Georgina",
-    "last_name": "Nieto Castañeda",
-    "rating": 7.0,
-    "num_ratings": 2
-  },
-  {
-    "code": "6123",
-    "group": "30",
-    "professor": "ANA LAURA PEREZ MARTINEZ",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          3
-        ],
-        "classroom": "H004"
-      }
-    ],
-    "professor_id": 51350,
-    "first_name": "Ana Laura",
-    "last_name": "Pérez Martínez",
-    "rating": 7.3143,
-    "num_ratings": 35
-  },
-  {
-    "code": "6123",
-    "group": "31",
-    "professor": "ARIANEE SAINZ VIDAL",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          3
-        ],
-        "classroom": "H003"
-      }
-    ]
-  },
-  {
-    "code": "6123",
-    "group": "32",
+    "group": "7",
     "professor": "MARIA DE JESUS MUÑOZ ESPINAL",
     "schedules": [
       {
@@ -523,7 +108,7 @@
         "days": [
           3
         ],
-        "classroom": "H004"
+        "classroom": "20"
       }
     ],
     "professor_id": 85360,
@@ -534,15 +119,34 @@
   },
   {
     "code": "6123",
-    "group": "33",
-    "professor": "CLAUDIA ELISA SANCHEZ NAVARRO",
+    "group": "8",
+    "professor": "MARIA DE JESUS MUÑOZ ESPINAL",
     "schedules": [
       {
         "time": "15:00-17:00",
         "days": [
           3
         ],
-        "classroom": "H003"
+        "classroom": "20"
+      }
+    ],
+    "professor_id": 85360,
+    "first_name": "Maria de Jesus",
+    "last_name": "Muñoz Espinal",
+    "rating": 5.8182,
+    "num_ratings": 11
+  },
+  {
+    "code": "6123",
+    "group": "9",
+    "professor": "CLAUDIA ELISA SANCHEZ NAVARRO",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          4
+        ],
+        "classroom": "20"
       }
     ],
     "professor_id": 68129,
@@ -553,78 +157,7 @@
   },
   {
     "code": "6123",
-    "group": "34",
-    "professor": "MARIA DE JESUS MUÑOZ ESPINAL",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          3
-        ],
-        "classroom": "H004"
-      }
-    ],
-    "professor_id": 85360,
-    "first_name": "Maria de Jesus",
-    "last_name": "Muñoz Espinal",
-    "rating": 5.8182,
-    "num_ratings": 11
-  },
-  {
-    "code": "6123",
-    "group": "35",
-    "professor": "EMMA MARTÍNEZ LUNA",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          4
-        ],
-        "classroom": "H004"
-      }
-    ]
-  },
-  {
-    "code": "6123",
-    "group": "36",
-    "professor": "GEORGINA NIETO CASTAÑEDA",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          4
-        ],
-        "classroom": "H003"
-      }
-    ],
-    "professor_id": 142352,
-    "first_name": "Georgina",
-    "last_name": "Nieto Castañeda",
-    "rating": 7.0,
-    "num_ratings": 2
-  },
-  {
-    "code": "6123",
-    "group": "37",
-    "professor": "MARIA DE JESUS MUÑOZ ESPINAL",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          4
-        ],
-        "classroom": "H003"
-      }
-    ],
-    "professor_id": 85360,
-    "first_name": "Maria de Jesus",
-    "last_name": "Muñoz Espinal",
-    "rating": 5.8182,
-    "num_ratings": 11
-  },
-  {
-    "code": "6123",
-    "group": "38",
+    "group": "10",
     "professor": "MARÍA FERNANDA HEIMPEL COVARRUBIAS",
     "schedules": [
       {
@@ -632,73 +165,21 @@
         "days": [
           4
         ],
-        "classroom": "H004"
+        "classroom": "20"
       }
     ]
   },
   {
     "code": "6123",
-    "group": "39",
-    "professor": "MIGUEL ANGEL REYES BUSTAMANTE",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          4
-        ],
-        "classroom": "H003"
-      }
-    ],
-    "professor_id": 84626,
-    "first_name": "Miguel Ángel",
-    "last_name": "Reyes Bustamante",
-    "rating": 6.2143,
-    "num_ratings": 14
-  },
-  {
-    "code": "6123",
-    "group": "40",
-    "professor": "RAMIRO MARAVILLA GALVAN",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          4
-        ],
-        "classroom": "H004"
-      }
-    ],
-    "professor_id": 62749,
-    "first_name": "ramiro",
-    "last_name": "maravilla",
-    "rating": 3.4737,
-    "num_ratings": 19
-  },
-  {
-    "code": "6123",
-    "group": "41",
-    "professor": "ROXANA ISELA NORIEGA NAVARRO",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          4
-        ],
-        "classroom": "H003"
-      }
-    ]
-  },
-  {
-    "code": "6123",
-    "group": "42",
+    "group": "11",
     "professor": "MIGUEL ALEJANDRO MALDONADO GORDILLO",
     "schedules": [
       {
-        "time": "19:00-21:00",
+        "time": "17:00-19:00",
         "days": [
           4
         ],
-        "classroom": "H004"
+        "classroom": "20"
       }
     ],
     "professor_id": 113918,
@@ -709,59 +190,40 @@
   },
   {
     "code": "6123",
-    "group": "43",
-    "professor": "MAYRA LEON SANTIAGO",
+    "group": "12",
+    "professor": "ANTONIA DEL CARMEN PEREZ LEON",
     "schedules": [
       {
         "time": "07:00-09:00",
         "days": [
           5
         ],
-        "classroom": "H004"
+        "classroom": "20"
       }
     ],
-    "professor_id": 176747,
-    "first_name": "Mayra",
-    "last_name": "León Santiago",
-    "rating": 9.25,
-    "num_ratings": 4
+    "professor_id": 58911,
+    "first_name": "Antonia del Carmen",
+    "last_name": "Perez Leon",
+    "rating": 9.4375,
+    "num_ratings": 48
   },
   {
     "code": "6123",
-    "group": "44",
-    "professor": "ARIANEE SAINZ VIDAL",
+    "group": "13",
+    "professor": "VIOLETA ALVAREZ VENICIO",
     "schedules": [
       {
-        "time": "07:00-09:00",
+        "time": "09:00-11:00",
         "days": [
           5
         ],
-        "classroom": "H003"
+        "classroom": "20"
       }
     ]
   },
   {
     "code": "6123",
-    "group": "45",
-    "professor": "LUIS PEÑA CRUZ",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          5
-        ],
-        "classroom": "H003"
-      }
-    ],
-    "professor_id": 128316,
-    "first_name": "Luis",
-    "last_name": "Peña Cruz",
-    "rating": 6.2727,
-    "num_ratings": 11
-  },
-  {
-    "code": "6123",
-    "group": "46",
+    "group": "14",
     "professor": "EMMA MARTÍNEZ LUNA",
     "schedules": [
       {
@@ -769,183 +231,27 @@
         "days": [
           5
         ],
-        "classroom": "H004"
+        "classroom": "20"
       }
     ]
   },
   {
     "code": "6123",
-    "group": "47",
-    "professor": "MIGUEL ANGEL REYES BUSTAMANTE",
+    "group": "15",
+    "professor": "GUILLERMO PEREZ QUINTERO",
     "schedules": [
       {
-        "time": "17:00-19:00",
+        "time": "13:00-15:00",
         "days": [
           5
         ],
-        "classroom": "H003"
+        "classroom": "20"
       }
     ],
-    "professor_id": 84626,
-    "first_name": "Miguel Ángel",
-    "last_name": "Reyes Bustamante",
-    "rating": 6.2143,
-    "num_ratings": 14
-  },
-  {
-    "code": "6123",
-    "group": "48",
-    "professor": "MONSERRAT AGUILAR PICHARDO",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          5
-        ],
-        "classroom": "H004"
-      }
-    ]
-  },
-  {
-    "code": "6123",
-    "group": "49",
-    "professor": "MIGUEL ALEJANDRO MALDONADO GORDILLO",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          5
-        ],
-        "classroom": "H004"
-      }
-    ],
-    "professor_id": 113918,
-    "first_name": "Miguel",
-    "last_name": "Maldonado",
-    "rating": 9.0,
-    "num_ratings": 4
-  },
-  {
-    "code": "6123",
-    "group": "50",
-    "professor": "LUIS EDGARDO VIGUERAS RUEDA",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          5
-        ],
-        "classroom": "H003"
-      }
-    ]
-  },
-  {
-    "code": "6123",
-    "group": "51",
-    "professor": "MIGUEL ANGEL REYES BUSTAMANTE",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          6
-        ],
-        "classroom": "H003"
-      }
-    ],
-    "professor_id": 84626,
-    "first_name": "Miguel Ángel",
-    "last_name": "Reyes Bustamante",
-    "rating": 6.2143,
-    "num_ratings": 14
-  },
-  {
-    "code": "6123",
-    "group": "52",
-    "professor": "EMMA MARTÍNEZ LUNA",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          6
-        ],
-        "classroom": "H004"
-      }
-    ]
-  },
-  {
-    "code": "6123",
-    "group": "53",
-    "professor": "GLORIA ANGELICA CRUZ GOMEZ",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          6
-        ],
-        "classroom": "H003"
-      }
-    ],
-    "professor_id": 127816,
-    "first_name": "Angélica",
-    "last_name": "Cruz Gómez",
-    "rating": 3.9,
-    "num_ratings": 10
-  },
-  {
-    "code": "6123",
-    "group": "54",
-    "professor": "GEORGINA NIETO CASTAÑEDA",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          6
-        ],
-        "classroom": "H004"
-      }
-    ],
-    "professor_id": 142352,
-    "first_name": "Georgina",
-    "last_name": "Nieto Castañeda",
-    "rating": 7.0,
-    "num_ratings": 2
-  },
-  {
-    "code": "6123",
-    "group": "55",
-    "professor": "GLORIA ANGELICA CRUZ GOMEZ",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          6
-        ],
-        "classroom": "H003"
-      }
-    ],
-    "professor_id": 127816,
-    "first_name": "Angélica",
-    "last_name": "Cruz Gómez",
-    "rating": 3.9,
-    "num_ratings": 10
-  },
-  {
-    "code": "6123",
-    "group": "56",
-    "professor": "LUIS PEÑA CRUZ",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          6
-        ],
-        "classroom": "H004"
-      }
-    ],
-    "professor_id": 128316,
-    "first_name": "Luis",
-    "last_name": "Peña Cruz",
-    "rating": 6.2727,
-    "num_ratings": 11
+    "professor_id": 98612,
+    "first_name": "Guillermo",
+    "last_name": "Pérez Quintero",
+    "rating": 8.6563,
+    "num_ratings": 32
   }
 ]

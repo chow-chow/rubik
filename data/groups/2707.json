@@ -10,14 +10,14 @@
           2,
           4
         ],
-        "classroom": "A402"
+        "classroom": "15"
       }
     ]
   },
   {
     "code": "2707",
     "group": "2",
-    "professor": "JUAN PABLO AGUIRRE DIAZ",
+    "professor": "MANUEL DE JESUS AGUILAR VELAZQUEZ",
     "schedules": [
       {
         "time": "09:00-11:00",
@@ -25,13 +25,8 @@
           2,
           4
         ],
-        "classroom": "A402"
+        "classroom": "15"
       }
-    ],
-    "professor_id": 124070,
-    "first_name": "Juan Pablo",
-    "last_name": "Aguirre Díaz",
-    "rating": 9.5556,
-    "num_ratings": 9
+    ]
   }
 ]

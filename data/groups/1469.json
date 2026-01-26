@@ -10,7 +10,7 @@
           2,
           4
         ],
-        "classroom": "B304"
+        "classroom": "7"
       }
     ],
     "professor_id": 99010,
@@ -18,5 +18,20 @@
     "last_name": "Ibarra Carrillo",
     "rating": 8.2222,
     "num_ratings": 9
+  },
+  {
+    "code": "1469",
+    "group": "2",
+    "professor": "ROILHI FRAJO IBARRA HERNANDEZ",
+    "schedules": [
+      {
+        "time": "09:00-10:30",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "7"
+      }
+    ]
   }
 ]

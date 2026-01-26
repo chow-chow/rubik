@@ -10,14 +10,21 @@
           2,
           4
         ],
-        "classroom": "S005"
-      },
+        "classroom": "15"
+      }
+    ]
+  },
+  {
+    "code": "2611",
+    "group": "3",
+    "professor": "Grupo cancelado, contactar a la División.",
+    "schedules": [
       {
-        "time": "16:00-18:00",
+        "time": "10:00-12:00",
         "days": [
           2
         ],
-        "classroom": "EXTR"
+        "classroom": "15"
       }
     ]
   }

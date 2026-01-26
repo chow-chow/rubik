@@ -2,7 +2,7 @@
   {
     "code": "1445",
     "group": "1",
-    "professor": "AMPARO BAÑUELOS DURAN",
+    "professor": "ELIA INES LUNA CEBALLOS",
     "schedules": [
       {
         "time": "07:00-09:00",
@@ -10,7 +10,47 @@
           2,
           4
         ],
-        "classroom": "Y202"
+        "classroom": "35"
+      }
+    ],
+    "professor_id": 84849,
+    "first_name": "Elia Inés",
+    "last_name": "Luna Ceballos",
+    "rating": 8.4875,
+    "num_ratings": 80
+  },
+  {
+    "code": "1445",
+    "group": "2",
+    "professor": "MIRIAM ESTELA LEMUS",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "35"
+      }
+    ],
+    "professor_id": 76408,
+    "first_name": "ESTELA",
+    "last_name": "LEMUS MIRIAM",
+    "rating": 6.0,
+    "num_ratings": 2
+  },
+  {
+    "code": "1445",
+    "group": "3",
+    "professor": "AMPARO BAÑUELOS DURAN",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "35"
       }
     ],
     "professor_id": 84651,
@@ -21,48 +61,23 @@
   },
   {
     "code": "1445",
-    "group": "2",
-    "professor": "BERTHA ISABEL VEGA GALICIA",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          1,
-          5
-        ],
-        "classroom": "J203"
-      }
-    ],
-    "professor_id": 84414,
-    "first_name": "Bertha Isabel",
-    "last_name": "Vega Galicia",
-    "rating": 8.8298,
-    "num_ratings": 47
-  },
-  {
-    "code": "1445",
-    "group": "3",
-    "professor": "ISABEL PATRICIA AGUILAR JUAREZ",
+    "group": "4",
+    "professor": "ALEJANDRA VARGAS ESPINOZA DE LOS MONTEROS",
     "schedules": [
       {
         "time": "11:00-13:00",
         "days": [
-          1,
-          3
+          2,
+          4
         ],
-        "classroom": "J205"
+        "classroom": "35"
       }
-    ],
-    "professor_id": 66375,
-    "first_name": "Isabel Patricia",
-    "last_name": "Aguilar Juarez",
-    "rating": 8.2069,
-    "num_ratings": 29
+    ]
   },
   {
     "code": "1445",
-    "group": "4",
-    "professor": "ANN GODELIEVE WELLENS",
+    "group": "5",
+    "professor": "DIANA SORIANO FERNANDEZ",
     "schedules": [
       {
         "time": "13:00-15:00",
@@ -70,13 +85,73 @@
           2,
           4
         ],
-        "classroom": "I202"
+        "classroom": "42"
       }
     ],
-    "professor_id": 45295,
-    "first_name": "Ann",
-    "last_name": "Wellens",
-    "rating": 6.5882,
-    "num_ratings": 17
+    "professor_id": 162444,
+    "first_name": "Diana",
+    "last_name": "Soriano Fernández",
+    "rating": 7.4286,
+    "num_ratings": 14
+  },
+  {
+    "code": "1445",
+    "group": "6",
+    "professor": "ARMANDO MOISES PEREZ SILVA",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "35"
+      }
+    ],
+    "professor_id": 133428,
+    "first_name": "Armando Moisés",
+    "last_name": "Pérez Silva",
+    "rating": 9.5556,
+    "num_ratings": 9
+  },
+  {
+    "code": "1445",
+    "group": "7",
+    "professor": "SANDRA ALVARADO LOPEZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "42"
+      }
+    ],
+    "professor_id": 100430,
+    "first_name": "Sandra",
+    "last_name": "Alvarado Lopez",
+    "rating": 8.0,
+    "num_ratings": 5
+  },
+  {
+    "code": "1445",
+    "group": "8",
+    "professor": "DIANA SORIANO FERNANDEZ",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "42"
+      }
+    ],
+    "professor_id": 162444,
+    "first_name": "Diana",
+    "last_name": "Soriano Fernández",
+    "rating": 7.4286,
+    "num_ratings": 14
   }
 ]

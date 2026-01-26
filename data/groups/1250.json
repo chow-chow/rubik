@@ -2,14 +2,29 @@
   {
     "code": "1250",
     "group": "1",
-    "professor": "JOSE DE JESUS AVILA MANRIQUE",
+    "professor": "JOSE DE JESUS AVILA MANRIQUEVer Nota 1",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "20"
+      }
+    ]
+  },
+  {
+    "code": "1250",
+    "group": "2",
+    "professor": "JOSE DE JESUS AVILA MANRIQUEVer Nota 1",
     "schedules": [
       {
         "time": "08:00-12:00",
         "days": [
           6
         ],
-        "classroom": "EXTR"
+        "classroom": "20"
       }
     ]
   }

@@ -9,7 +9,7 @@
         "days": [
           1
         ],
-        "classroom": "N005"
+        "classroom": "5"
       }
     ],
     "professor_id": 71864,
@@ -28,7 +28,7 @@
         "days": [
           1
         ],
-        "classroom": "N005"
+        "classroom": "5"
       }
     ]
   },
@@ -42,7 +42,7 @@
         "days": [
           1
         ],
-        "classroom": "N005"
+        "classroom": "5"
       }
     ]
   },
@@ -56,7 +56,7 @@
         "days": [
           1
         ],
-        "classroom": "N005"
+        "classroom": "5"
       }
     ],
     "professor_id": 98730,
@@ -75,7 +75,7 @@
         "days": [
           1
         ],
-        "classroom": "N005"
+        "classroom": "5"
       }
     ],
     "professor_id": 79858,
@@ -94,7 +94,7 @@
         "days": [
           1
         ],
-        "classroom": "N005"
+        "classroom": "5"
       }
     ]
   },
@@ -108,7 +108,7 @@
         "days": [
           2
         ],
-        "classroom": "N005"
+        "classroom": "5"
       }
     ],
     "professor_id": 159597,
@@ -127,7 +127,7 @@
         "days": [
           2
         ],
-        "classroom": "N005"
+        "classroom": "5"
       }
     ]
   },
@@ -141,7 +141,7 @@
         "days": [
           2
         ],
-        "classroom": "N005"
+        "classroom": "5"
       }
     ]
   },
@@ -155,7 +155,7 @@
         "days": [
           2
         ],
-        "classroom": "N005"
+        "classroom": "5"
       }
     ],
     "professor_id": 154270,
@@ -167,20 +167,6 @@
   {
     "code": "6756",
     "group": "11",
-    "professor": "LUIS ARTURO NAVARRO BAENA",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          3
-        ],
-        "classroom": "N005"
-      }
-    ]
-  },
-  {
-    "code": "6756",
-    "group": "12",
     "professor": "DANIEL ESQUIVEL VELAZQUEZ",
     "schedules": [
       {
@@ -188,27 +174,27 @@
         "days": [
           4
         ],
-        "classroom": "N005"
+        "classroom": "5"
+      }
+    ]
+  },
+  {
+    "code": "6756",
+    "group": "12",
+    "professor": "ARNOLD FRANCISCO BASTIDAS MELO",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          4
+        ],
+        "classroom": "5"
       }
     ]
   },
   {
     "code": "6756",
     "group": "13",
-    "professor": "ARNOLD FRANCISCO BASTIDAS MELO",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          4
-        ],
-        "classroom": "N005"
-      }
-    ]
-  },
-  {
-    "code": "6756",
-    "group": "14",
     "professor": "LUIS FERNANDO DONIS RABANALES",
     "schedules": [
       {
@@ -216,13 +202,13 @@
         "days": [
           4
         ],
-        "classroom": "N005"
+        "classroom": "5"
       }
     ]
   },
   {
     "code": "6756",
-    "group": "15",
+    "group": "14",
     "professor": "SANTIAGO VALENCIA CAÑOLA",
     "schedules": [
       {
@@ -230,13 +216,13 @@
         "days": [
           5
         ],
-        "classroom": "N005"
+        "classroom": "5"
       }
     ]
   },
   {
     "code": "6756",
-    "group": "16",
+    "group": "15",
     "professor": "ALEJANDRA MENDOZA CAMPOS",
     "schedules": [
       {
@@ -244,7 +230,7 @@
         "days": [
           5
         ],
-        "classroom": "N005"
+        "classroom": "5"
       }
     ],
     "professor_id": 186559,
@@ -255,7 +241,7 @@
   },
   {
     "code": "6756",
-    "group": "17",
+    "group": "16",
     "professor": "LUIS ARTURO NAVARRO BAENA",
     "schedules": [
       {
@@ -263,13 +249,13 @@
         "days": [
           5
         ],
-        "classroom": "N005"
+        "classroom": "5"
       }
     ]
   },
   {
     "code": "6756",
-    "group": "18",
+    "group": "17",
     "professor": "ZAIRA LINETTE TORRES CORTES",
     "schedules": [
       {
@@ -277,7 +263,7 @@
         "days": [
           5
         ],
-        "classroom": "N005"
+        "classroom": "5"
       }
     ],
     "professor_id": 140654,

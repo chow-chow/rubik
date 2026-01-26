@@ -9,7 +9,7 @@
         "days": [
           1
         ],
-        "classroom": "Q102"
+        "classroom": "13"
       }
     ]
   },
@@ -23,7 +23,7 @@
         "days": [
           2
         ],
-        "classroom": "Q102"
+        "classroom": "13"
       }
     ],
     "professor_id": 105055,
@@ -42,7 +42,7 @@
         "days": [
           2
         ],
-        "classroom": "Q102"
+        "classroom": "13"
       }
     ]
   },
@@ -56,7 +56,7 @@
         "days": [
           2
         ],
-        "classroom": "Q102"
+        "classroom": "13"
       }
     ],
     "professor_id": 86745,
@@ -75,7 +75,7 @@
         "days": [
           3
         ],
-        "classroom": "Q102"
+        "classroom": "13"
       }
     ],
     "professor_id": 71693,
@@ -94,7 +94,7 @@
         "days": [
           3
         ],
-        "classroom": "Q102"
+        "classroom": "13"
       }
     ]
   },
@@ -108,7 +108,7 @@
         "days": [
           4
         ],
-        "classroom": "Q102"
+        "classroom": "13"
       }
     ],
     "professor_id": 105055,
@@ -119,7 +119,7 @@
   },
   {
     "code": "6937",
-    "group": "9",
+    "group": "8",
     "professor": "JOSE SALVADOR ZAMORA ALARCON",
     "schedules": [
       {
@@ -127,7 +127,7 @@
         "days": [
           4
         ],
-        "classroom": "Q102"
+        "classroom": "13"
       }
     ],
     "professor_id": 86745,
@@ -138,7 +138,7 @@
   },
   {
     "code": "6937",
-    "group": "10",
+    "group": "9",
     "professor": "ALEJANDRO SOSA FUENTES",
     "schedules": [
       {
@@ -146,7 +146,7 @@
         "days": [
           5
         ],
-        "classroom": "Q102"
+        "classroom": "13"
       }
     ],
     "professor_id": 71693,
@@ -157,7 +157,7 @@
   },
   {
     "code": "6937",
-    "group": "11",
+    "group": "10",
     "professor": "JOSE SALVADOR ZAMORA ALARCON",
     "schedules": [
       {
@@ -165,7 +165,7 @@
         "days": [
           5
         ],
-        "classroom": "Q102"
+        "classroom": "13"
       }
     ],
     "professor_id": 86745,

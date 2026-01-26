@@ -2,37 +2,16 @@
   {
     "code": "1714",
     "group": "1",
-    "professor": "ARACELI ANGELICA SANCHEZ ENRIQUEZ",
-    "schedules": [
-      {
-        "time": "08:30-10:00",
-        "days": [
-          1,
-          3,
-          5
-        ],
-        "classroom": "Y205"
-      }
-    ],
-    "professor_id": 170993,
-    "first_name": "ARACELI ANGELICA",
-    "last_name": "SANCHEZ ENRIQUEZ",
-    "rating": 2.0,
-    "num_ratings": 4
-  },
-  {
-    "code": "1714",
-    "group": "2",
     "professor": "DANIEL MEJIA LOERA",
     "schedules": [
       {
-        "time": "10:00-11:30",
+        "time": "11:30-13:00",
         "days": [
           1,
           3,
           5
         ],
-        "classroom": "B402"
+        "classroom": "25"
       }
     ],
     "professor_id": 181437,
@@ -43,24 +22,40 @@
   },
   {
     "code": "1714",
-    "group": "3",
-    "professor": "MARIBEL TRUJILLO VALLADOLID",
+    "group": "2",
+    "professor": "HECTOR ALFREDO LEGORRETA CUEVAS",
     "schedules": [
       {
-        "time": "13:00-14:30",
+        "time": "16:00-17:30",
         "days": [
           1,
           3,
           5
         ],
-        "classroom": "A212"
+        "classroom": "25"
+      }
+    ]
+  },
+  {
+    "code": "1714",
+    "group": "3",
+    "professor": "JOSE MANUEL PIEDRAS SALGADO",
+    "schedules": [
+      {
+        "time": "19:00-20:30",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "25"
       }
     ]
   },
   {
     "code": "1714",
     "group": "4",
-    "professor": "HECTOR ALFREDO LEGORRETA CUEVAS",
+    "professor": "MIGUEL GALLARDO CONTRERAS",
     "schedules": [
       {
         "time": "07:00-09:15",
@@ -68,14 +63,34 @@
           2,
           4
         ],
-        "classroom": "R004"
+        "classroom": "25"
       }
     ]
   },
   {
     "code": "1714",
     "group": "5",
-    "professor": "CRISTIAN RUBEN MEDINA GUZMAN",
+    "professor": "DANIEL MEJIA LOERA",
+    "schedules": [
+      {
+        "time": "13:00-15:15",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "25"
+      }
+    ],
+    "professor_id": 181437,
+    "first_name": "M.I. DANIEL",
+    "last_name": "MEJIA LOERA",
+    "rating": 9.0,
+    "num_ratings": 5
+  },
+  {
+    "code": "1714",
+    "group": "6",
+    "professor": "PROFESOR POR ASIGNAR",
     "schedules": [
       {
         "time": "16:00-18:15",
@@ -83,19 +98,14 @@
           2,
           4
         ],
-        "classroom": "A303"
+        "classroom": "25"
       }
-    ],
-    "professor_id": 142053,
-    "first_name": "CRISTIAN RUBEN",
-    "last_name": "MEDINA GUZMAN",
-    "rating": 10.0,
-    "num_ratings": 4
+    ]
   },
   {
     "code": "1714",
-    "group": "6",
-    "professor": "MIGUEL GALLARDO CONTRERAS",
+    "group": "7",
+    "professor": "EDUARDO ALVAREZ CAZARES",
     "schedules": [
       {
         "time": "18:15-20:30",
@@ -103,7 +113,7 @@
           2,
           4
         ],
-        "classroom": "Y203"
+        "classroom": "25"
       }
     ]
   }

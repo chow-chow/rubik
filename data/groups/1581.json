@@ -2,26 +2,6 @@
   {
     "code": "1581",
     "group": "1",
-    "professor": "JAIME JESUS CARRERA HERNANDEZ",
-    "schedules": [
-      {
-        "time": "16:00-18:15",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "EXTR"
-      }
-    ],
-    "professor_id": 172361,
-    "first_name": "Jesús",
-    "last_name": "Hernández",
-    "rating": 9.5,
-    "num_ratings": 2
-  },
-  {
-    "code": "1581",
-    "group": "2",
     "professor": "ERNESTO MENDEZ HERNANDEZ",
     "schedules": [
       {
@@ -31,9 +11,29 @@
           3,
           5
         ],
-        "classroom": "R004"
+        "classroom": "5"
       }
     ]
+  },
+  {
+    "code": "1581",
+    "group": "2",
+    "professor": "JAIME JESUS CARRERA HERNANDEZ",
+    "schedules": [
+      {
+        "time": "16:00-18:15",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "5"
+      }
+    ],
+    "professor_id": 172361,
+    "first_name": "Jesús",
+    "last_name": "Hernández",
+    "rating": 9.5,
+    "num_ratings": 2
   },
   {
     "code": "1581",
@@ -46,7 +46,7 @@
           2,
           4
         ],
-        "classroom": "R004"
+        "classroom": "5"
       }
     ],
     "professor_id": 44322,

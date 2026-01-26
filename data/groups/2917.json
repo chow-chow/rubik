@@ -5,11 +5,11 @@
     "professor": "VERONICA OLVERA RODRIGUEZ",
     "schedules": [
       {
-        "time": "15:00-19:00",
+        "time": "11:00-15:00",
         "days": [
-          1
+          2
         ],
-        "classroom": "EXTR"
+        "classroom": "10"
       }
     ],
     "professor_id": 178387,
@@ -24,11 +24,11 @@
     "professor": "ESTHER SEGURA PEREZ",
     "schedules": [
       {
-        "time": "09:00-11:00",
+        "time": "07:00-09:00",
         "days": [
           5
         ],
-        "classroom": "EXTR"
+        "classroom": "10"
       }
     ]
   },
@@ -42,7 +42,7 @@
         "days": [
           2
         ],
-        "classroom": "EXTR"
+        "classroom": "10"
       }
     ],
     "professor_id": 120294,
@@ -61,7 +61,7 @@
         "days": [
           1
         ],
-        "classroom": "EXTR"
+        "classroom": "10"
       }
     ]
   },
@@ -75,7 +75,7 @@
         "days": [
           5
         ],
-        "classroom": "EXTR"
+        "classroom": "10"
       }
     ]
   },
@@ -90,7 +90,7 @@
           4,
           5
         ],
-        "classroom": "EXTR"
+        "classroom": "10"
       }
     ]
   },
@@ -104,7 +104,7 @@
         "days": [
           5
         ],
-        "classroom": "EXTR"
+        "classroom": "10"
       }
     ],
     "professor_id": 141771,
@@ -123,7 +123,7 @@
         "days": [
           1
         ],
-        "classroom": "EXTR"
+        "classroom": "10"
       }
     ],
     "professor_id": 142293,
@@ -142,7 +142,7 @@
         "days": [
           5
         ],
-        "classroom": "EXTR"
+        "classroom": "5"
       }
     ],
     "professor_id": 84656,
@@ -161,7 +161,7 @@
         "days": [
           4
         ],
-        "classroom": "EXTR"
+        "classroom": "10"
       }
     ]
   },
@@ -171,11 +171,11 @@
     "professor": "WULFRANO GOMEZ GALLARDO",
     "schedules": [
       {
-        "time": "15:00-17:00",
+        "time": "07:00-09:00",
         "days": [
-          3
+          2
         ],
-        "classroom": "EXTR"
+        "classroom": "10"
       }
     ],
     "professor_id": 84733,
@@ -187,21 +187,21 @@
   {
     "code": "2917",
     "group": "12",
-    "professor": "HERIBERTO GARCIA LEDEZMA",
+    "professor": "SILVINA HERNANDEZ GARCIA",
     "schedules": [
       {
-        "time": "14:00-18:00",
+        "time": "17:00-19:00",
         "days": [
-          1
+          2
         ],
-        "classroom": "EXTR"
+        "classroom": "10"
       }
     ],
-    "professor_id": 56349,
-    "first_name": "Heriberto",
-    "last_name": "García Ledezma",
-    "rating": 7.23,
-    "num_ratings": 39
+    "professor_id": 98611,
+    "first_name": "Silvina",
+    "last_name": "Hernández García",
+    "rating": 6.7143,
+    "num_ratings": 7
   },
   {
     "code": "2917",
@@ -213,8 +213,27 @@
         "days": [
           1
         ],
-        "classroom": "EXTR"
+        "classroom": "10"
       }
     ]
+  },
+  {
+    "code": "2917",
+    "group": "14",
+    "professor": "HERIBERTO GARCIA LEDEZMA",
+    "schedules": [
+      {
+        "time": "14:00-18:00",
+        "days": [
+          1
+        ],
+        "classroom": "10"
+      }
+    ],
+    "professor_id": 56349,
+    "first_name": "Heriberto",
+    "last_name": "García Ledezma",
+    "rating": 7.23,
+    "num_ratings": 39
   }
 ]

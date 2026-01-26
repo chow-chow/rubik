@@ -10,7 +10,7 @@
           1,
           3
         ],
-        "classroom": "A301"
+        "classroom": "30"
       }
     ],
     "professor_id": 161103,
@@ -30,7 +30,7 @@
           2,
           4
         ],
-        "classroom": "A302"
+        "classroom": "30"
       }
     ]
   },
@@ -45,7 +45,7 @@
           2,
           4
         ],
-        "classroom": "A301"
+        "classroom": "30"
       }
     ],
     "professor_id": 161103,
@@ -62,10 +62,10 @@
       {
         "time": "07:00-09:00",
         "days": [
-          3,
-          4
+          2,
+          3
         ],
-        "classroom": "B407"
+        "classroom": "30"
       }
     ],
     "professor_id": 180779,

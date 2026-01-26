@@ -10,7 +10,7 @@
           2,
           4
         ],
-        "classroom": "O006"
+        "classroom": "13"
       }
     ],
     "professor_id": 104481,
@@ -18,25 +18,6 @@
     "last_name": "ABELA POSADA",
     "rating": 9.381,
     "num_ratings": 21
-  },
-  {
-    "code": "1964",
-    "group": "2",
-    "professor": "MIGUEL SERRANO REYES",
-    "schedules": [
-      {
-        "time": "14:00-18:00",
-        "days": [
-          5
-        ],
-        "classroom": "O006"
-      }
-    ],
-    "professor_id": 98813,
-    "first_name": "Miguel",
-    "last_name": "Serrano Reyes",
-    "rating": 9.2778,
-    "num_ratings": 18
   },
   {
     "code": "1964",
@@ -49,7 +30,7 @@
           2,
           4
         ],
-        "classroom": "O006"
+        "classroom": "15"
       }
     ],
     "professor_id": 124353,
@@ -69,7 +50,7 @@
           2,
           4
         ],
-        "classroom": "EXTR"
+        "classroom": "11"
       }
     ],
     "professor_id": 75097,
@@ -89,7 +70,7 @@
           1,
           3
         ],
-        "classroom": "O006"
+        "classroom": "16"
       }
     ]
   }

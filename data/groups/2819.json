@@ -10,7 +10,22 @@
           2,
           4
         ],
-        "classroom": "S003"
+        "classroom": "20"
+      }
+    ]
+  },
+  {
+    "code": "2819",
+    "group": "2",
+    "professor": "FERNANDO MILLAN VAZQUEZ",
+    "schedules": [
+      {
+        "time": "11:30-13:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "20"
       }
     ]
   }

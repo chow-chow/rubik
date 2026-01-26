@@ -10,14 +10,7 @@
           1,
           3
         ],
-        "classroom": "A207"
-      },
-      {
-        "time": "07:00-10:00",
-        "days": [
-          2
-        ],
-        "classroom": "R029"
+        "classroom": "15"
       }
     ],
     "professor_id": 135632,
@@ -37,14 +30,7 @@
           1,
           3
         ],
-        "classroom": "A405"
-      },
-      {
-        "time": "14:30-17:30",
-        "days": [
-          1
-        ],
-        "classroom": "R029"
+        "classroom": "15"
       }
     ],
     "professor_id": 141820,
@@ -56,33 +42,6 @@
   {
     "code": "1229",
     "group": "3",
-    "professor": "IVONNE ALVARADO BEATRIZ",
-    "schedules": [
-      {
-        "time": "13:00-14:30",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "A308"
-      },
-      {
-        "time": "12:00-15:00",
-        "days": [
-          2
-        ],
-        "classroom": "R029"
-      }
-    ],
-    "professor_id": 84757,
-    "first_name": "beatriz ivonne",
-    "last_name": "alvarado",
-    "rating": 8.6667,
-    "num_ratings": 6
-  },
-  {
-    "code": "1229",
-    "group": "4",
     "professor": "BENITO GOMEZ DAZA",
     "schedules": [
       {
@@ -91,14 +50,7 @@
           1,
           5
         ],
-        "classroom": "R206"
-      },
-      {
-        "time": "13:00-16:00",
-        "days": [
-          3
-        ],
-        "classroom": "R029"
+        "classroom": "15"
       }
     ],
     "professor_id": 71265,
@@ -106,6 +58,26 @@
     "last_name": "Gomez Daza",
     "rating": 9.2222,
     "num_ratings": 9
+  },
+  {
+    "code": "1229",
+    "group": "4",
+    "professor": "IVONNE ALVARADO BEATRIZ",
+    "schedules": [
+      {
+        "time": "13:00-14:30",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "15"
+      }
+    ],
+    "professor_id": 84757,
+    "first_name": "beatriz ivonne",
+    "last_name": "alvarado",
+    "rating": 8.6667,
+    "num_ratings": 6
   },
   {
     "code": "1229",
@@ -118,14 +90,7 @@
           1,
           3
         ],
-        "classroom": "A308"
-      },
-      {
-        "time": "16:00-19:00",
-        "days": [
-          2
-        ],
-        "classroom": "R029"
+        "classroom": "15"
       }
     ],
     "professor_id": 38449,
@@ -145,14 +110,7 @@
           1,
           3
         ],
-        "classroom": "A308"
-      },
-      {
-        "time": "16:00-19:00",
-        "days": [
-          4
-        ],
-        "classroom": "R029"
+        "classroom": "15"
       }
     ],
     "professor_id": 38449,
@@ -172,14 +130,7 @@
           2,
           4
         ],
-        "classroom": "A209"
-      },
-      {
-        "time": "10:00-13:00",
-        "days": [
-          5
-        ],
-        "classroom": "R029"
+        "classroom": "15"
       }
     ],
     "professor_id": 109874,
@@ -199,14 +150,7 @@
           2,
           4
         ],
-        "classroom": "A209"
-      },
-      {
-        "time": "13:00-16:00",
-        "days": [
-          5
-        ],
-        "classroom": "R029"
+        "classroom": "15"
       }
     ],
     "professor_id": 109874,
@@ -226,14 +170,7 @@
           2,
           4
         ],
-        "classroom": "R206"
-      },
-      {
-        "time": "16:00-19:00",
-        "days": [
-          3
-        ],
-        "classroom": "R029"
+        "classroom": "15"
       }
     ],
     "professor_id": 142005,
@@ -245,6 +182,25 @@
   {
     "code": "1229",
     "group": "10",
+    "professor": "JOSE MARIA BRISEÑO ALMARAZ",
+    "schedules": [
+      {
+        "time": "14:30-17:30",
+        "days": [
+          3
+        ],
+        "classroom": "15"
+      }
+    ],
+    "professor_id": 153667,
+    "first_name": "José María",
+    "last_name": "Briseño Almaraz",
+    "rating": 8.25,
+    "num_ratings": 4
+  },
+  {
+    "code": "1229",
+    "group": "11",
     "professor": "ERIK DE VALLE SALGADO",
     "schedules": [
       {
@@ -252,14 +208,7 @@
         "days": [
           6
         ],
-        "classroom": "A208"
-      },
-      {
-        "time": "10:00-13:00",
-        "days": [
-          6
-        ],
-        "classroom": "R029"
+        "classroom": "15"
       }
     ],
     "professor_id": 93218,

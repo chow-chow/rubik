@@ -10,7 +10,7 @@
           1,
           3
         ],
-        "classroom": "B106"
+        "classroom": "40"
       }
     ],
     "professor_id": 94395,
@@ -30,7 +30,7 @@
           1,
           3
         ],
-        "classroom": "B305"
+        "classroom": "40"
       }
     ],
     "professor_id": 134609,
@@ -50,7 +50,7 @@
           2,
           4
         ],
-        "classroom": "A302"
+        "classroom": "40"
       }
     ],
     "professor_id": 83386,
@@ -70,7 +70,7 @@
           2,
           4
         ],
-        "classroom": "B205"
+        "classroom": "40"
       }
     ],
     "professor_id": 134609,
@@ -90,7 +90,7 @@
           2,
           4
         ],
-        "classroom": "B101"
+        "classroom": "40"
       }
     ],
     "professor_id": 28948,
@@ -98,5 +98,20 @@
     "last_name": "Salva Calleja",
     "rating": 9.1905,
     "num_ratings": 21
+  },
+  {
+    "code": "1672",
+    "group": "6",
+    "professor": "RICARDO DANIEL VEGA GUTIERREZ",
+    "schedules": [
+      {
+        "time": "11:00-12:30",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "40"
+      }
+    ]
   }
 ]

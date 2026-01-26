@@ -2,20 +2,6 @@
   {
     "code": "6686",
     "group": "1",
-    "professor": "ERIC VILORIA LOPEZ",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          1
-        ],
-        "classroom": "Q314"
-      }
-    ]
-  },
-  {
-    "code": "6686",
-    "group": "2",
     "professor": "BEATRIZ MELENDEZ VENANCIO",
     "schedules": [
       {
@@ -23,13 +9,13 @@
         "days": [
           1
         ],
-        "classroom": "Q314"
+        "classroom": "8"
       }
     ]
   },
   {
     "code": "6686",
-    "group": "3",
+    "group": "2",
     "professor": "NORMA REYES CRUZ",
     "schedules": [
       {
@@ -37,7 +23,7 @@
         "days": [
           1
         ],
-        "classroom": "Q316"
+        "classroom": "8"
       }
     ],
     "professor_id": 141855,
@@ -48,7 +34,7 @@
   },
   {
     "code": "6686",
-    "group": "4",
+    "group": "3",
     "professor": "MARGARITA BAUTISTA GONZALEZ",
     "schedules": [
       {
@@ -56,7 +42,7 @@
         "days": [
           1
         ],
-        "classroom": "Q316"
+        "classroom": "8"
       }
     ],
     "professor_id": 79762,
@@ -67,7 +53,7 @@
   },
   {
     "code": "6686",
-    "group": "5",
+    "group": "4",
     "professor": "FLORICEL RAMOS VARGAS",
     "schedules": [
       {
@@ -75,7 +61,26 @@
         "days": [
           1
         ],
-        "classroom": "Q314"
+        "classroom": "8"
+      }
+    ],
+    "professor_id": 89946,
+    "first_name": "FLORICEL",
+    "last_name": "RAMOS VARGAS",
+    "rating": 5.7429,
+    "num_ratings": 35
+  },
+  {
+    "code": "6686",
+    "group": "5",
+    "professor": "FLORICEL RAMOS VARGAS",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1
+        ],
+        "classroom": "8"
       }
     ],
     "professor_id": 89946,
@@ -87,25 +92,6 @@
   {
     "code": "6686",
     "group": "6",
-    "professor": "FLORICEL RAMOS VARGAS",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          1
-        ],
-        "classroom": "Q316"
-      }
-    ],
-    "professor_id": 89946,
-    "first_name": "FLORICEL",
-    "last_name": "RAMOS VARGAS",
-    "rating": 5.7429,
-    "num_ratings": 35
-  },
-  {
-    "code": "6686",
-    "group": "7",
     "professor": "ISMAEL ROMERO OCARANZA",
     "schedules": [
       {
@@ -113,7 +99,7 @@
         "days": [
           1
         ],
-        "classroom": "Q314"
+        "classroom": "8"
       }
     ],
     "professor_id": 89949,
@@ -124,7 +110,7 @@
   },
   {
     "code": "6686",
-    "group": "8",
+    "group": "7",
     "professor": "FLORICEL RAMOS VARGAS",
     "schedules": [
       {
@@ -132,7 +118,7 @@
         "days": [
           1
         ],
-        "classroom": "Q316"
+        "classroom": "8"
       }
     ],
     "professor_id": 89946,
@@ -143,7 +129,7 @@
   },
   {
     "code": "6686",
-    "group": "9",
+    "group": "8",
     "professor": "BENITO ESLAVA EVANGELISTA",
     "schedules": [
       {
@@ -151,7 +137,7 @@
         "days": [
           1
         ],
-        "classroom": "Q316"
+        "classroom": "8"
       }
     ],
     "professor_id": 172902,
@@ -162,26 +148,21 @@
   },
   {
     "code": "6686",
-    "group": "10",
-    "professor": "ERNESTO RAMIREZ CRUZ",
+    "group": "9",
+    "professor": "ERIC VILORIA LOPEZ",
     "schedules": [
       {
         "time": "07:00-09:00",
         "days": [
           2
         ],
-        "classroom": "Q314"
+        "classroom": "8"
       }
-    ],
-    "professor_id": 130840,
-    "first_name": "Ernesto",
-    "last_name": "Ramírez Cruz",
-    "rating": 9.8182,
-    "num_ratings": 22
+    ]
   },
   {
     "code": "6686",
-    "group": "11",
+    "group": "10",
     "professor": "ADRIANA EUGENIA CHAVIRA DIAZ",
     "schedules": [
       {
@@ -189,7 +170,7 @@
         "days": [
           2
         ],
-        "classroom": "Q314"
+        "classroom": "8"
       }
     ],
     "professor_id": 112610,
@@ -200,7 +181,7 @@
   },
   {
     "code": "6686",
-    "group": "12",
+    "group": "11",
     "professor": "NORMA REYES CRUZ",
     "schedules": [
       {
@@ -208,7 +189,7 @@
         "days": [
           2
         ],
-        "classroom": "Q316"
+        "classroom": "8"
       }
     ],
     "professor_id": 141855,
@@ -219,7 +200,7 @@
   },
   {
     "code": "6686",
-    "group": "13",
+    "group": "12",
     "professor": "CHRISTIAN HERNANDEZ SANTIAGO",
     "schedules": [
       {
@@ -227,7 +208,7 @@
         "days": [
           2
         ],
-        "classroom": "Q316"
+        "classroom": "8"
       }
     ],
     "professor_id": 94393,
@@ -238,26 +219,26 @@
   },
   {
     "code": "6686",
-    "group": "14",
-    "professor": "FLORICEL RAMOS VARGAS",
+    "group": "13",
+    "professor": "JOSE ALBERTO LOPEZ CERVANTES",
     "schedules": [
       {
         "time": "13:00-15:00",
         "days": [
           2
         ],
-        "classroom": "Q314"
+        "classroom": "8"
       }
     ],
-    "professor_id": 89946,
-    "first_name": "FLORICEL",
-    "last_name": "RAMOS VARGAS",
-    "rating": 5.7429,
-    "num_ratings": 35
+    "professor_id": 99903,
+    "first_name": "José Alberto",
+    "last_name": "López Cervantes",
+    "rating": 8.6667,
+    "num_ratings": 9
   },
   {
     "code": "6686",
-    "group": "15",
+    "group": "14",
     "professor": "JORGE ANTONIO MONROY JUAREZ",
     "schedules": [
       {
@@ -265,7 +246,7 @@
         "days": [
           3
         ],
-        "classroom": "Q314"
+        "classroom": "8"
       }
     ],
     "professor_id": 89950,
@@ -276,7 +257,7 @@
   },
   {
     "code": "6686",
-    "group": "16",
+    "group": "15",
     "professor": "JESUS SANCHEZ ZEPEDA",
     "schedules": [
       {
@@ -284,32 +265,13 @@
         "days": [
           3
         ],
-        "classroom": "Q316"
+        "classroom": "8"
       }
     ]
   },
   {
     "code": "6686",
-    "group": "17",
-    "professor": "ISMAEL ROMERO OCARANZA",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          3
-        ],
-        "classroom": "Q316"
-      }
-    ],
-    "professor_id": 89949,
-    "first_name": "ISMAEL",
-    "last_name": "ROMERO OCARANZA",
-    "rating": 6.36,
-    "num_ratings": 25
-  },
-  {
-    "code": "6686",
-    "group": "18",
+    "group": "16",
     "professor": "MARGARITA BAUTISTA GONZALEZ",
     "schedules": [
       {
@@ -317,7 +279,7 @@
         "days": [
           3
         ],
-        "classroom": "Q316"
+        "classroom": "8"
       }
     ],
     "professor_id": 79762,
@@ -328,7 +290,7 @@
   },
   {
     "code": "6686",
-    "group": "19",
+    "group": "17",
     "professor": "HECTOR IVAN PADILLA ROJAS",
     "schedules": [
       {
@@ -336,7 +298,7 @@
         "days": [
           3
         ],
-        "classroom": "Q314"
+        "classroom": "8"
       }
     ],
     "professor_id": 172905,
@@ -347,7 +309,7 @@
   },
   {
     "code": "6686",
-    "group": "20",
+    "group": "18",
     "professor": "MARIO OLMOS CORDERO",
     "schedules": [
       {
@@ -355,13 +317,13 @@
         "days": [
           3
         ],
-        "classroom": "Q316"
+        "classroom": "8"
       }
     ]
   },
   {
     "code": "6686",
-    "group": "21",
+    "group": "19",
     "professor": "THALIA IVONNE OCAMPO SANCHEZ",
     "schedules": [
       {
@@ -369,7 +331,7 @@
         "days": [
           4
         ],
-        "classroom": "Q316"
+        "classroom": "8"
       }
     ],
     "professor_id": 67356,
@@ -380,45 +342,7 @@
   },
   {
     "code": "6686",
-    "group": "22",
-    "professor": "JOSE ALBERTO LOPEZ CERVANTES",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          4
-        ],
-        "classroom": "Q314"
-      }
-    ],
-    "professor_id": 99903,
-    "first_name": "José Alberto",
-    "last_name": "López Cervantes",
-    "rating": 8.6667,
-    "num_ratings": 9
-  },
-  {
-    "code": "6686",
-    "group": "23",
-    "professor": "JOSE ALBERTO LOPEZ CERVANTES",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          4
-        ],
-        "classroom": "Q316"
-      }
-    ],
-    "professor_id": 99903,
-    "first_name": "José Alberto",
-    "last_name": "López Cervantes",
-    "rating": 8.6667,
-    "num_ratings": 9
-  },
-  {
-    "code": "6686",
-    "group": "24",
+    "group": "20",
     "professor": "CHRISTIAN HERNANDEZ SANTIAGO",
     "schedules": [
       {
@@ -426,7 +350,7 @@
         "days": [
           4
         ],
-        "classroom": "Q316"
+        "classroom": "8"
       }
     ],
     "professor_id": 94393,
@@ -437,7 +361,7 @@
   },
   {
     "code": "6686",
-    "group": "25",
+    "group": "21",
     "professor": "ADRIANA S LOPEZ GARCIA",
     "schedules": [
       {
@@ -445,7 +369,7 @@
         "days": [
           4
         ],
-        "classroom": "Q316"
+        "classroom": "8"
       }
     ],
     "professor_id": 105168,
@@ -456,7 +380,7 @@
   },
   {
     "code": "6686",
-    "group": "26",
+    "group": "22",
     "professor": "ERNESTO RAMIREZ CRUZ",
     "schedules": [
       {
@@ -464,7 +388,7 @@
         "days": [
           5
         ],
-        "classroom": "Q316"
+        "classroom": "8"
       }
     ],
     "professor_id": 130840,
@@ -475,7 +399,7 @@
   },
   {
     "code": "6686",
-    "group": "27",
+    "group": "23",
     "professor": "DOLORES ALEJANDRA VASQUEZ CARBAJAL",
     "schedules": [
       {
@@ -483,13 +407,13 @@
         "days": [
           5
         ],
-        "classroom": "Q314"
+        "classroom": "8"
       }
     ]
   },
   {
     "code": "6686",
-    "group": "28",
+    "group": "24",
     "professor": "VALENTINA LUISA SOUZA RODRIGUEZ",
     "schedules": [
       {
@@ -497,7 +421,7 @@
         "days": [
           5
         ],
-        "classroom": "Q314"
+        "classroom": "8"
       }
     ],
     "professor_id": 134945,
@@ -508,7 +432,7 @@
   },
   {
     "code": "6686",
-    "group": "29",
+    "group": "25",
     "professor": "JOSE ALBERTO LOPEZ CERVANTES",
     "schedules": [
       {
@@ -516,7 +440,7 @@
         "days": [
           5
         ],
-        "classroom": "Q316"
+        "classroom": "8"
       }
     ],
     "professor_id": 99903,
@@ -527,7 +451,7 @@
   },
   {
     "code": "6686",
-    "group": "30",
+    "group": "26",
     "professor": "CHRISTIAN HERNANDEZ SANTIAGO",
     "schedules": [
       {
@@ -535,7 +459,7 @@
         "days": [
           5
         ],
-        "classroom": "Q316"
+        "classroom": "8"
       }
     ],
     "professor_id": 94393,
@@ -546,7 +470,26 @@
   },
   {
     "code": "6686",
-    "group": "31",
+    "group": "27",
+    "professor": "JOSE ALBERTO LOPEZ CERVANTES",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          5
+        ],
+        "classroom": "8"
+      }
+    ],
+    "professor_id": 99903,
+    "first_name": "José Alberto",
+    "last_name": "López Cervantes",
+    "rating": 8.6667,
+    "num_ratings": 9
+  },
+  {
+    "code": "6686",
+    "group": "28",
     "professor": "ISMAEL ROMERO OCARANZA",
     "schedules": [
       {
@@ -554,7 +497,7 @@
         "days": [
           6
         ],
-        "classroom": "Q316"
+        "classroom": "8"
       }
     ],
     "professor_id": 89949,
@@ -565,7 +508,7 @@
   },
   {
     "code": "6686",
-    "group": "32",
+    "group": "29",
     "professor": "CLAUDIA ESPINOSA VILLAGRAN",
     "schedules": [
       {
@@ -573,7 +516,7 @@
         "days": [
           6
         ],
-        "classroom": "Q314"
+        "classroom": "8"
       }
     ],
     "professor_id": 153250,
@@ -584,7 +527,7 @@
   },
   {
     "code": "6686",
-    "group": "33",
+    "group": "30",
     "professor": "CLAUDIA ESPINOSA VILLAGRAN",
     "schedules": [
       {
@@ -592,7 +535,7 @@
         "days": [
           6
         ],
-        "classroom": "Q314"
+        "classroom": "8"
       }
     ],
     "professor_id": 153250,

@@ -5,11 +5,12 @@
     "professor": "ANDREA PAOLA DORADO DIAZ",
     "schedules": [
       {
-        "time": "11:00-15:00",
+        "time": "15:00-17:00",
         "days": [
-          5
+          2,
+          4
         ],
-        "classroom": "D001"
+        "classroom": "29"
       }
     ],
     "professor_id": 105123,

@@ -2,76 +2,81 @@
   {
     "code": "1601",
     "group": "1",
-    "professor": "CESAR VAZQUEZ LORENZANA",
+    "professor": "EDUARDO ALVAREZ CAZARES",
     "schedules": [
       {
-        "time": "11:30-13:00",
+        "time": "07:00-08:30",
         "days": [
           1,
           3,
           5
         ],
-        "classroom": "A106"
+        "classroom": "25"
       }
-    ],
-    "professor_id": 66566,
-    "first_name": "Cesar",
-    "last_name": "Vazquez Lorenzana",
-    "rating": 6.1149,
-    "num_ratings": 87
+    ]
   },
   {
     "code": "1601",
     "group": "2",
-    "professor": "CARMELINO ZEA CONSTANTINO",
+    "professor": "ARACELI ANGELICA SANCHEZ ENRIQUEZ",
     "schedules": [
       {
-        "time": "11:30-13:00",
+        "time": "08:30-10:00",
         "days": [
           1,
           3,
           5
         ],
-        "classroom": "A208"
+        "classroom": "25"
       }
-    ]
+    ],
+    "professor_id": 170993,
+    "first_name": "ARACELI ANGELICA",
+    "last_name": "SANCHEZ ENRIQUEZ",
+    "rating": 2.0,
+    "num_ratings": 4
   },
   {
     "code": "1601",
     "group": "3",
-    "professor": "HECTOR ALFREDO LEGORRETA CUEVAS",
+    "professor": "RICARDO RUBEN PADILLA VELAZQUEZ",
     "schedules": [
       {
-        "time": "16:00-17:30",
+        "time": "10:00-11:30",
         "days": [
           1,
           3,
           5
         ],
-        "classroom": "A208"
+        "classroom": "25"
       }
-    ]
+    ],
+    "professor_id": 72785,
+    "first_name": "Ricardo Rubén",
+    "last_name": "Padilla Velázquez",
+    "rating": 8.6667,
+    "num_ratings": 27
   },
   {
     "code": "1601",
     "group": "4",
-    "professor": "JOSE MANUEL PIEDRAS SALGADO",
+    "professor": "MARIBEL TRUJILLO VALLADOLID",
     "schedules": [
       {
-        "time": "19:00-20:30",
+        "time": "13:00-14:30",
         "days": [
           1,
           3,
           5
         ],
-        "classroom": "A208"
+        "classroom": "25"
       }
     ]
   },
   {
     "code": "1601",
     "group": "5",
-    "professor": "MIGUEL GALLARDO CONTRERAS",
+    "professor": "HECTOR ALFREDO LEGORRETA CUEVAS",
     "schedules": [
       {
         "time": "07:00-09:15",
@@ -79,28 +84,43 @@
           2,
           4
         ],
-        "classroom": "DS02"
+        "classroom": "25"
       }
     ]
   },
   {
     "code": "1601",
     "group": "6",
-    "professor": "DANIEL MEJIA LOERA",
+    "professor": "CRISTIAN RUBEN MEDINA GUZMAN",
     "schedules": [
       {
-        "time": "13:45-16:00",
+        "time": "16:00-18:15",
         "days": [
           2,
           4
         ],
-        "classroom": "A203"
+        "classroom": "25"
       }
     ],
-    "professor_id": 181437,
-    "first_name": "M.I. DANIEL",
-    "last_name": "MEJIA LOERA",
-    "rating": 9.0,
-    "num_ratings": 5
+    "professor_id": 142053,
+    "first_name": "CRISTIAN RUBEN",
+    "last_name": "MEDINA GUZMAN",
+    "rating": 10.0,
+    "num_ratings": 4
+  },
+  {
+    "code": "1601",
+    "group": "7",
+    "professor": "MIGUEL GALLARDO CONTRERAS",
+    "schedules": [
+      {
+        "time": "18:15-20:30",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "25"
+      }
+    ]
   }
 ]

@@ -2,44 +2,43 @@
   {
     "code": "2812",
     "group": "1",
-    "professor": "ALMA ELIA VERA MORALES",
+    "professor": "LINA BEATRIZ LARA HERNANDEZ",
     "schedules": [
       {
-        "time": "11:00-13:00",
+        "time": "13:00-15:00",
         "days": [
-          4
+          5
         ],
-        "classroom": "B404"
-      },
-      {
-        "time": "10:00-11:30",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "A303"
+        "classroom": "35"
       }
     ]
   },
   {
     "code": "2812",
     "group": "2",
-    "professor": "LINA BEATRIZ LARA HERNANDEZVer Nota 1",
+    "professor": "ALMA ELIA VERA MORALESVer Nota 1",
     "schedules": [
       {
-        "time": "16:00-17:30",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "EXTR"
-      },
-      {
-        "time": "15:00-17:00",
+        "time": "07:00-09:00",
         "days": [
           5
         ],
-        "classroom": "EXTR"
+        "classroom": "35"
+      }
+    ]
+  },
+  {
+    "code": "2812",
+    "group": "3",
+    "professor": "MANUEL SALGADO CRUZ",
+    "schedules": [
+      {
+        "time": "19:00-20:30",
+        "days": [
+          3,
+          4
+        ],
+        "classroom": "35"
       }
     ]
   }

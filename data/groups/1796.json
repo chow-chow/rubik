@@ -9,7 +9,7 @@
         "days": [
           1
         ],
-        "classroom": "A102"
+        "classroom": "35"
       }
     ]
   },
@@ -23,7 +23,7 @@
         "days": [
           3
         ],
-        "classroom": "A103"
+        "classroom": "35"
       }
     ]
   },
@@ -37,7 +37,7 @@
         "days": [
           1
         ],
-        "classroom": "A101"
+        "classroom": "35"
       }
     ]
   },
@@ -51,7 +51,7 @@
         "days": [
           3
         ],
-        "classroom": "A101"
+        "classroom": "35"
       }
     ],
     "professor_id": 104858,
@@ -63,14 +63,14 @@
   {
     "code": "1796",
     "group": "5",
-    "professor": "JOSÉ FRANCISCO ALBARRAN NUÑEZ",
+    "professor": "JOSÉ FRANCISCO ALBARRAN NUÑEZVer Nota 1",
     "schedules": [
       {
         "time": "09:00-11:00",
         "days": [
           4
         ],
-        "classroom": "A103"
+        "classroom": "35"
       }
     ]
   },
@@ -84,7 +84,7 @@
         "days": [
           3
         ],
-        "classroom": "A104"
+        "classroom": "35"
       }
     ],
     "professor_id": 156753,
@@ -96,25 +96,6 @@
   {
     "code": "1796",
     "group": "7",
-    "professor": "ZAIRA LINETTE TORRES CORTES",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          5
-        ],
-        "classroom": "A108"
-      }
-    ],
-    "professor_id": 140654,
-    "first_name": "Zaira Linette",
-    "last_name": "Torres Cortés",
-    "rating": 8.35,
-    "num_ratings": 20
-  },
-  {
-    "code": "1796",
-    "group": "8",
     "professor": "JOSÉ FRANCISCO ALBARRAN NUÑEZ",
     "schedules": [
       {
@@ -122,13 +103,13 @@
         "days": [
           1
         ],
-        "classroom": "A108"
+        "classroom": "35"
       }
     ]
   },
   {
     "code": "1796",
-    "group": "9",
+    "group": "8",
     "professor": "ROSA ISELA MARQUEZ MONROY",
     "schedules": [
       {
@@ -136,27 +117,27 @@
         "days": [
           1
         ],
-        "classroom": "A202"
+        "classroom": "35"
       }
     ]
   },
   {
     "code": "1796",
     "group": "10",
-    "professor": "ANGELICA ARACELI PONCE NAVA ARAIZA",
+    "professor": "ZAIRA LINETTE TORRES CORTES",
     "schedules": [
       {
         "time": "19:00-21:00",
         "days": [
-          3
+          4
         ],
-        "classroom": "A202"
+        "classroom": "35"
       }
     ],
-    "professor_id": 142495,
-    "first_name": "Angélica Araceli",
-    "last_name": "Ponce Nava Araiza",
-    "rating": 10.0,
-    "num_ratings": 3
+    "professor_id": 140654,
+    "first_name": "Zaira Linette",
+    "last_name": "Torres Cortés",
+    "rating": 8.35,
+    "num_ratings": 20
   }
 ]

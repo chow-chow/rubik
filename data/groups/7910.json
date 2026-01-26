@@ -9,7 +9,7 @@
         "days": [
           3
         ],
-        "classroom": "P001"
+        "classroom": "14"
       }
     ]
   },
@@ -21,9 +21,9 @@
       {
         "time": "09:00-11:00",
         "days": [
-          5
+          3
         ],
-        "classroom": "P001"
+        "classroom": "14"
       }
     ],
     "professor_id": 112607,
@@ -34,16 +34,21 @@
   },
   {
     "code": "7910",
-    "group": "4",
-    "professor": "DAVID QUINTANAR VILLALBA",
+    "group": "3",
+    "professor": "GLORIA CORREA PALACIOS",
     "schedules": [
       {
         "time": "09:00-11:00",
         "days": [
-          3
+          5
         ],
-        "classroom": "P001"
+        "classroom": "14"
       }
-    ]
+    ],
+    "professor_id": 112607,
+    "first_name": "Gloria",
+    "last_name": "Correa Palacios",
+    "rating": 5.8261,
+    "num_ratings": 23
   }
 ]

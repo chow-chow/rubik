@@ -2,7 +2,7 @@
   {
     "code": "2094",
     "group": "1",
-    "professor": "MAURICIO BUENDIA MILLAN",
+    "professor": "HECTOR RICARDO CASTREJON PINEDA",
     "schedules": [
       {
         "time": "14:00-16:00",
@@ -10,15 +10,7 @@
           2,
           4
         ],
-        "classroom": "C401"
-      },
-      {
-        "time": "16:00-17:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "C401"
+        "classroom": "20"
       }
     ]
   },
@@ -28,20 +20,12 @@
     "professor": "MAURICIO BUENDIA MILLAN",
     "schedules": [
       {
-        "time": "15:00-17:00",
+        "time": "17:00-19:00",
         "days": [
-          1,
-          3
+          3,
+          5
         ],
-        "classroom": "C401"
-      },
-      {
-        "time": "17:00-18:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "C401"
+        "classroom": "15"
       }
     ]
   }

@@ -10,22 +10,7 @@
           3,
           5
         ],
-        "classroom": "DS11"
-      }
-    ]
-  },
-  {
-    "code": "1978",
-    "group": "2",
-    "professor": "MÉD ANA BRISA GARCIA VILCHIS",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          3,
-          5
-        ],
-        "classroom": "DS11"
+        "classroom": "10"
       }
     ]
   },
@@ -35,12 +20,42 @@
     "professor": "MÉD PERLA BERENISSE VALDIVIEZO ROSALES",
     "schedules": [
       {
-        "time": "14:00-16:00",
+        "time": "19:00-21:00",
         "days": [
           1,
           3
         ],
-        "classroom": "EXTR"
+        "classroom": "10"
+      }
+    ]
+  },
+  {
+    "code": "1978",
+    "group": "4",
+    "professor": "ALFONSO ANTONIO SEQUEDA JUÁREZ",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "10"
+      }
+    ]
+  },
+  {
+    "code": "1978",
+    "group": "5",
+    "professor": "JOSE GUSTAVO CABRERA AQUINO",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "10"
       }
     ]
   }

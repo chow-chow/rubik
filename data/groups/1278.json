@@ -2,21 +2,29 @@
   {
     "code": "1278",
     "group": "1",
-    "professor": "KEVIN AXEL VARGAS ZAMUDIO",
+    "professor": "KEVIN AXEL VARGAS ZAMUDIOVer Nota 1",
     "schedules": [
       {
         "time": "13:00-14:30",
         "days": [
+          1,
           3
         ],
-        "classroom": "I205"
-      },
+        "classroom": "10"
+      }
+    ]
+  },
+  {
+    "code": "1278",
+    "group": "2",
+    "professor": "RAFAEL GUADALUPE CHÁVEZ MORENO",
+    "schedules": [
       {
-        "time": "13:00-14:30",
+        "time": "17:00-20:00",
         "days": [
-          1
+          2
         ],
-        "classroom": "C202"
+        "classroom": "10"
       }
     ]
   }

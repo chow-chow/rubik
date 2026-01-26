@@ -10,7 +10,7 @@
           1,
           3
         ],
-        "classroom": "O009"
+        "classroom": "22"
       }
     ],
     "professor_id": 107488,
@@ -30,7 +30,7 @@
           1,
           3
         ],
-        "classroom": "O009"
+        "classroom": "22"
       }
     ],
     "professor_id": 66401,
@@ -50,7 +50,7 @@
           2,
           4
         ],
-        "classroom": "O009"
+        "classroom": "22"
       }
     ]
   },
@@ -65,7 +65,7 @@
           1,
           3
         ],
-        "classroom": "O009"
+        "classroom": "22"
       }
     ],
     "professor_id": 90646,
@@ -77,15 +77,35 @@
   {
     "code": "6225",
     "group": "5",
+    "professor": "JOSE LUIS ESPINOZA RAMIREZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "22"
+      }
+    ],
+    "professor_id": 75503,
+    "first_name": "Jose Luis",
+    "last_name": "Espinoza",
+    "rating": 9.1818,
+    "num_ratings": 11
+  },
+  {
+    "code": "6225",
+    "group": "6",
     "professor": "ERIC ADRIAN TEJADA MALPICA",
     "schedules": [
       {
-        "time": "11:00-13:00",
+        "time": "19:00-21:00",
         "days": [
           1,
           3
         ],
-        "classroom": "O009"
+        "classroom": "22"
       }
     ],
     "professor_id": 113002,
@@ -96,8 +116,8 @@
   },
   {
     "code": "6225",
-    "group": "6",
-    "professor": "JOSE LUIS ESPINOZA RAMIREZ",
+    "group": "7",
+    "professor": "DAVID MARTINEZ HERNANDEZ",
     "schedules": [
       {
         "time": "11:00-13:00",
@@ -105,227 +125,7 @@
           2,
           4
         ],
-        "classroom": "O009"
-      }
-    ],
-    "professor_id": 75503,
-    "first_name": "Jose Luis",
-    "last_name": "Espinoza",
-    "rating": 9.1818,
-    "num_ratings": 11
-  },
-  {
-    "code": "6225",
-    "group": "7",
-    "professor": "JOSE LUIS ESPINOZA RAMIREZ",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          1,
-          5
-        ],
-        "classroom": "O009"
-      }
-    ],
-    "professor_id": 75503,
-    "first_name": "Jose Luis",
-    "last_name": "Espinoza",
-    "rating": 9.1818,
-    "num_ratings": 11
-  },
-  {
-    "code": "6225",
-    "group": "8",
-    "professor": "MARICARMEN GUILLEN MANDUJANO",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          3,
-          5
-        ],
-        "classroom": "O009"
-      }
-    ],
-    "professor_id": 142033,
-    "first_name": "Ing. Maricarmen",
-    "last_name": "Guillen Mandujano",
-    "rating": 8.2667,
-    "num_ratings": 15
-  },
-  {
-    "code": "6225",
-    "group": "9",
-    "professor": "JORGE ALBERTO NAJERA CASTREJON",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "O009"
-      }
-    ],
-    "professor_id": 112014,
-    "first_name": "JORGE ALBERTO",
-    "last_name": "NAJERA CASTREJON",
-    "rating": 8.6667,
-    "num_ratings": 9
-  },
-  {
-    "code": "6225",
-    "group": "10",
-    "professor": "ESTEFANIA ABARCA RODRIGUEZ",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "O009"
-      }
-    ],
-    "professor_id": 183563,
-    "first_name": "ESTEFANIA",
-    "last_name": "ABARCA RODRIGUEZ",
-    "rating": 6.6667,
-    "num_ratings": 3
-  },
-  {
-    "code": "6225",
-    "group": "11",
-    "professor": "RAUL GILBERTO VALDEZ NAVARRO",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "O009"
-      }
-    ],
-    "professor_id": 66401,
-    "first_name": "Raúl Gilberto",
-    "last_name": "Valdez Navarro",
-    "rating": 7.1304,
-    "num_ratings": 23
-  },
-  {
-    "code": "6225",
-    "group": "12",
-    "professor": "JOSE LUIS ESPINOZA RAMIREZ",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "O009"
-      }
-    ],
-    "professor_id": 75503,
-    "first_name": "Jose Luis",
-    "last_name": "Espinoza",
-    "rating": 9.1818,
-    "num_ratings": 11
-  },
-  {
-    "code": "6225",
-    "group": "13",
-    "professor": "JORGE ALBERTO NAJERA CASTREJON",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          3,
-          5
-        ],
-        "classroom": "O009"
-      }
-    ],
-    "professor_id": 112014,
-    "first_name": "JORGE ALBERTO",
-    "last_name": "NAJERA CASTREJON",
-    "rating": 8.6667,
-    "num_ratings": 9
-  },
-  {
-    "code": "6225",
-    "group": "14",
-    "professor": "MARICARMEN GUILLEN MANDUJANO",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          3,
-          5
-        ],
-        "classroom": "O009"
-      }
-    ],
-    "professor_id": 142033,
-    "first_name": "Ing. Maricarmen",
-    "last_name": "Guillen Mandujano",
-    "rating": 8.2667,
-    "num_ratings": 15
-  },
-  {
-    "code": "6225",
-    "group": "15",
-    "professor": "RAUL GILBERTO VALDEZ NAVARRO",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "O009"
-      }
-    ],
-    "professor_id": 66401,
-    "first_name": "Raúl Gilberto",
-    "last_name": "Valdez Navarro",
-    "rating": 7.1304,
-    "num_ratings": 23
-  },
-  {
-    "code": "6225",
-    "group": "16",
-    "professor": "JOSE LUIS ESPINOZA RAMIREZ",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "O009"
-      }
-    ],
-    "professor_id": 75503,
-    "first_name": "Jose Luis",
-    "last_name": "Espinoza",
-    "rating": 9.1818,
-    "num_ratings": 11
-  },
-  {
-    "code": "6225",
-    "group": "17",
-    "professor": "DAVID MARTINEZ HERNANDEZ",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "O009"
+        "classroom": "22"
       }
     ],
     "professor_id": 101528,
@@ -336,22 +136,82 @@
   },
   {
     "code": "6225",
-    "group": "20",
-    "professor": "ISRAEL GARDUÑO GARCIA",
+    "group": "8",
+    "professor": "ESTEFANIA ABARCA RODRIGUEZ",
     "schedules": [
       {
-        "time": "19:00-21:00",
+        "time": "13:00-15:00",
         "days": [
           2,
           4
         ],
-        "classroom": "O009"
+        "classroom": "22"
       }
     ],
-    "professor_id": 102330,
-    "first_name": "Israel",
-    "last_name": "Garduño Garcia",
-    "rating": 7.6667,
-    "num_ratings": 12
+    "professor_id": 183563,
+    "first_name": "ESTEFANIA",
+    "last_name": "ABARCA RODRIGUEZ",
+    "rating": 6.6667,
+    "num_ratings": 3
+  },
+  {
+    "code": "6225",
+    "group": "9",
+    "professor": "JOSE LUIS ESPINOZA RAMIREZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1,
+          5
+        ],
+        "classroom": "22"
+      }
+    ],
+    "professor_id": 75503,
+    "first_name": "Jose Luis",
+    "last_name": "Espinoza",
+    "rating": 9.1818,
+    "num_ratings": 11
+  },
+  {
+    "code": "6225",
+    "group": "10",
+    "professor": "MARICARMEN GUILLEN MANDUJANO",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "22"
+      }
+    ],
+    "professor_id": 142033,
+    "first_name": "Ing. Maricarmen",
+    "last_name": "Guillen Mandujano",
+    "rating": 8.2667,
+    "num_ratings": 15
+  },
+  {
+    "code": "6225",
+    "group": "11",
+    "professor": "JORGE ALBERTO NAJERA CASTREJON",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "22"
+      }
+    ],
+    "professor_id": 112014,
+    "first_name": "JORGE ALBERTO",
+    "last_name": "NAJERA CASTREJON",
+    "rating": 8.6667,
+    "num_ratings": 9
   }
 ]

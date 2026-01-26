@@ -10,14 +10,7 @@
           1,
           3
         ],
-        "classroom": "J206"
-      },
-      {
-        "time": "07:00-09:00",
-        "days": [
-          5
-        ],
-        "classroom": "H002"
+        "classroom": "20"
       }
     ],
     "professor_id": 125810,
@@ -29,23 +22,21 @@
   {
     "code": "1328",
     "group": "2",
-    "professor": "ANTONIO GONZALEZ TREVIÑO",
+    "professor": "ELIZABETH AGUIRRE MALDONADO",
     "schedules": [
       {
-        "time": "19:00-21:00",
+        "time": "17:00-19:00",
         "days": [
-          3,
-          5
+          2,
+          4
         ],
-        "classroom": "I102"
-      },
-      {
-        "time": "19:00-21:00",
-        "days": [
-          1
-        ],
-        "classroom": "H002"
+        "classroom": "20"
       }
-    ]
+    ],
+    "professor_id": 60632,
+    "first_name": "Elizabeth",
+    "last_name": "Aguirre Maldonado",
+    "rating": 7.0217,
+    "num_ratings": 46
   }
 ]

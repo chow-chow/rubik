@@ -9,7 +9,7 @@
         "days": [
           5
         ],
-        "classroom": "C201"
+        "classroom": "25"
       }
     ],
     "professor_id": 101485,
@@ -21,22 +21,16 @@
   {
     "code": "1439",
     "group": "2",
-    "professor": "JUAN ANTONIO HERNANDEZ MARTINEZ",
+    "professor": "ANDRÉS ASTUDILLO NICANOR",
     "schedules": [
       {
-        "time": "13:00-14:30",
+        "time": "09:00-12:00",
         "days": [
-          2,
-          4
+          1
         ],
-        "classroom": "C201"
+        "classroom": "25"
       }
-    ],
-    "professor_id": 162321,
-    "first_name": "ING. JUAN ANTONIO",
-    "last_name": "HERNANDEZ MARTINEZ",
-    "rating": 8.6667,
-    "num_ratings": 3
+    ]
   },
   {
     "code": "1439",
@@ -49,7 +43,22 @@
           2,
           4
         ],
-        "classroom": "C201"
+        "classroom": "25"
+      }
+    ]
+  },
+  {
+    "code": "1439",
+    "group": "4",
+    "professor": "JANET MONTAÑO SALAZAR",
+    "schedules": [
+      {
+        "time": "15:00-16:30",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "25"
       }
     ]
   }

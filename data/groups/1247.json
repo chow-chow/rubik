@@ -2,21 +2,16 @@
   {
     "code": "1247",
     "group": "1",
-    "professor": "HUGO CESAR GARZA MAGALLON",
+    "professor": "JOSE OMAR CRUZ SANTIAGO",
     "schedules": [
       {
-        "time": "17:00-19:00",
+        "time": "07:00-09:00",
         "days": [
-          2,
-          4
+          1,
+          3
         ],
-        "classroom": "D006"
+        "classroom": "20"
       }
-    ],
-    "professor_id": 176675,
-    "first_name": "Hugo Cesar",
-    "last_name": "Garza Magallón",
-    "rating": 5.0,
-    "num_ratings": 21
+    ]
   }
 ]

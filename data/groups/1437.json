@@ -10,7 +10,7 @@
           2,
           4
         ],
-        "classroom": "J104"
+        "classroom": "48"
       }
     ],
     "professor_id": 55067,
@@ -30,7 +30,7 @@
           3,
           5
         ],
-        "classroom": "J108"
+        "classroom": "48"
       }
     ],
     "professor_id": 66367,
@@ -42,166 +42,14 @@
   {
     "code": "1437",
     "group": "3",
-    "professor": "ABRAHAM LAURENCIO MARTINEZ BAUTISTA",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "J110"
-      }
-    ],
-    "professor_id": 55067,
-    "first_name": "Abraham Laurencio",
-    "last_name": "Martinez  Bautista",
-    "rating": 4.7273,
-    "num_ratings": 44
-  },
-  {
-    "code": "1437",
-    "group": "4",
-    "professor": "ESTHER FLORES CRUZ",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          3,
-          5
-        ],
-        "classroom": "J210"
-      }
-    ],
-    "professor_id": 35006,
-    "first_name": "Esther",
-    "last_name": "Flores Cruz",
-    "rating": 6.9348,
-    "num_ratings": 46
-  },
-  {
-    "code": "1437",
-    "group": "5",
-    "professor": "RIGEL GAMEZ LEAL",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "J211"
-      }
-    ],
-    "professor_id": 31167,
-    "first_name": "Rigel",
-    "last_name": "Gámez Leal",
-    "rating": 8.4938,
-    "num_ratings": 81
-  },
-  {
-    "code": "1437",
-    "group": "6",
-    "professor": "RUBEN CARLOS ESQUIVEL HERNANDEZ",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "J107"
-      }
-    ]
-  },
-  {
-    "code": "1437",
-    "group": "7",
-    "professor": "JORGE RAMIREZ CRUZ",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "J110"
-      }
-    ],
-    "professor_id": 84413,
-    "first_name": "Jorge",
-    "last_name": "Ramirez Cruz",
-    "rating": 9.6471,
-    "num_ratings": 51
-  },
-  {
-    "code": "1437",
-    "group": "8",
-    "professor": "RUBEN CARLOS ESQUIVEL HERNANDEZ",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          1
-        ],
-        "classroom": "J106"
-      },
-      {
-        "time": "15:00-17:00",
-        "days": [
-          3
-        ],
-        "classroom": "J102"
-      }
-    ]
-  },
-  {
-    "code": "1437",
-    "group": "9",
-    "professor": "EDUARDO LOPEZ MOLINA",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          1,
-          5
-        ],
-        "classroom": "J211"
-      }
-    ],
-    "professor_id": 78455,
-    "first_name": "Eduardo",
-    "last_name": "López Molina",
-    "rating": 8.21,
-    "num_ratings": 68
-  },
-  {
-    "code": "1437",
-    "group": "10",
-    "professor": "RUBEN CARLOS ESQUIVEL HERNANDEZ",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "J111"
-      }
-    ]
-  },
-  {
-    "code": "1437",
-    "group": "11",
     "professor": "MARIA DEL CARMEN MELO DIAZ",
     "schedules": [
       {
-        "time": "15:00-17:00",
+        "time": "08:00-12:00",
         "days": [
-          2,
-          4
+          6
         ],
-        "classroom": "J206"
+        "classroom": "48"
       }
     ],
     "professor_id": 44254,
@@ -212,16 +60,131 @@
   },
   {
     "code": "1437",
-    "group": "12",
-    "professor": "JORGE RAMIREZ CRUZ",
+    "group": "4",
+    "professor": "RUBEN CARLOS ESQUIVEL HERNANDEZ",
     "schedules": [
       {
-        "time": "17:00-19:00",
+        "time": "09:00-11:00",
         "days": [
           1,
           3
         ],
-        "classroom": "I306"
+        "classroom": "48"
+      }
+    ]
+  },
+  {
+    "code": "1437",
+    "group": "5",
+    "professor": "ABRAHAM LAURENCIO MARTINEZ BAUTISTA",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "48"
+      }
+    ],
+    "professor_id": 55067,
+    "first_name": "Abraham Laurencio",
+    "last_name": "Martinez  Bautista",
+    "rating": 4.7273,
+    "num_ratings": 44
+  },
+  {
+    "code": "1437",
+    "group": "7",
+    "professor": "EDUARDO LOPEZ MOLINA",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "48"
+      }
+    ],
+    "professor_id": 78455,
+    "first_name": "Eduardo",
+    "last_name": "López Molina",
+    "rating": 8.21,
+    "num_ratings": 68
+  },
+  {
+    "code": "1437",
+    "group": "8",
+    "professor": "ROGELIO SOTO AYALA",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1,
+          5
+        ],
+        "classroom": "48"
+      }
+    ],
+    "professor_id": 33622,
+    "first_name": "Soto Ayala",
+    "last_name": "Rogelio",
+    "rating": 8.6545,
+    "num_ratings": 55
+  },
+  {
+    "code": "1437",
+    "group": "9",
+    "professor": "RIGEL GAMEZ LEAL",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "48"
+      }
+    ],
+    "professor_id": 31167,
+    "first_name": "Rigel",
+    "last_name": "Gámez Leal",
+    "rating": 8.4938,
+    "num_ratings": 81
+  },
+  {
+    "code": "1437",
+    "group": "10",
+    "professor": "EDUARDO LOPEZ MOLINA",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "48"
+      }
+    ],
+    "professor_id": 78455,
+    "first_name": "Eduardo",
+    "last_name": "López Molina",
+    "rating": 8.21,
+    "num_ratings": 68
+  },
+  {
+    "code": "1437",
+    "group": "11",
+    "professor": "JORGE RAMIREZ CRUZ",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1,
+          5
+        ],
+        "classroom": "48"
       }
     ],
     "professor_id": 84413,
@@ -232,31 +195,65 @@
   },
   {
     "code": "1437",
-    "group": "13",
-    "professor": "RICARDO CABRERA POSADA",
+    "group": "12",
+    "professor": "RUBEN CARLOS ESQUIVEL HERNANDEZ",
     "schedules": [
       {
-        "time": "17:00-19:00",
+        "time": "13:00-15:00",
         "days": [
           2,
           4
         ],
-        "classroom": "Y104"
+        "classroom": "48"
       }
     ]
   },
   {
     "code": "1437",
-    "group": "14",
-    "professor": "AGUSTIN HERNANDEZ QUINTERO",
+    "group": "13",
+    "professor": "JAVIER ALEJANDRO ROSAS FLORES",
     "schedules": [
       {
-        "time": "17:00-19:00",
+        "time": "13:00-15:00",
         "days": [
           3,
           5
         ],
-        "classroom": "J211"
+        "classroom": "48"
+      }
+    ],
+    "professor_id": 96626,
+    "first_name": "Javier",
+    "last_name": "Rosas Flores",
+    "rating": 8.75,
+    "num_ratings": 64
+  },
+  {
+    "code": "1437",
+    "group": "14",
+    "professor": "MARÍA DEL PILAR AGUILAR DEL VALLE",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "48"
+      }
+    ]
+  },
+  {
+    "code": "1437",
+    "group": "15",
+    "professor": "AGUSTIN HERNANDEZ QUINTERO",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1
+        ],
+        "classroom": "48"
       }
     ],
     "professor_id": 54985,
@@ -267,7 +264,82 @@
   },
   {
     "code": "1437",
-    "group": "15",
+    "group": "16",
+    "professor": "BEATRIZ EUGENIA HERNANDEZ RODRIGUEZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "48"
+      }
+    ],
+    "professor_id": 105095,
+    "first_name": "Beatriz Eugenia",
+    "last_name": "Hernandez Rodriguez",
+    "rating": 7.2593,
+    "num_ratings": 27
+  },
+  {
+    "code": "1437",
+    "group": "17",
+    "professor": "JORGE RAMIREZ CRUZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "48"
+      }
+    ],
+    "professor_id": 84413,
+    "first_name": "Jorge",
+    "last_name": "Ramirez Cruz",
+    "rating": 9.6471,
+    "num_ratings": 51
+  },
+  {
+    "code": "1437",
+    "group": "18",
+    "professor": "RICARDO CABRERA POSADA",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "48"
+      }
+    ]
+  },
+  {
+    "code": "1437",
+    "group": "19",
+    "professor": "ROGELIO SOTO AYALA",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "48"
+      }
+    ],
+    "professor_id": 33622,
+    "first_name": "Soto Ayala",
+    "last_name": "Rogelio",
+    "rating": 8.6545,
+    "num_ratings": 55
+  },
+  {
+    "code": "1437",
+    "group": "20",
     "professor": "GENARO MUÑOZ HERNANDEZ",
     "schedules": [
       {
@@ -276,7 +348,7 @@
           2,
           4
         ],
-        "classroom": "J109"
+        "classroom": "48"
       }
     ],
     "professor_id": 51469,
@@ -287,22 +359,17 @@
   },
   {
     "code": "1437",
-    "group": "16",
-    "professor": "JAVIER ALEJANDRO ROSAS FLORES",
+    "group": "6",
+    "professor": "Grupo cancelado, contactar a la División.",
     "schedules": [
       {
-        "time": "13:00-15:00",
+        "time": "09:00-11:00",
         "days": [
           2,
           4
         ],
-        "classroom": "J111"
+        "classroom": "0"
       }
-    ],
-    "professor_id": 96626,
-    "first_name": "Javier",
-    "last_name": "Rosas Flores",
-    "rating": 8.75,
-    "num_ratings": 64
+    ]
   }
 ]

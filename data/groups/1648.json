@@ -2,21 +2,16 @@
   {
     "code": "1648",
     "group": "1",
-    "professor": "CLAUDIA ELISA SANCHEZ NAVARRO",
+    "professor": "ESTRELLA CRUZ REYES",
     "schedules": [
       {
-        "time": "17:30-19:00",
+        "time": "07:00-08:30",
         "days": [
           2,
           4
         ],
-        "classroom": "R030"
+        "classroom": "15"
       }
-    ],
-    "professor_id": 68129,
-    "first_name": "Claudia Elisa",
-    "last_name": "Sanchez Navarro",
-    "rating": 4.9048,
-    "num_ratings": 21
+    ]
   }
 ]

@@ -10,7 +10,7 @@
           2,
           4
         ],
-        "classroom": "EXTR"
+        "classroom": "10"
       }
     ],
     "professor_id": 98813,
@@ -18,21 +18,6 @@
     "last_name": "Serrano Reyes",
     "rating": 9.2778,
     "num_ratings": 18
-  },
-  {
-    "code": "1797",
-    "group": "2",
-    "professor": "BRAYAN HOMERO RAMIREZ CONTRERAS",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          3,
-          5
-        ],
-        "classroom": "EXTR"
-      }
-    ]
   },
   {
     "code": "1797",
@@ -44,7 +29,7 @@
         "days": [
           6
         ],
-        "classroom": "X101"
+        "classroom": "10"
       }
     ]
   }

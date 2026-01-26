@@ -9,7 +9,7 @@
         "days": [
           2
         ],
-        "classroom": "DS07"
+        "classroom": "5"
       }
     ],
     "professor_id": 145625,
@@ -28,7 +28,7 @@
         "days": [
           2
         ],
-        "classroom": "DS07"
+        "classroom": "5"
       }
     ],
     "professor_id": 63731,
@@ -40,21 +40,21 @@
   {
     "code": "2501",
     "group": "3",
-    "professor": "JAIME AGUILAR REYES",
+    "professor": "OMAR RAFAEL RODRIGUEZ GUADARRAMA",
     "schedules": [
       {
         "time": "09:00-11:00",
         "days": [
           2
         ],
-        "classroom": "DS07"
+        "classroom": "5"
       }
     ],
-    "professor_id": 161895,
-    "first_name": "Jaime",
-    "last_name": "Aguilar Reyes",
-    "rating": 8.25,
-    "num_ratings": 4
+    "professor_id": 93961,
+    "first_name": "Omar  Rafael",
+    "last_name": "Rodriguez Guadarrama",
+    "rating": 7.1667,
+    "num_ratings": 6
   },
   {
     "code": "2501",
@@ -66,7 +66,7 @@
         "days": [
           2
         ],
-        "classroom": "DS07"
+        "classroom": "5"
       }
     ],
     "professor_id": 93961,
@@ -85,7 +85,7 @@
         "days": [
           2
         ],
-        "classroom": "DS07"
+        "classroom": "5"
       }
     ],
     "professor_id": 71990,
@@ -104,7 +104,7 @@
         "days": [
           2
         ],
-        "classroom": "DS07"
+        "classroom": "5"
       }
     ],
     "professor_id": 134458,
@@ -116,25 +116,6 @@
   {
     "code": "2501",
     "group": "7",
-    "professor": "JUAN ANTONIO SANDOVAL RODRIGUEZ",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          2
-        ],
-        "classroom": "DS07"
-      }
-    ],
-    "professor_id": 71990,
-    "first_name": "Juan Antonio",
-    "last_name": "Sandoval Rodríguez",
-    "rating": 8.4118,
-    "num_ratings": 17
-  },
-  {
-    "code": "2501",
-    "group": "8",
     "professor": "SONIA LUISA LOPEZ MALDONADO",
     "schedules": [
       {
@@ -142,7 +123,7 @@
         "days": [
           2
         ],
-        "classroom": "DS07"
+        "classroom": "5"
       }
     ],
     "professor_id": 134971,
@@ -153,26 +134,7 @@
   },
   {
     "code": "2501",
-    "group": "9",
-    "professor": "JORGE AGUILAR JUAREZ",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          2
-        ],
-        "classroom": "DS07"
-      }
-    ],
-    "professor_id": 160523,
-    "first_name": "Jorge",
-    "last_name": "Aguilar Juárez",
-    "rating": 8.0,
-    "num_ratings": 3
-  },
-  {
-    "code": "2501",
-    "group": "10",
+    "group": "8",
     "professor": "ROGELIO ESCALERA CAMPOVERDE",
     "schedules": [
       {
@@ -180,51 +142,13 @@
         "days": [
           2
         ],
-        "classroom": "DS07"
+        "classroom": "5"
       }
     ]
   },
   {
     "code": "2501",
-    "group": "11",
-    "professor": "ISRAEL JAUREGUI NARES",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          4
-        ],
-        "classroom": "DS07"
-      }
-    ],
-    "professor_id": 145625,
-    "first_name": "Israel",
-    "last_name": "Jáuregui Nares",
-    "rating": 6.0,
-    "num_ratings": 2
-  },
-  {
-    "code": "2501",
-    "group": "12",
-    "professor": "DIANA PATRICIA ANAYA TELLEZ",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          4
-        ],
-        "classroom": "DS07"
-      }
-    ],
-    "professor_id": 134866,
-    "first_name": "Diana Patricia",
-    "last_name": "Anaya Tellez",
-    "rating": 7.1667,
-    "num_ratings": 6
-  },
-  {
-    "code": "2501",
-    "group": "13",
+    "group": "9",
     "professor": "AGUSTIN NIEVES SAAVEDRA",
     "schedules": [
       {
@@ -232,7 +156,7 @@
         "days": [
           4
         ],
-        "classroom": "DS07"
+        "classroom": "5"
       }
     ],
     "professor_id": 63731,
@@ -243,7 +167,7 @@
   },
   {
     "code": "2501",
-    "group": "14",
+    "group": "10",
     "professor": "JAIME AGUILAR REYES",
     "schedules": [
       {
@@ -251,7 +175,7 @@
         "days": [
           4
         ],
-        "classroom": "DS07"
+        "classroom": "5"
       }
     ],
     "professor_id": 161895,
@@ -262,7 +186,7 @@
   },
   {
     "code": "2501",
-    "group": "15",
+    "group": "11",
     "professor": "OMAR RAFAEL RODRIGUEZ GUADARRAMA",
     "schedules": [
       {
@@ -270,7 +194,7 @@
         "days": [
           4
         ],
-        "classroom": "DS07"
+        "classroom": "5"
       }
     ],
     "professor_id": 93961,
@@ -281,26 +205,26 @@
   },
   {
     "code": "2501",
-    "group": "16",
-    "professor": "JUAN ANTONIO SANDOVAL RODRIGUEZ",
+    "group": "12",
+    "professor": "RAMON SANDOVAL PEÑA",
     "schedules": [
       {
         "time": "11:00-13:00",
         "days": [
           4
         ],
-        "classroom": "DS07"
+        "classroom": "5"
       }
     ],
-    "professor_id": 71990,
-    "first_name": "Juan Antonio",
-    "last_name": "Sandoval Rodríguez",
-    "rating": 8.4118,
-    "num_ratings": 17
+    "professor_id": 134458,
+    "first_name": "Ramon",
+    "last_name": "Sandoval Peña",
+    "rating": 6.1,
+    "num_ratings": 10
   },
   {
     "code": "2501",
-    "group": "17",
+    "group": "13",
     "professor": "SONIA LUISA LOPEZ MALDONADO",
     "schedules": [
       {
@@ -308,7 +232,7 @@
         "days": [
           4
         ],
-        "classroom": "DS07"
+        "classroom": "5"
       }
     ],
     "professor_id": 134971,
@@ -319,7 +243,7 @@
   },
   {
     "code": "2501",
-    "group": "18",
+    "group": "14",
     "professor": "AGUSTIN NIEVES SAAVEDRA",
     "schedules": [
       {
@@ -327,7 +251,7 @@
         "days": [
           4
         ],
-        "classroom": "DS07"
+        "classroom": "5"
       }
     ],
     "professor_id": 63731,
@@ -338,7 +262,7 @@
   },
   {
     "code": "2501",
-    "group": "19",
+    "group": "15",
     "professor": "SONIA LUISA LOPEZ MALDONADO",
     "schedules": [
       {
@@ -346,7 +270,7 @@
         "days": [
           4
         ],
-        "classroom": "DS07"
+        "classroom": "5"
       }
     ],
     "professor_id": 134971,
@@ -357,7 +281,7 @@
   },
   {
     "code": "2501",
-    "group": "20",
+    "group": "16",
     "professor": "JORGE AGUILAR JUAREZ",
     "schedules": [
       {
@@ -365,7 +289,7 @@
         "days": [
           4
         ],
-        "classroom": "DS07"
+        "classroom": "5"
       }
     ],
     "professor_id": 160523,
@@ -376,7 +300,7 @@
   },
   {
     "code": "2501",
-    "group": "21",
+    "group": "17",
     "professor": "ROGELIO ESCALERA CAMPOVERDE",
     "schedules": [
       {
@@ -384,13 +308,13 @@
         "days": [
           4
         ],
-        "classroom": "DS07"
+        "classroom": "5"
       }
     ]
   },
   {
     "code": "2501",
-    "group": "22",
+    "group": "18",
     "professor": "ARMANDO MALDONADO SUSANO",
     "schedules": [
       {
@@ -398,7 +322,7 @@
         "days": [
           6
         ],
-        "classroom": "DS07"
+        "classroom": "5"
       }
     ],
     "professor_id": 93881,
@@ -409,26 +333,7 @@
   },
   {
     "code": "2501",
-    "group": "23",
-    "professor": "ARMANDO MALDONADO SUSANO",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          6
-        ],
-        "classroom": "DS07"
-      }
-    ],
-    "professor_id": 93881,
-    "first_name": "Armando",
-    "last_name": "Maldonado Susano",
-    "rating": 8.5556,
-    "num_ratings": 18
-  },
-  {
-    "code": "2501",
-    "group": "24",
+    "group": "19",
     "professor": "DIANA PATRICIA ANAYA TELLEZ",
     "schedules": [
       {
@@ -436,7 +341,7 @@
         "days": [
           6
         ],
-        "classroom": "DS07"
+        "classroom": "5"
       }
     ],
     "professor_id": 134866,
@@ -447,7 +352,7 @@
   },
   {
     "code": "2501",
-    "group": "25",
+    "group": "20",
     "professor": "MARIA DE LOS ANGELES GRIMALDO ORTIZ",
     "schedules": [
       {
@@ -455,13 +360,13 @@
         "days": [
           6
         ],
-        "classroom": "DS07"
+        "classroom": "5"
       }
     ]
   },
   {
     "code": "2501",
-    "group": "26",
+    "group": "21",
     "professor": "FRANCISCO JAVIER GARCIA OSORIO",
     "schedules": [
       {
@@ -469,35 +374,7 @@
         "days": [
           6
         ],
-        "classroom": "DS07"
-      }
-    ]
-  },
-  {
-    "code": "2501",
-    "group": "27",
-    "professor": "VICENTE GUILLERMO LOPEZ FERNANDEZ",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          2
-        ],
-        "classroom": "DS07"
-      }
-    ]
-  },
-  {
-    "code": "2501",
-    "group": "28",
-    "professor": "VICENTE GUILLERMO LOPEZ FERNANDEZ",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          4
-        ],
-        "classroom": "DS07"
+        "classroom": "5"
       }
     ]
   }

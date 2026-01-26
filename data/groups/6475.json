@@ -2,39 +2,34 @@
   {
     "code": "6475",
     "group": "1",
-    "professor": "MIGUEL ALEJANDRO MALDONADO GORDILLO",
+    "professor": "EHECATL LUIS DAVID PALEO GONZALEZ",
     "schedules": [
       {
-        "time": "19:00-21:00",
+        "time": "15:00-17:00",
         "days": [
           3
         ],
-        "classroom": "H004"
+        "classroom": "20"
       }
     ],
-    "professor_id": 113918,
-    "first_name": "Miguel",
-    "last_name": "Maldonado",
-    "rating": 9.0,
-    "num_ratings": 4
+    "professor_id": 84416,
+    "first_name": "Ehecatl Luis",
+    "last_name": "Paleo González",
+    "rating": 6.3448,
+    "num_ratings": 29
   },
   {
     "code": "6475",
     "group": "2",
-    "professor": "MIGUEL ANGEL JAIME VASCONCELOS",
+    "professor": "ROXANA ISELA NORIEGA NAVARRO",
     "schedules": [
       {
-        "time": "09:00-11:00",
+        "time": "07:00-09:00",
         "days": [
-          5
+          4
         ],
-        "classroom": "H001"
+        "classroom": "20"
       }
-    ],
-    "professor_id": 42088,
-    "first_name": "MIGUEL ANGEL",
-    "last_name": "JAIME VASCONCELOS",
-    "rating": 8.5556,
-    "num_ratings": 63
+    ]
   }
 ]

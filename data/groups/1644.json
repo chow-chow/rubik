@@ -11,7 +11,7 @@
           3,
           5
         ],
-        "classroom": "B404"
+        "classroom": "40"
       }
     ]
   },
@@ -27,7 +27,7 @@
           3,
           5
         ],
-        "classroom": "B103"
+        "classroom": "40"
       }
     ],
     "professor_id": 79253,
@@ -48,7 +48,7 @@
           3,
           5
         ],
-        "classroom": "B304"
+        "classroom": "40"
       }
     ],
     "professor_id": 27303,
@@ -69,7 +69,7 @@
           4,
           5
         ],
-        "classroom": "A306"
+        "classroom": "40"
       }
     ],
     "professor_id": 114128,
@@ -81,7 +81,7 @@
   {
     "code": "1644",
     "group": "5",
-    "professor": "Grupo cancelado, contactar a la División.",
+    "professor": "OSCAR ARANA HERNANDEZ",
     "schedules": [
       {
         "time": "11:00-13:00",
@@ -90,9 +90,14 @@
           4,
           5
         ],
-        "classroom": "B304"
+        "classroom": "40"
       }
-    ]
+    ],
+    "professor_id": 177287,
+    "first_name": "Oscar",
+    "last_name": "Arana Hernández",
+    "rating": 6.6364,
+    "num_ratings": 11
   },
   {
     "code": "1644",
@@ -106,7 +111,7 @@
           3,
           4
         ],
-        "classroom": "B306"
+        "classroom": "40"
       }
     ],
     "professor_id": 124534,
@@ -126,7 +131,7 @@
           5,
           6
         ],
-        "classroom": "A302"
+        "classroom": "40"
       }
     ]
   }

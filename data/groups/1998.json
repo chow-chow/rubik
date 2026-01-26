@@ -1,31 +1,16 @@
 [
   {
     "code": "1998",
-    "group": "1",
-    "professor": "MARIO ROBERTO ARRIETA PATERNINA",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "A301"
-      }
-    ]
-  },
-  {
-    "code": "1998",
     "group": "2",
     "professor": "ALEJANDRO BAEZ MUÑOZ",
     "schedules": [
       {
-        "time": "19:00-21:00",
+        "time": "11:00-13:00",
         "days": [
           1,
           3
         ],
-        "classroom": "A107"
+        "classroom": "35"
       }
     ],
     "professor_id": 118946,
@@ -45,7 +30,7 @@
           2,
           4
         ],
-        "classroom": "B405"
+        "classroom": "35"
       }
     ],
     "professor_id": 155707,
@@ -65,7 +50,7 @@
           2,
           4
         ],
-        "classroom": "S201"
+        "classroom": "17"
       }
     ],
     "professor_id": 102987,
@@ -73,5 +58,25 @@
     "last_name": "Trillaud",
     "rating": 6.2857,
     "num_ratings": 14
+  },
+  {
+    "code": "1998",
+    "group": "5",
+    "professor": "GONZALO SANDOVAL RODRIGUEZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "35"
+      }
+    ],
+    "professor_id": 155707,
+    "first_name": "Gonzalo",
+    "last_name": "Sandoval Rodriguez",
+    "rating": 4.9167,
+    "num_ratings": 12
   }
 ]

@@ -5,12 +5,12 @@
     "professor": "HERIBERTO DE JESUS AGUILAR JUAREZ",
     "schedules": [
       {
-        "time": "11:00-13:00",
+        "time": "13:00-15:00",
         "days": [
-          2,
-          4
+          1,
+          3
         ],
-        "classroom": "Y202"
+        "classroom": "48"
       }
     ],
     "professor_id": 78508,

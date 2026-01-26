@@ -9,7 +9,7 @@
         "days": [
           6
         ],
-        "classroom": "D001"
+        "classroom": "40"
       }
     ],
     "professor_id": 161845,
@@ -21,7 +21,7 @@
   {
     "code": "1918",
     "group": "2",
-    "professor": "I.Q. ADRIANA GAVIRA DURON",
+    "professor": "ADRIANA GAVIRA DURON",
     "schedules": [
       {
         "time": "20:00-22:00",
@@ -29,7 +29,7 @@
           2,
           4
         ],
-        "classroom": "Y004"
+        "classroom": "40"
       }
     ],
     "professor_id": 161847,
@@ -49,7 +49,7 @@
           1,
           3
         ],
-        "classroom": "EXTR"
+        "classroom": "40"
       }
     ],
     "professor_id": 186379,
@@ -57,5 +57,25 @@
     "last_name": "GUERRERO BARRANCO",
     "rating": 7.5,
     "num_ratings": 2
+  },
+  {
+    "code": "1918",
+    "group": "4",
+    "professor": "FLOR HERNANDEZ PADILLA",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "40"
+      }
+    ],
+    "professor_id": 94327,
+    "first_name": "Flor",
+    "last_name": "Hernández Padilla",
+    "rating": 5.8421,
+    "num_ratings": 19
   }
 ]

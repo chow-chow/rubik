@@ -5,11 +5,11 @@
     "professor": "ALAN MICHELL RAMIREZ PEÑA",
     "schedules": [
       {
-        "time": "09:00-11:00",
+        "time": "07:00-09:00",
         "days": [
           1
         ],
-        "classroom": "O005"
+        "classroom": "18"
       }
     ]
   },
@@ -21,9 +21,9 @@
       {
         "time": "09:00-11:00",
         "days": [
-          3
+          1
         ],
-        "classroom": "O005"
+        "classroom": "18"
       }
     ],
     "professor_id": 74730,
@@ -38,11 +38,11 @@
     "professor": "EDGAR ISAAC RAMIREZ DIAZ",
     "schedules": [
       {
-        "time": "07:00-09:00",
+        "time": "09:00-11:00",
         "days": [
-          4
+          3
         ],
-        "classroom": "O005"
+        "classroom": "18"
       }
     ],
     "professor_id": 74730,
@@ -54,21 +54,21 @@
   {
     "code": "7603",
     "group": "4",
-    "professor": "JORGE ALBERTO NAJERA CASTREJON",
+    "professor": "ISRAEL GARDUÑO GARCIA",
     "schedules": [
       {
-        "time": "13:00-15:00",
+        "time": "11:00-13:00",
         "days": [
-          2
+          1
         ],
-        "classroom": "O005"
+        "classroom": "18"
       }
     ],
-    "professor_id": 112014,
-    "first_name": "JORGE ALBERTO",
-    "last_name": "NAJERA CASTREJON",
-    "rating": 8.6667,
-    "num_ratings": 9
+    "professor_id": 102330,
+    "first_name": "Israel",
+    "last_name": "Garduño Garcia",
+    "rating": 7.6667,
+    "num_ratings": 12
   },
   {
     "code": "7603",
@@ -76,11 +76,11 @@
     "professor": "ALAN MICHELL RAMIREZ PEÑA",
     "schedules": [
       {
-        "time": "11:00-13:00",
+        "time": "09:00-11:00",
         "days": [
           5
         ],
-        "classroom": "O005"
+        "classroom": "18"
       }
     ]
   },
@@ -92,9 +92,9 @@
       {
         "time": "13:00-15:00",
         "days": [
-          4
+          1
         ],
-        "classroom": "O005"
+        "classroom": "18"
       }
     ],
     "professor_id": 188267,
@@ -106,6 +106,63 @@
   {
     "code": "7603",
     "group": "7",
+    "professor": "JORGE ALBERTO NAJERA CASTREJON",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          2
+        ],
+        "classroom": "18"
+      }
+    ],
+    "professor_id": 112014,
+    "first_name": "JORGE ALBERTO",
+    "last_name": "NAJERA CASTREJON",
+    "rating": 8.6667,
+    "num_ratings": 9
+  },
+  {
+    "code": "7603",
+    "group": "8",
+    "professor": "PABLO EDUARDO LIRA VELAZQUEZ",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          3
+        ],
+        "classroom": "18"
+      }
+    ],
+    "professor_id": 188267,
+    "first_name": "Pablo Eduardo",
+    "last_name": "Lira Velázquez",
+    "rating": 7.17,
+    "num_ratings": 6
+  },
+  {
+    "code": "7603",
+    "group": "9",
+    "professor": "PABLO EDUARDO LIRA VELAZQUEZ",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          4
+        ],
+        "classroom": "18"
+      }
+    ],
+    "professor_id": 188267,
+    "first_name": "Pablo Eduardo",
+    "last_name": "Lira Velázquez",
+    "rating": 7.17,
+    "num_ratings": 6
+  },
+  {
+    "code": "7603",
+    "group": "10",
     "professor": "OSVALDO RUIZ CERVANTES",
     "schedules": [
       {
@@ -113,7 +170,7 @@
         "days": [
           2
         ],
-        "classroom": "O005"
+        "classroom": "18"
       }
     ],
     "professor_id": 90646,
@@ -124,54 +181,21 @@
   },
   {
     "code": "7603",
-    "group": "9",
-    "professor": "ALAN MICHELL RAMIREZ PEÑA",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          1
-        ],
-        "classroom": "O005"
-      }
-    ]
-  },
-  {
-    "code": "7603",
-    "group": "10",
-    "professor": "PABLO EDUARDO LIRA VELAZQUEZ",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          1
-        ],
-        "classroom": "O009"
-      }
-    ],
-    "professor_id": 188267,
-    "first_name": "Pablo Eduardo",
-    "last_name": "Lira Velázquez",
-    "rating": 7.17,
-    "num_ratings": 6
-  },
-  {
-    "code": "7603",
     "group": "11",
-    "professor": "PABLO EDUARDO LIRA VELAZQUEZ",
+    "professor": "ROGELIO DARIO GUTIERREZ CARRILLO",
     "schedules": [
       {
-        "time": "13:00-15:00",
+        "time": "17:00-19:00",
         "days": [
           3
         ],
-        "classroom": "O009"
+        "classroom": "18"
       }
     ],
-    "professor_id": 188267,
-    "first_name": "Pablo Eduardo",
-    "last_name": "Lira Velázquez",
-    "rating": 7.17,
-    "num_ratings": 6
+    "professor_id": 124462,
+    "first_name": "ROGELIO DARIO",
+    "last_name": "GUTIERREZ",
+    "rating": 5.4444,
+    "num_ratings": 18
   }
 ]

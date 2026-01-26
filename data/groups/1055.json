@@ -10,7 +10,7 @@
           1,
           3
         ],
-        "classroom": "B203"
+        "classroom": "35"
       }
     ]
   },
@@ -22,10 +22,10 @@
       {
         "time": "07:00-09:00",
         "days": [
-          2,
-          4
+          1,
+          3
         ],
-        "classroom": "A104"
+        "classroom": "35"
       }
     ],
     "professor_id": 78031,
@@ -37,26 +37,6 @@
   {
     "code": "1055",
     "group": "3",
-    "professor": "PABLO GARCIA Y COLOME",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "A108"
-      }
-    ],
-    "professor_id": 27999,
-    "first_name": "Pablo",
-    "last_name": "Garcia  y colome",
-    "rating": 6.0702,
-    "num_ratings": 114
-  },
-  {
-    "code": "1055",
-    "group": "4",
     "professor": "MARIA EUGENIA FERNANDEZ QUINTERO",
     "schedules": [
       {
@@ -65,72 +45,22 @@
           2,
           4
         ],
-        "classroom": "A103"
+        "classroom": "35"
       }
     ]
   },
   {
     "code": "1055",
-    "group": "5",
-    "professor": "MARIA DE GUADALUPE FLOR DIAZ DE LEON FERNANDEZ DE CASTRO",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "B203"
-      }
-    ]
-  },
-  {
-    "code": "1055",
-    "group": "6",
-    "professor": "VICTORIA RAMIRO ESTEBAN",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "A108"
-      }
-    ],
-    "professor_id": 80225,
-    "first_name": "Victoria",
-    "last_name": "Ramiro Esteban",
-    "rating": 7.1053,
-    "num_ratings": 38
-  },
-  {
-    "code": "1055",
-    "group": "7",
-    "professor": "MARIA DEL PILAR CARRILLO FARGA",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "A103"
-      }
-    ]
-  },
-  {
-    "code": "1055",
-    "group": "8",
+    "group": "4",
     "professor": "JESUS PEREZ ESQUIVEL",
     "schedules": [
       {
-        "time": "09:00-11:00",
+        "time": "07:00-09:00",
         "days": [
           2,
           4
         ],
-        "classroom": "A108"
+        "classroom": "35"
       }
     ],
     "professor_id": 78031,
@@ -141,7 +71,52 @@
   },
   {
     "code": "1055",
-    "group": "9",
+    "group": "5",
+    "professor": "CARLOS EDUARDO ARIAS GALINDO",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "35"
+      }
+    ]
+  },
+  {
+    "code": "1055",
+    "group": "6",
+    "professor": "ADRIANA CONTRERAS GARCÍA",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "35"
+      }
+    ]
+  },
+  {
+    "code": "1055",
+    "group": "7",
+    "professor": "MARIA DE GUADALUPE FLOR DIAZ DE LEON FERNANDEZ DE CASTRO",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "35"
+      }
+    ]
+  },
+  {
+    "code": "1055",
+    "group": "8",
     "professor": "MARGARITA PUEBLA CADENA",
     "schedules": [
       {
@@ -150,7 +125,7 @@
           1,
           3
         ],
-        "classroom": "A102"
+        "classroom": "35"
       }
     ],
     "professor_id": 36978,
@@ -161,16 +136,16 @@
   },
   {
     "code": "1055",
-    "group": "10",
+    "group": "9",
     "professor": "VICTORIA RAMIRO ESTEBAN",
     "schedules": [
       {
         "time": "11:00-13:00",
         "days": [
-          1,
-          3
+          2,
+          4
         ],
-        "classroom": "A108"
+        "classroom": "35"
       }
     ],
     "professor_id": 80225,
@@ -181,16 +156,16 @@
   },
   {
     "code": "1055",
-    "group": "11",
+    "group": "10",
     "professor": "MARIA CUAIRAN RUIDIAZ",
     "schedules": [
       {
         "time": "11:00-13:00",
         "days": [
-          1,
-          3
+          3,
+          5
         ],
-        "classroom": "A101"
+        "classroom": "35"
       }
     ],
     "professor_id": 78509,
@@ -201,22 +176,7 @@
   },
   {
     "code": "1055",
-    "group": "12",
-    "professor": "ADRIANA CONTRERAS GARCÍA",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "A105"
-      }
-    ]
-  },
-  {
-    "code": "1055",
-    "group": "13",
+    "group": "11",
     "professor": "TEHNY CAROLINA RUIZ PRIMO MARTINEZ",
     "schedules": [
       {
@@ -224,7 +184,7 @@
         "days": [
           5
         ],
-        "classroom": "A102"
+        "classroom": "35"
       }
     ],
     "professor_id": 67966,
@@ -235,8 +195,8 @@
   },
   {
     "code": "1055",
-    "group": "14",
-    "professor": "ANA LUISA ALBERRO LIZON",
+    "group": "12",
+    "professor": "VICTORIA RAMIRO ESTEBAN",
     "schedules": [
       {
         "time": "13:00-15:00",
@@ -244,19 +204,19 @@
           2,
           4
         ],
-        "classroom": "A102"
+        "classroom": "35"
       }
     ],
-    "professor_id": 64967,
-    "first_name": "Ana Luisa",
-    "last_name": "Alberro Lizon",
-    "rating": 9.0,
-    "num_ratings": 23
+    "professor_id": 80225,
+    "first_name": "Victoria",
+    "last_name": "Ramiro Esteban",
+    "rating": 7.1053,
+    "num_ratings": 38
   },
   {
     "code": "1055",
-    "group": "15",
-    "professor": "MAYRA CASAR ACOSTA",
+    "group": "13",
+    "professor": "MARIA DEL PILAR CARRILLO FARGA",
     "schedules": [
       {
         "time": "15:00-17:00",
@@ -264,7 +224,57 @@
           1,
           3
         ],
-        "classroom": "A108"
+        "classroom": "35"
+      }
+    ]
+  },
+  {
+    "code": "1055",
+    "group": "14",
+    "professor": "JULIO ENRIQUE GORDILLO TORRES",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1,
+          5
+        ],
+        "classroom": "35"
+      }
+    ],
+    "professor_id": 61268,
+    "first_name": "Julio Enrique",
+    "last_name": "Gordillo Torres",
+    "rating": 7.7647,
+    "num_ratings": 34
+  },
+  {
+    "code": "1055",
+    "group": "15",
+    "professor": "ANA YANTZIN PEREZ CORTES",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "35"
+      }
+    ]
+  },
+  {
+    "code": "1055",
+    "group": "16",
+    "professor": "MAYRA CASAR ACOSTA",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "35"
       }
     ],
     "professor_id": 183488,
@@ -275,58 +285,38 @@
   },
   {
     "code": "1055",
-    "group": "16",
-    "professor": "JULIO ENRIQUE GORDILLO TORRES",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          1,
-          5
-        ],
-        "classroom": "A102"
-      }
-    ],
-    "professor_id": 61268,
-    "first_name": "Julio Enrique",
-    "last_name": "Gordillo Torres",
-    "rating": 7.7647,
-    "num_ratings": 34
-  },
-  {
-    "code": "1055",
     "group": "17",
-    "professor": "ANA YANTZIN PEREZ CORTES",
+    "professor": "ANTONIO DE JESUS CASTRO RANGEL",
     "schedules": [
       {
-        "time": "15:00-17:00",
+        "time": "17:00-19:00",
         "days": [
           2,
           4
         ],
-        "classroom": "A101"
+        "classroom": "35"
       }
-    ]
+    ],
+    "professor_id": 87088,
+    "first_name": "Antonio",
+    "last_name": "Castro Rangel",
+    "rating": 7.6875,
+    "num_ratings": 32
   },
   {
     "code": "1055",
     "group": "18",
-    "professor": "JULIO ENRIQUE GORDILLO TORRES",
+    "professor": "ANA YANTZIN PEREZ CORTES",
     "schedules": [
       {
-        "time": "15:00-17:00",
+        "time": "17:00-19:00",
         "days": [
           2,
           4
         ],
-        "classroom": "B203"
+        "classroom": "35"
       }
-    ],
-    "professor_id": 61268,
-    "first_name": "Julio Enrique",
-    "last_name": "Gordillo Torres",
-    "rating": 7.7647,
-    "num_ratings": 34
+    ]
   },
   {
     "code": "1055",
@@ -338,7 +328,7 @@
         "days": [
           5
         ],
-        "classroom": "A104"
+        "classroom": "35"
       }
     ],
     "professor_id": 67966,
@@ -350,21 +340,6 @@
   {
     "code": "1055",
     "group": "20",
-    "professor": "ANA YANTZIN PEREZ CORTES",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "A102"
-      }
-    ]
-  },
-  {
-    "code": "1055",
-    "group": "22",
     "professor": "ANTONIO DE JESUS CASTRO RANGEL",
     "schedules": [
       {
@@ -373,7 +348,7 @@
           2,
           4
         ],
-        "classroom": "A101"
+        "classroom": "35"
       }
     ],
     "professor_id": 87088,

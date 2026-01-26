@@ -7,9 +7,9 @@
       {
         "time": "07:00-09:00",
         "days": [
-          1
+          2
         ],
-        "classroom": "A202"
+        "classroom": "30"
       }
     ],
     "professor_id": 85595,
@@ -28,7 +28,7 @@
         "days": [
           1
         ],
-        "classroom": "A202"
+        "classroom": "30"
       }
     ],
     "professor_id": 76048,
@@ -40,6 +40,20 @@
   {
     "code": "1789",
     "group": "3",
+    "professor": "CARLOS EDUARDO ARIAS GALINDO",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          3
+        ],
+        "classroom": "30"
+      }
+    ]
+  },
+  {
+    "code": "1789",
+    "group": "4",
     "professor": "ANA LUISA SELENE ALVAREZ CARRILLO",
     "schedules": [
       {
@@ -47,7 +61,7 @@
         "days": [
           1
         ],
-        "classroom": "A103"
+        "classroom": "30"
       }
     ],
     "professor_id": 71332,
@@ -58,53 +72,15 @@
   },
   {
     "code": "1789",
-    "group": "4",
-    "professor": "VICTOR DAMIAN PINILLA MORAN",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          3
-        ],
-        "classroom": "B203"
-      }
-    ],
-    "professor_id": 20280,
-    "first_name": "Victor Damian",
-    "last_name": "Pinilla Moran",
-    "rating": 5.6522,
-    "num_ratings": 69
-  },
-  {
-    "code": "1789",
     "group": "5",
-    "professor": "ALDO FERNANDO TRUJILLO PRIEGO",
+    "professor": "HUGO GERMAN SERRANO MIRANDA",
     "schedules": [
       {
         "time": "11:00-13:00",
         "days": [
           5
         ],
-        "classroom": "A101"
-      }
-    ],
-    "professor_id": 98613,
-    "first_name": "Aldo Fernando",
-    "last_name": "Priego Trujillo",
-    "rating": 5.5,
-    "num_ratings": 10
-  },
-  {
-    "code": "1789",
-    "group": "6",
-    "professor": "HUGO GERMAN SERRANO MIRANDA",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          2
-        ],
-        "classroom": "A105"
+        "classroom": "30"
       }
     ],
     "professor_id": 84710,
@@ -115,40 +91,7 @@
   },
   {
     "code": "1789",
-    "group": "7",
-    "professor": "ALDO FERNANDO TRUJILLO PRIEGO",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          3
-        ],
-        "classroom": "A105"
-      }
-    ],
-    "professor_id": 98613,
-    "first_name": "Aldo Fernando",
-    "last_name": "Priego Trujillo",
-    "rating": 5.5,
-    "num_ratings": 10
-  },
-  {
-    "code": "1789",
-    "group": "8",
-    "professor": "ROGELIO TRINIDAD GODINEZ RESENDIZ",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          1
-        ],
-        "classroom": "A101"
-      }
-    ]
-  },
-  {
-    "code": "1789",
-    "group": "9",
+    "group": "6",
     "professor": "OLINCA SUAREZ MEJIA",
     "schedules": [
       {
@@ -156,7 +99,7 @@
         "days": [
           2
         ],
-        "classroom": "A103"
+        "classroom": "30"
       }
     ],
     "professor_id": 67067,
@@ -167,7 +110,7 @@
   },
   {
     "code": "1789",
-    "group": "10",
+    "group": "7",
     "professor": "CARLOS HERNANDEZ ESPINOSA",
     "schedules": [
       {
@@ -175,7 +118,7 @@
         "days": [
           3
         ],
-        "classroom": "A102"
+        "classroom": "30"
       }
     ],
     "professor_id": 36979,
@@ -186,7 +129,40 @@
   },
   {
     "code": "1789",
-    "group": "11",
+    "group": "8",
+    "professor": "CARLOS HERNANDEZ ESPINOSA",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          5
+        ],
+        "classroom": "30"
+      }
+    ],
+    "professor_id": 36979,
+    "first_name": "Carlos",
+    "last_name": "Hernández Espinosa",
+    "rating": 5.4444,
+    "num_ratings": 9
+  },
+  {
+    "code": "1789",
+    "group": "9",
+    "professor": "ROGELIO TRINIDAD GODINEZ RESENDIZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1
+        ],
+        "classroom": "30"
+      }
+    ]
+  },
+  {
+    "code": "1789",
+    "group": "10",
     "professor": "RODOLFO CARLOS PRIETO MENDOZA",
     "schedules": [
       {
@@ -194,27 +170,8 @@
         "days": [
           3
         ],
-        "classroom": "A104"
+        "classroom": "30"
       }
     ]
-  },
-  {
-    "code": "1789",
-    "group": "12",
-    "professor": "CARLOS HERNANDEZ ESPINOSA",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          5
-        ],
-        "classroom": "A105"
-      }
-    ],
-    "professor_id": 36979,
-    "first_name": "Carlos",
-    "last_name": "Hernández Espinosa",
-    "rating": 5.4444,
-    "num_ratings": 9
   }
 ]

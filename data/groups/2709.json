@@ -1,26 +1,6 @@
 [
   {
     "code": "2709",
-    "group": "1",
-    "professor": "MARTIN CARDENAS SOTO",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "C402"
-      }
-    ],
-    "professor_id": 124069,
-    "first_name": "Martín",
-    "last_name": "Cardenas Soto",
-    "rating": 4.0,
-    "num_ratings": 2
-  },
-  {
-    "code": "2709",
     "group": "2",
     "professor": "JOSE ANTONIO MARTINEZ GONZÁLEZ",
     "schedules": [
@@ -30,7 +10,7 @@
           2,
           4
         ],
-        "classroom": "A402"
+        "classroom": "20"
       }
     ]
   }

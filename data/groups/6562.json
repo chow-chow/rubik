@@ -9,7 +9,7 @@
         "days": [
           1
         ],
-        "classroom": "P215"
+        "classroom": "14"
       }
     ],
     "professor_id": 58672,
@@ -28,7 +28,7 @@
         "days": [
           1
         ],
-        "classroom": "P215"
+        "classroom": "14"
       }
     ],
     "professor_id": 95374,
@@ -47,7 +47,7 @@
         "days": [
           1
         ],
-        "classroom": "P215"
+        "classroom": "14"
       }
     ],
     "professor_id": 95374,
@@ -59,40 +59,35 @@
   {
     "code": "6562",
     "group": "4",
-    "professor": "MARTHA ISELA TORRES HERNANDEZ",
+    "professor": "PROFESOR POR ASIGNAR",
     "schedules": [
       {
         "time": "07:00-09:00",
         "days": [
           2
         ],
-        "classroom": "P215"
+        "classroom": "14"
       }
-    ],
-    "professor_id": 134274,
-    "first_name": "Martha Isela",
-    "last_name": "Torres Hernández",
-    "rating": 7.5263,
-    "num_ratings": 19
+    ]
   },
   {
     "code": "6562",
     "group": "5",
-    "professor": "MARTHA ISELA TORRES HERNANDEZ",
+    "professor": "BENJAMIN RAMIREZ HERNANDEZ",
     "schedules": [
       {
         "time": "09:00-11:00",
         "days": [
           2
         ],
-        "classroom": "P215"
+        "classroom": "14"
       }
     ],
-    "professor_id": 134274,
-    "first_name": "Martha Isela",
-    "last_name": "Torres Hernández",
-    "rating": 7.5263,
-    "num_ratings": 19
+    "professor_id": 134845,
+    "first_name": "Benjamin",
+    "last_name": "Ramírez Hernández",
+    "rating": 7.129,
+    "num_ratings": 31
   },
   {
     "code": "6562",
@@ -104,7 +99,7 @@
         "days": [
           2
         ],
-        "classroom": "P215"
+        "classroom": "14"
       }
     ],
     "professor_id": 83076,
@@ -123,7 +118,7 @@
         "days": [
           3
         ],
-        "classroom": "P215"
+        "classroom": "14"
       }
     ],
     "professor_id": 58672,
@@ -142,7 +137,7 @@
         "days": [
           3
         ],
-        "classroom": "P215"
+        "classroom": "14"
       }
     ],
     "professor_id": 95190,
@@ -161,7 +156,7 @@
         "days": [
           3
         ],
-        "classroom": "P215"
+        "classroom": "14"
       }
     ],
     "professor_id": 95374,
@@ -173,35 +168,40 @@
   {
     "code": "6562",
     "group": "10",
-    "professor": "PATRICIA TRIGUEROS MEZA",
+    "professor": "BENJAMIN RAMIREZ HERNANDEZ",
     "schedules": [
       {
         "time": "07:00-09:00",
         "days": [
           4
         ],
-        "classroom": "P215"
+        "classroom": "14"
       }
-    ]
+    ],
+    "professor_id": 134845,
+    "first_name": "Benjamin",
+    "last_name": "Ramírez Hernández",
+    "rating": 7.129,
+    "num_ratings": 31
   },
   {
     "code": "6562",
     "group": "11",
-    "professor": "JUAN MANUEL VELASCO MIRANDA",
+    "professor": "MAURICIO AYALA HERNANDEZ",
     "schedules": [
       {
-        "time": "07:00-09:00",
+        "time": "17:00-19:00",
         "days": [
-          5
+          4
         ],
-        "classroom": "P215"
+        "classroom": "14"
       }
     ],
-    "professor_id": 95190,
-    "first_name": "Juan Manuel",
-    "last_name": "Velasco Miranda",
-    "rating": 8.8333,
-    "num_ratings": 12
+    "professor_id": 74386,
+    "first_name": "Mauricio",
+    "last_name": "Ayala Hernandez",
+    "rating": 8.4286,
+    "num_ratings": 14
   },
   {
     "code": "6562",
@@ -209,11 +209,11 @@
     "professor": "MAURICIO AYALA HERNANDEZ",
     "schedules": [
       {
-        "time": "09:00-11:00",
+        "time": "19:00-21:00",
         "days": [
-          5
+          4
         ],
-        "classroom": "P215"
+        "classroom": "14"
       }
     ],
     "professor_id": 74386,
@@ -225,6 +225,44 @@
   {
     "code": "6562",
     "group": "13",
+    "professor": "JUAN MANUEL VELASCO MIRANDA",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          5
+        ],
+        "classroom": "6"
+      }
+    ],
+    "professor_id": 95190,
+    "first_name": "Juan Manuel",
+    "last_name": "Velasco Miranda",
+    "rating": 8.8333,
+    "num_ratings": 12
+  },
+  {
+    "code": "6562",
+    "group": "14",
+    "professor": "MAURICIO AYALA HERNANDEZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          5
+        ],
+        "classroom": "14"
+      }
+    ],
+    "professor_id": 74386,
+    "first_name": "Mauricio",
+    "last_name": "Ayala Hernandez",
+    "rating": 8.4286,
+    "num_ratings": 14
+  },
+  {
+    "code": "6562",
+    "group": "15",
     "professor": "FERNANDO RIVERA PEREZ",
     "schedules": [
       {
@@ -232,13 +270,13 @@
         "days": [
           5
         ],
-        "classroom": "P215"
+        "classroom": "14"
       }
     ]
   },
   {
     "code": "6562",
-    "group": "14",
+    "group": "16",
     "professor": "FERNANDO RIVERA PEREZ",
     "schedules": [
       {
@@ -246,46 +284,8 @@
         "days": [
           5
         ],
-        "classroom": "P215"
+        "classroom": "14"
       }
     ]
-  },
-  {
-    "code": "6562",
-    "group": "15",
-    "professor": "EDGAR  BALDEMAR AGUADO CRUZ",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          2
-        ],
-        "classroom": "P215"
-      }
-    ],
-    "professor_id": 99901,
-    "first_name": "Edgar Baldemar",
-    "last_name": "Aguado Cruz",
-    "rating": 8.25,
-    "num_ratings": 28
-  },
-  {
-    "code": "6562",
-    "group": "16",
-    "professor": "EDGAR  BALDEMAR AGUADO CRUZ",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          5
-        ],
-        "classroom": "P215"
-      }
-    ],
-    "professor_id": 99901,
-    "first_name": "Edgar Baldemar",
-    "last_name": "Aguado Cruz",
-    "rating": 8.25,
-    "num_ratings": 28
   }
 ]

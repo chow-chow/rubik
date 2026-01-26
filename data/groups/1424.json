@@ -2,6 +2,20 @@
   {
     "code": "1424",
     "group": "1",
+    "professor": "PAVEL RAMOS MARTÍNEZ",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          1
+        ],
+        "classroom": "48"
+      }
+    ]
+  },
+  {
+    "code": "1424",
+    "group": "2",
     "professor": "SAUL LAZCANO SALAS",
     "schedules": [
       {
@@ -10,7 +24,7 @@
           2,
           4
         ],
-        "classroom": "J111"
+        "classroom": "48"
       }
     ],
     "professor_id": 149542,
@@ -21,16 +35,36 @@
   },
   {
     "code": "1424",
-    "group": "2",
+    "group": "3",
+    "professor": "MANUEL CORTES RUBIO",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "48"
+      }
+    ],
+    "professor_id": 100208,
+    "first_name": "Manuel",
+    "last_name": "Cortes Rubio",
+    "rating": 8.5926,
+    "num_ratings": 81
+  },
+  {
+    "code": "1424",
+    "group": "4",
     "professor": "DANIEL PEÑA MACIEL",
     "schedules": [
       {
         "time": "09:00-11:00",
         "days": [
-          3,
+          1,
           5
         ],
-        "classroom": "J206"
+        "classroom": "48"
       }
     ],
     "professor_id": 84731,
@@ -41,7 +75,27 @@
   },
   {
     "code": "1424",
-    "group": "3",
+    "group": "5",
+    "professor": "DANIEL PEÑA MACIEL",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "48"
+      }
+    ],
+    "professor_id": 84731,
+    "first_name": "Daniel",
+    "last_name": "Peña Maciel",
+    "rating": 7.24,
+    "num_ratings": 25
+  },
+  {
+    "code": "1424",
+    "group": "6",
     "professor": "EDGAR ALI RAMOS GOMEZ",
     "schedules": [
       {
@@ -50,7 +104,7 @@
           2,
           4
         ],
-        "classroom": "Y101"
+        "classroom": "48"
       }
     ],
     "professor_id": 84254,
@@ -61,82 +115,16 @@
   },
   {
     "code": "1424",
-    "group": "4",
-    "professor": "HERIBERTO DE JESUS AGUILAR JUAREZ",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          3,
-          5
-        ],
-        "classroom": "I102"
-      }
-    ],
-    "professor_id": 78508,
-    "first_name": "Heriberto de Jesús",
-    "last_name": "Aguilar Juárez",
-    "rating": 8.6579,
-    "num_ratings": 38
-  },
-  {
-    "code": "1424",
-    "group": "5",
-    "professor": "SALVADOR ENRIQUE VILLALOBOS PEREZ",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "J101"
-      }
-    ],
-    "professor_id": 156721,
-    "first_name": "Salvador Enrique",
-    "last_name": "Villalobos Perez",
-    "rating": 5.8824,
-    "num_ratings": 17
-  },
-  {
-    "code": "1424",
-    "group": "6",
-    "professor": "JOSE LUIS FLORES SILVA",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          3
-        ],
-        "classroom": "I302"
-      },
-      {
-        "time": "17:00-19:00",
-        "days": [
-          1
-        ],
-        "classroom": "I305"
-      }
-    ],
-    "professor_id": 43499,
-    "first_name": "Jose luis",
-    "last_name": "Flores Silva",
-    "rating": 7.4107,
-    "num_ratings": 56
-  },
-  {
-    "code": "1424",
     "group": "7",
     "professor": "CYNTHIA LISSETH VELAZCO VELASCO",
     "schedules": [
       {
-        "time": "17:00-19:00",
+        "time": "13:00-15:00",
         "days": [
           2,
           4
         ],
-        "classroom": "J209"
+        "classroom": "48"
       }
     ],
     "professor_id": 86508,
@@ -148,16 +136,101 @@
   {
     "code": "1424",
     "group": "8",
-    "professor": "PAVEL RAMOS MARTÍNEZ",
+    "professor": "MANUEL CORTES RUBIO",
     "schedules": [
       {
-        "time": "19:00-21:00",
+        "time": "13:00-15:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "48"
+      }
+    ],
+    "professor_id": 100208,
+    "first_name": "Manuel",
+    "last_name": "Cortes Rubio",
+    "rating": 8.5926,
+    "num_ratings": 81
+  },
+  {
+    "code": "1424",
+    "group": "9",
+    "professor": "HERIBERTO DE JESUS AGUILAR JUAREZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
         "days": [
           1,
           3
         ],
-        "classroom": "J201"
+        "classroom": "35"
       }
-    ]
+    ],
+    "professor_id": 78508,
+    "first_name": "Heriberto de Jesús",
+    "last_name": "Aguilar Juárez",
+    "rating": 8.6579,
+    "num_ratings": 38
+  },
+  {
+    "code": "1424",
+    "group": "10",
+    "professor": "CYNTHIA LISSETH VELAZCO VELASCO",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "48"
+      }
+    ],
+    "professor_id": 86508,
+    "first_name": "Cynthia Lisseth",
+    "last_name": "Velazco Velasco",
+    "rating": 7.3396,
+    "num_ratings": 53
+  },
+  {
+    "code": "1424",
+    "group": "11",
+    "professor": "JOSE LUIS FLORES SILVA",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "48"
+      }
+    ],
+    "professor_id": 43499,
+    "first_name": "Jose luis",
+    "last_name": "Flores Silva",
+    "rating": 7.4107,
+    "num_ratings": 56
+  },
+  {
+    "code": "1424",
+    "group": "12",
+    "professor": "SALVADOR ENRIQUE VILLALOBOS PEREZ",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "48"
+      }
+    ],
+    "professor_id": 156721,
+    "first_name": "Salvador Enrique",
+    "last_name": "Villalobos Perez",
+    "rating": 5.8824,
+    "num_ratings": 17
   }
 ]

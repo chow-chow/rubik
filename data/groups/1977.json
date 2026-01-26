@@ -7,47 +7,17 @@
       {
         "time": "09:00-11:00",
         "days": [
-          3,
-          5
+          1,
+          3
         ],
-        "classroom": "X101"
+        "classroom": "10"
       }
     ]
   },
   {
     "code": "1977",
-    "group": "3",
-    "professor": "BRUNO ELOY MENDEZ AMBROSIO",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "EXTR"
-      }
-    ]
-  },
-  {
-    "code": "1977",
-    "group": "4",
-    "professor": "GRACIELA VELASCO HERRERA",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "EXTR"
-      }
-    ]
-  },
-  {
-    "code": "1977",
-    "group": "5",
-    "professor": "JOSE FEDERICO HERNANDEZ SANCHEZ",
+    "group": "2",
+    "professor": "JORGE LUIS ROJAS ARCE",
     "schedules": [
       {
         "time": "09:00-11:00",
@@ -55,13 +25,108 @@
           2,
           4
         ],
-        "classroom": "EXTR"
+        "classroom": "10"
+      }
+    ],
+    "professor_id": 134036,
+    "first_name": "Jorge Luis",
+    "last_name": "Rojas Arce",
+    "rating": 7.0,
+    "num_ratings": 9
+  },
+  {
+    "code": "1977",
+    "group": "3",
+    "professor": "BRUNO ELOY MENDEZ AMBROSIO",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "10"
+      }
+    ]
+  },
+  {
+    "code": "1977",
+    "group": "4",
+    "professor": "ZAIDA ESTEFANIA ALARCON BERNAL",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "10"
+      }
+    ]
+  },
+  {
+    "code": "1977",
+    "group": "5",
+    "professor": "JESUS ESTEBAN PEREZ ORTEGA",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "10"
       }
     ]
   },
   {
     "code": "1977",
     "group": "6",
+    "professor": "EDGAR ANTONIO HERNANDEZ TIRADO",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "10"
+      }
+    ]
+  },
+  {
+    "code": "1977",
+    "group": "7",
+    "professor": "JIMENA OLVERES MONTIEL",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "10"
+      }
+    ]
+  },
+  {
+    "code": "1977",
+    "group": "8",
+    "professor": "JUAN CARLOS MUÑOZ TORRES",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "10"
+      }
+    ]
+  },
+  {
+    "code": "1977",
+    "group": "9",
     "professor": "FERNANDO PEREZ ESCAMIROSA",
     "schedules": [
       {
@@ -70,7 +135,52 @@
           2,
           4
         ],
-        "classroom": "EXTR"
+        "classroom": "10"
+      }
+    ]
+  },
+  {
+    "code": "1977",
+    "group": "10",
+    "professor": "ZEUS TLALTECUTLI DOMINGUEZ VEGA",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "10"
+      }
+    ]
+  },
+  {
+    "code": "1977",
+    "group": "11",
+    "professor": "GRACIELA VELASCO HERRERA",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "10"
+      }
+    ]
+  },
+  {
+    "code": "1977",
+    "group": "12",
+    "professor": "DIEGO ORTEGA PICAZO",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "10"
       }
     ]
   }

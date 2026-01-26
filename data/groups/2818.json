@@ -10,7 +10,7 @@
           1,
           3
         ],
-        "classroom": "A207"
+        "classroom": "20"
       }
     ],
     "professor_id": 134814,
@@ -18,5 +18,20 @@
     "last_name": "Sepúlveda Hirose",
     "rating": 7.2222,
     "num_ratings": 9
+  },
+  {
+    "code": "2818",
+    "group": "2",
+    "professor": "FERNANDO MILLAN VAZQUEZ",
+    "schedules": [
+      {
+        "time": "13:00-14:30",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "20"
+      }
+    ]
   }
 ]

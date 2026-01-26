@@ -2,22 +2,40 @@
   {
     "code": "1231",
     "group": "1",
-    "professor": "ARIANEE SAINZ VIDAL",
+    "professor": "EHECATL LUIS DAVID PALEO GONZALEZ",
     "schedules": [
       {
         "time": "09:00-11:00",
         "days": [
-          1
+          5
         ],
-        "classroom": "J105"
-      },
-      {
-        "time": "09:00-11:00",
-        "days": [
-          3
-        ],
-        "classroom": "J102"
+        "classroom": "48"
       }
-    ]
+    ],
+    "professor_id": 84416,
+    "first_name": "Ehecatl Luis",
+    "last_name": "Paleo González",
+    "rating": 6.3448,
+    "num_ratings": 29
+  },
+  {
+    "code": "1231",
+    "group": "2",
+    "professor": "GERARDO BARON SANCHEZ",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "48"
+      }
+    ],
+    "professor_id": 62945,
+    "first_name": "Gerardo",
+    "last_name": "Barón Sánchez",
+    "rating": 9.375,
+    "num_ratings": 16
   }
 ]

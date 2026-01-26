@@ -10,7 +10,7 @@
           1,
           3
         ],
-        "classroom": "A210"
+        "classroom": "23"
       }
     ],
     "professor_id": 96627,
@@ -18,20 +18,5 @@
     "last_name": "Posadas Navarro",
     "rating": 9.6,
     "num_ratings": 10
-  },
-  {
-    "code": "2505",
-    "group": "2",
-    "professor": "LOURDES MENDOZA GONZALEZ",
-    "schedules": [
-      {
-        "time": "16:00-17:30",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "S005"
-      }
-    ]
   }
 ]

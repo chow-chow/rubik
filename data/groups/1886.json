@@ -2,21 +2,6 @@
   {
     "code": "1886",
     "group": "1",
-    "professor": "OSCAR CASTRO SARABIA",
-    "schedules": [
-      {
-        "time": "07:00-08:30",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "SIN"
-      }
-    ]
-  },
-  {
-    "code": "1886",
-    "group": "2",
     "professor": "DIANA RODRIGUEZ BRAVO",
     "schedules": [
       {
@@ -25,7 +10,7 @@
           2,
           4
         ],
-        "classroom": "A212"
+        "classroom": "25"
       }
     ]
   }

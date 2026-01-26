@@ -2,36 +2,6 @@
   {
     "code": "1584",
     "group": "1",
-    "professor": "MARIA DE LOURDES BARBOSA SALDAÑA",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "J200"
-      }
-    ]
-  },
-  {
-    "code": "1584",
-    "group": "2",
-    "professor": "BERENICE DE JESÚS DE LA CRUZ",
-    "schedules": [
-      {
-        "time": "18:00-20:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "A401"
-      }
-    ]
-  },
-  {
-    "code": "1584",
-    "group": "3",
     "professor": "DARÍO EMMANUEL SOLANO ROJAS",
     "schedules": [
       {
@@ -40,7 +10,37 @@
           2,
           4
         ],
-        "classroom": "C103"
+        "classroom": "11"
+      }
+    ]
+  },
+  {
+    "code": "1584",
+    "group": "2",
+    "professor": "MARIA DE LOURDES BARBOSA SALDAÑA",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "11"
+      }
+    ]
+  },
+  {
+    "code": "1584",
+    "group": "3",
+    "professor": "BERENICE DE JESÚS DE LA CRUZ",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "11"
       }
     ]
   }

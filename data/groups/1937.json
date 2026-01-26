@@ -10,7 +10,7 @@
           1,
           3
         ],
-        "classroom": "A201"
+        "classroom": "30"
       }
     ],
     "professor_id": 99861,
@@ -22,26 +22,6 @@
   {
     "code": "1937",
     "group": "2",
-    "professor": "VICENTE FLORES OLVERA",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "B205"
-      }
-    ],
-    "professor_id": 65407,
-    "first_name": "vicente",
-    "last_name": "flores",
-    "rating": 7.2885,
-    "num_ratings": 52
-  },
-  {
-    "code": "1937",
-    "group": "3",
     "professor": "CHRISTO ALDAIR LARA TENORIO",
     "schedules": [
       {
@@ -50,13 +30,13 @@
           1,
           3
         ],
-        "classroom": "Q102"
+        "classroom": "25"
       }
     ]
   },
   {
     "code": "1937",
-    "group": "4",
+    "group": "3",
     "professor": "SAUL DE LA ROSA NIEVES",
     "schedules": [
       {
@@ -65,7 +45,7 @@
           2,
           4
         ],
-        "classroom": "Q101"
+        "classroom": "25"
       }
     ],
     "professor_id": 86735,
@@ -76,7 +56,7 @@
   },
   {
     "code": "1937",
-    "group": "5",
+    "group": "4",
     "professor": "ALEJANDRO SOSA FUENTES",
     "schedules": [
       {
@@ -85,7 +65,7 @@
           2,
           4
         ],
-        "classroom": "B305"
+        "classroom": "30"
       }
     ],
     "professor_id": 71693,
@@ -96,7 +76,7 @@
   },
   {
     "code": "1937",
-    "group": "6",
+    "group": "5",
     "professor": "JORGE DIAZ SALGADO",
     "schedules": [
       {
@@ -105,7 +85,7 @@
           2,
           4
         ],
-        "classroom": "A302"
+        "classroom": "30"
       }
     ],
     "professor_id": 105055,

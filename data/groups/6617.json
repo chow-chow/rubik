@@ -9,7 +9,7 @@
         "days": [
           1
         ],
-        "classroom": "Q101"
+        "classroom": "14"
       }
     ]
   },
@@ -23,7 +23,7 @@
         "days": [
           1
         ],
-        "classroom": "Q106"
+        "classroom": "12"
       }
     ],
     "professor_id": 94156,
@@ -42,7 +42,7 @@
         "days": [
           1
         ],
-        "classroom": "Q101"
+        "classroom": "14"
       }
     ]
   },
@@ -52,11 +52,11 @@
     "professor": "MARIA DEL SOCORRO GUEVARA RODRIGUEZ",
     "schedules": [
       {
-        "time": "11:00-13:00",
+        "time": "09:00-11:00",
         "days": [
           2
         ],
-        "classroom": "Q101"
+        "classroom": "14"
       }
     ],
     "professor_id": 78454,
@@ -75,7 +75,7 @@
         "days": [
           2
         ],
-        "classroom": "Q101"
+        "classroom": "14"
       }
     ]
   },
@@ -89,7 +89,7 @@
         "days": [
           3
         ],
-        "classroom": "Q101"
+        "classroom": "14"
       }
     ],
     "professor_id": 112721,
@@ -108,7 +108,7 @@
         "days": [
           4
         ],
-        "classroom": "Q101"
+        "classroom": "14"
       }
     ],
     "professor_id": 80201,
@@ -127,7 +127,7 @@
         "days": [
           4
         ],
-        "classroom": "Q101"
+        "classroom": "14"
       }
     ],
     "professor_id": 161304,
@@ -146,7 +146,7 @@
         "days": [
           4
         ],
-        "classroom": "Q101"
+        "classroom": "14"
       }
     ],
     "professor_id": 161304,
@@ -154,25 +154,6 @@
     "last_name": "Abrego Blancas",
     "rating": 9.6667,
     "num_ratings": 9
-  },
-  {
-    "code": "6617",
-    "group": "10",
-    "professor": "VICENTE FLORES OLVERA",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          5
-        ],
-        "classroom": "Q101"
-      }
-    ],
-    "professor_id": 65407,
-    "first_name": "vicente",
-    "last_name": "flores",
-    "rating": 7.2885,
-    "num_ratings": 52
   },
   {
     "code": "6617",
@@ -184,7 +165,7 @@
         "days": [
           5
         ],
-        "classroom": "Q101"
+        "classroom": "14"
       }
     ],
     "professor_id": 94156,
@@ -203,7 +184,7 @@
         "days": [
           5
         ],
-        "classroom": "Q101"
+        "classroom": "14"
       }
     ],
     "professor_id": 161304,

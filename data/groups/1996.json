@@ -2,39 +2,6 @@
   {
     "code": "1996",
     "group": "1",
-    "professor": "YUKIHIRO MINAMI KOYAMA",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          1
-        ],
-        "classroom": "B202"
-      },
-      {
-        "time": "09:00-11:00",
-        "days": [
-          5
-        ],
-        "classroom": "B301"
-      },
-      {
-        "time": "09:00-11:00",
-        "days": [
-          3
-        ],
-        "classroom": "O007"
-      }
-    ],
-    "professor_id": 27938,
-    "first_name": "Yukihiro",
-    "last_name": "Minami",
-    "rating": 8.175,
-    "num_ratings": 40
-  },
-  {
-    "code": "1996",
-    "group": "2",
     "professor": "ULISES MARTIN PEÑUELAS RIVAS",
     "schedules": [
       {
@@ -42,14 +9,27 @@
         "days": [
           4
         ],
-        "classroom": "O102"
-      },
+        "classroom": "20"
+      }
+    ],
+    "professor_id": 124473,
+    "first_name": "ULISES MARTIN",
+    "last_name": "PEÑUELAS RIVAS",
+    "rating": 7.9231,
+    "num_ratings": 13
+  },
+  {
+    "code": "1996",
+    "group": "2",
+    "professor": "ULISES MARTIN PEÑUELAS RIVAS",
+    "schedules": [
       {
-        "time": "11:00-14:00",
+        "time": "11:00-13:00",
         "days": [
-          2
+          1,
+          3
         ],
-        "classroom": "O007"
+        "classroom": "15"
       }
     ],
     "professor_id": 124473,
@@ -69,14 +49,7 @@
           1,
           3
         ],
-        "classroom": "B301"
-      },
-      {
-        "time": "11:00-13:00",
-        "days": [
-          5
-        ],
-        "classroom": "O007"
+        "classroom": "20"
       }
     ],
     "professor_id": 109270,
@@ -96,14 +69,7 @@
           1,
           3
         ],
-        "classroom": "A401"
-      },
-      {
-        "time": "13:00-15:00",
-        "days": [
-          5
-        ],
-        "classroom": "A401"
+        "classroom": "20"
       }
     ]
   },
@@ -115,23 +81,10 @@
       {
         "time": "07:00-09:00",
         "days": [
+          1,
           3
         ],
-        "classroom": "A205"
-      },
-      {
-        "time": "07:00-09:00",
-        "days": [
-          1
-        ],
-        "classroom": "A103"
-      },
-      {
-        "time": "07:00-09:00",
-        "days": [
-          5
-        ],
-        "classroom": "O007"
+        "classroom": "20"
       }
     ]
   }

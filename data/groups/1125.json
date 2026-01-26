@@ -2,21 +2,6 @@
   {
     "code": "1125",
     "group": "1",
-    "professor": "EMMA MARTÍNEZ LUNA",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "I106"
-      }
-    ]
-  },
-  {
-    "code": "1125",
-    "group": "2",
     "professor": "LUIS PEÑA CRUZ",
     "schedules": [
       {
@@ -25,7 +10,7 @@
           3,
           5
         ],
-        "classroom": "I101"
+        "classroom": "48"
       }
     ],
     "professor_id": 128316,
@@ -36,31 +21,16 @@
   },
   {
     "code": "1125",
-    "group": "3",
-    "professor": "ANDRES NORIEGA USI",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "I101"
-      }
-    ]
-  },
-  {
-    "code": "1125",
-    "group": "4",
+    "group": "2",
     "professor": "GUILLERMO PEREZ QUINTERO",
     "schedules": [
       {
         "time": "09:00-11:00",
         "days": [
-          2,
-          4
+          1,
+          5
         ],
-        "classroom": "I205"
+        "classroom": "48"
       }
     ],
     "professor_id": 98612,
@@ -71,42 +41,42 @@
   },
   {
     "code": "1125",
-    "group": "5",
-    "professor": "ANA LAURA PEREZ MARTINEZ",
+    "group": "3",
+    "professor": "CYNTHIA SOFIA RODRIGUEZ MANDUJANO",
     "schedules": [
       {
-        "time": "09:00-11:00",
+        "time": "11:00-13:00",
         "days": [
           2,
           4
         ],
-        "classroom": "I104"
+        "classroom": "48"
       }
     ],
-    "professor_id": 51350,
-    "first_name": "Ana Laura",
-    "last_name": "Pérez Martínez",
-    "rating": 7.3143,
-    "num_ratings": 35
+    "professor_id": 71932,
+    "first_name": "Cynthia Sofia",
+    "last_name": "Rodriguez Mandujano",
+    "rating": 9.1935,
+    "num_ratings": 31
   },
   {
     "code": "1125",
-    "group": "6",
-    "professor": "ANDRES NORIEGA USI",
+    "group": "4",
+    "professor": "BRENDA NATALY SÁNCHEZ EGUÍA",
     "schedules": [
       {
-        "time": "15:00-17:00",
+        "time": "13:00-15:00",
         "days": [
           1,
-          5
+          3
         ],
-        "classroom": "I201"
+        "classroom": "48"
       }
     ]
   },
   {
     "code": "1125",
-    "group": "7",
+    "group": "5",
     "professor": "MARTHA ELENA ALCANTARA GARDUÑO",
     "schedules": [
       {
@@ -115,7 +85,7 @@
           2,
           4
         ],
-        "classroom": "I205"
+        "classroom": "48"
       }
     ],
     "professor_id": 78549,
@@ -126,36 +96,16 @@
   },
   {
     "code": "1125",
-    "group": "8",
-    "professor": "GERARDO BARON SANCHEZ",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "I203"
-      }
-    ],
-    "professor_id": 62945,
-    "first_name": "Gerardo",
-    "last_name": "Barón Sánchez",
-    "rating": 9.375,
-    "num_ratings": 16
-  },
-  {
-    "code": "1125",
-    "group": "9",
+    "group": "6",
     "professor": "PHAEDRA SURIEL SILVA BERMUDEZ",
     "schedules": [
       {
-        "time": "17:00-19:00",
+        "time": "19:00-21:00",
         "days": [
           2,
           4
         ],
-        "classroom": "I206"
+        "classroom": "48"
       }
     ],
     "professor_id": 75804,
@@ -163,46 +113,5 @@
     "last_name": "Silva Bermudez",
     "rating": 8.23,
     "num_ratings": 30
-  },
-  {
-    "code": "1125",
-    "group": "10",
-    "professor": "ALBERTO SANDOVAL GARCIA",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          5
-        ],
-        "classroom": "J210"
-      },
-      {
-        "time": "07:00-09:00",
-        "days": [
-          3
-        ],
-        "classroom": "J211"
-      }
-    ],
-    "professor_id": 102860,
-    "first_name": "Alberto",
-    "last_name": "Sandoval Garcia",
-    "rating": 8.5909,
-    "num_ratings": 22
-  },
-  {
-    "code": "1125",
-    "group": "11",
-    "professor": "KARINA HERRERA GUZMAN",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "J201"
-      }
-    ]
   }
 ]

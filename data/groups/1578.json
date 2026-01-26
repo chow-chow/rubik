@@ -2,45 +2,45 @@
   {
     "code": "1578",
     "group": "1",
-    "professor": "SERGIO ENRIQUE MACIAS MEDRANO",
+    "professor": "SAUL ARCINIEGA ESPARZA",
     "schedules": [
       {
-        "time": "09:00-12:00",
+        "time": "10:00-13:00",
         "days": [
           1,
           3
         ],
-        "classroom": "C103"
+        "classroom": "14"
       }
     ]
   },
   {
     "code": "1578",
     "group": "2",
-    "professor": "KARIME GONZÁLEZ ZUCCOLOTTO",
+    "professor": "SERGIO ENRIQUE MACIAS MEDRANO",
     "schedules": [
       {
-        "time": "15:00-18:00",
+        "time": "17:00-20:00",
         "days": [
           1,
           3
         ],
-        "classroom": "C105"
+        "classroom": "14"
       }
     ]
   },
   {
     "code": "1578",
     "group": "3",
-    "professor": "ORESTES ANTONIO DE LA ROSA MORA",
+    "professor": "KARIME GONZÁLEZ ZUCCOLOTTO",
     "schedules": [
       {
         "time": "16:00-19:00",
         "days": [
-          2,
-          4
+          1,
+          3
         ],
-        "classroom": "C103"
+        "classroom": "14"
       }
     ]
   }

@@ -2,35 +2,15 @@
   {
     "code": "2006",
     "group": "1",
-    "professor": "SAUL DE LA ROSA NIEVES",
-    "schedules": [
-      {
-        "time": "17:00-18:30",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "P318"
-      }
-    ],
-    "professor_id": 86735,
-    "first_name": "Saúl",
-    "last_name": "de la Rosa Nieves",
-    "rating": 8.8,
-    "num_ratings": 15
-  },
-  {
-    "code": "2006",
-    "group": "2",
     "professor": "FRANCISCO JAVIER MARTINEZ RODRIGUEZ",
     "schedules": [
       {
-        "time": "07:00-08:30",
+        "time": "07:00-09:00",
         "days": [
           1,
           3
         ],
-        "classroom": "P318"
+        "classroom": "5"
       }
     ],
     "professor_id": 99064,
@@ -41,7 +21,7 @@
   },
   {
     "code": "2006",
-    "group": "3",
+    "group": "2",
     "professor": "SOFIA ROSSANA LEYVA CARMONA",
     "schedules": [
       {
@@ -50,13 +30,33 @@
           1,
           3
         ],
-        "classroom": "P318"
+        "classroom": "5"
       }
     ]
   },
   {
     "code": "2006",
-    "group": "5",
+    "group": "3",
+    "professor": "SAUL DE LA ROSA NIEVES",
+    "schedules": [
+      {
+        "time": "17:00-18:30",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "5"
+      }
+    ],
+    "professor_id": 86735,
+    "first_name": "Saúl",
+    "last_name": "de la Rosa Nieves",
+    "rating": 8.8,
+    "num_ratings": 15
+  },
+  {
+    "code": "2006",
+    "group": "4",
     "professor": "LARRY HIPOLITO ESCOBAR SALGUERO",
     "schedules": [
       {
@@ -65,7 +65,7 @@
           2,
           4
         ],
-        "classroom": "S227"
+        "classroom": "5"
       }
     ],
     "professor_id": 79445,
@@ -76,7 +76,7 @@
   },
   {
     "code": "2006",
-    "group": "7",
+    "group": "5",
     "professor": "PABLO ROBERTO PEREZ ALCAZAR",
     "schedules": [
       {
@@ -84,7 +84,7 @@
         "days": [
           6
         ],
-        "classroom": "P318"
+        "classroom": "5"
       }
     ],
     "professor_id": 89952,
@@ -92,5 +92,25 @@
     "last_name": "PEREZ ALCAZAR",
     "rating": 6.0,
     "num_ratings": 23
+  },
+  {
+    "code": "2006",
+    "group": "6",
+    "professor": "LETICIA ALVAREZ CASTILLO",
+    "schedules": [
+      {
+        "time": "15:00-16:30",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "5"
+      }
+    ],
+    "professor_id": 91159,
+    "first_name": "Leticia",
+    "last_name": "Alvarez Castillo",
+    "rating": 6.5,
+    "num_ratings": 2
   }
 ]

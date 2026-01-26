@@ -9,7 +9,7 @@
         "days": [
           5
         ],
-        "classroom": "A105"
+        "classroom": "35"
       }
     ],
     "professor_id": 24305,
@@ -28,13 +28,32 @@
         "days": [
           5
         ],
-        "classroom": "B203"
+        "classroom": "35"
       }
     ]
   },
   {
     "code": "1790",
     "group": "3",
+    "professor": "MARCO JORGE ALBERTO RODRIGUEZ MARTINEZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2
+        ],
+        "classroom": "35"
+      }
+    ],
+    "professor_id": 68143,
+    "first_name": "Marco Jorge Alberto",
+    "last_name": "Rodríguez Martínez",
+    "rating": 9.0,
+    "num_ratings": 17
+  },
+  {
+    "code": "1790",
+    "group": "4",
     "professor": "JOSE CARLOS DELGADO CHONG",
     "schedules": [
       {
@@ -42,7 +61,7 @@
         "days": [
           5
         ],
-        "classroom": "A105"
+        "classroom": "35"
       }
     ],
     "professor_id": 24305,
@@ -53,7 +72,7 @@
   },
   {
     "code": "1790",
-    "group": "4",
+    "group": "5",
     "professor": "ELSA RUTH MONDRAGON SAAVEDRA",
     "schedules": [
       {
@@ -61,26 +80,7 @@
         "days": [
           2
         ],
-        "classroom": "A103"
-      }
-    ],
-    "professor_id": 70316,
-    "first_name": "Elsa Ruth",
-    "last_name": "Mondragón Saavedra",
-    "rating": 8.36,
-    "num_ratings": 58
-  },
-  {
-    "code": "1790",
-    "group": "5",
-    "professor": "ELSA RUTH MONDRAGON SAAVEDRA",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          4
-        ],
-        "classroom": "A103"
+        "classroom": "35"
       }
     ],
     "professor_id": 70316,
@@ -92,21 +92,21 @@
   {
     "code": "1790",
     "group": "6",
-    "professor": "MARCO JORGE ALBERTO RODRIGUEZ MARTINEZ",
+    "professor": "ELSA RUTH MONDRAGON SAAVEDRA",
     "schedules": [
       {
         "time": "13:00-15:00",
         "days": [
-          5
+          4
         ],
-        "classroom": "A101"
+        "classroom": "35"
       }
     ],
-    "professor_id": 68143,
-    "first_name": "Marco Jorge Alberto",
-    "last_name": "Rodríguez Martínez",
-    "rating": 9.0,
-    "num_ratings": 17
+    "professor_id": 70316,
+    "first_name": "Elsa Ruth",
+    "last_name": "Mondragón Saavedra",
+    "rating": 8.36,
+    "num_ratings": 58
   },
   {
     "code": "1790",
@@ -118,7 +118,7 @@
         "days": [
           1
         ],
-        "classroom": "A103"
+        "classroom": "35"
       }
     ],
     "professor_id": 68143,
@@ -137,7 +137,7 @@
         "days": [
           2
         ],
-        "classroom": "A105"
+        "classroom": "35"
       }
     ],
     "professor_id": 68400,
@@ -149,34 +149,6 @@
   {
     "code": "1790",
     "group": "9",
-    "professor": "JOSÉ MARTÍN SERNA DE ANDA",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          4
-        ],
-        "classroom": "A108"
-      }
-    ]
-  },
-  {
-    "code": "1790",
-    "group": "10",
-    "professor": "ANGEL JULIAN AVILA AGUILAR",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          1
-        ],
-        "classroom": "A104"
-      }
-    ]
-  },
-  {
-    "code": "1790",
-    "group": "11",
     "professor": "EDGARDO ULISES BENITEZ ESLAVA",
     "schedules": [
       {
@@ -184,13 +156,55 @@
         "days": [
           2
         ],
-        "classroom": "A108"
+        "classroom": "35"
+      }
+    ]
+  },
+  {
+    "code": "1790",
+    "group": "10",
+    "professor": "JOSÉ MARTÍN SERNA DE ANDA",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2
+        ],
+        "classroom": "35"
+      }
+    ]
+  },
+  {
+    "code": "1790",
+    "group": "11",
+    "professor": "ZURAYA HUIZAR CRUZ",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          4
+        ],
+        "classroom": "35"
       }
     ]
   },
   {
     "code": "1790",
     "group": "12",
+    "professor": "ANGEL JULIAN AVILA AGUILAR",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1
+        ],
+        "classroom": "35"
+      }
+    ]
+  },
+  {
+    "code": "1790",
+    "group": "13",
     "professor": "PHEN BOLIO ALBUERNE",
     "schedules": [
       {
@@ -198,7 +212,7 @@
         "days": [
           1
         ],
-        "classroom": "A105"
+        "classroom": "35"
       }
     ],
     "professor_id": 167392,

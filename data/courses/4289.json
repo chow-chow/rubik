@@ -51,11 +51,8 @@
     "code": "0678",
     "name": "CONTROL AUTOMATICO INDUSTRIAL",
     "credits": 8,
-    "has_lab": true,
-    "lab": {
-      "code": "5678",
-      "name": "LAB. CONTROL AUTOMATICO INDUSTRIAL"
-    }
+    "has_lab": false,
+    "lab": null
   },
   {
     "code": "0693",
@@ -123,8 +120,11 @@
     "code": "1093",
     "name": "CONTROL DE SISTEMAS NO LINEALES",
     "credits": 8,
-    "has_lab": false,
-    "lab": null
+    "has_lab": true,
+    "lab": {
+      "code": "6093",
+      "name": "LAB. CONTROL DE SISTEMAS NO LINEALES"
+    }
   },
   {
     "code": "1095",

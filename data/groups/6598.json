@@ -1,20 +1,6 @@
 [
   {
     "code": "6598",
-    "group": "1",
-    "professor": "JOSE ANTONIO MACIAS GARCIA",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          1
-        ],
-        "classroom": "Q208"
-      }
-    ]
-  },
-  {
-    "code": "6598",
     "group": "2",
     "professor": "CINTIA QUEZADA REYES",
     "schedules": [
@@ -23,7 +9,7 @@
         "days": [
           2
         ],
-        "classroom": "Q208"
+        "classroom": "18"
       }
     ],
     "professor_id": 75919,
@@ -42,7 +28,7 @@
         "days": [
           2
         ],
-        "classroom": "Q208"
+        "classroom": "18"
       }
     ],
     "professor_id": 73106,
@@ -53,34 +39,15 @@
   },
   {
     "code": "6598",
-    "group": "4",
-    "professor": "MARIA JAQUELINA LOPEZ BARRIENTOS",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          3
-        ],
-        "classroom": "Q208"
-      }
-    ],
-    "professor_id": 119470,
-    "first_name": "Jaquelina",
-    "last_name": "Lopez Barrientos",
-    "rating": 6.7391,
-    "num_ratings": 23
-  },
-  {
-    "code": "6598",
     "group": "5",
     "professor": "FRANCISCO ADOLFO LOPEZ SUAREZ",
     "schedules": [
       {
-        "time": "15:00-17:00",
+        "time": "07:00-09:00",
         "days": [
           3
         ],
-        "classroom": "Q208"
+        "classroom": "18"
       }
     ]
   },
@@ -94,7 +61,7 @@
         "days": [
           3
         ],
-        "classroom": "Q208"
+        "classroom": "18"
       }
     ],
     "professor_id": 172881,
@@ -113,7 +80,7 @@
         "days": [
           4
         ],
-        "classroom": "Q208"
+        "classroom": "18"
       }
     ],
     "professor_id": 173568,
@@ -132,7 +99,7 @@
         "days": [
           4
         ],
-        "classroom": "Q208"
+        "classroom": "18"
       }
     ],
     "professor_id": 173568,
@@ -151,21 +118,7 @@
         "days": [
           4
         ],
-        "classroom": "Q208"
-      }
-    ]
-  },
-  {
-    "code": "6598",
-    "group": "10",
-    "professor": "JOSE ANTONIO MACIAS GARCIA",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          5
-        ],
-        "classroom": "Q208"
+        "classroom": "18"
       }
     ]
   },
@@ -179,7 +132,7 @@
         "days": [
           5
         ],
-        "classroom": "Q208"
+        "classroom": "18"
       }
     ],
     "professor_id": 173568,
@@ -187,5 +140,33 @@
     "last_name": "Bautista González",
     "rating": 9.6,
     "num_ratings": 5
+  },
+  {
+    "code": "6598",
+    "group": "1",
+    "professor": "JOSE ANTONIO MACIAS GARCIA",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1
+        ],
+        "classroom": "0"
+      }
+    ]
+  },
+  {
+    "code": "6598",
+    "group": "10",
+    "professor": "JOSE ANTONIO MACIAS GARCIA",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          5
+        ],
+        "classroom": "0"
+      }
+    ]
   }
 ]

@@ -9,7 +9,7 @@
         "days": [
           2
         ],
-        "classroom": "T101"
+        "classroom": "40"
       }
     ]
   },
@@ -23,7 +23,7 @@
         "days": [
           2
         ],
-        "classroom": "T101"
+        "classroom": "40"
       }
     ],
     "professor_id": 114128,
@@ -42,7 +42,7 @@
         "days": [
           2
         ],
-        "classroom": "T101"
+        "classroom": "40"
       }
     ],
     "professor_id": 135119,
@@ -61,7 +61,7 @@
         "days": [
           2
         ],
-        "classroom": "T101"
+        "classroom": "40"
       }
     ],
     "professor_id": 135119,
@@ -80,7 +80,7 @@
         "days": [
           4
         ],
-        "classroom": "T101"
+        "classroom": "40"
       }
     ],
     "professor_id": 105202,
@@ -99,7 +99,7 @@
         "days": [
           5
         ],
-        "classroom": "T101"
+        "classroom": "40"
       }
     ],
     "professor_id": 108516,
@@ -118,7 +118,7 @@
         "days": [
           5
         ],
-        "classroom": "T101"
+        "classroom": "40"
       }
     ],
     "professor_id": 114128,
@@ -137,7 +137,7 @@
         "days": [
           6
         ],
-        "classroom": "T101"
+        "classroom": "40"
       }
     ],
     "professor_id": 114128,
@@ -145,5 +145,24 @@
     "last_name": "LOPEZ PELCASTRE",
     "rating": 8.0682,
     "num_ratings": 44
+  },
+  {
+    "code": "6644",
+    "group": "9",
+    "professor": "ANGEL BRITO SEGURA",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          3
+        ],
+        "classroom": "40"
+      }
+    ],
+    "professor_id": 173728,
+    "first_name": "Ángel",
+    "last_name": "Brito Segura",
+    "rating": 9.8,
+    "num_ratings": 5
   }
 ]

@@ -7,9 +7,9 @@
       {
         "time": "07:00-09:00",
         "days": [
-          3
+          1
         ],
-        "classroom": "Q316"
+        "classroom": "7"
       }
     ],
     "professor_id": 130840,
@@ -21,20 +21,20 @@
   {
     "code": "6462",
     "group": "2",
-    "professor": "MARGARITA BAUTISTA GONZALEZ",
+    "professor": "ERNESTO RAMIREZ CRUZ",
     "schedules": [
       {
-        "time": "15:00-17:00",
+        "time": "07:00-09:00",
         "days": [
-          2
+          3
         ],
-        "classroom": "Q316"
+        "classroom": "7"
       }
     ],
-    "professor_id": 79762,
-    "first_name": "Margarita",
-    "last_name": "Bautista Gonzalez",
-    "rating": 9.0,
-    "num_ratings": 6
+    "professor_id": 130840,
+    "first_name": "Ernesto",
+    "last_name": "Ramírez Cruz",
+    "rating": 9.8182,
+    "num_ratings": 22
   }
 ]

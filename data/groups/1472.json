@@ -1,26 +1,6 @@
 [
   {
     "code": "1472",
-    "group": "1",
-    "professor": "MIGUEL SERRANO REYES",
-    "schedules": [
-      {
-        "time": "15:00-18:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "O006"
-      }
-    ],
-    "professor_id": 98813,
-    "first_name": "Miguel",
-    "last_name": "Serrano Reyes",
-    "rating": 9.2778,
-    "num_ratings": 18
-  },
-  {
-    "code": "1472",
     "group": "2",
     "professor": "JORGE ARMANDO RODRIGUEZ VERA",
     "schedules": [
@@ -28,10 +8,9 @@
         "time": "20:00-22:00",
         "days": [
           1,
-          3,
-          5
+          3
         ],
-        "classroom": "EXTR"
+        "classroom": "19"
       }
     ],
     "professor_id": 75097,
@@ -42,26 +21,6 @@
   },
   {
     "code": "1472",
-    "group": "3",
-    "professor": "MARIA FERNANDA MERINO MORALES",
-    "schedules": [
-      {
-        "time": "17:00-20:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "O006"
-      }
-    ],
-    "professor_id": 95120,
-    "first_name": "Maria Fernanda",
-    "last_name": "Morales Merino",
-    "rating": 5.6842,
-    "num_ratings": 38
-  },
-  {
-    "code": "1472",
     "group": "4",
     "professor": "EMILIANO NAVA MORALES",
     "schedules": [
@@ -69,10 +28,9 @@
         "time": "18:00-20:00",
         "days": [
           1,
-          3,
-          5
+          3
         ],
-        "classroom": "O006"
+        "classroom": "19"
       }
     ],
     "professor_id": 124353,
@@ -90,10 +48,9 @@
         "time": "09:00-11:00",
         "days": [
           1,
-          3,
-          5
+          3
         ],
-        "classroom": "O006"
+        "classroom": "19"
       }
     ]
   },
@@ -106,10 +63,9 @@
         "time": "07:00-09:00",
         "days": [
           1,
-          3,
-          5
+          3
         ],
-        "classroom": "O006"
+        "classroom": "20"
       }
     ],
     "professor_id": 173217,

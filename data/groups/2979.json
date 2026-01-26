@@ -1,0 +1,17 @@
+[
+  {
+    "code": "2979",
+    "group": "1",
+    "professor": "ARTURO CRUZ OJEDA",
+    "schedules": [
+      {
+        "time": "10:00-11:30",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "10"
+      }
+    ]
+  }
+]

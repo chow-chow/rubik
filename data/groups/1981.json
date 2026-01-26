@@ -10,7 +10,7 @@
           1,
           2
         ],
-        "classroom": "C401"
+        "classroom": "28"
       }
     ]
   },
@@ -26,7 +26,7 @@
           3,
           5
         ],
-        "classroom": "D007"
+        "classroom": "32"
       }
     ],
     "professor_id": 134744,
@@ -43,11 +43,9 @@
       {
         "time": "09:00-11:00",
         "days": [
-          1,
-          3,
           5
         ],
-        "classroom": "B406"
+        "classroom": "32"
       }
     ],
     "professor_id": 114618,

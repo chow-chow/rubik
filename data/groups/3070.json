@@ -2,15 +2,14 @@
   {
     "code": "3070",
     "group": "1",
-    "professor": "MÉD ANA BRISA GARCIA VILCHIS",
+    "professor": "ANA BRISA GARCIA VILCHIS",
     "schedules": [
       {
-        "time": "13:00-15:00",
+        "time": "11:00-13:00",
         "days": [
-          2,
-          4
+          5
         ],
-        "classroom": "X101"
+        "classroom": "25"
       }
     ]
   }

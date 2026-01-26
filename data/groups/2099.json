@@ -2,22 +2,21 @@
   {
     "code": "2099",
     "group": "1",
-    "professor": "ALFREDO VICTORIA MORALES",
+    "professor": "KARINA MARTINEZ BAUTISTA",
     "schedules": [
       {
-        "time": "12:00-14:00",
+        "time": "14:00-17:00",
         "days": [
-          1,
-          3,
-          5
+          2,
+          4
         ],
-        "classroom": "C301"
+        "classroom": "12"
       }
     ],
-    "professor_id": 82511,
-    "first_name": "Alfredo",
-    "last_name": "Victoria Morales",
-    "rating": 6.4167,
-    "num_ratings": 12
+    "professor_id": 124093,
+    "first_name": "Karina",
+    "last_name": "Martínez Bautista",
+    "rating": 8.6667,
+    "num_ratings": 3
   }
 ]

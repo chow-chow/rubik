@@ -2,54 +2,6 @@
   {
     "code": "2954",
     "group": "1",
-    "professor": "LUIS IVAN NAVARRETE GUERRA",
-    "schedules": [
-      {
-        "time": "19:00-20:30",
-        "days": [
-          1,
-          2
-        ],
-        "classroom": "DS01"
-      },
-      {
-        "time": "19:00-21:00",
-        "days": [
-          4
-        ],
-        "classroom": "Q208"
-      }
-    ]
-  },
-  {
-    "code": "2954",
-    "group": "2",
-    "professor": "CESAR SANABRIA PINEDA",
-    "schedules": [
-      {
-        "time": "07:00-10:00",
-        "days": [
-          5
-        ],
-        "classroom": "B304"
-      },
-      {
-        "time": "07:00-09:00",
-        "days": [
-          6
-        ],
-        "classroom": "Q208"
-      }
-    ],
-    "professor_id": 122570,
-    "first_name": "Cesar",
-    "last_name": "Sanabria",
-    "rating": 5.5,
-    "num_ratings": 2
-  },
-  {
-    "code": "2954",
-    "group": "3",
     "professor": "ANA LAURA CHALICO TENORIO",
     "schedules": [
       {
@@ -58,15 +10,42 @@
           1,
           2
         ],
-        "classroom": "SIN"
-      },
-      {
-        "time": "13:00-15:00",
-        "days": [
-          3
-        ],
-        "classroom": "SIN"
+        "classroom": "30"
       }
     ]
+  },
+  {
+    "code": "2954",
+    "group": "2",
+    "professor": "LUIS IVAN NAVARRETE GUERRA",
+    "schedules": [
+      {
+        "time": "19:00-20:30",
+        "days": [
+          1,
+          2
+        ],
+        "classroom": "20"
+      }
+    ]
+  },
+  {
+    "code": "2954",
+    "group": "3",
+    "professor": "CESAR SANABRIA PINEDA",
+    "schedules": [
+      {
+        "time": "07:00-10:00",
+        "days": [
+          5
+        ],
+        "classroom": "20"
+      }
+    ],
+    "professor_id": 122570,
+    "first_name": "Cesar",
+    "last_name": "Sanabria",
+    "rating": 5.5,
+    "num_ratings": 2
   }
 ]

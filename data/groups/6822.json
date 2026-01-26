@@ -9,7 +9,7 @@
         "days": [
           1
         ],
-        "classroom": "Q109"
+        "classroom": "18"
       }
     ],
     "professor_id": 80201,
@@ -21,6 +21,25 @@
   {
     "code": "6822",
     "group": "2",
+    "professor": "DOMINGO TEODORO MENDOZA ROSALES",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1
+        ],
+        "classroom": "18"
+      }
+    ],
+    "professor_id": 71346,
+    "first_name": "Domingo Teodoro",
+    "last_name": "Mendoza Rosales",
+    "rating": 6.9565,
+    "num_ratings": 69
+  },
+  {
+    "code": "6822",
+    "group": "3",
     "professor": "JESUS MARIA FRANCISCO HERNANDEZ MORALES",
     "schedules": [
       {
@@ -28,7 +47,7 @@
         "days": [
           2
         ],
-        "classroom": "Q109"
+        "classroom": "18"
       }
     ],
     "professor_id": 80201,
@@ -39,7 +58,7 @@
   },
   {
     "code": "6822",
-    "group": "3",
+    "group": "4",
     "professor": "ISRAEL PEREZ MARTINEZ",
     "schedules": [
       {
@@ -47,21 +66,7 @@
         "days": [
           2
         ],
-        "classroom": "Q109"
-      }
-    ]
-  },
-  {
-    "code": "6822",
-    "group": "4",
-    "professor": "Grupo cancelado, contactar a la División.",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          2
-        ],
-        "classroom": "Q109"
+        "classroom": "18"
       }
     ]
   },
@@ -71,11 +76,11 @@
     "professor": "DOMINGO TEODORO MENDOZA ROSALES",
     "schedules": [
       {
-        "time": "13:00-15:00",
+        "time": "15:00-17:00",
         "days": [
           3
         ],
-        "classroom": "Q109"
+        "classroom": "18"
       }
     ],
     "professor_id": 71346,
@@ -87,25 +92,6 @@
   {
     "code": "6822",
     "group": "6",
-    "professor": "DOMINGO TEODORO MENDOZA ROSALES",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          4
-        ],
-        "classroom": "Q109"
-      }
-    ],
-    "professor_id": 71346,
-    "first_name": "Domingo Teodoro",
-    "last_name": "Mendoza Rosales",
-    "rating": 6.9565,
-    "num_ratings": 69
-  },
-  {
-    "code": "6822",
-    "group": "7",
     "professor": "SALVADOR EMILIO SIERRA BENAVIDEZ",
     "schedules": [
       {
@@ -113,7 +99,7 @@
         "days": [
           4
         ],
-        "classroom": "Q109"
+        "classroom": "18"
       }
     ]
   }

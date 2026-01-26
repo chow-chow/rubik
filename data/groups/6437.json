@@ -9,7 +9,7 @@
         "days": [
           1
         ],
-        "classroom": "G001"
+        "classroom": "20"
       }
     ],
     "professor_id": 84646,
@@ -28,7 +28,7 @@
         "days": [
           1
         ],
-        "classroom": "G001"
+        "classroom": "20"
       }
     ],
     "professor_id": 90126,
@@ -40,14 +40,33 @@
   {
     "code": "6437",
     "group": "3",
-    "professor": "EHECATL LUIS DAVID PALEO GONZALEZ",
+    "professor": "DIANA ZARAGOZA ZUÑIGA",
     "schedules": [
       {
         "time": "11:00-13:00",
         "days": [
           1
         ],
-        "classroom": "G001"
+        "classroom": "20"
+      }
+    ],
+    "professor_id": 90126,
+    "first_name": "Diana",
+    "last_name": "Zaragoza Zuñiga",
+    "rating": 9.0588,
+    "num_ratings": 17
+  },
+  {
+    "code": "6437",
+    "group": "4",
+    "professor": "EHECATL LUIS DAVID PALEO GONZALEZ",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1
+        ],
+        "classroom": "20"
       }
     ],
     "professor_id": 84416,
@@ -55,25 +74,6 @@
     "last_name": "Paleo González",
     "rating": 6.3448,
     "num_ratings": 29
-  },
-  {
-    "code": "6437",
-    "group": "4",
-    "professor": "JORGE RAMIREZ CRUZ",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          1
-        ],
-        "classroom": "G001"
-      }
-    ],
-    "professor_id": 84413,
-    "first_name": "Jorge",
-    "last_name": "Ramirez Cruz",
-    "rating": 9.6471,
-    "num_ratings": 51
   },
   {
     "code": "6437",
@@ -85,7 +85,7 @@
         "days": [
           1
         ],
-        "classroom": "G001"
+        "classroom": "20"
       }
     ],
     "professor_id": 84703,
@@ -97,21 +97,16 @@
   {
     "code": "6437",
     "group": "6",
-    "professor": "MIGUEL ANGEL REYES BUSTAMANTE",
+    "professor": "RUBEN CARLOS ESQUIVEL HERNANDEZ",
     "schedules": [
       {
         "time": "17:00-19:00",
         "days": [
           1
         ],
-        "classroom": "G001"
+        "classroom": "20"
       }
-    ],
-    "professor_id": 84626,
-    "first_name": "Miguel Ángel",
-    "last_name": "Reyes Bustamante",
-    "rating": 6.2143,
-    "num_ratings": 14
+    ]
   },
   {
     "code": "6437",
@@ -123,7 +118,7 @@
         "days": [
           2
         ],
-        "classroom": "G001"
+        "classroom": "20"
       }
     ],
     "professor_id": 101486,
@@ -135,14 +130,33 @@
   {
     "code": "6437",
     "group": "8",
-    "professor": "JORGE RAMIREZ CRUZ",
+    "professor": "ALFONSO PALACIOS MUÑOZ",
     "schedules": [
       {
         "time": "09:00-11:00",
         "days": [
           2
         ],
-        "classroom": "G001"
+        "classroom": "20"
+      }
+    ],
+    "professor_id": 101486,
+    "first_name": "Alfonso",
+    "last_name": "Palacios Muñoz",
+    "rating": 9.0,
+    "num_ratings": 21
+  },
+  {
+    "code": "6437",
+    "group": "9",
+    "professor": "JORGE RAMIREZ CRUZ",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2
+        ],
+        "classroom": "20"
       }
     ],
     "professor_id": 84413,
@@ -150,20 +164,6 @@
     "last_name": "Ramirez Cruz",
     "rating": 9.6471,
     "num_ratings": 51
-  },
-  {
-    "code": "6437",
-    "group": "9",
-    "professor": "RUBEN CARLOS ESQUIVEL HERNANDEZ",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          2
-        ],
-        "classroom": "G001"
-      }
-    ]
   },
   {
     "code": "6437",
@@ -175,7 +175,7 @@
         "days": [
           2
         ],
-        "classroom": "G001"
+        "classroom": "20"
       }
     ],
     "professor_id": 68129,
@@ -194,7 +194,7 @@
         "days": [
           2
         ],
-        "classroom": "G001"
+        "classroom": "20"
       }
     ],
     "professor_id": 84703,
@@ -213,7 +213,7 @@
         "days": [
           2
         ],
-        "classroom": "G001"
+        "classroom": "20"
       }
     ]
   },
@@ -227,7 +227,7 @@
         "days": [
           3
         ],
-        "classroom": "G001"
+        "classroom": "20"
       }
     ]
   },
@@ -241,7 +241,7 @@
         "days": [
           3
         ],
-        "classroom": "G001"
+        "classroom": "20"
       }
     ],
     "professor_id": 90126,
@@ -253,21 +253,21 @@
   {
     "code": "6437",
     "group": "15",
-    "professor": "JAVIER ALEJANDRO ROSAS FLORES",
+    "professor": "DIANA ZARAGOZA ZUÑIGA",
     "schedules": [
       {
         "time": "11:00-13:00",
         "days": [
           3
         ],
-        "classroom": "G001"
+        "classroom": "20"
       }
     ],
-    "professor_id": 96626,
-    "first_name": "Javier",
-    "last_name": "Rosas Flores",
-    "rating": 8.75,
-    "num_ratings": 64
+    "professor_id": 90126,
+    "first_name": "Diana",
+    "last_name": "Zaragoza Zuñiga",
+    "rating": 9.0588,
+    "num_ratings": 17
   },
   {
     "code": "6437",
@@ -279,7 +279,7 @@
         "days": [
           3
         ],
-        "classroom": "G001"
+        "classroom": "20"
       }
     ]
   },
@@ -293,7 +293,7 @@
         "days": [
           3
         ],
-        "classroom": "G001"
+        "classroom": "20"
       }
     ]
   },
@@ -307,7 +307,7 @@
         "days": [
           4
         ],
-        "classroom": "G001"
+        "classroom": "20"
       }
     ],
     "professor_id": 101486,
@@ -319,14 +319,33 @@
   {
     "code": "6437",
     "group": "19",
-    "professor": "JAVIER ALEJANDRO ROSAS FLORES",
+    "professor": "ALFONSO PALACIOS MUÑOZ",
     "schedules": [
       {
         "time": "09:00-11:00",
         "days": [
           4
         ],
-        "classroom": "G001"
+        "classroom": "20"
+      }
+    ],
+    "professor_id": 101486,
+    "first_name": "Alfonso",
+    "last_name": "Palacios Muñoz",
+    "rating": 9.0,
+    "num_ratings": 21
+  },
+  {
+    "code": "6437",
+    "group": "20",
+    "professor": "JAVIER ALEJANDRO ROSAS FLORES",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          4
+        ],
+        "classroom": "20"
       }
     ],
     "professor_id": 96626,
@@ -337,55 +356,36 @@
   },
   {
     "code": "6437",
-    "group": "20",
-    "professor": "RUBEN CARLOS ESQUIVEL HERNANDEZ",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          4
-        ],
-        "classroom": "G001"
-      }
-    ]
-  },
-  {
-    "code": "6437",
     "group": "21",
-    "professor": "EDUARDO PEREZ CONTRERAS",
+    "professor": "VIANEY FRANCO GARCIA",
     "schedules": [
       {
         "time": "13:00-15:00",
         "days": [
           4
         ],
-        "classroom": "G001"
+        "classroom": "20"
       }
     ],
-    "professor_id": 113771,
-    "first_name": "EDUARDO",
-    "last_name": "PEREZ CONTRERAS",
-    "rating": 9.5,
-    "num_ratings": 16
+    "professor_id": 46452,
+    "first_name": "Vianey",
+    "last_name": "Franco García",
+    "rating": 7.1,
+    "num_ratings": 20
   },
   {
     "code": "6437",
     "group": "22",
-    "professor": "EDUARDO PEREZ CONTRERAS",
+    "professor": "RUBEN CARLOS ESQUIVEL HERNANDEZ",
     "schedules": [
       {
         "time": "15:00-17:00",
         "days": [
           4
         ],
-        "classroom": "G001"
+        "classroom": "20"
       }
-    ],
-    "professor_id": 113771,
-    "first_name": "EDUARDO",
-    "last_name": "PEREZ CONTRERAS",
-    "rating": 9.5,
-    "num_ratings": 16
+    ]
   },
   {
     "code": "6437",
@@ -397,7 +397,7 @@
         "days": [
           4
         ],
-        "classroom": "G001"
+        "classroom": "20"
       }
     ]
   },
@@ -411,35 +411,21 @@
         "days": [
           5
         ],
-        "classroom": "G001"
+        "classroom": "20"
       }
     ]
   },
   {
     "code": "6437",
     "group": "25",
-    "professor": "JONATHAN HERNANDEZ GARCIA",
+    "professor": "OMAR DE JESUS PEREZ",
     "schedules": [
       {
         "time": "09:00-11:00",
         "days": [
           5
         ],
-        "classroom": "G001"
-      }
-    ]
-  },
-  {
-    "code": "6437",
-    "group": "26",
-    "professor": "OMAR DE JESUS PEREZ",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          5
-        ],
-        "classroom": "G001"
+        "classroom": "20"
       }
     ],
     "professor_id": 90851,
@@ -447,6 +433,25 @@
     "last_name": "DE JESUS PEREZ",
     "rating": 7.9778,
     "num_ratings": 45
+  },
+  {
+    "code": "6437",
+    "group": "26",
+    "professor": "EDUARDO PEREZ CONTRERAS",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          5
+        ],
+        "classroom": "20"
+      }
+    ],
+    "professor_id": 113771,
+    "first_name": "EDUARDO",
+    "last_name": "PEREZ CONTRERAS",
+    "rating": 9.5,
+    "num_ratings": 16
   },
   {
     "code": "6437",
@@ -458,7 +463,7 @@
         "days": [
           5
         ],
-        "classroom": "G001"
+        "classroom": "20"
       }
     ],
     "professor_id": 113771,
@@ -477,7 +482,7 @@
         "days": [
           5
         ],
-        "classroom": "G001"
+        "classroom": "20"
       }
     ],
     "professor_id": 113771,

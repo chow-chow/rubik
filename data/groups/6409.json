@@ -2,25 +2,6 @@
   {
     "code": "6409",
     "group": "1",
-    "professor": "DIANA PATRICIA ANAYA TELLEZ",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          3
-        ],
-        "classroom": "N005"
-      }
-    ],
-    "professor_id": 134866,
-    "first_name": "Diana Patricia",
-    "last_name": "Anaya Tellez",
-    "rating": 7.1667,
-    "num_ratings": 6
-  },
-  {
-    "code": "6409",
-    "group": "2",
     "professor": "JAIME AGUILAR REYES",
     "schedules": [
       {
@@ -28,7 +9,7 @@
         "days": [
           3
         ],
-        "classroom": "N005"
+        "classroom": "5"
       }
     ],
     "professor_id": 161895,
@@ -39,7 +20,7 @@
   },
   {
     "code": "6409",
-    "group": "3",
+    "group": "2",
     "professor": "ALEJANDRA MENDOZA CAMPOS",
     "schedules": [
       {
@@ -47,7 +28,7 @@
         "days": [
           3
         ],
-        "classroom": "N005"
+        "classroom": "5"
       }
     ],
     "professor_id": 186559,
@@ -58,7 +39,7 @@
   },
   {
     "code": "6409",
-    "group": "4",
+    "group": "3",
     "professor": "MAURICIO IVAN ESCALANTE CAMARGO",
     "schedules": [
       {
@@ -66,7 +47,7 @@
         "days": [
           3
         ],
-        "classroom": "N005"
+        "classroom": "5"
       }
     ],
     "professor_id": 79858,
@@ -77,7 +58,7 @@
   },
   {
     "code": "6409",
-    "group": "5",
+    "group": "4",
     "professor": "JAIME AGUILAR REYES",
     "schedules": [
       {
@@ -85,7 +66,7 @@
         "days": [
           3
         ],
-        "classroom": "N005"
+        "classroom": "5"
       }
     ],
     "professor_id": 161895,
@@ -96,21 +77,7 @@
   },
   {
     "code": "6409",
-    "group": "6",
-    "professor": "LUIS FERNANDO DONIS RABANALES",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          3
-        ],
-        "classroom": "N005"
-      }
-    ]
-  },
-  {
-    "code": "6409",
-    "group": "7",
+    "group": "5",
     "professor": "OCTAVIO PASTOR REYES GARCIA",
     "schedules": [
       {
@@ -118,7 +85,7 @@
         "days": [
           3
         ],
-        "classroom": "N005"
+        "classroom": "5"
       }
     ],
     "professor_id": 98730,
@@ -129,7 +96,7 @@
   },
   {
     "code": "6409",
-    "group": "8",
+    "group": "6",
     "professor": "AGUSTIN NIEVES SAAVEDRA",
     "schedules": [
       {
@@ -137,7 +104,7 @@
         "days": [
           3
         ],
-        "classroom": "N005"
+        "classroom": "5"
       }
     ],
     "professor_id": 63731,
@@ -148,7 +115,7 @@
   },
   {
     "code": "6409",
-    "group": "9",
+    "group": "7",
     "professor": "MAURICIO IVAN ESCALANTE CAMARGO",
     "schedules": [
       {
@@ -156,7 +123,7 @@
         "days": [
           3
         ],
-        "classroom": "N005"
+        "classroom": "5"
       }
     ],
     "professor_id": 79858,
@@ -167,7 +134,7 @@
   },
   {
     "code": "6409",
-    "group": "10",
+    "group": "8",
     "professor": "JUAN ANTONIO SANDOVAL RODRIGUEZ",
     "schedules": [
       {
@@ -175,7 +142,7 @@
         "days": [
           3
         ],
-        "classroom": "N005"
+        "classroom": "5"
       }
     ],
     "professor_id": 71990,
@@ -186,7 +153,7 @@
   },
   {
     "code": "6409",
-    "group": "11",
+    "group": "9",
     "professor": "SERVANDO RUIZ RODRIGUEZ",
     "schedules": [
       {
@@ -194,13 +161,13 @@
         "days": [
           3
         ],
-        "classroom": "N005"
+        "classroom": "5"
       }
     ]
   },
   {
     "code": "6409",
-    "group": "12",
+    "group": "10",
     "professor": "MAURICIO IVAN ESCALANTE CAMARGO",
     "schedules": [
       {
@@ -208,7 +175,7 @@
         "days": [
           3
         ],
-        "classroom": "N005"
+        "classroom": "5"
       }
     ],
     "professor_id": 79858,
@@ -219,7 +186,7 @@
   },
   {
     "code": "6409",
-    "group": "13",
+    "group": "11",
     "professor": "EDUARDO PEREZ GONZALEZ",
     "schedules": [
       {
@@ -227,7 +194,7 @@
         "days": [
           3
         ],
-        "classroom": "N005"
+        "classroom": "5"
       }
     ],
     "professor_id": 149862,
@@ -238,7 +205,7 @@
   },
   {
     "code": "6409",
-    "group": "14",
+    "group": "12",
     "professor": "SERVANDO RUIZ RODRIGUEZ",
     "schedules": [
       {
@@ -246,13 +213,13 @@
         "days": [
           3
         ],
-        "classroom": "N005"
+        "classroom": "5"
       }
     ]
   },
   {
     "code": "6409",
-    "group": "15",
+    "group": "13",
     "professor": "JORGE AGUILAR JUAREZ",
     "schedules": [
       {
@@ -260,7 +227,7 @@
         "days": [
           3
         ],
-        "classroom": "N005"
+        "classroom": "5"
       }
     ],
     "professor_id": 160523,
@@ -271,7 +238,7 @@
   },
   {
     "code": "6409",
-    "group": "16",
+    "group": "14",
     "professor": "IAN GUILLERMO MONSIVAIS MONTOLIU",
     "schedules": [
       {
@@ -279,7 +246,7 @@
         "days": [
           3
         ],
-        "classroom": "N005"
+        "classroom": "5"
       }
     ],
     "professor_id": 79478,
@@ -290,7 +257,7 @@
   },
   {
     "code": "6409",
-    "group": "17",
+    "group": "15",
     "professor": "MAURICIO IVAN ESCALANTE CAMARGO",
     "schedules": [
       {
@@ -298,7 +265,7 @@
         "days": [
           3
         ],
-        "classroom": "N005"
+        "classroom": "5"
       }
     ],
     "professor_id": 79858,
@@ -309,7 +276,7 @@
   },
   {
     "code": "6409",
-    "group": "18",
+    "group": "16",
     "professor": "OCTAVIO PASTOR REYES GARCIA",
     "schedules": [
       {
@@ -317,7 +284,7 @@
         "days": [
           3
         ],
-        "classroom": "N005"
+        "classroom": "5"
       }
     ],
     "professor_id": 98730,
@@ -328,7 +295,7 @@
   },
   {
     "code": "6409",
-    "group": "19",
+    "group": "17",
     "professor": "JORGE AGUILAR JUAREZ",
     "schedules": [
       {
@@ -336,7 +303,7 @@
         "days": [
           3
         ],
-        "classroom": "N005"
+        "classroom": "5"
       }
     ],
     "professor_id": 160523,
@@ -347,7 +314,7 @@
   },
   {
     "code": "6409",
-    "group": "20",
+    "group": "18",
     "professor": "LUIS FERNANDO DONIS RABANALES",
     "schedules": [
       {
@@ -355,13 +322,13 @@
         "days": [
           3
         ],
-        "classroom": "N005"
+        "classroom": "5"
       }
     ]
   },
   {
     "code": "6409",
-    "group": "21",
+    "group": "19",
     "professor": "EDGAR EDUARDO CEDILLO CORNEJO",
     "schedules": [
       {
@@ -369,32 +336,13 @@
         "days": [
           3
         ],
-        "classroom": "N005"
+        "classroom": "5"
       }
     ]
   },
   {
     "code": "6409",
-    "group": "22",
-    "professor": "OCTAVIO PASTOR REYES GARCIA",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          3
-        ],
-        "classroom": "N005"
-      }
-    ],
-    "professor_id": 98730,
-    "first_name": "Octavio Pastor",
-    "last_name": "Reyes García",
-    "rating": 8.0,
-    "num_ratings": 14
-  },
-  {
-    "code": "6409",
-    "group": "23",
+    "group": "20",
     "professor": "DIANA PATRICIA ANAYA TELLEZ",
     "schedules": [
       {
@@ -402,7 +350,7 @@
         "days": [
           5
         ],
-        "classroom": "N005"
+        "classroom": "5"
       }
     ],
     "professor_id": 134866,
@@ -413,7 +361,7 @@
   },
   {
     "code": "6409",
-    "group": "24",
+    "group": "21",
     "professor": "LUIS FERNANDO DONIS RABANALES",
     "schedules": [
       {
@@ -421,13 +369,13 @@
         "days": [
           5
         ],
-        "classroom": "N005"
+        "classroom": "5"
       }
     ]
   },
   {
     "code": "6409",
-    "group": "25",
+    "group": "22",
     "professor": "DANIEL ESQUIVEL VELAZQUEZ",
     "schedules": [
       {
@@ -435,13 +383,13 @@
         "days": [
           5
         ],
-        "classroom": "N005"
+        "classroom": "5"
       }
     ]
   },
   {
     "code": "6409",
-    "group": "26",
+    "group": "23",
     "professor": "LUIS FERNANDO DONIS RABANALES",
     "schedules": [
       {
@@ -449,13 +397,13 @@
         "days": [
           5
         ],
-        "classroom": "N005"
+        "classroom": "5"
       }
     ]
   },
   {
     "code": "6409",
-    "group": "27",
+    "group": "24",
     "professor": "SONIA LUISA LOPEZ MALDONADO",
     "schedules": [
       {
@@ -463,7 +411,7 @@
         "days": [
           5
         ],
-        "classroom": "N005"
+        "classroom": "5"
       }
     ],
     "professor_id": 134971,
@@ -474,7 +422,7 @@
   },
   {
     "code": "6409",
-    "group": "28",
+    "group": "25",
     "professor": "SONIA LUISA LOPEZ MALDONADO",
     "schedules": [
       {
@@ -482,7 +430,7 @@
         "days": [
           5
         ],
-        "classroom": "N005"
+        "classroom": "5"
       }
     ],
     "professor_id": 134971,
@@ -493,26 +441,7 @@
   },
   {
     "code": "6409",
-    "group": "29",
-    "professor": "JORGE AGUILAR JUAREZ",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          5
-        ],
-        "classroom": "N005"
-      }
-    ],
-    "professor_id": 160523,
-    "first_name": "Jorge",
-    "last_name": "Aguilar Juárez",
-    "rating": 8.0,
-    "num_ratings": 3
-  },
-  {
-    "code": "6409",
-    "group": "30",
+    "group": "26",
     "professor": "DANIEL ESQUIVEL VELAZQUEZ",
     "schedules": [
       {
@@ -520,13 +449,13 @@
         "days": [
           5
         ],
-        "classroom": "N005"
+        "classroom": "5"
       }
     ]
   },
   {
     "code": "6409",
-    "group": "31",
+    "group": "27",
     "professor": "RAMON SANDOVAL PEÑA",
     "schedules": [
       {
@@ -534,7 +463,7 @@
         "days": [
           5
         ],
-        "classroom": "N005"
+        "classroom": "5"
       }
     ],
     "professor_id": 134458,
@@ -542,71 +471,5 @@
     "last_name": "Sandoval Peña",
     "rating": 6.1,
     "num_ratings": 10
-  },
-  {
-    "code": "6409",
-    "group": "32",
-    "professor": "JOAQUIN LEONEL REYES GARCIA",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          5
-        ],
-        "classroom": "N005"
-      }
-    ]
-  },
-  {
-    "code": "6409",
-    "group": "33",
-    "professor": "JOAQUIN LEONEL REYES GARCIA",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          5
-        ],
-        "classroom": "N005"
-      }
-    ]
-  },
-  {
-    "code": "6409",
-    "group": "34",
-    "professor": "ALEJANDRA MENDOZA CAMPOS",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          5
-        ],
-        "classroom": "N005"
-      }
-    ],
-    "professor_id": 186559,
-    "first_name": "Alejandra",
-    "last_name": "Mendoza Campos",
-    "rating": 9.5,
-    "num_ratings": 2
-  },
-  {
-    "code": "6409",
-    "group": "35",
-    "professor": "ALEJANDRA MENDOZA CAMPOS",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          5
-        ],
-        "classroom": "N005"
-      }
-    ],
-    "professor_id": 186559,
-    "first_name": "Alejandra",
-    "last_name": "Mendoza Campos",
-    "rating": 9.5,
-    "num_ratings": 2
   }
 ]

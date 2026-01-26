@@ -7,9 +7,9 @@
       {
         "time": "07:00-09:00",
         "days": [
-          2
+          4
         ],
-        "classroom": "I306"
+        "classroom": "35"
       }
     ],
     "professor_id": 58911,
@@ -21,14 +21,47 @@
   {
     "code": "1450",
     "group": "2",
-    "professor": "MIGUEL ANGEL JAIME VASCONCELOS",
+    "professor": "ANDRES NORIEGA USI",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2
+        ],
+        "classroom": "48"
+      }
+    ]
+  },
+  {
+    "code": "1450",
+    "group": "3",
+    "professor": "MIGUEL ALEJANDRO MALDONADO GORDILLO",
     "schedules": [
       {
         "time": "11:00-13:00",
         "days": [
+          5
+        ],
+        "classroom": "48"
+      }
+    ],
+    "professor_id": 113918,
+    "first_name": "Miguel",
+    "last_name": "Maldonado",
+    "rating": 9.0,
+    "num_ratings": 4
+  },
+  {
+    "code": "1450",
+    "group": "4",
+    "professor": "MIGUEL ANGEL JAIME VASCONCELOS",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
           4
         ],
-        "classroom": "J109"
+        "classroom": "48"
       }
     ],
     "professor_id": 42088,
@@ -39,15 +72,53 @@
   },
   {
     "code": "1450",
-    "group": "3",
-    "professor": "SUSANA ABURTO MEJIA",
+    "group": "5",
+    "professor": "ALBERTO SANDOVAL GARCIA",
     "schedules": [
       {
-        "time": "17:00-19:00",
+        "time": "15:00-17:00",
         "days": [
           3
         ],
-        "classroom": "J106"
+        "classroom": "35"
+      }
+    ],
+    "professor_id": 102860,
+    "first_name": "Alberto",
+    "last_name": "Sandoval Garcia",
+    "rating": 8.5909,
+    "num_ratings": 22
+  },
+  {
+    "code": "1450",
+    "group": "6",
+    "professor": "ALBERTO SANDOVAL GARCIA",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          5
+        ],
+        "classroom": "48"
+      }
+    ],
+    "professor_id": 102860,
+    "first_name": "Alberto",
+    "last_name": "Sandoval Garcia",
+    "rating": 8.5909,
+    "num_ratings": 22
+  },
+  {
+    "code": "1450",
+    "group": "7",
+    "professor": "SUSANA ABURTO MEJIA",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          3
+        ],
+        "classroom": "48"
       }
     ],
     "professor_id": 181455,
@@ -55,19 +126,5 @@
     "last_name": "Aburto Mejía",
     "rating": 10.0,
     "num_ratings": 5
-  },
-  {
-    "code": "1450",
-    "group": "4",
-    "professor": "ARIANEE SAINZ VIDAL",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          1
-        ],
-        "classroom": "I306"
-      }
-    ]
   }
 ]

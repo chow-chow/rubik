@@ -10,7 +10,7 @@
           1,
           3
         ],
-        "classroom": "Y203"
+        "classroom": "30"
       }
     ],
     "professor_id": 90785,
@@ -30,7 +30,7 @@
           1,
           3
         ],
-        "classroom": "Y203"
+        "classroom": "30"
       }
     ],
     "professor_id": 71649,
@@ -50,7 +50,7 @@
           1,
           3
         ],
-        "classroom": "A304"
+        "classroom": "30"
       }
     ],
     "professor_id": 61572,
@@ -70,7 +70,7 @@
           2,
           4
         ],
-        "classroom": "A204"
+        "classroom": "30"
       }
     ],
     "professor_id": 171805,
@@ -82,41 +82,6 @@
   {
     "code": "1596",
     "group": "5",
-    "professor": "GUILLERMO LLANOS BONILLA",
-    "schedules": [
-      {
-        "time": "14:30-16:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "A211"
-      }
-    ],
-    "professor_id": 107514,
-    "first_name": "Guillermo",
-    "last_name": "Llanos Bonilla",
-    "rating": 6.33,
-    "num_ratings": 24
-  },
-  {
-    "code": "1596",
-    "group": "6",
-    "professor": "Grupo cancelado, contactar a la División.",
-    "schedules": [
-      {
-        "time": "14:30-16:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "SIN"
-      }
-    ]
-  },
-  {
-    "code": "1596",
-    "group": "7",
     "professor": "JUAN JOSE ARRIAGA OCAÑA",
     "schedules": [
       {
@@ -125,28 +90,8 @@
           2,
           4
         ],
-        "classroom": "A308"
+        "classroom": "30"
       }
     ]
-  },
-  {
-    "code": "1596",
-    "group": "8",
-    "professor": "HERIBERTO ESQUIVEL CASTELLANOS",
-    "schedules": [
-      {
-        "time": "14:30-16:00",
-        "days": [
-          3,
-          5
-        ],
-        "classroom": "A207"
-      }
-    ],
-    "professor_id": 21650,
-    "first_name": "heriberto",
-    "last_name": "esquivel castellanos",
-    "rating": 7.175,
-    "num_ratings": 40
   }
 ]

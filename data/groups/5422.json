@@ -1,96 +1,7 @@
 [
   {
     "code": "5422",
-    "group": "2",
-    "professor": "CARLOS ALBERTO PEREZ JUAREZ",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          4
-        ],
-        "classroom": "P001"
-      }
-    ]
-  },
-  {
-    "code": "5422",
     "group": "3",
-    "professor": "CARLOS ALBERTO PEREZ JUAREZ",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          4
-        ],
-        "classroom": "P001"
-      }
-    ]
-  },
-  {
-    "code": "5422",
-    "group": "4",
-    "professor": "CARLOS ALBERTO PEREZ JUAREZ",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          4
-        ],
-        "classroom": "P001"
-      }
-    ]
-  },
-  {
-    "code": "5422",
-    "group": "6",
-    "professor": "DAVID QUINTANAR VILLALBA",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          5
-        ],
-        "classroom": "P001"
-      }
-    ]
-  },
-  {
-    "code": "5422",
-    "group": "7",
-    "professor": "RICARDO GARIBAY JIMENEZ",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          4
-        ],
-        "classroom": "P001"
-      }
-    ],
-    "professor_id": 109852,
-    "first_name": "Ricardo",
-    "last_name": "Garibay Jiménez",
-    "rating": 4.2,
-    "num_ratings": 10
-  },
-  {
-    "code": "5422",
-    "group": "8",
-    "professor": "Grupo cancelado, contactar a la División.",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          1
-        ],
-        "classroom": "P001"
-      }
-    ]
-  },
-  {
-    "code": "5422",
-    "group": "9",
     "professor": "GLORIA CORREA PALACIOS",
     "schedules": [
       {
@@ -98,7 +9,7 @@
         "days": [
           2
         ],
-        "classroom": "P001"
+        "classroom": "16"
       }
     ],
     "professor_id": 112607,
@@ -109,44 +20,105 @@
   },
   {
     "code": "5422",
+    "group": "4",
+    "professor": "DAVID QUINTANAR VILLALBA",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          5
+        ],
+        "classroom": "16"
+      }
+    ]
+  },
+  {
+    "code": "5422",
+    "group": "5",
+    "professor": "DAVID QUINTANAR VILLALBA",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          6
+        ],
+        "classroom": "16"
+      }
+    ]
+  },
+  {
+    "code": "5422",
+    "group": "6",
+    "professor": "CARLOS ALBERTO PEREZ JUAREZ",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          4
+        ],
+        "classroom": "16"
+      }
+    ]
+  },
+  {
+    "code": "5422",
+    "group": "7",
+    "professor": "CARLOS ALBERTO PEREZ JUAREZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          4
+        ],
+        "classroom": "16"
+      }
+    ]
+  },
+  {
+    "code": "5422",
+    "group": "8",
+    "professor": "CARLOS ALBERTO PEREZ JUAREZ",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          4
+        ],
+        "classroom": "16"
+      }
+    ]
+  },
+  {
+    "code": "5422",
+    "group": "9",
+    "professor": "DAVID QUINTANAR VILLALBA",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          5
+        ],
+        "classroom": "16"
+      }
+    ]
+  },
+  {
+    "code": "5422",
     "group": "10",
-    "professor": "Grupo cancelado, contactar a la División.",
+    "professor": "RICARDO GARIBAY JIMENEZ",
     "schedules": [
       {
-        "time": "11:00-13:00",
+        "time": "09:00-11:00",
         "days": [
-          3
+          4
         ],
-        "classroom": "P001"
+        "classroom": "16"
       }
-    ]
-  },
-  {
-    "code": "5422",
-    "group": "11",
-    "professor": "DAVID QUINTANAR VILLALBA",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          1
-        ],
-        "classroom": "P001"
-      }
-    ]
-  },
-  {
-    "code": "5422",
-    "group": "12",
-    "professor": "DAVID QUINTANAR VILLALBA",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          3
-        ],
-        "classroom": "P001"
-      }
-    ]
+    ],
+    "professor_id": 109852,
+    "first_name": "Ricardo",
+    "last_name": "Garibay Jiménez",
+    "rating": 4.2,
+    "num_ratings": 10
   }
 ]

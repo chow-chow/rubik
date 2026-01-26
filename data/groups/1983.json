@@ -1,26 +1,6 @@
 [
   {
     "code": "1983",
-    "group": "1",
-    "professor": "HUMBERTO SANTOS RIOS",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "D007"
-      }
-    ],
-    "professor_id": 134744,
-    "first_name": "Humberto",
-    "last_name": "Santos Rios",
-    "rating": 6.7778,
-    "num_ratings": 18
-  },
-  {
-    "code": "1983",
     "group": "2",
     "professor": "JAVIER REYNA ALONSO",
     "schedules": [
@@ -29,7 +9,7 @@
         "days": [
           6
         ],
-        "classroom": "D006"
+        "classroom": "35"
       }
     ],
     "professor_id": 103042,
@@ -49,7 +29,7 @@
           2,
           4
         ],
-        "classroom": "SIN"
+        "classroom": "35"
       }
     ]
   }

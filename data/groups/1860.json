@@ -10,7 +10,7 @@
           2,
           4
         ],
-        "classroom": "B303"
+        "classroom": "30"
       }
     ],
     "professor_id": 74598,
@@ -22,7 +22,7 @@
   {
     "code": "1860",
     "group": "2",
-    "professor": "PROFESOR POR ASIGNAR",
+    "professor": "RAFAEL CHAVEZ MARTINEZVer Nota 2",
     "schedules": [
       {
         "time": "07:00-09:00",
@@ -30,43 +30,41 @@
           2,
           4
         ],
-        "classroom": "D001"
+        "classroom": "30"
       }
     ]
   },
   {
     "code": "1860",
     "group": "3",
+    "professor": "ARMANDO ROJAS MORIN",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "30"
+      }
+    ],
+    "professor_id": 149863,
+    "first_name": "Armando",
+    "last_name": "Rojas Morin",
+    "rating": 5.0,
+    "num_ratings": 3
+  },
+  {
+    "code": "1860",
+    "group": "4",
     "professor": "JAMES PEREZ BARRERA",
     "schedules": [
       {
         "time": "11:00-13:00",
         "days": [
-          1
-        ],
-        "classroom": "B201"
-      },
-      {
-        "time": "11:00-13:00",
-        "days": [
           5
         ],
-        "classroom": "B105"
-      }
-    ]
-  },
-  {
-    "code": "1860",
-    "group": "4",
-    "professor": "RAFAEL CHAVEZ MARTINEZVer Nota 2",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "EXTR"
+        "classroom": "30"
       }
     ]
   },
@@ -81,7 +79,7 @@
           2,
           4
         ],
-        "classroom": "Y004"
+        "classroom": "30"
       }
     ],
     "professor_id": 113818,
@@ -89,5 +87,20 @@
     "last_name": "Solorio Ordaz",
     "rating": 7.8889,
     "num_ratings": 9
+  },
+  {
+    "code": "1860",
+    "group": "6",
+    "professor": "ARNOLD FRANCISCO BASTIDAS MELO",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "30"
+      }
+    ]
   }
 ]

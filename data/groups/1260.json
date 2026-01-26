@@ -2,21 +2,14 @@
   {
     "code": "1260",
     "group": "1",
-    "professor": "ERIK VARGAS ROJAS",
+    "professor": "ERIK VARGAS ROJASVer Nota 1",
     "schedules": [
       {
         "time": "11:30-13:00",
         "days": [
           4
         ],
-        "classroom": "A405"
-      },
-      {
-        "time": "11:30-13:00",
-        "days": [
-          5
-        ],
-        "classroom": "B409"
+        "classroom": "15"
       }
     ]
   }

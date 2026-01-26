@@ -2,7 +2,37 @@
   {
     "code": "2915",
     "group": "1",
-    "professor": "OSCAR ENRIQUE MARTINEZ JURADO",
+    "professor": "FRANCISCO JAVIER GRANADOS VILLAFUERTE",
+    "schedules": [
+      {
+        "time": "08:30-10:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "28"
+      }
+    ]
+  },
+  {
+    "code": "2915",
+    "group": "2",
+    "professor": "PROFESOR POR ASIGNAR",
+    "schedules": [
+      {
+        "time": "19:00-20:30",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "28"
+      }
+    ]
+  },
+  {
+    "code": "2915",
+    "group": "3",
+    "professor": "PROFESOR POR ASIGNAR",
     "schedules": [
       {
         "time": "10:00-11:30",
@@ -10,28 +40,13 @@
           2,
           4
         ],
-        "classroom": "R206"
+        "classroom": "28"
       }
     ]
   },
   {
     "code": "2915",
-    "group": "2",
-    "professor": "MICHELLE ELIANE HERNANDEZ GARCIA",
-    "schedules": [
-      {
-        "time": "14:30-16:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "A207"
-      }
-    ]
-  },
-  {
-    "code": "2915",
-    "group": "3",
+    "group": "4",
     "professor": "ALEJANDRO JOSE LEO VARGAS",
     "schedules": [
       {
@@ -40,7 +55,7 @@
           2,
           4
         ],
-        "classroom": "A307"
+        "classroom": "28"
       }
     ],
     "professor_id": 146711,
@@ -51,8 +66,8 @@
   },
   {
     "code": "2915",
-    "group": "4",
-    "professor": "MICHELLE ELIANE HERNANDEZ GARCIA",
+    "group": "5",
+    "professor": "PROFESOR POR ASIGNAR",
     "schedules": [
       {
         "time": "19:00-20:30",
@@ -60,7 +75,7 @@
           2,
           4
         ],
-        "classroom": "A308"
+        "classroom": "28"
       }
     ]
   }

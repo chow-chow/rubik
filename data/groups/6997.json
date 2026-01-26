@@ -2,39 +2,20 @@
   {
     "code": "6997",
     "group": "1",
-    "professor": "JESUS YAÑEZ GUTIERREZ",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          1
-        ],
-        "classroom": "P114"
-      }
-    ],
-    "professor_id": 156041,
-    "first_name": "Jesús",
-    "last_name": "Yañez Gutiérrez",
-    "rating": 9.3333,
-    "num_ratings": 3
-  },
-  {
-    "code": "6997",
-    "group": "2",
-    "professor": "RENE MELENDEZ PEREZ",
+    "professor": "ANDRES GONZALEZ RODRIGUEZ",
     "schedules": [
       {
         "time": "15:00-17:00",
         "days": [
           1
         ],
-        "classroom": "P114"
+        "classroom": "10"
       }
     ]
   },
   {
     "code": "6997",
-    "group": "3",
+    "group": "2",
     "professor": "ADRIANA EUGENIA CHAVIRA DIAZ",
     "schedules": [
       {
@@ -42,7 +23,7 @@
         "days": [
           2
         ],
-        "classroom": "P114"
+        "classroom": "10"
       }
     ],
     "professor_id": 112610,
@@ -50,6 +31,25 @@
     "last_name": "Chavira Diaz",
     "rating": 9.4706,
     "num_ratings": 17
+  },
+  {
+    "code": "6997",
+    "group": "3",
+    "professor": "JESUS YAÑEZ GUTIERREZ",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          2
+        ],
+        "classroom": "10"
+      }
+    ],
+    "professor_id": 156041,
+    "first_name": "Jesús",
+    "last_name": "Yañez Gutiérrez",
+    "rating": 9.3333,
+    "num_ratings": 3
   },
   {
     "code": "6997",
@@ -61,7 +61,7 @@
         "days": [
           2
         ],
-        "classroom": "P114"
+        "classroom": "10"
       }
     ],
     "professor_id": 104932,
@@ -80,7 +80,7 @@
         "days": [
           3
         ],
-        "classroom": "P114"
+        "classroom": "10"
       }
     ],
     "professor_id": 161143,
@@ -99,7 +99,7 @@
         "days": [
           4
         ],
-        "classroom": "P114"
+        "classroom": "10"
       }
     ],
     "professor_id": 112610,
@@ -118,7 +118,7 @@
         "days": [
           4
         ],
-        "classroom": "P114"
+        "classroom": "10"
       }
     ],
     "professor_id": 156041,
@@ -137,7 +137,7 @@
         "days": [
           5
         ],
-        "classroom": "P114"
+        "classroom": "10"
       }
     ]
   },
@@ -147,11 +147,11 @@
     "professor": "FERNANDA RAMOS GARCIA",
     "schedules": [
       {
-        "time": "09:00-11:00",
+        "time": "13:00-15:00",
         "days": [
           5
         ],
-        "classroom": "P114"
+        "classroom": "10"
       }
     ],
     "professor_id": 159593,

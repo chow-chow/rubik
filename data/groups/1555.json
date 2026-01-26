@@ -5,12 +5,12 @@
     "professor": "CESAR VAZQUEZ LORENZANA",
     "schedules": [
       {
-        "time": "10:00-11:30",
+        "time": "11:30-13:00",
         "days": [
           1,
           3
         ],
-        "classroom": "A106"
+        "classroom": "25"
       }
     ],
     "professor_id": 66566,
@@ -30,7 +30,7 @@
           1,
           3
         ],
-        "classroom": "A203"
+        "classroom": "25"
       }
     ],
     "professor_id": 66566,
@@ -42,7 +42,7 @@
   {
     "code": "1555",
     "group": "3",
-    "professor": "ALEJANDRO LEGORRETA LINARES",
+    "professor": "RICARDO RUBEN PADILLA VELAZQUEZ",
     "schedules": [
       {
         "time": "13:00-14:30",
@@ -50,14 +50,19 @@
           1,
           3
         ],
-        "classroom": "A208"
+        "classroom": "25"
       }
-    ]
+    ],
+    "professor_id": 72785,
+    "first_name": "Ricardo Rubén",
+    "last_name": "Padilla Velázquez",
+    "rating": 8.6667,
+    "num_ratings": 27
   },
   {
     "code": "1555",
     "group": "4",
-    "professor": "CESAR VAZQUEZ LORENZANA",
+    "professor": "PROFESOR POR ASIGNAR",
     "schedules": [
       {
         "time": "17:30-19:00",
@@ -65,33 +70,13 @@
           1,
           3
         ],
-        "classroom": "A203"
-      }
-    ],
-    "professor_id": 66566,
-    "first_name": "Cesar",
-    "last_name": "Vazquez Lorenzana",
-    "rating": 6.1149,
-    "num_ratings": 87
-  },
-  {
-    "code": "1555",
-    "group": "5",
-    "professor": "SALVADOR VILLARREAL LOPEZ REBUELTA",
-    "schedules": [
-      {
-        "time": "20:30-22:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "A212"
+        "classroom": "25"
       }
     ]
   },
   {
     "code": "1555",
-    "group": "6",
+    "group": "5",
     "professor": "RUBEN DOMINGUEZ ALFARO",
     "schedules": [
       {
@@ -100,14 +85,14 @@
           2,
           4
         ],
-        "classroom": "A211"
+        "classroom": "25"
       }
     ]
   },
   {
     "code": "1555",
-    "group": "7",
-    "professor": "CARMELINO ZEA CONSTANTINO",
+    "group": "6",
+    "professor": "PROFESOR POR ASIGNAR",
     "schedules": [
       {
         "time": "11:30-13:00",
@@ -115,7 +100,7 @@
           2,
           4
         ],
-        "classroom": "A212"
+        "classroom": "25"
       }
     ]
   },
@@ -130,7 +115,7 @@
           2,
           4
         ],
-        "classroom": "A211"
+        "classroom": "25"
       }
     ],
     "professor_id": 90635,
@@ -150,7 +135,7 @@
           2,
           4
         ],
-        "classroom": "A204"
+        "classroom": "25"
       }
     ]
   }

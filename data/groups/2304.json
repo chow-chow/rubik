@@ -10,7 +10,7 @@
           2,
           4
         ],
-        "classroom": "Q309"
+        "classroom": "5"
       }
     ],
     "professor_id": 99008,
@@ -30,27 +30,8 @@
           2,
           4
         ],
-        "classroom": "Q307"
+        "classroom": "5"
       }
     ]
-  },
-  {
-    "code": "2304",
-    "group": "3",
-    "professor": "LUIS FRANCISCO GARCIA JIMENEZ",
-    "schedules": [
-      {
-        "time": "11:00-14:00",
-        "days": [
-          5
-        ],
-        "classroom": "Q307"
-      }
-    ],
-    "professor_id": 84771,
-    "first_name": "Luis Francisco",
-    "last_name": "Garcia Jimenez",
-    "rating": 7.0,
-    "num_ratings": 2
   }
 ]

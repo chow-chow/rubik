@@ -2,25 +2,6 @@
   {
     "code": "7908",
     "group": "1",
-    "professor": "LUIS MIGUEL CASTRO GONZALEZ",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          3
-        ],
-        "classroom": "S201"
-      }
-    ],
-    "professor_id": 99894,
-    "first_name": "Luis Miguel",
-    "last_name": "Castro González",
-    "rating": 6.875,
-    "num_ratings": 16
-  },
-  {
-    "code": "7908",
-    "group": "2",
     "professor": "SERGIO CORTES LOPEZ",
     "schedules": [
       {
@@ -28,7 +9,7 @@
         "days": [
           3
         ],
-        "classroom": "S201"
+        "classroom": "18"
       }
     ],
     "professor_id": 109198,

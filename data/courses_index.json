@@ -401,11 +401,8 @@
     "code": "0678",
     "name": "CONTROL AUTOMATICO INDUSTRIAL",
     "credits": 8,
-    "has_lab": true,
-    "lab": {
-      "code": "5678",
-      "name": "LAB. CONTROL AUTOMATICO INDUSTRIAL"
-    }
+    "has_lab": false,
+    "lab": null
   },
   {
     "code": "0692",
@@ -832,8 +829,11 @@
     "code": "1093",
     "name": "CONTROL DE SISTEMAS NO LINEALES",
     "credits": 8,
-    "has_lab": false,
-    "lab": null
+    "has_lab": true,
+    "lab": {
+      "code": "6093",
+      "name": "LAB. CONTROL DE SISTEMAS NO LINEALES"
+    }
   },
   {
     "code": "1095",
@@ -3756,18 +3756,18 @@
     "code": "2400",
     "name": "MATERIALES I",
     "credits": 10,
-    "has_lab": false,
-    "lab": null
+    "has_lab": true,
+    "lab": {
+      "code": "7400",
+      "name": "LABORATORIO DE MATERIALES I"
+    }
   },
   {
     "code": "2500",
     "name": "MATERIALES II",
     "credits": 10,
-    "has_lab": true,
-    "lab": {
-      "code": "7500",
-      "name": "LAB MATERIALES II"
-    }
+    "has_lab": false,
+    "lab": null
   },
   {
     "code": "2501",
@@ -3985,11 +3985,8 @@
     "code": "2710",
     "name": "EVALUACION DE LA CALIDAD DEL AIRE",
     "credits": 8,
-    "has_lab": true,
-    "lab": {
-      "code": "7710",
-      "name": "LABORATORIO DE EVALUACION DE LA CALIDAD DEL AIRE"
-    }
+    "has_lab": false,
+    "lab": null
   },
   {
     "code": "2711",
@@ -4297,18 +4294,18 @@
     "code": "2904",
     "name": "FISIOLOGIA SISTEMAS HOMEOSTATICOS",
     "credits": 8,
-    "has_lab": false,
-    "lab": null
+    "has_lab": true,
+    "lab": {
+      "code": "7904",
+      "name": "LABORATORIO FISIOLOGIA DE LOS SISTEMAS HOMEOSTATICOS"
+    }
   },
   {
     "code": "2905",
     "name": "FISIOLOGIA SISTEMA ENDOCRINO-NERVIOS",
     "credits": 8,
-    "has_lab": true,
-    "lab": {
-      "code": "7905",
-      "name": "LABORATORIO FISIOLOGIA DEL SISTEMA ENDOCRINO Y NERVIOSO"
-    }
+    "has_lab": false,
+    "lab": null
   },
   {
     "code": "2906",

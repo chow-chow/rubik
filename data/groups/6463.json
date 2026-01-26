@@ -5,11 +5,11 @@
     "professor": "JUAN MANUEL VELASCO MIRANDA",
     "schedules": [
       {
-        "time": "07:00-09:00",
+        "time": "09:00-11:00",
         "days": [
-          5
+          4
         ],
-        "classroom": "P215"
+        "classroom": "6"
       }
     ],
     "professor_id": 95190,
@@ -21,20 +21,20 @@
   {
     "code": "6463",
     "group": "2",
-    "professor": "EDGAR  BALDEMAR AGUADO CRUZ",
+    "professor": "JUAN MANUEL VELASCO MIRANDA",
     "schedules": [
       {
-        "time": "11:00-13:00",
+        "time": "07:00-09:00",
         "days": [
           5
         ],
-        "classroom": "P215"
+        "classroom": "6"
       }
     ],
-    "professor_id": 99901,
-    "first_name": "Edgar Baldemar",
-    "last_name": "Aguado Cruz",
-    "rating": 8.25,
-    "num_ratings": 28
+    "professor_id": 95190,
+    "first_name": "Juan Manuel",
+    "last_name": "Velasco Miranda",
+    "rating": 8.8333,
+    "num_ratings": 12
   }
 ]

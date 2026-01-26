@@ -10,7 +10,7 @@
           1,
           3
         ],
-        "classroom": "D009"
+        "classroom": "20"
       }
     ],
     "professor_id": 74008,
@@ -29,28 +29,7 @@
         "days": [
           6
         ],
-        "classroom": "D009"
-      }
-    ]
-  },
-  {
-    "code": "1995",
-    "group": "3",
-    "professor": "ERNESTO CISNEROS VEGA",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          4
-        ],
-        "classroom": "D007"
-      },
-      {
-        "time": "17:00-19:00",
-        "days": [
-          1
-        ],
-        "classroom": "Y103"
+        "classroom": "20"
       }
     ]
   },
@@ -65,7 +44,7 @@
           2,
           4
         ],
-        "classroom": "B406"
+        "classroom": "20"
       }
     ]
   }

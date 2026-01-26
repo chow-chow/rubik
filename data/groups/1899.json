@@ -5,12 +5,12 @@
     "professor": "MARICARMEN GUILLEN MANDUJANO",
     "schedules": [
       {
-        "time": "13:00-15:00",
+        "time": "15:00-17:00",
         "days": [
           3,
           5
         ],
-        "classroom": "D009"
+        "classroom": "10"
       }
     ],
     "professor_id": 142033,

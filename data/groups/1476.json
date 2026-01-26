@@ -10,22 +10,51 @@
           1,
           3
         ],
-        "classroom": "EXTR"
+        "classroom": "25"
       }
     ]
   },
   {
     "code": "1476",
     "group": "2",
-    "professor": "JONATHAN HERNANDEZ GARCIA",
+    "professor": "LUIS MANUEL CERVANTES MARCELINO",
     "schedules": [
       {
-        "time": "08:30-10:00",
+        "time": "14:30-16:00",
         "days": [
           2,
           4
         ],
-        "classroom": "B409"
+        "classroom": "25"
+      }
+    ]
+  },
+  {
+    "code": "1476",
+    "group": "3",
+    "professor": "JONATHAN HERNANDEZ GARCIA",
+    "schedules": [
+      {
+        "time": "07:00-08:30",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "25"
+      }
+    ]
+  },
+  {
+    "code": "1476",
+    "group": "4",
+    "professor": "JUAN MANUEL COCA GONZALEZVer Nota 1",
+    "schedules": [
+      {
+        "time": "13:00-14:30",
+        "days": [
+          3
+        ],
+        "classroom": "25"
       }
     ]
   }

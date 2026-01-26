@@ -2,16 +2,14 @@
   {
     "code": "1198",
     "group": "1",
-    "professor": "M. F. GABRIEL HURTADO CHONG",
+    "professor": "GABRIEL HURTADO CHONG",
     "schedules": [
       {
         "time": "15:00-17:00",
         "days": [
-          1,
-          3,
-          5
+          1
         ],
-        "classroom": "O013"
+        "classroom": "20"
       }
     ],
     "professor_id": 108906,

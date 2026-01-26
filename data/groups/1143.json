@@ -1,0 +1,17 @@
+[
+  {
+    "code": "1143",
+    "group": "1",
+    "professor": "DENIS XAVIER FRANCOIS LEGRAND",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "10"
+      }
+    ]
+  }
+]

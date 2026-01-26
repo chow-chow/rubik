@@ -2,20 +2,6 @@
   {
     "code": "7704",
     "group": "1",
-    "professor": "Grupo cancelado, contactar a la División.",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          5
-        ],
-        "classroom": "Q307"
-      }
-    ]
-  },
-  {
-    "code": "7704",
-    "group": "2",
     "professor": "OMAR NIETO CRISOSTOMO",
     "schedules": [
       {
@@ -23,7 +9,7 @@
         "days": [
           5
         ],
-        "classroom": "Q307"
+        "classroom": "8"
       }
     ]
   }

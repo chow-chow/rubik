@@ -1,0 +1,22 @@
+[
+  {
+    "code": "1093",
+    "group": "1",
+    "professor": "LUIS AGUSTIN ALVAREZ ICAZA LONGORIA",
+    "schedules": [
+      {
+        "time": "09:00-10:30",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "10"
+      }
+    ],
+    "professor_id": 104515,
+    "first_name": "Luis Agustín",
+    "last_name": "álvarez Icaza Longoria",
+    "rating": 5.6,
+    "num_ratings": 5
+  }
+]

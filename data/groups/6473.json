@@ -9,7 +9,7 @@
         "days": [
           1
         ],
-        "classroom": "P114"
+        "classroom": "10"
       }
     ],
     "professor_id": 156041,
@@ -28,7 +28,7 @@
         "days": [
           1
         ],
-        "classroom": "P114"
+        "classroom": "10"
       }
     ],
     "professor_id": 112610,
@@ -47,7 +47,7 @@
         "days": [
           1
         ],
-        "classroom": "P109"
+        "classroom": "10"
       }
     ],
     "professor_id": 124067,
@@ -66,7 +66,7 @@
         "days": [
           1
         ],
-        "classroom": "P114"
+        "classroom": "10"
       }
     ],
     "professor_id": 124067,
@@ -85,7 +85,7 @@
         "days": [
           2
         ],
-        "classroom": "P109"
+        "classroom": "10"
       }
     ],
     "professor_id": 161143,
@@ -104,7 +104,7 @@
         "days": [
           2
         ],
-        "classroom": "P114"
+        "classroom": "10"
       }
     ],
     "professor_id": 124067,
@@ -123,7 +123,7 @@
         "days": [
           2
         ],
-        "classroom": "P114"
+        "classroom": "10"
       }
     ]
   },
@@ -137,7 +137,7 @@
         "days": [
           2
         ],
-        "classroom": "P109"
+        "classroom": "10"
       }
     ],
     "professor_id": 124068,
@@ -156,7 +156,7 @@
         "days": [
           2
         ],
-        "classroom": "P114"
+        "classroom": "10"
       }
     ],
     "professor_id": 109182,
@@ -175,7 +175,7 @@
         "days": [
           3
         ],
-        "classroom": "P109"
+        "classroom": "10"
       }
     ],
     "professor_id": 156041,
@@ -187,21 +187,21 @@
   {
     "code": "6473",
     "group": "11",
-    "professor": "VERONICA IRAIS SOLIS TINOCO",
+    "professor": "JOSE ALBERTO ARELLANO FIGUEROA",
     "schedules": [
       {
         "time": "09:00-11:00",
         "days": [
           3
         ],
-        "classroom": "P114"
+        "classroom": "10"
       }
     ],
-    "professor_id": 175184,
-    "first_name": "VERONICA IRAIS",
-    "last_name": "SOLIS TINOCO",
-    "rating": 10.0,
-    "num_ratings": 6
+    "professor_id": 87572,
+    "first_name": "José Alberto",
+    "last_name": "Arellano Figueroa",
+    "rating": 7.7778,
+    "num_ratings": 18
   },
   {
     "code": "6473",
@@ -213,7 +213,7 @@
         "days": [
           3
         ],
-        "classroom": "P114"
+        "classroom": "10"
       }
     ]
   },
@@ -227,7 +227,7 @@
         "days": [
           3
         ],
-        "classroom": "P114"
+        "classroom": "10"
       }
     ],
     "professor_id": 124067,
@@ -246,7 +246,7 @@
         "days": [
           4
         ],
-        "classroom": "P114"
+        "classroom": "10"
       }
     ],
     "professor_id": 156041,
@@ -265,7 +265,7 @@
         "days": [
           4
         ],
-        "classroom": "P114"
+        "classroom": "10"
       }
     ],
     "professor_id": 87572,
@@ -284,7 +284,7 @@
         "days": [
           4
         ],
-        "classroom": "P109"
+        "classroom": "10"
       }
     ],
     "professor_id": 156041,
@@ -303,7 +303,7 @@
         "days": [
           4
         ],
-        "classroom": "P109"
+        "classroom": "10"
       }
     ],
     "professor_id": 124068,
@@ -322,7 +322,7 @@
         "days": [
           5
         ],
-        "classroom": "P109"
+        "classroom": "10"
       }
     ],
     "professor_id": 161143,
@@ -330,95 +330,5 @@
     "last_name": "Salcedo Ubilla",
     "rating": 8.75,
     "num_ratings": 4
-  },
-  {
-    "code": "6473",
-    "group": "19",
-    "professor": "MARIA LEONOR SALCEDO UBILLA",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          1
-        ],
-        "classroom": "P109"
-      }
-    ],
-    "professor_id": 161143,
-    "first_name": "Maria Leonor",
-    "last_name": "Salcedo Ubilla",
-    "rating": 8.75,
-    "num_ratings": 4
-  },
-  {
-    "code": "6473",
-    "group": "20",
-    "professor": "JESUS YAÑEZ GUTIERREZ",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          2
-        ],
-        "classroom": "P109"
-      }
-    ],
-    "professor_id": 156041,
-    "first_name": "Jesús",
-    "last_name": "Yañez Gutiérrez",
-    "rating": 9.3333,
-    "num_ratings": 3
-  },
-  {
-    "code": "6473",
-    "group": "21",
-    "professor": "LAURO FERNANDO VAZQUEZ ALBERTO",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          3
-        ],
-        "classroom": "P109"
-      }
-    ],
-    "professor_id": 124067,
-    "first_name": "M.I. LAURO FERNANDO",
-    "last_name": "VAZQUEZ ALBERTO",
-    "rating": 9.0,
-    "num_ratings": 10
-  },
-  {
-    "code": "6473",
-    "group": "22",
-    "professor": "MARIA LEONOR SALCEDO UBILLA",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          4
-        ],
-        "classroom": "P109"
-      }
-    ],
-    "professor_id": 161143,
-    "first_name": "Maria Leonor",
-    "last_name": "Salcedo Ubilla",
-    "rating": 8.75,
-    "num_ratings": 4
-  },
-  {
-    "code": "6473",
-    "group": "23",
-    "professor": "ISRAEL RIVERA CONTRERAS",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          4
-        ],
-        "classroom": "P109"
-      }
-    ]
   }
 ]

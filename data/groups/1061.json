@@ -2,7 +2,7 @@
   {
     "code": "1061",
     "group": "1",
-    "professor": "MOISES DAVILA SERRANO",
+    "professor": "MOISES DAVILA SERRANOVer Nota 2",
     "schedules": [
       {
         "time": "09:00-12:00",
@@ -10,7 +10,7 @@
           3,
           5
         ],
-        "classroom": "C202"
+        "classroom": "17"
       }
     ]
   },
@@ -20,13 +20,12 @@
     "professor": "FRANCISCO MIGUEL CORTES",
     "schedules": [
       {
-        "time": "07:00-09:00",
+        "time": "15:00-18:00",
         "days": [
-          1,
-          3,
-          5
+          2,
+          4
         ],
-        "classroom": "C301"
+        "classroom": "17"
       }
     ]
   }

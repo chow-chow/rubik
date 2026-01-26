@@ -11,137 +11,13 @@
           2,
           5
         ],
-        "classroom": "B407"
+        "classroom": "20"
       }
     ]
   },
   {
     "code": "1598",
     "group": "2",
-    "professor": "CINTIA QUEZADA REYES",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          1,
-          3,
-          5
-        ],
-        "classroom": "A107"
-      }
-    ],
-    "professor_id": 75919,
-    "first_name": "CINTIA",
-    "last_name": "QUEZADA REYES",
-    "rating": 6.3652,
-    "num_ratings": 115
-  },
-  {
-    "code": "1598",
-    "group": "3",
-    "professor": "JOSE ANTONIO MACIAS GARCIA",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          1,
-          2,
-          4
-        ],
-        "classroom": "Q208"
-      }
-    ]
-  },
-  {
-    "code": "1598",
-    "group": "4",
-    "professor": "MARCO ANTONIO VIGUERAS VILLASEÑORVer Nota 1",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          1,
-          2,
-          4
-        ],
-        "classroom": "A306"
-      }
-    ]
-  },
-  {
-    "code": "1598",
-    "group": "5",
-    "professor": "MARIA JAQUELINA LOPEZ BARRIENTOS",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          2,
-          3,
-          4
-        ],
-        "classroom": "DS10"
-      }
-    ],
-    "professor_id": 119470,
-    "first_name": "Jaquelina",
-    "last_name": "Lopez Barrientos",
-    "rating": 6.7391,
-    "num_ratings": 23
-  },
-  {
-    "code": "1598",
-    "group": "6",
-    "professor": "EDGAR MARTINEZ MEZA",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          2,
-          3,
-          4
-        ],
-        "classroom": "A201"
-      }
-    ],
-    "professor_id": 73106,
-    "first_name": "Edgar",
-    "last_name": "Martinez Meza",
-    "rating": 6.8333,
-    "num_ratings": 6
-  },
-  {
-    "code": "1598",
-    "group": "7",
-    "professor": "JOSE ANTONIO MACIAS GARCIA",
-    "schedules": [
-      {
-        "time": "07:00-13:00",
-        "days": [
-          5
-        ],
-        "classroom": "Q208"
-      }
-    ]
-  },
-  {
-    "code": "1598",
-    "group": "8",
-    "professor": "MARIA ALEJANDRA ZUÑIGA MEDEL",
-    "schedules": [
-      {
-        "time": "08:00-11:00",
-        "days": [
-          5,
-          6
-        ],
-        "classroom": "DS10"
-      }
-    ]
-  },
-  {
-    "code": "1598",
-    "group": "9",
     "professor": "MARIA EUGENIA BAUTISTA GONZALEZ",
     "schedules": [
       {
@@ -151,7 +27,7 @@
           2,
           5
         ],
-        "classroom": "A302"
+        "classroom": "20"
       }
     ],
     "professor_id": 173568,
@@ -162,23 +38,54 @@
   },
   {
     "code": "1598",
-    "group": "10",
+    "group": "3",
+    "professor": "CINTIA QUEZADA REYES",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "20"
+      }
+    ],
+    "professor_id": 75919,
+    "first_name": "CINTIA",
+    "last_name": "QUEZADA REYES",
+    "rating": 6.3652,
+    "num_ratings": 115
+  },
+  {
+    "code": "1598",
+    "group": "5",
+    "professor": "MARCO ANTONIO VIGUERAS VILLASEÑORVer Nota 1",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          1,
+          2,
+          4
+        ],
+        "classroom": "20"
+      }
+    ]
+  },
+  {
+    "code": "1598",
+    "group": "6",
     "professor": "ALEJANDRO VELAZQUEZ MENA",
     "schedules": [
       {
-        "time": "17:00-19:00",
+        "time": "11:00-13:00",
         "days": [
-          2
-        ],
-        "classroom": "P003"
-      },
-      {
-        "time": "17:00-19:00",
-        "days": [
-          1,
+          2,
+          3,
           4
         ],
-        "classroom": "Y002"
+        "classroom": "20"
       }
     ],
     "professor_id": 66382,
@@ -186,5 +93,92 @@
     "last_name": "Mena",
     "rating": 7.7778,
     "num_ratings": 9
+  },
+  {
+    "code": "1598",
+    "group": "7",
+    "professor": "MARIA JAQUELINA LOPEZ BARRIENTOS",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2,
+          3,
+          4
+        ],
+        "classroom": "20"
+      }
+    ],
+    "professor_id": 119470,
+    "first_name": "Jaquelina",
+    "last_name": "Lopez Barrientos",
+    "rating": 6.7391,
+    "num_ratings": 23
+  },
+  {
+    "code": "1598",
+    "group": "8",
+    "professor": "EDGAR MARTINEZ MEZA",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2,
+          3,
+          4
+        ],
+        "classroom": "20"
+      }
+    ],
+    "professor_id": 73106,
+    "first_name": "Edgar",
+    "last_name": "Martinez Meza",
+    "rating": 6.8333,
+    "num_ratings": 6
+  },
+  {
+    "code": "1598",
+    "group": "10",
+    "professor": "MARIA ALEJANDRA ZUÑIGA MEDEL",
+    "schedules": [
+      {
+        "time": "08:00-11:00",
+        "days": [
+          5,
+          6
+        ],
+        "classroom": "20"
+      }
+    ]
+  },
+  {
+    "code": "1598",
+    "group": "4",
+    "professor": "JOSE ANTONIO MACIAS GARCIA",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1,
+          2,
+          4
+        ],
+        "classroom": "0"
+      }
+    ]
+  },
+  {
+    "code": "1598",
+    "group": "9",
+    "professor": "JOSE ANTONIO MACIAS GARCIA",
+    "schedules": [
+      {
+        "time": "07:00-13:00",
+        "days": [
+          5
+        ],
+        "classroom": "0"
+      }
+    ]
   }
 ]

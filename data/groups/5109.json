@@ -9,8 +9,27 @@
         "days": [
           3
         ],
-        "classroom": "Q314"
+        "classroom": "8"
       }
     ]
+  },
+  {
+    "code": "5109",
+    "group": "2",
+    "professor": "THALIA IVONNE OCAMPO SANCHEZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          4
+        ],
+        "classroom": "8"
+      }
+    ],
+    "professor_id": 67356,
+    "first_name": "Thalia Ivonne",
+    "last_name": "Ocampo Sanchez",
+    "rating": 9.1818,
+    "num_ratings": 11
   }
 ]

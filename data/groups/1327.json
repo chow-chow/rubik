@@ -11,7 +11,7 @@
           3,
           5
         ],
-        "classroom": "J001"
+        "classroom": "28"
       }
     ],
     "professor_id": 90867,
@@ -31,7 +31,7 @@
           2,
           4
         ],
-        "classroom": "J001"
+        "classroom": "28"
       }
     ],
     "professor_id": 68755,
@@ -43,7 +43,7 @@
   {
     "code": "1327",
     "group": "3",
-    "professor": "ALDO RAMOS ROSIQUE",
+    "professor": "RODRIGO GUTIERREZ NAVARRO",
     "schedules": [
       {
         "time": "10:00-12:00",
@@ -52,13 +52,8 @@
           3,
           5
         ],
-        "classroom": "J001"
+        "classroom": "28"
       }
-    ],
-    "professor_id": 73851,
-    "first_name": "Aldo",
-    "last_name": "Ramos Rosique",
-    "rating": 7.0,
-    "num_ratings": 21
+    ]
   }
 ]

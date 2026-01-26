@@ -9,7 +9,7 @@
         "days": [
           1
         ],
-        "classroom": "Q316"
+        "classroom": "6"
       }
     ]
   },
@@ -23,7 +23,7 @@
         "days": [
           1
         ],
-        "classroom": "Q316"
+        "classroom": "6"
       }
     ],
     "professor_id": 141855,
@@ -42,7 +42,7 @@
         "days": [
           1
         ],
-        "classroom": "Q314"
+        "classroom": "6"
       }
     ],
     "professor_id": 23484,
@@ -61,7 +61,7 @@
         "days": [
           2
         ],
-        "classroom": "Q316"
+        "classroom": "6"
       }
     ],
     "professor_id": 142432,
@@ -80,7 +80,7 @@
         "days": [
           2
         ],
-        "classroom": "Q314"
+        "classroom": "6"
       }
     ],
     "professor_id": 99903,
@@ -99,7 +99,7 @@
         "days": [
           2
         ],
-        "classroom": "Q314"
+        "classroom": "6"
       }
     ],
     "professor_id": 89949,
@@ -118,7 +118,7 @@
         "days": [
           2
         ],
-        "classroom": "Q316"
+        "classroom": "6"
       }
     ]
   },
@@ -132,28 +132,23 @@
         "days": [
           2
         ],
-        "classroom": "Q316"
+        "classroom": "6"
       }
     ]
   },
   {
     "code": "6999",
     "group": "9",
-    "professor": "FLORICEL RAMOS VARGAS",
+    "professor": "ESPERANZA GUERRA ZAMORA",
     "schedules": [
       {
-        "time": "13:00-15:00",
+        "time": "19:00-21:00",
         "days": [
-          3
+          2
         ],
-        "classroom": "Q314"
+        "classroom": "6"
       }
-    ],
-    "professor_id": 89946,
-    "first_name": "FLORICEL",
-    "last_name": "RAMOS VARGAS",
-    "rating": 5.7429,
-    "num_ratings": 35
+    ]
   },
   {
     "code": "6999",
@@ -161,11 +156,11 @@
     "professor": "FLORICEL RAMOS VARGAS",
     "schedules": [
       {
-        "time": "15:00-17:00",
+        "time": "13:00-15:00",
         "days": [
           3
         ],
-        "classroom": "Q316"
+        "classroom": "6"
       }
     ],
     "professor_id": 89946,
@@ -177,21 +172,21 @@
   {
     "code": "6999",
     "group": "11",
-    "professor": "EDGAR SENOBIO MOZO RAMOS",
+    "professor": "FLORICEL RAMOS VARGAS",
     "schedules": [
       {
-        "time": "17:00-19:00",
+        "time": "15:00-17:00",
         "days": [
           3
         ],
-        "classroom": "Q316"
+        "classroom": "6"
       }
     ],
-    "professor_id": 149553,
-    "first_name": "Edgar Senobio",
-    "last_name": "Mozo Ramos",
-    "rating": 2.8571,
-    "num_ratings": 7
+    "professor_id": 89946,
+    "first_name": "FLORICEL",
+    "last_name": "RAMOS VARGAS",
+    "rating": 5.7429,
+    "num_ratings": 35
   },
   {
     "code": "6999",
@@ -203,7 +198,7 @@
         "days": [
           4
         ],
-        "classroom": "Q314"
+        "classroom": "6"
       }
     ]
   },
@@ -217,7 +212,7 @@
         "days": [
           4
         ],
-        "classroom": "Q316"
+        "classroom": "6"
       }
     ],
     "professor_id": 89950,
@@ -236,7 +231,7 @@
         "days": [
           4
         ],
-        "classroom": "Q314"
+        "classroom": "6"
       }
     ],
     "professor_id": 89949,
@@ -248,6 +243,25 @@
   {
     "code": "6999",
     "group": "15",
+    "professor": "EDGAR SENOBIO MOZO RAMOS",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          4
+        ],
+        "classroom": "6"
+      }
+    ],
+    "professor_id": 149553,
+    "first_name": "Edgar Senobio",
+    "last_name": "Mozo Ramos",
+    "rating": 2.8571,
+    "num_ratings": 7
+  },
+  {
+    "code": "6999",
+    "group": "16",
     "professor": "JOSE ALBERTO LOPEZ CERVANTES",
     "schedules": [
       {
@@ -255,7 +269,7 @@
         "days": [
           5
         ],
-        "classroom": "Q316"
+        "classroom": "6"
       }
     ],
     "professor_id": 99903,
@@ -263,20 +277,6 @@
     "last_name": "López Cervantes",
     "rating": 8.6667,
     "num_ratings": 9
-  },
-  {
-    "code": "6999",
-    "group": "16",
-    "professor": "ESPERANZA GUERRA ZAMORA",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          5
-        ],
-        "classroom": "Q314"
-      }
-    ]
   },
   {
     "code": "6999",
@@ -288,7 +288,7 @@
         "days": [
           6
         ],
-        "classroom": "Q314"
+        "classroom": "6"
       }
     ]
   },
@@ -302,7 +302,7 @@
         "days": [
           6
         ],
-        "classroom": "Q316"
+        "classroom": "6"
       }
     ],
     "professor_id": 99903,
@@ -321,7 +321,7 @@
         "days": [
           6
         ],
-        "classroom": "Q316"
+        "classroom": "6"
       }
     ],
     "professor_id": 99903,

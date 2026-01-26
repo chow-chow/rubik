@@ -5,12 +5,12 @@
     "professor": "ANGEL GARCIA HERNANDEZVer Nota 1",
     "schedules": [
       {
-        "time": "17:00-19:00",
+        "time": "19:00-21:00",
         "days": [
-          3,
-          5
+          2,
+          4
         ],
-        "classroom": "EXTR"
+        "classroom": "20"
       }
     ]
   }

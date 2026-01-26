@@ -2,32 +2,23 @@
   {
     "code": "2980",
     "group": "1",
-    "professor": "GENARO CARREON CARRERA",
+    "professor": "GIBRAN JALIL GARNICA CASTROVer Nota 1",
     "schedules": [
       {
-        "time": "07:00-09:00",
+        "time": "17:00-19:00",
         "days": [
           1,
-          2,
-          3,
-          4
+          3
         ],
-        "classroom": "Y201"
+        "classroom": "30"
       }
     ]
   },
   {
     "code": "2980",
     "group": "2",
-    "professor": "LUIS ANTONIO ALTAMIRANO YEPEZ",
+    "professor": "LUIS ANTONIO ALTAMIRANO YEPEZVer Nota 1",
     "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          5
-        ],
-        "classroom": "Y201"
-      },
       {
         "time": "13:00-15:00",
         "days": [
@@ -35,41 +26,8 @@
           3,
           5
         ],
-        "classroom": "Y201"
+        "classroom": "30"
       }
-    ],
-    "professor_id": 142401,
-    "first_name": "Luis Antonio",
-    "last_name": "Altamirano Yepez",
-    "rating": 6.8,
-    "num_ratings": 5
-  },
-  {
-    "code": "2980",
-    "group": "3",
-    "professor": "GIBRAN JALIL GARNICA CASTRO",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "Y201"
-      },
-      {
-        "time": "17:00-19:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "Y201"
-      }
-    ],
-    "professor_id": 174613,
-    "first_name": "Gibran Jalil",
-    "last_name": "Garnica Castro",
-    "rating": 7.7778,
-    "num_ratings": 9
+    ]
   }
 ]

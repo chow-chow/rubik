@@ -2,46 +2,6 @@
   {
     "code": "1322",
     "group": "1",
-    "professor": "MANUEL AYALA MARTINEZ",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "J111"
-      }
-    ],
-    "professor_id": 49791,
-    "first_name": "Manuel",
-    "last_name": "Ayala Martinez",
-    "rating": 4.4737,
-    "num_ratings": 19
-  },
-  {
-    "code": "1322",
-    "group": "2",
-    "professor": "NICOLAS RODRIGUEZ CARREON",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          1,
-          5
-        ],
-        "classroom": "I302"
-      }
-    ],
-    "professor_id": 82797,
-    "first_name": "Nicolás",
-    "last_name": "Rodríguez Carreón",
-    "rating": 9.62,
-    "num_ratings": 50
-  },
-  {
-    "code": "1322",
-    "group": "3",
     "professor": "EPIFANIO OSCAR CARBALLAR LOPEZ",
     "schedules": [
       {
@@ -50,7 +10,7 @@
           2,
           4
         ],
-        "classroom": "I206"
+        "classroom": "48"
       }
     ],
     "professor_id": 70466,
@@ -61,8 +21,8 @@
   },
   {
     "code": "1322",
-    "group": "4",
-    "professor": "HUGO GERMAN SERRANO MIRANDA",
+    "group": "2",
+    "professor": "MANUEL AYALA MARTINEZ",
     "schedules": [
       {
         "time": "09:00-11:00",
@@ -70,18 +30,18 @@
           1,
           3
         ],
-        "classroom": "J209"
+        "classroom": "48"
       }
     ],
-    "professor_id": 84710,
-    "first_name": "Hugo German",
-    "last_name": "Serrano Miranda",
-    "rating": 5.48,
-    "num_ratings": 25
+    "professor_id": 49791,
+    "first_name": "Manuel",
+    "last_name": "Ayala Martinez",
+    "rating": 4.4737,
+    "num_ratings": 19
   },
   {
     "code": "1322",
-    "group": "5",
+    "group": "3",
     "professor": "JOEL GOMEZ",
     "schedules": [
       {
@@ -90,7 +50,7 @@
           2,
           4
         ],
-        "classroom": "Y101"
+        "classroom": "48"
       }
     ],
     "professor_id": 30241,
@@ -101,7 +61,7 @@
   },
   {
     "code": "1322",
-    "group": "6",
+    "group": "5",
     "professor": "OSCAR MORALES LOPEZ",
     "schedules": [
       {
@@ -109,7 +69,7 @@
         "days": [
           6
         ],
-        "classroom": "Y101"
+        "classroom": "48"
       }
     ],
     "professor_id": 115337,
@@ -120,49 +80,8 @@
   },
   {
     "code": "1322",
-    "group": "7",
-    "professor": "Grupo cancelado, contactar a la División.",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "J207"
-      }
-    ]
-  },
-  {
-    "code": "1322",
-    "group": "8",
-    "professor": "EDGAR RAYMUNDO LOPEZ TELLEZ",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          3
-        ],
-        "classroom": "I103"
-      },
-      {
-        "time": "11:00-13:00",
-        "days": [
-          1
-        ],
-        "classroom": "J209"
-      }
-    ],
-    "professor_id": 58547,
-    "first_name": "Edgar Raymundo",
-    "last_name": "López Tellez",
-    "rating": 7.0857,
-    "num_ratings": 70
-  },
-  {
-    "code": "1322",
-    "group": "9",
-    "professor": "JUAN OCARIZ CASTELAZO",
+    "group": "6",
+    "professor": "LORENZO OCTAVIO MIRANDA CORDERO",
     "schedules": [
       {
         "time": "11:00-13:00",
@@ -170,7 +89,27 @@
           1,
           5
         ],
-        "classroom": "J201"
+        "classroom": "48"
+      }
+    ],
+    "professor_id": 63626,
+    "first_name": "Lorenzo Octavio",
+    "last_name": "Miranda  Cordero",
+    "rating": 6.2059,
+    "num_ratings": 34
+  },
+  {
+    "code": "1322",
+    "group": "7",
+    "professor": "JUAN OCARIZ CASTELAZO",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "35"
       }
     ],
     "professor_id": 22035,
@@ -181,8 +120,8 @@
   },
   {
     "code": "1322",
-    "group": "10",
-    "professor": "ALFREDO ARENAS GONZALEZ",
+    "group": "8",
+    "professor": "HUGO GERMAN SERRANO MIRANDA",
     "schedules": [
       {
         "time": "11:00-13:00",
@@ -190,179 +129,53 @@
           2,
           4
         ],
-        "classroom": "J205"
+        "classroom": "48"
       }
     ],
-    "professor_id": 22843,
-    "first_name": "Alfredo",
-    "last_name": "Arenas",
-    "rating": 7.32,
-    "num_ratings": 78
+    "professor_id": 84710,
+    "first_name": "Hugo German",
+    "last_name": "Serrano Miranda",
+    "rating": 5.48,
+    "num_ratings": 25
   },
   {
     "code": "1322",
     "group": "11",
-    "professor": "DIEGO ALBERTO ZAVALA GALICIA",
+    "professor": "ADRIANA ALARCON MUÑOZ",
     "schedules": [
       {
-        "time": "13:00-15:00",
+        "time": "17:00-19:00",
         "days": [
           1,
           3
         ],
-        "classroom": "I206"
+        "classroom": "48"
       }
     ],
-    "professor_id": 66464,
-    "first_name": "Diego Alberto",
-    "last_name": "Zavala Galicia",
-    "rating": 8.1915,
-    "num_ratings": 94
+    "professor_id": 141997,
+    "first_name": "Adriana",
+    "last_name": "Alarcon Muñoz",
+    "rating": 8.7451,
+    "num_ratings": 51
   },
   {
     "code": "1322",
     "group": "12",
-    "professor": "RICARDO ARTURO PINZON AGUIRRE",
+    "professor": "ANTONIO MIRALLES ESCOBAR",
     "schedules": [
       {
-        "time": "15:00-17:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "J111"
-      }
-    ],
-    "professor_id": 105197,
-    "first_name": "RICARDO ARTURO",
-    "last_name": "PINZON AGUIRRE",
-    "rating": 9.027,
-    "num_ratings": 37
-  },
-  {
-    "code": "1322",
-    "group": "13",
-    "professor": "ABAN ALONSO MORENO AGUILAR",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
+        "time": "17:00-19:00",
         "days": [
           2,
           4
         ],
-        "classroom": "Y104"
+        "classroom": "40"
       }
     ],
-    "professor_id": 95313,
-    "first_name": "Aban Alonso",
-    "last_name": "Moreno Aguilar",
-    "rating": 8.0,
-    "num_ratings": 9
-  },
-  {
-    "code": "1322",
-    "group": "14",
-    "professor": "ADRIANA LOPEZ ZAZUETA",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          3,
-          5
-        ],
-        "classroom": "J108"
-      }
-    ],
-    "professor_id": 187334,
-    "first_name": "Adriana",
-    "last_name": "López Zazueta",
-    "rating": 6.4,
-    "num_ratings": 5
-  },
-  {
-    "code": "1322",
-    "group": "15",
-    "professor": "ABAN ALONSO MORENO AGUILAR",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "J209"
-      }
-    ],
-    "professor_id": 95313,
-    "first_name": "Aban Alonso",
-    "last_name": "Moreno Aguilar",
-    "rating": 8.0,
-    "num_ratings": 9
-  },
-  {
-    "code": "1322",
-    "group": "16",
-    "professor": "ALFREDO ANTONIO AGUILAR CASTILLO",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          5
-        ],
-        "classroom": "J102"
-      },
-      {
-        "time": "17:00-19:00",
-        "days": [
-          3
-        ],
-        "classroom": "J101"
-      }
-    ],
-    "professor_id": 93946,
-    "first_name": "Alfredo Antonio",
-    "last_name": "Aguilar Castillo",
-    "rating": 7.7083,
-    "num_ratings": 24
-  },
-  {
-    "code": "1322",
-    "group": "17",
-    "professor": "OSCAR MORALES LOPEZ",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "EXTR"
-      }
-    ],
-    "professor_id": 115337,
-    "first_name": "Oscar",
-    "last_name": "Morales López",
-    "rating": 9.6949,
-    "num_ratings": 59
-  },
-  {
-    "code": "1322",
-    "group": "18",
-    "professor": "RICARDO ARTURO PINZON AGUIRRE",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          3,
-          5
-        ],
-        "classroom": "J105"
-      }
-    ],
-    "professor_id": 105197,
-    "first_name": "RICARDO ARTURO",
-    "last_name": "PINZON AGUIRRE",
-    "rating": 9.027,
-    "num_ratings": 37
+    "professor_id": 61247,
+    "first_name": "ANTONIO",
+    "last_name": "MIRALLES ESCOBAR",
+    "rating": 8.0566,
+    "num_ratings": 106
   }
 ]

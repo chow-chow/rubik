@@ -10,7 +10,7 @@
           2,
           4
         ],
-        "classroom": "B303"
+        "classroom": "40"
       }
     ],
     "professor_id": 114508,
@@ -30,7 +30,7 @@
           2,
           4
         ],
-        "classroom": "O103"
+        "classroom": "35"
       }
     ],
     "professor_id": 154073,
@@ -49,14 +49,7 @@
         "days": [
           5
         ],
-        "classroom": "O103"
-      },
-      {
-        "time": "09:00-11:00",
-        "days": [
-          3
-        ],
-        "classroom": "Y004"
+        "classroom": "40"
       }
     ],
     "professor_id": 132604,

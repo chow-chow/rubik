@@ -1,0 +1,17 @@
+[
+  {
+    "code": "1263",
+    "group": "1",
+    "professor": "EDUARDO RANGEL HERAS",
+    "schedules": [
+      {
+        "time": "17:00-18:30",
+        "days": [
+          2,
+          5
+        ],
+        "classroom": "15"
+      }
+    ]
+  }
+]

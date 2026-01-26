@@ -1,34 +1,15 @@
 [
   {
     "code": "1794",
-    "group": "1",
-    "professor": "ANGELICA ARACELI PONCE NAVA ARAIZA",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          5
-        ],
-        "classroom": "A102"
-      }
-    ],
-    "professor_id": 142495,
-    "first_name": "Angélica Araceli",
-    "last_name": "Ponce Nava Araiza",
-    "rating": 10.0,
-    "num_ratings": 3
-  },
-  {
-    "code": "1794",
     "group": "2",
     "professor": "JUAN MANUEL BUENO SORIA",
     "schedules": [
       {
-        "time": "09:00-11:00",
+        "time": "11:00-13:00",
         "days": [
-          3
+          2
         ],
-        "classroom": "A202"
+        "classroom": "35"
       }
     ],
     "professor_id": 105044,
@@ -47,7 +28,7 @@
         "days": [
           1
         ],
-        "classroom": "A108"
+        "classroom": "35"
       }
     ],
     "professor_id": 114257,
@@ -62,11 +43,11 @@
     "professor": "MARIA DE LOS ANGELES RODRIGUEZ CORTES",
     "schedules": [
       {
-        "time": "15:00-17:00",
+        "time": "17:00-19:00",
         "days": [
           2
         ],
-        "classroom": "A108"
+        "classroom": "35"
       }
     ]
   }

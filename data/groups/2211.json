@@ -2,7 +2,7 @@
   {
     "code": "2211",
     "group": "1",
-    "professor": "ANTONIO GONZALEZ TREVIÑO",
+    "professor": "OMAR DE JESUS PEREZ",
     "schedules": [
       {
         "time": "07:00-09:00",
@@ -10,292 +10,47 @@
           2,
           4
         ],
-        "classroom": "J102"
-      },
-      {
-        "time": "07:00-09:00",
-        "days": [
-          3
-        ],
-        "classroom": "H002"
+        "classroom": "35"
       }
-    ]
+    ],
+    "professor_id": 90851,
+    "first_name": "OMAR ING.",
+    "last_name": "DE JESUS PEREZ",
+    "rating": 7.9778,
+    "num_ratings": 45
   },
   {
     "code": "2211",
     "group": "2",
-    "professor": "OMAR DE JESUS PEREZ",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          4
-        ],
-        "classroom": "I306"
-      },
-      {
-        "time": "07:00-09:00",
-        "days": [
-          3
-        ],
-        "classroom": "I304"
-      },
-      {
-        "time": "07:00-09:00",
-        "days": [
-          2
-        ],
-        "classroom": "H001"
-      }
-    ],
-    "professor_id": 90851,
-    "first_name": "OMAR ING.",
-    "last_name": "DE JESUS PEREZ",
-    "rating": 7.9778,
-    "num_ratings": 45
-  },
-  {
-    "code": "2211",
-    "group": "3",
-    "professor": "MARIA OFELIA RODRIGUEZ DURAN",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          3,
-          5
-        ],
-        "classroom": "I205"
-      },
-      {
-        "time": "09:00-11:00",
-        "days": [
-          1
-        ],
-        "classroom": "H002"
-      }
-    ],
-    "professor_id": 74107,
-    "first_name": "María Ofelia",
-    "last_name": "Rodriguez Durán",
-    "rating": 7.06,
-    "num_ratings": 50
-  },
-  {
-    "code": "2211",
-    "group": "4",
-    "professor": "OMAR DE JESUS PEREZ",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "I205"
-      },
-      {
-        "time": "11:00-13:00",
-        "days": [
-          3
-        ],
-        "classroom": "H002"
-      }
-    ],
-    "professor_id": 90851,
-    "first_name": "OMAR ING.",
-    "last_name": "DE JESUS PEREZ",
-    "rating": 7.9778,
-    "num_ratings": 45
-  },
-  {
-    "code": "2211",
-    "group": "5",
-    "professor": "EDUARDO LOPEZ MOLINA",
+    "professor": "MARÍA DEL PILAR AGUILAR DEL VALLE",
     "schedules": [
       {
         "time": "13:00-15:00",
         "days": [
-          3,
-          5
-        ],
-        "classroom": "I304"
-      },
-      {
-        "time": "13:00-15:00",
-        "days": [
           1
         ],
-        "classroom": "H002"
-      }
-    ],
-    "professor_id": 78455,
-    "first_name": "Eduardo",
-    "last_name": "López Molina",
-    "rating": 8.21,
-    "num_ratings": 68
-  },
-  {
-    "code": "2211",
-    "group": "6",
-    "professor": "GABRIEL RAMOS ROMAN",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          3,
-          5
-        ],
-        "classroom": "I206"
-      },
-      {
-        "time": "15:00-17:00",
-        "days": [
-          1
-        ],
-        "classroom": "H001"
-      }
-    ],
-    "professor_id": 115336,
-    "first_name": "Gabriel",
-    "last_name": "Ramos Román",
-    "rating": 7.8571,
-    "num_ratings": 7
-  },
-  {
-    "code": "2211",
-    "group": "7",
-    "professor": "LUIS ANDRES SUAREZ HERNANDEZ",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "J103"
-      },
-      {
-        "time": "15:00-17:00",
-        "days": [
-          3
-        ],
-        "classroom": "H002"
-      }
-    ],
-    "professor_id": 68185,
-    "first_name": "Luis Andrés",
-    "last_name": "Suárez Hernández",
-    "rating": 7.3182,
-    "num_ratings": 22
-  },
-  {
-    "code": "2211",
-    "group": "8",
-    "professor": "ELIZABETH AGUIRRE MALDONADO",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          1,
-          5
-        ],
-        "classroom": "J210"
-      },
-      {
-        "time": "17:00-19:00",
-        "days": [
-          3
-        ],
-        "classroom": "H002"
-      }
-    ],
-    "professor_id": 60632,
-    "first_name": "Elizabeth",
-    "last_name": "Aguirre Maldonado",
-    "rating": 7.0217,
-    "num_ratings": 46
-  },
-  {
-    "code": "2211",
-    "group": "9",
-    "professor": "ALAIN MORALES MARTINEZ",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          1
-        ],
-        "classroom": "I305"
-      },
-      {
-        "time": "09:00-11:00",
-        "days": [
-          5
-        ],
-        "classroom": "I306"
-      },
-      {
-        "time": "09:00-11:00",
-        "days": [
-          3
-        ],
-        "classroom": "H001"
+        "classroom": "35"
       }
     ]
   },
   {
     "code": "2211",
-    "group": "10",
-    "professor": "GABRIEL RAMOS ROMAN",
+    "group": "3",
+    "professor": "M. DEL CARMEN MALDONADO SUSANO",
     "schedules": [
       {
-        "time": "13:00-15:00",
+        "time": "15:00-17:00",
         "days": [
-          1,
-          5
+          2,
+          4
         ],
-        "classroom": "I103"
-      },
-      {
-        "time": "13:00-15:00",
-        "days": [
-          3
-        ],
-        "classroom": "H001"
+        "classroom": "35"
       }
     ],
-    "professor_id": 115336,
-    "first_name": "Gabriel",
-    "last_name": "Ramos Román",
-    "rating": 7.8571,
-    "num_ratings": 7
-  },
-  {
-    "code": "2211",
-    "group": "11",
-    "professor": "BEATRIZ EUGENIA HERNANDEZ RODRIGUEZ",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          3,
-          5
-        ],
-        "classroom": "I203"
-      },
-      {
-        "time": "17:00-19:00",
-        "days": [
-          1
-        ],
-        "classroom": "H002"
-      }
-    ],
-    "professor_id": 105095,
-    "first_name": "Beatriz Eugenia",
-    "last_name": "Hernandez Rodriguez",
-    "rating": 7.2593,
-    "num_ratings": 27
+    "professor_id": 78275,
+    "first_name": "M del Carmen",
+    "last_name": "Maldonado Susano",
+    "rating": 9.3953,
+    "num_ratings": 43
   }
 ]

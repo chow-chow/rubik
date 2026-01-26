@@ -2,6 +2,21 @@
   {
     "code": "3025",
     "group": "1",
+    "professor": "DANIEL GUERRERO ARELLANO",
+    "schedules": [
+      {
+        "time": "07:00-08:30",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "30"
+      }
+    ]
+  },
+  {
+    "code": "3025",
+    "group": "2",
     "professor": "SERGIO MACUIL ROBLES",
     "schedules": [
       {
@@ -9,7 +24,7 @@
         "days": [
           6
         ],
-        "classroom": "A204"
+        "classroom": "30"
       }
     ]
   }

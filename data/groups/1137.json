@@ -9,37 +9,22 @@
         "days": [
           3
         ],
-        "classroom": "C302"
+        "classroom": "31"
       }
     ]
   },
   {
     "code": "1137",
     "group": "2",
-    "professor": "JOSÉ TEODORO HERNÁNDEZ TREVIÑO",
+    "professor": "NESTOR ALFREDO CANO HERNANDEZ",
     "schedules": [
       {
-        "time": "14:00-16:00",
+        "time": "12:00-14:00",
         "days": [
-          2,
-          4
+          1,
+          3
         ],
-        "classroom": "J001"
-      }
-    ]
-  },
-  {
-    "code": "1137",
-    "group": "3",
-    "professor": "PROFESOR POR ASIGNAR",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "C302"
+        "classroom": "31"
       }
     ]
   }

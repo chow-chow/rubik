@@ -5,12 +5,12 @@
     "professor": "MARINA SERVIN CHAVEZ",
     "schedules": [
       {
-        "time": "07:00-09:00",
+        "time": "11:00-13:00",
         "days": [
           2,
           4
         ],
-        "classroom": "B105"
+        "classroom": "35"
       }
     ],
     "professor_id": 105120,
@@ -30,7 +30,7 @@
           1,
           3
         ],
-        "classroom": "B302"
+        "classroom": "35"
       }
     ],
     "professor_id": 105117,
@@ -50,7 +50,7 @@
           2,
           4
         ],
-        "classroom": "B201"
+        "classroom": "35"
       }
     ],
     "professor_id": 181406,
@@ -70,7 +70,7 @@
           1,
           3
         ],
-        "classroom": "DS11"
+        "classroom": "25"
       }
     ],
     "professor_id": 109142,
@@ -90,7 +90,7 @@
           2,
           4
         ],
-        "classroom": "EXTR"
+        "classroom": "29"
       }
     ],
     "professor_id": 87744,
@@ -105,12 +105,12 @@
     "professor": "ANDREA PAOLA DORADO DIAZ",
     "schedules": [
       {
-        "time": "17:00-19:00",
+        "time": "13:00-15:00",
         "days": [
           2,
           4
         ],
-        "classroom": "O102"
+        "classroom": "25"
       }
     ],
     "professor_id": 105123,

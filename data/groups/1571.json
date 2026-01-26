@@ -7,40 +7,10 @@
       {
         "time": "07:00-09:00",
         "days": [
-          2,
-          4
+          1,
+          3
         ],
-        "classroom": "X101"
-      }
-    ]
-  },
-  {
-    "code": "1571",
-    "group": "2",
-    "professor": "MÉD TANIA ROCIO GARIBAY HUARTE",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          3,
-          5
-        ],
-        "classroom": "DS11"
-      }
-    ]
-  },
-  {
-    "code": "1571",
-    "group": "3",
-    "professor": "EDUARDO MAURILIO PEREZ LOPEZ",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "X101"
+        "classroom": "12"
       }
     ]
   }

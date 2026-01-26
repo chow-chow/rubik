@@ -9,7 +9,7 @@
         "days": [
           2
         ],
-        "classroom": "B302"
+        "classroom": "25"
       }
     ],
     "professor_id": 113002,
@@ -21,21 +21,21 @@
   {
     "code": "1225",
     "group": "2",
-    "professor": "ERIC ADRIAN TEJADA MALPICA",
+    "professor": "VICTOR HUGO JACOBO ARMENDARIZ",
     "schedules": [
       {
         "time": "07:00-09:00",
         "days": [
-          4
+          5
         ],
-        "classroom": "B302"
+        "classroom": "25"
       }
     ],
-    "professor_id": 113002,
-    "first_name": "Eric Adrián",
-    "last_name": "Tejada Malpica",
-    "rating": 7.7895,
-    "num_ratings": 19
+    "professor_id": 109075,
+    "first_name": "Victor Hugo",
+    "last_name": "Jacobo Armendariz",
+    "rating": 3.3,
+    "num_ratings": 10
   },
   {
     "code": "1225",
@@ -47,7 +47,7 @@
         "days": [
           2
         ],
-        "classroom": "D001"
+        "classroom": "25"
       }
     ],
     "professor_id": 84383,
@@ -55,25 +55,6 @@
     "last_name": "Ortiz Valera",
     "rating": 6.7273,
     "num_ratings": 33
-  },
-  {
-    "code": "1225",
-    "group": "4",
-    "professor": "MARTIN REYES FARIAS",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          3
-        ],
-        "classroom": "A109"
-      }
-    ],
-    "professor_id": 51610,
-    "first_name": "Martin Ing.",
-    "last_name": "Reyes Farias",
-    "rating": 5.5588,
-    "num_ratings": 34
   },
   {
     "code": "1225",
@@ -85,7 +66,7 @@
         "days": [
           1
         ],
-        "classroom": "D001"
+        "classroom": "25"
       }
     ],
     "professor_id": 84383,
@@ -104,7 +85,7 @@
         "days": [
           3
         ],
-        "classroom": "D001"
+        "classroom": "25"
       }
     ],
     "professor_id": 84383,
@@ -123,7 +104,7 @@
         "days": [
           2
         ],
-        "classroom": "D002"
+        "classroom": "25"
       }
     ],
     "professor_id": 87021,
@@ -142,7 +123,7 @@
         "days": [
           5
         ],
-        "classroom": "A311"
+        "classroom": "25"
       }
     ],
     "professor_id": 142033,
@@ -154,58 +135,20 @@
   {
     "code": "1225",
     "group": "9",
-    "professor": "ROGELIO DARIO GUTIERREZ CARRILLO",
+    "professor": "MARICARMEN GUILLEN MANDUJANO",
     "schedules": [
       {
         "time": "17:00-19:00",
         "days": [
-          4
+          3
         ],
-        "classroom": "B301"
+        "classroom": "25"
       }
     ],
-    "professor_id": 124462,
-    "first_name": "ROGELIO DARIO",
-    "last_name": "GUTIERREZ",
-    "rating": 5.4444,
-    "num_ratings": 18
-  },
-  {
-    "code": "1225",
-    "group": "10",
-    "professor": "JOSE JAVIER CERVANTES CABELLO",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          2
-        ],
-        "classroom": "B301"
-      }
-    ],
-    "professor_id": 87021,
-    "first_name": "Jose Javier",
-    "last_name": "Cervantes Cabello",
-    "rating": 5.36,
-    "num_ratings": 25
-  },
-  {
-    "code": "1225",
-    "group": "12",
-    "professor": "PABLO EDUARDO LIRA VELAZQUEZ",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          1
-        ],
-        "classroom": "O002"
-      }
-    ],
-    "professor_id": 188267,
-    "first_name": "Pablo Eduardo",
-    "last_name": "Lira Velázquez",
-    "rating": 7.17,
-    "num_ratings": 6
+    "professor_id": 142033,
+    "first_name": "Ing. Maricarmen",
+    "last_name": "Guillen Mandujano",
+    "rating": 8.2667,
+    "num_ratings": 15
   }
 ]

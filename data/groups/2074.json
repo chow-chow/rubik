@@ -10,7 +10,7 @@
           2,
           4
         ],
-        "classroom": "EXTR"
+        "classroom": "10"
       }
     ]
   },
@@ -22,16 +22,9 @@
       {
         "time": "07:00-09:00",
         "days": [
-          3
-        ],
-        "classroom": "N005"
-      },
-      {
-        "time": "07:00-09:00",
-        "days": [
           1
         ],
-        "classroom": "O101"
+        "classroom": "15"
       }
     ],
     "professor_id": 159597,

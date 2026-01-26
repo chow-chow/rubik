@@ -11,7 +11,7 @@
           3,
           5
         ],
-        "classroom": "S003"
+        "classroom": "20"
       }
     ],
     "professor_id": 134950,
@@ -19,5 +19,21 @@
     "last_name": "Valdez",
     "rating": 8.75,
     "num_ratings": 4
+  },
+  {
+    "code": "2823",
+    "group": "2",
+    "professor": "OSCAR DAVID ARROYO GARCIA",
+    "schedules": [
+      {
+        "time": "16:00-17:30",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "20"
+      }
+    ]
   }
 ]

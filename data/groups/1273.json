@@ -5,12 +5,12 @@
     "professor": "JORGE PRADO MORALES",
     "schedules": [
       {
-        "time": "11:00-13:00",
+        "time": "15:00-17:00",
         "days": [
-          1,
-          5
+          2,
+          4
         ],
-        "classroom": "B403"
+        "classroom": "20"
       }
     ],
     "professor_id": 175543,

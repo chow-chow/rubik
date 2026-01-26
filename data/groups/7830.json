@@ -2,6 +2,25 @@
   {
     "code": "7830",
     "group": "1",
+    "professor": "VALENTINA LUISA SOUZA RODRIGUEZ",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          1
+        ],
+        "classroom": "8"
+      }
+    ],
+    "professor_id": 134945,
+    "first_name": "Valentina Luisa",
+    "last_name": "Souza Rodríguez",
+    "rating": 8.625,
+    "num_ratings": 8
+  },
+  {
+    "code": "7830",
+    "group": "2",
     "professor": "MONICA LOPEZ COYOTE",
     "schedules": [
       {
@@ -9,7 +28,7 @@
         "days": [
           1
         ],
-        "classroom": "Q307"
+        "classroom": "8"
       }
     ],
     "professor_id": 82398,
@@ -20,7 +39,7 @@
   },
   {
     "code": "7830",
-    "group": "2",
+    "group": "3",
     "professor": "CHRISTIAN HERNANDEZ SANTIAGO",
     "schedules": [
       {
@@ -28,7 +47,7 @@
         "days": [
           2
         ],
-        "classroom": "Q307"
+        "classroom": "8"
       }
     ],
     "professor_id": 94393,
@@ -39,34 +58,15 @@
   },
   {
     "code": "7830",
-    "group": "3",
-    "professor": "MONICA LOPEZ COYOTE",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          3
-        ],
-        "classroom": "Q307"
-      }
-    ],
-    "professor_id": 82398,
-    "first_name": "Monica",
-    "last_name": "López coyote",
-    "rating": 7.25,
-    "num_ratings": 69
-  },
-  {
-    "code": "7830",
     "group": "4",
     "professor": "CHRISTIAN HERNANDEZ SANTIAGO",
     "schedules": [
       {
-        "time": "11:00-13:00",
+        "time": "09:00-11:00",
         "days": [
-          4
+          3
         ],
-        "classroom": "Q307"
+        "classroom": "8"
       }
     ],
     "professor_id": 94393,
@@ -78,6 +78,63 @@
   {
     "code": "7830",
     "group": "5",
+    "professor": "MONICA LOPEZ COYOTE",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          3
+        ],
+        "classroom": "8"
+      }
+    ],
+    "professor_id": 82398,
+    "first_name": "Monica",
+    "last_name": "López coyote",
+    "rating": 7.25,
+    "num_ratings": 69
+  },
+  {
+    "code": "7830",
+    "group": "6",
+    "professor": "CHRISTIAN HERNANDEZ SANTIAGO",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          4
+        ],
+        "classroom": "8"
+      }
+    ],
+    "professor_id": 94393,
+    "first_name": "CHRISTIAN",
+    "last_name": "HERNANDEZ SANTIAGO",
+    "rating": 9.3125,
+    "num_ratings": 16
+  },
+  {
+    "code": "7830",
+    "group": "7",
+    "professor": "CHRISTIAN HERNANDEZ SANTIAGO",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          4
+        ],
+        "classroom": "8"
+      }
+    ],
+    "professor_id": 94393,
+    "first_name": "CHRISTIAN",
+    "last_name": "HERNANDEZ SANTIAGO",
+    "rating": 9.3125,
+    "num_ratings": 16
+  },
+  {
+    "code": "7830",
+    "group": "8",
     "professor": "VALENTINA LUISA SOUZA RODRIGUEZ",
     "schedules": [
       {
@@ -85,7 +142,7 @@
         "days": [
           5
         ],
-        "classroom": "Q307"
+        "classroom": "8"
       }
     ],
     "professor_id": 134945,
@@ -93,5 +150,81 @@
     "last_name": "Souza Rodríguez",
     "rating": 8.625,
     "num_ratings": 8
+  },
+  {
+    "code": "7830",
+    "group": "9",
+    "professor": "MONICA LOPEZ COYOTE",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          5
+        ],
+        "classroom": "8"
+      }
+    ],
+    "professor_id": 82398,
+    "first_name": "Monica",
+    "last_name": "López coyote",
+    "rating": 7.25,
+    "num_ratings": 69
+  },
+  {
+    "code": "7830",
+    "group": "10",
+    "professor": "MONICA LOPEZ COYOTE",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          5
+        ],
+        "classroom": "8"
+      }
+    ],
+    "professor_id": 82398,
+    "first_name": "Monica",
+    "last_name": "López coyote",
+    "rating": 7.25,
+    "num_ratings": 69
+  },
+  {
+    "code": "7830",
+    "group": "11",
+    "professor": "MONICA LOPEZ COYOTE",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          5
+        ],
+        "classroom": "8"
+      }
+    ],
+    "professor_id": 82398,
+    "first_name": "Monica",
+    "last_name": "López coyote",
+    "rating": 7.25,
+    "num_ratings": 69
+  },
+  {
+    "code": "7830",
+    "group": "12",
+    "professor": "CHRISTIAN HERNANDEZ SANTIAGO",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          5
+        ],
+        "classroom": "8"
+      }
+    ],
+    "professor_id": 94393,
+    "first_name": "CHRISTIAN",
+    "last_name": "HERNANDEZ SANTIAGO",
+    "rating": 9.3125,
+    "num_ratings": 16
   }
 ]

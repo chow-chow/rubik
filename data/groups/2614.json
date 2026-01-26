@@ -2,30 +2,60 @@
   {
     "code": "2614",
     "group": "1",
-    "professor": "JONATHAN HERNANDEZ GARCIA",
+    "professor": "LUIS FERNANDO DONIS RABANALES",
     "schedules": [
       {
-        "time": "07:00-09:00",
+        "time": "13:00-15:00",
         "days": [
-          1,
-          3
+          2,
+          4
         ],
-        "classroom": "Y204"
+        "classroom": "30"
       }
     ]
   },
   {
     "code": "2614",
     "group": "2",
+    "professor": "KAREN YESENIA PEREZ SALAS",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "30"
+      }
+    ]
+  },
+  {
+    "code": "2614",
+    "group": "3",
     "professor": "FABIAN PALACIOS CARBAJAL",
     "schedules": [
       {
-        "time": "19:00-21:00",
+        "time": "17:00-19:00",
         "days": [
           2,
           4
         ],
-        "classroom": "A303"
+        "classroom": "30"
+      }
+    ]
+  },
+  {
+    "code": "2614",
+    "group": "4",
+    "professor": "JONATHAN HERNANDEZ GARCIA",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "30"
       }
     ]
   }

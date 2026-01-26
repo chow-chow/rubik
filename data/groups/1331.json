@@ -2,47 +2,7 @@
   {
     "code": "1331",
     "group": "1",
-    "professor": "PAOLA JUDITH VILLA MANCILLA",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "J100"
-      }
-    ],
-    "professor_id": 90876,
-    "first_name": "Paola Judith",
-    "last_name": "Villa Mancilla",
-    "rating": 7.3077,
-    "num_ratings": 13
-  },
-  {
-    "code": "1331",
-    "group": "2",
-    "professor": "PAOLA JUDITH VILLA MANCILLA",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "J100"
-      }
-    ],
-    "professor_id": 90876,
-    "first_name": "Paola Judith",
-    "last_name": "Villa Mancilla",
-    "rating": 7.3077,
-    "num_ratings": 13
-  },
-  {
-    "code": "1331",
-    "group": "3",
-    "professor": "ESTHER HERNANDEZ SANCHEZ",
+    "professor": "LETICIA SANCHEZ GUILLEN",
     "schedules": [
       {
         "time": "15:00-17:00",
@@ -50,18 +10,18 @@
           1,
           3
         ],
-        "classroom": "C304"
+        "classroom": "31"
       }
     ],
-    "professor_id": 167918,
-    "first_name": "ESTHER",
-    "last_name": "ESTHER HERNANDEZ SANCHEZ",
-    "rating": 8.5,
-    "num_ratings": 4
+    "professor_id": 190100,
+    "first_name": "Leticia",
+    "last_name": "Sánchez Guillén",
+    "rating": 6.5,
+    "num_ratings": 2
   },
   {
     "code": "1331",
-    "group": "4",
+    "group": "2",
     "professor": "MARTIN CARLOS VIDAL GARCIA",
     "schedules": [
       {
@@ -70,7 +30,7 @@
           2,
           4
         ],
-        "classroom": "C204"
+        "classroom": "31"
       }
     ],
     "professor_id": 49792,
@@ -81,22 +41,22 @@
   },
   {
     "code": "1331",
-    "group": "5",
-    "professor": "LETICIA SANCHEZ GUILLEN",
+    "group": "3",
+    "professor": "ESTHER HERNANDEZ SANCHEZ",
     "schedules": [
       {
-        "time": "15:00-17:00",
+        "time": "14:00-16:00",
         "days": [
-          1,
-          3
+          2,
+          4
         ],
-        "classroom": "A205"
+        "classroom": "31"
       }
     ],
-    "professor_id": 190100,
-    "first_name": "Leticia",
-    "last_name": "Sánchez Guillén",
-    "rating": 6.5,
-    "num_ratings": 2
+    "professor_id": 167918,
+    "first_name": "ESTHER",
+    "last_name": "ESTHER HERNANDEZ SANCHEZ",
+    "rating": 8.5,
+    "num_ratings": 4
   }
 ]

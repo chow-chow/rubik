@@ -2,26 +2,6 @@
   {
     "code": "1729",
     "group": "1",
-    "professor": "MIGUEL ILDEFONSO VERA OCAMPO",
-    "schedules": [
-      {
-        "time": "16:00-19:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "C302"
-      }
-    ],
-    "professor_id": 108707,
-    "first_name": "Miguel Ildefonso",
-    "last_name": "Vera Ocampo",
-    "rating": 8.8,
-    "num_ratings": 5
-  },
-  {
-    "code": "1729",
-    "group": "2",
     "professor": "SANDRA ELIZABETH GUERRERO MORENO",
     "schedules": [
       {
@@ -31,7 +11,7 @@
           3,
           5
         ],
-        "classroom": "C302"
+        "classroom": "17"
       }
     ]
   }

@@ -2,15 +2,14 @@
   {
     "code": "3056",
     "group": "1",
-    "professor": "MANUEL SALVADOR TOVAR CARDONA",
+    "professor": "PROFESOR POR ASIGNAR",
     "schedules": [
       {
-        "time": "10:00-11:30",
+        "time": "10:00-13:00",
         "days": [
-          1,
-          3
+          5
         ],
-        "classroom": "S005"
+        "classroom": "20"
       }
     ]
   }

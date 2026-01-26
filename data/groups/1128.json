@@ -2,59 +2,16 @@
   {
     "code": "1128",
     "group": "1",
-    "professor": "FABIAN PALACIOS CARBAJAL",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          1,
-          3,
-          5
-        ],
-        "classroom": "J203"
-      }
-    ]
-  },
-  {
-    "code": "1128",
-    "group": "2",
-    "professor": "ALFREDO ARENAS GONZALEZ",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          5
-        ],
-        "classroom": "J205"
-      },
-      {
-        "time": "07:00-09:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "J204"
-      }
-    ],
-    "professor_id": 22843,
-    "first_name": "Alfredo",
-    "last_name": "Arenas",
-    "rating": 7.32,
-    "num_ratings": 78
-  },
-  {
-    "code": "1128",
-    "group": "3",
     "professor": "CITLALI SOLARES PEÑA",
     "schedules": [
       {
-        "time": "07:00-09:00",
+        "time": "09:00-11:00",
         "days": [
-          2,
+          1,
           3,
-          4
+          5
         ],
-        "classroom": "J205"
+        "classroom": "35"
       }
     ],
     "professor_id": 113976,
@@ -65,170 +22,7 @@
   },
   {
     "code": "1128",
-    "group": "4",
-    "professor": "ANTONIO MIRALLES ESCOBAR",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          1,
-          3,
-          5
-        ],
-        "classroom": "J203"
-      }
-    ],
-    "professor_id": 61247,
-    "first_name": "ANTONIO",
-    "last_name": "MIRALLES ESCOBAR",
-    "rating": 8.0566,
-    "num_ratings": 106
-  },
-  {
-    "code": "1128",
-    "group": "5",
-    "professor": "LORENZO OCTAVIO MIRANDA CORDERO",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          1,
-          3,
-          5
-        ],
-        "classroom": "J204"
-      }
-    ],
-    "professor_id": 63626,
-    "first_name": "Lorenzo Octavio",
-    "last_name": "Miranda  Cordero",
-    "rating": 6.2059,
-    "num_ratings": 34
-  },
-  {
-    "code": "1128",
-    "group": "6",
-    "professor": "FRANCISCO JAVIER PEREZ ESCAMILLA",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          1,
-          3,
-          5
-        ],
-        "classroom": "J203"
-      }
-    ],
-    "professor_id": 102885,
-    "first_name": "Francisco Javier",
-    "last_name": "Pérez Escamilla",
-    "rating": 9.6667,
-    "num_ratings": 21
-  },
-  {
-    "code": "1128",
-    "group": "7",
-    "professor": "CLAUDIA VALERIA VAZQUEZ RODRIGUEZ",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          2,
-          3,
-          4
-        ],
-        "classroom": "J203"
-      }
-    ],
-    "professor_id": 99935,
-    "first_name": "Claudia Valeria",
-    "last_name": "Vazquez Rodriguez",
-    "rating": 9.125,
-    "num_ratings": 16
-  },
-  {
-    "code": "1128",
-    "group": "8",
-    "professor": "MARIO ALBERTO MÁRQUEZ CALDERÓN",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          1,
-          3,
-          5
-        ],
-        "classroom": "J203"
-      }
-    ]
-  },
-  {
-    "code": "1128",
-    "group": "9",
-    "professor": "FRANCISCO JAVIER PEREZ ESCAMILLA",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          1,
-          3,
-          5
-        ],
-        "classroom": "J204"
-      }
-    ],
-    "professor_id": 102885,
-    "first_name": "Francisco Javier",
-    "last_name": "Pérez Escamilla",
-    "rating": 9.6667,
-    "num_ratings": 21
-  },
-  {
-    "code": "1128",
-    "group": "10",
-    "professor": "PEDRO JAIMES LOPEZ",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          1,
-          3,
-          5
-        ],
-        "classroom": "J205"
-      }
-    ],
-    "professor_id": 70319,
-    "first_name": "Pedro",
-    "last_name": "Jaimes López",
-    "rating": 6.7619,
-    "num_ratings": 21
-  },
-  {
-    "code": "1128",
-    "group": "11",
-    "professor": "PEDRO JAIMES LOPEZ",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          1,
-          3,
-          5
-        ],
-        "classroom": "J203"
-      }
-    ],
-    "professor_id": 70319,
-    "first_name": "Pedro",
-    "last_name": "Jaimes López",
-    "rating": 6.7619,
-    "num_ratings": 21
-  },
-  {
-    "code": "1128",
-    "group": "12",
+    "group": "2",
     "professor": "LUIS FERNANDO DONIS RABANALES",
     "schedules": [
       {
@@ -238,29 +32,29 @@
           3,
           5
         ],
-        "classroom": "J205"
+        "classroom": "35"
       }
     ]
   },
   {
     "code": "1128",
-    "group": "13",
-    "professor": "DIANA LAURA FLORES DIAZ",
+    "group": "3",
+    "professor": "CLAUDIA VALERIA VAZQUEZ RODRIGUEZ",
     "schedules": [
       {
         "time": "15:00-17:00",
         "days": [
-          2,
+          1,
           3,
-          4
+          5
         ],
-        "classroom": "J205"
+        "classroom": "35"
       }
     ],
-    "professor_id": 167424,
-    "first_name": "Diana Laura",
-    "last_name": "Flores Díaz",
-    "rating": 8.375,
-    "num_ratings": 8
+    "professor_id": 99935,
+    "first_name": "Claudia Valeria",
+    "last_name": "Vazquez Rodriguez",
+    "rating": 9.125,
+    "num_ratings": 16
   }
 ]

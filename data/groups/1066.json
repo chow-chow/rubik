@@ -2,15 +2,37 @@
   {
     "code": "1066",
     "group": "1",
+    "professor": "JAVIER ARELLANO GIL",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "18"
+      }
+    ],
+    "professor_id": 67713,
+    "first_name": "javier",
+    "last_name": "arellano",
+    "rating": 7.0,
+    "num_ratings": 3
+  },
+  {
+    "code": "1066",
+    "group": "2",
     "professor": "GONZALO DIEGO ORTIZ",
     "schedules": [
       {
-        "time": "14:00-17:00",
+        "time": "16:00-18:00",
         "days": [
-          2,
-          4
+          1,
+          3,
+          5
         ],
-        "classroom": "A205"
+        "classroom": "18"
       }
     ]
   }

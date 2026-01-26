@@ -7,16 +7,9 @@
       {
         "time": "13:00-15:00",
         "days": [
-          3
-        ],
-        "classroom": "B105"
-      },
-      {
-        "time": "13:00-15:00",
-        "days": [
           1
         ],
-        "classroom": "O007"
+        "classroom": "20"
       }
     ],
     "professor_id": 93473,
@@ -33,16 +26,9 @@
       {
         "time": "19:00-21:00",
         "days": [
-          4
-        ],
-        "classroom": "O102"
-      },
-      {
-        "time": "19:00-21:00",
-        "days": [
           2
         ],
-        "classroom": "O007"
+        "classroom": "20"
       }
     ],
     "professor_id": 135354,
@@ -50,51 +36,5 @@
     "last_name": "Pérez Sierra",
     "rating": 9.4,
     "num_ratings": 5
-  },
-  {
-    "code": "1973",
-    "group": "3",
-    "professor": "FRANCISCO JAVIER MARQUEZ CORREO",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          3
-        ],
-        "classroom": "D003"
-      },
-      {
-        "time": "17:00-19:00",
-        "days": [
-          1
-        ],
-        "classroom": "O007"
-      }
-    ],
-    "professor_id": 98574,
-    "first_name": "Javier Francisco",
-    "last_name": "Marquez Correo",
-    "rating": 8.0,
-    "num_ratings": 3
-  },
-  {
-    "code": "1973",
-    "group": "4",
-    "professor": "LUIS YAIR BAUTISTA BLANCO",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "X401"
-      }
-    ],
-    "professor_id": 109271,
-    "first_name": "Luis Yair",
-    "last_name": "Bautista Blanco",
-    "rating": 8.4286,
-    "num_ratings": 7
   }
 ]

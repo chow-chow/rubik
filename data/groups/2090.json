@@ -10,7 +10,22 @@
           2,
           4
         ],
-        "classroom": "C404"
+        "classroom": "8"
+      }
+    ]
+  },
+  {
+    "code": "2090",
+    "group": "2",
+    "professor": "MARIBEL TRUJILLO VALLADOLID",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "8"
       }
     ]
   }

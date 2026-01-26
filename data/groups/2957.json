@@ -1,27 +1,6 @@
 [
   {
     "code": "2957",
-    "group": "1",
-    "professor": "JOSE ANTONIO MACIAS GARCIA",
-    "schedules": [
-      {
-        "time": "13:00-14:30",
-        "days": [
-          2
-        ],
-        "classroom": "T102"
-      },
-      {
-        "time": "13:00-14:30",
-        "days": [
-          4
-        ],
-        "classroom": "Q208"
-      }
-    ]
-  },
-  {
-    "code": "2957",
     "group": "2",
     "professor": "EDUARDO DANIEL GUERRERO RAMIREZ",
     "schedules": [
@@ -30,7 +9,7 @@
         "days": [
           5
         ],
-        "classroom": "B405"
+        "classroom": "15"
       }
     ],
     "professor_id": 149937,
@@ -42,6 +21,25 @@
   {
     "code": "2957",
     "group": "3",
+    "professor": "JORGE ALBERTO RODRIGUEZ CAMPOS",
+    "schedules": [
+      {
+        "time": "11:00-14:00",
+        "days": [
+          5
+        ],
+        "classroom": "15"
+      }
+    ],
+    "professor_id": 108516,
+    "first_name": "Jorge Alberto",
+    "last_name": "Rodríguez Campos",
+    "rating": 8.4643,
+    "num_ratings": 56
+  },
+  {
+    "code": "2957",
+    "group": "4",
     "professor": "HEIDDY ALEJANDRA PASTEN LUGO",
     "schedules": [
       {
@@ -49,7 +47,7 @@
         "days": [
           6
         ],
-        "classroom": "B305"
+        "classroom": "15"
       }
     ],
     "professor_id": 109156,
@@ -60,7 +58,7 @@
   },
   {
     "code": "2957",
-    "group": "4",
+    "group": "5",
     "professor": "VIRGINIA CECILIA DIAZ GARCIA",
     "schedules": [
       {
@@ -68,27 +66,22 @@
         "days": [
           6
         ],
-        "classroom": "B102"
+        "classroom": "15"
       }
     ]
   },
   {
     "code": "2957",
-    "group": "6",
-    "professor": "JORGE ALBERTO RODRIGUEZ CAMPOS",
+    "group": "1",
+    "professor": "JOSE ANTONIO MACIAS GARCIA",
     "schedules": [
       {
-        "time": "11:00-14:00",
+        "time": "13:00-14:30",
         "days": [
-          5
+          2
         ],
-        "classroom": "B205"
+        "classroom": "0"
       }
-    ],
-    "professor_id": 108516,
-    "first_name": "Jorge Alberto",
-    "last_name": "Rodríguez Campos",
-    "rating": 8.4643,
-    "num_ratings": 56
+    ]
   }
 ]

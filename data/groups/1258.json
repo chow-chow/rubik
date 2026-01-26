@@ -1,0 +1,17 @@
+[
+  {
+    "code": "1258",
+    "group": "1",
+    "professor": "JAVIER CORTES BENIGNO",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "20"
+      }
+    ]
+  }
+]

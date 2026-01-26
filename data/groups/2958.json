@@ -5,12 +5,12 @@
     "professor": "NAOMI ITZEL REYES GRANADOS",
     "schedules": [
       {
-        "time": "13:00-15:00",
+        "time": "11:00-13:00",
         "days": [
           1,
           3
         ],
-        "classroom": "Q221"
+        "classroom": "25"
       }
     ],
     "professor_id": 181793,
@@ -30,7 +30,7 @@
           1,
           3
         ],
-        "classroom": "Q218"
+        "classroom": "20"
       }
     ],
     "professor_id": 95352,
@@ -38,6 +38,21 @@
     "last_name": "Pérez De la Cruz",
     "rating": 5.2857,
     "num_ratings": 28
+  },
+  {
+    "code": "2958",
+    "group": "3",
+    "professor": "CALEB AGUILAR CAMARGO",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "20"
+      }
+    ]
   },
   {
     "code": "2958",
@@ -50,7 +65,7 @@
           2,
           4
         ],
-        "classroom": "SIN"
+        "classroom": "28"
       }
     ],
     "professor_id": 99770,

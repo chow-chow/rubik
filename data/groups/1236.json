@@ -5,12 +5,12 @@
     "professor": "ARTURO CRUZ OJEDA",
     "schedules": [
       {
-        "time": "07:00-08:30",
+        "time": "08:30-10:00",
         "days": [
           2,
           4
         ],
-        "classroom": "R237"
+        "classroom": "10"
       }
     ]
   }

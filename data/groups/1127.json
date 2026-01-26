@@ -2,79 +2,25 @@
   {
     "code": "1127",
     "group": "1",
-    "professor": "SERGIO MARTINEZ RAMIREZ",
+    "professor": "JORGE LUIS LOPEZ GARCIA",
     "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          3
-        ],
-        "classroom": "J105"
-      },
-      {
-        "time": "07:00-09:00",
-        "days": [
-          5
-        ],
-        "classroom": "Q008"
-      }
-    ],
-    "professor_id": 189674,
-    "first_name": "SERGIO",
-    "last_name": "MARTÍNEZ RAMÍREZ",
-    "rating": 10.0,
-    "num_ratings": 2
-  },
-  {
-    "code": "1127",
-    "group": "2",
-    "professor": "SALVADOR PEREZ VIRAMONTES",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          5
-        ],
-        "classroom": "I203"
-      },
-      {
-        "time": "09:00-11:00",
-        "days": [
-          1
-        ],
-        "classroom": "Q007"
-      }
-    ],
-    "professor_id": 90758,
-    "first_name": "Salvador",
-    "last_name": "Perez Viramontes",
-    "rating": 5.3684,
-    "num_ratings": 19
-  },
-  {
-    "code": "1127",
-    "group": "3",
-    "professor": "JOSE FIDEL URQUIZA YLLESCAS",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          4
-        ],
-        "classroom": "I305"
-      },
       {
         "time": "09:00-11:00",
         "days": [
           2
         ],
-        "classroom": "Q007"
+        "classroom": "20"
       }
-    ]
+    ],
+    "professor_id": 64679,
+    "first_name": "Jorge Luis",
+    "last_name": "López García",
+    "rating": 8.5,
+    "num_ratings": 70
   },
   {
     "code": "1127",
-    "group": "4",
+    "group": "2",
     "professor": "DULCE MONICA CASTILLO CORONA",
     "schedules": [
       {
@@ -82,14 +28,7 @@
         "days": [
           2
         ],
-        "classroom": "I102"
-      },
-      {
-        "time": "11:00-13:00",
-        "days": [
-          4
-        ],
-        "classroom": "Q008"
+        "classroom": "20"
       }
     ],
     "professor_id": 49563,
@@ -100,7 +39,7 @@
   },
   {
     "code": "1127",
-    "group": "5",
+    "group": "3",
     "professor": "JESSICA ROJAS SERRANO",
     "schedules": [
       {
@@ -108,14 +47,7 @@
         "days": [
           4
         ],
-        "classroom": "I102"
-      },
-      {
-        "time": "11:00-13:00",
-        "days": [
-          2
-        ],
-        "classroom": "Q007"
+        "classroom": "20"
       }
     ],
     "professor_id": 187681,
@@ -126,7 +58,7 @@
   },
   {
     "code": "1127",
-    "group": "6",
+    "group": "4",
     "professor": "MARIA GUADALUPE MORALES NAVA",
     "schedules": [
       {
@@ -134,14 +66,7 @@
         "days": [
           2
         ],
-        "classroom": "I104"
-      },
-      {
-        "time": "13:00-15:00",
-        "days": [
-          4
-        ],
-        "classroom": "Q007"
+        "classroom": "20"
       }
     ],
     "professor_id": 58571,
@@ -152,54 +77,7 @@
   },
   {
     "code": "1127",
-    "group": "7",
-    "professor": "MARIO PABLO LOPEZ GRANCIANO",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          4
-        ],
-        "classroom": "I104"
-      },
-      {
-        "time": "13:00-15:00",
-        "days": [
-          2
-        ],
-        "classroom": "Q008"
-      }
-    ]
-  },
-  {
-    "code": "1127",
-    "group": "9",
-    "professor": "JESSICA ROJAS SERRANO",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          1
-        ],
-        "classroom": "I104"
-      },
-      {
-        "time": "15:00-17:00",
-        "days": [
-          3
-        ],
-        "classroom": "Q007"
-      }
-    ],
-    "professor_id": 187681,
-    "first_name": "ING. JESSICA",
-    "last_name": "ROJAS SERRANO",
-    "rating": 9.5,
-    "num_ratings": 6
-  },
-  {
-    "code": "1127",
-    "group": "10",
+    "group": "5",
     "professor": "ERNESTO MENDEZ HERNANDEZ",
     "schedules": [
       {
@@ -207,41 +85,27 @@
         "days": [
           2
         ],
-        "classroom": "I103"
-      },
-      {
-        "time": "19:00-21:00",
-        "days": [
-          4
-        ],
-        "classroom": "Q008"
+        "classroom": "20"
       }
     ]
   },
   {
     "code": "1127",
-    "group": "31",
-    "professor": "JORGE LUIS LOPEZ GARCIA",
+    "group": "6",
+    "professor": "JESSICA ROJAS SERRANO",
     "schedules": [
       {
-        "time": "09:00-11:00",
+        "time": "15:00-17:00",
         "days": [
-          2
+          1
         ],
-        "classroom": "P003"
-      },
-      {
-        "time": "09:00-11:00",
-        "days": [
-          4
-        ],
-        "classroom": "P003"
+        "classroom": "20"
       }
     ],
-    "professor_id": 64679,
-    "first_name": "Jorge Luis",
-    "last_name": "López García",
-    "rating": 8.5,
-    "num_ratings": 70
+    "professor_id": 187681,
+    "first_name": "ING. JESSICA",
+    "last_name": "ROJAS SERRANO",
+    "rating": 9.5,
+    "num_ratings": 6
   }
 ]

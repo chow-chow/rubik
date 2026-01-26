@@ -10,7 +10,7 @@
           2,
           4
         ],
-        "classroom": "C203"
+        "classroom": "27"
       }
     ],
     "professor_id": 78441,
@@ -22,7 +22,7 @@
   {
     "code": "1067",
     "group": "2",
-    "professor": "NALLELY LOPEZ GARCÍA",
+    "professor": "JOSE LUIS ARCOS HERNANDEZ",
     "schedules": [
       {
         "time": "16:00-18:00",
@@ -30,9 +30,14 @@
           2,
           4
         ],
-        "classroom": "C203"
+        "classroom": "27"
       }
-    ]
+    ],
+    "professor_id": 23452,
+    "first_name": "José Luis",
+    "last_name": "Arcos Hernández",
+    "rating": 7.45,
+    "num_ratings": 40
   },
   {
     "code": "1067",
@@ -40,12 +45,12 @@
     "professor": "FERNANDO ROSIQUE NARANJO",
     "schedules": [
       {
-        "time": "14:00-16:00",
+        "time": "15:00-17:00",
         "days": [
-          1,
-          3
+          2,
+          4
         ],
-        "classroom": "C301"
+        "classroom": "27"
       }
     ],
     "professor_id": 89992,
@@ -65,7 +70,7 @@
           2,
           4
         ],
-        "classroom": "J001"
+        "classroom": "27"
       }
     ],
     "professor_id": 89992,
@@ -77,16 +82,21 @@
   {
     "code": "1067",
     "group": "5",
-    "professor": "CARLOS JAIR CORDOBA ZARATE",
+    "professor": "YOALLI BIANII HERNANDEZ MARMOLEJO",
     "schedules": [
       {
         "time": "14:00-16:00",
         "days": [
-          2,
-          4
+          1,
+          3
         ],
-        "classroom": "C203"
+        "classroom": "27"
       }
-    ]
+    ],
+    "professor_id": 84894,
+    "first_name": "Yoalli Bianii",
+    "last_name": "Hernández Marmolejo",
+    "rating": 5.4167,
+    "num_ratings": 36
   }
 ]

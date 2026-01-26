@@ -1,0 +1,21 @@
+[
+  {
+    "code": "2310",
+    "group": "1",
+    "professor": "LUIS FRANCISCO GARCIA JIMENEZ",
+    "schedules": [
+      {
+        "time": "11:00-14:00",
+        "days": [
+          5
+        ],
+        "classroom": "10"
+      }
+    ],
+    "professor_id": 84771,
+    "first_name": "Luis Francisco",
+    "last_name": "Garcia Jimenez",
+    "rating": 7.0,
+    "num_ratings": 2
+  }
+]

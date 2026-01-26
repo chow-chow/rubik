@@ -10,7 +10,22 @@
           1,
           3
         ],
-        "classroom": "C106"
+        "classroom": "10"
+      }
+    ]
+  },
+  {
+    "code": "1465",
+    "group": "2",
+    "professor": "MANUEL BECERRIL HERNANDEZ",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "10"
       }
     ]
   }

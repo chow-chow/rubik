@@ -2,6 +2,25 @@
   {
     "code": "6998",
     "group": "1",
+    "professor": "ALEJANDRO BAEZ MUÑOZ",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          5
+        ],
+        "classroom": "9"
+      }
+    ],
+    "professor_id": 118946,
+    "first_name": "Alejandro",
+    "last_name": "Baez Muñoz",
+    "rating": 6.8571,
+    "num_ratings": 7
+  },
+  {
+    "code": "6998",
+    "group": "2",
     "professor": "ALBERTO CORTEZ MONDRAGON",
     "schedules": [
       {
@@ -9,7 +28,7 @@
         "days": [
           1
         ],
-        "classroom": "DS06"
+        "classroom": "9"
       }
     ],
     "professor_id": 109197,
@@ -17,20 +36,6 @@
     "last_name": "Cortez",
     "rating": 8.5,
     "num_ratings": 4
-  },
-  {
-    "code": "6998",
-    "group": "2",
-    "professor": "NESTOR MANUEL RIVERA HERNANDEZ",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          1
-        ],
-        "classroom": "DS06"
-      }
-    ]
   },
   {
     "code": "6998",
@@ -42,9 +47,28 @@
         "days": [
           2
         ],
-        "classroom": "DS06"
+        "classroom": "9"
       }
     ]
+  },
+  {
+    "code": "6998",
+    "group": "4",
+    "professor": "GERARDO LOREDO LOPEZ",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2
+        ],
+        "classroom": "9"
+      }
+    ],
+    "professor_id": 172325,
+    "first_name": "Gerardo",
+    "last_name": "Loredo López",
+    "rating": 8.0,
+    "num_ratings": 5
   },
   {
     "code": "6998",
@@ -56,7 +80,7 @@
         "days": [
           3
         ],
-        "classroom": "DS06"
+        "classroom": "8"
       }
     ],
     "professor_id": 95192,
@@ -67,7 +91,7 @@
   },
   {
     "code": "6998",
-    "group": "6",
+    "group": "7",
     "professor": "IVAN URZUA ROSAS",
     "schedules": [
       {
@@ -75,7 +99,7 @@
         "days": [
           3
         ],
-        "classroom": "DS06"
+        "classroom": "9"
       }
     ],
     "professor_id": 99549,
@@ -86,7 +110,7 @@
   },
   {
     "code": "6998",
-    "group": "7",
+    "group": "8",
     "professor": "JOSE ARMANDO PLUMA ROSALES",
     "schedules": [
       {
@@ -94,26 +118,7 @@
         "days": [
           4
         ],
-        "classroom": "DS06"
-      }
-    ],
-    "professor_id": 99548,
-    "first_name": "Jose Armando",
-    "last_name": "Pluma Rosales",
-    "rating": 6.3333,
-    "num_ratings": 6
-  },
-  {
-    "code": "6998",
-    "group": "8",
-    "professor": "JOSE ARMANDO PLUMA ROSALES",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          4
-        ],
-        "classroom": "DS06"
+        "classroom": "9"
       }
     ],
     "professor_id": 99548,
@@ -128,11 +133,11 @@
     "professor": "JOSE ARMANDO PLUMA ROSALES",
     "schedules": [
       {
-        "time": "15:00-17:00",
+        "time": "11:00-13:00",
         "days": [
           4
         ],
-        "classroom": "DS06"
+        "classroom": "9"
       }
     ],
     "professor_id": 99548,
@@ -144,21 +149,21 @@
   {
     "code": "6998",
     "group": "10",
-    "professor": "IVAN URZUA ROSAS",
+    "professor": "JOSE ARMANDO PLUMA ROSALES",
     "schedules": [
       {
-        "time": "09:00-11:00",
+        "time": "15:00-17:00",
         "days": [
-          5
+          4
         ],
-        "classroom": "DS06"
+        "classroom": "9"
       }
     ],
-    "professor_id": 99549,
-    "first_name": "Ivan",
-    "last_name": "Urzua Rosas",
-    "rating": 9.3,
-    "num_ratings": 10
+    "professor_id": 99548,
+    "first_name": "Jose Armando",
+    "last_name": "Pluma Rosales",
+    "rating": 6.3333,
+    "num_ratings": 6
   },
   {
     "code": "6998",
@@ -166,11 +171,11 @@
     "professor": "IVAN URZUA ROSAS",
     "schedules": [
       {
-        "time": "11:00-13:00",
+        "time": "09:00-11:00",
         "days": [
           5
         ],
-        "classroom": "DS06"
+        "classroom": "9"
       }
     ],
     "professor_id": 99549,
@@ -182,39 +187,34 @@
   {
     "code": "6998",
     "group": "12",
-    "professor": "ALEJANDRO BAEZ MUÑOZ",
+    "professor": "JOHAN RACIEL GRANADOS VILLEDA",
     "schedules": [
       {
-        "time": "11:00-13:00",
+        "time": "07:00-09:00",
         "days": [
-          1
+          2
         ],
-        "classroom": "DS06"
+        "classroom": "8"
       }
-    ],
-    "professor_id": 118946,
-    "first_name": "Alejandro",
-    "last_name": "Baez Muñoz",
-    "rating": 6.8571,
-    "num_ratings": 7
+    ]
   },
   {
     "code": "6998",
     "group": "13",
-    "professor": "ALEJANDRO BAEZ MUÑOZ",
+    "professor": "GERARDO LOREDO LOPEZ",
     "schedules": [
       {
-        "time": "13:00-15:00",
+        "time": "19:00-21:00",
         "days": [
-          3
+          2
         ],
-        "classroom": "DS06"
+        "classroom": "9"
       }
     ],
-    "professor_id": 118946,
-    "first_name": "Alejandro",
-    "last_name": "Baez Muñoz",
-    "rating": 6.8571,
-    "num_ratings": 7
+    "professor_id": 172325,
+    "first_name": "Gerardo",
+    "last_name": "Loredo López",
+    "rating": 8.0,
+    "num_ratings": 5
   }
 ]

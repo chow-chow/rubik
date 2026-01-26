@@ -8,26 +8,23 @@
         "time": "07:00-08:30",
         "days": [
           1,
-          3,
-          5
+          3
         ],
-        "classroom": "SIN"
+        "classroom": "25"
       }
     ]
   },
   {
     "code": "2502",
     "group": "2",
-    "professor": "DANIEL SALMERON VERGARA",
+    "professor": "JUAN JOSE DÍAZ NIGENDA",
     "schedules": [
       {
-        "time": "14:30-16:00",
+        "time": "07:00-08:00",
         "days": [
-          1,
-          3,
           5
         ],
-        "classroom": "A211"
+        "classroom": "25"
       }
     ]
   }

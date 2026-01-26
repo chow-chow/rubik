@@ -1,0 +1,35 @@
+[
+  {
+    "code": "1224",
+    "group": "1",
+    "professor": "BRAYAN HOMERO RAMIREZ CONTRERAS",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2
+        ],
+        "classroom": "15"
+      }
+    ]
+  },
+  {
+    "code": "1224",
+    "group": "2",
+    "professor": "MARICARMEN GUILLEN MANDUJANO",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          4
+        ],
+        "classroom": "15"
+      }
+    ],
+    "professor_id": 142033,
+    "first_name": "Ing. Maricarmen",
+    "last_name": "Guillen Mandujano",
+    "rating": 8.2667,
+    "num_ratings": 15
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "code": "2315",
+    "group": "1",
+    "professor": "DANIEL ENRIQUE CEBALLOS HERRERA",
+    "schedules": [
+      {
+        "time": "09:00-10:30",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "5"
+      }
+    ]
+  }
+]

@@ -2,36 +2,37 @@
   {
     "code": "1690",
     "group": "1",
-    "professor": "KEVIN GEMALI PEDROZA ALDANA",
+    "professor": "ALDO RAMOS ROSIQUE",
     "schedules": [
       {
-        "time": "16:00-19:00",
+        "time": "10:00-12:00",
         "days": [
           1,
-          3
+          3,
+          5
         ],
-        "classroom": "C302"
+        "classroom": "13"
       }
     ],
-    "professor_id": 165108,
-    "first_name": "Kevin Gemali",
-    "last_name": "Pedroza Aldana",
-    "rating": 6.0,
-    "num_ratings": 9
+    "professor_id": 73851,
+    "first_name": "Aldo",
+    "last_name": "Ramos Rosique",
+    "rating": 7.0,
+    "num_ratings": 21
   },
   {
     "code": "1690",
     "group": "2",
-    "professor": "SAMANTHA YAHEL GARCÍA HERNÁNDEZ",
+    "professor": "LIZBETH BRITO MEJIA",
     "schedules": [
       {
         "time": "14:00-16:00",
         "days": [
-          2,
-          4,
+          1,
+          3,
           5
         ],
-        "classroom": "C302"
+        "classroom": "13"
       }
     ]
   }

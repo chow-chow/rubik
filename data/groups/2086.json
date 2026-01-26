@@ -1,0 +1,17 @@
+[
+  {
+    "code": "2086",
+    "group": "1",
+    "professor": "LUIS ANTONIO RIVAS CORTEÑO",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "8"
+      }
+    ]
+  }
+]

@@ -10,7 +10,7 @@
           1,
           3
         ],
-        "classroom": "A304"
+        "classroom": "25"
       }
     ],
     "professor_id": 175457,
@@ -22,22 +22,7 @@
   {
     "code": "2913",
     "group": "2",
-    "professor": "FRANCISCO JAVIER GRANADOS VILLAFUERTE",
-    "schedules": [
-      {
-        "time": "08:30-10:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "A404"
-      }
-    ]
-  },
-  {
-    "code": "2913",
-    "group": "3",
-    "professor": "OSCAR ENRIQUE MARTINEZ JURADO",
+    "professor": "PROFESOR POR ASIGNAR",
     "schedules": [
       {
         "time": "11:30-13:00",
@@ -45,7 +30,22 @@
           2,
           4
         ],
-        "classroom": "R206"
+        "classroom": "25"
+      }
+    ]
+  },
+  {
+    "code": "2913",
+    "group": "3",
+    "professor": "PROFESOR POR ASIGNAR",
+    "schedules": [
+      {
+        "time": "14:30-16:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "25"
       }
     ]
   },
@@ -60,7 +60,7 @@
           2,
           4
         ],
-        "classroom": "A307"
+        "classroom": "25"
       }
     ],
     "professor_id": 146711,
@@ -79,7 +79,7 @@
         "days": [
           6
         ],
-        "classroom": "A203"
+        "classroom": "25"
       }
     ],
     "professor_id": 104937,

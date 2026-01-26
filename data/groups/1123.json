@@ -2,7 +2,22 @@
   {
     "code": "1123",
     "group": "1",
-    "professor": "ARIANEE SAINZ VIDAL",
+    "professor": "ANDRES NORIEGA USI",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "48"
+      }
+    ]
+  },
+  {
+    "code": "1123",
+    "group": "2",
+    "professor": "NATASHA CARIME VILLASEÑOR HERNANDEZ",
     "schedules": [
       {
         "time": "07:00-09:00",
@@ -10,44 +25,34 @@
           2,
           4
         ],
-        "classroom": "I104"
+        "classroom": "48"
       }
-    ]
-  },
-  {
-    "code": "1123",
-    "group": "2",
-    "professor": "LUCY CATERINE DAZA GOMEZ",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          1,
-          5
-        ],
-        "classroom": "I303"
-      }
-    ]
+    ],
+    "professor_id": 75634,
+    "first_name": "Natasha",
+    "last_name": "Villaseñor",
+    "rating": 3.6429,
+    "num_ratings": 14
   },
   {
     "code": "1123",
     "group": "3",
-    "professor": "GUILLERMO PEREZ QUINTERO",
+    "professor": "ANA LAURA PEREZ MARTINEZ",
     "schedules": [
       {
         "time": "09:00-11:00",
         "days": [
-          1,
-          5
+          2,
+          4
         ],
-        "classroom": "I105"
+        "classroom": "48"
       }
     ],
-    "professor_id": 98612,
-    "first_name": "Guillermo",
-    "last_name": "Pérez Quintero",
-    "rating": 8.6563,
-    "num_ratings": 32
+    "professor_id": 51350,
+    "first_name": "Ana Laura",
+    "last_name": "Pérez Martínez",
+    "rating": 7.3143,
+    "num_ratings": 35
   },
   {
     "code": "1123",
@@ -60,7 +65,7 @@
           2,
           4
         ],
-        "classroom": "I303"
+        "classroom": "48"
       }
     ],
     "professor_id": 62000,
@@ -72,171 +77,50 @@
   {
     "code": "1123",
     "group": "5",
-    "professor": "ITZEL EDALIZ PEREZ CABALLERO",
+    "professor": "ARIANEE SAINZ VIDAL",
     "schedules": [
       {
         "time": "09:00-11:00",
         "days": [
-          2,
-          4
+          3,
+          5
         ],
-        "classroom": "I302"
+        "classroom": "48"
       }
     ]
   },
   {
     "code": "1123",
     "group": "6",
-    "professor": "LUIS PEÑA CRUZ",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          3,
-          5
-        ],
-        "classroom": "I304"
-      }
-    ],
-    "professor_id": 128316,
-    "first_name": "Luis",
-    "last_name": "Peña Cruz",
-    "rating": 6.2727,
-    "num_ratings": 11
-  },
-  {
-    "code": "1123",
-    "group": "7",
-    "professor": "GUILLERMO PEREZ QUINTERO",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          1,
-          5
-        ],
-        "classroom": "J108"
-      }
-    ],
-    "professor_id": 98612,
-    "first_name": "Guillermo",
-    "last_name": "Pérez Quintero",
-    "rating": 8.6563,
-    "num_ratings": 32
-  },
-  {
-    "code": "1123",
-    "group": "8",
-    "professor": "ANA LAURA PEREZ MARTINEZ",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "J102"
-      }
-    ],
-    "professor_id": 51350,
-    "first_name": "Ana Laura",
-    "last_name": "Pérez Martínez",
-    "rating": 7.3143,
-    "num_ratings": 35
-  },
-  {
-    "code": "1123",
-    "group": "9",
-    "professor": "CYNTHIA SOFIA RODRIGUEZ MANDUJANO",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "I202"
-      }
-    ],
-    "professor_id": 71932,
-    "first_name": "Cynthia Sofia",
-    "last_name": "Rodriguez Mandujano",
-    "rating": 9.1935,
-    "num_ratings": 31
-  },
-  {
-    "code": "1123",
-    "group": "10",
     "professor": "BRENDA NATALY SÁNCHEZ EGUÍA",
     "schedules": [
       {
         "time": "11:00-13:00",
         "days": [
-          2,
-          4
+          1
         ],
-        "classroom": "J105"
+        "classroom": "48"
       }
     ]
   },
   {
     "code": "1123",
-    "group": "11",
-    "professor": "ESTHER FLORES CRUZ",
+    "group": "7",
+    "professor": "EDGAR HÉCTOR GUZMÁN CASTELLÓN",
     "schedules": [
       {
-        "time": "11:00-13:00",
+        "time": "13:00-15:00",
         "days": [
           2,
           4
         ],
-        "classroom": "J107"
-      }
-    ],
-    "professor_id": 35006,
-    "first_name": "Esther",
-    "last_name": "Flores Cruz",
-    "rating": 6.9348,
-    "num_ratings": 46
-  },
-  {
-    "code": "1123",
-    "group": "12",
-    "professor": "ARIANEE SAINZ VIDAL",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          3,
-          5
-        ],
-        "classroom": "J102"
+        "classroom": "48"
       }
     ]
   },
   {
     "code": "1123",
-    "group": "13",
-    "professor": "CYNTHIA SOFIA RODRIGUEZ MANDUJANO",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          3,
-          5
-        ],
-        "classroom": "I206"
-      }
-    ],
-    "professor_id": 71932,
-    "first_name": "Cynthia Sofia",
-    "last_name": "Rodriguez Mandujano",
-    "rating": 9.1935,
-    "num_ratings": 31
-  },
-  {
-    "code": "1123",
-    "group": "14",
+    "group": "8",
     "professor": "THALIA ITZEL FERRERA VELAZQUEZ",
     "schedules": [
       {
@@ -245,7 +129,7 @@
           2,
           4
         ],
-        "classroom": "I102"
+        "classroom": "48"
       }
     ],
     "professor_id": 84707,
@@ -256,83 +140,7 @@
   },
   {
     "code": "1123",
-    "group": "15",
-    "professor": "EDGAR HÉCTOR GUZMÁN CASTELLÓN",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          1,
-          5
-        ],
-        "classroom": "I105"
-      }
-    ]
-  },
-  {
-    "code": "1123",
-    "group": "16",
-    "professor": "MIGUEL ANGEL JAIME VASCONCELOS",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          1,
-          5
-        ],
-        "classroom": "I106"
-      }
-    ],
-    "professor_id": 42088,
-    "first_name": "MIGUEL ANGEL",
-    "last_name": "JAIME VASCONCELOS",
-    "rating": 8.5556,
-    "num_ratings": 63
-  },
-  {
-    "code": "1123",
-    "group": "17",
-    "professor": "BRENDA NATALY SÁNCHEZ EGUÍA",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          1,
-          5
-        ],
-        "classroom": "I304"
-      }
-    ]
-  },
-  {
-    "code": "1123",
-    "group": "18",
-    "professor": "RAMIRO MARAVILLA GALVAN",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          1
-        ],
-        "classroom": "I206"
-      },
-      {
-        "time": "15:00-17:00",
-        "days": [
-          5
-        ],
-        "classroom": "I205"
-      }
-    ],
-    "professor_id": 62749,
-    "first_name": "ramiro",
-    "last_name": "maravilla",
-    "rating": 3.4737,
-    "num_ratings": 19
-  },
-  {
-    "code": "1123",
-    "group": "19",
+    "group": "9",
     "professor": "ADRIANA RAMIREZ GONZALEZ",
     "schedules": [
       {
@@ -341,7 +149,7 @@
           2,
           4
         ],
-        "classroom": "I106"
+        "classroom": "48"
       }
     ],
     "professor_id": 56526,
@@ -352,61 +160,16 @@
   },
   {
     "code": "1123",
-    "group": "20",
-    "professor": "BRENDA NATALY SÁNCHEZ EGUÍA",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "J101"
-      }
-    ]
-  },
-  {
-    "code": "1123",
-    "group": "21",
-    "professor": "EDGAR HÉCTOR GUZMÁN CASTELLÓN",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "I301"
-      }
-    ]
-  },
-  {
-    "code": "1123",
-    "group": "22",
-    "professor": "ANDRES NORIEGA USI",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "I202"
-      }
-    ]
-  },
-  {
-    "code": "1123",
-    "group": "23",
+    "group": "10",
     "professor": "RAMIRO MARAVILLA GALVAN",
     "schedules": [
       {
-        "time": "17:00-19:00",
+        "time": "15:00-17:00",
         "days": [
-          1,
+          3,
           5
         ],
-        "classroom": "J105"
+        "classroom": "48"
       }
     ],
     "professor_id": 62749,
@@ -417,42 +180,16 @@
   },
   {
     "code": "1123",
-    "group": "24",
-    "professor": "SUSANA ABURTO MEJIA",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          1,
-          5
-        ],
-        "classroom": "I302"
-      }
-    ],
-    "professor_id": 181455,
-    "first_name": "Susana",
-    "last_name": "Aburto Mejía",
-    "rating": 10.0,
-    "num_ratings": 5
-  },
-  {
-    "code": "1123",
-    "group": "25",
+    "group": "11",
     "professor": "JOSE ALEJANDRO SANCHEZ PEREZ",
     "schedules": [
       {
         "time": "17:00-19:00",
         "days": [
-          1
+          3,
+          5
         ],
-        "classroom": "J211"
-      },
-      {
-        "time": "17:00-19:00",
-        "days": [
-          3
-        ],
-        "classroom": "J210"
+        "classroom": "48"
       }
     ],
     "professor_id": 133194,
@@ -463,102 +200,7 @@
   },
   {
     "code": "1123",
-    "group": "26",
-    "professor": "PHAEDRA SURIEL SILVA BERMUDEZ",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          3,
-          5
-        ],
-        "classroom": "I305"
-      }
-    ],
-    "professor_id": 75804,
-    "first_name": "Phaedra Suriel",
-    "last_name": "Silva Bermudez",
-    "rating": 8.23,
-    "num_ratings": 30
-  },
-  {
-    "code": "1123",
-    "group": "27",
-    "professor": "JOSE ALEJANDRO SANCHEZ PEREZ",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "J101"
-      }
-    ],
-    "professor_id": 133194,
-    "first_name": "Jose Alejandro",
-    "last_name": "Sánchez Pérez",
-    "rating": 7.2,
-    "num_ratings": 5
-  },
-  {
-    "code": "1123",
-    "group": "28",
-    "professor": "SUSANA ABURTO MEJIA",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "J103"
-      }
-    ],
-    "professor_id": 181455,
-    "first_name": "Susana",
-    "last_name": "Aburto Mejía",
-    "rating": 10.0,
-    "num_ratings": 5
-  },
-  {
-    "code": "1123",
-    "group": "29",
-    "professor": "NATASHA CARIME VILLASEÑOR HERNANDEZ",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "J109"
-      }
-    ],
-    "professor_id": 75634,
-    "first_name": "Natasha",
-    "last_name": "Villaseñor",
-    "rating": 3.6429,
-    "num_ratings": 14
-  },
-  {
-    "code": "1123",
-    "group": "30",
-    "professor": "GIOVANNI ALDANA GUTIERREZ",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          3,
-          5
-        ],
-        "classroom": "Y104"
-      }
-    ]
-  },
-  {
-    "code": "1123",
-    "group": "31",
+    "group": "12",
     "professor": "ROSA ESTRADA REYES",
     "schedules": [
       {
@@ -567,7 +209,7 @@
           1,
           3
         ],
-        "classroom": "I304"
+        "classroom": "48"
       }
     ],
     "professor_id": 58910,
