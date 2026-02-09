@@ -9,7 +9,7 @@
         "days": [
           1
         ],
-        "classroom": "12"
+        "classroom": "P217"
       }
     ],
     "professor_id": 104949,
@@ -17,34 +17,6 @@
     "last_name": "Gonzalez Prado",
     "rating": 10.0,
     "num_ratings": 6
-  },
-  {
-    "code": "5558",
-    "group": "2",
-    "professor": "EDUARDO HERNANDEZ ROMERO",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          2
-        ],
-        "classroom": "12"
-      }
-    ]
-  },
-  {
-    "code": "5558",
-    "group": "3",
-    "professor": "EDUARDO HERNANDEZ ROMERO",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          2
-        ],
-        "classroom": "12"
-      }
-    ]
   },
   {
     "code": "5558",
@@ -56,7 +28,7 @@
         "days": [
           3
         ],
-        "classroom": "12"
+        "classroom": "P217"
       }
     ]
   },
@@ -70,7 +42,7 @@
         "days": [
           3
         ],
-        "classroom": "12"
+        "classroom": "P217"
       }
     ],
     "professor_id": 104949,
@@ -89,45 +61,7 @@
         "days": [
           4
         ],
-        "classroom": "12"
-      }
-    ],
-    "professor_id": 95329,
-    "first_name": "Juan Manuel",
-    "last_name": "Barbosa Castillo",
-    "rating": 8.0,
-    "num_ratings": 5
-  },
-  {
-    "code": "5558",
-    "group": "7",
-    "professor": "JOSE ALBERTO ARELLANO FIGUEROA",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          4
-        ],
-        "classroom": "12"
-      }
-    ],
-    "professor_id": 87572,
-    "first_name": "José Alberto",
-    "last_name": "Arellano Figueroa",
-    "rating": 7.7778,
-    "num_ratings": 18
-  },
-  {
-    "code": "5558",
-    "group": "8",
-    "professor": "JUAN MANUEL BARBOSA CASTILLO",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          5
-        ],
-        "classroom": "12"
+        "classroom": "P217"
       }
     ],
     "professor_id": 95329,
@@ -146,7 +80,7 @@
         "days": [
           5
         ],
-        "classroom": "12"
+        "classroom": "P217"
       }
     ],
     "professor_id": 60921,
@@ -154,6 +88,58 @@
     "last_name": "VILLANUEVA PEÑA",
     "rating": 5.1333,
     "num_ratings": 30
+  },
+  {
+    "code": "5558",
+    "group": "3",
+    "professor": "EDUARDO HERNANDEZ ROMERO",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          2
+        ],
+        "classroom": "P217"
+      }
+    ]
+  },
+  {
+    "code": "5558",
+    "group": "7",
+    "professor": "JOSE ALBERTO ARELLANO FIGUEROA",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          4
+        ],
+        "classroom": "P217"
+      }
+    ],
+    "professor_id": 87572,
+    "first_name": "José Alberto",
+    "last_name": "Arellano Figueroa",
+    "rating": 7.7778,
+    "num_ratings": 18
+  },
+  {
+    "code": "5558",
+    "group": "8",
+    "professor": "JUAN MANUEL BARBOSA CASTILLO",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          5
+        ],
+        "classroom": "P217"
+      }
+    ],
+    "professor_id": 95329,
+    "first_name": "Juan Manuel",
+    "last_name": "Barbosa Castillo",
+    "rating": 8.0,
+    "num_ratings": 5
   },
   {
     "code": "5558",
@@ -165,7 +151,7 @@
         "days": [
           5
         ],
-        "classroom": "12"
+        "classroom": "P217"
       }
     ],
     "professor_id": 104949,

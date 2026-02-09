@@ -1,25 +1,6 @@
 [
   {
     "code": "7911",
-    "group": "1",
-    "professor": "IVAN DE JESUS OSIO CHAVEZ",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          1
-        ],
-        "classroom": "12"
-      }
-    ],
-    "professor_id": 115270,
-    "first_name": "Ivan de Jesus",
-    "last_name": "Osio Chavez",
-    "rating": 6.75,
-    "num_ratings": 16
-  },
-  {
-    "code": "7911",
     "group": "2",
     "professor": "EDUARDO PEREZ CAMACHO",
     "schedules": [
@@ -28,9 +9,28 @@
         "days": [
           2
         ],
-        "classroom": "12"
+        "classroom": "P113"
       }
     ]
+  },
+  {
+    "code": "7911",
+    "group": "1",
+    "professor": "IVAN DE JESUS OSIO CHAVEZ",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          1
+        ],
+        "classroom": "P113"
+      }
+    ],
+    "professor_id": 115270,
+    "first_name": "Ivan de Jesus",
+    "last_name": "Osio Chavez",
+    "rating": 6.75,
+    "num_ratings": 16
   },
   {
     "code": "7911",
@@ -42,7 +42,7 @@
         "days": [
           5
         ],
-        "classroom": "12"
+        "classroom": "P113"
       }
     ]
   }

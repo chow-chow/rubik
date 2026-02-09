@@ -1,21 +1,6 @@
 [
   {
     "code": "2800",
-    "group": "1",
-    "professor": "MARIO ALBERTO ARELLANO CECILIANO",
-    "schedules": [
-      {
-        "time": "10:00-11:30",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "27"
-      }
-    ]
-  },
-  {
-    "code": "2800",
     "group": "2",
     "professor": "CRISTIAN EMMANUEL GONZALEZ REYES",
     "schedules": [
@@ -25,7 +10,7 @@
           1,
           3
         ],
-        "classroom": "27"
+        "classroom": "A304"
       }
     ],
     "professor_id": 185901,
@@ -45,7 +30,7 @@
           2,
           4
         ],
-        "classroom": "27"
+        "classroom": "SIN"
       }
     ],
     "professor_id": 146710,
@@ -53,6 +38,35 @@
     "last_name": "QUEZADA BELTRAN",
     "rating": 5.0,
     "num_ratings": 2
+  },
+  {
+    "code": "2800",
+    "group": "6",
+    "professor": "MARIO ALBERTO ARELLANO CECILIANO",
+    "schedules": [
+      {
+        "time": "07:00-10:00",
+        "days": [
+          5
+        ],
+        "classroom": "A207"
+      }
+    ]
+  },
+  {
+    "code": "2800",
+    "group": "1",
+    "professor": "MARIO ALBERTO ARELLANO CECILIANO",
+    "schedules": [
+      {
+        "time": "10:00-11:30",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "A309"
+      }
+    ]
   },
   {
     "code": "2800",
@@ -65,7 +79,7 @@
           2,
           4
         ],
-        "classroom": "27"
+        "classroom": "A303"
       }
     ]
   },
@@ -80,21 +94,7 @@
           2,
           4
         ],
-        "classroom": "27"
-      }
-    ]
-  },
-  {
-    "code": "2800",
-    "group": "6",
-    "professor": "MARIO ALBERTO ARELLANO CECILIANO",
-    "schedules": [
-      {
-        "time": "07:00-10:00",
-        "days": [
-          5
-        ],
-        "classroom": "27"
+        "classroom": "A303"
       }
     ]
   }

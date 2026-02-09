@@ -10,7 +10,14 @@
           3,
           5
         ],
-        "classroom": "12"
+        "classroom": "X101"
+      },
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1
+        ],
+        "classroom": "X101"
       }
     ]
   },
@@ -25,7 +32,14 @@
           3,
           5
         ],
-        "classroom": "12"
+        "classroom": "B203"
+      },
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1
+        ],
+        "classroom": "X101"
       }
     ],
     "professor_id": 98813,

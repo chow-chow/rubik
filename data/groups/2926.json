@@ -1,8 +1,28 @@
 [
   {
     "code": "2926",
+    "group": "4",
+    "professor": "AGUSTIN NIEVES SAAVEDRA",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "DS07"
+      }
+    ],
+    "professor_id": 63731,
+    "first_name": "Agustín",
+    "last_name": "Nieves Saavedra",
+    "rating": 2.8,
+    "num_ratings": 5
+  },
+  {
+    "code": "2926",
     "group": "1",
-    "professor": "VICENTE GUILLERMO LOPEZ FERNANDEZ",
+    "professor": "Grupo cancelado, contactar a la División.",
     "schedules": [
       {
         "time": "07:00-09:00",
@@ -10,7 +30,7 @@
           2,
           4
         ],
-        "classroom": "5"
+        "classroom": "DS07"
       }
     ]
   },
@@ -25,7 +45,7 @@
           2,
           4
         ],
-        "classroom": "5"
+        "classroom": "DS07"
       }
     ]
   },
@@ -40,29 +60,9 @@
           2,
           4
         ],
-        "classroom": "5"
+        "classroom": "DS07"
       }
     ]
-  },
-  {
-    "code": "2926",
-    "group": "4",
-    "professor": "AGUSTIN NIEVES SAAVEDRA",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "7"
-      }
-    ],
-    "professor_id": 63731,
-    "first_name": "Agustín",
-    "last_name": "Nieves Saavedra",
-    "rating": 2.5,
-    "num_ratings": 4
   },
   {
     "code": "2926",
@@ -75,7 +75,7 @@
           2,
           4
         ],
-        "classroom": "6"
+        "classroom": "DS07"
       }
     ],
     "professor_id": 45253,
@@ -94,7 +94,22 @@
         "days": [
           6
         ],
-        "classroom": "6"
+        "classroom": "DS07"
+      }
+    ]
+  },
+  {
+    "code": "2926",
+    "group": "8",
+    "professor": "VICENTE GUILLERMO LOPEZ FERNANDEZ",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "DS07"
       }
     ]
   }

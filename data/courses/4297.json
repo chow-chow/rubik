@@ -372,11 +372,8 @@
     "code": "1874",
     "name": "DISPOSITIVOS DE MICROONDAS II",
     "credits": 8,
-    "has_lab": true,
-    "lab": {
-      "code": "6874",
-      "name": "LAB. DISPOSITIVOS DE MICROONDAS II"
-    }
+    "has_lab": false,
+    "lab": null
   },
   {
     "code": "1875",

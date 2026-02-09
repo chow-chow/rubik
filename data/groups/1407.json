@@ -10,14 +10,14 @@
           2,
           4
         ],
-        "classroom": "30"
+        "classroom": "A204"
       }
     ],
     "professor_id": 172599,
     "first_name": "ALEJANDRO",
     "last_name": "PONCE SERRANO",
-    "rating": 2.75,
-    "num_ratings": 4
+    "rating": 2.6,
+    "num_ratings": 5
   },
   {
     "code": "1407",
@@ -30,7 +30,7 @@
           2,
           4
         ],
-        "classroom": "30"
+        "classroom": "A210"
       }
     ],
     "professor_id": 107514,
@@ -50,7 +50,7 @@
           3,
           5
         ],
-        "classroom": "30"
+        "classroom": "A210"
       }
     ]
   },
@@ -65,7 +65,7 @@
           3,
           5
         ],
-        "classroom": "30"
+        "classroom": "A210"
       }
     ]
   },
@@ -79,7 +79,7 @@
         "days": [
           6
         ],
-        "classroom": "30"
+        "classroom": "A212"
       }
     ]
   }

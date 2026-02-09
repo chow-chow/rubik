@@ -1,6 +1,34 @@
 [
   {
     "code": "6562",
+    "group": "4",
+    "professor": "PROFESOR POR ASIGNAR",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2
+        ],
+        "classroom": "P215"
+      }
+    ]
+  },
+  {
+    "code": "6562",
+    "group": "16",
+    "professor": "FERNANDO RIVERA PEREZ",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          5
+        ],
+        "classroom": "P215"
+      }
+    ]
+  },
+  {
+    "code": "6562",
     "group": "1",
     "professor": "JULIA VAZQUEZ FUENTES",
     "schedules": [
@@ -9,14 +37,14 @@
         "days": [
           1
         ],
-        "classroom": "14"
+        "classroom": "P215"
       }
     ],
     "professor_id": 58672,
     "first_name": "Julia",
     "last_name": "Vazquez Fuentes",
-    "rating": 4.3415,
-    "num_ratings": 41
+    "rating": 4.3023,
+    "num_ratings": 43
   },
   {
     "code": "6562",
@@ -28,14 +56,14 @@
         "days": [
           1
         ],
-        "classroom": "14"
+        "classroom": "P215"
       }
     ],
     "professor_id": 95374,
     "first_name": "JULIO",
     "last_name": "SERRANO VILLEGAS",
-    "rating": 9.0588,
-    "num_ratings": 17
+    "rating": 9.0,
+    "num_ratings": 18
   },
   {
     "code": "6562",
@@ -47,28 +75,14 @@
         "days": [
           1
         ],
-        "classroom": "14"
+        "classroom": "P215"
       }
     ],
     "professor_id": 95374,
     "first_name": "JULIO",
     "last_name": "SERRANO VILLEGAS",
-    "rating": 9.0588,
-    "num_ratings": 17
-  },
-  {
-    "code": "6562",
-    "group": "4",
-    "professor": "PROFESOR POR ASIGNAR",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          2
-        ],
-        "classroom": "14"
-      }
-    ]
+    "rating": 9.0,
+    "num_ratings": 18
   },
   {
     "code": "6562",
@@ -80,14 +94,14 @@
         "days": [
           2
         ],
-        "classroom": "14"
+        "classroom": "P215"
       }
     ],
     "professor_id": 134845,
     "first_name": "Benjamin",
     "last_name": "Ramírez Hernández",
-    "rating": 7.129,
-    "num_ratings": 31
+    "rating": 7.1563,
+    "num_ratings": 32
   },
   {
     "code": "6562",
@@ -99,7 +113,7 @@
         "days": [
           2
         ],
-        "classroom": "14"
+        "classroom": "P215"
       }
     ],
     "professor_id": 83076,
@@ -118,14 +132,14 @@
         "days": [
           3
         ],
-        "classroom": "14"
+        "classroom": "P215"
       }
     ],
     "professor_id": 58672,
     "first_name": "Julia",
     "last_name": "Vazquez Fuentes",
-    "rating": 4.3415,
-    "num_ratings": 41
+    "rating": 4.3023,
+    "num_ratings": 43
   },
   {
     "code": "6562",
@@ -137,7 +151,7 @@
         "days": [
           3
         ],
-        "classroom": "14"
+        "classroom": "P215"
       }
     ],
     "professor_id": 95190,
@@ -156,14 +170,14 @@
         "days": [
           3
         ],
-        "classroom": "14"
+        "classroom": "P215"
       }
     ],
     "professor_id": 95374,
     "first_name": "JULIO",
     "last_name": "SERRANO VILLEGAS",
-    "rating": 9.0588,
-    "num_ratings": 17
+    "rating": 9.0,
+    "num_ratings": 18
   },
   {
     "code": "6562",
@@ -175,14 +189,14 @@
         "days": [
           4
         ],
-        "classroom": "14"
+        "classroom": "P215"
       }
     ],
     "professor_id": 134845,
     "first_name": "Benjamin",
     "last_name": "Ramírez Hernández",
-    "rating": 7.129,
-    "num_ratings": 31
+    "rating": 7.1563,
+    "num_ratings": 32
   },
   {
     "code": "6562",
@@ -194,7 +208,7 @@
         "days": [
           4
         ],
-        "classroom": "14"
+        "classroom": "P215"
       }
     ],
     "professor_id": 74386,
@@ -213,7 +227,7 @@
         "days": [
           4
         ],
-        "classroom": "14"
+        "classroom": "P215"
       }
     ],
     "professor_id": 74386,
@@ -232,7 +246,7 @@
         "days": [
           5
         ],
-        "classroom": "6"
+        "classroom": "P215"
       }
     ],
     "professor_id": 95190,
@@ -251,7 +265,7 @@
         "days": [
           5
         ],
-        "classroom": "14"
+        "classroom": "P215"
       }
     ],
     "professor_id": 74386,
@@ -270,22 +284,27 @@
         "days": [
           5
         ],
-        "classroom": "14"
+        "classroom": "P215"
       }
     ]
   },
   {
     "code": "6562",
-    "group": "16",
-    "professor": "FERNANDO RIVERA PEREZ",
+    "group": "17",
+    "professor": "EDGAR  BALDEMAR AGUADO CRUZ",
     "schedules": [
       {
-        "time": "19:00-21:00",
+        "time": "11:00-13:00",
         "days": [
           5
         ],
-        "classroom": "14"
+        "classroom": "P215"
       }
-    ]
+    ],
+    "professor_id": 99901,
+    "first_name": "Edgar Baldemar",
+    "last_name": "Aguado Cruz",
+    "rating": 8.3103,
+    "num_ratings": 29
   }
 ]

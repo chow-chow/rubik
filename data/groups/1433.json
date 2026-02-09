@@ -1,6 +1,178 @@
 [
   {
     "code": "1433",
+    "group": "3",
+    "professor": "HUGO GERMAN SERRANO MIRANDA",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2
+        ],
+        "classroom": "J101"
+      },
+      {
+        "time": "07:00-09:00",
+        "days": [
+          4
+        ],
+        "classroom": "J205"
+      }
+    ],
+    "professor_id": 84710,
+    "first_name": "Hugo German",
+    "last_name": "Serrano Miranda",
+    "rating": 5.48,
+    "num_ratings": 25
+  },
+  {
+    "code": "1433",
+    "group": "6",
+    "professor": "JAIME ALFONSO REYES CORTES",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "J208"
+      }
+    ],
+    "professor_id": 93529,
+    "first_name": "Alfonso",
+    "last_name": "Reyes",
+    "rating": 7.0667,
+    "num_ratings": 15
+  },
+  {
+    "code": "1433",
+    "group": "8",
+    "professor": "JAIME ALFONSO REYES CORTES",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "I301"
+      }
+    ],
+    "professor_id": 93529,
+    "first_name": "Alfonso",
+    "last_name": "Reyes",
+    "rating": 7.0667,
+    "num_ratings": 15
+  },
+  {
+    "code": "1433",
+    "group": "12",
+    "professor": "DANIEL PEÑA MACIEL",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "J205"
+      }
+    ],
+    "professor_id": 84731,
+    "first_name": "Daniel",
+    "last_name": "Peña Maciel",
+    "rating": 7.1923,
+    "num_ratings": 26
+  },
+  {
+    "code": "1433",
+    "group": "25",
+    "professor": "VICTOR MANUEL DURAN CAMPOS",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1,
+          5
+        ],
+        "classroom": "I305"
+      }
+    ],
+    "professor_id": 79462,
+    "first_name": "Víctor Manuel",
+    "last_name": "Durán Campos",
+    "rating": 6.7,
+    "num_ratings": 10
+  },
+  {
+    "code": "1433",
+    "group": "27",
+    "professor": "JOSE RAFAEL GONZALEZ MARTINEZ",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "J204"
+      }
+    ],
+    "professor_id": 177290,
+    "first_name": "José Rafael",
+    "last_name": "González Martínez",
+    "rating": 7.7059,
+    "num_ratings": 17
+  },
+  {
+    "code": "1433",
+    "group": "29",
+    "professor": "AXEL APARICIO HERNANDEZ",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "J108"
+      }
+    ],
+    "professor_id": 102986,
+    "first_name": "Axel",
+    "last_name": "Aparicio Hernández",
+    "rating": 8.05,
+    "num_ratings": 20
+  },
+  {
+    "code": "1433",
+    "group": "30",
+    "professor": "ADRIANA LOPEZ ZAZUETA",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          4
+        ],
+        "classroom": "J203"
+      },
+      {
+        "time": "19:00-21:00",
+        "days": [
+          2
+        ],
+        "classroom": "I206"
+      }
+    ],
+    "professor_id": 187334,
+    "first_name": "Adriana",
+    "last_name": "López Zazueta",
+    "rating": 6.4,
+    "num_ratings": 5
+  },
+  {
+    "code": "1433",
     "group": "1",
     "professor": "CARLOS ALBERTO ROSAS GUTIERREZ",
     "schedules": [
@@ -9,14 +181,21 @@
         "days": [
           1
         ],
-        "classroom": "35"
+        "classroom": "J209"
+      },
+      {
+        "time": "07:00-09:00",
+        "days": [
+          3
+        ],
+        "classroom": "J205"
       }
     ],
     "professor_id": 68042,
     "first_name": "carlos alberto",
     "last_name": "rosas gutierrez",
-    "rating": 6.6471,
-    "num_ratings": 17
+    "rating": 6.7778,
+    "num_ratings": 18
   },
   {
     "code": "1433",
@@ -29,33 +208,14 @@
           2,
           4
         ],
-        "classroom": "48"
+        "classroom": "I102"
       }
     ],
     "professor_id": 84254,
     "first_name": "Ali",
     "last_name": "Ramos Gómez",
-    "rating": 8.4179,
-    "num_ratings": 67
-  },
-  {
-    "code": "1433",
-    "group": "3",
-    "professor": "ROGELIO REGINO HERNANDEZ HERNANDEZ",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          2
-        ],
-        "classroom": "35"
-      }
-    ],
-    "professor_id": 49293,
-    "first_name": "Regino Rogelio",
-    "last_name": "Hernandez Hernandez",
-    "rating": 3.913,
-    "num_ratings": 23
+    "rating": 8.4412,
+    "num_ratings": 68
   },
   {
     "code": "1433",
@@ -65,9 +225,16 @@
       {
         "time": "09:00-11:00",
         "days": [
+          3
+        ],
+        "classroom": "I202"
+      },
+      {
+        "time": "09:00-11:00",
+        "days": [
           1
         ],
-        "classroom": "35"
+        "classroom": "J205"
       }
     ],
     "professor_id": 51439,
@@ -86,7 +253,14 @@
         "days": [
           1
         ],
-        "classroom": "35"
+        "classroom": "I206"
+      },
+      {
+        "time": "09:00-11:00",
+        "days": [
+          5
+        ],
+        "classroom": "J205"
       }
     ],
     "professor_id": 187334,
@@ -94,26 +268,6 @@
     "last_name": "López Zazueta",
     "rating": 6.4,
     "num_ratings": 5
-  },
-  {
-    "code": "1433",
-    "group": "6",
-    "professor": "JAIME ALFONSO REYES CORTES",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          3,
-          5
-        ],
-        "classroom": "48"
-      }
-    ],
-    "professor_id": 93529,
-    "first_name": "Alfonso",
-    "last_name": "Reyes",
-    "rating": 7.0667,
-    "num_ratings": 15
   },
   {
     "code": "1433",
@@ -125,7 +279,7 @@
         "days": [
           6
         ],
-        "classroom": "48"
+        "classroom": "J203"
       }
     ],
     "professor_id": 173728,
@@ -133,26 +287,6 @@
     "last_name": "Brito Segura",
     "rating": 9.8,
     "num_ratings": 5
-  },
-  {
-    "code": "1433",
-    "group": "8",
-    "professor": "JAIME ALFONSO REYES CORTES",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "48"
-      }
-    ],
-    "professor_id": 93529,
-    "first_name": "Alfonso",
-    "last_name": "Reyes",
-    "rating": 7.0667,
-    "num_ratings": 15
   },
   {
     "code": "1433",
@@ -165,7 +299,7 @@
           1,
           5
         ],
-        "classroom": "48"
+        "classroom": "J101"
       }
     ],
     "professor_id": 62496,
@@ -185,14 +319,14 @@
           2,
           4
         ],
-        "classroom": "48"
+        "classroom": "J105"
       }
     ],
     "professor_id": 42880,
     "first_name": "gloria",
     "last_name": "ramirez romero",
-    "rating": 6.7684,
-    "num_ratings": 95
+    "rating": 6.7835,
+    "num_ratings": 97
   },
   {
     "code": "1433",
@@ -205,7 +339,7 @@
           2,
           4
         ],
-        "classroom": "48"
+        "classroom": "J108"
       }
     ],
     "professor_id": 95315,
@@ -216,35 +350,22 @@
   },
   {
     "code": "1433",
-    "group": "12",
-    "professor": "DANIEL PEÑA MACIEL",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          3,
-          5
-        ],
-        "classroom": "35"
-      }
-    ],
-    "professor_id": 84731,
-    "first_name": "Daniel",
-    "last_name": "Peña Maciel",
-    "rating": 7.24,
-    "num_ratings": 25
-  },
-  {
-    "code": "1433",
     "group": "13",
     "professor": "JUAN ANGEL RODRIGUEZ GOMEZ",
     "schedules": [
       {
         "time": "13:00-15:00",
         "days": [
+          1
+        ],
+        "classroom": "J204"
+      },
+      {
+        "time": "13:00-15:00",
+        "days": [
           3
         ],
-        "classroom": "35"
+        "classroom": "J106"
       }
     ],
     "professor_id": 75669,
@@ -264,7 +385,7 @@
           1,
           3
         ],
-        "classroom": "48"
+        "classroom": "J209"
       }
     ]
   },
@@ -279,7 +400,7 @@
           1,
           5
         ],
-        "classroom": "48"
+        "classroom": "J101"
       }
     ],
     "professor_id": 62496,
@@ -299,7 +420,7 @@
           2,
           4
         ],
-        "classroom": "48"
+        "classroom": "J209"
       }
     ]
   },
@@ -314,14 +435,14 @@
           2,
           4
         ],
-        "classroom": "48"
+        "classroom": "J203"
       }
     ],
     "professor_id": 81587,
     "first_name": "Javier",
     "last_name": "Gómez Méndez",
-    "rating": 8.04,
-    "num_ratings": 85
+    "rating": 8.11,
+    "num_ratings": 89
   },
   {
     "code": "1433",
@@ -331,9 +452,16 @@
       {
         "time": "15:00-17:00",
         "days": [
+          3
+        ],
+        "classroom": "J205"
+      },
+      {
+        "time": "15:00-17:00",
+        "days": [
           1
         ],
-        "classroom": "48"
+        "classroom": "J110"
       }
     ],
     "professor_id": 78565,
@@ -353,7 +481,7 @@
           1,
           3
         ],
-        "classroom": "35"
+        "classroom": "J202"
       }
     ]
   },
@@ -367,7 +495,14 @@
         "days": [
           2
         ],
-        "classroom": "48"
+        "classroom": "J102"
+      },
+      {
+        "time": "15:00-17:00",
+        "days": [
+          4
+        ],
+        "classroom": "J204"
       }
     ],
     "professor_id": 78565,
@@ -379,16 +514,28 @@
   {
     "code": "1433",
     "group": "21",
-    "professor": "JOSÉ RAFAEL GONZÁLEZ MARTÍNEZ",
+    "professor": "JOSE RAFAEL GONZALEZ MARTINEZ",
     "schedules": [
       {
         "time": "15:00-17:00",
         "days": [
           5
         ],
-        "classroom": "35"
+        "classroom": "J205"
+      },
+      {
+        "time": "15:00-17:00",
+        "days": [
+          3
+        ],
+        "classroom": "J210"
       }
-    ]
+    ],
+    "professor_id": 177290,
+    "first_name": "José Rafael",
+    "last_name": "González Martínez",
+    "rating": 7.7059,
+    "num_ratings": 17
   },
   {
     "code": "1433",
@@ -401,7 +548,7 @@
           3,
           5
         ],
-        "classroom": "48"
+        "classroom": "J104"
       }
     ],
     "professor_id": 187334,
@@ -420,14 +567,14 @@
         "days": [
           5
         ],
-        "classroom": "48"
+        "classroom": "J106"
       }
     ],
     "professor_id": 153529,
     "first_name": "Erick Javier",
     "last_name": "López Sánchez",
-    "rating": 8.5714,
-    "num_ratings": 14
+    "rating": 8.6667,
+    "num_ratings": 15
   },
   {
     "code": "1433",
@@ -440,7 +587,7 @@
           1,
           3
         ],
-        "classroom": "48"
+        "classroom": "I102"
       }
     ],
     "professor_id": 63727,
@@ -448,26 +595,6 @@
     "last_name": "Ramirez y Villa",
     "rating": 6.2051,
     "num_ratings": 39
-  },
-  {
-    "code": "1433",
-    "group": "25",
-    "professor": "VICTOR MANUEL DURAN CAMPOS",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          1,
-          5
-        ],
-        "classroom": "48"
-      }
-    ],
-    "professor_id": 79462,
-    "first_name": "Víctor Manuel",
-    "last_name": "Durán Campos",
-    "rating": 6.7,
-    "num_ratings": 10
   },
   {
     "code": "1433",
@@ -480,7 +607,7 @@
           2,
           4
         ],
-        "classroom": "48"
+        "classroom": "I204"
       }
     ],
     "professor_id": 102986,
@@ -488,60 +615,5 @@
     "last_name": "Aparicio Hernández",
     "rating": 8.05,
     "num_ratings": 20
-  },
-  {
-    "code": "1433",
-    "group": "27",
-    "professor": "JOSÉ RAFAEL GONZÁLEZ MARTÍNEZ",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          3,
-          5
-        ],
-        "classroom": "35"
-      }
-    ]
-  },
-  {
-    "code": "1433",
-    "group": "29",
-    "professor": "AXEL APARICIO HERNANDEZ",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "48"
-      }
-    ],
-    "professor_id": 102986,
-    "first_name": "Axel",
-    "last_name": "Aparicio Hernández",
-    "rating": 8.05,
-    "num_ratings": 20
-  },
-  {
-    "code": "1433",
-    "group": "30",
-    "professor": "ADRIANA LOPEZ ZAZUETA",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "48"
-      }
-    ],
-    "professor_id": 187334,
-    "first_name": "Adriana",
-    "last_name": "López Zazueta",
-    "rating": 6.4,
-    "num_ratings": 5
   }
 ]

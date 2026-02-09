@@ -9,7 +9,7 @@
         "days": [
           1
         ],
-        "classroom": "7"
+        "classroom": "Q315"
       }
     ],
     "professor_id": 55853,
@@ -28,13 +28,32 @@
         "days": [
           3
         ],
-        "classroom": "7"
+        "classroom": "Q315"
       }
     ],
     "professor_id": 89949,
     "first_name": "ISMAEL",
     "last_name": "ROMERO OCARANZA",
-    "rating": 6.36,
-    "num_ratings": 25
+    "rating": 6.3077,
+    "num_ratings": 26
+  },
+  {
+    "code": "6459",
+    "group": "3",
+    "professor": "MARGARITA BAUTISTA GONZALEZ",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          5
+        ],
+        "classroom": "Q315"
+      }
+    ],
+    "professor_id": 79762,
+    "first_name": "Margarita",
+    "last_name": "Bautista Gonzalez",
+    "rating": 9.0,
+    "num_ratings": 6
   }
 ]

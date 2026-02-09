@@ -9,7 +9,7 @@
         "days": [
           1
         ],
-        "classroom": "10"
+        "classroom": "P109"
       }
     ],
     "professor_id": 156041,
@@ -17,25 +17,6 @@
     "last_name": "Yañez Gutiérrez",
     "rating": 9.3333,
     "num_ratings": 3
-  },
-  {
-    "code": "6473",
-    "group": "2",
-    "professor": "ADRIANA EUGENIA CHAVIRA DIAZ",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          1
-        ],
-        "classroom": "10"
-      }
-    ],
-    "professor_id": 112610,
-    "first_name": "Adriana Eugenia",
-    "last_name": "Chavira Diaz",
-    "rating": 9.4706,
-    "num_ratings": 17
   },
   {
     "code": "6473",
@@ -47,64 +28,7 @@
         "days": [
           1
         ],
-        "classroom": "10"
-      }
-    ],
-    "professor_id": 124067,
-    "first_name": "M.I. LAURO FERNANDO",
-    "last_name": "VAZQUEZ ALBERTO",
-    "rating": 9.0,
-    "num_ratings": 10
-  },
-  {
-    "code": "6473",
-    "group": "4",
-    "professor": "LAURO FERNANDO VAZQUEZ ALBERTO",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          1
-        ],
-        "classroom": "10"
-      }
-    ],
-    "professor_id": 124067,
-    "first_name": "M.I. LAURO FERNANDO",
-    "last_name": "VAZQUEZ ALBERTO",
-    "rating": 9.0,
-    "num_ratings": 10
-  },
-  {
-    "code": "6473",
-    "group": "5",
-    "professor": "MARIA LEONOR SALCEDO UBILLA",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          2
-        ],
-        "classroom": "10"
-      }
-    ],
-    "professor_id": 161143,
-    "first_name": "Maria Leonor",
-    "last_name": "Salcedo Ubilla",
-    "rating": 8.75,
-    "num_ratings": 4
-  },
-  {
-    "code": "6473",
-    "group": "6",
-    "professor": "LAURO FERNANDO VAZQUEZ ALBERTO",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          2
-        ],
-        "classroom": "10"
+        "classroom": "P109"
       }
     ],
     "professor_id": 124067,
@@ -123,47 +47,9 @@
         "days": [
           2
         ],
-        "classroom": "10"
+        "classroom": "P109"
       }
     ]
-  },
-  {
-    "code": "6473",
-    "group": "8",
-    "professor": "MICHAEL JOSSUE ROJAS GARCIA",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          2
-        ],
-        "classroom": "10"
-      }
-    ],
-    "professor_id": 124068,
-    "first_name": "M.I. MICHAEL JOSSUE",
-    "last_name": "ROJAS GARCIA",
-    "rating": 9.1905,
-    "num_ratings": 21
-  },
-  {
-    "code": "6473",
-    "group": "9",
-    "professor": "ALBERTO RAMIRO GARIBAY MARTINEZ",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          2
-        ],
-        "classroom": "10"
-      }
-    ],
-    "professor_id": 109182,
-    "first_name": "Alberto Ramiro",
-    "last_name": "Garibay Martínez",
-    "rating": 2.5,
-    "num_ratings": 2
   },
   {
     "code": "6473",
@@ -175,7 +61,7 @@
         "days": [
           3
         ],
-        "classroom": "10"
+        "classroom": "P109"
       }
     ],
     "professor_id": 156041,
@@ -187,35 +73,21 @@
   {
     "code": "6473",
     "group": "11",
-    "professor": "JOSE ALBERTO ARELLANO FIGUEROA",
+    "professor": "JESUS YAÑEZ GUTIERREZ",
     "schedules": [
       {
         "time": "09:00-11:00",
         "days": [
           3
         ],
-        "classroom": "10"
+        "classroom": "P109"
       }
     ],
-    "professor_id": 87572,
-    "first_name": "José Alberto",
-    "last_name": "Arellano Figueroa",
-    "rating": 7.7778,
-    "num_ratings": 18
-  },
-  {
-    "code": "6473",
-    "group": "12",
-    "professor": "MIREYA OSORIO PALACIOS",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          3
-        ],
-        "classroom": "10"
-      }
-    ]
+    "professor_id": 156041,
+    "first_name": "Jesús",
+    "last_name": "Yañez Gutiérrez",
+    "rating": 9.3333,
+    "num_ratings": 3
   },
   {
     "code": "6473",
@@ -227,7 +99,7 @@
         "days": [
           3
         ],
-        "classroom": "10"
+        "classroom": "P109"
       }
     ],
     "professor_id": 124067,
@@ -235,44 +107,6 @@
     "last_name": "VAZQUEZ ALBERTO",
     "rating": 9.0,
     "num_ratings": 10
-  },
-  {
-    "code": "6473",
-    "group": "14",
-    "professor": "JESUS YAÑEZ GUTIERREZ",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          4
-        ],
-        "classroom": "10"
-      }
-    ],
-    "professor_id": 156041,
-    "first_name": "Jesús",
-    "last_name": "Yañez Gutiérrez",
-    "rating": 9.3333,
-    "num_ratings": 3
-  },
-  {
-    "code": "6473",
-    "group": "15",
-    "professor": "JOSE ALBERTO ARELLANO FIGUEROA",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          4
-        ],
-        "classroom": "10"
-      }
-    ],
-    "professor_id": 87572,
-    "first_name": "José Alberto",
-    "last_name": "Arellano Figueroa",
-    "rating": 7.7778,
-    "num_ratings": 18
   },
   {
     "code": "6473",
@@ -284,7 +118,7 @@
         "days": [
           4
         ],
-        "classroom": "10"
+        "classroom": "P109"
       }
     ],
     "professor_id": 156041,
@@ -292,6 +126,148 @@
     "last_name": "Yañez Gutiérrez",
     "rating": 9.3333,
     "num_ratings": 3
+  },
+  {
+    "code": "6473",
+    "group": "2",
+    "professor": "ADRIANA EUGENIA CHAVIRA DIAZ",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1
+        ],
+        "classroom": "P109"
+      }
+    ],
+    "professor_id": 112610,
+    "first_name": "Adriana Eugenia",
+    "last_name": "Chavira Diaz",
+    "rating": 9.4706,
+    "num_ratings": 17
+  },
+  {
+    "code": "6473",
+    "group": "4",
+    "professor": "LAURO FERNANDO VAZQUEZ ALBERTO",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1
+        ],
+        "classroom": "P109"
+      }
+    ],
+    "professor_id": 124067,
+    "first_name": "M.I. LAURO FERNANDO",
+    "last_name": "VAZQUEZ ALBERTO",
+    "rating": 9.0,
+    "num_ratings": 10
+  },
+  {
+    "code": "6473",
+    "group": "5",
+    "professor": "MARIA LEONOR SALCEDO UBILLA",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2
+        ],
+        "classroom": "P109"
+      }
+    ],
+    "professor_id": 161143,
+    "first_name": "Maria Leonor",
+    "last_name": "Salcedo Ubilla",
+    "rating": 8.75,
+    "num_ratings": 4
+  },
+  {
+    "code": "6473",
+    "group": "6",
+    "professor": "LAURO FERNANDO VAZQUEZ ALBERTO",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2
+        ],
+        "classroom": "P109"
+      }
+    ],
+    "professor_id": 124067,
+    "first_name": "M.I. LAURO FERNANDO",
+    "last_name": "VAZQUEZ ALBERTO",
+    "rating": 9.0,
+    "num_ratings": 10
+  },
+  {
+    "code": "6473",
+    "group": "8",
+    "professor": "MICHAEL JOSSUE ROJAS GARCIA",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2
+        ],
+        "classroom": "P109"
+      }
+    ],
+    "professor_id": 124068,
+    "first_name": "M.I. MICHAEL JOSSUE",
+    "last_name": "ROJAS GARCIA",
+    "rating": 9.1905,
+    "num_ratings": 21
+  },
+  {
+    "code": "6473",
+    "group": "9",
+    "professor": "Grupo cancelado, contactar a la División.",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          2
+        ],
+        "classroom": "P109"
+      }
+    ]
+  },
+  {
+    "code": "6473",
+    "group": "12",
+    "professor": "MIREYA OSORIO PALACIOS",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          3
+        ],
+        "classroom": "P114"
+      }
+    ]
+  },
+  {
+    "code": "6473",
+    "group": "15",
+    "professor": "JOSE ALBERTO ARELLANO FIGUEROA",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          4
+        ],
+        "classroom": "P109"
+      }
+    ],
+    "professor_id": 87572,
+    "first_name": "José Alberto",
+    "last_name": "Arellano Figueroa",
+    "rating": 7.7778,
+    "num_ratings": 18
   },
   {
     "code": "6473",
@@ -303,7 +279,7 @@
         "days": [
           4
         ],
-        "classroom": "10"
+        "classroom": "P109"
       }
     ],
     "professor_id": 124068,
@@ -322,7 +298,7 @@
         "days": [
           5
         ],
-        "classroom": "10"
+        "classroom": "P109"
       }
     ],
     "professor_id": 161143,

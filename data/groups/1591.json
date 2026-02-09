@@ -1,23 +1,8 @@
 [
   {
     "code": "1591",
-    "group": "1",
-    "professor": "SANDRA ISABEL PÉREZ HERNÁNDEZ",
-    "schedules": [
-      {
-        "time": "10:00-13:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "25"
-      }
-    ]
-  },
-  {
-    "code": "1591",
     "group": "2",
-    "professor": "SANDRA ISABEL PÉREZ HERNÁNDEZ",
+    "professor": "SANDRA ISABEL PEREZ HERNANDEZ",
     "schedules": [
       {
         "time": "10:00-13:00",
@@ -25,7 +10,7 @@
           1,
           3
         ],
-        "classroom": "25"
+        "classroom": "C404"
       }
     ]
   },
@@ -41,7 +26,7 @@
           3,
           5
         ],
-        "classroom": "25"
+        "classroom": "C204"
       }
     ],
     "professor_id": 190100,
@@ -49,5 +34,20 @@
     "last_name": "Sánchez Guillén",
     "rating": 6.5,
     "num_ratings": 2
+  },
+  {
+    "code": "1591",
+    "group": "1",
+    "professor": "SANDRA ISABEL PEREZ HERNANDEZ",
+    "schedules": [
+      {
+        "time": "10:00-13:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "C404"
+      }
+    ]
   }
 ]

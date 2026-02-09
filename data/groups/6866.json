@@ -9,23 +9,28 @@
         "days": [
           1
         ],
-        "classroom": "18"
+        "classroom": "Q208"
       }
     ]
   },
   {
     "code": "6866",
     "group": "2",
-    "professor": "SANDRA PLATA VELÁZQUEZ",
+    "professor": "SANDRA PLATA VELAZQUEZ",
     "schedules": [
       {
         "time": "09:00-11:00",
         "days": [
           2
         ],
-        "classroom": "18"
+        "classroom": "Q208"
       }
-    ]
+    ],
+    "professor_id": 181395,
+    "first_name": "SANDRA",
+    "last_name": "PLATA VELÁZQUEZ",
+    "rating": 5.5,
+    "num_ratings": 2
   },
   {
     "code": "6866",
@@ -37,7 +42,7 @@
         "days": [
           3
         ],
-        "classroom": "18"
+        "classroom": "Q208"
       }
     ]
   }

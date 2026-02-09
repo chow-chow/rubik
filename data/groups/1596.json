@@ -10,7 +10,7 @@
           1,
           3
         ],
-        "classroom": "30"
+        "classroom": "Y104"
       }
     ],
     "professor_id": 90785,
@@ -18,26 +18,6 @@
     "last_name": "PONCELIS GASCA",
     "rating": 7.5,
     "num_ratings": 6
-  },
-  {
-    "code": "1596",
-    "group": "2",
-    "professor": "MARCOS TREJO HERNANDEZ",
-    "schedules": [
-      {
-        "time": "13:00-14:30",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "30"
-      }
-    ],
-    "professor_id": 71649,
-    "first_name": "Marcos",
-    "last_name": "Trejo Hernández",
-    "rating": 5.5,
-    "num_ratings": 14
   },
   {
     "code": "1596",
@@ -50,14 +30,14 @@
           1,
           3
         ],
-        "classroom": "30"
+        "classroom": "A304"
       }
     ],
     "professor_id": 61572,
     "first_name": "Carlos",
     "last_name": "Narcia Morales",
-    "rating": 7.0,
-    "num_ratings": 22
+    "rating": 6.913,
+    "num_ratings": 23
   },
   {
     "code": "1596",
@@ -70,7 +50,7 @@
           2,
           4
         ],
-        "classroom": "30"
+        "classroom": "A204"
       }
     ],
     "professor_id": 171805,
@@ -78,6 +58,26 @@
     "last_name": "Terrazas y de Allende",
     "rating": 7.5,
     "num_ratings": 2
+  },
+  {
+    "code": "1596",
+    "group": "2",
+    "professor": "MARCOS TREJO HERNANDEZ",
+    "schedules": [
+      {
+        "time": "13:00-14:30",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "Y104"
+      }
+    ],
+    "professor_id": 71649,
+    "first_name": "Marcos",
+    "last_name": "Trejo Hernández",
+    "rating": 5.5,
+    "num_ratings": 14
   },
   {
     "code": "1596",
@@ -90,7 +90,7 @@
           2,
           4
         ],
-        "classroom": "30"
+        "classroom": "A307"
       }
     ]
   }

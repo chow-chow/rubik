@@ -10,7 +10,7 @@
           2,
           4
         ],
-        "classroom": "28"
+        "classroom": "XS01"
       }
     ]
   },
@@ -24,7 +24,7 @@
         "days": [
           6
         ],
-        "classroom": "36"
+        "classroom": "B201"
       }
     ],
     "professor_id": 98536,
@@ -44,7 +44,7 @@
           1,
           3
         ],
-        "classroom": "40"
+        "classroom": "O103"
       }
     ],
     "professor_id": 59342,
@@ -52,6 +52,26 @@
     "last_name": "Pérez Juárez",
     "rating": 5.8947,
     "num_ratings": 38
+  },
+  {
+    "code": "2103",
+    "group": "6",
+    "professor": "GUMERSINDO ALEJANDRO OYARZABAL CAMACHO",
+    "schedules": [
+      {
+        "time": "20:00-22:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "D003"
+      }
+    ],
+    "professor_id": 101230,
+    "first_name": "GUMERSINDO ALEJANDRO",
+    "last_name": "OYARZABAL CAMACHO",
+    "rating": 7.1429,
+    "num_ratings": 7
   },
   {
     "code": "2103",
@@ -64,7 +84,7 @@
           2,
           4
         ],
-        "classroom": "36"
+        "classroom": "B302"
       }
     ],
     "professor_id": 95202,
@@ -84,29 +104,9 @@
           1,
           3
         ],
-        "classroom": "36"
+        "classroom": "B201"
       }
     ]
-  },
-  {
-    "code": "2103",
-    "group": "6",
-    "professor": "GUMERSINDO ALEJANDRO OYARZABAL CAMACHO",
-    "schedules": [
-      {
-        "time": "20:00-22:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "33"
-      }
-    ],
-    "professor_id": 101230,
-    "first_name": "GUMERSINDO ALEJANDRO",
-    "last_name": "OYARZABAL CAMACHO",
-    "rating": 6.6667,
-    "num_ratings": 6
   },
   {
     "code": "2103",
@@ -119,7 +119,7 @@
           2,
           4
         ],
-        "classroom": "25"
+        "classroom": "Y004"
       }
     ]
   }

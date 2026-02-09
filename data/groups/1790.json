@@ -1,153 +1,6 @@
 [
   {
     "code": "1790",
-    "group": "1",
-    "professor": "JOSE CARLOS DELGADO CHONG",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          5
-        ],
-        "classroom": "35"
-      }
-    ],
-    "professor_id": 24305,
-    "first_name": "JOSE CARLOS",
-    "last_name": "DELGADO CHONG",
-    "rating": 9.1938,
-    "num_ratings": 129
-  },
-  {
-    "code": "1790",
-    "group": "2",
-    "professor": "JOSE CARLOS DIAZ SILVA",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          5
-        ],
-        "classroom": "35"
-      }
-    ]
-  },
-  {
-    "code": "1790",
-    "group": "3",
-    "professor": "MARCO JORGE ALBERTO RODRIGUEZ MARTINEZ",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          2
-        ],
-        "classroom": "35"
-      }
-    ],
-    "professor_id": 68143,
-    "first_name": "Marco Jorge Alberto",
-    "last_name": "Rodríguez Martínez",
-    "rating": 9.0,
-    "num_ratings": 17
-  },
-  {
-    "code": "1790",
-    "group": "4",
-    "professor": "JOSE CARLOS DELGADO CHONG",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          5
-        ],
-        "classroom": "35"
-      }
-    ],
-    "professor_id": 24305,
-    "first_name": "JOSE CARLOS",
-    "last_name": "DELGADO CHONG",
-    "rating": 9.1938,
-    "num_ratings": 129
-  },
-  {
-    "code": "1790",
-    "group": "5",
-    "professor": "ELSA RUTH MONDRAGON SAAVEDRA",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          2
-        ],
-        "classroom": "35"
-      }
-    ],
-    "professor_id": 70316,
-    "first_name": "Elsa Ruth",
-    "last_name": "Mondragón Saavedra",
-    "rating": 8.36,
-    "num_ratings": 58
-  },
-  {
-    "code": "1790",
-    "group": "6",
-    "professor": "ELSA RUTH MONDRAGON SAAVEDRA",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          4
-        ],
-        "classroom": "35"
-      }
-    ],
-    "professor_id": 70316,
-    "first_name": "Elsa Ruth",
-    "last_name": "Mondragón Saavedra",
-    "rating": 8.36,
-    "num_ratings": 58
-  },
-  {
-    "code": "1790",
-    "group": "7",
-    "professor": "MARCO JORGE ALBERTO RODRIGUEZ MARTINEZ",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          1
-        ],
-        "classroom": "35"
-      }
-    ],
-    "professor_id": 68143,
-    "first_name": "Marco Jorge Alberto",
-    "last_name": "Rodríguez Martínez",
-    "rating": 9.0,
-    "num_ratings": 17
-  },
-  {
-    "code": "1790",
-    "group": "8",
-    "professor": "CARLOS AURELIO BERNAL ESPONDA",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          2
-        ],
-        "classroom": "35"
-      }
-    ],
-    "professor_id": 68400,
-    "first_name": "Carlos Aurelio",
-    "last_name": "Bernal Esponda",
-    "rating": 8.4615,
-    "num_ratings": 26
-  },
-  {
-    "code": "1790",
     "group": "9",
     "professor": "EDGARDO ULISES BENITEZ ESLAVA",
     "schedules": [
@@ -156,23 +9,28 @@
         "days": [
           2
         ],
-        "classroom": "35"
+        "classroom": "A106"
       }
     ]
   },
   {
     "code": "1790",
     "group": "10",
-    "professor": "JOSÉ MARTÍN SERNA DE ANDA",
+    "professor": "JOSE MARTIN SERNA DE ANDA",
     "schedules": [
       {
         "time": "17:00-19:00",
         "days": [
           2
         ],
-        "classroom": "35"
+        "classroom": "A105"
       }
-    ]
+    ],
+    "professor_id": 155980,
+    "first_name": "José Martín",
+    "last_name": "Serna de Anda",
+    "rating": 7.5,
+    "num_ratings": 4
   },
   {
     "code": "1790",
@@ -184,21 +42,7 @@
         "days": [
           4
         ],
-        "classroom": "35"
-      }
-    ]
-  },
-  {
-    "code": "1790",
-    "group": "12",
-    "professor": "ANGEL JULIAN AVILA AGUILAR",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          1
-        ],
-        "classroom": "35"
+        "classroom": "A108"
       }
     ]
   },
@@ -212,13 +56,179 @@
         "days": [
           1
         ],
-        "classroom": "35"
+        "classroom": "A106"
       }
     ],
     "professor_id": 167392,
     "first_name": "PHEN",
     "last_name": "BOLIO ALBUERNE",
-    "rating": 7.5,
+    "rating": 7.6667,
+    "num_ratings": 3
+  },
+  {
+    "code": "1790",
+    "group": "1",
+    "professor": "JOSE CARLOS DELGADO CHONG",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          5
+        ],
+        "classroom": "A102"
+      }
+    ],
+    "professor_id": 24305,
+    "first_name": "JOSE CARLOS",
+    "last_name": "DELGADO CHONG",
+    "rating": 9.2,
+    "num_ratings": 130
+  },
+  {
+    "code": "1790",
+    "group": "2",
+    "professor": "JOSE CARLOS DIAZ SILVA",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          5
+        ],
+        "classroom": "A108"
+      }
+    ]
+  },
+  {
+    "code": "1790",
+    "group": "3",
+    "professor": "MARCO JORGE ALBERTO RODRIGUEZ MARTINEZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2
+        ],
+        "classroom": "A101"
+      }
+    ],
+    "professor_id": 68143,
+    "first_name": "Marco Jorge Alberto",
+    "last_name": "Rodríguez Martínez",
+    "rating": 8.8421,
+    "num_ratings": 19
+  },
+  {
+    "code": "1790",
+    "group": "4",
+    "professor": "JOSE CARLOS DELGADO CHONG",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          5
+        ],
+        "classroom": "A102"
+      }
+    ],
+    "professor_id": 24305,
+    "first_name": "JOSE CARLOS",
+    "last_name": "DELGADO CHONG",
+    "rating": 9.2,
+    "num_ratings": 130
+  },
+  {
+    "code": "1790",
+    "group": "5",
+    "professor": "ELSA RUTH MONDRAGON SAAVEDRA",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          2
+        ],
+        "classroom": "A104"
+      }
+    ],
+    "professor_id": 70316,
+    "first_name": "Elsa Ruth",
+    "last_name": "Mondragón Saavedra",
+    "rating": 8.39,
+    "num_ratings": 59
+  },
+  {
+    "code": "1790",
+    "group": "6",
+    "professor": "ELSA RUTH MONDRAGON SAAVEDRA",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          4
+        ],
+        "classroom": "A104"
+      }
+    ],
+    "professor_id": 70316,
+    "first_name": "Elsa Ruth",
+    "last_name": "Mondragón Saavedra",
+    "rating": 8.39,
+    "num_ratings": 59
+  },
+  {
+    "code": "1790",
+    "group": "7",
+    "professor": "MARCO JORGE ALBERTO RODRIGUEZ MARTINEZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1
+        ],
+        "classroom": "A103"
+      }
+    ],
+    "professor_id": 68143,
+    "first_name": "Marco Jorge Alberto",
+    "last_name": "Rodríguez Martínez",
+    "rating": 8.8421,
+    "num_ratings": 19
+  },
+  {
+    "code": "1790",
+    "group": "8",
+    "professor": "CARLOS AURELIO BERNAL ESPONDA",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2
+        ],
+        "classroom": "A103"
+      }
+    ],
+    "professor_id": 68400,
+    "first_name": "Carlos Aurelio",
+    "last_name": "Bernal Esponda",
+    "rating": 8.4615,
+    "num_ratings": 26
+  },
+  {
+    "code": "1790",
+    "group": "12",
+    "professor": "ANGEL JULIAN AVILA AGUILAR",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1
+        ],
+        "classroom": "A103"
+      }
+    ],
+    "professor_id": 189921,
+    "first_name": "Angel Julian",
+    "last_name": "Avila Aguilar",
+    "rating": 9.0,
     "num_ratings": 2
   }
 ]

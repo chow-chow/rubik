@@ -10,14 +10,34 @@
           2,
           4
         ],
-        "classroom": "23"
+        "classroom": "O102"
       }
     ],
     "professor_id": 124462,
     "first_name": "ROGELIO DARIO",
     "last_name": "GUTIERREZ",
-    "rating": 5.4444,
-    "num_ratings": 18
+    "rating": 5.2632,
+    "num_ratings": 19
+  },
+  {
+    "code": "2806",
+    "group": "4",
+    "professor": "EMILIANO ANGUIANO ROJAS",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "O103"
+      }
+    ],
+    "professor_id": 42619,
+    "first_name": "Emiliano",
+    "last_name": "Anguiano Rojas",
+    "rating": 4.0,
+    "num_ratings": 35
   },
   {
     "code": "2806",
@@ -30,7 +50,7 @@
           2,
           4
         ],
-        "classroom": "25"
+        "classroom": "B105"
       }
     ],
     "professor_id": 74731,
@@ -50,7 +70,7 @@
           2,
           4
         ],
-        "classroom": "26"
+        "classroom": "D003"
       }
     ],
     "professor_id": 108443,
@@ -58,25 +78,5 @@
     "last_name": "Silva Rico",
     "rating": 9.4,
     "num_ratings": 5
-  },
-  {
-    "code": "2806",
-    "group": "4",
-    "professor": "EMILIANO ANGUIANO ROJAS",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "26"
-      }
-    ],
-    "professor_id": 42619,
-    "first_name": "Emiliano",
-    "last_name": "Anguiano Rojas",
-    "rating": 4.0,
-    "num_ratings": 35
   }
 ]

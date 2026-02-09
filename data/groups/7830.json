@@ -9,7 +9,7 @@
         "days": [
           1
         ],
-        "classroom": "8"
+        "classroom": "Q307"
       }
     ],
     "professor_id": 134945,
@@ -17,44 +17,6 @@
     "last_name": "Souza Rodríguez",
     "rating": 8.625,
     "num_ratings": 8
-  },
-  {
-    "code": "7830",
-    "group": "2",
-    "professor": "MONICA LOPEZ COYOTE",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          1
-        ],
-        "classroom": "8"
-      }
-    ],
-    "professor_id": 82398,
-    "first_name": "Monica",
-    "last_name": "López coyote",
-    "rating": 7.25,
-    "num_ratings": 69
-  },
-  {
-    "code": "7830",
-    "group": "3",
-    "professor": "CHRISTIAN HERNANDEZ SANTIAGO",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          2
-        ],
-        "classroom": "8"
-      }
-    ],
-    "professor_id": 94393,
-    "first_name": "CHRISTIAN",
-    "last_name": "HERNANDEZ SANTIAGO",
-    "rating": 9.3125,
-    "num_ratings": 16
   },
   {
     "code": "7830",
@@ -66,7 +28,7 @@
         "days": [
           3
         ],
-        "classroom": "8"
+        "classroom": "Q307"
       }
     ],
     "professor_id": 94393,
@@ -85,14 +47,71 @@
         "days": [
           3
         ],
-        "classroom": "8"
+        "classroom": "Q307"
       }
     ],
     "professor_id": 82398,
     "first_name": "Monica",
     "last_name": "López coyote",
     "rating": 7.25,
-    "num_ratings": 69
+    "num_ratings": 71
+  },
+  {
+    "code": "7830",
+    "group": "10",
+    "professor": "MONICA LOPEZ COYOTE",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          5
+        ],
+        "classroom": "Q307"
+      }
+    ],
+    "professor_id": 82398,
+    "first_name": "Monica",
+    "last_name": "López coyote",
+    "rating": 7.25,
+    "num_ratings": 71
+  },
+  {
+    "code": "7830",
+    "group": "2",
+    "professor": "MONICA LOPEZ COYOTE",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1
+        ],
+        "classroom": "Q307"
+      }
+    ],
+    "professor_id": 82398,
+    "first_name": "Monica",
+    "last_name": "López coyote",
+    "rating": 7.25,
+    "num_ratings": 71
+  },
+  {
+    "code": "7830",
+    "group": "3",
+    "professor": "CHRISTIAN HERNANDEZ SANTIAGO",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2
+        ],
+        "classroom": "Q307"
+      }
+    ],
+    "professor_id": 94393,
+    "first_name": "CHRISTIAN",
+    "last_name": "HERNANDEZ SANTIAGO",
+    "rating": 9.3125,
+    "num_ratings": 16
   },
   {
     "code": "7830",
@@ -104,7 +123,7 @@
         "days": [
           4
         ],
-        "classroom": "8"
+        "classroom": "Q307"
       }
     ],
     "professor_id": 94393,
@@ -123,7 +142,7 @@
         "days": [
           4
         ],
-        "classroom": "8"
+        "classroom": "Q307"
       }
     ],
     "professor_id": 94393,
@@ -142,7 +161,7 @@
         "days": [
           5
         ],
-        "classroom": "8"
+        "classroom": "Q307"
       }
     ],
     "professor_id": 134945,
@@ -161,33 +180,14 @@
         "days": [
           5
         ],
-        "classroom": "8"
+        "classroom": "Q307"
       }
     ],
     "professor_id": 82398,
     "first_name": "Monica",
     "last_name": "López coyote",
     "rating": 7.25,
-    "num_ratings": 69
-  },
-  {
-    "code": "7830",
-    "group": "10",
-    "professor": "MONICA LOPEZ COYOTE",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          5
-        ],
-        "classroom": "8"
-      }
-    ],
-    "professor_id": 82398,
-    "first_name": "Monica",
-    "last_name": "López coyote",
-    "rating": 7.25,
-    "num_ratings": 69
+    "num_ratings": 71
   },
   {
     "code": "7830",
@@ -199,14 +199,14 @@
         "days": [
           5
         ],
-        "classroom": "8"
+        "classroom": "Q307"
       }
     ],
     "professor_id": 82398,
     "first_name": "Monica",
     "last_name": "López coyote",
     "rating": 7.25,
-    "num_ratings": 69
+    "num_ratings": 71
   },
   {
     "code": "7830",
@@ -218,7 +218,7 @@
         "days": [
           5
         ],
-        "classroom": "8"
+        "classroom": "Q307"
       }
     ],
     "professor_id": 94393,

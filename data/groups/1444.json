@@ -1,8 +1,58 @@
 [
   {
     "code": "1444",
+    "group": "4",
+    "professor": "JESUS HUGO MEZA PUESTO",
+    "schedules": [
+      {
+        "time": "16:00-17:30",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A304"
+      }
+    ]
+  },
+  {
+    "code": "1444",
+    "group": "6",
+    "professor": "JESUS HUGO MEZA PUESTO",
+    "schedules": [
+      {
+        "time": "14:30-16:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "A308"
+      }
+    ]
+  },
+  {
+    "code": "1444",
+    "group": "7",
+    "professor": "HERIBERTO ESQUIVEL CASTELLANOS",
+    "schedules": [
+      {
+        "time": "14:30-16:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "A307"
+      }
+    ],
+    "professor_id": 21650,
+    "first_name": "heriberto",
+    "last_name": "esquivel castellanos",
+    "rating": 7.175,
+    "num_ratings": 40
+  },
+  {
+    "code": "1444",
     "group": "1",
-    "professor": "ALVARO ORTIZ FERNANDEZ",
+    "professor": "ALVARO JORGE ORTIZ FERNANDEZ",
     "schedules": [
       {
         "time": "10:00-11:30",
@@ -10,7 +60,7 @@
           2,
           4
         ],
-        "classroom": "35"
+        "classroom": "A207"
       }
     ],
     "professor_id": 78273,
@@ -30,14 +80,14 @@
           2,
           4
         ],
-        "classroom": "35"
+        "classroom": "A204"
       }
     ],
     "professor_id": 172599,
     "first_name": "ALEJANDRO",
     "last_name": "PONCE SERRANO",
-    "rating": 2.75,
-    "num_ratings": 4
+    "rating": 2.6,
+    "num_ratings": 5
   },
   {
     "code": "1444",
@@ -50,7 +100,7 @@
           2,
           4
         ],
-        "classroom": "35"
+        "classroom": "Y104"
       }
     ],
     "professor_id": 71649,
@@ -58,21 +108,6 @@
     "last_name": "Trejo Hernández",
     "rating": 5.5,
     "num_ratings": 14
-  },
-  {
-    "code": "1444",
-    "group": "4",
-    "professor": "JESUS HUGO MEZA PUESTO",
-    "schedules": [
-      {
-        "time": "16:00-17:30",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "10"
-      }
-    ]
   },
   {
     "code": "1444",
@@ -85,44 +120,9 @@
           2,
           4
         ],
-        "classroom": "35"
+        "classroom": "Y205"
       }
     ]
-  },
-  {
-    "code": "1444",
-    "group": "6",
-    "professor": "JESUS HUGO MEZA PUESTO",
-    "schedules": [
-      {
-        "time": "14:30-16:00",
-        "days": [
-          3,
-          5
-        ],
-        "classroom": "10"
-      }
-    ]
-  },
-  {
-    "code": "1444",
-    "group": "7",
-    "professor": "HERIBERTO ESQUIVEL CASTELLANOS",
-    "schedules": [
-      {
-        "time": "14:30-16:00",
-        "days": [
-          3,
-          5
-        ],
-        "classroom": "35"
-      }
-    ],
-    "professor_id": 21650,
-    "first_name": "heriberto",
-    "last_name": "esquivel castellanos",
-    "rating": 7.175,
-    "num_ratings": 40
   },
   {
     "code": "1444",
@@ -134,7 +134,7 @@
         "days": [
           6
         ],
-        "classroom": "35"
+        "classroom": "A212"
       }
     ]
   },
@@ -148,7 +148,7 @@
         "days": [
           6
         ],
-        "classroom": "25"
+        "classroom": "A303"
       }
     ]
   }

@@ -1,6 +1,25 @@
 [
   {
     "code": "5422",
+    "group": "10",
+    "professor": "RICARDO GARIBAY JIMENEZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          4
+        ],
+        "classroom": "P001"
+      }
+    ],
+    "professor_id": 109852,
+    "first_name": "Ricardo",
+    "last_name": "Garibay Jiménez",
+    "rating": 4.2,
+    "num_ratings": 10
+  },
+  {
+    "code": "5422",
     "group": "3",
     "professor": "GLORIA CORREA PALACIOS",
     "schedules": [
@@ -9,7 +28,7 @@
         "days": [
           2
         ],
-        "classroom": "16"
+        "classroom": "P001"
       }
     ],
     "professor_id": 112607,
@@ -28,7 +47,7 @@
         "days": [
           5
         ],
-        "classroom": "16"
+        "classroom": "P001"
       }
     ]
   },
@@ -42,7 +61,7 @@
         "days": [
           6
         ],
-        "classroom": "16"
+        "classroom": "P001"
       }
     ]
   },
@@ -56,7 +75,7 @@
         "days": [
           4
         ],
-        "classroom": "16"
+        "classroom": "P001"
       }
     ]
   },
@@ -70,7 +89,7 @@
         "days": [
           4
         ],
-        "classroom": "16"
+        "classroom": "P001"
       }
     ]
   },
@@ -84,7 +103,7 @@
         "days": [
           4
         ],
-        "classroom": "16"
+        "classroom": "P001"
       }
     ]
   },
@@ -98,27 +117,8 @@
         "days": [
           5
         ],
-        "classroom": "16"
+        "classroom": "P001"
       }
     ]
-  },
-  {
-    "code": "5422",
-    "group": "10",
-    "professor": "RICARDO GARIBAY JIMENEZ",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          4
-        ],
-        "classroom": "16"
-      }
-    ],
-    "professor_id": 109852,
-    "first_name": "Ricardo",
-    "last_name": "Garibay Jiménez",
-    "rating": 4.2,
-    "num_ratings": 10
   }
 ]

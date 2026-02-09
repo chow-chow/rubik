@@ -1,25 +1,6 @@
 [
   {
     "code": "2957",
-    "group": "2",
-    "professor": "EDUARDO DANIEL GUERRERO RAMIREZ",
-    "schedules": [
-      {
-        "time": "07:00-10:00",
-        "days": [
-          5
-        ],
-        "classroom": "15"
-      }
-    ],
-    "professor_id": 149937,
-    "first_name": "EDUARDO DANIEL",
-    "last_name": "GUERRERO RAMIREZ",
-    "rating": 6.4,
-    "num_ratings": 5
-  },
-  {
-    "code": "2957",
     "group": "3",
     "professor": "JORGE ALBERTO RODRIGUEZ CAMPOS",
     "schedules": [
@@ -28,7 +9,7 @@
         "days": [
           5
         ],
-        "classroom": "15"
+        "classroom": "A107"
       }
     ],
     "professor_id": 108516,
@@ -36,25 +17,6 @@
     "last_name": "Rodríguez Campos",
     "rating": 8.4643,
     "num_ratings": 56
-  },
-  {
-    "code": "2957",
-    "group": "4",
-    "professor": "HEIDDY ALEJANDRA PASTEN LUGO",
-    "schedules": [
-      {
-        "time": "07:00-10:00",
-        "days": [
-          6
-        ],
-        "classroom": "15"
-      }
-    ],
-    "professor_id": 109156,
-    "first_name": "Heiddy Alejandra",
-    "last_name": "Pasten Lugo",
-    "rating": 8.7143,
-    "num_ratings": 28
   },
   {
     "code": "2957",
@@ -66,7 +28,7 @@
         "days": [
           6
         ],
-        "classroom": "15"
+        "classroom": "B402"
       }
     ]
   },
@@ -80,8 +42,53 @@
         "days": [
           2
         ],
-        "classroom": "0"
+        "classroom": "T102"
+      },
+      {
+        "time": "13:00-14:30",
+        "days": [
+          4
+        ],
+        "classroom": "Q208"
       }
     ]
+  },
+  {
+    "code": "2957",
+    "group": "2",
+    "professor": "EDUARDO DANIEL GUERRERO RAMIREZ",
+    "schedules": [
+      {
+        "time": "07:00-10:00",
+        "days": [
+          5
+        ],
+        "classroom": "B402"
+      }
+    ],
+    "professor_id": 149937,
+    "first_name": "EDUARDO DANIEL",
+    "last_name": "GUERRERO RAMIREZ",
+    "rating": 6.4,
+    "num_ratings": 5
+  },
+  {
+    "code": "2957",
+    "group": "4",
+    "professor": "HEIDDY ALEJANDRA PASTEN LUGO",
+    "schedules": [
+      {
+        "time": "07:00-10:00",
+        "days": [
+          6
+        ],
+        "classroom": "B204"
+      }
+    ],
+    "professor_id": 109156,
+    "first_name": "Heiddy Alejandra",
+    "last_name": "Pasten Lugo",
+    "rating": 8.7143,
+    "num_ratings": 28
   }
 ]

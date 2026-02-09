@@ -10,7 +10,7 @@
           2,
           4
         ],
-        "classroom": "48"
+        "classroom": "I103"
       }
     ],
     "professor_id": 32242,
@@ -27,9 +27,16 @@
       {
         "time": "11:00-13:00",
         "days": [
+          3
+        ],
+        "classroom": "I101"
+      },
+      {
+        "time": "11:00-13:00",
+        "days": [
           5
         ],
-        "classroom": "48"
+        "classroom": "I102"
       }
     ]
   },
@@ -44,7 +51,7 @@
           2,
           4
         ],
-        "classroom": "48"
+        "classroom": "J209"
       }
     ],
     "professor_id": 49393,

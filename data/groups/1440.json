@@ -11,7 +11,7 @@
           3,
           5
         ],
-        "classroom": "26"
+        "classroom": "J001"
       }
     ],
     "professor_id": 189661,
@@ -32,7 +32,7 @@
           3,
           5
         ],
-        "classroom": "26"
+        "classroom": "J001"
       }
     ],
     "professor_id": 189661,
@@ -40,27 +40,6 @@
     "last_name": "Sanchez Gonzalez",
     "rating": 9.0,
     "num_ratings": 6
-  },
-  {
-    "code": "1440",
-    "group": "3",
-    "professor": "PAOLA JUDITH VILLA MANCILLA",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          1,
-          3,
-          5
-        ],
-        "classroom": "26"
-      }
-    ],
-    "professor_id": 90876,
-    "first_name": "Paola Judith",
-    "last_name": "Villa Mancilla",
-    "rating": 7.3077,
-    "num_ratings": 13
   },
   {
     "code": "1440",
@@ -72,7 +51,7 @@
         "days": [
           6
         ],
-        "classroom": "26"
+        "classroom": "C401"
       }
     ],
     "professor_id": 90860,
@@ -93,8 +72,29 @@
           3,
           5
         ],
-        "classroom": "20"
+        "classroom": "C105"
       }
     ]
+  },
+  {
+    "code": "1440",
+    "group": "3",
+    "professor": "PAOLA JUDITH VILLA MANCILLA",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "C301"
+      }
+    ],
+    "professor_id": 90876,
+    "first_name": "Paola Judith",
+    "last_name": "Villa Mancilla",
+    "rating": 7.3077,
+    "num_ratings": 13
   }
 ]

@@ -10,7 +10,7 @@
           2,
           4
         ],
-        "classroom": "30"
+        "classroom": "Y204"
       }
     ]
   },
@@ -25,7 +25,7 @@
           2,
           4
         ],
-        "classroom": "30"
+        "classroom": "EXTR"
       }
     ]
   },
@@ -37,10 +37,16 @@
       {
         "time": "11:30-13:00",
         "days": [
-          2,
           4
         ],
-        "classroom": "30"
+        "classroom": "U303"
+      },
+      {
+        "time": "11:30-13:00",
+        "days": [
+          2
+        ],
+        "classroom": "Y204"
       }
     ],
     "professor_id": 105090,

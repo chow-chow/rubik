@@ -1,6 +1,20 @@
 [
   {
     "code": "2096",
+    "group": "3",
+    "professor": "Grupo cancelado, contactar a la División.",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1
+        ],
+        "classroom": "EXTR"
+      }
+    ]
+  },
+  {
+    "code": "2096",
     "group": "1",
     "professor": "ARMANDO ERNESTO ALATORRE CAMPOS",
     "schedules": [
@@ -10,7 +24,7 @@
           2,
           4
         ],
-        "classroom": "5"
+        "classroom": "C303"
       }
     ],
     "professor_id": 90935,
@@ -30,21 +44,7 @@
           2,
           4
         ],
-        "classroom": "5"
-      }
-    ]
-  },
-  {
-    "code": "2096",
-    "group": "3",
-    "professor": "OSCAR AGESANDRO GARCIA ARRIOLA",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          1
-        ],
-        "classroom": "5"
+        "classroom": "C302"
       }
     ]
   },
@@ -59,7 +59,7 @@
           2,
           4
         ],
-        "classroom": "5"
+        "classroom": "C106"
       }
     ]
   }

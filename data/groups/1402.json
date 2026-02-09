@@ -1,6 +1,78 @@
 [
   {
     "code": "1402",
+    "group": "3",
+    "professor": "JOSE LUIS SALINAS ESTEVEZ",
+    "schedules": [
+      {
+        "time": "14:30-16:00",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "A207"
+      }
+    ]
+  },
+  {
+    "code": "1402",
+    "group": "4",
+    "professor": "LILIA REYES CHAVEZ",
+    "schedules": [
+      {
+        "time": "16:00-17:30",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "A204"
+      }
+    ],
+    "professor_id": 92973,
+    "first_name": "Lilia",
+    "last_name": "Reyes",
+    "rating": 5.2593,
+    "num_ratings": 27
+  },
+  {
+    "code": "1402",
+    "group": "5",
+    "professor": "NIKTE NORMA OCAMPO GUERRERO",
+    "schedules": [
+      {
+        "time": "16:00-18:15",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A212"
+      }
+    ],
+    "professor_id": 95094,
+    "first_name": "Nikte",
+    "last_name": "Ocampo Guerrero",
+    "rating": 8.3016,
+    "num_ratings": 63
+  },
+  {
+    "code": "1402",
+    "group": "6",
+    "professor": "GERARDO RUIZ SOLORIO",
+    "schedules": [
+      {
+        "time": "18:15-20:30",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A209"
+      }
+    ]
+  },
+  {
+    "code": "1402",
     "group": "1",
     "professor": "AMALIA ADRIANA CAFAGGI FELIX",
     "schedules": [
@@ -11,7 +83,7 @@
           3,
           5
         ],
-        "classroom": "25"
+        "classroom": "A307"
       }
     ],
     "professor_id": 175830,
@@ -32,85 +104,13 @@
           3,
           5
         ],
-        "classroom": "25"
+        "classroom": "A207"
       }
     ],
     "professor_id": 135259,
     "first_name": "Jesús",
     "last_name": "Gallegos Silva",
-    "rating": 6.5,
-    "num_ratings": 4
-  },
-  {
-    "code": "1402",
-    "group": "3",
-    "professor": "JOSE LUIS SALINAS ESTEVEZ",
-    "schedules": [
-      {
-        "time": "14:30-16:00",
-        "days": [
-          1,
-          3,
-          5
-        ],
-        "classroom": "25"
-      }
-    ]
-  },
-  {
-    "code": "1402",
-    "group": "4",
-    "professor": "LILIA REYES CHAVEZ",
-    "schedules": [
-      {
-        "time": "16:00-17:30",
-        "days": [
-          1,
-          3,
-          5
-        ],
-        "classroom": "25"
-      }
-    ],
-    "professor_id": 92973,
-    "first_name": "Lilia",
-    "last_name": "Reyes",
-    "rating": 5.3846,
-    "num_ratings": 26
-  },
-  {
-    "code": "1402",
-    "group": "5",
-    "professor": "NIKTE NORMA OCAMPO GUERRERO",
-    "schedules": [
-      {
-        "time": "16:00-18:15",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "25"
-      }
-    ],
-    "professor_id": 95094,
-    "first_name": "Nikte",
-    "last_name": "Ocampo Guerrero",
-    "rating": 8.3016,
-    "num_ratings": 63
-  },
-  {
-    "code": "1402",
-    "group": "6",
-    "professor": "GERARDO RUIZ SOLORIO",
-    "schedules": [
-      {
-        "time": "18:15-20:30",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "25"
-      }
-    ]
+    "rating": 6.6,
+    "num_ratings": 5
   }
 ]

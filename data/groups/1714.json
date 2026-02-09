@@ -1,27 +1,6 @@
 [
   {
     "code": "1714",
-    "group": "1",
-    "professor": "DANIEL MEJIA LOERA",
-    "schedules": [
-      {
-        "time": "11:30-13:00",
-        "days": [
-          1,
-          3,
-          5
-        ],
-        "classroom": "25"
-      }
-    ],
-    "professor_id": 181437,
-    "first_name": "M.I. DANIEL",
-    "last_name": "MEJIA LOERA",
-    "rating": 9.0,
-    "num_ratings": 5
-  },
-  {
-    "code": "1714",
     "group": "2",
     "professor": "HECTOR ALFREDO LEGORRETA CUEVAS",
     "schedules": [
@@ -32,7 +11,7 @@
           3,
           5
         ],
-        "classroom": "25"
+        "classroom": "R001"
       }
     ]
   },
@@ -48,49 +27,14 @@
           3,
           5
         ],
-        "classroom": "25"
+        "classroom": "A208"
       }
     ]
-  },
-  {
-    "code": "1714",
-    "group": "4",
-    "professor": "MIGUEL GALLARDO CONTRERAS",
-    "schedules": [
-      {
-        "time": "07:00-09:15",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "25"
-      }
-    ]
-  },
-  {
-    "code": "1714",
-    "group": "5",
-    "professor": "DANIEL MEJIA LOERA",
-    "schedules": [
-      {
-        "time": "13:00-15:15",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "25"
-      }
-    ],
-    "professor_id": 181437,
-    "first_name": "M.I. DANIEL",
-    "last_name": "MEJIA LOERA",
-    "rating": 9.0,
-    "num_ratings": 5
   },
   {
     "code": "1714",
     "group": "6",
-    "professor": "PROFESOR POR ASIGNAR",
+    "professor": "MAURICIO PEREZ DIAZ",
     "schedules": [
       {
         "time": "16:00-18:15",
@@ -98,7 +42,7 @@
           2,
           4
         ],
-        "classroom": "25"
+        "classroom": "A308"
       }
     ]
   },
@@ -113,8 +57,64 @@
           2,
           4
         ],
-        "classroom": "25"
+        "classroom": "Y104"
       }
     ]
+  },
+  {
+    "code": "1714",
+    "group": "1",
+    "professor": "DANIEL MEJIA LOERA",
+    "schedules": [
+      {
+        "time": "11:30-13:00",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "U305"
+      }
+    ],
+    "professor_id": 181437,
+    "first_name": "M.I. DANIEL",
+    "last_name": "MEJIA LOERA",
+    "rating": 9.0,
+    "num_ratings": 5
+  },
+  {
+    "code": "1714",
+    "group": "4",
+    "professor": "MIGUEL GALLARDO CONTRERAS",
+    "schedules": [
+      {
+        "time": "07:00-09:15",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "SIN"
+      }
+    ]
+  },
+  {
+    "code": "1714",
+    "group": "5",
+    "professor": "DANIEL MEJIA LOERA",
+    "schedules": [
+      {
+        "time": "13:00-15:15",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "DS02"
+      }
+    ],
+    "professor_id": 181437,
+    "first_name": "M.I. DANIEL",
+    "last_name": "MEJIA LOERA",
+    "rating": 9.0,
+    "num_ratings": 5
   }
 ]

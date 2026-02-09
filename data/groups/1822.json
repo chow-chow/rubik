@@ -10,29 +10,14 @@
           1,
           3
         ],
-        "classroom": "35"
+        "classroom": "B305"
       }
     ],
     "professor_id": 104675,
     "first_name": "LAURO",
     "last_name": "SANTIAGO CRUZ",
-    "rating": 5.4634,
-    "num_ratings": 41
-  },
-  {
-    "code": "1822",
-    "group": "2",
-    "professor": "SALVADOR EMILIO SIERRA BENAVIDEZ",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "30"
-      }
-    ]
+    "rating": 5.4524,
+    "num_ratings": 42
   },
   {
     "code": "1822",
@@ -45,7 +30,7 @@
           1,
           3
         ],
-        "classroom": "25"
+        "classroom": "B101"
       }
     ],
     "professor_id": 95201,
@@ -65,7 +50,7 @@
           2,
           4
         ],
-        "classroom": "30"
+        "classroom": "B408"
       }
     ],
     "professor_id": 86746,
@@ -73,6 +58,21 @@
     "last_name": "Díaz Nacar",
     "rating": 7.7895,
     "num_ratings": 19
+  },
+  {
+    "code": "1822",
+    "group": "2",
+    "professor": "SALVADOR EMILIO SIERRA BENAVIDEZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "DS01"
+      }
+    ]
   },
   {
     "code": "1822",
@@ -85,7 +85,7 @@
           2,
           4
         ],
-        "classroom": "30"
+        "classroom": "B401"
       }
     ],
     "professor_id": 95694,

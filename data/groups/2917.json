@@ -1,25 +1,6 @@
 [
   {
     "code": "2917",
-    "group": "1",
-    "professor": "VERONICA OLVERA RODRIGUEZ",
-    "schedules": [
-      {
-        "time": "11:00-15:00",
-        "days": [
-          2
-        ],
-        "classroom": "10"
-      }
-    ],
-    "professor_id": 178387,
-    "first_name": "Veronica",
-    "last_name": "Olvera Rodriguez",
-    "rating": 9.375,
-    "num_ratings": 8
-  },
-  {
-    "code": "2917",
     "group": "2",
     "professor": "ESTHER SEGURA PEREZ",
     "schedules": [
@@ -28,28 +9,9 @@
         "days": [
           5
         ],
-        "classroom": "10"
+        "classroom": "EXTR"
       }
     ]
-  },
-  {
-    "code": "2917",
-    "group": "3",
-    "professor": "SUSANA CASY TELLEZ BALLESTEROS",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          2
-        ],
-        "classroom": "10"
-      }
-    ],
-    "professor_id": 120294,
-    "first_name": "Susana Casy",
-    "last_name": "Tellez Ballesteros",
-    "rating": 9.4286,
-    "num_ratings": 7
   },
   {
     "code": "2917",
@@ -61,7 +23,7 @@
         "days": [
           1
         ],
-        "classroom": "10"
+        "classroom": "EXTR"
       }
     ]
   },
@@ -75,7 +37,7 @@
         "days": [
           5
         ],
-        "classroom": "10"
+        "classroom": "EXTR"
       }
     ]
   },
@@ -90,28 +52,9 @@
           4,
           5
         ],
-        "classroom": "10"
+        "classroom": "EXTR"
       }
     ]
-  },
-  {
-    "code": "2917",
-    "group": "7",
-    "professor": "VICTOR HUGO TORRES AGUILAR",
-    "schedules": [
-      {
-        "time": "17:00-21:00",
-        "days": [
-          5
-        ],
-        "classroom": "10"
-      }
-    ],
-    "professor_id": 141771,
-    "first_name": "Victor Hugo",
-    "last_name": "Torres Aguilar",
-    "rating": 6.8462,
-    "num_ratings": 13
   },
   {
     "code": "2917",
@@ -123,7 +66,7 @@
         "days": [
           1
         ],
-        "classroom": "10"
+        "classroom": "EXTR"
       }
     ],
     "professor_id": 142293,
@@ -131,25 +74,6 @@
     "last_name": "Torres Mendoza",
     "rating": 9.2,
     "num_ratings": 5
-  },
-  {
-    "code": "2917",
-    "group": "9",
-    "professor": "DIEGO ALBERTO NIETO FIERRO",
-    "schedules": [
-      {
-        "time": "18:00-22:00",
-        "days": [
-          5
-        ],
-        "classroom": "5"
-      }
-    ],
-    "professor_id": 84656,
-    "first_name": "Diego",
-    "last_name": "Nieto Fierro",
-    "rating": 9.8333,
-    "num_ratings": 6
   },
   {
     "code": "2917",
@@ -161,7 +85,7 @@
         "days": [
           4
         ],
-        "classroom": "10"
+        "classroom": "EXTR"
       }
     ]
   },
@@ -175,7 +99,7 @@
         "days": [
           2
         ],
-        "classroom": "10"
+        "classroom": "EXTR"
       }
     ],
     "professor_id": 84733,
@@ -183,25 +107,6 @@
     "last_name": "Gomez Gallardo",
     "rating": 6.1667,
     "num_ratings": 12
-  },
-  {
-    "code": "2917",
-    "group": "12",
-    "professor": "SILVINA HERNANDEZ GARCIA",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          2
-        ],
-        "classroom": "10"
-      }
-    ],
-    "professor_id": 98611,
-    "first_name": "Silvina",
-    "last_name": "Hernández García",
-    "rating": 6.7143,
-    "num_ratings": 7
   },
   {
     "code": "2917",
@@ -213,7 +118,7 @@
         "days": [
           1
         ],
-        "classroom": "10"
+        "classroom": "EXTR"
       }
     ]
   },
@@ -227,13 +132,108 @@
         "days": [
           1
         ],
-        "classroom": "10"
+        "classroom": "EXTR"
       }
     ],
     "professor_id": 56349,
     "first_name": "Heriberto",
     "last_name": "García Ledezma",
-    "rating": 7.23,
-    "num_ratings": 39
+    "rating": 7.2,
+    "num_ratings": 40
+  },
+  {
+    "code": "2917",
+    "group": "1",
+    "professor": "VERONICA OLVERA RODRIGUEZ",
+    "schedules": [
+      {
+        "time": "11:00-15:00",
+        "days": [
+          2
+        ],
+        "classroom": "EXTR"
+      }
+    ],
+    "professor_id": 178387,
+    "first_name": "Veronica",
+    "last_name": "Olvera Rodriguez",
+    "rating": 9.375,
+    "num_ratings": 8
+  },
+  {
+    "code": "2917",
+    "group": "3",
+    "professor": "SUSANA CASY TELLEZ BALLESTEROS",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2
+        ],
+        "classroom": "EXTR"
+      }
+    ],
+    "professor_id": 120294,
+    "first_name": "Susana Casy",
+    "last_name": "Tellez Ballesteros",
+    "rating": 9.4286,
+    "num_ratings": 7
+  },
+  {
+    "code": "2917",
+    "group": "7",
+    "professor": "VICTOR HUGO TORRES AGUILAR",
+    "schedules": [
+      {
+        "time": "17:00-21:00",
+        "days": [
+          5
+        ],
+        "classroom": "EXTR"
+      }
+    ],
+    "professor_id": 141771,
+    "first_name": "Victor Hugo",
+    "last_name": "Torres Aguilar",
+    "rating": 6.9286,
+    "num_ratings": 14
+  },
+  {
+    "code": "2917",
+    "group": "9",
+    "professor": "DIEGO ALBERTO NIETO FIERRO",
+    "schedules": [
+      {
+        "time": "18:00-22:00",
+        "days": [
+          5
+        ],
+        "classroom": "EXTR"
+      }
+    ],
+    "professor_id": 84656,
+    "first_name": "Diego",
+    "last_name": "Nieto Fierro",
+    "rating": 9.8333,
+    "num_ratings": 6
+  },
+  {
+    "code": "2917",
+    "group": "12",
+    "professor": "SILVINA HERNANDEZ GARCIA",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2
+        ],
+        "classroom": "EXTR"
+      }
+    ],
+    "professor_id": 98611,
+    "first_name": "Silvina",
+    "last_name": "Hernández García",
+    "rating": 6.7143,
+    "num_ratings": 7
   }
 ]

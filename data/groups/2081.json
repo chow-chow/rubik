@@ -10,14 +10,14 @@
           1,
           3
         ],
-        "classroom": "45"
+        "classroom": "Y103"
       }
     ]
   },
   {
     "code": "2081",
     "group": "3",
-    "professor": "LUIS GUILLERMO UCHA GÓMEZ",
+    "professor": "LUIS GUILLERMO UCHA GOMEZ",
     "schedules": [
       {
         "time": "17:00-19:00",
@@ -25,14 +25,19 @@
           2,
           3
         ],
-        "classroom": "47"
+        "classroom": "D008"
       }
-    ]
+    ],
+    "professor_id": 134930,
+    "first_name": "Luis Guillermo",
+    "last_name": "Ucha Gomez",
+    "rating": 8.1667,
+    "num_ratings": 6
   },
   {
     "code": "2081",
     "group": "4",
-    "professor": "LEONARDO CRUZ ESPINOSA",
+    "professor": "LEONARDO CRUZ ESPINOZA",
     "schedules": [
       {
         "time": "15:00-17:00",
@@ -40,7 +45,7 @@
           2,
           4
         ],
-        "classroom": "47"
+        "classroom": "D009"
       }
     ]
   }

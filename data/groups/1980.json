@@ -10,7 +10,7 @@
           2,
           4
         ],
-        "classroom": "23"
+        "classroom": "A205"
       }
     ]
   },
@@ -25,7 +25,7 @@
           2,
           4
         ],
-        "classroom": "23"
+        "classroom": "C402"
       }
     ],
     "professor_id": 64701,
@@ -37,14 +37,14 @@
   {
     "code": "1980",
     "group": "3",
-    "professor": "SANDRA ISABEL PÉREZ HERNÁNDEZ",
+    "professor": "SANDRA ISABEL PEREZ HERNANDEZ",
     "schedules": [
       {
         "time": "07:00-09:00",
         "days": [
           3
         ],
-        "classroom": "23"
+        "classroom": "C105"
       }
     ]
   }

@@ -1,21 +1,6 @@
 [
   {
     "code": "1521",
-    "group": "1",
-    "professor": "FERMIN MAYA ROMERO",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          3,
-          5
-        ],
-        "classroom": "30"
-      }
-    ]
-  },
-  {
-    "code": "1521",
     "group": "2",
     "professor": "JUAN ARMANDO ORTIZ VALERA",
     "schedules": [
@@ -25,7 +10,7 @@
           1,
           3
         ],
-        "classroom": "30"
+        "classroom": "D003"
       }
     ],
     "professor_id": 84383,
@@ -33,26 +18,6 @@
     "last_name": "Ortiz Valera",
     "rating": 6.7273,
     "num_ratings": 33
-  },
-  {
-    "code": "1521",
-    "group": "3",
-    "professor": "RUBEN AVILA RODRIGUEZ",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "30"
-      }
-    ],
-    "professor_id": 74732,
-    "first_name": "Rubén",
-    "last_name": "Ávila Rodríguez",
-    "rating": 6.2593,
-    "num_ratings": 27
   },
   {
     "code": "1521",
@@ -65,14 +30,14 @@
           2,
           4
         ],
-        "classroom": "30"
+        "classroom": "B105"
       }
     ],
     "professor_id": 62499,
     "first_name": "Marco Antonio",
     "last_name": "Reyes Huesca",
-    "rating": 7.6176,
-    "num_ratings": 34
+    "rating": 7.6286,
+    "num_ratings": 35
   },
   {
     "code": "1521",
@@ -85,7 +50,7 @@
           1,
           3
         ],
-        "classroom": "30"
+        "classroom": "D003"
       }
     ],
     "professor_id": 34837,
@@ -93,5 +58,40 @@
     "last_name": "Ortiz Prado",
     "rating": 5.8333,
     "num_ratings": 12
+  },
+  {
+    "code": "1521",
+    "group": "1",
+    "professor": "FERMIN MAYA ROMERO",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "D003"
+      }
+    ]
+  },
+  {
+    "code": "1521",
+    "group": "3",
+    "professor": "RUBEN AVILA RODRIGUEZ",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "D001"
+      }
+    ],
+    "professor_id": 74732,
+    "first_name": "Rubén",
+    "last_name": "Ávila Rodríguez",
+    "rating": 6.2593,
+    "num_ratings": 27
   }
 ]

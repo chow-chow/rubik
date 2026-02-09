@@ -2,7 +2,7 @@
   {
     "code": "2011",
     "group": "1",
-    "professor": "LUIS GUILLERMO UCHA GÓMEZ",
+    "professor": "LUIS GUILLERMO UCHA GOMEZ",
     "schedules": [
       {
         "time": "19:00-21:00",
@@ -10,8 +10,13 @@
           2,
           3
         ],
-        "classroom": "40"
+        "classroom": "B406"
       }
-    ]
+    ],
+    "professor_id": 134930,
+    "first_name": "Luis Guillermo",
+    "last_name": "Ucha Gomez",
+    "rating": 8.1667,
+    "num_ratings": 6
   }
 ]

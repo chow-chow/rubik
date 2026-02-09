@@ -9,7 +9,7 @@
         "days": [
           4
         ],
-        "classroom": "6"
+        "classroom": "P215"
       }
     ],
     "professor_id": 95190,
@@ -28,7 +28,7 @@
         "days": [
           5
         ],
-        "classroom": "6"
+        "classroom": "P215"
       }
     ],
     "professor_id": 95190,
@@ -36,5 +36,19 @@
     "last_name": "Velasco Miranda",
     "rating": 8.8333,
     "num_ratings": 12
+  },
+  {
+    "code": "6463",
+    "group": "3",
+    "professor": "EDUARDO HERNANDEZ ROMERO",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          3
+        ],
+        "classroom": "P215"
+      }
+    ]
   }
 ]

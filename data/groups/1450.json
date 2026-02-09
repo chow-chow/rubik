@@ -1,25 +1,6 @@
 [
   {
     "code": "1450",
-    "group": "1",
-    "professor": "ANTONIA DEL CARMEN PEREZ LEON",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          4
-        ],
-        "classroom": "35"
-      }
-    ],
-    "professor_id": 58911,
-    "first_name": "Antonia del Carmen",
-    "last_name": "Perez Leon",
-    "rating": 9.4375,
-    "num_ratings": 48
-  },
-  {
-    "code": "1450",
     "group": "2",
     "professor": "ANDRES NORIEGA USI",
     "schedules": [
@@ -28,7 +9,7 @@
         "days": [
           2
         ],
-        "classroom": "48"
+        "classroom": "J102"
       }
     ]
   },
@@ -42,7 +23,7 @@
         "days": [
           5
         ],
-        "classroom": "48"
+        "classroom": "J104"
       }
     ],
     "professor_id": 113918,
@@ -61,33 +42,14 @@
         "days": [
           4
         ],
-        "classroom": "48"
+        "classroom": "J108"
       }
     ],
     "professor_id": 42088,
     "first_name": "MIGUEL ANGEL",
     "last_name": "JAIME VASCONCELOS",
-    "rating": 8.5556,
-    "num_ratings": 63
-  },
-  {
-    "code": "1450",
-    "group": "5",
-    "professor": "ALBERTO SANDOVAL GARCIA",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          3
-        ],
-        "classroom": "35"
-      }
-    ],
-    "professor_id": 102860,
-    "first_name": "Alberto",
-    "last_name": "Sandoval Garcia",
-    "rating": 8.5909,
-    "num_ratings": 22
+    "rating": 8.4844,
+    "num_ratings": 64
   },
   {
     "code": "1450",
@@ -99,7 +61,7 @@
         "days": [
           5
         ],
-        "classroom": "48"
+        "classroom": "I102"
       }
     ],
     "professor_id": 102860,
@@ -118,7 +80,7 @@
         "days": [
           3
         ],
-        "classroom": "48"
+        "classroom": "J103"
       }
     ],
     "professor_id": 181455,
@@ -126,5 +88,43 @@
     "last_name": "Aburto Mejía",
     "rating": 10.0,
     "num_ratings": 5
+  },
+  {
+    "code": "1450",
+    "group": "1",
+    "professor": "ANTONIA DEL CARMEN PEREZ LEON",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          4
+        ],
+        "classroom": "J201"
+      }
+    ],
+    "professor_id": 58911,
+    "first_name": "Antonia del Carmen",
+    "last_name": "Perez Leon",
+    "rating": 9.4375,
+    "num_ratings": 48
+  },
+  {
+    "code": "1450",
+    "group": "5",
+    "professor": "ALBERTO SANDOVAL GARCIA",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          3
+        ],
+        "classroom": "J201"
+      }
+    ],
+    "professor_id": 102860,
+    "first_name": "Alberto",
+    "last_name": "Sandoval Garcia",
+    "rating": 8.5909,
+    "num_ratings": 22
   }
 ]

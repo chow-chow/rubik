@@ -1,6 +1,46 @@
 [
   {
     "code": "1414",
+    "group": "15",
+    "professor": "ABRAHAM LAURENCIO MARTINEZ BAUTISTA",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "I301"
+      }
+    ],
+    "professor_id": 55067,
+    "first_name": "Abraham Laurencio",
+    "last_name": "Martinez  Bautista",
+    "rating": 4.7333,
+    "num_ratings": 45
+  },
+  {
+    "code": "1414",
+    "group": "19",
+    "professor": "FERNANDO VEGA CALDERON",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "J207"
+      }
+    ],
+    "professor_id": 87387,
+    "first_name": "Fernando",
+    "last_name": "Vega Calderón",
+    "rating": 8.7903,
+    "num_ratings": 62
+  },
+  {
+    "code": "1414",
     "group": "1",
     "professor": "GERMAN RAMON ARCONADA REY",
     "schedules": [
@@ -10,7 +50,7 @@
           1,
           3
         ],
-        "classroom": "48"
+        "classroom": "I304"
       }
     ],
     "professor_id": 104129,
@@ -30,14 +70,14 @@
           3,
           5
         ],
-        "classroom": "48"
+        "classroom": "J109"
       }
     ],
     "professor_id": 78455,
     "first_name": "Eduardo",
     "last_name": "López Molina",
-    "rating": 8.21,
-    "num_ratings": 68
+    "rating": 8.13,
+    "num_ratings": 70
   },
   {
     "code": "1414",
@@ -50,7 +90,7 @@
           1,
           5
         ],
-        "classroom": "48"
+        "classroom": "I101"
       }
     ],
     "professor_id": 113700,
@@ -69,14 +109,21 @@
         "days": [
           3
         ],
-        "classroom": "48"
+        "classroom": "J207"
+      },
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1
+        ],
+        "classroom": "J208"
       }
     ],
     "professor_id": 44254,
     "first_name": "Maria del Carmen",
     "last_name": "Melo Díaz",
-    "rating": 6.8481,
-    "num_ratings": 79
+    "rating": 6.8642,
+    "num_ratings": 81
   },
   {
     "code": "1414",
@@ -89,14 +136,14 @@
           2,
           4
         ],
-        "classroom": "48"
+        "classroom": "I204"
       }
     ],
     "professor_id": 31167,
     "first_name": "Rigel",
     "last_name": "Gámez Leal",
-    "rating": 8.4938,
-    "num_ratings": 81
+    "rating": 8.5476,
+    "num_ratings": 84
   },
   {
     "code": "1414",
@@ -109,7 +156,7 @@
           3,
           5
         ],
-        "classroom": "48"
+        "classroom": "J211"
       }
     ],
     "professor_id": 51709,
@@ -128,14 +175,14 @@
         "days": [
           6
         ],
-        "classroom": "48"
+        "classroom": "EXTR"
       }
     ],
     "professor_id": 90851,
     "first_name": "OMAR ING.",
     "last_name": "DE JESUS PEREZ",
-    "rating": 7.9778,
-    "num_ratings": 45
+    "rating": 8.0217,
+    "num_ratings": 46
   },
   {
     "code": "1414",
@@ -148,14 +195,14 @@
           1,
           3
         ],
-        "classroom": "48"
+        "classroom": "J209"
       }
     ],
     "professor_id": 20657,
     "first_name": "Mayverena",
     "last_name": "Jurado Pineda",
-    "rating": 8.1754,
-    "num_ratings": 114
+    "rating": 8.1092,
+    "num_ratings": 119
   },
   {
     "code": "1414",
@@ -168,7 +215,7 @@
           2,
           4
         ],
-        "classroom": "48"
+        "classroom": "I104"
       }
     ],
     "professor_id": 32242,
@@ -188,14 +235,14 @@
           3,
           5
         ],
-        "classroom": "48"
+        "classroom": "J109"
       }
     ],
     "professor_id": 23476,
     "first_name": "martin",
     "last_name": "barcenas escobar",
-    "rating": 6.3182,
-    "num_ratings": 22
+    "rating": 6.4348,
+    "num_ratings": 23
   },
   {
     "code": "1414",
@@ -208,14 +255,14 @@
           3,
           5
         ],
-        "classroom": "48"
+        "classroom": "I205"
       }
     ],
     "professor_id": 46394,
     "first_name": "Sergio Roberto",
     "last_name": "Arzamendi Perez",
-    "rating": 8.14,
-    "num_ratings": 36
+    "rating": 8.19,
+    "num_ratings": 37
   },
   {
     "code": "1414",
@@ -228,14 +275,14 @@
           1,
           3
         ],
-        "classroom": "48"
+        "classroom": "J210"
       }
     ],
     "professor_id": 44254,
     "first_name": "Maria del Carmen",
     "last_name": "Melo Díaz",
-    "rating": 6.8481,
-    "num_ratings": 79
+    "rating": 6.8642,
+    "num_ratings": 81
   },
   {
     "code": "1414",
@@ -248,14 +295,14 @@
           2,
           4
         ],
-        "classroom": "48"
+        "classroom": "J207"
       }
     ],
     "professor_id": 75145,
     "first_name": "Raymundo",
     "last_name": "Gaytán Pérez",
-    "rating": 9.1458,
-    "num_ratings": 48
+    "rating": 9.1633,
+    "num_ratings": 49
   },
   {
     "code": "1414",
@@ -268,34 +315,14 @@
           2,
           4
         ],
-        "classroom": "48"
+        "classroom": "I101"
       }
     ],
     "professor_id": 78455,
     "first_name": "Eduardo",
     "last_name": "López Molina",
-    "rating": 8.21,
-    "num_ratings": 68
-  },
-  {
-    "code": "1414",
-    "group": "15",
-    "professor": "ABRAHAM LAURENCIO MARTINEZ BAUTISTA",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          3,
-          5
-        ],
-        "classroom": "48"
-      }
-    ],
-    "professor_id": 55067,
-    "first_name": "Abraham Laurencio",
-    "last_name": "Martinez  Bautista",
-    "rating": 4.7273,
-    "num_ratings": 44
+    "rating": 8.13,
+    "num_ratings": 70
   },
   {
     "code": "1414",
@@ -308,7 +335,7 @@
           1,
           3
         ],
-        "classroom": "48"
+        "classroom": "J106"
       }
     ],
     "professor_id": 156721,
@@ -328,7 +355,7 @@
           1,
           5
         ],
-        "classroom": "48"
+        "classroom": "J109"
       }
     ],
     "professor_id": 74107,
@@ -348,7 +375,7 @@
           2,
           4
         ],
-        "classroom": "48"
+        "classroom": "J207"
       }
     ],
     "professor_id": 74107,
@@ -356,26 +383,6 @@
     "last_name": "Rodriguez Durán",
     "rating": 7.06,
     "num_ratings": 50
-  },
-  {
-    "code": "1414",
-    "group": "19",
-    "professor": "FERNANDO VEGA CALDERON",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "48"
-      }
-    ],
-    "professor_id": 87387,
-    "first_name": "Fernando",
-    "last_name": "Vega Calderón",
-    "rating": 8.7903,
-    "num_ratings": 62
   },
   {
     "code": "1414",
@@ -388,7 +395,7 @@
           2,
           4
         ],
-        "classroom": "48"
+        "classroom": "I201"
       }
     ],
     "professor_id": 87387,
@@ -408,7 +415,7 @@
           2,
           4
         ],
-        "classroom": "48"
+        "classroom": "J102"
       }
     ],
     "professor_id": 142029,

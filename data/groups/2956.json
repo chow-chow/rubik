@@ -1,26 +1,6 @@
 [
   {
     "code": "2956",
-    "group": "1",
-    "professor": "JOSE GABRIEL PERAL GARCIA",
-    "schedules": [
-      {
-        "time": "07:00-08:30",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "25"
-      }
-    ],
-    "professor_id": 113608,
-    "first_name": "Jose Gabriel",
-    "last_name": "Peral Garcia",
-    "rating": 9.0,
-    "num_ratings": 2
-  },
-  {
-    "code": "2956",
     "group": "2",
     "professor": "JUAN CARLOS MUÑOZ TORRES",
     "schedules": [
@@ -30,9 +10,29 @@
           2,
           4
         ],
-        "classroom": "10"
+        "classroom": "T102"
       }
     ]
+  },
+  {
+    "code": "2956",
+    "group": "1",
+    "professor": "JOSE GABRIEL PERAL GARCIA",
+    "schedules": [
+      {
+        "time": "07:00-08:30",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "DS10"
+      }
+    ],
+    "professor_id": 113608,
+    "first_name": "Jose Gabriel",
+    "last_name": "Peral Garcia",
+    "rating": 9.0,
+    "num_ratings": 2
   },
   {
     "code": "2956",
@@ -45,14 +45,14 @@
           2,
           4
         ],
-        "classroom": "10"
+        "classroom": "T102"
       }
     ],
     "professor_id": 113612,
     "first_name": "Carlos Aldair",
     "last_name": "Roman Balbuena",
-    "rating": 6.2174,
-    "num_ratings": 46
+    "rating": 6.2766,
+    "num_ratings": 47
   },
   {
     "code": "2956",
@@ -65,7 +65,7 @@
           1,
           3
         ],
-        "classroom": "10"
+        "classroom": "S227"
       }
     ]
   }

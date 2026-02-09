@@ -1,6 +1,44 @@
 [
   {
     "code": "5879",
+    "group": "6",
+    "professor": "JOSE LUIS VILLEDAS MORALES",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1
+        ],
+        "classroom": "Q303"
+      }
+    ],
+    "professor_id": 99092,
+    "first_name": "JOSE LUIS",
+    "last_name": "VILLEDAS MORALES",
+    "rating": 7.2857,
+    "num_ratings": 7
+  },
+  {
+    "code": "5879",
+    "group": "14",
+    "professor": "JOSE LUIS VILLEDAS MORALES",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          3
+        ],
+        "classroom": "Q303"
+      }
+    ],
+    "professor_id": 99092,
+    "first_name": "JOSE LUIS",
+    "last_name": "VILLEDAS MORALES",
+    "rating": 7.2857,
+    "num_ratings": 7
+  },
+  {
+    "code": "5879",
     "group": "1",
     "professor": "MONICA LOPEZ COYOTE",
     "schedules": [
@@ -9,14 +47,14 @@
         "days": [
           1
         ],
-        "classroom": "7"
+        "classroom": "Q303"
       }
     ],
     "professor_id": 82398,
     "first_name": "Monica",
     "last_name": "López coyote",
     "rating": 7.25,
-    "num_ratings": 69
+    "num_ratings": 71
   },
   {
     "code": "5879",
@@ -28,14 +66,14 @@
         "days": [
           1
         ],
-        "classroom": "7"
+        "classroom": "Q303"
       }
     ],
     "professor_id": 82398,
     "first_name": "Monica",
     "last_name": "López coyote",
     "rating": 7.25,
-    "num_ratings": 69
+    "num_ratings": 71
   },
   {
     "code": "5879",
@@ -47,7 +85,7 @@
         "days": [
           1
         ],
-        "classroom": "7"
+        "classroom": "Q307"
       }
     ],
     "professor_id": 134945,
@@ -66,7 +104,7 @@
         "days": [
           1
         ],
-        "classroom": "7"
+        "classroom": "Q303"
       }
     ],
     "professor_id": 99092,
@@ -85,26 +123,7 @@
         "days": [
           1
         ],
-        "classroom": "7"
-      }
-    ],
-    "professor_id": 99092,
-    "first_name": "JOSE LUIS",
-    "last_name": "VILLEDAS MORALES",
-    "rating": 7.2857,
-    "num_ratings": 7
-  },
-  {
-    "code": "5879",
-    "group": "6",
-    "professor": "JOSE LUIS VILLEDAS MORALES",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          1
-        ],
-        "classroom": "7"
+        "classroom": "Q303"
       }
     ],
     "professor_id": 99092,
@@ -123,7 +142,7 @@
         "days": [
           2
         ],
-        "classroom": "7"
+        "classroom": "Q303"
       }
     ],
     "professor_id": 94393,
@@ -142,7 +161,7 @@
         "days": [
           2
         ],
-        "classroom": "7"
+        "classroom": "Q303"
       }
     ],
     "professor_id": 162569,
@@ -161,7 +180,7 @@
         "days": [
           2
         ],
-        "classroom": "7"
+        "classroom": "Q303"
       }
     ]
   },
@@ -175,7 +194,7 @@
         "days": [
           3
         ],
-        "classroom": "7"
+        "classroom": "Q303"
       }
     ],
     "professor_id": 162569,
@@ -194,14 +213,14 @@
         "days": [
           3
         ],
-        "classroom": "7"
+        "classroom": "Q303"
       }
     ],
     "professor_id": 82398,
     "first_name": "Monica",
     "last_name": "López coyote",
     "rating": 7.25,
-    "num_ratings": 69
+    "num_ratings": 71
   },
   {
     "code": "5879",
@@ -213,7 +232,7 @@
         "days": [
           3
         ],
-        "classroom": "7"
+        "classroom": "Q303"
       }
     ],
     "professor_id": 94393,
@@ -221,25 +240,6 @@
     "last_name": "HERNANDEZ SANTIAGO",
     "rating": 9.3125,
     "num_ratings": 16
-  },
-  {
-    "code": "5879",
-    "group": "14",
-    "professor": "JOSE LUIS VILLEDAS MORALES",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          3
-        ],
-        "classroom": "7"
-      }
-    ],
-    "professor_id": 99092,
-    "first_name": "JOSE LUIS",
-    "last_name": "VILLEDAS MORALES",
-    "rating": 7.2857,
-    "num_ratings": 7
   },
   {
     "code": "5879",
@@ -251,7 +251,7 @@
         "days": [
           4
         ],
-        "classroom": "7"
+        "classroom": "Q303"
       }
     ],
     "professor_id": 23484,
@@ -270,14 +270,14 @@
         "days": [
           4
         ],
-        "classroom": "7"
+        "classroom": "Q303"
       }
     ],
     "professor_id": 141855,
     "first_name": "Norma",
     "last_name": "Reyes Cruz",
-    "rating": 8.0,
-    "num_ratings": 5
+    "rating": 8.3333,
+    "num_ratings": 6
   },
   {
     "code": "5879",
@@ -289,52 +289,42 @@
         "days": [
           4
         ],
-        "classroom": "7"
+        "classroom": "Q303"
       }
     ],
     "professor_id": 141855,
     "first_name": "Norma",
     "last_name": "Reyes Cruz",
-    "rating": 8.0,
-    "num_ratings": 5
+    "rating": 8.3333,
+    "num_ratings": 6
   },
   {
     "code": "5879",
     "group": "18",
-    "professor": "ADRIANA S LOPEZ GARCIA",
+    "professor": "ADRIANA SOLEDAD LOPEZ GARCIA",
     "schedules": [
       {
         "time": "13:00-15:00",
         "days": [
           4
         ],
-        "classroom": "7"
+        "classroom": "Q303"
       }
-    ],
-    "professor_id": 105168,
-    "first_name": "ING. ADRIANA S",
-    "last_name": "LOPEZ GARCIA",
-    "rating": 9.375,
-    "num_ratings": 8
+    ]
   },
   {
     "code": "5879",
     "group": "19",
-    "professor": "ADRIANA S LOPEZ GARCIA",
+    "professor": "ADRIANA SOLEDAD LOPEZ GARCIA",
     "schedules": [
       {
         "time": "15:00-17:00",
         "days": [
           4
         ],
-        "classroom": "7"
+        "classroom": "Q303"
       }
-    ],
-    "professor_id": 105168,
-    "first_name": "ING. ADRIANA S",
-    "last_name": "LOPEZ GARCIA",
-    "rating": 9.375,
-    "num_ratings": 8
+    ]
   },
   {
     "code": "5879",
@@ -346,7 +336,7 @@
         "days": [
           4
         ],
-        "classroom": "7"
+        "classroom": "Q303"
       }
     ],
     "professor_id": 149553,
@@ -365,7 +355,7 @@
         "days": [
           5
         ],
-        "classroom": "7"
+        "classroom": "Q303"
       }
     ],
     "professor_id": 162569,
@@ -384,7 +374,7 @@
         "days": [
           5
         ],
-        "classroom": "7"
+        "classroom": "Q303"
       }
     ],
     "professor_id": 162569,
@@ -403,7 +393,7 @@
         "days": [
           5
         ],
-        "classroom": "7"
+        "classroom": "Q303"
       }
     ],
     "professor_id": 94393,
@@ -411,5 +401,24 @@
     "last_name": "HERNANDEZ SANTIAGO",
     "rating": 9.3125,
     "num_ratings": 16
+  },
+  {
+    "code": "5879",
+    "group": "24",
+    "professor": "LUIS RAUL FLORES CORONEL",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          5
+        ],
+        "classroom": "Q303"
+      }
+    ],
+    "professor_id": 23484,
+    "first_name": "luis",
+    "last_name": "flores",
+    "rating": 2.3333,
+    "num_ratings": 3
   }
 ]

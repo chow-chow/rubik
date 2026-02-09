@@ -10,7 +10,7 @@
           1,
           3
         ],
-        "classroom": "22"
+        "classroom": "O009"
       }
     ],
     "professor_id": 107488,
@@ -30,14 +30,14 @@
           1,
           3
         ],
-        "classroom": "22"
+        "classroom": "O009"
       }
     ],
     "professor_id": 66401,
     "first_name": "Raúl Gilberto",
     "last_name": "Valdez Navarro",
-    "rating": 7.1304,
-    "num_ratings": 23
+    "rating": 7.36,
+    "num_ratings": 25
   },
   {
     "code": "6225",
@@ -50,7 +50,7 @@
           2,
           4
         ],
-        "classroom": "22"
+        "classroom": "O009"
       }
     ]
   },
@@ -65,7 +65,7 @@
           1,
           3
         ],
-        "classroom": "22"
+        "classroom": "O009"
       }
     ],
     "professor_id": 90646,
@@ -85,7 +85,7 @@
           2,
           4
         ],
-        "classroom": "22"
+        "classroom": "O009"
       }
     ],
     "professor_id": 75503,
@@ -105,7 +105,7 @@
           1,
           3
         ],
-        "classroom": "22"
+        "classroom": "O009"
       }
     ],
     "professor_id": 113002,
@@ -113,26 +113,6 @@
     "last_name": "Tejada Malpica",
     "rating": 7.7895,
     "num_ratings": 19
-  },
-  {
-    "code": "6225",
-    "group": "7",
-    "professor": "DAVID MARTINEZ HERNANDEZ",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "22"
-      }
-    ],
-    "professor_id": 101528,
-    "first_name": "David",
-    "last_name": "Martínez Hernández",
-    "rating": 7.7727,
-    "num_ratings": 22
   },
   {
     "code": "6225",
@@ -145,7 +125,7 @@
           2,
           4
         ],
-        "classroom": "22"
+        "classroom": "O009"
       }
     ],
     "professor_id": 183563,
@@ -165,7 +145,7 @@
           1,
           5
         ],
-        "classroom": "22"
+        "classroom": "O009"
       }
     ],
     "professor_id": 75503,
@@ -185,7 +165,7 @@
           2,
           4
         ],
-        "classroom": "22"
+        "classroom": "O009"
       }
     ],
     "professor_id": 142033,
@@ -193,6 +173,26 @@
     "last_name": "Guillen Mandujano",
     "rating": 8.2667,
     "num_ratings": 15
+  },
+  {
+    "code": "6225",
+    "group": "7",
+    "professor": "DAVID MARTINEZ HERNANDEZ",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "O009"
+      }
+    ],
+    "professor_id": 101528,
+    "first_name": "David",
+    "last_name": "Martínez Hernández",
+    "rating": 7.7727,
+    "num_ratings": 22
   },
   {
     "code": "6225",
@@ -205,13 +205,13 @@
           1,
           3
         ],
-        "classroom": "22"
+        "classroom": "O009"
       }
     ],
     "professor_id": 112014,
     "first_name": "JORGE ALBERTO",
     "last_name": "NAJERA CASTREJON",
-    "rating": 8.6667,
-    "num_ratings": 9
+    "rating": 8.5,
+    "num_ratings": 10
   }
 ]

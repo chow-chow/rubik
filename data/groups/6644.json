@@ -9,47 +9,9 @@
         "days": [
           2
         ],
-        "classroom": "40"
+        "classroom": "T101"
       }
     ]
-  },
-  {
-    "code": "6644",
-    "group": "2",
-    "professor": "MARTHA LOPEZ PELCASTRE",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          2
-        ],
-        "classroom": "40"
-      }
-    ],
-    "professor_id": 114128,
-    "first_name": "ING. MARTHA",
-    "last_name": "LOPEZ PELCASTRE",
-    "rating": 8.0682,
-    "num_ratings": 44
-  },
-  {
-    "code": "6644",
-    "group": "3",
-    "professor": "JUAN ANGEL CALVILLO PEREZ",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          2
-        ],
-        "classroom": "40"
-      }
-    ],
-    "professor_id": 135119,
-    "first_name": "Juan Ángel",
-    "last_name": "Calvillo Pérez",
-    "rating": 8.5714,
-    "num_ratings": 21
   },
   {
     "code": "6644",
@@ -61,14 +23,14 @@
         "days": [
           2
         ],
-        "classroom": "40"
+        "classroom": "T101"
       }
     ],
     "professor_id": 135119,
     "first_name": "Juan Ángel",
     "last_name": "Calvillo Pérez",
-    "rating": 8.5714,
-    "num_ratings": 21
+    "rating": 8.6957,
+    "num_ratings": 23
   },
   {
     "code": "6644",
@@ -80,7 +42,7 @@
         "days": [
           4
         ],
-        "classroom": "40"
+        "classroom": "T101"
       }
     ],
     "professor_id": 105202,
@@ -99,7 +61,7 @@
         "days": [
           5
         ],
-        "classroom": "40"
+        "classroom": "T101"
       }
     ],
     "professor_id": 108516,
@@ -107,25 +69,6 @@
     "last_name": "Rodríguez Campos",
     "rating": 8.4643,
     "num_ratings": 56
-  },
-  {
-    "code": "6644",
-    "group": "7",
-    "professor": "MARTHA LOPEZ PELCASTRE",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          5
-        ],
-        "classroom": "40"
-      }
-    ],
-    "professor_id": 114128,
-    "first_name": "ING. MARTHA",
-    "last_name": "LOPEZ PELCASTRE",
-    "rating": 8.0682,
-    "num_ratings": 44
   },
   {
     "code": "6644",
@@ -137,7 +80,7 @@
         "days": [
           6
         ],
-        "classroom": "40"
+        "classroom": "T101"
       }
     ],
     "professor_id": 114128,
@@ -156,7 +99,7 @@
         "days": [
           3
         ],
-        "classroom": "40"
+        "classroom": "T101"
       }
     ],
     "professor_id": 173728,
@@ -164,5 +107,62 @@
     "last_name": "Brito Segura",
     "rating": 9.8,
     "num_ratings": 5
+  },
+  {
+    "code": "6644",
+    "group": "2",
+    "professor": "MARTHA LOPEZ PELCASTRE",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2
+        ],
+        "classroom": "T101"
+      }
+    ],
+    "professor_id": 114128,
+    "first_name": "ING. MARTHA",
+    "last_name": "LOPEZ PELCASTRE",
+    "rating": 8.0682,
+    "num_ratings": 44
+  },
+  {
+    "code": "6644",
+    "group": "3",
+    "professor": "JUAN ANGEL CALVILLO PEREZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2
+        ],
+        "classroom": "T101"
+      }
+    ],
+    "professor_id": 135119,
+    "first_name": "Juan Ángel",
+    "last_name": "Calvillo Pérez",
+    "rating": 8.6957,
+    "num_ratings": 23
+  },
+  {
+    "code": "6644",
+    "group": "7",
+    "professor": "MARTHA LOPEZ PELCASTRE",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          5
+        ],
+        "classroom": "T101"
+      }
+    ],
+    "professor_id": 114128,
+    "first_name": "ING. MARTHA",
+    "last_name": "LOPEZ PELCASTRE",
+    "rating": 8.0682,
+    "num_ratings": 44
   }
 ]

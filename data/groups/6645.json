@@ -1,6 +1,25 @@
 [
   {
     "code": "6645",
+    "group": "7",
+    "professor": "ALBERTO NAVARRETE HERNANDEZ",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          5
+        ],
+        "classroom": "T101"
+      }
+    ],
+    "professor_id": 104486,
+    "first_name": "ALBERTO",
+    "last_name": "NAVARRETE HERNANDEZ",
+    "rating": 5.0893,
+    "num_ratings": 56
+  },
+  {
+    "code": "6645",
     "group": "1",
     "professor": "MARIA DEL PILAR VALENCIA MONTES",
     "schedules": [
@@ -9,7 +28,7 @@
         "days": [
           1
         ],
-        "classroom": "35"
+        "classroom": "T101"
       }
     ]
   },
@@ -23,7 +42,7 @@
         "days": [
           2
         ],
-        "classroom": "35"
+        "classroom": "T101"
       }
     ],
     "professor_id": 142387,
@@ -42,7 +61,7 @@
         "days": [
           3
         ],
-        "classroom": "35"
+        "classroom": "T101"
       }
     ]
   },
@@ -56,14 +75,14 @@
         "days": [
           4
         ],
-        "classroom": "35"
+        "classroom": "T101"
       }
     ],
     "professor_id": 124016,
     "first_name": "M.I. LUIS SERGIO",
     "last_name": "DURAN ARENAS",
-    "rating": 8.22,
-    "num_ratings": 46
+    "rating": 8.26,
+    "num_ratings": 47
   },
   {
     "code": "6645",
@@ -75,7 +94,7 @@
         "days": [
           4
         ],
-        "classroom": "35"
+        "classroom": "T101"
       }
     ],
     "professor_id": 142387,
@@ -94,7 +113,7 @@
         "days": [
           5
         ],
-        "classroom": "35"
+        "classroom": "T101"
       }
     ],
     "professor_id": 159593,
@@ -102,24 +121,5 @@
     "last_name": "Ramos",
     "rating": 8.3333,
     "num_ratings": 3
-  },
-  {
-    "code": "6645",
-    "group": "7",
-    "professor": "ALBERTO NAVARRETE HERNANDEZ",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          5
-        ],
-        "classroom": "35"
-      }
-    ],
-    "professor_id": 104486,
-    "first_name": "ALBERTO",
-    "last_name": "NAVARRETE HERNANDEZ",
-    "rating": 5.1455,
-    "num_ratings": 55
   }
 ]

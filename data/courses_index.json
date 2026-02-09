@@ -401,8 +401,11 @@
     "code": "0678",
     "name": "CONTROL AUTOMATICO INDUSTRIAL",
     "credits": 8,
-    "has_lab": false,
-    "lab": null
+    "has_lab": true,
+    "lab": {
+      "code": "5678",
+      "name": "LAB. CONTROL AUTOMATICO INDUSTRIAL"
+    }
   },
   {
     "code": "0692",
@@ -2923,11 +2926,8 @@
     "code": "1874",
     "name": "DISPOSITIVOS DE MICROONDAS II",
     "credits": 8,
-    "has_lab": true,
-    "lab": {
-      "code": "6874",
-      "name": "LAB. DISPOSITIVOS DE MICROONDAS II"
-    }
+    "has_lab": false,
+    "lab": null
   },
   {
     "code": "1875",

@@ -1,25 +1,6 @@
 [
   {
     "code": "5138",
-    "group": "1",
-    "professor": "FRANCISCO JAVIER MARTINEZ RODRIGUEZ",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          1
-        ],
-        "classroom": "18"
-      }
-    ],
-    "professor_id": 99064,
-    "first_name": "Francisco Javier",
-    "last_name": "Martinez Rodriguez",
-    "rating": 4.6316,
-    "num_ratings": 38
-  },
-  {
-    "code": "5138",
     "group": "2",
     "professor": "JAIME HECTOR MURILLO QUINTERO",
     "schedules": [
@@ -28,14 +9,33 @@
         "days": [
           2
         ],
-        "classroom": "18"
+        "classroom": "Q109"
       }
     ],
     "professor_id": 94156,
     "first_name": "Jaime Hector",
     "last_name": "Murillo Quintero",
-    "rating": 4.5714,
-    "num_ratings": 21
+    "rating": 4.7273,
+    "num_ratings": 22
+  },
+  {
+    "code": "5138",
+    "group": "1",
+    "professor": "FRANCISCO JAVIER MARTINEZ RODRIGUEZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1
+        ],
+        "classroom": "Q108"
+      }
+    ],
+    "professor_id": 99064,
+    "first_name": "Francisco Javier",
+    "last_name": "Martinez Rodriguez",
+    "rating": 4.7179,
+    "num_ratings": 39
   },
   {
     "code": "5138",
@@ -47,7 +47,7 @@
         "days": [
           2
         ],
-        "classroom": "18"
+        "classroom": "Q108"
       }
     ]
   },
@@ -61,7 +61,7 @@
         "days": [
           3
         ],
-        "classroom": "18"
+        "classroom": "Q108"
       }
     ],
     "professor_id": 99902,
@@ -80,7 +80,7 @@
         "days": [
           3
         ],
-        "classroom": "18"
+        "classroom": "Q108"
       }
     ],
     "professor_id": 80201,
@@ -99,14 +99,14 @@
         "days": [
           3
         ],
-        "classroom": "18"
+        "classroom": "Q108"
       }
     ],
     "professor_id": 89949,
     "first_name": "ISMAEL",
     "last_name": "ROMERO OCARANZA",
-    "rating": 6.36,
-    "num_ratings": 25
+    "rating": 6.3077,
+    "num_ratings": 26
   },
   {
     "code": "5138",
@@ -118,14 +118,14 @@
         "days": [
           4
         ],
-        "classroom": "18"
+        "classroom": "Q108"
       }
     ],
     "professor_id": 94156,
     "first_name": "Jaime Hector",
     "last_name": "Murillo Quintero",
-    "rating": 4.5714,
-    "num_ratings": 21
+    "rating": 4.7273,
+    "num_ratings": 22
   },
   {
     "code": "5138",
@@ -137,14 +137,14 @@
         "days": [
           5
         ],
-        "classroom": "18"
+        "classroom": "Q108"
       }
     ],
     "professor_id": 108136,
     "first_name": "Roman Victoriano",
     "last_name": "Osorio Comparan",
-    "rating": 7.1667,
-    "num_ratings": 18
+    "rating": 6.65,
+    "num_ratings": 20
   },
   {
     "code": "5138",
@@ -156,7 +156,7 @@
         "days": [
           6
         ],
-        "classroom": "18"
+        "classroom": "Q107"
       }
     ],
     "professor_id": 124066,

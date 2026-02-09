@@ -9,28 +9,9 @@
         "days": [
           6
         ],
-        "classroom": "4"
+        "classroom": "DS07"
       }
     ]
-  },
-  {
-    "code": "5021",
-    "group": "2",
-    "professor": "SONIA LUISA LOPEZ MALDONADO",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          6
-        ],
-        "classroom": "4"
-      }
-    ],
-    "professor_id": 134971,
-    "first_name": "Sonia Luisa",
-    "last_name": "López Maldonado",
-    "rating": 4.86,
-    "num_ratings": 7
   },
   {
     "code": "5021",
@@ -42,7 +23,7 @@
         "days": [
           4
         ],
-        "classroom": "4"
+        "classroom": "DS07"
       }
     ],
     "professor_id": 93961,
@@ -50,6 +31,25 @@
     "last_name": "Rodriguez Guadarrama",
     "rating": 7.1667,
     "num_ratings": 6
+  },
+  {
+    "code": "5021",
+    "group": "2",
+    "professor": "SONIA LUISA ELENA LOPEZ MALDONADO",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          6
+        ],
+        "classroom": "DS07"
+      }
+    ],
+    "professor_id": 134971,
+    "first_name": "Sonia Luisa",
+    "last_name": "López Maldonado",
+    "rating": 4.86,
+    "num_ratings": 7
   },
   {
     "code": "5021",
@@ -61,7 +61,7 @@
         "days": [
           1
         ],
-        "classroom": "4"
+        "classroom": "DS07"
       }
     ]
   }

@@ -1,20 +1,6 @@
 [
   {
     "code": "6937",
-    "group": "1",
-    "professor": "LUIS EDUARDO MARTINEZ MARQUEDA",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          1
-        ],
-        "classroom": "13"
-      }
-    ]
-  },
-  {
-    "code": "6937",
     "group": "2",
     "professor": "JORGE DIAZ SALGADO",
     "schedules": [
@@ -23,14 +9,47 @@
         "days": [
           2
         ],
-        "classroom": "13"
+        "classroom": "Q102"
       }
     ],
     "professor_id": 105055,
     "first_name": "Jorge",
     "last_name": "Diaz Salgado",
-    "rating": 8.0,
-    "num_ratings": 20
+    "rating": 8.0952,
+    "num_ratings": 21
+  },
+  {
+    "code": "6937",
+    "group": "7",
+    "professor": "JORGE DIAZ SALGADO",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          4
+        ],
+        "classroom": "Q102"
+      }
+    ],
+    "professor_id": 105055,
+    "first_name": "Jorge",
+    "last_name": "Diaz Salgado",
+    "rating": 8.0952,
+    "num_ratings": 21
+  },
+  {
+    "code": "6937",
+    "group": "1",
+    "professor": "LUIS EDUARDO MARTINEZ MARQUEDA",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1
+        ],
+        "classroom": "Q102"
+      }
+    ]
   },
   {
     "code": "6937",
@@ -42,7 +61,7 @@
         "days": [
           2
         ],
-        "classroom": "13"
+        "classroom": "Q102"
       }
     ]
   },
@@ -56,7 +75,7 @@
         "days": [
           2
         ],
-        "classroom": "13"
+        "classroom": "Q102"
       }
     ],
     "professor_id": 86745,
@@ -75,7 +94,7 @@
         "days": [
           3
         ],
-        "classroom": "13"
+        "classroom": "Q102"
       }
     ],
     "professor_id": 71693,
@@ -94,28 +113,9 @@
         "days": [
           3
         ],
-        "classroom": "13"
+        "classroom": "Q102"
       }
     ]
-  },
-  {
-    "code": "6937",
-    "group": "7",
-    "professor": "JORGE DIAZ SALGADO",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          4
-        ],
-        "classroom": "13"
-      }
-    ],
-    "professor_id": 105055,
-    "first_name": "Jorge",
-    "last_name": "Diaz Salgado",
-    "rating": 8.0,
-    "num_ratings": 20
   },
   {
     "code": "6937",
@@ -127,7 +127,7 @@
         "days": [
           4
         ],
-        "classroom": "13"
+        "classroom": "Q102"
       }
     ],
     "professor_id": 86745,
@@ -146,7 +146,7 @@
         "days": [
           5
         ],
-        "classroom": "13"
+        "classroom": "Q102"
       }
     ],
     "professor_id": 71693,
@@ -165,7 +165,7 @@
         "days": [
           5
         ],
-        "classroom": "13"
+        "classroom": "Q102"
       }
     ],
     "professor_id": 86745,

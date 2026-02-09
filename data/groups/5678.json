@@ -1,11 +1,30 @@
 [
   {
     "code": "5678",
-    "group": "4",
+    "group": "1",
     "professor": "ULISES ARTURO PEREZ VENTURA",
     "schedules": [
       {
-        "time": "09:00-11:00",
+        "time": "11:00-13:00",
+        "days": [
+          2
+        ],
+        "classroom": "P113"
+      }
+    ],
+    "professor_id": 94779,
+    "first_name": "Ulises Arturo",
+    "last_name": "Perez Ventura",
+    "rating": 10.0,
+    "num_ratings": 2
+  },
+  {
+    "code": "5678",
+    "group": "2",
+    "professor": "ULISES ARTURO PEREZ VENTURA",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
         "days": [
           4
         ],

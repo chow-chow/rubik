@@ -1,6 +1,53 @@
 [
   {
     "code": "1730",
+    "group": "4",
+    "professor": "JOSE LUIS HERRERA ALANIS",
+    "schedules": [
+      {
+        "time": "14:30-16:00",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "B409"
+      }
+    ]
+  },
+  {
+    "code": "1730",
+    "group": "5",
+    "professor": "VICTOR MANUEL PALMA VALDERRAMA",
+    "schedules": [
+      {
+        "time": "14:30-16:00",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "A212"
+      }
+    ]
+  },
+  {
+    "code": "1730",
+    "group": "7",
+    "professor": "MIGUEL ANGEL VICENTE LOPEZ",
+    "schedules": [
+      {
+        "time": "18:15-20:30",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A212"
+      }
+    ]
+  },
+  {
+    "code": "1730",
     "group": "1",
     "professor": "ALEJANDRO SANCHEZ HUERTA",
     "schedules": [
@@ -11,7 +58,7 @@
           3,
           5
         ],
-        "classroom": "25"
+        "classroom": "A210"
       }
     ]
   },
@@ -27,7 +74,7 @@
           3,
           5
         ],
-        "classroom": "25"
+        "classroom": "A307"
       }
     ],
     "professor_id": 175830,
@@ -48,39 +95,7 @@
           3,
           5
         ],
-        "classroom": "25"
-      }
-    ]
-  },
-  {
-    "code": "1730",
-    "group": "4",
-    "professor": "JOSE LUIS HERRERA ALANIS",
-    "schedules": [
-      {
-        "time": "14:30-16:00",
-        "days": [
-          1,
-          3,
-          5
-        ],
-        "classroom": "25"
-      }
-    ]
-  },
-  {
-    "code": "1730",
-    "group": "5",
-    "professor": "VICTOR MANUEL PALMA VALDERRAMA",
-    "schedules": [
-      {
-        "time": "14:30-16:00",
-        "days": [
-          1,
-          3,
-          5
-        ],
-        "classroom": "25"
+        "classroom": "A207"
       }
     ]
   },
@@ -95,7 +110,7 @@
           2,
           4
         ],
-        "classroom": "25"
+        "classroom": "A207"
       }
     ],
     "professor_id": 181728,
@@ -103,20 +118,5 @@
     "last_name": "AGUILAR YAÑEZ",
     "rating": 9.4,
     "num_ratings": 5
-  },
-  {
-    "code": "1730",
-    "group": "7",
-    "professor": "MIGUEL ANGEL VICENTE LOPEZ",
-    "schedules": [
-      {
-        "time": "18:15-20:30",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "25"
-      }
-    ]
   }
 ]

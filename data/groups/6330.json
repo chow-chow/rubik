@@ -9,26 +9,7 @@
         "days": [
           2
         ],
-        "classroom": "20"
-      }
-    ],
-    "professor_id": 82820,
-    "first_name": "Lucia Yazmín",
-    "last_name": "Juárez de la Mora",
-    "rating": 6.6522,
-    "num_ratings": 46
-  },
-  {
-    "code": "6330",
-    "group": "2",
-    "professor": "LUCIA YAZMIN JUAREZ DE LA MORA",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          3
-        ],
-        "classroom": "20"
+        "classroom": "G002"
       }
     ],
     "professor_id": 82820,
@@ -47,14 +28,33 @@
         "days": [
           4
         ],
-        "classroom": "20"
+        "classroom": "G002"
       }
     ],
     "professor_id": 68185,
     "first_name": "Luis Andrés",
     "last_name": "Suárez Hernández",
-    "rating": 7.3182,
-    "num_ratings": 22
+    "rating": 7.2609,
+    "num_ratings": 23
+  },
+  {
+    "code": "6330",
+    "group": "2",
+    "professor": "LUCIA YAZMIN JUAREZ DE LA MORA",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          3
+        ],
+        "classroom": "G002"
+      }
+    ],
+    "professor_id": 82820,
+    "first_name": "Lucia Yazmín",
+    "last_name": "Juárez de la Mora",
+    "rating": 6.6522,
+    "num_ratings": 46
   },
   {
     "code": "6330",
@@ -66,7 +66,7 @@
         "days": [
           5
         ],
-        "classroom": "20"
+        "classroom": "G002"
       }
     ]
   }

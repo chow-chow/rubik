@@ -1,6 +1,25 @@
 [
   {
     "code": "5992",
+    "group": "4",
+    "professor": "CAROLINA CASTRO ALARCON",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          4
+        ],
+        "classroom": "A311"
+      }
+    ],
+    "professor_id": 167496,
+    "first_name": "Carolina",
+    "last_name": "Castro Alarcón",
+    "rating": 7.4,
+    "num_ratings": 5
+  },
+  {
+    "code": "5992",
     "group": "1",
     "professor": "DIANA PAULA VAZQUEZ LEZAMA",
     "schedules": [
@@ -9,7 +28,7 @@
         "days": [
           5
         ],
-        "classroom": "17"
+        "classroom": "O101"
       }
     ]
   },
@@ -23,7 +42,7 @@
         "days": [
           4
         ],
-        "classroom": "18"
+        "classroom": "D002"
       }
     ]
   },
@@ -37,27 +56,8 @@
         "days": [
           5
         ],
-        "classroom": "17"
+        "classroom": "B202"
       }
     ]
-  },
-  {
-    "code": "5992",
-    "group": "4",
-    "professor": "CAROLINA CASTRO ALARCON",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          4
-        ],
-        "classroom": "17"
-      }
-    ],
-    "professor_id": 167496,
-    "first_name": "Carolina",
-    "last_name": "Castro Alarcón",
-    "rating": 7.4,
-    "num_ratings": 5
   }
 ]

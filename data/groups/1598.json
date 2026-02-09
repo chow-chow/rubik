@@ -1,80 +1,6 @@
 [
   {
     "code": "1598",
-    "group": "1",
-    "professor": "JAVIER FLORES PERALTA",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          1,
-          2,
-          5
-        ],
-        "classroom": "20"
-      }
-    ]
-  },
-  {
-    "code": "1598",
-    "group": "2",
-    "professor": "MARIA EUGENIA BAUTISTA GONZALEZ",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          1,
-          2,
-          5
-        ],
-        "classroom": "20"
-      }
-    ],
-    "professor_id": 173568,
-    "first_name": "María Eugenia",
-    "last_name": "Bautista González",
-    "rating": 9.6,
-    "num_ratings": 5
-  },
-  {
-    "code": "1598",
-    "group": "3",
-    "professor": "CINTIA QUEZADA REYES",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          1,
-          3,
-          5
-        ],
-        "classroom": "20"
-      }
-    ],
-    "professor_id": 75919,
-    "first_name": "CINTIA",
-    "last_name": "QUEZADA REYES",
-    "rating": 6.3652,
-    "num_ratings": 115
-  },
-  {
-    "code": "1598",
-    "group": "5",
-    "professor": "MARCO ANTONIO VIGUERAS VILLASEÑORVer Nota 1",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          1,
-          2,
-          4
-        ],
-        "classroom": "20"
-      }
-    ]
-  },
-  {
-    "code": "1598",
     "group": "6",
     "professor": "ALEJANDRO VELAZQUEZ MENA",
     "schedules": [
@@ -85,7 +11,7 @@
           3,
           4
         ],
-        "classroom": "20"
+        "classroom": "Y202"
       }
     ],
     "professor_id": 66382,
@@ -106,7 +32,7 @@
           3,
           4
         ],
-        "classroom": "20"
+        "classroom": "J111"
       }
     ],
     "professor_id": 119470,
@@ -117,39 +43,61 @@
   },
   {
     "code": "1598",
-    "group": "8",
-    "professor": "EDGAR MARTINEZ MEZA",
+    "group": "1",
+    "professor": "JAVIER FLORES PERALTA",
     "schedules": [
       {
-        "time": "17:00-19:00",
+        "time": "07:00-09:00",
         "days": [
+          1,
           2,
-          3,
-          4
+          5
         ],
-        "classroom": "20"
+        "classroom": "B401"
       }
-    ],
-    "professor_id": 73106,
-    "first_name": "Edgar",
-    "last_name": "Martinez Meza",
-    "rating": 6.8333,
-    "num_ratings": 6
+    ]
   },
   {
     "code": "1598",
-    "group": "10",
-    "professor": "MARIA ALEJANDRA ZUÑIGA MEDEL",
+    "group": "2",
+    "professor": "MARIA EUGENIA BAUTISTA GONZALEZ",
     "schedules": [
       {
-        "time": "08:00-11:00",
+        "time": "15:00-17:00",
         "days": [
-          5,
-          6
+          1,
+          2,
+          5
         ],
-        "classroom": "20"
+        "classroom": "B102"
       }
-    ]
+    ],
+    "professor_id": 173568,
+    "first_name": "María Eugenia",
+    "last_name": "Bautista González",
+    "rating": 9.6,
+    "num_ratings": 5
+  },
+  {
+    "code": "1598",
+    "group": "3",
+    "professor": "CINTIA QUEZADA REYES",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "J206"
+      }
+    ],
+    "professor_id": 75919,
+    "first_name": "CINTIA",
+    "last_name": "QUEZADA REYES",
+    "rating": 6.359,
+    "num_ratings": 117
   },
   {
     "code": "1598",
@@ -163,9 +111,46 @@
           2,
           4
         ],
-        "classroom": "0"
+        "classroom": "Q208"
       }
     ]
+  },
+  {
+    "code": "1598",
+    "group": "5",
+    "professor": "MARCO ANTONIO VIGUERAS VILLASEÑORVer Nota 1",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          1,
+          2,
+          4
+        ],
+        "classroom": "B408"
+      }
+    ]
+  },
+  {
+    "code": "1598",
+    "group": "8",
+    "professor": "EDGAR MARTINEZ MEZA",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2,
+          3,
+          4
+        ],
+        "classroom": "Y001"
+      }
+    ],
+    "professor_id": 73106,
+    "first_name": "Edgar",
+    "last_name": "Martinez Meza",
+    "rating": 6.8333,
+    "num_ratings": 6
   },
   {
     "code": "1598",
@@ -177,7 +162,22 @@
         "days": [
           5
         ],
-        "classroom": "0"
+        "classroom": "Q208"
+      }
+    ]
+  },
+  {
+    "code": "1598",
+    "group": "10",
+    "professor": "MARIA ALEJANDRA ZUÑIGA MEDEL",
+    "schedules": [
+      {
+        "time": "08:00-11:00",
+        "days": [
+          5,
+          6
+        ],
+        "classroom": "B404"
       }
     ]
   }

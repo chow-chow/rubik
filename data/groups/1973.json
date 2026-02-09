@@ -9,7 +9,14 @@
         "days": [
           1
         ],
-        "classroom": "20"
+        "classroom": "O007"
+      },
+      {
+        "time": "13:00-15:00",
+        "days": [
+          3
+        ],
+        "classroom": "B105"
       }
     ],
     "professor_id": 93473,
@@ -17,6 +24,32 @@
     "last_name": "Corona Lira",
     "rating": 7.1333,
     "num_ratings": 15
+  },
+  {
+    "code": "1973",
+    "group": "3",
+    "professor": "CAROLINA CASTRO ALARCON",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          3
+        ],
+        "classroom": "O007"
+      },
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1
+        ],
+        "classroom": "B104"
+      }
+    ],
+    "professor_id": 167496,
+    "first_name": "Carolina",
+    "last_name": "Castro Alarcón",
+    "rating": 7.4,
+    "num_ratings": 5
   },
   {
     "code": "1973",
@@ -28,13 +61,20 @@
         "days": [
           2
         ],
-        "classroom": "20"
+        "classroom": "O007"
+      },
+      {
+        "time": "19:00-21:00",
+        "days": [
+          4
+        ],
+        "classroom": "O102"
       }
     ],
     "professor_id": 135354,
     "first_name": "Said Ulises",
     "last_name": "Pérez Sierra",
-    "rating": 9.4,
-    "num_ratings": 5
+    "rating": 8.5,
+    "num_ratings": 6
   }
 ]

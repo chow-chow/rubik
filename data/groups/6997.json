@@ -9,7 +9,7 @@
         "days": [
           1
         ],
-        "classroom": "10"
+        "classroom": "P114"
       }
     ]
   },
@@ -23,7 +23,7 @@
         "days": [
           2
         ],
-        "classroom": "10"
+        "classroom": "P114"
       }
     ],
     "professor_id": 112610,
@@ -42,7 +42,7 @@
         "days": [
           2
         ],
-        "classroom": "10"
+        "classroom": "P114"
       }
     ],
     "professor_id": 156041,
@@ -61,14 +61,14 @@
         "days": [
           2
         ],
-        "classroom": "10"
+        "classroom": "P114"
       }
     ],
     "professor_id": 104932,
     "first_name": "MINERVA RUTH",
     "last_name": "HERRERA RODRIGUEZ",
-    "rating": 4.875,
-    "num_ratings": 8
+    "rating": 4.5556,
+    "num_ratings": 9
   },
   {
     "code": "6997",
@@ -80,7 +80,7 @@
         "days": [
           3
         ],
-        "classroom": "10"
+        "classroom": "P114"
       }
     ],
     "professor_id": 161143,
@@ -99,7 +99,7 @@
         "days": [
           4
         ],
-        "classroom": "10"
+        "classroom": "P114"
       }
     ],
     "professor_id": 112610,
@@ -118,7 +118,7 @@
         "days": [
           4
         ],
-        "classroom": "10"
+        "classroom": "P114"
       }
     ],
     "professor_id": 156041,
@@ -137,7 +137,7 @@
         "days": [
           5
         ],
-        "classroom": "10"
+        "classroom": "P114"
       }
     ]
   },
@@ -151,7 +151,7 @@
         "days": [
           5
         ],
-        "classroom": "10"
+        "classroom": "P114"
       }
     ],
     "professor_id": 159593,
@@ -159,5 +159,43 @@
     "last_name": "Ramos",
     "rating": 8.3333,
     "num_ratings": 3
+  },
+  {
+    "code": "6997",
+    "group": "10",
+    "professor": "DANIEL MARTINEZ GUTIERREZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          5
+        ],
+        "classroom": "P113"
+      }
+    ],
+    "professor_id": 87594,
+    "first_name": "Daniel",
+    "last_name": "Martínez Gutierrez",
+    "rating": 6.2222,
+    "num_ratings": 18
+  },
+  {
+    "code": "6997",
+    "group": "11",
+    "professor": "ADRIANA EUGENIA CHAVIRA DIAZ",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          5
+        ],
+        "classroom": "P113"
+      }
+    ],
+    "professor_id": 112610,
+    "first_name": "Adriana Eugenia",
+    "last_name": "Chavira Diaz",
+    "rating": 9.4706,
+    "num_ratings": 17
   }
 ]

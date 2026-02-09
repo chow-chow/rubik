@@ -1,6 +1,34 @@
 [
   {
     "code": "1795",
+    "group": "5",
+    "professor": "OMAR ALEJANDRO LLANES BRICEÑOVer Nota 1",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          3
+        ],
+        "classroom": "Y102"
+      }
+    ]
+  },
+  {
+    "code": "1795",
+    "group": "6",
+    "professor": "NOE CRUZ MARIN",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          4
+        ],
+        "classroom": "A103"
+      }
+    ]
+  },
+  {
+    "code": "1795",
     "group": "1",
     "professor": "GABRIELA CAMACHO VILLASEÑOR",
     "schedules": [
@@ -9,7 +37,7 @@
         "days": [
           2
         ],
-        "classroom": "35"
+        "classroom": "A202"
       }
     ],
     "professor_id": 95281,
@@ -28,7 +56,7 @@
         "days": [
           5
         ],
-        "classroom": "35"
+        "classroom": "A103"
       }
     ],
     "professor_id": 95281,
@@ -47,14 +75,14 @@
         "days": [
           5
         ],
-        "classroom": "35"
+        "classroom": "A101"
       }
     ],
     "professor_id": 51469,
     "first_name": "Genaro",
     "last_name": "Muñoz Hernández",
-    "rating": 7.2439,
-    "num_ratings": 41
+    "rating": 7.2857,
+    "num_ratings": 42
   },
   {
     "code": "1795",
@@ -66,41 +94,13 @@
         "days": [
           1
         ],
-        "classroom": "35"
+        "classroom": "A104"
       }
     ],
     "professor_id": 90265,
     "first_name": "Hugo Ulises",
     "last_name": "Cruz",
-    "rating": 9.3158,
-    "num_ratings": 38
-  },
-  {
-    "code": "1795",
-    "group": "5",
-    "professor": "OMAR ALEJANDRO LLANES BRICEÑOVer Nota 1",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          3
-        ],
-        "classroom": "35"
-      }
-    ]
-  },
-  {
-    "code": "1795",
-    "group": "6",
-    "professor": "NOE CRUZ MARIN",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          4
-        ],
-        "classroom": "35"
-      }
-    ]
+    "rating": 9.3333,
+    "num_ratings": 39
   }
 ]

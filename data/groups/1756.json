@@ -1,26 +1,6 @@
 [
   {
     "code": "1756",
-    "group": "1",
-    "professor": "RUBEN AVILA RODRIGUEZ",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "25"
-      }
-    ],
-    "professor_id": 74732,
-    "first_name": "Rubén",
-    "last_name": "Ávila Rodríguez",
-    "rating": 6.2593,
-    "num_ratings": 27
-  },
-  {
-    "code": "1756",
     "group": "2",
     "professor": "MARCO ANTONIO REYES HUESCA",
     "schedules": [
@@ -30,34 +10,14 @@
           2,
           4
         ],
-        "classroom": "25"
+        "classroom": "B301"
       }
     ],
     "professor_id": 62499,
     "first_name": "Marco Antonio",
     "last_name": "Reyes Huesca",
-    "rating": 7.6176,
-    "num_ratings": 34
-  },
-  {
-    "code": "1756",
-    "group": "3",
-    "professor": "JOSE MELESIO SANCHEZ HUERTA",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "25"
-      }
-    ],
-    "professor_id": 70740,
-    "first_name": "José Melesio",
-    "last_name": "Sánchez Huerta",
-    "rating": 6.6111,
-    "num_ratings": 18
+    "rating": 7.6286,
+    "num_ratings": 35
   },
   {
     "code": "1756",
@@ -70,7 +30,7 @@
           2,
           4
         ],
-        "classroom": "25"
+        "classroom": "A109"
       }
     ],
     "professor_id": 60656,
@@ -78,5 +38,45 @@
     "last_name": "Rodríguez Rodríguez",
     "rating": 8.7778,
     "num_ratings": 9
+  },
+  {
+    "code": "1756",
+    "group": "1",
+    "professor": "RUBEN AVILA RODRIGUEZ",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "D003"
+      }
+    ],
+    "professor_id": 74732,
+    "first_name": "Rubén",
+    "last_name": "Ávila Rodríguez",
+    "rating": 6.2593,
+    "num_ratings": 27
+  },
+  {
+    "code": "1756",
+    "group": "3",
+    "professor": "JOSE MELESIO SANCHEZ HUERTA",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "B105"
+      }
+    ],
+    "professor_id": 70740,
+    "first_name": "José Melesio",
+    "last_name": "Sánchez Huerta",
+    "rating": 6.6842,
+    "num_ratings": 19
   }
 ]

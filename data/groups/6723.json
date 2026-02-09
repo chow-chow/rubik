@@ -1,25 +1,6 @@
 [
   {
     "code": "6723",
-    "group": "1",
-    "professor": "DOMINGO TEODORO MENDOZA ROSALES",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          1
-        ],
-        "classroom": "20"
-      }
-    ],
-    "professor_id": 71346,
-    "first_name": "Domingo Teodoro",
-    "last_name": "Mendoza Rosales",
-    "rating": 6.9565,
-    "num_ratings": 69
-  },
-  {
-    "code": "6723",
     "group": "2",
     "professor": "FRANCISCO JAVIER MARTINEZ RODRIGUEZ",
     "schedules": [
@@ -28,14 +9,14 @@
         "days": [
           2
         ],
-        "classroom": "20"
+        "classroom": "Q107"
       }
     ],
     "professor_id": 99064,
     "first_name": "Francisco Javier",
     "last_name": "Martinez Rodriguez",
-    "rating": 4.6316,
-    "num_ratings": 38
+    "rating": 4.7179,
+    "num_ratings": 39
   },
   {
     "code": "6723",
@@ -47,7 +28,26 @@
         "days": [
           3
         ],
-        "classroom": "20"
+        "classroom": "Q107"
+      }
+    ],
+    "professor_id": 71346,
+    "first_name": "Domingo Teodoro",
+    "last_name": "Mendoza Rosales",
+    "rating": 6.9565,
+    "num_ratings": 69
+  },
+  {
+    "code": "6723",
+    "group": "1",
+    "professor": "DOMINGO TEODORO MENDOZA ROSALES",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1
+        ],
+        "classroom": "Q107"
       }
     ],
     "professor_id": 71346,
@@ -66,14 +66,14 @@
         "days": [
           4
         ],
-        "classroom": "20"
+        "classroom": "Q107"
       }
     ],
     "professor_id": 89949,
     "first_name": "ISMAEL",
     "last_name": "ROMERO OCARANZA",
-    "rating": 6.36,
-    "num_ratings": 25
+    "rating": 6.3077,
+    "num_ratings": 26
   },
   {
     "code": "6723",
@@ -85,7 +85,7 @@
         "days": [
           5
         ],
-        "classroom": "20"
+        "classroom": "Q107"
       }
     ],
     "professor_id": 21291,
@@ -104,7 +104,7 @@
         "days": [
           5
         ],
-        "classroom": "20"
+        "classroom": "Q107"
       }
     ],
     "professor_id": 21291,

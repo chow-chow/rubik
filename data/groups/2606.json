@@ -1,26 +1,6 @@
 [
   {
     "code": "2606",
-    "group": "1",
-    "professor": "JOSUE TAGO PACHECO",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "15"
-      }
-    ],
-    "professor_id": 124073,
-    "first_name": "Josue",
-    "last_name": "Tago Pacheco",
-    "rating": 8.6667,
-    "num_ratings": 6
-  },
-  {
-    "code": "2606",
     "group": "2",
     "professor": "MANUEL DE JESUS AGUILAR VELAZQUEZ",
     "schedules": [
@@ -30,8 +10,28 @@
           2,
           4
         ],
-        "classroom": "15"
+        "classroom": "C103"
       }
     ]
+  },
+  {
+    "code": "2606",
+    "group": "1",
+    "professor": "JOSUE TAGO PACHECO",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "B406"
+      }
+    ],
+    "professor_id": 124073,
+    "first_name": "Josue",
+    "last_name": "Tago Pacheco",
+    "rating": 8.6667,
+    "num_ratings": 6
   }
 ]

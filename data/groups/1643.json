@@ -1,6 +1,55 @@
 [
   {
     "code": "1643",
+    "group": "3",
+    "professor": "CLAUDIA ANGELICA CORDERO HIDALGO",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A306"
+      }
+    ],
+    "professor_id": 114130,
+    "first_name": "ING. CLAUDIA ANGELICA",
+    "last_name": "CORDERO HIDALGO",
+    "rating": 7.1579,
+    "num_ratings": 19
+  },
+  {
+    "code": "1643",
+    "group": "5",
+    "professor": "JOSE ULISES VARGAS GARCIA",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "B204"
+      }
+    ]
+  },
+  {
+    "code": "1643",
+    "group": "7",
+    "professor": "EDUARDO FILEMON VAZQUEZ SANTACRUZ",
+    "schedules": [
+      {
+        "time": "09:00-13:00",
+        "days": [
+          6
+        ],
+        "classroom": "A206"
+      }
+    ]
+  },
+  {
+    "code": "1643",
     "group": "1",
     "professor": "MARGARITA MUÑOZ GONCENVer Nota 1",
     "schedules": [
@@ -10,7 +59,7 @@
           1,
           3
         ],
-        "classroom": "35"
+        "classroom": "B206"
       }
     ]
   },
@@ -25,7 +74,7 @@
           1,
           3
         ],
-        "classroom": "35"
+        "classroom": "J111"
       }
     ],
     "professor_id": 113856,
@@ -33,26 +82,6 @@
     "last_name": "Zaldivar Esquivel",
     "rating": 9.2,
     "num_ratings": 35
-  },
-  {
-    "code": "1643",
-    "group": "3",
-    "professor": "CLAUDIA ANGELICA CORDERO HIDALGO",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "35"
-      }
-    ],
-    "professor_id": 114130,
-    "first_name": "ING. CLAUDIA ANGELICA",
-    "last_name": "CORDERO HIDALGO",
-    "rating": 7.1579,
-    "num_ratings": 19
   },
   {
     "code": "1643",
@@ -65,7 +94,7 @@
           2,
           4
         ],
-        "classroom": "35"
+        "classroom": "Y002"
       }
     ],
     "professor_id": 186085,
@@ -73,21 +102,6 @@
     "last_name": "Espinosa Gazano",
     "rating": 10.0,
     "num_ratings": 2
-  },
-  {
-    "code": "1643",
-    "group": "5",
-    "professor": "JOSE ULISES VARGAS GARCIA",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "35"
-      }
-    ]
   },
   {
     "code": "1643",
@@ -99,7 +113,7 @@
         "days": [
           6
         ],
-        "classroom": "35"
+        "classroom": "J111"
       }
     ],
     "professor_id": 113856,
@@ -107,19 +121,5 @@
     "last_name": "Zaldivar Esquivel",
     "rating": 9.2,
     "num_ratings": 35
-  },
-  {
-    "code": "1643",
-    "group": "7",
-    "professor": "EDUARDO FILEMON VAZQUEZ SANTACRUZ",
-    "schedules": [
-      {
-        "time": "09:00-13:00",
-        "days": [
-          6
-        ],
-        "classroom": "35"
-      }
-    ]
   }
 ]

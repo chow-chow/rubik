@@ -1,15 +1,82 @@
 [
   {
     "code": "1424",
+    "group": "3",
+    "professor": "MANUEL CORTES RUBIO",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "J208"
+      }
+    ],
+    "professor_id": 100208,
+    "first_name": "Manuel",
+    "last_name": "Cortes Rubio",
+    "rating": 8.6098,
+    "num_ratings": 82
+  },
+  {
+    "code": "1424",
+    "group": "4",
+    "professor": "DANIEL PEÑA MACIEL",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1,
+          5
+        ],
+        "classroom": "J104"
+      }
+    ],
+    "professor_id": 84731,
+    "first_name": "Daniel",
+    "last_name": "Peña Maciel",
+    "rating": 7.1923,
+    "num_ratings": 26
+  },
+  {
+    "code": "1424",
+    "group": "11",
+    "professor": "JOSE LUIS FLORES SILVA",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "J108"
+      }
+    ],
+    "professor_id": 43499,
+    "first_name": "Jose luis",
+    "last_name": "Flores Silva",
+    "rating": 7.4107,
+    "num_ratings": 56
+  },
+  {
+    "code": "1424",
     "group": "1",
-    "professor": "PAVEL RAMOS MARTÍNEZ",
+    "professor": "PAVEL RAMOS MARTINEZ",
     "schedules": [
       {
         "time": "07:00-09:00",
         "days": [
           1
         ],
-        "classroom": "48"
+        "classroom": "J101"
+      },
+      {
+        "time": "07:00-09:00",
+        "days": [
+          3
+        ],
+        "classroom": "J102"
       }
     ]
   },
@@ -24,7 +91,7 @@
           2,
           4
         ],
-        "classroom": "48"
+        "classroom": "J102"
       }
     ],
     "professor_id": 149542,
@@ -32,46 +99,6 @@
     "last_name": "Lazcano Salas",
     "rating": 8.375,
     "num_ratings": 8
-  },
-  {
-    "code": "1424",
-    "group": "3",
-    "professor": "MANUEL CORTES RUBIO",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          3,
-          5
-        ],
-        "classroom": "48"
-      }
-    ],
-    "professor_id": 100208,
-    "first_name": "Manuel",
-    "last_name": "Cortes Rubio",
-    "rating": 8.5926,
-    "num_ratings": 81
-  },
-  {
-    "code": "1424",
-    "group": "4",
-    "professor": "DANIEL PEÑA MACIEL",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          1,
-          5
-        ],
-        "classroom": "48"
-      }
-    ],
-    "professor_id": 84731,
-    "first_name": "Daniel",
-    "last_name": "Peña Maciel",
-    "rating": 7.24,
-    "num_ratings": 25
   },
   {
     "code": "1424",
@@ -84,14 +111,14 @@
           2,
           4
         ],
-        "classroom": "48"
+        "classroom": "J210"
       }
     ],
     "professor_id": 84731,
     "first_name": "Daniel",
     "last_name": "Peña Maciel",
-    "rating": 7.24,
-    "num_ratings": 25
+    "rating": 7.1923,
+    "num_ratings": 26
   },
   {
     "code": "1424",
@@ -104,14 +131,14 @@
           2,
           4
         ],
-        "classroom": "48"
+        "classroom": "I206"
       }
     ],
     "professor_id": 84254,
     "first_name": "Ali",
     "last_name": "Ramos Gómez",
-    "rating": 8.4179,
-    "num_ratings": 67
+    "rating": 8.4412,
+    "num_ratings": 68
   },
   {
     "code": "1424",
@@ -124,14 +151,14 @@
           2,
           4
         ],
-        "classroom": "48"
+        "classroom": "I105"
       }
     ],
     "professor_id": 86508,
     "first_name": "Cynthia Lisseth",
     "last_name": "Velazco Velasco",
-    "rating": 7.3396,
-    "num_ratings": 53
+    "rating": 7.2182,
+    "num_ratings": 55
   },
   {
     "code": "1424",
@@ -144,14 +171,14 @@
           3,
           5
         ],
-        "classroom": "48"
+        "classroom": "I106"
       }
     ],
     "professor_id": 100208,
     "first_name": "Manuel",
     "last_name": "Cortes Rubio",
-    "rating": 8.5926,
-    "num_ratings": 81
+    "rating": 8.6098,
+    "num_ratings": 82
   },
   {
     "code": "1424",
@@ -164,7 +191,7 @@
           1,
           3
         ],
-        "classroom": "35"
+        "classroom": "J207"
       }
     ],
     "professor_id": 78508,
@@ -184,34 +211,14 @@
           2,
           4
         ],
-        "classroom": "48"
+        "classroom": "J103"
       }
     ],
     "professor_id": 86508,
     "first_name": "Cynthia Lisseth",
     "last_name": "Velazco Velasco",
-    "rating": 7.3396,
-    "num_ratings": 53
-  },
-  {
-    "code": "1424",
-    "group": "11",
-    "professor": "JOSE LUIS FLORES SILVA",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "48"
-      }
-    ],
-    "professor_id": 43499,
-    "first_name": "Jose luis",
-    "last_name": "Flores Silva",
-    "rating": 7.4107,
-    "num_ratings": 56
+    "rating": 7.2182,
+    "num_ratings": 55
   },
   {
     "code": "1424",
@@ -224,7 +231,7 @@
           1,
           3
         ],
-        "classroom": "48"
+        "classroom": "J103"
       }
     ],
     "professor_id": 156721,

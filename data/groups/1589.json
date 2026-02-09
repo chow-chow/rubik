@@ -1,28 +1,8 @@
 [
   {
     "code": "1589",
-    "group": "1",
-    "professor": "EFRAIN GARCIA ACEVEDO",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "20"
-      }
-    ],
-    "professor_id": 114618,
-    "first_name": "EFRAÍN",
-    "last_name": "GARCIA ACEVEDO",
-    "rating": 6.2,
-    "num_ratings": 10
-  },
-  {
-    "code": "1589",
     "group": "2",
-    "professor": "JAVIER HERNÁNDEZ HERNÁNDEZ",
+    "professor": "JAVIER HERNANDEZ HERNANDEZ",
     "schedules": [
       {
         "time": "07:00-09:00",
@@ -30,9 +10,14 @@
           1,
           3
         ],
-        "classroom": "20"
+        "classroom": "A402"
       }
-    ]
+    ],
+    "professor_id": 107488,
+    "first_name": "Javier Isaac",
+    "last_name": "Hernandez Prado",
+    "rating": 7.25,
+    "num_ratings": 12
   },
   {
     "code": "1589",
@@ -45,7 +30,7 @@
           1,
           3
         ],
-        "classroom": "20"
+        "classroom": "Y103"
       }
     ],
     "professor_id": 159468,
@@ -53,5 +38,25 @@
     "last_name": "Loera",
     "rating": 9.4231,
     "num_ratings": 26
+  },
+  {
+    "code": "1589",
+    "group": "1",
+    "professor": "EFRAIN GARCIA ACEVEDO",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "D009"
+      }
+    ],
+    "professor_id": 114618,
+    "first_name": "EFRAÍN",
+    "last_name": "GARCIA ACEVEDO",
+    "rating": 6.2,
+    "num_ratings": 10
   }
 ]

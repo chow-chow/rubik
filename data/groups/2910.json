@@ -1,6 +1,20 @@
 [
   {
     "code": "2910",
+    "group": "3",
+    "professor": "DAVID QUINTANAR VILLALBA",
+    "schedules": [
+      {
+        "time": "11:00-14:00",
+        "days": [
+          5
+        ],
+        "classroom": "P001"
+      }
+    ]
+  },
+  {
+    "code": "2910",
     "group": "1",
     "professor": "HOOVER MUJICA ORTEGA",
     "schedules": [
@@ -9,7 +23,7 @@
         "days": [
           1
         ],
-        "classroom": "14"
+        "classroom": "P001"
       }
     ],
     "professor_id": 99860,
@@ -28,7 +42,7 @@
         "days": [
           3
         ],
-        "classroom": "14"
+        "classroom": "P001"
       }
     ],
     "professor_id": 99860,
@@ -36,19 +50,5 @@
     "last_name": "Mujica Ortega",
     "rating": 7.6923,
     "num_ratings": 13
-  },
-  {
-    "code": "2910",
-    "group": "3",
-    "professor": "DAVID QUINTANAR VILLALBA",
-    "schedules": [
-      {
-        "time": "11:00-14:00",
-        "days": [
-          5
-        ],
-        "classroom": "14"
-      }
-    ]
   }
 ]

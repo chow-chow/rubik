@@ -1,6 +1,20 @@
 [
   {
     "code": "6598",
+    "group": "1",
+    "professor": "JOSE ANTONIO MACIAS GARCIA",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1
+        ],
+        "classroom": "Q208"
+      }
+    ]
+  },
+  {
+    "code": "6598",
     "group": "2",
     "professor": "CINTIA QUEZADA REYES",
     "schedules": [
@@ -9,14 +23,14 @@
         "days": [
           2
         ],
-        "classroom": "18"
+        "classroom": "Q208"
       }
     ],
     "professor_id": 75919,
     "first_name": "CINTIA",
     "last_name": "QUEZADA REYES",
-    "rating": 6.3652,
-    "num_ratings": 115
+    "rating": 6.359,
+    "num_ratings": 117
   },
   {
     "code": "6598",
@@ -28,7 +42,7 @@
         "days": [
           2
         ],
-        "classroom": "18"
+        "classroom": "Q208"
       }
     ],
     "professor_id": 73106,
@@ -47,7 +61,7 @@
         "days": [
           3
         ],
-        "classroom": "18"
+        "classroom": "Q208"
       }
     ]
   },
@@ -61,7 +75,7 @@
         "days": [
           3
         ],
-        "classroom": "18"
+        "classroom": "Q208"
       }
     ],
     "professor_id": 172881,
@@ -80,7 +94,7 @@
         "days": [
           4
         ],
-        "classroom": "18"
+        "classroom": "Q208"
       }
     ],
     "professor_id": 173568,
@@ -99,7 +113,7 @@
         "days": [
           4
         ],
-        "classroom": "18"
+        "classroom": "Q208"
       }
     ],
     "professor_id": 173568,
@@ -118,40 +132,7 @@
         "days": [
           4
         ],
-        "classroom": "18"
-      }
-    ]
-  },
-  {
-    "code": "6598",
-    "group": "11",
-    "professor": "MARIA EUGENIA BAUTISTA GONZALEZ",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          5
-        ],
-        "classroom": "18"
-      }
-    ],
-    "professor_id": 173568,
-    "first_name": "María Eugenia",
-    "last_name": "Bautista González",
-    "rating": 9.6,
-    "num_ratings": 5
-  },
-  {
-    "code": "6598",
-    "group": "1",
-    "professor": "JOSE ANTONIO MACIAS GARCIA",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          1
-        ],
-        "classroom": "0"
+        "classroom": "Q208"
       }
     ]
   },
@@ -165,8 +146,27 @@
         "days": [
           5
         ],
-        "classroom": "0"
+        "classroom": "Q208"
       }
     ]
+  },
+  {
+    "code": "6598",
+    "group": "11",
+    "professor": "MARIA EUGENIA BAUTISTA GONZALEZ",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          5
+        ],
+        "classroom": "Q208"
+      }
+    ],
+    "professor_id": 173568,
+    "first_name": "María Eugenia",
+    "last_name": "Bautista González",
+    "rating": 9.6,
+    "num_ratings": 5
   }
 ]

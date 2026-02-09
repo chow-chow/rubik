@@ -1,6 +1,50 @@
 [
   {
     "code": "1996",
+    "group": "4",
+    "professor": "IGNACIO RANGEL FUERTE",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "A203"
+      },
+      {
+        "time": "13:00-15:00",
+        "days": [
+          5
+        ],
+        "classroom": "O007"
+      }
+    ]
+  },
+  {
+    "code": "1996",
+    "group": "5",
+    "professor": "IGNACIO RANGEL FUERTE",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "J206"
+      },
+      {
+        "time": "07:00-09:00",
+        "days": [
+          5
+        ],
+        "classroom": "O007"
+      }
+    ]
+  },
+  {
+    "code": "1996",
     "group": "1",
     "professor": "ULISES MARTIN PEÑUELAS RIVAS",
     "schedules": [
@@ -9,7 +53,14 @@
         "days": [
           4
         ],
-        "classroom": "20"
+        "classroom": "O102"
+      },
+      {
+        "time": "11:00-14:00",
+        "days": [
+          2
+        ],
+        "classroom": "O007"
       }
     ],
     "professor_id": 124473,
@@ -29,7 +80,14 @@
           1,
           3
         ],
-        "classroom": "15"
+        "classroom": "B202"
+      },
+      {
+        "time": "11:00-13:00",
+        "days": [
+          5
+        ],
+        "classroom": "X401"
       }
     ],
     "professor_id": 124473,
@@ -49,7 +107,14 @@
           1,
           3
         ],
-        "classroom": "20"
+        "classroom": "B301"
+      },
+      {
+        "time": "11:00-13:00",
+        "days": [
+          5
+        ],
+        "classroom": "O007"
       }
     ],
     "professor_id": 109270,
@@ -57,35 +122,5 @@
     "last_name": "Castañeda Cedeño",
     "rating": 7.3333,
     "num_ratings": 12
-  },
-  {
-    "code": "1996",
-    "group": "4",
-    "professor": "IGNACIO RANGEL FUERTE",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "20"
-      }
-    ]
-  },
-  {
-    "code": "1996",
-    "group": "5",
-    "professor": "IGNACIO RANGEL FUERTE",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "20"
-      }
-    ]
   }
 ]

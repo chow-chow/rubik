@@ -9,21 +9,7 @@
         "days": [
           5
         ],
-        "classroom": "13"
-      }
-    ]
-  },
-  {
-    "code": "7714",
-    "group": "2",
-    "professor": "SALVADOR EMILIO SIERRA BENAVIDEZ",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          5
-        ],
-        "classroom": "13"
+        "classroom": "Y201"
       }
     ]
   },
@@ -37,7 +23,7 @@
         "days": [
           5
         ],
-        "classroom": "13"
+        "classroom": "Y201"
       }
     ],
     "professor_id": 175543,
@@ -56,14 +42,28 @@
         "days": [
           2
         ],
-        "classroom": "13"
+        "classroom": "Y201"
       }
     ],
     "professor_id": 95374,
     "first_name": "JULIO",
     "last_name": "SERRANO VILLEGAS",
-    "rating": 9.0588,
-    "num_ratings": 17
+    "rating": 9.0,
+    "num_ratings": 18
+  },
+  {
+    "code": "7714",
+    "group": "2",
+    "professor": "SALVADOR EMILIO SIERRA BENAVIDEZ",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          5
+        ],
+        "classroom": "Y201"
+      }
+    ]
   },
   {
     "code": "7714",
@@ -75,7 +75,7 @@
         "days": [
           4
         ],
-        "classroom": "13"
+        "classroom": "Y201"
       }
     ],
     "professor_id": 79607,

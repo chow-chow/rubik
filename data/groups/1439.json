@@ -9,7 +9,7 @@
         "days": [
           5
         ],
-        "classroom": "25"
+        "classroom": "C201"
       }
     ],
     "professor_id": 101485,
@@ -28,14 +28,14 @@
         "days": [
           1
         ],
-        "classroom": "25"
+        "classroom": "C201"
       }
     ]
   },
   {
     "code": "1439",
     "group": "3",
-    "professor": "JANET MONTAÑO SALAZAR",
+    "professor": "JANETT MONTAÑO SALAZAR",
     "schedules": [
       {
         "time": "11:00-12:30",
@@ -43,14 +43,14 @@
           2,
           4
         ],
-        "classroom": "25"
+        "classroom": "C201"
       }
     ]
   },
   {
     "code": "1439",
     "group": "4",
-    "professor": "JANET MONTAÑO SALAZAR",
+    "professor": "JANETT MONTAÑO SALAZAR",
     "schedules": [
       {
         "time": "15:00-16:30",
@@ -58,7 +58,7 @@
           2,
           4
         ],
-        "classroom": "25"
+        "classroom": "C201"
       }
     ]
   }

@@ -1,26 +1,6 @@
 [
   {
     "code": "1991",
-    "group": "1",
-    "professor": "JOSE ANGEL GOMEZ CABRERA",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "25"
-      }
-    ],
-    "professor_id": 162271,
-    "first_name": "José Angel",
-    "last_name": "Gómez Cabrera",
-    "rating": 3.4,
-    "num_ratings": 5
-  },
-  {
-    "code": "1991",
     "group": "2",
     "professor": "OSWALDO DAVID LOPEZ HERNANDEZ",
     "schedules": [
@@ -29,7 +9,7 @@
         "days": [
           6
         ],
-        "classroom": "15"
+        "classroom": "C202"
       }
     ],
     "professor_id": 133811,
@@ -49,13 +29,33 @@
           2,
           4
         ],
-        "classroom": "20"
+        "classroom": "Y103"
       }
     ],
     "professor_id": 111901,
     "first_name": "Gilberto",
     "last_name": "Sebastián Barrera",
-    "rating": 6.9091,
-    "num_ratings": 33
+    "rating": 6.9412,
+    "num_ratings": 34
+  },
+  {
+    "code": "1991",
+    "group": "1",
+    "professor": "JOSE ANGEL GOMEZ CABRERA",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "D008"
+      }
+    ],
+    "professor_id": 162271,
+    "first_name": "José Angel",
+    "last_name": "Gómez Cabrera",
+    "rating": 3.8333,
+    "num_ratings": 6
   }
 ]

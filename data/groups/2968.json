@@ -10,7 +10,15 @@
           2,
           4
         ],
-        "classroom": "20"
+        "classroom": "C401"
+      },
+      {
+        "time": "13:00-14:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "C401"
       }
     ]
   },
@@ -22,10 +30,32 @@
       {
         "time": "11:00-12:20",
         "days": [
+          5
+        ],
+        "classroom": "C103"
+      },
+      {
+        "time": "11:00-12:20",
+        "days": [
           1,
           3
         ],
-        "classroom": "20"
+        "classroom": "C105"
+      },
+      {
+        "time": "12:20-13:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "C105"
+      },
+      {
+        "time": "12:20-13:00",
+        "days": [
+          5
+        ],
+        "classroom": "C103"
       }
     ],
     "professor_id": 64701,

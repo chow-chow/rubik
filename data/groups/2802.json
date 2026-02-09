@@ -9,7 +9,14 @@
         "days": [
           3
         ],
-        "classroom": "15"
+        "classroom": "N005"
+      },
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1
+        ],
+        "classroom": "O101"
       }
     ],
     "professor_id": 159597,

@@ -1,8 +1,23 @@
 [
   {
     "code": "2814",
+    "group": "2",
+    "professor": "RAUL HERNANDEZ MORA",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "Q308"
+      }
+    ]
+  },
+  {
+    "code": "2814",
     "group": "1",
-    "professor": "LUIS FRANCISCO GARCIA JIMENEZ",
+    "professor": "Grupo cancelado, contactar a la División.",
     "schedules": [
       {
         "time": "09:00-11:00",
@@ -10,13 +25,8 @@
           1,
           3
         ],
-        "classroom": "8"
+        "classroom": "Q308"
       }
-    ],
-    "professor_id": 84771,
-    "first_name": "Luis Francisco",
-    "last_name": "Garcia Jimenez",
-    "rating": 7.0,
-    "num_ratings": 2
+    ]
   }
 ]

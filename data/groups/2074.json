@@ -1,6 +1,32 @@
 [
   {
     "code": "2074",
+    "group": "2",
+    "professor": "OSCAR GARCIA ARANDA",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          1
+        ],
+        "classroom": "O101"
+      },
+      {
+        "time": "07:00-09:00",
+        "days": [
+          3
+        ],
+        "classroom": "N005"
+      }
+    ],
+    "professor_id": 159597,
+    "first_name": "Óscar",
+    "last_name": "García Aranda",
+    "rating": 6.5,
+    "num_ratings": 2
+  },
+  {
+    "code": "2074",
     "group": "1",
     "professor": "LEONARDO FLORES SAUCEDA",
     "schedules": [
@@ -10,27 +36,8 @@
           2,
           4
         ],
-        "classroom": "10"
+        "classroom": "EXTR"
       }
     ]
-  },
-  {
-    "code": "2074",
-    "group": "2",
-    "professor": "OSCAR GARCIA ARANDA",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          1
-        ],
-        "classroom": "15"
-      }
-    ],
-    "professor_id": 159597,
-    "first_name": "Óscar",
-    "last_name": "García Aranda",
-    "rating": 6.5,
-    "num_ratings": 2
   }
 ]

@@ -1,21 +1,6 @@
 [
   {
     "code": "2714",
-    "group": "1",
-    "professor": "SALVADOR EMILIO SIERRA BENAVIDEZ",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "35"
-      }
-    ]
-  },
-  {
-    "code": "2714",
     "group": "2",
     "professor": "JORGE PRADO MORALES",
     "schedules": [
@@ -25,7 +10,7 @@
           3,
           5
         ],
-        "classroom": "35"
+        "classroom": "I306"
       }
     ],
     "professor_id": 175543,
@@ -33,5 +18,20 @@
     "last_name": "Prado Morales",
     "rating": 7.5,
     "num_ratings": 8
+  },
+  {
+    "code": "2714",
+    "group": "1",
+    "professor": "SALVADOR EMILIO SIERRA BENAVIDEZ",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "J206"
+      }
+    ]
   }
 ]

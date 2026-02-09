@@ -10,7 +10,14 @@
           3,
           5
         ],
-        "classroom": "30"
+        "classroom": "D003"
+      },
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1
+        ],
+        "classroom": "B105"
       }
     ],
     "professor_id": 171640,
@@ -18,26 +25,6 @@
     "last_name": "Peña Medina",
     "rating": 5.0,
     "num_ratings": 3
-  },
-  {
-    "code": "2135",
-    "group": "2",
-    "professor": "ROBERTO ANGEL GARCIA GARCIA",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "30"
-      }
-    ],
-    "professor_id": 173549,
-    "first_name": "Roberto Ángel",
-    "last_name": "García García",
-    "rating": 8.0,
-    "num_ratings": 9
   },
   {
     "code": "2135",
@@ -51,14 +38,14 @@
           3,
           5
         ],
-        "classroom": "30"
+        "classroom": "B303"
       }
     ],
     "professor_id": 114507,
     "first_name": "Sergio",
     "last_name": "Esteves Rebollo",
     "rating": 9.0,
-    "num_ratings": 7
+    "num_ratings": 8
   },
   {
     "code": "2135",
@@ -71,7 +58,14 @@
           1,
           3
         ],
-        "classroom": "25"
+        "classroom": "O102"
+      },
+      {
+        "time": "07:00-09:00",
+        "days": [
+          5
+        ],
+        "classroom": "O102"
       }
     ],
     "professor_id": 109269,
@@ -91,7 +85,14 @@
           1,
           3
         ],
-        "classroom": "25"
+        "classroom": "Y004"
+      },
+      {
+        "time": "15:00-17:00",
+        "days": [
+          5
+        ],
+        "classroom": "Y004"
       }
     ],
     "professor_id": 108443,
@@ -99,5 +100,32 @@
     "last_name": "Silva Rico",
     "rating": 9.4,
     "num_ratings": 5
+  },
+  {
+    "code": "2135",
+    "group": "2",
+    "professor": "ROBERTO ANGEL GARCIA GARCIA",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "B104"
+      },
+      {
+        "time": "11:00-13:00",
+        "days": [
+          5
+        ],
+        "classroom": "B104"
+      }
+    ],
+    "professor_id": 173549,
+    "first_name": "Roberto Ángel",
+    "last_name": "García García",
+    "rating": 8.3636,
+    "num_ratings": 11
   }
 ]

@@ -1,53 +1,15 @@
 [
   {
     "code": "6672",
-    "group": "1",
-    "professor": "MOISES MELENDEZ REYES",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          1
-        ],
-        "classroom": "19"
-      }
-    ],
-    "professor_id": 134609,
-    "first_name": "Moises",
-    "last_name": "Melendez Reyes",
-    "rating": 7.9,
-    "num_ratings": 20
-  },
-  {
-    "code": "6672",
-    "group": "2",
-    "professor": "MOISES MELENDEZ REYES",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          1
-        ],
-        "classroom": "19"
-      }
-    ],
-    "professor_id": 134609,
-    "first_name": "Moises",
-    "last_name": "Melendez Reyes",
-    "rating": 7.9,
-    "num_ratings": 20
-  },
-  {
-    "code": "6672",
     "group": "3",
-    "professor": "DIANA CRUZ HERNANDEZ",
+    "professor": "DIANA AURORA CRUZ HERNANDEZ",
     "schedules": [
       {
         "time": "09:00-11:00",
         "days": [
           2
         ],
-        "classroom": "19"
+        "classroom": "Q209"
       }
     ],
     "professor_id": 94396,
@@ -55,37 +17,18 @@
     "last_name": "CRUZ HERNANDEZ",
     "rating": 5.2,
     "num_ratings": 10
-  },
-  {
-    "code": "6672",
-    "group": "4",
-    "professor": "RUBEN ANAYA GARCIA",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          2
-        ],
-        "classroom": "19"
-      }
-    ],
-    "professor_id": 94395,
-    "first_name": "RUBEN",
-    "last_name": "ANAYA GARCIA",
-    "rating": 8.1333,
-    "num_ratings": 15
   },
   {
     "code": "6672",
     "group": "5",
-    "professor": "DIANA CRUZ HERNANDEZ",
+    "professor": "DIANA AURORA CRUZ HERNANDEZ",
     "schedules": [
       {
         "time": "09:00-11:00",
         "days": [
           3
         ],
-        "classroom": "19"
+        "classroom": "Q209"
       }
     ],
     "professor_id": 94396,
@@ -93,63 +36,6 @@
     "last_name": "CRUZ HERNANDEZ",
     "rating": 5.2,
     "num_ratings": 10
-  },
-  {
-    "code": "6672",
-    "group": "6",
-    "professor": "MOISES MELENDEZ REYES",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          3
-        ],
-        "classroom": "19"
-      }
-    ],
-    "professor_id": 134609,
-    "first_name": "Moises",
-    "last_name": "Melendez Reyes",
-    "rating": 7.9,
-    "num_ratings": 20
-  },
-  {
-    "code": "6672",
-    "group": "7",
-    "professor": "LOURDES ANGELICA QUIÑONES JUAREZ",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          4
-        ],
-        "classroom": "19"
-      }
-    ],
-    "professor_id": 124037,
-    "first_name": "Lourdes Angelica",
-    "last_name": "Quiñones Juarez",
-    "rating": 8.0556,
-    "num_ratings": 18
-  },
-  {
-    "code": "6672",
-    "group": "8",
-    "professor": "RUBEN ANAYA GARCIA",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          4
-        ],
-        "classroom": "19"
-      }
-    ],
-    "professor_id": 94395,
-    "first_name": "RUBEN",
-    "last_name": "ANAYA GARCIA",
-    "rating": 8.1333,
-    "num_ratings": 15
   },
   {
     "code": "6672",
@@ -161,14 +47,14 @@
         "days": [
           5
         ],
-        "classroom": "19"
+        "classroom": "Q209"
       }
     ],
     "professor_id": 108136,
     "first_name": "Roman Victoriano",
     "last_name": "Osorio Comparan",
-    "rating": 7.1667,
-    "num_ratings": 18
+    "rating": 6.65,
+    "num_ratings": 20
   },
   {
     "code": "6672",
@@ -180,14 +66,128 @@
         "days": [
           5
         ],
-        "classroom": "19"
+        "classroom": "Q209"
       }
     ],
     "professor_id": 108136,
     "first_name": "Roman Victoriano",
     "last_name": "Osorio Comparan",
-    "rating": 7.1667,
-    "num_ratings": 18
+    "rating": 6.65,
+    "num_ratings": 20
+  },
+  {
+    "code": "6672",
+    "group": "1",
+    "professor": "MOISES MELENDEZ REYES",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1
+        ],
+        "classroom": "Q209"
+      }
+    ],
+    "professor_id": 134609,
+    "first_name": "Moises",
+    "last_name": "Melendez Reyes",
+    "rating": 7.6818,
+    "num_ratings": 22
+  },
+  {
+    "code": "6672",
+    "group": "2",
+    "professor": "MOISES MELENDEZ REYES",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1
+        ],
+        "classroom": "Q209"
+      }
+    ],
+    "professor_id": 134609,
+    "first_name": "Moises",
+    "last_name": "Melendez Reyes",
+    "rating": 7.6818,
+    "num_ratings": 22
+  },
+  {
+    "code": "6672",
+    "group": "4",
+    "professor": "RUBEN ANAYA GARCIA",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2
+        ],
+        "classroom": "Q209"
+      }
+    ],
+    "professor_id": 94395,
+    "first_name": "RUBEN",
+    "last_name": "ANAYA GARCIA",
+    "rating": 8.25,
+    "num_ratings": 16
+  },
+  {
+    "code": "6672",
+    "group": "6",
+    "professor": "MOISES MELENDEZ REYES",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          3
+        ],
+        "classroom": "Q209"
+      }
+    ],
+    "professor_id": 134609,
+    "first_name": "Moises",
+    "last_name": "Melendez Reyes",
+    "rating": 7.6818,
+    "num_ratings": 22
+  },
+  {
+    "code": "6672",
+    "group": "7",
+    "professor": "LOURDES ANGELICA QUIÑONES JUAREZ",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          4
+        ],
+        "classroom": "Q209"
+      }
+    ],
+    "professor_id": 124037,
+    "first_name": "Lourdes Angelica",
+    "last_name": "Quiñones Juarez",
+    "rating": 8.1579,
+    "num_ratings": 19
+  },
+  {
+    "code": "6672",
+    "group": "8",
+    "professor": "RUBEN ANAYA GARCIA",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          4
+        ],
+        "classroom": "Q209"
+      }
+    ],
+    "professor_id": 94395,
+    "first_name": "RUBEN",
+    "last_name": "ANAYA GARCIA",
+    "rating": 8.25,
+    "num_ratings": 16
   },
   {
     "code": "6672",
@@ -199,7 +199,7 @@
         "days": [
           5
         ],
-        "classroom": "19"
+        "classroom": "Q209"
       }
     ]
   },
@@ -213,7 +213,7 @@
         "days": [
           5
         ],
-        "classroom": "19"
+        "classroom": "Q209"
       }
     ]
   }

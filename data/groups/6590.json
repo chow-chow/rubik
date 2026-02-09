@@ -1,25 +1,6 @@
 [
   {
     "code": "6590",
-    "group": "1",
-    "professor": "ARTURO PEREZ DE LA CRUZ",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          1
-        ],
-        "classroom": "17"
-      }
-    ],
-    "professor_id": 95352,
-    "first_name": "Arturo",
-    "last_name": "Pérez De la Cruz",
-    "rating": 5.2857,
-    "num_ratings": 28
-  },
-  {
-    "code": "6590",
     "group": "2",
     "professor": "JOSE ROQUE ROMAN GUADARRAMA",
     "schedules": [
@@ -28,7 +9,7 @@
         "days": [
           1
         ],
-        "classroom": "17"
+        "classroom": "Q219"
       }
     ],
     "professor_id": 95712,
@@ -47,7 +28,7 @@
         "days": [
           1
         ],
-        "classroom": "17"
+        "classroom": "Q219"
       }
     ],
     "professor_id": 95712,
@@ -55,110 +36,6 @@
     "last_name": "Román Guadarrama",
     "rating": 7.3333,
     "num_ratings": 36
-  },
-  {
-    "code": "6590",
-    "group": "4",
-    "professor": "EDEN ESPINOZA URZUA",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          1
-        ],
-        "classroom": "17"
-      }
-    ]
-  },
-  {
-    "code": "6590",
-    "group": "5",
-    "professor": "SERGIO TEODORO VITE",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          2
-        ],
-        "classroom": "17"
-      }
-    ],
-    "professor_id": 85623,
-    "first_name": "Sergio",
-    "last_name": "Teodoro Vite",
-    "rating": 8.3,
-    "num_ratings": 30
-  },
-  {
-    "code": "6590",
-    "group": "6",
-    "professor": "SERGIO TEODORO VITE",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          2
-        ],
-        "classroom": "17"
-      }
-    ],
-    "professor_id": 85623,
-    "first_name": "Sergio",
-    "last_name": "Teodoro Vite",
-    "rating": 8.3,
-    "num_ratings": 30
-  },
-  {
-    "code": "6590",
-    "group": "7",
-    "professor": "ARTURO PEREZ DE LA CRUZ",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          3
-        ],
-        "classroom": "17"
-      }
-    ],
-    "professor_id": 95352,
-    "first_name": "Arturo",
-    "last_name": "Pérez De la Cruz",
-    "rating": 5.2857,
-    "num_ratings": 28
-  },
-  {
-    "code": "6590",
-    "group": "8",
-    "professor": "CARLOS ALDAIR ROMAN BALBUENA",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          3
-        ],
-        "classroom": "17"
-      }
-    ],
-    "professor_id": 113612,
-    "first_name": "Carlos Aldair",
-    "last_name": "Roman Balbuena",
-    "rating": 6.2174,
-    "num_ratings": 46
-  },
-  {
-    "code": "6590",
-    "group": "9",
-    "professor": "EDCEL FUERTE MARTINEZ",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          3
-        ],
-        "classroom": "17"
-      }
-    ]
   },
   {
     "code": "6590",
@@ -170,7 +47,7 @@
         "days": [
           4
         ],
-        "classroom": "17"
+        "classroom": "Q219"
       }
     ],
     "professor_id": 79254,
@@ -189,7 +66,7 @@
         "days": [
           4
         ],
-        "classroom": "17"
+        "classroom": "Q219"
       }
     ],
     "professor_id": 79254,
@@ -197,6 +74,134 @@
     "last_name": "Valencia Castro",
     "rating": 5.9167,
     "num_ratings": 48
+  },
+  {
+    "code": "6590",
+    "group": "1",
+    "professor": "ARTURO PEREZ DE LA CRUZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1
+        ],
+        "classroom": "Q219"
+      }
+    ],
+    "professor_id": 95352,
+    "first_name": "Arturo",
+    "last_name": "Pérez De la Cruz",
+    "rating": 5.2857,
+    "num_ratings": 28
+  },
+  {
+    "code": "6590",
+    "group": "4",
+    "professor": "EDEN ESPINOZA URZUA",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1
+        ],
+        "classroom": "Q219"
+      }
+    ],
+    "professor_id": 186878,
+    "first_name": "Eden",
+    "last_name": "Espinoza Urzúa",
+    "rating": 9.5,
+    "num_ratings": 2
+  },
+  {
+    "code": "6590",
+    "group": "5",
+    "professor": "SERGIO TEODORO VITE",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2
+        ],
+        "classroom": "Q219"
+      }
+    ],
+    "professor_id": 85623,
+    "first_name": "Sergio",
+    "last_name": "Teodoro Vite",
+    "rating": 8.2903,
+    "num_ratings": 31
+  },
+  {
+    "code": "6590",
+    "group": "6",
+    "professor": "SERGIO TEODORO VITE",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2
+        ],
+        "classroom": "Q219"
+      }
+    ],
+    "professor_id": 85623,
+    "first_name": "Sergio",
+    "last_name": "Teodoro Vite",
+    "rating": 8.2903,
+    "num_ratings": 31
+  },
+  {
+    "code": "6590",
+    "group": "7",
+    "professor": "ARTURO PEREZ DE LA CRUZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          3
+        ],
+        "classroom": "Q219"
+      }
+    ],
+    "professor_id": 95352,
+    "first_name": "Arturo",
+    "last_name": "Pérez De la Cruz",
+    "rating": 5.2857,
+    "num_ratings": 28
+  },
+  {
+    "code": "6590",
+    "group": "8",
+    "professor": "CARLOS ALDAIR ROMAN BALBUENA",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          3
+        ],
+        "classroom": "Q219"
+      }
+    ],
+    "professor_id": 113612,
+    "first_name": "Carlos Aldair",
+    "last_name": "Roman Balbuena",
+    "rating": 6.2766,
+    "num_ratings": 47
+  },
+  {
+    "code": "6590",
+    "group": "9",
+    "professor": "EDCEL FUERTE MARTINEZ",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          3
+        ],
+        "classroom": "Q219"
+      }
+    ]
   },
   {
     "code": "6590",
@@ -208,7 +213,7 @@
         "days": [
           4
         ],
-        "classroom": "17"
+        "classroom": "Q219"
       }
     ]
   },
@@ -222,7 +227,7 @@
         "days": [
           5
         ],
-        "classroom": "17"
+        "classroom": "Q219"
       }
     ],
     "professor_id": 95712,

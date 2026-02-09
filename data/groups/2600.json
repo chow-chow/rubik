@@ -1,21 +1,6 @@
 [
   {
     "code": "2600",
-    "group": "1",
-    "professor": "JOSE LUIS SALINAS ESTEVEZ",
-    "schedules": [
-      {
-        "time": "13:00-14:30",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "25"
-      }
-    ]
-  },
-  {
-    "code": "2600",
     "group": "2",
     "professor": "LUIS ARMANDO HERNANDEZ GONZALEZ",
     "schedules": [
@@ -25,7 +10,7 @@
           1,
           3
         ],
-        "classroom": "25"
+        "classroom": "B409"
       }
     ],
     "professor_id": 20638,
@@ -45,7 +30,7 @@
           1,
           3
         ],
-        "classroom": "25"
+        "classroom": "B409"
       }
     ],
     "professor_id": 20638,
@@ -53,26 +38,6 @@
     "last_name": "Hernandez",
     "rating": 7.75,
     "num_ratings": 16
-  },
-  {
-    "code": "2600",
-    "group": "4",
-    "professor": "ISAAC FELIPE LIMA CASTILLO",
-    "schedules": [
-      {
-        "time": "14:30-16:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "25"
-      }
-    ],
-    "professor_id": 154733,
-    "first_name": "Isaac Felipe",
-    "last_name": "Lima Castillo",
-    "rating": 8.0,
-    "num_ratings": 2
   },
   {
     "code": "2600",
@@ -85,9 +50,44 @@
           2,
           4
         ],
-        "classroom": "25"
+        "classroom": "SIN"
       }
     ]
+  },
+  {
+    "code": "2600",
+    "group": "1",
+    "professor": "JOSE LUIS SALINAS ESTEVEZ",
+    "schedules": [
+      {
+        "time": "13:00-14:30",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "A207"
+      }
+    ]
+  },
+  {
+    "code": "2600",
+    "group": "4",
+    "professor": "ISAAC FELIPE LIMA CASTILLO",
+    "schedules": [
+      {
+        "time": "14:30-16:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A307"
+      }
+    ],
+    "professor_id": 154733,
+    "first_name": "Isaac Felipe",
+    "last_name": "Lima Castillo",
+    "rating": 8.0,
+    "num_ratings": 2
   },
   {
     "code": "2600",
@@ -99,7 +99,7 @@
         "days": [
           5
         ],
-        "classroom": "25"
+        "classroom": "A209"
       }
     ],
     "professor_id": 181728,

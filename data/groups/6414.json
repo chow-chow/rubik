@@ -1,6 +1,25 @@
 [
   {
     "code": "6414",
+    "group": "22",
+    "professor": "MAURICIO ADOLFO SOLIS MALDONADO",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          3
+        ],
+        "classroom": "G005"
+      }
+    ],
+    "professor_id": 87094,
+    "first_name": "Mauricio Adolfo",
+    "last_name": "Solis Maldonado",
+    "rating": 7.4444,
+    "num_ratings": 27
+  },
+  {
+    "code": "6414",
     "group": "1",
     "professor": "ANTONIO PACHECO CONDE",
     "schedules": [
@@ -9,7 +28,7 @@
         "days": [
           1
         ],
-        "classroom": "20"
+        "classroom": "G005"
       }
     ],
     "professor_id": 140613,
@@ -28,7 +47,7 @@
         "days": [
           1
         ],
-        "classroom": "20"
+        "classroom": "G005"
       }
     ],
     "professor_id": 140613,
@@ -47,7 +66,7 @@
         "days": [
           1
         ],
-        "classroom": "20"
+        "classroom": "G005"
       }
     ],
     "professor_id": 74107,
@@ -66,7 +85,7 @@
         "days": [
           1
         ],
-        "classroom": "20"
+        "classroom": "G005"
       }
     ],
     "professor_id": 74107,
@@ -85,7 +104,7 @@
         "days": [
           1
         ],
-        "classroom": "20"
+        "classroom": "G005"
       }
     ],
     "professor_id": 190136,
@@ -104,14 +123,14 @@
         "days": [
           1
         ],
-        "classroom": "20"
+        "classroom": "G005"
       }
     ],
     "professor_id": 70180,
     "first_name": "Rafael Guillermo",
     "last_name": "Suárez Nájera",
-    "rating": 8.6,
-    "num_ratings": 45
+    "rating": 8.6087,
+    "num_ratings": 46
   },
   {
     "code": "6414",
@@ -123,7 +142,7 @@
         "days": [
           2
         ],
-        "classroom": "20"
+        "classroom": "G005"
       }
     ]
   },
@@ -137,14 +156,14 @@
         "days": [
           2
         ],
-        "classroom": "20"
+        "classroom": "G005"
       }
     ],
     "professor_id": 44254,
     "first_name": "Maria del Carmen",
     "last_name": "Melo Díaz",
-    "rating": 6.8481,
-    "num_ratings": 79
+    "rating": 6.8642,
+    "num_ratings": 81
   },
   {
     "code": "6414",
@@ -156,7 +175,7 @@
         "days": [
           2
         ],
-        "classroom": "20"
+        "classroom": "G006"
       }
     ],
     "professor_id": 82820,
@@ -175,14 +194,14 @@
         "days": [
           2
         ],
-        "classroom": "20"
+        "classroom": "G005"
       }
     ],
     "professor_id": 75145,
     "first_name": "Raymundo",
     "last_name": "Gaytán Pérez",
-    "rating": 9.1458,
-    "num_ratings": 48
+    "rating": 9.1633,
+    "num_ratings": 49
   },
   {
     "code": "6414",
@@ -194,7 +213,7 @@
         "days": [
           2
         ],
-        "classroom": "20"
+        "classroom": "G006"
       }
     ],
     "professor_id": 87387,
@@ -213,14 +232,14 @@
         "days": [
           2
         ],
-        "classroom": "20"
+        "classroom": "G005"
       }
     ],
     "professor_id": 122950,
     "first_name": "Rigoberto",
     "last_name": "Flores Zárate",
-    "rating": 7.0556,
-    "num_ratings": 18
+    "rating": 7.1579,
+    "num_ratings": 19
   },
   {
     "code": "6414",
@@ -232,7 +251,7 @@
         "days": [
           2
         ],
-        "classroom": "20"
+        "classroom": "G005"
       }
     ],
     "professor_id": 190136,
@@ -251,14 +270,14 @@
         "days": [
           2
         ],
-        "classroom": "20"
+        "classroom": "G005"
       }
     ],
     "professor_id": 90851,
     "first_name": "OMAR ING.",
     "last_name": "DE JESUS PEREZ",
-    "rating": 7.9778,
-    "num_ratings": 45
+    "rating": 8.0217,
+    "num_ratings": 46
   },
   {
     "code": "6414",
@@ -270,14 +289,14 @@
         "days": [
           3
         ],
-        "classroom": "20"
+        "classroom": "G005"
       }
     ],
     "professor_id": 20657,
     "first_name": "Mayverena",
     "last_name": "Jurado Pineda",
-    "rating": 8.1754,
-    "num_ratings": 114
+    "rating": 8.1092,
+    "num_ratings": 119
   },
   {
     "code": "6414",
@@ -289,7 +308,7 @@
         "days": [
           3
         ],
-        "classroom": "20"
+        "classroom": "G005"
       }
     ],
     "professor_id": 113700,
@@ -308,14 +327,14 @@
         "days": [
           3
         ],
-        "classroom": "20"
+        "classroom": "G006"
       }
     ],
     "professor_id": 90851,
     "first_name": "OMAR ING.",
     "last_name": "DE JESUS PEREZ",
-    "rating": 7.9778,
-    "num_ratings": 45
+    "rating": 8.0217,
+    "num_ratings": 46
   },
   {
     "code": "6414",
@@ -327,14 +346,14 @@
         "days": [
           3
         ],
-        "classroom": "20"
+        "classroom": "G005"
       }
     ],
     "professor_id": 75145,
     "first_name": "Raymundo",
     "last_name": "Gaytán Pérez",
-    "rating": 9.1458,
-    "num_ratings": 48
+    "rating": 9.1633,
+    "num_ratings": 49
   },
   {
     "code": "6414",
@@ -346,14 +365,14 @@
         "days": [
           3
         ],
-        "classroom": "20"
+        "classroom": "G006"
       }
     ],
     "professor_id": 70180,
     "first_name": "Rafael Guillermo",
     "last_name": "Suárez Nájera",
-    "rating": 8.6,
-    "num_ratings": 45
+    "rating": 8.6087,
+    "num_ratings": 46
   },
   {
     "code": "6414",
@@ -365,14 +384,14 @@
         "days": [
           3
         ],
-        "classroom": "20"
+        "classroom": "G005"
       }
     ],
     "professor_id": 122950,
     "first_name": "Rigoberto",
     "last_name": "Flores Zárate",
-    "rating": 7.0556,
-    "num_ratings": 18
+    "rating": 7.1579,
+    "num_ratings": 19
   },
   {
     "code": "6414",
@@ -384,33 +403,14 @@
         "days": [
           3
         ],
-        "classroom": "20"
+        "classroom": "G005"
       }
     ],
     "professor_id": 60632,
     "first_name": "Elizabeth",
     "last_name": "Aguirre Maldonado",
-    "rating": 7.0217,
-    "num_ratings": 46
-  },
-  {
-    "code": "6414",
-    "group": "22",
-    "professor": "MAURICIO ADOLFO SOLIS MALDONADO",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          3
-        ],
-        "classroom": "20"
-      }
-    ],
-    "professor_id": 87094,
-    "first_name": "Mauricio Adolfo",
-    "last_name": "Solis Maldonado",
-    "rating": 7.4444,
-    "num_ratings": 27
+    "rating": 6.7347,
+    "num_ratings": 49
   },
   {
     "code": "6414",
@@ -422,14 +422,14 @@
         "days": [
           4
         ],
-        "classroom": "20"
+        "classroom": "G005"
       }
     ],
     "professor_id": 58672,
     "first_name": "Julia",
     "last_name": "Vazquez Fuentes",
-    "rating": 4.3415,
-    "num_ratings": 41
+    "rating": 4.3023,
+    "num_ratings": 43
   },
   {
     "code": "6414",
@@ -441,14 +441,14 @@
         "days": [
           4
         ],
-        "classroom": "20"
+        "classroom": "G005"
       }
     ],
     "professor_id": 58672,
     "first_name": "Julia",
     "last_name": "Vazquez Fuentes",
-    "rating": 4.3415,
-    "num_ratings": 41
+    "rating": 4.3023,
+    "num_ratings": 43
   },
   {
     "code": "6414",
@@ -460,14 +460,14 @@
         "days": [
           4
         ],
-        "classroom": "20"
+        "classroom": "G005"
       }
     ],
     "professor_id": 78455,
     "first_name": "Eduardo",
     "last_name": "López Molina",
-    "rating": 8.21,
-    "num_ratings": 68
+    "rating": 8.13,
+    "num_ratings": 70
   },
   {
     "code": "6414",
@@ -479,7 +479,7 @@
         "days": [
           4
         ],
-        "classroom": "20"
+        "classroom": "G005"
       }
     ],
     "professor_id": 82820,
@@ -498,7 +498,7 @@
         "days": [
           4
         ],
-        "classroom": "20"
+        "classroom": "G005"
       }
     ],
     "professor_id": 115336,
@@ -517,7 +517,7 @@
         "days": [
           4
         ],
-        "classroom": "20"
+        "classroom": "G005"
       }
     ],
     "professor_id": 142029,
@@ -536,7 +536,7 @@
         "days": [
           5
         ],
-        "classroom": "20"
+        "classroom": "G005"
       }
     ],
     "professor_id": 94468,
@@ -555,7 +555,7 @@
         "days": [
           5
         ],
-        "classroom": "20"
+        "classroom": "G005"
       }
     ]
   },
@@ -569,7 +569,7 @@
         "days": [
           5
         ],
-        "classroom": "20"
+        "classroom": "G005"
       }
     ]
   },
@@ -583,7 +583,7 @@
         "days": [
           5
         ],
-        "classroom": "20"
+        "classroom": "G005"
       }
     ],
     "professor_id": 74107,
@@ -602,14 +602,14 @@
         "days": [
           5
         ],
-        "classroom": "20"
+        "classroom": "G005"
       }
     ],
     "professor_id": 140477,
     "first_name": "ALBERTO RAFAEL",
     "last_name": "GONZALEZ GARCIA",
-    "rating": 9.8889,
-    "num_ratings": 9
+    "rating": 9.9,
+    "num_ratings": 10
   },
   {
     "code": "6414",
@@ -621,13 +621,13 @@
         "days": [
           5
         ],
-        "classroom": "20"
+        "classroom": "G005"
       }
     ],
     "professor_id": 140477,
     "first_name": "ALBERTO RAFAEL",
     "last_name": "GONZALEZ GARCIA",
-    "rating": 9.8889,
-    "num_ratings": 9
+    "rating": 9.9,
+    "num_ratings": 10
   }
 ]

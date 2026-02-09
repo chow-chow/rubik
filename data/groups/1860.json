@@ -1,26 +1,6 @@
 [
   {
     "code": "1860",
-    "group": "1",
-    "professor": "WILLIAM VICENTE Y RODRIGUEZ",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "30"
-      }
-    ],
-    "professor_id": 74598,
-    "first_name": "William",
-    "last_name": "Vicente y Rodríguez",
-    "rating": 7.1429,
-    "num_ratings": 7
-  },
-  {
-    "code": "1860",
     "group": "2",
     "professor": "RAFAEL CHAVEZ MARTINEZVer Nota 2",
     "schedules": [
@@ -30,7 +10,7 @@
           2,
           4
         ],
-        "classroom": "30"
+        "classroom": "D001"
       }
     ]
   },
@@ -45,7 +25,7 @@
           1,
           3
         ],
-        "classroom": "30"
+        "classroom": "A203"
       }
     ],
     "professor_id": 149863,
@@ -53,6 +33,26 @@
     "last_name": "Rojas Morin",
     "rating": 5.0,
     "num_ratings": 3
+  },
+  {
+    "code": "1860",
+    "group": "1",
+    "professor": "WILLIAM VICENTE Y RODRIGUEZ",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "B303"
+      }
+    ],
+    "professor_id": 74598,
+    "first_name": "William",
+    "last_name": "Vicente y Rodríguez",
+    "rating": 7.1429,
+    "num_ratings": 7
   },
   {
     "code": "1860",
@@ -64,9 +64,21 @@
         "days": [
           5
         ],
-        "classroom": "30"
+        "classroom": "B105"
+      },
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1
+        ],
+        "classroom": "B201"
       }
-    ]
+    ],
+    "professor_id": 182170,
+    "first_name": "James",
+    "last_name": "Pérez Barrera",
+    "rating": 9.5,
+    "num_ratings": 2
   },
   {
     "code": "1860",
@@ -79,14 +91,14 @@
           2,
           4
         ],
-        "classroom": "30"
+        "classroom": "Y004"
       }
     ],
     "professor_id": 113818,
     "first_name": "Francisco Javier",
     "last_name": "Solorio Ordaz",
-    "rating": 7.8889,
-    "num_ratings": 9
+    "rating": 7.9,
+    "num_ratings": 10
   },
   {
     "code": "1860",
@@ -99,7 +111,7 @@
           1,
           3
         ],
-        "classroom": "30"
+        "classroom": "A109"
       }
     ]
   }

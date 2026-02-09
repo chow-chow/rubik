@@ -9,7 +9,7 @@
         "days": [
           1
         ],
-        "classroom": "5"
+        "classroom": "N005"
       }
     ],
     "professor_id": 71864,
@@ -17,6 +17,67 @@
     "last_name": "Bernal Martínez",
     "rating": 9.8,
     "num_ratings": 5
+  },
+  {
+    "code": "6756",
+    "group": "9",
+    "professor": "SERVANDO RUIZ RODRIGUEZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2
+        ],
+        "classroom": "N005"
+      }
+    ]
+  },
+  {
+    "code": "6756",
+    "group": "11",
+    "professor": "DANIEL ESQUIVEL VELAZQUEZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          4
+        ],
+        "classroom": "N005"
+      }
+    ]
+  },
+  {
+    "code": "6756",
+    "group": "16",
+    "professor": "LUIS ARTURO NAVARRO BAENA",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          5
+        ],
+        "classroom": "N005"
+      }
+    ]
+  },
+  {
+    "code": "6756",
+    "group": "17",
+    "professor": "ZAIRA LINETTE TORRES CORTES",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          5
+        ],
+        "classroom": "N005"
+      }
+    ],
+    "professor_id": 140654,
+    "first_name": "Zaira Linette",
+    "last_name": "Torres Cortés",
+    "rating": 8.4286,
+    "num_ratings": 21
   },
   {
     "code": "6756",
@@ -28,7 +89,7 @@
         "days": [
           1
         ],
-        "classroom": "5"
+        "classroom": "N005"
       }
     ]
   },
@@ -42,7 +103,7 @@
         "days": [
           1
         ],
-        "classroom": "5"
+        "classroom": "N005"
       }
     ]
   },
@@ -56,14 +117,14 @@
         "days": [
           1
         ],
-        "classroom": "5"
+        "classroom": "N005"
       }
     ],
     "professor_id": 98730,
     "first_name": "Octavio Pastor",
     "last_name": "Reyes García",
-    "rating": 8.0,
-    "num_ratings": 14
+    "rating": 8.25,
+    "num_ratings": 16
   },
   {
     "code": "6756",
@@ -75,7 +136,7 @@
         "days": [
           1
         ],
-        "classroom": "5"
+        "classroom": "N005"
       }
     ],
     "professor_id": 79858,
@@ -87,14 +148,14 @@
   {
     "code": "6756",
     "group": "6",
-    "professor": "ALEJANDRO CORTES ESLAVA",
+    "professor": "Grupo cancelado, contactar a la División.",
     "schedules": [
       {
         "time": "13:00-15:00",
         "days": [
           1
         ],
-        "classroom": "5"
+        "classroom": "N005"
       }
     ]
   },
@@ -108,7 +169,7 @@
         "days": [
           2
         ],
-        "classroom": "5"
+        "classroom": "N005"
       }
     ],
     "professor_id": 159597,
@@ -127,54 +188,7 @@
         "days": [
           2
         ],
-        "classroom": "5"
-      }
-    ]
-  },
-  {
-    "code": "6756",
-    "group": "9",
-    "professor": "SERVANDO RUIZ RODRIGUEZ",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          2
-        ],
-        "classroom": "5"
-      }
-    ]
-  },
-  {
-    "code": "6756",
-    "group": "10",
-    "professor": "MILTON CARLOS ALVAREZ SANCHEZ",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          2
-        ],
-        "classroom": "5"
-      }
-    ],
-    "professor_id": 154270,
-    "first_name": "Milton Carlos",
-    "last_name": "Álvarez Sánchez",
-    "rating": 7.0,
-    "num_ratings": 2
-  },
-  {
-    "code": "6756",
-    "group": "11",
-    "professor": "DANIEL ESQUIVEL VELAZQUEZ",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          4
-        ],
-        "classroom": "5"
+        "classroom": "N005"
       }
     ]
   },
@@ -188,7 +202,7 @@
         "days": [
           4
         ],
-        "classroom": "5"
+        "classroom": "N005"
       }
     ]
   },
@@ -202,7 +216,7 @@
         "days": [
           4
         ],
-        "classroom": "5"
+        "classroom": "N005"
       }
     ]
   },
@@ -216,7 +230,7 @@
         "days": [
           5
         ],
-        "classroom": "5"
+        "classroom": "N005"
       }
     ]
   },
@@ -230,7 +244,7 @@
         "days": [
           5
         ],
-        "classroom": "5"
+        "classroom": "N005"
       }
     ],
     "professor_id": 186559,
@@ -238,38 +252,5 @@
     "last_name": "Mendoza Campos",
     "rating": 9.5,
     "num_ratings": 2
-  },
-  {
-    "code": "6756",
-    "group": "16",
-    "professor": "LUIS ARTURO NAVARRO BAENA",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          5
-        ],
-        "classroom": "5"
-      }
-    ]
-  },
-  {
-    "code": "6756",
-    "group": "17",
-    "professor": "ZAIRA LINETTE TORRES CORTES",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          5
-        ],
-        "classroom": "5"
-      }
-    ],
-    "professor_id": 140654,
-    "first_name": "Zaira Linette",
-    "last_name": "Torres Cortés",
-    "rating": 8.35,
-    "num_ratings": 20
   }
 ]

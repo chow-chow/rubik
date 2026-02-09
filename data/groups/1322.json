@@ -1,26 +1,6 @@
 [
   {
     "code": "1322",
-    "group": "1",
-    "professor": "EPIFANIO OSCAR CARBALLAR LOPEZ",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "48"
-      }
-    ],
-    "professor_id": 70466,
-    "first_name": "Epifanio Oscar",
-    "last_name": "Carballar López",
-    "rating": 7.359,
-    "num_ratings": 39
-  },
-  {
-    "code": "1322",
     "group": "2",
     "professor": "MANUEL AYALA MARTINEZ",
     "schedules": [
@@ -30,7 +10,7 @@
           1,
           3
         ],
-        "classroom": "48"
+        "classroom": "I203"
       }
     ],
     "professor_id": 49791,
@@ -38,45 +18,6 @@
     "last_name": "Ayala Martinez",
     "rating": 4.4737,
     "num_ratings": 19
-  },
-  {
-    "code": "1322",
-    "group": "3",
-    "professor": "JOEL GOMEZ",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "48"
-      }
-    ],
-    "professor_id": 30241,
-    "first_name": "Ing. Joel",
-    "last_name": "Gomez",
-    "rating": 4.449,
-    "num_ratings": 49
-  },
-  {
-    "code": "1322",
-    "group": "5",
-    "professor": "OSCAR MORALES LOPEZ",
-    "schedules": [
-      {
-        "time": "09:00-13:00",
-        "days": [
-          6
-        ],
-        "classroom": "48"
-      }
-    ],
-    "professor_id": 115337,
-    "first_name": "Oscar",
-    "last_name": "Morales López",
-    "rating": 9.6949,
-    "num_ratings": 59
   },
   {
     "code": "1322",
@@ -89,34 +30,14 @@
           1,
           5
         ],
-        "classroom": "48"
+        "classroom": "I303"
       }
     ],
     "professor_id": 63626,
     "first_name": "Lorenzo Octavio",
     "last_name": "Miranda  Cordero",
-    "rating": 6.2059,
-    "num_ratings": 34
-  },
-  {
-    "code": "1322",
-    "group": "7",
-    "professor": "JUAN OCARIZ CASTELAZO",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "35"
-      }
-    ],
-    "professor_id": 22035,
-    "first_name": "Juan",
-    "last_name": "Ocáriz Castelazo",
-    "rating": 8.6506,
-    "num_ratings": 166
+    "rating": 6.3143,
+    "num_ratings": 35
   },
   {
     "code": "1322",
@@ -129,7 +50,7 @@
           2,
           4
         ],
-        "classroom": "48"
+        "classroom": "I103"
       }
     ],
     "professor_id": 84710,
@@ -137,6 +58,85 @@
     "last_name": "Serrano Miranda",
     "rating": 5.48,
     "num_ratings": 25
+  },
+  {
+    "code": "1322",
+    "group": "1",
+    "professor": "EPIFANIO OSCAR CARBALLAR LOPEZ",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "J109"
+      }
+    ],
+    "professor_id": 70466,
+    "first_name": "Epifanio Oscar",
+    "last_name": "Carballar López",
+    "rating": 7.35,
+    "num_ratings": 40
+  },
+  {
+    "code": "1322",
+    "group": "3",
+    "professor": "JOEL GOMEZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "J106"
+      }
+    ],
+    "professor_id": 30241,
+    "first_name": "Ing. Joel",
+    "last_name": "Gomez",
+    "rating": 4.5,
+    "num_ratings": 52
+  },
+  {
+    "code": "1322",
+    "group": "5",
+    "professor": "OSCAR MORALES LOPEZ",
+    "schedules": [
+      {
+        "time": "09:00-13:00",
+        "days": [
+          6
+        ],
+        "classroom": "J102"
+      }
+    ],
+    "professor_id": 115337,
+    "first_name": "Oscar",
+    "last_name": "Morales López",
+    "rating": 9.7,
+    "num_ratings": 60
+  },
+  {
+    "code": "1322",
+    "group": "7",
+    "professor": "JUAN MARIA DE LA SALUD OCARIZ CASTELAZO",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "J202"
+      }
+    ],
+    "professor_id": 22035,
+    "first_name": "Juan",
+    "last_name": "Ocáriz Castelazo",
+    "rating": 8.6568,
+    "num_ratings": 169
   },
   {
     "code": "1322",
@@ -149,14 +149,14 @@
           1,
           3
         ],
-        "classroom": "48"
+        "classroom": "I302"
       }
     ],
     "professor_id": 141997,
     "first_name": "Adriana",
     "last_name": "Alarcon Muñoz",
-    "rating": 8.7451,
-    "num_ratings": 51
+    "rating": 8.7692,
+    "num_ratings": 52
   },
   {
     "code": "1322",
@@ -169,7 +169,7 @@
           2,
           4
         ],
-        "classroom": "40"
+        "classroom": "J210"
       }
     ],
     "professor_id": 61247,

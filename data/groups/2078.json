@@ -9,22 +9,14 @@
         "days": [
           2
         ],
-        "classroom": "10"
-      }
-    ]
-  },
-  {
-    "code": "2078",
-    "group": "2",
-    "professor": "JOSE LUIS FERNANDEZ ZAYAS",
-    "schedules": [
+        "classroom": "EXTR"
+      },
       {
-        "time": "15:00-17:00",
+        "time": "07:00-09:00",
         "days": [
-          2,
-          4
+          6
         ],
-        "classroom": "10"
+        "classroom": "EXTR"
       }
     ]
   },
@@ -39,7 +31,7 @@
           2,
           4
         ],
-        "classroom": "10"
+        "classroom": "EXTR"
       }
     ],
     "professor_id": 149445,
@@ -58,7 +50,7 @@
         "days": [
           6
         ],
-        "classroom": "10"
+        "classroom": "EXTR"
       }
     ]
   },
@@ -73,7 +65,22 @@
           2,
           4
         ],
-        "classroom": "10"
+        "classroom": "N005"
+      }
+    ]
+  },
+  {
+    "code": "2078",
+    "group": "2",
+    "professor": "JOSE LUIS FERNANDEZ ZAYAS",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "EXTR"
       }
     ]
   }

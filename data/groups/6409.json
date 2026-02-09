@@ -9,7 +9,7 @@
         "days": [
           3
         ],
-        "classroom": "5"
+        "classroom": "N005"
       }
     ],
     "professor_id": 161895,
@@ -17,6 +17,44 @@
     "last_name": "Aguilar Reyes",
     "rating": 8.25,
     "num_ratings": 4
+  },
+  {
+    "code": "6409",
+    "group": "4",
+    "professor": "JAIME AGUILAR REYES",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          3
+        ],
+        "classroom": "N005"
+      }
+    ],
+    "professor_id": 161895,
+    "first_name": "Jaime",
+    "last_name": "Aguilar Reyes",
+    "rating": 8.25,
+    "num_ratings": 4
+  },
+  {
+    "code": "6409",
+    "group": "25",
+    "professor": "SONIA LUISA ELENA LOPEZ MALDONADO",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          5
+        ],
+        "classroom": "N005"
+      }
+    ],
+    "professor_id": 134971,
+    "first_name": "Sonia Luisa",
+    "last_name": "López Maldonado",
+    "rating": 4.86,
+    "num_ratings": 7
   },
   {
     "code": "6409",
@@ -28,7 +66,7 @@
         "days": [
           3
         ],
-        "classroom": "5"
+        "classroom": "N005"
       }
     ],
     "professor_id": 186559,
@@ -47,7 +85,7 @@
         "days": [
           3
         ],
-        "classroom": "5"
+        "classroom": "N005"
       }
     ],
     "professor_id": 79858,
@@ -55,25 +93,6 @@
     "last_name": "Escalante Camargo",
     "rating": 7.2143,
     "num_ratings": 14
-  },
-  {
-    "code": "6409",
-    "group": "4",
-    "professor": "JAIME AGUILAR REYES",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          3
-        ],
-        "classroom": "5"
-      }
-    ],
-    "professor_id": 161895,
-    "first_name": "Jaime",
-    "last_name": "Aguilar Reyes",
-    "rating": 8.25,
-    "num_ratings": 4
   },
   {
     "code": "6409",
@@ -85,14 +104,14 @@
         "days": [
           3
         ],
-        "classroom": "5"
+        "classroom": "N005"
       }
     ],
     "professor_id": 98730,
     "first_name": "Octavio Pastor",
     "last_name": "Reyes García",
-    "rating": 8.0,
-    "num_ratings": 14
+    "rating": 8.25,
+    "num_ratings": 16
   },
   {
     "code": "6409",
@@ -104,14 +123,14 @@
         "days": [
           3
         ],
-        "classroom": "5"
+        "classroom": "N005"
       }
     ],
     "professor_id": 63731,
     "first_name": "Agustín",
     "last_name": "Nieves Saavedra",
-    "rating": 2.5,
-    "num_ratings": 4
+    "rating": 2.8,
+    "num_ratings": 5
   },
   {
     "code": "6409",
@@ -123,7 +142,7 @@
         "days": [
           3
         ],
-        "classroom": "5"
+        "classroom": "N005"
       }
     ],
     "professor_id": 79858,
@@ -142,7 +161,7 @@
         "days": [
           3
         ],
-        "classroom": "5"
+        "classroom": "N005"
       }
     ],
     "professor_id": 71990,
@@ -161,7 +180,7 @@
         "days": [
           3
         ],
-        "classroom": "5"
+        "classroom": "N005"
       }
     ]
   },
@@ -175,7 +194,7 @@
         "days": [
           3
         ],
-        "classroom": "5"
+        "classroom": "N005"
       }
     ],
     "professor_id": 79858,
@@ -194,7 +213,7 @@
         "days": [
           3
         ],
-        "classroom": "5"
+        "classroom": "N005"
       }
     ],
     "professor_id": 149862,
@@ -213,7 +232,7 @@
         "days": [
           3
         ],
-        "classroom": "5"
+        "classroom": "N005"
       }
     ]
   },
@@ -227,7 +246,7 @@
         "days": [
           3
         ],
-        "classroom": "5"
+        "classroom": "N005"
       }
     ],
     "professor_id": 160523,
@@ -246,7 +265,7 @@
         "days": [
           3
         ],
-        "classroom": "5"
+        "classroom": "N005"
       }
     ],
     "professor_id": 79478,
@@ -265,7 +284,7 @@
         "days": [
           3
         ],
-        "classroom": "5"
+        "classroom": "N005"
       }
     ],
     "professor_id": 79858,
@@ -284,14 +303,14 @@
         "days": [
           3
         ],
-        "classroom": "5"
+        "classroom": "N005"
       }
     ],
     "professor_id": 98730,
     "first_name": "Octavio Pastor",
     "last_name": "Reyes García",
-    "rating": 8.0,
-    "num_ratings": 14
+    "rating": 8.25,
+    "num_ratings": 16
   },
   {
     "code": "6409",
@@ -303,7 +322,7 @@
         "days": [
           3
         ],
-        "classroom": "5"
+        "classroom": "N005"
       }
     ],
     "professor_id": 160523,
@@ -322,7 +341,7 @@
         "days": [
           3
         ],
-        "classroom": "5"
+        "classroom": "N005"
       }
     ]
   },
@@ -336,7 +355,7 @@
         "days": [
           3
         ],
-        "classroom": "5"
+        "classroom": "N005"
       }
     ]
   },
@@ -350,7 +369,7 @@
         "days": [
           5
         ],
-        "classroom": "5"
+        "classroom": "N005"
       }
     ],
     "professor_id": 134866,
@@ -369,7 +388,7 @@
         "days": [
           5
         ],
-        "classroom": "5"
+        "classroom": "N005"
       }
     ]
   },
@@ -383,7 +402,7 @@
         "days": [
           5
         ],
-        "classroom": "5"
+        "classroom": "N005"
       }
     ]
   },
@@ -397,47 +416,23 @@
         "days": [
           5
         ],
-        "classroom": "5"
+        "classroom": "N005"
       }
     ]
   },
   {
     "code": "6409",
     "group": "24",
-    "professor": "SONIA LUISA LOPEZ MALDONADO",
+    "professor": "Grupo cancelado, contactar a la División.",
     "schedules": [
       {
         "time": "09:00-11:00",
         "days": [
           5
         ],
-        "classroom": "5"
+        "classroom": "N005"
       }
-    ],
-    "professor_id": 134971,
-    "first_name": "Sonia Luisa",
-    "last_name": "López Maldonado",
-    "rating": 4.86,
-    "num_ratings": 7
-  },
-  {
-    "code": "6409",
-    "group": "25",
-    "professor": "SONIA LUISA LOPEZ MALDONADO",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          5
-        ],
-        "classroom": "5"
-      }
-    ],
-    "professor_id": 134971,
-    "first_name": "Sonia Luisa",
-    "last_name": "López Maldonado",
-    "rating": 4.86,
-    "num_ratings": 7
+    ]
   },
   {
     "code": "6409",
@@ -449,7 +444,7 @@
         "days": [
           5
         ],
-        "classroom": "5"
+        "classroom": "N005"
       }
     ]
   },
@@ -463,7 +458,7 @@
         "days": [
           5
         ],
-        "classroom": "5"
+        "classroom": "N005"
       }
     ],
     "professor_id": 134458,

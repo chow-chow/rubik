@@ -9,101 +9,35 @@
         "days": [
           1
         ],
-        "classroom": "35"
+        "classroom": "Y101"
       }
     ]
-  },
-  {
-    "code": "1796",
-    "group": "2",
-    "professor": "ALEJANDRA GARNICA ARROYO",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          3
-        ],
-        "classroom": "35"
-      }
-    ]
-  },
-  {
-    "code": "1796",
-    "group": "3",
-    "professor": "LUIS EDUARDO LEDESMA SOLANOVer Nota 1",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          1
-        ],
-        "classroom": "35"
-      }
-    ]
-  },
-  {
-    "code": "1796",
-    "group": "4",
-    "professor": "GUILLERMINA PEREZ DURAN",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          3
-        ],
-        "classroom": "35"
-      }
-    ],
-    "professor_id": 104858,
-    "first_name": "Ing. Guillermina",
-    "last_name": "Perez Duran",
-    "rating": 8.7308,
-    "num_ratings": 26
   },
   {
     "code": "1796",
     "group": "5",
-    "professor": "JOSÉ FRANCISCO ALBARRAN NUÑEZVer Nota 1",
+    "professor": "JOSE FRANCISCO ALBARRAN NUÑEZVer Nota 1",
     "schedules": [
       {
         "time": "09:00-11:00",
         "days": [
           4
         ],
-        "classroom": "35"
+        "classroom": "A101"
       }
     ]
   },
   {
     "code": "1796",
-    "group": "6",
-    "professor": "DIEGO JAVIER SANTAMARIA NAJERA",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          3
-        ],
-        "classroom": "35"
-      }
-    ],
-    "professor_id": 156753,
-    "first_name": "Diego Javier",
-    "last_name": "Santamaría Nájera",
-    "rating": 10.0,
-    "num_ratings": 6
-  },
-  {
-    "code": "1796",
     "group": "7",
-    "professor": "JOSÉ FRANCISCO ALBARRAN NUÑEZ",
+    "professor": "JOSE FRANCISCO ALBARRAN NUÑEZ",
     "schedules": [
       {
         "time": "19:00-21:00",
         "days": [
           1
         ],
-        "classroom": "35"
+        "classroom": "Y101"
       }
     ]
   },
@@ -117,7 +51,7 @@
         "days": [
           1
         ],
-        "classroom": "35"
+        "classroom": "A202"
       }
     ]
   },
@@ -131,13 +65,79 @@
         "days": [
           4
         ],
-        "classroom": "35"
+        "classroom": "A105"
       }
     ],
     "professor_id": 140654,
     "first_name": "Zaira Linette",
     "last_name": "Torres Cortés",
-    "rating": 8.35,
-    "num_ratings": 20
+    "rating": 8.4286,
+    "num_ratings": 21
+  },
+  {
+    "code": "1796",
+    "group": "2",
+    "professor": "ALEJANDRA GARNICA ARROYO",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          3
+        ],
+        "classroom": "SIN"
+      }
+    ]
+  },
+  {
+    "code": "1796",
+    "group": "3",
+    "professor": "LUIS EDUARDO LEDESMA SOLANOVer Nota 1",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1
+        ],
+        "classroom": "Y101"
+      }
+    ]
+  },
+  {
+    "code": "1796",
+    "group": "4",
+    "professor": "GUILLERMINA PEREZ DURAN",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          3
+        ],
+        "classroom": "A102"
+      }
+    ],
+    "professor_id": 104858,
+    "first_name": "Ing. Guillermina",
+    "last_name": "Perez Duran",
+    "rating": 8.7308,
+    "num_ratings": 26
+  },
+  {
+    "code": "1796",
+    "group": "6",
+    "professor": "DIEGO JAVIER SANTAMARIA NAJERA",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          3
+        ],
+        "classroom": "A202"
+      }
+    ],
+    "professor_id": 156753,
+    "first_name": "Diego Javier",
+    "last_name": "Santamaría Nájera",
+    "rating": 10.0,
+    "num_ratings": 6
   }
 ]

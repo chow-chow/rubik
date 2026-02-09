@@ -1,39 +1,6 @@
 [
   {
     "code": "1245",
-    "group": "1",
-    "professor": "BARBARA BERMUDEZ REYESVer Nota 1",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          3
-        ],
-        "classroom": "30"
-      }
-    ]
-  },
-  {
-    "code": "1245",
-    "group": "2",
-    "professor": "DAVID ISRAEL POSADAS NAVARRO",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          5
-        ],
-        "classroom": "30"
-      }
-    ],
-    "professor_id": 96627,
-    "first_name": "David Israel",
-    "last_name": "Posadas Navarro",
-    "rating": 9.6,
-    "num_ratings": 10
-  },
-  {
-    "code": "1245",
     "group": "3",
     "professor": "JAVIER CORTES BENIGNOVer Nota 1",
     "schedules": [
@@ -42,7 +9,7 @@
         "days": [
           1
         ],
-        "classroom": "30"
+        "classroom": "J201"
       }
     ]
   },
@@ -56,21 +23,7 @@
         "days": [
           3
         ],
-        "classroom": "30"
-      }
-    ]
-  },
-  {
-    "code": "1245",
-    "group": "5",
-    "professor": "CESAR ABRAHAM LUNA ESTRADAVer Nota 2",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          5
-        ],
-        "classroom": "20"
+        "classroom": "J201"
       }
     ]
   },
@@ -84,7 +37,54 @@
         "days": [
           2
         ],
-        "classroom": "30"
+        "classroom": "J206"
+      }
+    ]
+  },
+  {
+    "code": "1245",
+    "group": "1",
+    "professor": "BARBARA BERMUDEZ REYESVer Nota 1",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          3
+        ],
+        "classroom": "EXTR"
+      }
+    ]
+  },
+  {
+    "code": "1245",
+    "group": "2",
+    "professor": "DAVID ISRAEL POSADAS NAVARRO",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          5
+        ],
+        "classroom": "B203"
+      }
+    ],
+    "professor_id": 96627,
+    "first_name": "David Israel",
+    "last_name": "Posadas Navarro",
+    "rating": 9.6364,
+    "num_ratings": 11
+  },
+  {
+    "code": "1245",
+    "group": "5",
+    "professor": "CESAR ABRAHAM LUNA ESTRADAVer Nota 2",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          5
+        ],
+        "classroom": "J206"
       }
     ]
   }

@@ -2,28 +2,14 @@
   {
     "code": "1992",
     "group": "1",
-    "professor": "NOE JESUS JUÁREZ DOMINGUEZ",
+    "professor": "Grupo cancelado, contactar a la División.",
     "schedules": [
       {
         "time": "07:00-09:00",
         "days": [
           2
         ],
-        "classroom": "20"
-      }
-    ]
-  },
-  {
-    "code": "1992",
-    "group": "2",
-    "professor": "RODULFO DE LA FUENTE PÉREZ",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          2
-        ],
-        "classroom": "20"
+        "classroom": "B406"
       }
     ]
   },
@@ -37,7 +23,21 @@
         "days": [
           4
         ],
-        "classroom": "20"
+        "classroom": "D009"
+      }
+    ]
+  },
+  {
+    "code": "1992",
+    "group": "2",
+    "professor": "RODULFO DE LA FUENTE PEREZ",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2
+        ],
+        "classroom": "A401"
       }
     ]
   },
@@ -51,7 +51,7 @@
         "days": [
           4
         ],
-        "classroom": "20"
+        "classroom": "A205"
       }
     ],
     "professor_id": 68400,

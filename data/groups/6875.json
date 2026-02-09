@@ -1,15 +1,15 @@
 [
   {
     "code": "6875",
-    "group": "1",
+    "group": "2",
     "professor": "CHRISTIAN HERNANDEZ SANTIAGO",
     "schedules": [
       {
-        "time": "13:00-15:00",
+        "time": "15:00-17:00",
         "days": [
-          1
+          4
         ],
-        "classroom": "8"
+        "classroom": "Q307"
       }
     ],
     "professor_id": 94393,
@@ -17,5 +17,19 @@
     "last_name": "HERNANDEZ SANTIAGO",
     "rating": 9.3125,
     "num_ratings": 16
+  },
+  {
+    "code": "6875",
+    "group": "1",
+    "professor": "Grupo cancelado, contactar a la División.",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1
+        ],
+        "classroom": "Q303"
+      }
+    ]
   }
 ]

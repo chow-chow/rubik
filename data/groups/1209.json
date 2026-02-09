@@ -9,90 +9,21 @@
         "days": [
           1
         ],
-        "classroom": "17"
+        "classroom": "O004"
+      },
+      {
+        "time": "07:00-09:00",
+        "days": [
+          3
+        ],
+        "classroom": "O004"
       }
     ],
     "professor_id": 112014,
     "first_name": "JORGE ALBERTO",
     "last_name": "NAJERA CASTREJON",
-    "rating": 8.6667,
-    "num_ratings": 9
-  },
-  {
-    "code": "1209",
-    "group": "3",
-    "professor": "GUADALUPE GERTRUDIS HERRERA MEJIA",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          2
-        ],
-        "classroom": "17"
-      }
-    ],
-    "professor_id": 108487,
-    "first_name": "Guadalupe Gertrudis",
-    "last_name": "Herrera Mejia",
-    "rating": 6.9231,
-    "num_ratings": 13
-  },
-  {
-    "code": "1209",
-    "group": "4",
-    "professor": "ISRAEL GARDUÑO GARCIA",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          1
-        ],
-        "classroom": "17"
-      }
-    ],
-    "professor_id": 102330,
-    "first_name": "Israel",
-    "last_name": "Garduño Garcia",
-    "rating": 7.6667,
-    "num_ratings": 12
-  },
-  {
-    "code": "1209",
-    "group": "5",
-    "professor": "JOSE LUIS ALMARAZ MORENO",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          1
-        ],
-        "classroom": "17"
-      }
-    ],
-    "professor_id": 141917,
-    "first_name": "Jose Luis",
-    "last_name": "Almaraz Moreno",
-    "rating": 6.5,
-    "num_ratings": 2
-  },
-  {
-    "code": "1209",
-    "group": "6",
-    "professor": "ROBERTO CISNEROS HERNANDEZ",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          1
-        ],
-        "classroom": "17"
-      }
-    ],
-    "professor_id": 71882,
-    "first_name": "Roberto",
-    "last_name": "Cisneros Hernandez",
-    "rating": 4.5758,
-    "num_ratings": 33
+    "rating": 8.5,
+    "num_ratings": 10
   },
   {
     "code": "1209",
@@ -104,33 +35,21 @@
         "days": [
           2
         ],
-        "classroom": "17"
+        "classroom": "O004"
+      },
+      {
+        "time": "17:00-19:00",
+        "days": [
+          4
+        ],
+        "classroom": "O004"
       }
     ],
     "professor_id": 51610,
     "first_name": "Martin Ing.",
     "last_name": "Reyes Farias",
-    "rating": 5.5588,
-    "num_ratings": 34
-  },
-  {
-    "code": "1209",
-    "group": "8",
-    "professor": "GUADALUPE GERTRUDIS HERRERA MEJIA",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          2
-        ],
-        "classroom": "17"
-      }
-    ],
-    "professor_id": 108487,
-    "first_name": "Guadalupe Gertrudis",
-    "last_name": "Herrera Mejia",
-    "rating": 6.9231,
-    "num_ratings": 13
+    "rating": 5.6857,
+    "num_ratings": 35
   },
   {
     "code": "1209",
@@ -142,7 +61,14 @@
         "days": [
           1
         ],
-        "classroom": "17"
+        "classroom": "O004"
+      },
+      {
+        "time": "13:00-15:00",
+        "days": [
+          3
+        ],
+        "classroom": "O004"
       }
     ],
     "professor_id": 42619,
@@ -161,7 +87,14 @@
         "days": [
           2
         ],
-        "classroom": "17"
+        "classroom": "O004"
+      },
+      {
+        "time": "13:00-15:00",
+        "days": [
+          4
+        ],
+        "classroom": "O004"
       }
     ],
     "professor_id": 42619,
@@ -180,7 +113,14 @@
         "days": [
           2
         ],
-        "classroom": "17"
+        "classroom": "O004"
+      },
+      {
+        "time": "15:00-17:00",
+        "days": [
+          4
+        ],
+        "classroom": "O004"
       }
     ],
     "professor_id": 95361,
@@ -188,6 +128,214 @@
     "last_name": "Ramos Trejo",
     "rating": 9.125,
     "num_ratings": 8
+  },
+  {
+    "code": "1209",
+    "group": "16",
+    "professor": "ARMANDO SANCHEZ GUZMAN",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          1
+        ],
+        "classroom": "O004"
+      },
+      {
+        "time": "19:00-21:00",
+        "days": [
+          3
+        ],
+        "classroom": "O004"
+      }
+    ],
+    "professor_id": 93948,
+    "first_name": "Armando",
+    "last_name": "Sánchez Guzmán",
+    "rating": 8.2903,
+    "num_ratings": 31
+  },
+  {
+    "code": "1209",
+    "group": "22",
+    "professor": "MARTIN REYES FARIAS",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1
+        ],
+        "classroom": "O003"
+      },
+      {
+        "time": "17:00-19:00",
+        "days": [
+          3
+        ],
+        "classroom": "O003"
+      }
+    ],
+    "professor_id": 51610,
+    "first_name": "Martin Ing.",
+    "last_name": "Reyes Farias",
+    "rating": 5.6857,
+    "num_ratings": 35
+  },
+  {
+    "code": "1209",
+    "group": "23",
+    "professor": "ROGELIO DARIO GUTIERREZ CARRILLO",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          2
+        ],
+        "classroom": "EXTR"
+      },
+      {
+        "time": "19:00-21:00",
+        "days": [
+          4
+        ],
+        "classroom": "EXTR"
+      }
+    ],
+    "professor_id": 124462,
+    "first_name": "ROGELIO DARIO",
+    "last_name": "GUTIERREZ",
+    "rating": 5.2632,
+    "num_ratings": 19
+  },
+  {
+    "code": "1209",
+    "group": "3",
+    "professor": "GUADALUPE GERTRUDIS HERRERA MEJIA",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2
+        ],
+        "classroom": "O003"
+      },
+      {
+        "time": "09:00-11:00",
+        "days": [
+          4
+        ],
+        "classroom": "O003"
+      }
+    ],
+    "professor_id": 108487,
+    "first_name": "Guadalupe Gertrudis",
+    "last_name": "Herrera Mejia",
+    "rating": 6.6429,
+    "num_ratings": 14
+  },
+  {
+    "code": "1209",
+    "group": "4",
+    "professor": "ISRAEL GARDUÑO GARCIA",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1
+        ],
+        "classroom": "O004"
+      },
+      {
+        "time": "09:00-11:00",
+        "days": [
+          3
+        ],
+        "classroom": "O004"
+      }
+    ],
+    "professor_id": 102330,
+    "first_name": "Israel",
+    "last_name": "Garduño Garcia",
+    "rating": 7.3846,
+    "num_ratings": 13
+  },
+  {
+    "code": "1209",
+    "group": "5",
+    "professor": "JOSE LUIS ALMARAZ MORENO",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1
+        ],
+        "classroom": "O003"
+      },
+      {
+        "time": "09:00-11:00",
+        "days": [
+          3
+        ],
+        "classroom": "O003"
+      }
+    ],
+    "professor_id": 141917,
+    "first_name": "Jose Luis",
+    "last_name": "Almaraz Moreno",
+    "rating": 6.5,
+    "num_ratings": 2
+  },
+  {
+    "code": "1209",
+    "group": "6",
+    "professor": "ROBERTO CISNEROS HERNANDEZ",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1
+        ],
+        "classroom": "O004"
+      },
+      {
+        "time": "11:00-13:00",
+        "days": [
+          3
+        ],
+        "classroom": "O004"
+      }
+    ],
+    "professor_id": 71882,
+    "first_name": "Roberto",
+    "last_name": "Cisneros Hernandez",
+    "rating": 4.6176,
+    "num_ratings": 34
+  },
+  {
+    "code": "1209",
+    "group": "8",
+    "professor": "GUADALUPE GERTRUDIS HERRERA MEJIA",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2
+        ],
+        "classroom": "O003"
+      },
+      {
+        "time": "11:00-13:00",
+        "days": [
+          4
+        ],
+        "classroom": "O003"
+      }
+    ],
+    "professor_id": 108487,
+    "first_name": "Guadalupe Gertrudis",
+    "last_name": "Herrera Mejia",
+    "rating": 6.6429,
+    "num_ratings": 14
   },
   {
     "code": "1209",
@@ -199,7 +347,14 @@
         "days": [
           1
         ],
-        "classroom": "17"
+        "classroom": "O004"
+      },
+      {
+        "time": "15:00-17:00",
+        "days": [
+          3
+        ],
+        "classroom": "O004"
       }
     ],
     "professor_id": 124362,
@@ -218,7 +373,14 @@
         "days": [
           1
         ],
-        "classroom": "17"
+        "classroom": "EXTR"
+      },
+      {
+        "time": "19:00-21:00",
+        "days": [
+          3
+        ],
+        "classroom": "EXTR"
       }
     ],
     "professor_id": 115628,
@@ -237,7 +399,14 @@
         "days": [
           1
         ],
-        "classroom": "17"
+        "classroom": "O003"
+      },
+      {
+        "time": "19:00-21:00",
+        "days": [
+          3
+        ],
+        "classroom": "O003"
       }
     ],
     "professor_id": 82396,
@@ -245,25 +414,6 @@
     "last_name": "Peña Bandala",
     "rating": 9.8636,
     "num_ratings": 22
-  },
-  {
-    "code": "1209",
-    "group": "16",
-    "professor": "ARMANDO SANCHEZ GUZMAN",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          1
-        ],
-        "classroom": "17"
-      }
-    ],
-    "professor_id": 93948,
-    "first_name": "Armando",
-    "last_name": "Sánchez Guzmán",
-    "rating": 8.2903,
-    "num_ratings": 31
   },
   {
     "code": "1209",
@@ -275,7 +425,14 @@
         "days": [
           2
         ],
-        "classroom": "17"
+        "classroom": "O004"
+      },
+      {
+        "time": "19:00-21:00",
+        "days": [
+          4
+        ],
+        "classroom": "O004"
       }
     ],
     "professor_id": 115628,
@@ -294,7 +451,14 @@
         "days": [
           2
         ],
-        "classroom": "17"
+        "classroom": "EXTR"
+      },
+      {
+        "time": "20:00-22:00",
+        "days": [
+          4
+        ],
+        "classroom": "EXTR"
       }
     ],
     "professor_id": 67066,
@@ -313,7 +477,14 @@
         "days": [
           4
         ],
-        "classroom": "17"
+        "classroom": "O003"
+      },
+      {
+        "time": "19:00-21:00",
+        "days": [
+          2
+        ],
+        "classroom": "O003"
       }
     ],
     "professor_id": 93948,
@@ -332,14 +503,21 @@
         "days": [
           2
         ],
-        "classroom": "17"
+        "classroom": "O003"
+      },
+      {
+        "time": "13:00-15:00",
+        "days": [
+          4
+        ],
+        "classroom": "O003"
       }
     ],
     "professor_id": 51610,
     "first_name": "Martin Ing.",
     "last_name": "Reyes Farias",
-    "rating": 5.5588,
-    "num_ratings": 34
+    "rating": 5.6857,
+    "num_ratings": 35
   },
   {
     "code": "1209",
@@ -351,51 +529,20 @@
         "days": [
           2
         ],
-        "classroom": "17"
+        "classroom": "O003"
+      },
+      {
+        "time": "07:00-09:00",
+        "days": [
+          4
+        ],
+        "classroom": "O003"
       }
     ],
     "professor_id": 188267,
     "first_name": "Pablo Eduardo",
     "last_name": "Lira Velázquez",
-    "rating": 7.17,
-    "num_ratings": 6
-  },
-  {
-    "code": "1209",
-    "group": "22",
-    "professor": "MARTIN REYES FARIAS",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          1
-        ],
-        "classroom": "17"
-      }
-    ],
-    "professor_id": 51610,
-    "first_name": "Martin Ing.",
-    "last_name": "Reyes Farias",
-    "rating": 5.5588,
-    "num_ratings": 34
-  },
-  {
-    "code": "1209",
-    "group": "23",
-    "professor": "ROGELIO DARIO GUTIERREZ CARRILLO",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          2
-        ],
-        "classroom": "17"
-      }
-    ],
-    "professor_id": 124462,
-    "first_name": "ROGELIO DARIO",
-    "last_name": "GUTIERREZ",
-    "rating": 5.4444,
-    "num_ratings": 18
+    "rating": 7.0,
+    "num_ratings": 7
   }
 ]

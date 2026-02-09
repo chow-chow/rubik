@@ -10,14 +10,54 @@
           1,
           3
         ],
-        "classroom": "35"
+        "classroom": "A302"
       }
     ],
     "professor_id": 134274,
     "first_name": "Martha Isela",
     "last_name": "Torres Hernández",
-    "rating": 7.5263,
-    "num_ratings": 19
+    "rating": 7.4286,
+    "num_ratings": 21
+  },
+  {
+    "code": "1592",
+    "group": "5",
+    "professor": "HUGO CESAR GARZA MAGALLON",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "B405"
+      }
+    ],
+    "professor_id": 176675,
+    "first_name": "Hugo Cesar",
+    "last_name": "Garza Magallón",
+    "rating": 5.0,
+    "num_ratings": 21
+  },
+  {
+    "code": "1592",
+    "group": "6",
+    "professor": "EDGAR  BALDEMAR AGUADO CRUZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "A206"
+      }
+    ],
+    "professor_id": 99901,
+    "first_name": "Edgar Baldemar",
+    "last_name": "Aguado Cruz",
+    "rating": 8.3103,
+    "num_ratings": 29
   },
   {
     "code": "1592",
@@ -30,7 +70,7 @@
           1,
           3
         ],
-        "classroom": "35"
+        "classroom": "A206"
       }
     ],
     "professor_id": 142267,
@@ -50,7 +90,7 @@
           1,
           3
         ],
-        "classroom": "35"
+        "classroom": "B407"
       }
     ],
     "professor_id": 142401,
@@ -70,48 +110,13 @@
           2,
           4
         ],
-        "classroom": "35"
+        "classroom": "DS01"
       }
     ],
     "professor_id": 134274,
     "first_name": "Martha Isela",
     "last_name": "Torres Hernández",
-    "rating": 7.5263,
-    "num_ratings": 19
-  },
-  {
-    "code": "1592",
-    "group": "5",
-    "professor": "HUGO CESAR GARZA MAGALLON",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "35"
-      }
-    ],
-    "professor_id": 176675,
-    "first_name": "Hugo Cesar",
-    "last_name": "Garza Magallón",
-    "rating": 5.0,
+    "rating": 7.4286,
     "num_ratings": 21
-  },
-  {
-    "code": "1592",
-    "group": "6",
-    "professor": "PROFESOR POR ASIGNAR",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          3,
-          5
-        ],
-        "classroom": "35"
-      }
-    ]
   }
 ]

@@ -11,7 +11,7 @@
           3,
           5
         ],
-        "classroom": "25"
+        "classroom": "A209"
       }
     ]
   },
@@ -27,7 +27,7 @@
           3,
           5
         ],
-        "classroom": "25"
+        "classroom": "EXTR"
       }
     ],
     "professor_id": 112306,
@@ -48,7 +48,7 @@
           3,
           5
         ],
-        "classroom": "25"
+        "classroom": "A308"
       }
     ],
     "professor_id": 164908,
@@ -56,27 +56,6 @@
     "last_name": "García Domínguez",
     "rating": 7.3333,
     "num_ratings": 3
-  },
-  {
-    "code": "1703",
-    "group": "4",
-    "professor": "MIGUEL ANGEL RODRIGUEZ VEGA",
-    "schedules": [
-      {
-        "time": "13:00-14:30",
-        "days": [
-          1,
-          3,
-          5
-        ],
-        "classroom": "25"
-      }
-    ],
-    "professor_id": 134900,
-    "first_name": "Miguel Ángel",
-    "last_name": "Rodriguez Vega",
-    "rating": 9.5,
-    "num_ratings": 12
   },
   {
     "code": "1703",
@@ -90,7 +69,7 @@
           3,
           5
         ],
-        "classroom": "25"
+        "classroom": "A212"
       }
     ]
   },
@@ -105,7 +84,7 @@
           2,
           4
         ],
-        "classroom": "25"
+        "classroom": "D010"
       }
     ],
     "professor_id": 68260,
@@ -125,7 +104,7 @@
           2,
           4
         ],
-        "classroom": "25"
+        "classroom": "DS02"
       }
     ],
     "professor_id": 75135,
@@ -133,6 +112,27 @@
     "last_name": "Monroy Miranda",
     "rating": 5.875,
     "num_ratings": 8
+  },
+  {
+    "code": "1703",
+    "group": "4",
+    "professor": "MIGUEL ANGEL RODRIGUEZ VEGA",
+    "schedules": [
+      {
+        "time": "13:00-14:30",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "A303"
+      }
+    ],
+    "professor_id": 134900,
+    "first_name": "Miguel Ángel",
+    "last_name": "Rodriguez Vega",
+    "rating": 9.4615,
+    "num_ratings": 13
   },
   {
     "code": "1703",
@@ -144,7 +144,7 @@
         "days": [
           6
         ],
-        "classroom": "25"
+        "classroom": "A307"
       }
     ],
     "professor_id": 180847,

@@ -2,7 +2,7 @@
   {
     "code": "2502",
     "group": "1",
-    "professor": "JUAN JOSE DÍAZ NIGENDA",
+    "professor": "JUAN JOSE DIAZ NIGENDA",
     "schedules": [
       {
         "time": "07:00-08:30",
@@ -10,21 +10,21 @@
           1,
           3
         ],
-        "classroom": "25"
+        "classroom": "A404"
       }
     ]
   },
   {
     "code": "2502",
     "group": "2",
-    "professor": "JUAN JOSE DÍAZ NIGENDA",
+    "professor": "Grupo cancelado, contactar a la División.",
     "schedules": [
       {
         "time": "07:00-08:00",
         "days": [
           5
         ],
-        "classroom": "25"
+        "classroom": "A404"
       }
     ]
   }

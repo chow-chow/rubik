@@ -1,58 +1,6 @@
 [
   {
     "code": "6618",
-    "group": "1",
-    "professor": "JUAN CARLOS ROA BEIZA",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          1
-        ],
-        "classroom": "20"
-      }
-    ],
-    "professor_id": 21291,
-    "first_name": "juan carlos",
-    "last_name": "roa beiza",
-    "rating": 6.5538,
-    "num_ratings": 65
-  },
-  {
-    "code": "6618",
-    "group": "2",
-    "professor": "DOMINGO TEODORO MENDOZA ROSALES",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          1
-        ],
-        "classroom": "20"
-      }
-    ],
-    "professor_id": 71346,
-    "first_name": "Domingo Teodoro",
-    "last_name": "Mendoza Rosales",
-    "rating": 6.9565,
-    "num_ratings": 69
-  },
-  {
-    "code": "6618",
-    "group": "3",
-    "professor": "SALVADOR EMILIO SIERRA BENAVIDEZ",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          2
-        ],
-        "classroom": "20"
-      }
-    ]
-  },
-  {
-    "code": "6618",
     "group": "4",
     "professor": "JAVIER LOPEZ VELAZQUEZ",
     "schedules": [
@@ -61,7 +9,7 @@
         "days": [
           2
         ],
-        "classroom": "20"
+        "classroom": "Q108"
       }
     ],
     "professor_id": 94353,
@@ -69,44 +17,6 @@
     "last_name": "LOPEZ VELAZQUEZ",
     "rating": 3.75,
     "num_ratings": 12
-  },
-  {
-    "code": "6618",
-    "group": "5",
-    "professor": "FRANCISCO JAVIER MARTINEZ RODRIGUEZ",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          3
-        ],
-        "classroom": "20"
-      }
-    ],
-    "professor_id": 99064,
-    "first_name": "Francisco Javier",
-    "last_name": "Martinez Rodriguez",
-    "rating": 4.6316,
-    "num_ratings": 38
-  },
-  {
-    "code": "6618",
-    "group": "6",
-    "professor": "DOMINGO TEODORO MENDOZA ROSALES",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          3
-        ],
-        "classroom": "20"
-      }
-    ],
-    "professor_id": 71346,
-    "first_name": "Domingo Teodoro",
-    "last_name": "Mendoza Rosales",
-    "rating": 6.9565,
-    "num_ratings": 69
   },
   {
     "code": "6618",
@@ -118,7 +28,7 @@
         "days": [
           3
         ],
-        "classroom": "20"
+        "classroom": "Q108"
       }
     ],
     "professor_id": 94353,
@@ -137,7 +47,7 @@
         "days": [
           5
         ],
-        "classroom": "20"
+        "classroom": "Q109"
       }
     ],
     "professor_id": 124065,
@@ -145,6 +55,96 @@
     "last_name": "OCAMPO SANTILLAN",
     "rating": 6.7778,
     "num_ratings": 9
+  },
+  {
+    "code": "6618",
+    "group": "1",
+    "professor": "JUAN CARLOS ROA BEIZA",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1
+        ],
+        "classroom": "Q108"
+      }
+    ],
+    "professor_id": 21291,
+    "first_name": "juan carlos",
+    "last_name": "roa beiza",
+    "rating": 6.5538,
+    "num_ratings": 65
+  },
+  {
+    "code": "6618",
+    "group": "2",
+    "professor": "DOMINGO TEODORO MENDOZA ROSALES",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1
+        ],
+        "classroom": "Q107"
+      }
+    ],
+    "professor_id": 71346,
+    "first_name": "Domingo Teodoro",
+    "last_name": "Mendoza Rosales",
+    "rating": 6.9565,
+    "num_ratings": 69
+  },
+  {
+    "code": "6618",
+    "group": "3",
+    "professor": "SALVADOR EMILIO SIERRA BENAVIDEZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2
+        ],
+        "classroom": "Q108"
+      }
+    ]
+  },
+  {
+    "code": "6618",
+    "group": "5",
+    "professor": "FRANCISCO JAVIER MARTINEZ RODRIGUEZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          3
+        ],
+        "classroom": "Q107"
+      }
+    ],
+    "professor_id": 99064,
+    "first_name": "Francisco Javier",
+    "last_name": "Martinez Rodriguez",
+    "rating": 4.7179,
+    "num_ratings": 39
+  },
+  {
+    "code": "6618",
+    "group": "6",
+    "professor": "DOMINGO TEODORO MENDOZA ROSALES",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          3
+        ],
+        "classroom": "Q107"
+      }
+    ],
+    "professor_id": 71346,
+    "first_name": "Domingo Teodoro",
+    "last_name": "Mendoza Rosales",
+    "rating": 6.9565,
+    "num_ratings": 69
   },
   {
     "code": "6618",
@@ -156,7 +156,7 @@
         "days": [
           5
         ],
-        "classroom": "20"
+        "classroom": "Q109"
       }
     ],
     "professor_id": 80201,
@@ -175,14 +175,14 @@
         "days": [
           5
         ],
-        "classroom": "20"
+        "classroom": "Q108"
       }
     ],
     "professor_id": 89949,
     "first_name": "ISMAEL",
     "last_name": "ROMERO OCARANZA",
-    "rating": 6.36,
-    "num_ratings": 25
+    "rating": 6.3077,
+    "num_ratings": 26
   },
   {
     "code": "6618",
@@ -194,7 +194,7 @@
         "days": [
           3
         ],
-        "classroom": "20"
+        "classroom": "Q107"
       }
     ]
   }

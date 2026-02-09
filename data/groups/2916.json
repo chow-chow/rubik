@@ -1,21 +1,6 @@
 [
   {
     "code": "2916",
-    "group": "1",
-    "professor": "SERGIO MACUIL ROBLES",
-    "schedules": [
-      {
-        "time": "07:00-08:30",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "30"
-      }
-    ]
-  },
-  {
-    "code": "2916",
     "group": "2",
     "professor": "FRANCISCO LOPEZ RIVAS",
     "schedules": [
@@ -25,7 +10,7 @@
           2,
           4
         ],
-        "classroom": "30"
+        "classroom": "DS11"
       }
     ]
   },
@@ -40,14 +25,29 @@
           2,
           4
         ],
-        "classroom": "30"
+        "classroom": "A308"
       }
     ],
     "professor_id": 118842,
     "first_name": "Jesús Antonio",
     "last_name": "Contreras Ramírez",
-    "rating": 5.9722,
-    "num_ratings": 36
+    "rating": 6.0,
+    "num_ratings": 38
+  },
+  {
+    "code": "2916",
+    "group": "1",
+    "professor": "SERGIO MACUIL ROBLES",
+    "schedules": [
+      {
+        "time": "07:00-08:30",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "Y104"
+      }
+    ]
   },
   {
     "code": "2916",
@@ -60,7 +60,7 @@
           2,
           4
         ],
-        "classroom": "30"
+        "classroom": "U305"
       }
     ]
   }

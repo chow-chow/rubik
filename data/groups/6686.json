@@ -9,7 +9,7 @@
         "days": [
           1
         ],
-        "classroom": "8"
+        "classroom": "Q314"
       }
     ]
   },
@@ -23,14 +23,14 @@
         "days": [
           1
         ],
-        "classroom": "8"
+        "classroom": "Q316"
       }
     ],
     "professor_id": 141855,
     "first_name": "Norma",
     "last_name": "Reyes Cruz",
-    "rating": 8.0,
-    "num_ratings": 5
+    "rating": 8.3333,
+    "num_ratings": 6
   },
   {
     "code": "6686",
@@ -42,7 +42,7 @@
         "days": [
           1
         ],
-        "classroom": "8"
+        "classroom": "Q316"
       }
     ],
     "professor_id": 79762,
@@ -61,7 +61,7 @@
         "days": [
           1
         ],
-        "classroom": "8"
+        "classroom": "Q314"
       }
     ],
     "professor_id": 89946,
@@ -80,7 +80,7 @@
         "days": [
           1
         ],
-        "classroom": "8"
+        "classroom": "Q316"
       }
     ],
     "professor_id": 89946,
@@ -99,14 +99,14 @@
         "days": [
           1
         ],
-        "classroom": "8"
+        "classroom": "Q314"
       }
     ],
     "professor_id": 89949,
     "first_name": "ISMAEL",
     "last_name": "ROMERO OCARANZA",
-    "rating": 6.36,
-    "num_ratings": 25
+    "rating": 6.3077,
+    "num_ratings": 26
   },
   {
     "code": "6686",
@@ -118,7 +118,7 @@
         "days": [
           1
         ],
-        "classroom": "8"
+        "classroom": "Q316"
       }
     ],
     "professor_id": 89946,
@@ -137,7 +137,7 @@
         "days": [
           1
         ],
-        "classroom": "8"
+        "classroom": "Q316"
       }
     ],
     "professor_id": 172902,
@@ -156,7 +156,7 @@
         "days": [
           2
         ],
-        "classroom": "8"
+        "classroom": "Q314"
       }
     ]
   },
@@ -170,7 +170,7 @@
         "days": [
           2
         ],
-        "classroom": "8"
+        "classroom": "Q314"
       }
     ],
     "professor_id": 112610,
@@ -189,14 +189,14 @@
         "days": [
           2
         ],
-        "classroom": "8"
+        "classroom": "Q316"
       }
     ],
     "professor_id": 141855,
     "first_name": "Norma",
     "last_name": "Reyes Cruz",
-    "rating": 8.0,
-    "num_ratings": 5
+    "rating": 8.3333,
+    "num_ratings": 6
   },
   {
     "code": "6686",
@@ -208,7 +208,7 @@
         "days": [
           2
         ],
-        "classroom": "8"
+        "classroom": "Q316"
       }
     ],
     "professor_id": 94393,
@@ -227,7 +227,7 @@
         "days": [
           2
         ],
-        "classroom": "8"
+        "classroom": "Q314"
       }
     ],
     "professor_id": 99903,
@@ -246,14 +246,14 @@
         "days": [
           3
         ],
-        "classroom": "8"
+        "classroom": "Q314"
       }
     ],
     "professor_id": 89950,
     "first_name": "Jorge Antonio",
     "last_name": "Monroy Juarez",
-    "rating": 6.4667,
-    "num_ratings": 15
+    "rating": 6.2353,
+    "num_ratings": 17
   },
   {
     "code": "6686",
@@ -265,7 +265,7 @@
         "days": [
           3
         ],
-        "classroom": "8"
+        "classroom": "Q316"
       }
     ]
   },
@@ -279,7 +279,7 @@
         "days": [
           3
         ],
-        "classroom": "8"
+        "classroom": "Q316"
       }
     ],
     "professor_id": 79762,
@@ -298,7 +298,7 @@
         "days": [
           3
         ],
-        "classroom": "8"
+        "classroom": "Q314"
       }
     ],
     "professor_id": 172905,
@@ -317,7 +317,7 @@
         "days": [
           3
         ],
-        "classroom": "8"
+        "classroom": "Q316"
       }
     ]
   },
@@ -331,7 +331,7 @@
         "days": [
           4
         ],
-        "classroom": "8"
+        "classroom": "Q316"
       }
     ],
     "professor_id": 67356,
@@ -350,7 +350,7 @@
         "days": [
           4
         ],
-        "classroom": "8"
+        "classroom": "Q316"
       }
     ],
     "professor_id": 94393,
@@ -362,21 +362,16 @@
   {
     "code": "6686",
     "group": "21",
-    "professor": "ADRIANA S LOPEZ GARCIA",
+    "professor": "ADRIANA SOLEDAD LOPEZ GARCIA",
     "schedules": [
       {
         "time": "17:00-19:00",
         "days": [
           4
         ],
-        "classroom": "8"
+        "classroom": "Q316"
       }
-    ],
-    "professor_id": 105168,
-    "first_name": "ING. ADRIANA S",
-    "last_name": "LOPEZ GARCIA",
-    "rating": 9.375,
-    "num_ratings": 8
+    ]
   },
   {
     "code": "6686",
@@ -388,7 +383,7 @@
         "days": [
           5
         ],
-        "classroom": "8"
+        "classroom": "Q316"
       }
     ],
     "professor_id": 130840,
@@ -407,7 +402,7 @@
         "days": [
           5
         ],
-        "classroom": "8"
+        "classroom": "Q314"
       }
     ]
   },
@@ -421,7 +416,7 @@
         "days": [
           5
         ],
-        "classroom": "8"
+        "classroom": "Q314"
       }
     ],
     "professor_id": 134945,
@@ -440,7 +435,7 @@
         "days": [
           5
         ],
-        "classroom": "8"
+        "classroom": "Q314"
       }
     ],
     "professor_id": 99903,
@@ -459,7 +454,7 @@
         "days": [
           5
         ],
-        "classroom": "8"
+        "classroom": "Q316"
       }
     ],
     "professor_id": 94393,
@@ -478,7 +473,7 @@
         "days": [
           5
         ],
-        "classroom": "8"
+        "classroom": "Q314"
       }
     ],
     "professor_id": 99903,
@@ -497,14 +492,14 @@
         "days": [
           6
         ],
-        "classroom": "8"
+        "classroom": "Q316"
       }
     ],
     "professor_id": 89949,
     "first_name": "ISMAEL",
     "last_name": "ROMERO OCARANZA",
-    "rating": 6.36,
-    "num_ratings": 25
+    "rating": 6.3077,
+    "num_ratings": 26
   },
   {
     "code": "6686",
@@ -516,7 +511,7 @@
         "days": [
           6
         ],
-        "classroom": "8"
+        "classroom": "Q314"
       }
     ],
     "professor_id": 153250,
@@ -535,7 +530,7 @@
         "days": [
           6
         ],
-        "classroom": "8"
+        "classroom": "Q314"
       }
     ],
     "professor_id": 153250,

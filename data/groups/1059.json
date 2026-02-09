@@ -10,7 +10,7 @@
           2,
           4
         ],
-        "classroom": "35"
+        "classroom": "A311"
       }
     ],
     "professor_id": 105120,
@@ -18,26 +18,6 @@
     "last_name": "Servin Chavez",
     "rating": 7.0,
     "num_ratings": 2
-  },
-  {
-    "code": "1059",
-    "group": "2",
-    "professor": "CARLOS AYALA GOMEZ",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "35"
-      }
-    ],
-    "professor_id": 105117,
-    "first_name": "Carlos",
-    "last_name": "Ayala Gomez",
-    "rating": 8.4,
-    "num_ratings": 10
   },
   {
     "code": "1059",
@@ -50,7 +30,7 @@
           2,
           4
         ],
-        "classroom": "35"
+        "classroom": "B201"
       }
     ],
     "professor_id": 181406,
@@ -70,7 +50,7 @@
           1,
           3
         ],
-        "classroom": "25"
+        "classroom": "DS11"
       }
     ],
     "professor_id": 109142,
@@ -78,6 +58,26 @@
     "last_name": "Avila Cedillo",
     "rating": 6.0,
     "num_ratings": 8
+  },
+  {
+    "code": "1059",
+    "group": "2",
+    "professor": "CARLOS AYALA GOMEZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "B302"
+      }
+    ],
+    "professor_id": 105117,
+    "first_name": "Carlos",
+    "last_name": "Ayala Gomez",
+    "rating": 8.4,
+    "num_ratings": 10
   },
   {
     "code": "1059",
@@ -90,7 +90,7 @@
           2,
           4
         ],
-        "classroom": "29"
+        "classroom": "EXTR"
       }
     ],
     "professor_id": 87744,
@@ -110,13 +110,13 @@
           2,
           4
         ],
-        "classroom": "25"
+        "classroom": "B301"
       }
     ],
     "professor_id": 105123,
     "first_name": "Andrea Paola",
     "last_name": "Dorado Diaz",
-    "rating": 8.2,
-    "num_ratings": 15
+    "rating": 8.3125,
+    "num_ratings": 16
   }
 ]

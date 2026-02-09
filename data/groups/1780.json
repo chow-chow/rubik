@@ -10,7 +10,14 @@
           3,
           5
         ],
-        "classroom": "35"
+        "classroom": "J201"
+      },
+      {
+        "time": "07:00-09:00",
+        "days": [
+          1
+        ],
+        "classroom": "H001"
       }
     ],
     "professor_id": 105095,
@@ -29,7 +36,21 @@
         "days": [
           1
         ],
-        "classroom": "35"
+        "classroom": "J109"
+      },
+      {
+        "time": "11:00-13:00",
+        "days": [
+          5
+        ],
+        "classroom": "H001"
+      },
+      {
+        "time": "11:00-13:00",
+        "days": [
+          3
+        ],
+        "classroom": "H002"
       }
     ],
     "professor_id": 99087,
@@ -49,7 +70,14 @@
           2,
           4
         ],
-        "classroom": "35"
+        "classroom": "I204"
+      },
+      {
+        "time": "11:00-13:00",
+        "days": [
+          3
+        ],
+        "classroom": "H001"
       }
     ],
     "professor_id": 105490,
@@ -69,13 +97,20 @@
           1,
           3
         ],
-        "classroom": "35"
+        "classroom": "I204"
+      },
+      {
+        "time": "15:00-17:00",
+        "days": [
+          5
+        ],
+        "classroom": "H001"
       }
     ],
     "professor_id": 88849,
     "first_name": "Felipe Arturo",
     "last_name": "Machuca Tzili",
-    "rating": 7.3235,
-    "num_ratings": 34
+    "rating": 7.4,
+    "num_ratings": 35
   }
 ]

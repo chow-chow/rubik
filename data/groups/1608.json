@@ -10,7 +10,7 @@
           2,
           4
         ],
-        "classroom": "35"
+        "classroom": "Y203"
       }
     ],
     "professor_id": 141799,
@@ -18,41 +18,6 @@
     "last_name": "Barrera del Campo Olavarrieta",
     "rating": 9.3333,
     "num_ratings": 6
-  },
-  {
-    "code": "1608",
-    "group": "2",
-    "professor": "PEDRO LUIS BARRERA DEL CAMPO OLAVARRIETA",
-    "schedules": [
-      {
-        "time": "08:30-10:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "35"
-      }
-    ],
-    "professor_id": 141799,
-    "first_name": "Pedro Luis",
-    "last_name": "Barrera del Campo Olavarrieta",
-    "rating": 9.3333,
-    "num_ratings": 6
-  },
-  {
-    "code": "1608",
-    "group": "3",
-    "professor": "FRANCISCO ALVAREZ LEDESMA",
-    "schedules": [
-      {
-        "time": "10:00-11:30",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "35"
-      }
-    ]
   },
   {
     "code": "1608",
@@ -65,7 +30,7 @@
           2,
           4
         ],
-        "classroom": "35"
+        "classroom": "A208"
       }
     ],
     "professor_id": 161595,
@@ -85,7 +50,42 @@
           2,
           4
         ],
-        "classroom": "35"
+        "classroom": "A208"
+      }
+    ]
+  },
+  {
+    "code": "1608",
+    "group": "2",
+    "professor": "PEDRO LUIS BARRERA DEL CAMPO OLAVARRIETA",
+    "schedules": [
+      {
+        "time": "08:30-10:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "Y203"
+      }
+    ],
+    "professor_id": 141799,
+    "first_name": "Pedro Luis",
+    "last_name": "Barrera del Campo Olavarrieta",
+    "rating": 9.3333,
+    "num_ratings": 6
+  },
+  {
+    "code": "1608",
+    "group": "3",
+    "professor": "FRANCISCO ALVAREZ LEDESMA",
+    "schedules": [
+      {
+        "time": "10:00-11:30",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A304"
       }
     ]
   }

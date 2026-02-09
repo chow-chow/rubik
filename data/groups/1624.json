@@ -1,6 +1,25 @@
 [
   {
     "code": "1624",
+    "group": "4",
+    "professor": "MARCO ANTONIO POLO LABARRIOS",
+    "schedules": [
+      {
+        "time": "07:00-11:00",
+        "days": [
+          6
+        ],
+        "classroom": "B102"
+      }
+    ],
+    "professor_id": 147325,
+    "first_name": "Marco Antonio",
+    "last_name": "Polo Labarrios",
+    "rating": 6.75,
+    "num_ratings": 4
+  },
+  {
+    "code": "1624",
     "group": "1",
     "professor": "JUAN JOSE LOPEZ MARQUEZ",
     "schedules": [
@@ -10,7 +29,7 @@
           1,
           3
         ],
-        "classroom": "25"
+        "classroom": "B101"
       }
     ]
   },
@@ -25,7 +44,7 @@
           2,
           4
         ],
-        "classroom": "25"
+        "classroom": "B205"
       }
     ],
     "professor_id": 156042,
@@ -45,7 +64,7 @@
           2,
           4
         ],
-        "classroom": "25"
+        "classroom": "Y001"
       }
     ],
     "professor_id": 101789,
@@ -53,25 +72,6 @@
     "last_name": "FLORES GARCIA",
     "rating": 7.5882,
     "num_ratings": 17
-  },
-  {
-    "code": "1624",
-    "group": "4",
-    "professor": "MARCO ANTONIO POLO LABARRIOS",
-    "schedules": [
-      {
-        "time": "07:00-11:00",
-        "days": [
-          6
-        ],
-        "classroom": "25"
-      }
-    ],
-    "professor_id": 147325,
-    "first_name": "Marco Antonio",
-    "last_name": "Polo Labarrios",
-    "rating": 6.75,
-    "num_ratings": 4
   },
   {
     "code": "1624",
@@ -84,7 +84,7 @@
           1,
           3
         ],
-        "classroom": "25"
+        "classroom": "B101"
       }
     ],
     "professor_id": 147325,

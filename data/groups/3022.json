@@ -1,45 +1,6 @@
 [
   {
     "code": "3022",
-    "group": "1",
-    "professor": "GUILLERMINA PEREZ DURAN",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          5
-        ],
-        "classroom": "28"
-      }
-    ],
-    "professor_id": 104858,
-    "first_name": "Ing. Guillermina",
-    "last_name": "Perez Duran",
-    "rating": 8.7308,
-    "num_ratings": 26
-  },
-  {
-    "code": "3022",
-    "group": "2",
-    "professor": "GUILLERMINA PEREZ DURAN",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "30"
-      }
-    ],
-    "professor_id": 104858,
-    "first_name": "Ing. Guillermina",
-    "last_name": "Perez Duran",
-    "rating": 8.7308,
-    "num_ratings": 26
-  },
-  {
-    "code": "3022",
     "group": "3",
     "professor": "BERTHA AGUILAR SANCHEZ",
     "schedules": [
@@ -49,7 +10,7 @@
           1,
           3
         ],
-        "classroom": "35"
+        "classroom": "B303"
       }
     ],
     "professor_id": 101548,
@@ -69,7 +30,7 @@
           3,
           5
         ],
-        "classroom": "35"
+        "classroom": "A311"
       }
     ],
     "professor_id": 108909,
@@ -89,7 +50,7 @@
           2,
           4
         ],
-        "classroom": "35"
+        "classroom": "D001"
       }
     ],
     "professor_id": 105118,
@@ -109,8 +70,54 @@
           1,
           3
         ],
-        "classroom": "30"
+        "classroom": "D001"
       }
     ]
+  },
+  {
+    "code": "3022",
+    "group": "1",
+    "professor": "GUILLERMINA PEREZ DURAN",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1
+        ],
+        "classroom": "B201"
+      },
+      {
+        "time": "09:00-11:00",
+        "days": [
+          5
+        ],
+        "classroom": "B105"
+      }
+    ],
+    "professor_id": 104858,
+    "first_name": "Ing. Guillermina",
+    "last_name": "Perez Duran",
+    "rating": 8.7308,
+    "num_ratings": 26
+  },
+  {
+    "code": "3022",
+    "group": "2",
+    "professor": "GUILLERMINA PEREZ DURAN",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "J206"
+      }
+    ],
+    "professor_id": 104858,
+    "first_name": "Ing. Guillermina",
+    "last_name": "Perez Duran",
+    "rating": 8.7308,
+    "num_ratings": 26
   }
 ]

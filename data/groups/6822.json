@@ -1,25 +1,6 @@
 [
   {
     "code": "6822",
-    "group": "1",
-    "professor": "JESUS MARIA FRANCISCO HERNANDEZ MORALES",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          1
-        ],
-        "classroom": "18"
-      }
-    ],
-    "professor_id": 80201,
-    "first_name": "JESUS MARIA FRANCISCO",
-    "last_name": "HERNANDEZ MORALES",
-    "rating": 6.1111,
-    "num_ratings": 18
-  },
-  {
-    "code": "6822",
     "group": "2",
     "professor": "DOMINGO TEODORO MENDOZA ROSALES",
     "schedules": [
@@ -28,7 +9,7 @@
         "days": [
           1
         ],
-        "classroom": "18"
+        "classroom": "Q109"
       }
     ],
     "professor_id": 71346,
@@ -39,36 +20,22 @@
   },
   {
     "code": "6822",
-    "group": "3",
-    "professor": "JESUS MARIA FRANCISCO HERNANDEZ MORALES",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          2
-        ],
-        "classroom": "18"
-      }
-    ],
-    "professor_id": 80201,
-    "first_name": "JESUS MARIA FRANCISCO",
-    "last_name": "HERNANDEZ MORALES",
-    "rating": 6.1111,
-    "num_ratings": 18
-  },
-  {
-    "code": "6822",
     "group": "4",
-    "professor": "ISRAEL PEREZ MARTINEZ",
+    "professor": "MANUEL ALBERTO SORIANO AVILA",
     "schedules": [
       {
         "time": "17:00-19:00",
         "days": [
           2
         ],
-        "classroom": "18"
+        "classroom": "Q109"
       }
-    ]
+    ],
+    "professor_id": 149502,
+    "first_name": "Manuel Alberto",
+    "last_name": "Soriano Ávila",
+    "rating": 10.0,
+    "num_ratings": 2
   },
   {
     "code": "6822",
@@ -80,7 +47,7 @@
         "days": [
           3
         ],
-        "classroom": "18"
+        "classroom": "Q109"
       }
     ],
     "professor_id": 71346,
@@ -88,6 +55,44 @@
     "last_name": "Mendoza Rosales",
     "rating": 6.9565,
     "num_ratings": 69
+  },
+  {
+    "code": "6822",
+    "group": "1",
+    "professor": "JESUS MARIA FRANCISCO HERNANDEZ MORALES",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1
+        ],
+        "classroom": "Q109"
+      }
+    ],
+    "professor_id": 80201,
+    "first_name": "JESUS MARIA FRANCISCO",
+    "last_name": "HERNANDEZ MORALES",
+    "rating": 6.1111,
+    "num_ratings": 18
+  },
+  {
+    "code": "6822",
+    "group": "3",
+    "professor": "JESUS MARIA FRANCISCO HERNANDEZ MORALES",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2
+        ],
+        "classroom": "Q109"
+      }
+    ],
+    "professor_id": 80201,
+    "first_name": "JESUS MARIA FRANCISCO",
+    "last_name": "HERNANDEZ MORALES",
+    "rating": 6.1111,
+    "num_ratings": 18
   },
   {
     "code": "6822",
@@ -99,7 +104,7 @@
         "days": [
           4
         ],
-        "classroom": "18"
+        "classroom": "Q109"
       }
     ]
   }

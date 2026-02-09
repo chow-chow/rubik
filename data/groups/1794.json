@@ -9,14 +9,14 @@
         "days": [
           2
         ],
-        "classroom": "35"
+        "classroom": "A105"
       }
     ],
     "professor_id": 105044,
     "first_name": "Juan Manuel",
     "last_name": "Bueno Soria",
     "rating": 6.0,
-    "num_ratings": 22
+    "num_ratings": 23
   },
   {
     "code": "1794",
@@ -28,7 +28,7 @@
         "days": [
           1
         ],
-        "classroom": "35"
+        "classroom": "A104"
       }
     ],
     "professor_id": 114257,
@@ -47,7 +47,7 @@
         "days": [
           2
         ],
-        "classroom": "35"
+        "classroom": "A108"
       }
     ]
   }

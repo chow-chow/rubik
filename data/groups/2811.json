@@ -10,7 +10,7 @@
           2,
           4
         ],
-        "classroom": "25"
+        "classroom": "U302"
       }
     ],
     "professor_id": 176675,
@@ -18,20 +18,6 @@
     "last_name": "Garza Magallón",
     "rating": 5.0,
     "num_ratings": 21
-  },
-  {
-    "code": "2811",
-    "group": "2",
-    "professor": "JOSE OMAR CRUZ SANTIAGOVer Nota 1",
-    "schedules": [
-      {
-        "time": "07:00-10:00",
-        "days": [
-          5
-        ],
-        "classroom": "25"
-      }
-    ]
   },
   {
     "code": "2811",
@@ -43,7 +29,21 @@
         "days": [
           3
         ],
-        "classroom": "25"
+        "classroom": "EXTR"
+      }
+    ]
+  },
+  {
+    "code": "2811",
+    "group": "2",
+    "professor": "JOSE OMAR CRUZ SANTIAGOVer Nota 1",
+    "schedules": [
+      {
+        "time": "07:00-10:00",
+        "days": [
+          5
+        ],
+        "classroom": "A203"
       }
     ]
   },
@@ -58,7 +58,7 @@
           2,
           4
         ],
-        "classroom": "25"
+        "classroom": "Y204"
       }
     ]
   }

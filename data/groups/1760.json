@@ -1,56 +1,6 @@
 [
   {
     "code": "1760",
-    "group": "1",
-    "professor": "LAURA MINERVA ROLDAN MORALES",
-    "schedules": [
-      {
-        "time": "10:00-11:30",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "25"
-      }
-    ]
-  },
-  {
-    "code": "1760",
-    "group": "2",
-    "professor": "NORMA LEGORRETA LINARES",
-    "schedules": [
-      {
-        "time": "13:00-14:30",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "25"
-      }
-    ]
-  },
-  {
-    "code": "1760",
-    "group": "3",
-    "professor": "MARCO TULIO MENDOZA ROSAS",
-    "schedules": [
-      {
-        "time": "10:00-11:30",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "25"
-      }
-    ],
-    "professor_id": 135805,
-    "first_name": "Marco Tulio",
-    "last_name": "Mendoza Rosas",
-    "rating": 8.3333,
-    "num_ratings": 3
-  },
-  {
-    "code": "1760",
     "group": "4",
     "professor": "MARCO TULIO MENDOZA ROSAS",
     "schedules": [
@@ -60,7 +10,7 @@
           2,
           4
         ],
-        "classroom": "25"
+        "classroom": "A304"
       }
     ],
     "professor_id": 135805,
@@ -80,8 +30,58 @@
           3,
           5
         ],
-        "classroom": "25"
+        "classroom": "Y104"
       }
     ]
+  },
+  {
+    "code": "1760",
+    "group": "1",
+    "professor": "LAURA MINERVA ROLDAN MORALES",
+    "schedules": [
+      {
+        "time": "10:00-11:30",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "A204"
+      }
+    ]
+  },
+  {
+    "code": "1760",
+    "group": "2",
+    "professor": "NORMA LEGORRETA LINARES",
+    "schedules": [
+      {
+        "time": "13:00-14:30",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "A304"
+      }
+    ]
+  },
+  {
+    "code": "1760",
+    "group": "3",
+    "professor": "MARCO TULIO MENDOZA ROSAS",
+    "schedules": [
+      {
+        "time": "10:00-11:30",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A210"
+      }
+    ],
+    "professor_id": 135805,
+    "first_name": "Marco Tulio",
+    "last_name": "Mendoza Rosas",
+    "rating": 8.3333,
+    "num_ratings": 3
   }
 ]

@@ -10,7 +10,7 @@
           2,
           4
         ],
-        "classroom": "40"
+        "classroom": "B206"
       }
     ]
   },
@@ -24,7 +24,14 @@
         "days": [
           5
         ],
-        "classroom": "30"
+        "classroom": "I306"
+      },
+      {
+        "time": "15:00-17:00",
+        "days": [
+          3
+        ],
+        "classroom": "J111"
       }
     ],
     "professor_id": 114509,

@@ -10,14 +10,60 @@
           2,
           4
         ],
-        "classroom": "35"
+        "classroom": "I103"
       }
     ],
     "professor_id": 84849,
     "first_name": "Elia Inés",
     "last_name": "Luna Ceballos",
-    "rating": 8.4875,
-    "num_ratings": 80
+    "rating": 8.4024,
+    "num_ratings": 82
+  },
+  {
+    "code": "1445",
+    "group": "3",
+    "professor": "AMPARO BAÑUELOS DURAN",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          5
+        ],
+        "classroom": "J203"
+      },
+      {
+        "time": "09:00-11:00",
+        "days": [
+          3
+        ],
+        "classroom": "J205"
+      }
+    ],
+    "professor_id": 84651,
+    "first_name": "Amparo",
+    "last_name": "Bañuelos Duran",
+    "rating": 6.55,
+    "num_ratings": 20
+  },
+  {
+    "code": "1445",
+    "group": "8",
+    "professor": "DIANA SORIANO FERNANDEZ",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "I105"
+      }
+    ],
+    "professor_id": 162444,
+    "first_name": "Diana",
+    "last_name": "Soriano Fernández",
+    "rating": 7.1333,
+    "num_ratings": 15
   },
   {
     "code": "1445",
@@ -30,7 +76,7 @@
           2,
           4
         ],
-        "classroom": "35"
+        "classroom": "J205"
       }
     ],
     "professor_id": 76408,
@@ -38,26 +84,6 @@
     "last_name": "LEMUS MIRIAM",
     "rating": 6.0,
     "num_ratings": 2
-  },
-  {
-    "code": "1445",
-    "group": "3",
-    "professor": "AMPARO BAÑUELOS DURAN",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          3,
-          5
-        ],
-        "classroom": "35"
-      }
-    ],
-    "professor_id": 84651,
-    "first_name": "Amparo",
-    "last_name": "Bañuelos Duran",
-    "rating": 6.7895,
-    "num_ratings": 19
   },
   {
     "code": "1445",
@@ -70,7 +96,7 @@
           2,
           4
         ],
-        "classroom": "35"
+        "classroom": "J204"
       }
     ]
   },
@@ -85,14 +111,14 @@
           2,
           4
         ],
-        "classroom": "42"
+        "classroom": "I202"
       }
     ],
     "professor_id": 162444,
     "first_name": "Diana",
     "last_name": "Soriano Fernández",
-    "rating": 7.4286,
-    "num_ratings": 14
+    "rating": 7.1333,
+    "num_ratings": 15
   },
   {
     "code": "1445",
@@ -105,7 +131,7 @@
           3,
           5
         ],
-        "classroom": "35"
+        "classroom": "J201"
       }
     ],
     "professor_id": 133428,
@@ -125,33 +151,13 @@
           2,
           4
         ],
-        "classroom": "42"
+        "classroom": "J104"
       }
     ],
     "professor_id": 100430,
     "first_name": "Sandra",
     "last_name": "Alvarado Lopez",
-    "rating": 8.0,
-    "num_ratings": 5
-  },
-  {
-    "code": "1445",
-    "group": "8",
-    "professor": "DIANA SORIANO FERNANDEZ",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "42"
-      }
-    ],
-    "professor_id": 162444,
-    "first_name": "Diana",
-    "last_name": "Soriano Fernández",
-    "rating": 7.4286,
-    "num_ratings": 14
+    "rating": 7.0,
+    "num_ratings": 6
   }
 ]

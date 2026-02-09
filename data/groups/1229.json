@@ -1,86 +1,6 @@
 [
   {
     "code": "1229",
-    "group": "1",
-    "professor": "CATALINA ORDOÑEZ RAMOS",
-    "schedules": [
-      {
-        "time": "07:00-08:30",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "15"
-      }
-    ],
-    "professor_id": 135632,
-    "first_name": "Catalina",
-    "last_name": "Ordoñez Ramos",
-    "rating": 8.5,
-    "num_ratings": 10
-  },
-  {
-    "code": "1229",
-    "group": "2",
-    "professor": "ROBERTO ASCENCIO VILLAGOMEZ",
-    "schedules": [
-      {
-        "time": "11:30-13:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "15"
-      }
-    ],
-    "professor_id": 141820,
-    "first_name": "Roberto",
-    "last_name": "Ascencio Villagómez",
-    "rating": 5.5,
-    "num_ratings": 2
-  },
-  {
-    "code": "1229",
-    "group": "3",
-    "professor": "BENITO GOMEZ DAZA",
-    "schedules": [
-      {
-        "time": "13:00-14:30",
-        "days": [
-          1,
-          5
-        ],
-        "classroom": "15"
-      }
-    ],
-    "professor_id": 71265,
-    "first_name": "Benito",
-    "last_name": "Gomez Daza",
-    "rating": 9.2222,
-    "num_ratings": 9
-  },
-  {
-    "code": "1229",
-    "group": "4",
-    "professor": "IVONNE ALVARADO BEATRIZ",
-    "schedules": [
-      {
-        "time": "13:00-14:30",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "15"
-      }
-    ],
-    "professor_id": 84757,
-    "first_name": "beatriz ivonne",
-    "last_name": "alvarado",
-    "rating": 8.6667,
-    "num_ratings": 6
-  },
-  {
-    "code": "1229",
     "group": "5",
     "professor": "ANGEL AVILA MENDOZA",
     "schedules": [
@@ -90,7 +10,14 @@
           1,
           3
         ],
-        "classroom": "15"
+        "classroom": "A308"
+      },
+      {
+        "time": "16:00-19:00",
+        "days": [
+          2
+        ],
+        "classroom": "R029"
       }
     ],
     "professor_id": 38449,
@@ -110,7 +37,14 @@
           1,
           3
         ],
-        "classroom": "15"
+        "classroom": "A308"
+      },
+      {
+        "time": "16:00-19:00",
+        "days": [
+          4
+        ],
+        "classroom": "R029"
       }
     ],
     "professor_id": 38449,
@@ -118,6 +52,167 @@
     "last_name": "Avila Mendoza",
     "rating": 7.2143,
     "num_ratings": 28
+  },
+  {
+    "code": "1229",
+    "group": "9",
+    "professor": "ERIK MARQUEZ GARCIA",
+    "schedules": [
+      {
+        "time": "16:00-17:30",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "R206"
+      },
+      {
+        "time": "16:00-19:00",
+        "days": [
+          3
+        ],
+        "classroom": "R029"
+      }
+    ],
+    "professor_id": 142005,
+    "first_name": "Erik",
+    "last_name": "Marquez Garcia",
+    "rating": 10.0,
+    "num_ratings": 5
+  },
+  {
+    "code": "1229",
+    "group": "10",
+    "professor": "JOSE MARIA BRISEÑO ALMARAZ",
+    "schedules": [
+      {
+        "time": "14:30-17:30",
+        "days": [
+          3
+        ],
+        "classroom": "U305"
+      },
+      {
+        "time": "14:30-17:30",
+        "days": [
+          5
+        ],
+        "classroom": "R029"
+      }
+    ],
+    "professor_id": 153667,
+    "first_name": "José María",
+    "last_name": "Briseño Almaraz",
+    "rating": 8.25,
+    "num_ratings": 4
+  },
+  {
+    "code": "1229",
+    "group": "1",
+    "professor": "CATALINA ORDOÑEZ RAMOS",
+    "schedules": [
+      {
+        "time": "07:00-08:30",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "A207"
+      },
+      {
+        "time": "07:00-10:00",
+        "days": [
+          2
+        ],
+        "classroom": "R029"
+      }
+    ],
+    "professor_id": 135632,
+    "first_name": "Catalina",
+    "last_name": "Ordoñez Ramos",
+    "rating": 8.5,
+    "num_ratings": 10
+  },
+  {
+    "code": "1229",
+    "group": "2",
+    "professor": "ROBERTO ASCENCIO VILLAGOMEZ",
+    "schedules": [
+      {
+        "time": "11:30-13:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "A405"
+      },
+      {
+        "time": "14:30-17:30",
+        "days": [
+          1
+        ],
+        "classroom": "R029"
+      }
+    ],
+    "professor_id": 141820,
+    "first_name": "Roberto",
+    "last_name": "Ascencio Villagómez",
+    "rating": 5.5,
+    "num_ratings": 2
+  },
+  {
+    "code": "1229",
+    "group": "3",
+    "professor": "JOSE BENITO GOMEZ DAZA",
+    "schedules": [
+      {
+        "time": "13:00-14:30",
+        "days": [
+          1,
+          5
+        ],
+        "classroom": "R206"
+      },
+      {
+        "time": "13:00-16:00",
+        "days": [
+          3
+        ],
+        "classroom": "R029"
+      }
+    ],
+    "professor_id": 71265,
+    "first_name": "Benito",
+    "last_name": "Gomez Daza",
+    "rating": 9.2222,
+    "num_ratings": 9
+  },
+  {
+    "code": "1229",
+    "group": "4",
+    "professor": "IVONNE ALVARADO BEATRIZ",
+    "schedules": [
+      {
+        "time": "13:00-14:30",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "U305"
+      },
+      {
+        "time": "12:00-15:00",
+        "days": [
+          2
+        ],
+        "classroom": "R029"
+      }
+    ],
+    "professor_id": 84757,
+    "first_name": "beatriz ivonne",
+    "last_name": "alvarado",
+    "rating": 8.2857,
+    "num_ratings": 7
   },
   {
     "code": "1229",
@@ -130,7 +225,14 @@
           2,
           4
         ],
-        "classroom": "15"
+        "classroom": "A209"
+      },
+      {
+        "time": "10:00-13:00",
+        "days": [
+          5
+        ],
+        "classroom": "R029"
       }
     ],
     "professor_id": 109874,
@@ -150,7 +252,14 @@
           2,
           4
         ],
-        "classroom": "15"
+        "classroom": "A209"
+      },
+      {
+        "time": "13:00-16:00",
+        "days": [
+          5
+        ],
+        "classroom": "R029"
       }
     ],
     "professor_id": 109874,
@@ -158,45 +267,6 @@
     "last_name": "Moreno Hurtado",
     "rating": 8.5556,
     "num_ratings": 9
-  },
-  {
-    "code": "1229",
-    "group": "9",
-    "professor": "ERIK MARQUEZ GARCIA",
-    "schedules": [
-      {
-        "time": "16:00-17:30",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "15"
-      }
-    ],
-    "professor_id": 142005,
-    "first_name": "Erik",
-    "last_name": "Marquez Garcia",
-    "rating": 10.0,
-    "num_ratings": 5
-  },
-  {
-    "code": "1229",
-    "group": "10",
-    "professor": "JOSE MARIA BRISEÑO ALMARAZ",
-    "schedules": [
-      {
-        "time": "14:30-17:30",
-        "days": [
-          3
-        ],
-        "classroom": "15"
-      }
-    ],
-    "professor_id": 153667,
-    "first_name": "José María",
-    "last_name": "Briseño Almaraz",
-    "rating": 8.25,
-    "num_ratings": 4
   },
   {
     "code": "1229",
@@ -208,7 +278,14 @@
         "days": [
           6
         ],
-        "classroom": "15"
+        "classroom": "A208"
+      },
+      {
+        "time": "10:00-13:00",
+        "days": [
+          6
+        ],
+        "classroom": "R029"
       }
     ],
     "professor_id": 93218,

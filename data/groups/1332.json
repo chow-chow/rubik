@@ -9,7 +9,92 @@
         "days": [
           3
         ],
-        "classroom": "25"
+        "classroom": "SIN"
+      },
+      {
+        "time": "07:00-09:00",
+        "days": [
+          1
+        ],
+        "classroom": "SIN"
+      }
+    ],
+    "professor_id": 172904,
+    "first_name": "CINTHIA",
+    "last_name": "RODRIGUEZ MAYA",
+    "rating": 8.5,
+    "num_ratings": 2
+  },
+  {
+    "code": "1332",
+    "group": "3",
+    "professor": "JORGE LUIS LOPEZ GARCIA",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2
+        ],
+        "classroom": "P003"
+      },
+      {
+        "time": "07:00-09:00",
+        "days": [
+          4
+        ],
+        "classroom": "P003"
+      }
+    ],
+    "professor_id": 64679,
+    "first_name": "Jorge Luis",
+    "last_name": "López García",
+    "rating": 8.507,
+    "num_ratings": 71
+  },
+  {
+    "code": "1332",
+    "group": "4",
+    "professor": "PATRICIA DEL VALLE MORALES",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2
+        ],
+        "classroom": "A206"
+      },
+      {
+        "time": "11:00-13:00",
+        "days": [
+          4
+        ],
+        "classroom": "P003"
+      }
+    ],
+    "professor_id": 36976,
+    "first_name": "Patricia",
+    "last_name": "Del Valle Morales",
+    "rating": 7.3548,
+    "num_ratings": 93
+  },
+  {
+    "code": "1332",
+    "group": "6",
+    "professor": "CINTHIA RODRIGUEZ MAYA",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1
+        ],
+        "classroom": "B106"
+      },
+      {
+        "time": "15:00-17:00",
+        "days": [
+          3
+        ],
+        "classroom": "P003"
       }
     ],
     "professor_id": 172904,
@@ -28,52 +113,21 @@
         "days": [
           1
         ],
-        "classroom": "25"
+        "classroom": "P003"
+      },
+      {
+        "time": "09:00-11:00",
+        "days": [
+          3
+        ],
+        "classroom": "P003"
       }
     ],
     "professor_id": 64679,
     "first_name": "Jorge Luis",
     "last_name": "López García",
-    "rating": 8.5,
-    "num_ratings": 70
-  },
-  {
-    "code": "1332",
-    "group": "3",
-    "professor": "JORGE LUIS LOPEZ GARCIA",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          2
-        ],
-        "classroom": "25"
-      }
-    ],
-    "professor_id": 64679,
-    "first_name": "Jorge Luis",
-    "last_name": "López García",
-    "rating": 8.5,
-    "num_ratings": 70
-  },
-  {
-    "code": "1332",
-    "group": "4",
-    "professor": "PATRICIA DEL VALLE MORALES",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          2
-        ],
-        "classroom": "25"
-      }
-    ],
-    "professor_id": 36976,
-    "first_name": "Patricia",
-    "last_name": "Del Valle Morales",
-    "rating": 7.3548,
-    "num_ratings": 93
+    "rating": 8.507,
+    "num_ratings": 71
   },
   {
     "code": "1332",
@@ -85,32 +139,20 @@
         "days": [
           1
         ],
-        "classroom": "25"
+        "classroom": "I306"
+      },
+      {
+        "time": "13:00-15:00",
+        "days": [
+          3
+        ],
+        "classroom": "Q007"
       }
     ],
     "professor_id": 187681,
     "first_name": "ING. JESSICA",
     "last_name": "ROJAS SERRANO",
-    "rating": 9.5,
-    "num_ratings": 6
-  },
-  {
-    "code": "1332",
-    "group": "6",
-    "professor": "CINTHIA RODRIGUEZ MAYA",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          1
-        ],
-        "classroom": "25"
-      }
-    ],
-    "professor_id": 172904,
-    "first_name": "CINTHIA",
-    "last_name": "RODRIGUEZ MAYA",
-    "rating": 8.5,
-    "num_ratings": 2
+    "rating": 9.4286,
+    "num_ratings": 7
   }
 ]

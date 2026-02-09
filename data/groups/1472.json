@@ -10,7 +10,14 @@
           1,
           3
         ],
-        "classroom": "19"
+        "classroom": "EXTR"
+      },
+      {
+        "time": "20:00-22:00",
+        "days": [
+          5
+        ],
+        "classroom": "EXTR"
       }
     ],
     "professor_id": 75097,
@@ -18,26 +25,6 @@
     "last_name": "Rodríguez Vera",
     "rating": 8.1923,
     "num_ratings": 26
-  },
-  {
-    "code": "1472",
-    "group": "4",
-    "professor": "EMILIANO NAVA MORALES",
-    "schedules": [
-      {
-        "time": "18:00-20:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "19"
-      }
-    ],
-    "professor_id": 124353,
-    "first_name": "Emiliano",
-    "last_name": "Nava Morales",
-    "rating": 5.0,
-    "num_ratings": 2
   },
   {
     "code": "1472",
@@ -50,7 +37,14 @@
           1,
           3
         ],
-        "classroom": "19"
+        "classroom": "O006"
+      },
+      {
+        "time": "09:00-11:00",
+        "days": [
+          5
+        ],
+        "classroom": "O006"
       }
     ]
   },
@@ -65,7 +59,14 @@
           1,
           3
         ],
-        "classroom": "20"
+        "classroom": "O006"
+      },
+      {
+        "time": "07:00-09:00",
+        "days": [
+          5
+        ],
+        "classroom": "O006"
       }
     ],
     "professor_id": 173217,

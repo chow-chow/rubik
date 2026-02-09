@@ -9,13 +9,32 @@
         "days": [
           3
         ],
-        "classroom": "18"
+        "classroom": "S201"
       }
     ],
     "professor_id": 109198,
     "first_name": "Sergio",
     "last_name": "Cortes Lopez",
     "rating": 2.5,
+    "num_ratings": 2
+  },
+  {
+    "code": "7908",
+    "group": "2",
+    "professor": "JESUS HERNANDEZ SANCHEZ",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          2
+        ],
+        "classroom": "S201"
+      }
+    ],
+    "professor_id": 172361,
+    "first_name": "Jesús",
+    "last_name": "Hernández",
+    "rating": 9.5,
     "num_ratings": 2
   }
 ]

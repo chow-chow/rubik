@@ -1,6 +1,25 @@
 [
   {
     "code": "6936",
+    "group": "12",
+    "professor": "JESUS HERNANDEZ SANCHEZ",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          3
+        ],
+        "classroom": "DS06"
+      }
+    ],
+    "professor_id": 172361,
+    "first_name": "Jesús",
+    "last_name": "Hernández",
+    "rating": 9.5,
+    "num_ratings": 2
+  },
+  {
+    "code": "6936",
     "group": "1",
     "professor": "MANUEL ANTONIO CORONA SANCHEZ",
     "schedules": [
@@ -9,32 +28,13 @@
         "days": [
           1
         ],
-        "classroom": "9"
+        "classroom": "DS06"
       }
     ],
     "professor_id": 180779,
     "first_name": "Manuel",
     "last_name": "Corona Sanchez",
     "rating": 8.5,
-    "num_ratings": 2
-  },
-  {
-    "code": "6936",
-    "group": "3",
-    "professor": "JESUS HERNANDEZ SANCHEZ",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          2
-        ],
-        "classroom": "9"
-      }
-    ],
-    "professor_id": 172361,
-    "first_name": "Jesús",
-    "last_name": "Hernández",
-    "rating": 9.5,
     "num_ratings": 2
   },
   {
@@ -47,7 +47,7 @@
         "days": [
           1
         ],
-        "classroom": "9"
+        "classroom": "DS06"
       }
     ],
     "professor_id": 109197,
@@ -66,7 +66,7 @@
         "days": [
           2
         ],
-        "classroom": "9"
+        "classroom": "DS06"
       }
     ],
     "professor_id": 86743,
@@ -85,7 +85,7 @@
         "days": [
           3
         ],
-        "classroom": "9"
+        "classroom": "DS06"
       }
     ],
     "professor_id": 172325,
@@ -104,7 +104,7 @@
         "days": [
           3
         ],
-        "classroom": "9"
+        "classroom": "DS06"
       }
     ],
     "professor_id": 172325,
@@ -123,7 +123,7 @@
         "days": [
           4
         ],
-        "classroom": "9"
+        "classroom": "DS06"
       }
     ],
     "professor_id": 172325,
@@ -142,7 +142,7 @@
         "days": [
           4
         ],
-        "classroom": "9"
+        "classroom": "DS06"
       }
     ],
     "professor_id": 172325,
@@ -161,7 +161,7 @@
         "days": [
           5
         ],
-        "classroom": "9"
+        "classroom": "DS06"
       }
     ]
   },
@@ -175,27 +175,8 @@
         "days": [
           5
         ],
-        "classroom": "9"
+        "classroom": "DS06"
       }
     ]
-  },
-  {
-    "code": "6936",
-    "group": "12",
-    "professor": "JESUS HERNANDEZ SANCHEZ",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          3
-        ],
-        "classroom": "9"
-      }
-    ],
-    "professor_id": 172361,
-    "first_name": "Jesús",
-    "last_name": "Hernández",
-    "rating": 9.5,
-    "num_ratings": 2
   }
 ]

@@ -7,16 +7,30 @@
       {
         "time": "09:00-11:00",
         "days": [
+          3
+        ],
+        "classroom": "O101"
+      },
+      {
+        "time": "09:00-11:00",
+        "days": [
           1
         ],
-        "classroom": "5"
+        "classroom": "X101"
+      },
+      {
+        "time": "09:00-11:00",
+        "days": [
+          5
+        ],
+        "classroom": "X101"
       }
     ],
     "professor_id": 114209,
     "first_name": "Luis Antonio",
     "last_name": "Pérez Pérez",
-    "rating": 8.2927,
-    "num_ratings": 41
+    "rating": 8.3182,
+    "num_ratings": 44
   },
   {
     "code": "1778",
@@ -29,7 +43,14 @@
           3,
           5
         ],
-        "classroom": "5"
+        "classroom": "X101"
+      },
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1
+        ],
+        "classroom": "X101"
       }
     ],
     "professor_id": 59794,

@@ -9,7 +9,7 @@
         "days": [
           1
         ],
-        "classroom": "20"
+        "classroom": "C205"
       }
     ]
   },
@@ -24,13 +24,39 @@
           3,
           5
         ],
-        "classroom": "20"
+        "classroom": "A402"
       }
     ],
     "professor_id": 82781,
     "first_name": "Daniel",
     "last_name": "Marure Valdez",
-    "rating": 5.5455,
+    "rating": 5.4783,
+    "num_ratings": 23
+  },
+  {
+    "code": "1068",
+    "group": "4",
+    "professor": "RUBEN MIRANDA ARIAS",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          3
+        ],
+        "classroom": "C205"
+      },
+      {
+        "time": "09:00-11:00",
+        "days": [
+          5
+        ],
+        "classroom": "D006"
+      }
+    ],
+    "professor_id": 91807,
+    "first_name": "Ruben",
+    "last_name": "Miranda Arias",
+    "rating": 4.7273,
     "num_ratings": 22
   },
   {
@@ -44,7 +70,14 @@
           2,
           4
         ],
-        "classroom": "20"
+        "classroom": "C402"
+      },
+      {
+        "time": "12:00-14:00",
+        "days": [
+          4
+        ],
+        "classroom": "C205"
       }
     ],
     "professor_id": 149603,
@@ -52,24 +85,5 @@
     "last_name": "GORDILLO GUILLEN",
     "rating": 8.2857,
     "num_ratings": 7
-  },
-  {
-    "code": "1068",
-    "group": "4",
-    "professor": "RUBEN MIRANDA ARIAS",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          3
-        ],
-        "classroom": "20"
-      }
-    ],
-    "professor_id": 91807,
-    "first_name": "Ruben",
-    "last_name": "Miranda Arias",
-    "rating": 4.7273,
-    "num_ratings": 22
   }
 ]

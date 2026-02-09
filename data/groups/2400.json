@@ -10,7 +10,7 @@
           1,
           3
         ],
-        "classroom": "30"
+        "classroom": "B203"
       }
     ],
     "professor_id": 79845,
@@ -18,21 +18,6 @@
     "last_name": "Figueroa Alcántara",
     "rating": 7.6842,
     "num_ratings": 19
-  },
-  {
-    "code": "2400",
-    "group": "2",
-    "professor": "ARTEMISA MAZON MARTINEZ",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          3,
-          5
-        ],
-        "classroom": "30"
-      }
-    ]
   },
   {
     "code": "2400",
@@ -45,7 +30,7 @@
           1,
           3
         ],
-        "classroom": "30"
+        "classroom": "D003"
       }
     ],
     "professor_id": 79048,
@@ -53,6 +38,41 @@
     "last_name": "Schouwenaars Franssens",
     "rating": 7.5714,
     "num_ratings": 14
+  },
+  {
+    "code": "2400",
+    "group": "9",
+    "professor": "MIGUEL ANGEL HERNANDEZ GALLEGOS",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "EXTR"
+      }
+    ],
+    "professor_id": 71869,
+    "first_name": "Miguel Ángel",
+    "last_name": "Hernández Gallegos",
+    "rating": 6.3333,
+    "num_ratings": 6
+  },
+  {
+    "code": "2400",
+    "group": "2",
+    "professor": "ARTEMISA MAZON MARTINEZ",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "O103"
+      }
+    ]
   },
   {
     "code": "2400",
@@ -65,7 +85,7 @@
           2,
           4
         ],
-        "classroom": "30"
+        "classroom": "A203"
       }
     ],
     "professor_id": 190156,
@@ -85,14 +105,14 @@
           2,
           4
         ],
-        "classroom": "30"
+        "classroom": "B302"
       }
     ],
     "professor_id": 162118,
     "first_name": "Sandra Marcela",
     "last_name": "Rojas Montoya",
-    "rating": 8.3333,
-    "num_ratings": 6
+    "rating": 8.75,
+    "num_ratings": 8
   },
   {
     "code": "2400",
@@ -105,7 +125,7 @@
           2,
           4
         ],
-        "classroom": "30"
+        "classroom": "O101"
       }
     ],
     "professor_id": 149718,
@@ -125,7 +145,7 @@
           2,
           4
         ],
-        "classroom": "30"
+        "classroom": "A203"
       }
     ]
   },
@@ -140,33 +160,13 @@
           2,
           4
         ],
-        "classroom": "30"
+        "classroom": "B303"
       }
     ],
     "professor_id": 112892,
     "first_name": "Tatiana Lilia",
     "last_name": "Ávalos Rendón",
-    "rating": 7.1875,
-    "num_ratings": 16
-  },
-  {
-    "code": "2400",
-    "group": "9",
-    "professor": "MIGUEL ANGEL HERNANDEZ GALLEGOS",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "38"
-      }
-    ],
-    "professor_id": 71869,
-    "first_name": "Miguel Ángel",
-    "last_name": "Hernández Gallegos",
-    "rating": 6.3333,
-    "num_ratings": 6
+    "rating": 7.2353,
+    "num_ratings": 17
   }
 ]

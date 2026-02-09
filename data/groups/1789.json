@@ -1,44 +1,6 @@
 [
   {
     "code": "1789",
-    "group": "1",
-    "professor": "EDUARDO MUÑIZ TREJO",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          2
-        ],
-        "classroom": "30"
-      }
-    ],
-    "professor_id": 85595,
-    "first_name": "Eduardo",
-    "last_name": "Muñiz Trejo",
-    "rating": 9.5,
-    "num_ratings": 6
-  },
-  {
-    "code": "1789",
-    "group": "2",
-    "professor": "CAROLINA GARRIDO MORELOS",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          1
-        ],
-        "classroom": "30"
-      }
-    ],
-    "professor_id": 76048,
-    "first_name": "Carolina",
-    "last_name": "Garrido Morelos",
-    "rating": 9.8462,
-    "num_ratings": 13
-  },
-  {
-    "code": "1789",
     "group": "3",
     "professor": "CARLOS EDUARDO ARIAS GALINDO",
     "schedules": [
@@ -47,66 +9,9 @@
         "days": [
           3
         ],
-        "classroom": "30"
+        "classroom": "A108"
       }
     ]
-  },
-  {
-    "code": "1789",
-    "group": "4",
-    "professor": "ANA LUISA SELENE ALVAREZ CARRILLO",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          1
-        ],
-        "classroom": "30"
-      }
-    ],
-    "professor_id": 71332,
-    "first_name": "Ana Luisa Selene",
-    "last_name": "Álvarez Carrillo",
-    "rating": 8.5833,
-    "num_ratings": 48
-  },
-  {
-    "code": "1789",
-    "group": "5",
-    "professor": "HUGO GERMAN SERRANO MIRANDA",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          5
-        ],
-        "classroom": "30"
-      }
-    ],
-    "professor_id": 84710,
-    "first_name": "Hugo German",
-    "last_name": "Serrano Miranda",
-    "rating": 5.48,
-    "num_ratings": 25
-  },
-  {
-    "code": "1789",
-    "group": "6",
-    "professor": "OLINCA SUAREZ MEJIA",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          2
-        ],
-        "classroom": "30"
-      }
-    ],
-    "professor_id": 67067,
-    "first_name": "Olinca",
-    "last_name": "Suárez Mejía",
-    "rating": 7.7297,
-    "num_ratings": 37
   },
   {
     "code": "1789",
@@ -118,7 +23,7 @@
         "days": [
           3
         ],
-        "classroom": "30"
+        "classroom": "A103"
       }
     ],
     "professor_id": 36979,
@@ -137,7 +42,7 @@
         "days": [
           5
         ],
-        "classroom": "30"
+        "classroom": "A106"
       }
     ],
     "professor_id": 36979,
@@ -145,20 +50,6 @@
     "last_name": "Hernández Espinosa",
     "rating": 5.4444,
     "num_ratings": 9
-  },
-  {
-    "code": "1789",
-    "group": "9",
-    "professor": "ROGELIO TRINIDAD GODINEZ RESENDIZ",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          1
-        ],
-        "classroom": "30"
-      }
-    ]
   },
   {
     "code": "1789",
@@ -170,7 +61,116 @@
         "days": [
           3
         ],
-        "classroom": "30"
+        "classroom": "A104"
+      }
+    ]
+  },
+  {
+    "code": "1789",
+    "group": "1",
+    "professor": "EDUARDO MUÑIZ TREJO",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2
+        ],
+        "classroom": "A108"
+      }
+    ],
+    "professor_id": 85595,
+    "first_name": "Eduardo",
+    "last_name": "Muñiz Trejo",
+    "rating": 9.5,
+    "num_ratings": 6
+  },
+  {
+    "code": "1789",
+    "group": "2",
+    "professor": "CAROLINA GARRIDO MORELOS",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1
+        ],
+        "classroom": "A202"
+      }
+    ],
+    "professor_id": 76048,
+    "first_name": "Carolina",
+    "last_name": "Garrido Morelos",
+    "rating": 9.8462,
+    "num_ratings": 13
+  },
+  {
+    "code": "1789",
+    "group": "4",
+    "professor": "ANA LUISA SELENE ALVAREZ CARRILLO",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1
+        ],
+        "classroom": "A101"
+      }
+    ],
+    "professor_id": 71332,
+    "first_name": "Ana Luisa Selene",
+    "last_name": "Álvarez Carrillo",
+    "rating": 8.5833,
+    "num_ratings": 48
+  },
+  {
+    "code": "1789",
+    "group": "5",
+    "professor": "HUGO GERMAN SERRANO MIRANDA",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          5
+        ],
+        "classroom": "Y102"
+      }
+    ],
+    "professor_id": 84710,
+    "first_name": "Hugo German",
+    "last_name": "Serrano Miranda",
+    "rating": 5.48,
+    "num_ratings": 25
+  },
+  {
+    "code": "1789",
+    "group": "6",
+    "professor": "OLINCA SUAREZ MEJIA",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2
+        ],
+        "classroom": "A106"
+      }
+    ],
+    "professor_id": 67067,
+    "first_name": "Olinca",
+    "last_name": "Suárez Mejía",
+    "rating": 7.7368,
+    "num_ratings": 38
+  },
+  {
+    "code": "1789",
+    "group": "9",
+    "professor": "ROGELIO TRINIDAD GODINEZ RESENDIZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1
+        ],
+        "classroom": "A105"
       }
     ]
   }

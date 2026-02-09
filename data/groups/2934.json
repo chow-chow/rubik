@@ -1,6 +1,26 @@
 [
   {
     "code": "2934",
+    "group": "4",
+    "professor": "ANTONIO MONTALVO GARCIA",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "B408"
+      }
+    ],
+    "professor_id": 75394,
+    "first_name": "ANTONIO",
+    "last_name": "MONTALVO GARCIA",
+    "rating": 6.1786,
+    "num_ratings": 28
+  },
+  {
+    "code": "2934",
     "group": "1",
     "professor": "CINTIA QUEZADA REYES",
     "schedules": [
@@ -10,14 +30,14 @@
           2,
           4
         ],
-        "classroom": "40"
+        "classroom": "Y202"
       }
     ],
     "professor_id": 75919,
     "first_name": "CINTIA",
     "last_name": "QUEZADA REYES",
-    "rating": 6.3652,
-    "num_ratings": 115
+    "rating": 6.359,
+    "num_ratings": 117
   },
   {
     "code": "2934",
@@ -30,7 +50,7 @@
           3,
           5
         ],
-        "classroom": "40"
+        "classroom": "SIN"
       }
     ],
     "professor_id": 149586,
@@ -49,7 +69,7 @@
         "days": [
           6
         ],
-        "classroom": "40"
+        "classroom": "B306"
       }
     ]
   }

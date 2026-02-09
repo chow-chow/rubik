@@ -1,6 +1,54 @@
 [
   {
     "code": "2156",
+    "group": "2",
+    "professor": "VICTOR MANUEL MAHBUB ARELLE",
+    "schedules": [
+      {
+        "time": "17:30-20:30",
+        "days": [
+          1
+        ],
+        "classroom": "A307"
+      }
+    ]
+  },
+  {
+    "code": "2156",
+    "group": "5",
+    "professor": "ALEJANDRO MORALES RAMIREZ",
+    "schedules": [
+      {
+        "time": "19:00-20:30",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A304"
+      }
+    ]
+  },
+  {
+    "code": "2156",
+    "group": "6",
+    "professor": "ANDRES MOTA SOLORZANO",
+    "schedules": [
+      {
+        "time": "07:00-10:00",
+        "days": [
+          5
+        ],
+        "classroom": "Y203"
+      }
+    ],
+    "professor_id": 86529,
+    "first_name": "Andrés",
+    "last_name": "Mota Solorzano",
+    "rating": 6.0,
+    "num_ratings": 7
+  },
+  {
+    "code": "2156",
     "group": "1",
     "professor": "ANA BEATRIZ CARRERA AGUILAR",
     "schedules": [
@@ -10,7 +58,7 @@
           1,
           3
         ],
-        "classroom": "25"
+        "classroom": "A304"
       }
     ],
     "professor_id": 93197,
@@ -18,20 +66,6 @@
     "last_name": "Carrera Aguilar",
     "rating": 4.875,
     "num_ratings": 16
-  },
-  {
-    "code": "2156",
-    "group": "2",
-    "professor": "VICTOR MANUEL MAHBUB ARELLE",
-    "schedules": [
-      {
-        "time": "17:30-20:30",
-        "days": [
-          1
-        ],
-        "classroom": "25"
-      }
-    ]
   },
   {
     "code": "2156",
@@ -44,7 +78,7 @@
           2,
           4
         ],
-        "classroom": "25"
+        "classroom": "A303"
       }
     ],
     "professor_id": 161594,
@@ -64,7 +98,7 @@
           2,
           4
         ],
-        "classroom": "20"
+        "classroom": "R005"
       }
     ],
     "professor_id": 47722,
@@ -72,39 +106,5 @@
     "last_name": "morales flores",
     "rating": 7.5,
     "num_ratings": 2
-  },
-  {
-    "code": "2156",
-    "group": "5",
-    "professor": "ALEJANDRO MORALES RAMIREZ",
-    "schedules": [
-      {
-        "time": "19:00-20:30",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "25"
-      }
-    ]
-  },
-  {
-    "code": "2156",
-    "group": "6",
-    "professor": "ANDRES MOTA SOLORZANO",
-    "schedules": [
-      {
-        "time": "07:00-10:00",
-        "days": [
-          5
-        ],
-        "classroom": "25"
-      }
-    ],
-    "professor_id": 86529,
-    "first_name": "Andrés",
-    "last_name": "Mota Solorzano",
-    "rating": 6.0,
-    "num_ratings": 7
   }
 ]

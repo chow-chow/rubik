@@ -2,41 +2,21 @@
   {
     "code": "3001",
     "group": "1",
-    "professor": "LEONID FRIDMAN",
+    "professor": "JUAN MANUEL GOMEZ GONZALEZ",
     "schedules": [
       {
-        "time": "13:00-14:30",
+        "time": "11:00-12:30",
         "days": [
           2,
           4
         ],
-        "classroom": "DS01"
+        "classroom": "Q003"
       }
     ],
-    "professor_id": 108660,
-    "first_name": "Leonid Fridman",
-    "last_name": "Goldreich",
-    "rating": 6.42,
-    "num_ratings": 12
-  },
-  {
-    "code": "3001",
-    "group": "3",
-    "professor": "ANTONIO SALVA CALLEJA",
-    "schedules": [
-      {
-        "time": "19:00-20:30",
-        "days": [
-          3,
-          5
-        ],
-        "classroom": "A301"
-      }
-    ],
-    "professor_id": 28948,
-    "first_name": "Antonio",
-    "last_name": "Salva Calleja",
-    "rating": 9.1905,
-    "num_ratings": 21
+    "professor_id": 155677,
+    "first_name": "Juan Manuel",
+    "last_name": "Gómez González",
+    "rating": 7.6364,
+    "num_ratings": 11
   }
 ]

@@ -9,7 +9,14 @@
         "days": [
           2
         ],
-        "classroom": "48"
+        "classroom": "J104"
+      },
+      {
+        "time": "13:00-15:00",
+        "days": [
+          4
+        ],
+        "classroom": "H002"
       }
     ],
     "professor_id": 105127,
@@ -28,7 +35,14 @@
         "days": [
           2
         ],
-        "classroom": "48"
+        "classroom": "J106"
+      },
+      {
+        "time": "17:00-19:00",
+        "days": [
+          4
+        ],
+        "classroom": "H002"
       }
     ],
     "professor_id": 74107,

@@ -1,6 +1,20 @@
 [
   {
     "code": "5462",
+    "group": "12",
+    "professor": "MOISES GUILLERMO QUINTANILLA DURAN",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2
+        ],
+        "classroom": "N005"
+      }
+    ]
+  },
+  {
+    "code": "5462",
     "group": "1",
     "professor": "MIGUEL ANGEL GARCIA AVILA",
     "schedules": [
@@ -9,7 +23,7 @@
         "days": [
           1
         ],
-        "classroom": "5"
+        "classroom": "N005"
       }
     ],
     "professor_id": 162159,
@@ -28,7 +42,7 @@
         "days": [
           1
         ],
-        "classroom": "5"
+        "classroom": "N005"
       }
     ],
     "professor_id": 162159,
@@ -47,7 +61,7 @@
         "days": [
           1
         ],
-        "classroom": "5"
+        "classroom": "N005"
       }
     ],
     "professor_id": 149511,
@@ -66,7 +80,7 @@
         "days": [
           1
         ],
-        "classroom": "5"
+        "classroom": "N005"
       }
     ],
     "professor_id": 79858,
@@ -85,7 +99,7 @@
         "days": [
           1
         ],
-        "classroom": "5"
+        "classroom": "N005"
       }
     ],
     "professor_id": 93961,
@@ -104,7 +118,7 @@
         "days": [
           1
         ],
-        "classroom": "5"
+        "classroom": "N005"
       }
     ]
   },
@@ -118,7 +132,7 @@
         "days": [
           1
         ],
-        "classroom": "5"
+        "classroom": "N005"
       }
     ]
   },
@@ -132,7 +146,7 @@
         "days": [
           1
         ],
-        "classroom": "5"
+        "classroom": "N005"
       }
     ]
   },
@@ -146,7 +160,7 @@
         "days": [
           2
         ],
-        "classroom": "5"
+        "classroom": "N005"
       }
     ],
     "professor_id": 71990,
@@ -165,7 +179,7 @@
         "days": [
           2
         ],
-        "classroom": "5"
+        "classroom": "N005"
       }
     ]
   },
@@ -179,7 +193,7 @@
         "days": [
           2
         ],
-        "classroom": "5"
+        "classroom": "N005"
       }
     ],
     "professor_id": 79858,
@@ -187,20 +201,6 @@
     "last_name": "Escalante Camargo",
     "rating": 7.2143,
     "num_ratings": 14
-  },
-  {
-    "code": "5462",
-    "group": "12",
-    "professor": "MOISES GUILLERMO QUINTANILLA DURAN",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          2
-        ],
-        "classroom": "5"
-      }
-    ]
   },
   {
     "code": "5462",
@@ -212,7 +212,7 @@
         "days": [
           3
         ],
-        "classroom": "5"
+        "classroom": "N005"
       }
     ]
   },
@@ -226,7 +226,7 @@
         "days": [
           3
         ],
-        "classroom": "5"
+        "classroom": "N005"
       }
     ],
     "professor_id": 186559,
@@ -245,7 +245,7 @@
         "days": [
           4
         ],
-        "classroom": "5"
+        "classroom": "N005"
       }
     ]
   },
@@ -259,7 +259,7 @@
         "days": [
           4
         ],
-        "classroom": "5"
+        "classroom": "N005"
       }
     ]
   },
@@ -273,7 +273,7 @@
         "days": [
           4
         ],
-        "classroom": "5"
+        "classroom": "N005"
       }
     ]
   },
@@ -287,7 +287,7 @@
         "days": [
           4
         ],
-        "classroom": "5"
+        "classroom": "N005"
       }
     ]
   },
@@ -301,7 +301,7 @@
         "days": [
           4
         ],
-        "classroom": "5"
+        "classroom": "N005"
       }
     ]
   },
@@ -315,7 +315,7 @@
         "days": [
           4
         ],
-        "classroom": "5"
+        "classroom": "N005"
       }
     ]
   },
@@ -329,7 +329,7 @@
         "days": [
           4
         ],
-        "classroom": "5"
+        "classroom": "N005"
       }
     ],
     "professor_id": 186559,
@@ -348,7 +348,7 @@
         "days": [
           4
         ],
-        "classroom": "5"
+        "classroom": "N005"
       }
     ],
     "professor_id": 70577,
@@ -367,14 +367,14 @@
         "days": [
           5
         ],
-        "classroom": "5"
+        "classroom": "N005"
       }
     ],
     "professor_id": 70740,
     "first_name": "José Melesio",
     "last_name": "Sánchez Huerta",
-    "rating": 6.6111,
-    "num_ratings": 18
+    "rating": 6.6842,
+    "num_ratings": 19
   },
   {
     "code": "5462",
@@ -386,7 +386,7 @@
         "days": [
           5
         ],
-        "classroom": "5"
+        "classroom": "N005"
       }
     ],
     "professor_id": 162159,
@@ -405,7 +405,7 @@
         "days": [
           5
         ],
-        "classroom": "5"
+        "classroom": "N005"
       }
     ]
   }

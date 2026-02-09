@@ -51,8 +51,11 @@
     "code": "0678",
     "name": "CONTROL AUTOMATICO INDUSTRIAL",
     "credits": 8,
-    "has_lab": false,
-    "lab": null
+    "has_lab": true,
+    "lab": {
+      "code": "5678",
+      "name": "LAB. CONTROL AUTOMATICO INDUSTRIAL"
+    }
   },
   {
     "code": "0693",

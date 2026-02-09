@@ -1,25 +1,6 @@
 [
   {
     "code": "1225",
-    "group": "1",
-    "professor": "ERIC ADRIAN TEJADA MALPICA",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          2
-        ],
-        "classroom": "25"
-      }
-    ],
-    "professor_id": 113002,
-    "first_name": "Eric Adrián",
-    "last_name": "Tejada Malpica",
-    "rating": 7.7895,
-    "num_ratings": 19
-  },
-  {
-    "code": "1225",
     "group": "2",
     "professor": "VICTOR HUGO JACOBO ARMENDARIZ",
     "schedules": [
@@ -28,7 +9,7 @@
         "days": [
           5
         ],
-        "classroom": "25"
+        "classroom": "B203"
       }
     ],
     "professor_id": 109075,
@@ -47,7 +28,7 @@
         "days": [
           2
         ],
-        "classroom": "25"
+        "classroom": "D001"
       }
     ],
     "professor_id": 84383,
@@ -66,7 +47,7 @@
         "days": [
           1
         ],
-        "classroom": "25"
+        "classroom": "D001"
       }
     ],
     "professor_id": 84383,
@@ -85,7 +66,7 @@
         "days": [
           3
         ],
-        "classroom": "25"
+        "classroom": "D001"
       }
     ],
     "professor_id": 84383,
@@ -93,6 +74,25 @@
     "last_name": "Ortiz Valera",
     "rating": 6.7273,
     "num_ratings": 33
+  },
+  {
+    "code": "1225",
+    "group": "1",
+    "professor": "ERIC ADRIAN TEJADA MALPICA",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2
+        ],
+        "classroom": "B302"
+      }
+    ],
+    "professor_id": 113002,
+    "first_name": "Eric Adrián",
+    "last_name": "Tejada Malpica",
+    "rating": 7.7895,
+    "num_ratings": 19
   },
   {
     "code": "1225",
@@ -104,14 +104,14 @@
         "days": [
           2
         ],
-        "classroom": "25"
+        "classroom": "D002"
       }
     ],
     "professor_id": 87021,
     "first_name": "Jose Javier",
     "last_name": "Cervantes Cabello",
-    "rating": 5.36,
-    "num_ratings": 25
+    "rating": 5.3333,
+    "num_ratings": 27
   },
   {
     "code": "1225",
@@ -123,7 +123,7 @@
         "days": [
           5
         ],
-        "classroom": "25"
+        "classroom": "D002"
       }
     ],
     "professor_id": 142033,
@@ -142,7 +142,7 @@
         "days": [
           3
         ],
-        "classroom": "25"
+        "classroom": "D002"
       }
     ],
     "professor_id": 142033,

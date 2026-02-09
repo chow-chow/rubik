@@ -1,6 +1,25 @@
 [
   {
     "code": "6443",
+    "group": "10",
+    "professor": "LAURO FERNANDO VAZQUEZ ALBERTO",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          3
+        ],
+        "classroom": "P114"
+      }
+    ],
+    "professor_id": 124067,
+    "first_name": "M.I. LAURO FERNANDO",
+    "last_name": "VAZQUEZ ALBERTO",
+    "rating": 9.0,
+    "num_ratings": 10
+  },
+  {
+    "code": "6443",
     "group": "1",
     "professor": "MARIA LEONOR SALCEDO UBILLA",
     "schedules": [
@@ -9,7 +28,7 @@
         "days": [
           1
         ],
-        "classroom": "14"
+        "classroom": "P114"
       }
     ],
     "professor_id": 161143,
@@ -28,7 +47,7 @@
         "days": [
           1
         ],
-        "classroom": "14"
+        "classroom": "P114"
       }
     ]
   },
@@ -42,7 +61,7 @@
         "days": [
           1
         ],
-        "classroom": "14"
+        "classroom": "P114"
       }
     ]
   },
@@ -56,7 +75,7 @@
         "days": [
           1
         ],
-        "classroom": "14"
+        "classroom": "P114"
       }
     ],
     "professor_id": 161143,
@@ -68,21 +87,21 @@
   {
     "code": "6443",
     "group": "5",
-    "professor": "JESUS YAÑEZ GUTIERREZ",
+    "professor": "JOSE ALBERTO ARELLANO FIGUEROA",
     "schedules": [
       {
         "time": "09:00-11:00",
         "days": [
           2
         ],
-        "classroom": "14"
+        "classroom": "P114"
       }
     ],
-    "professor_id": 156041,
-    "first_name": "Jesús",
-    "last_name": "Yañez Gutiérrez",
-    "rating": 9.3333,
-    "num_ratings": 3
+    "professor_id": 87572,
+    "first_name": "José Alberto",
+    "last_name": "Arellano Figueroa",
+    "rating": 7.7778,
+    "num_ratings": 18
   },
   {
     "code": "6443",
@@ -94,7 +113,7 @@
         "days": [
           2
         ],
-        "classroom": "14"
+        "classroom": "P114"
       }
     ],
     "professor_id": 112610,
@@ -113,7 +132,7 @@
         "days": [
           2
         ],
-        "classroom": "14"
+        "classroom": "P114"
       }
     ],
     "professor_id": 109182,
@@ -132,7 +151,7 @@
         "days": [
           3
         ],
-        "classroom": "14"
+        "classroom": "P114"
       }
     ]
   },
@@ -146,7 +165,7 @@
         "days": [
           3
         ],
-        "classroom": "14"
+        "classroom": "P114"
       }
     ],
     "professor_id": 161143,
@@ -154,25 +173,6 @@
     "last_name": "Salcedo Ubilla",
     "rating": 8.75,
     "num_ratings": 4
-  },
-  {
-    "code": "6443",
-    "group": "10",
-    "professor": "LAURO FERNANDO VAZQUEZ ALBERTO",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          3
-        ],
-        "classroom": "14"
-      }
-    ],
-    "professor_id": 124067,
-    "first_name": "M.I. LAURO FERNANDO",
-    "last_name": "VAZQUEZ ALBERTO",
-    "rating": 9.0,
-    "num_ratings": 10
   },
   {
     "code": "6443",
@@ -184,7 +184,7 @@
         "days": [
           4
         ],
-        "classroom": "14"
+        "classroom": "P114"
       }
     ],
     "professor_id": 161143,
@@ -203,7 +203,7 @@
         "days": [
           4
         ],
-        "classroom": "14"
+        "classroom": "P114"
       }
     ],
     "professor_id": 124067,
@@ -222,7 +222,7 @@
         "days": [
           4
         ],
-        "classroom": "14"
+        "classroom": "P114"
       }
     ]
   },
@@ -236,7 +236,7 @@
         "days": [
           5
         ],
-        "classroom": "14"
+        "classroom": "P114"
       }
     ],
     "professor_id": 87572,
@@ -255,7 +255,7 @@
         "days": [
           5
         ],
-        "classroom": "14"
+        "classroom": "P114"
       }
     ],
     "professor_id": 124068,
@@ -274,7 +274,7 @@
         "days": [
           5
         ],
-        "classroom": "14"
+        "classroom": "P114"
       }
     ],
     "professor_id": 124068,
@@ -293,7 +293,7 @@
         "days": [
           5
         ],
-        "classroom": "14"
+        "classroom": "P114"
       }
     ]
   }

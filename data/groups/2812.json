@@ -9,7 +9,15 @@
         "days": [
           5
         ],
-        "classroom": "35"
+        "classroom": "EXTR"
+      },
+      {
+        "time": "13:00-14:30",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "EXTR"
       }
     ]
   },
@@ -19,11 +27,19 @@
     "professor": "ALMA ELIA VERA MORALESVer Nota 1",
     "schedules": [
       {
+        "time": "08:30-10:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "Y204"
+      },
+      {
         "time": "07:00-09:00",
         "days": [
           5
         ],
-        "classroom": "35"
+        "classroom": "J206"
       }
     ]
   },
@@ -33,12 +49,19 @@
     "professor": "MANUEL SALGADO CRUZ",
     "schedules": [
       {
+        "time": "19:00-21:00",
+        "days": [
+          5
+        ],
+        "classroom": "EXTR"
+      },
+      {
         "time": "19:00-20:30",
         "days": [
           3,
           4
         ],
-        "classroom": "35"
+        "classroom": "EXTR"
       }
     ]
   }

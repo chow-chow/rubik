@@ -9,7 +9,7 @@
         "days": [
           1
         ],
-        "classroom": "20"
+        "classroom": "H003"
       }
     ],
     "professor_id": 142352,
@@ -17,6 +17,25 @@
     "last_name": "Nieto Castañeda",
     "rating": 7.0,
     "num_ratings": 2
+  },
+  {
+    "code": "6125",
+    "group": "5",
+    "professor": "ARIANEE SAINZ VIDAL",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          5
+        ],
+        "classroom": "H003"
+      }
+    ],
+    "professor_id": 167784,
+    "first_name": "Arianee",
+    "last_name": "Sainz Vidal",
+    "rating": 5.6667,
+    "num_ratings": 3
   },
   {
     "code": "6125",
@@ -28,21 +47,21 @@
         "days": [
           1
         ],
-        "classroom": "20"
+        "classroom": "H003"
       }
     ]
   },
   {
     "code": "6125",
     "group": "3",
-    "professor": "MARÍA FERNANDA HEIMPEL COVARRUBIAS",
+    "professor": "MARIA FERNANDA HEIMPEL COVARRUBIAS",
     "schedules": [
       {
         "time": "13:00-15:00",
         "days": [
           4
         ],
-        "classroom": "20"
+        "classroom": "H003"
       }
     ]
   },
@@ -56,21 +75,7 @@
         "days": [
           4
         ],
-        "classroom": "20"
-      }
-    ]
-  },
-  {
-    "code": "6125",
-    "group": "5",
-    "professor": "ARIANEE SAINZ VIDAL",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          5
-        ],
-        "classroom": "20"
+        "classroom": "H003"
       }
     ]
   }

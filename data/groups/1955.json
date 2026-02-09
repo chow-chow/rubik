@@ -1,6 +1,45 @@
 [
   {
     "code": "1955",
+    "group": "3",
+    "professor": "ANDRES MOTA SOLORZANO",
+    "schedules": [
+      {
+        "time": "18:00-20:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "B302"
+      }
+    ],
+    "professor_id": 86529,
+    "first_name": "Andrés",
+    "last_name": "Mota Solorzano",
+    "rating": 6.0,
+    "num_ratings": 7
+  },
+  {
+    "code": "1955",
+    "group": "7",
+    "professor": "CECILIA GUADALUPE MORALES JUAREZ",
+    "schedules": [
+      {
+        "time": "10:00-14:00",
+        "days": [
+          6
+        ],
+        "classroom": "A311"
+      }
+    ],
+    "professor_id": 167153,
+    "first_name": "cecilia guadalupe",
+    "last_name": "morales juarez",
+    "rating": 7.4091,
+    "num_ratings": 22
+  },
+  {
+    "code": "1955",
     "group": "1",
     "professor": "MARINA LOPEZ MERLOS",
     "schedules": [
@@ -10,7 +49,7 @@
           2,
           4
         ],
-        "classroom": "35"
+        "classroom": "Y003"
       }
     ]
   },
@@ -25,7 +64,7 @@
           1,
           3
         ],
-        "classroom": "35"
+        "classroom": "O101"
       }
     ],
     "professor_id": 133199,
@@ -33,26 +72,6 @@
     "last_name": "Gonzalez Elizondo",
     "rating": 7.7647,
     "num_ratings": 17
-  },
-  {
-    "code": "1955",
-    "group": "3",
-    "professor": "ANDRES MOTA SOLORZANO",
-    "schedules": [
-      {
-        "time": "18:00-20:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "35"
-      }
-    ],
-    "professor_id": 86529,
-    "first_name": "Andrés",
-    "last_name": "Mota Solorzano",
-    "rating": 6.0,
-    "num_ratings": 7
   },
   {
     "code": "1955",
@@ -65,7 +84,7 @@
           1,
           3
         ],
-        "classroom": "35"
+        "classroom": "A203"
       }
     ],
     "professor_id": 134036,
@@ -85,27 +104,8 @@
           1,
           3
         ],
-        "classroom": "35"
+        "classroom": "B301"
       }
     ]
-  },
-  {
-    "code": "1955",
-    "group": "7",
-    "professor": "CECILIA GUADALUPE MORALES JUAREZ",
-    "schedules": [
-      {
-        "time": "10:00-14:00",
-        "days": [
-          6
-        ],
-        "classroom": "35"
-      }
-    ],
-    "professor_id": 167153,
-    "first_name": "cecilia guadalupe",
-    "last_name": "morales juarez",
-    "rating": 7.4091,
-    "num_ratings": 22
   }
 ]

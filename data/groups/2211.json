@@ -10,14 +10,21 @@
           2,
           4
         ],
-        "classroom": "35"
+        "classroom": "J103"
+      },
+      {
+        "time": "07:00-09:00",
+        "days": [
+          3
+        ],
+        "classroom": "H002"
       }
     ],
     "professor_id": 90851,
     "first_name": "OMAR ING.",
     "last_name": "DE JESUS PEREZ",
-    "rating": 7.9778,
-    "num_ratings": 45
+    "rating": 8.0217,
+    "num_ratings": 46
   },
   {
     "code": "2211",
@@ -29,7 +36,21 @@
         "days": [
           1
         ],
-        "classroom": "35"
+        "classroom": "I106"
+      },
+      {
+        "time": "13:00-15:00",
+        "days": [
+          3
+        ],
+        "classroom": "I105"
+      },
+      {
+        "time": "13:00-15:00",
+        "days": [
+          5
+        ],
+        "classroom": "H002"
       }
     ]
   },
@@ -44,7 +65,14 @@
           2,
           4
         ],
-        "classroom": "35"
+        "classroom": "J105"
+      },
+      {
+        "time": "15:00-17:00",
+        "days": [
+          3
+        ],
+        "classroom": "H002"
       }
     ],
     "professor_id": 78275,

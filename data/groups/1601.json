@@ -11,7 +11,7 @@
           3,
           5
         ],
-        "classroom": "25"
+        "classroom": "A204"
       }
     ]
   },
@@ -27,7 +27,7 @@
           3,
           5
         ],
-        "classroom": "25"
+        "classroom": "Y205"
       }
     ],
     "professor_id": 170993,
@@ -35,6 +35,36 @@
     "last_name": "SANCHEZ ENRIQUEZ",
     "rating": 2.0,
     "num_ratings": 4
+  },
+  {
+    "code": "1601",
+    "group": "5",
+    "professor": "HECTOR ALFREDO LEGORRETA CUEVAS",
+    "schedules": [
+      {
+        "time": "07:00-09:15",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "DS02"
+      }
+    ]
+  },
+  {
+    "code": "1601",
+    "group": "7",
+    "professor": "MIGUEL GALLARDO CONTRERAS",
+    "schedules": [
+      {
+        "time": "18:15-20:30",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "Y203"
+      }
+    ]
   },
   {
     "code": "1601",
@@ -48,7 +78,7 @@
           3,
           5
         ],
-        "classroom": "25"
+        "classroom": "A210"
       }
     ],
     "professor_id": 72785,
@@ -69,22 +99,7 @@
           3,
           5
         ],
-        "classroom": "25"
-      }
-    ]
-  },
-  {
-    "code": "1601",
-    "group": "5",
-    "professor": "HECTOR ALFREDO LEGORRETA CUEVAS",
-    "schedules": [
-      {
-        "time": "07:00-09:15",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "25"
+        "classroom": "DS02"
       }
     ]
   },
@@ -99,7 +114,7 @@
           2,
           4
         ],
-        "classroom": "25"
+        "classroom": "A209"
       }
     ],
     "professor_id": 142053,
@@ -107,20 +122,5 @@
     "last_name": "MEDINA GUZMAN",
     "rating": 10.0,
     "num_ratings": 4
-  },
-  {
-    "code": "1601",
-    "group": "7",
-    "professor": "MIGUEL GALLARDO CONTRERAS",
-    "schedules": [
-      {
-        "time": "18:15-20:30",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "25"
-      }
-    ]
   }
 ]

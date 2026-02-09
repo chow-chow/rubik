@@ -1,26 +1,6 @@
 [
   {
     "code": "1328",
-    "group": "1",
-    "professor": "CYNTHIA MIRANDA TREJO",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "20"
-      }
-    ],
-    "professor_id": 125810,
-    "first_name": "Cynthia",
-    "last_name": "Miranda",
-    "rating": 6.0,
-    "num_ratings": 4
-  },
-  {
-    "code": "1328",
     "group": "2",
     "professor": "ELIZABETH AGUIRRE MALDONADO",
     "schedules": [
@@ -30,13 +10,47 @@
           2,
           4
         ],
-        "classroom": "20"
+        "classroom": "J108"
+      },
+      {
+        "time": "17:00-19:00",
+        "days": [
+          3
+        ],
+        "classroom": "H002"
       }
     ],
     "professor_id": 60632,
     "first_name": "Elizabeth",
     "last_name": "Aguirre Maldonado",
-    "rating": 7.0217,
-    "num_ratings": 46
+    "rating": 6.7347,
+    "num_ratings": 49
+  },
+  {
+    "code": "1328",
+    "group": "1",
+    "professor": "CYNTHIA MIRANDA TREJO",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "J108"
+      },
+      {
+        "time": "07:00-09:00",
+        "days": [
+          5
+        ],
+        "classroom": "H002"
+      }
+    ],
+    "professor_id": 125810,
+    "first_name": "Cynthia",
+    "last_name": "Miranda",
+    "rating": 6.0,
+    "num_ratings": 4
   }
 ]

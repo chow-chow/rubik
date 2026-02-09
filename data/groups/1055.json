@@ -1,21 +1,6 @@
 [
   {
     "code": "1055",
-    "group": "1",
-    "professor": "VICTOR MANUEL ESQUIVEL ALVA",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "35"
-      }
-    ]
-  },
-  {
-    "code": "1055",
     "group": "2",
     "professor": "JESUS PEREZ ESQUIVEL",
     "schedules": [
@@ -25,7 +10,7 @@
           1,
           3
         ],
-        "classroom": "35"
+        "classroom": "Y102"
       }
     ],
     "professor_id": 78031,
@@ -45,29 +30,9 @@
           2,
           4
         ],
-        "classroom": "35"
+        "classroom": "A106"
       }
     ]
-  },
-  {
-    "code": "1055",
-    "group": "4",
-    "professor": "JESUS PEREZ ESQUIVEL",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "35"
-      }
-    ],
-    "professor_id": 78031,
-    "first_name": "Jesús",
-    "last_name": "Pérez Esquivel",
-    "rating": 8.625,
-    "num_ratings": 72
   },
   {
     "code": "1055",
@@ -80,99 +45,9 @@
           2,
           4
         ],
-        "classroom": "35"
+        "classroom": "Y101"
       }
     ]
-  },
-  {
-    "code": "1055",
-    "group": "6",
-    "professor": "ADRIANA CONTRERAS GARCÍA",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "35"
-      }
-    ]
-  },
-  {
-    "code": "1055",
-    "group": "7",
-    "professor": "MARIA DE GUADALUPE FLOR DIAZ DE LEON FERNANDEZ DE CASTRO",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "35"
-      }
-    ]
-  },
-  {
-    "code": "1055",
-    "group": "8",
-    "professor": "MARGARITA PUEBLA CADENA",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "35"
-      }
-    ],
-    "professor_id": 36978,
-    "first_name": "Margarita",
-    "last_name": "Puebla Cadena",
-    "rating": 8.7586,
-    "num_ratings": 29
-  },
-  {
-    "code": "1055",
-    "group": "9",
-    "professor": "VICTORIA RAMIRO ESTEBAN",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "35"
-      }
-    ],
-    "professor_id": 80225,
-    "first_name": "Victoria",
-    "last_name": "Ramiro Esteban",
-    "rating": 7.1053,
-    "num_ratings": 38
-  },
-  {
-    "code": "1055",
-    "group": "10",
-    "professor": "MARIA CUAIRAN RUIDIAZ",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          3,
-          5
-        ],
-        "classroom": "35"
-      }
-    ],
-    "professor_id": 78509,
-    "first_name": "María",
-    "last_name": "Cuairán Ruidiaz",
-    "rating": 9.8571,
-    "num_ratings": 14
   },
   {
     "code": "1055",
@@ -184,7 +59,7 @@
         "days": [
           5
         ],
-        "classroom": "35"
+        "classroom": "A102"
       }
     ],
     "professor_id": 67966,
@@ -192,26 +67,6 @@
     "last_name": "Ruiz Primo Martínez",
     "rating": 5.53,
     "num_ratings": 30
-  },
-  {
-    "code": "1055",
-    "group": "12",
-    "professor": "VICTORIA RAMIRO ESTEBAN",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "35"
-      }
-    ],
-    "professor_id": 80225,
-    "first_name": "Victoria",
-    "last_name": "Ramiro Esteban",
-    "rating": 7.1053,
-    "num_ratings": 38
   },
   {
     "code": "1055",
@@ -224,7 +79,7 @@
           1,
           3
         ],
-        "classroom": "35"
+        "classroom": "A102"
       }
     ]
   },
@@ -239,7 +94,7 @@
           1,
           5
         ],
-        "classroom": "35"
+        "classroom": "A104"
       }
     ],
     "professor_id": 61268,
@@ -247,21 +102,6 @@
     "last_name": "Gordillo Torres",
     "rating": 7.7647,
     "num_ratings": 34
-  },
-  {
-    "code": "1055",
-    "group": "15",
-    "professor": "ANA YANTZIN PEREZ CORTES",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "35"
-      }
-    ]
   },
   {
     "code": "1055",
@@ -274,7 +114,7 @@
           1,
           3
         ],
-        "classroom": "35"
+        "classroom": "Y102"
       }
     ],
     "professor_id": 183488,
@@ -294,14 +134,14 @@
           2,
           4
         ],
-        "classroom": "35"
+        "classroom": "A202"
       }
     ],
     "professor_id": 87088,
     "first_name": "Antonio",
     "last_name": "Castro Rangel",
-    "rating": 7.6875,
-    "num_ratings": 32
+    "rating": 7.8571,
+    "num_ratings": 35
   },
   {
     "code": "1055",
@@ -314,7 +154,7 @@
           2,
           4
         ],
-        "classroom": "35"
+        "classroom": "A103"
       }
     ]
   },
@@ -328,7 +168,7 @@
         "days": [
           5
         ],
-        "classroom": "35"
+        "classroom": "A102"
       }
     ],
     "professor_id": 67966,
@@ -348,13 +188,178 @@
           2,
           4
         ],
-        "classroom": "35"
+        "classroom": "A106"
       }
     ],
     "professor_id": 87088,
     "first_name": "Antonio",
     "last_name": "Castro Rangel",
-    "rating": 7.6875,
-    "num_ratings": 32
+    "rating": 7.8571,
+    "num_ratings": 35
+  },
+  {
+    "code": "1055",
+    "group": "1",
+    "professor": "VICTOR MANUEL ESQUIVEL ALVA",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "A101"
+      }
+    ]
+  },
+  {
+    "code": "1055",
+    "group": "4",
+    "professor": "JESUS PEREZ ESQUIVEL",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "Y102"
+      }
+    ],
+    "professor_id": 78031,
+    "first_name": "Jesús",
+    "last_name": "Pérez Esquivel",
+    "rating": 8.625,
+    "num_ratings": 72
+  },
+  {
+    "code": "1055",
+    "group": "6",
+    "professor": "ADRIANA CONTRERAS GARCIA",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "A103"
+      }
+    ],
+    "professor_id": 124468,
+    "first_name": "Adriana",
+    "last_name": "Contreras García",
+    "rating": 8.75,
+    "num_ratings": 12
+  },
+  {
+    "code": "1055",
+    "group": "7",
+    "professor": "MARIA DE GUADALUPE FLOR DIAZ DE LEON FERNANDEZ DE CASTRO",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "A108"
+      }
+    ]
+  },
+  {
+    "code": "1055",
+    "group": "8",
+    "professor": "MARGARITA PUEBLA CADENA",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "A103"
+      }
+    ],
+    "professor_id": 36978,
+    "first_name": "Margarita",
+    "last_name": "Puebla Cadena",
+    "rating": 8.7586,
+    "num_ratings": 29
+  },
+  {
+    "code": "1055",
+    "group": "9",
+    "professor": "VICTORIA RAMIRO ESTEBAN",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A108"
+      }
+    ],
+    "professor_id": 80225,
+    "first_name": "Victoria",
+    "last_name": "Ramiro Esteban",
+    "rating": 7.1053,
+    "num_ratings": 38
+  },
+  {
+    "code": "1055",
+    "group": "10",
+    "professor": "MARIA CUAIRAN RUIDIAZ",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "A101"
+      }
+    ],
+    "professor_id": 78509,
+    "first_name": "María",
+    "last_name": "Cuairán Ruidiaz",
+    "rating": 9.8571,
+    "num_ratings": 14
+  },
+  {
+    "code": "1055",
+    "group": "12",
+    "professor": "VICTORIA RAMIRO ESTEBAN",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A108"
+      }
+    ],
+    "professor_id": 80225,
+    "first_name": "Victoria",
+    "last_name": "Ramiro Esteban",
+    "rating": 7.1053,
+    "num_ratings": 38
+  },
+  {
+    "code": "1055",
+    "group": "15",
+    "professor": "ANA YANTZIN PEREZ CORTES",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A101"
+      }
+    ]
   }
 ]

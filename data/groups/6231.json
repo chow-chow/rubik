@@ -1,6 +1,20 @@
 [
   {
     "code": "6231",
+    "group": "2",
+    "professor": "EMMA MARTINEZ LUNA",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          5
+        ],
+        "classroom": "H004"
+      }
+    ]
+  },
+  {
+    "code": "6231",
     "group": "1",
     "professor": "GUILLERMO PEREZ QUINTERO",
     "schedules": [
@@ -9,7 +23,7 @@
         "days": [
           3
         ],
-        "classroom": "20"
+        "classroom": "H004"
       }
     ],
     "professor_id": 98612,
@@ -17,19 +31,5 @@
     "last_name": "Pérez Quintero",
     "rating": 8.6563,
     "num_ratings": 32
-  },
-  {
-    "code": "6231",
-    "group": "2",
-    "professor": "EMMA MARTÍNEZ LUNA",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          5
-        ],
-        "classroom": "20"
-      }
-    ]
   }
 ]

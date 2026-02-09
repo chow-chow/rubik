@@ -10,7 +10,7 @@
           1,
           3
         ],
-        "classroom": "48"
+        "classroom": "I206"
       }
     ],
     "professor_id": 49791,
@@ -30,7 +30,7 @@
           2,
           4
         ],
-        "classroom": "48"
+        "classroom": "I105"
       }
     ],
     "professor_id": 51489,
@@ -38,6 +38,71 @@
     "last_name": "Struck Cano",
     "rating": 6.625,
     "num_ratings": 48
+  },
+  {
+    "code": "1223",
+    "group": "17",
+    "professor": "MARIO ALBERTO MARQUEZ CALDERON",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "I204"
+      }
+    ]
+  },
+  {
+    "code": "1223",
+    "group": "18",
+    "professor": "JOSE ANTONIO RUIZ DIAZ",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1,
+          5
+        ],
+        "classroom": "J208"
+      }
+    ]
+  },
+  {
+    "code": "1223",
+    "group": "20",
+    "professor": "MARIO ALBERTO MARQUEZ CALDERON",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "I203"
+      }
+    ]
+  },
+  {
+    "code": "1223",
+    "group": "22",
+    "professor": "RICARDO ARTURO PINZON AGUIRRE",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "J210"
+      }
+    ],
+    "professor_id": 105197,
+    "first_name": "RICARDO ARTURO",
+    "last_name": "PINZON AGUIRRE",
+    "rating": 9.0263,
+    "num_ratings": 38
   },
   {
     "code": "1223",
@@ -49,14 +114,21 @@
         "days": [
           1
         ],
-        "classroom": "48"
+        "classroom": "I302"
+      },
+      {
+        "time": "09:00-11:00",
+        "days": [
+          3
+        ],
+        "classroom": "I303"
       }
     ],
     "professor_id": 58547,
     "first_name": "Edgar Raymundo",
     "last_name": "López Tellez",
-    "rating": 7.0857,
-    "num_ratings": 70
+    "rating": 7.0141,
+    "num_ratings": 71
   },
   {
     "code": "1223",
@@ -69,14 +141,14 @@
           1,
           3
         ],
-        "classroom": "46"
+        "classroom": "J210"
       }
     ],
     "professor_id": 42880,
     "first_name": "gloria",
     "last_name": "ramirez romero",
-    "rating": 6.7684,
-    "num_ratings": 95
+    "rating": 6.7835,
+    "num_ratings": 97
   },
   {
     "code": "1223",
@@ -89,14 +161,14 @@
           2,
           4
         ],
-        "classroom": "48"
+        "classroom": "J109"
       }
     ],
     "professor_id": 70466,
     "first_name": "Epifanio Oscar",
     "last_name": "Carballar López",
-    "rating": 7.359,
-    "num_ratings": 39
+    "rating": 7.35,
+    "num_ratings": 40
   },
   {
     "code": "1223",
@@ -109,14 +181,14 @@
           3,
           5
         ],
-        "classroom": "48"
+        "classroom": "J109"
       }
     ],
     "professor_id": 173549,
     "first_name": "Roberto Ángel",
     "last_name": "García García",
-    "rating": 8.0,
-    "num_ratings": 9
+    "rating": 8.3636,
+    "num_ratings": 11
   },
   {
     "code": "1223",
@@ -128,14 +200,14 @@
         "days": [
           6
         ],
-        "classroom": "48"
+        "classroom": "J101"
       }
     ],
     "professor_id": 82797,
     "first_name": "Nicolás",
     "last_name": "Rodríguez Carreón",
-    "rating": 9.62,
-    "num_ratings": 50
+    "rating": 9.6078,
+    "num_ratings": 51
   },
   {
     "code": "1223",
@@ -148,7 +220,7 @@
           1,
           5
         ],
-        "classroom": "48"
+        "classroom": "J211"
       }
     ]
   },
@@ -163,7 +235,7 @@
           1,
           3
         ],
-        "classroom": "48"
+        "classroom": "J105"
       }
     ],
     "professor_id": 114184,
@@ -175,7 +247,7 @@
   {
     "code": "1223",
     "group": "10",
-    "professor": "JUAN OCARIZ CASTELAZO",
+    "professor": "JUAN MARIA DE LA SALUD OCARIZ CASTELAZO",
     "schedules": [
       {
         "time": "11:00-13:00",
@@ -183,14 +255,14 @@
           2,
           4
         ],
-        "classroom": "35"
+        "classroom": "J202"
       }
     ],
     "professor_id": 22035,
     "first_name": "Juan",
     "last_name": "Ocáriz Castelazo",
-    "rating": 8.6506,
-    "num_ratings": 166
+    "rating": 8.6568,
+    "num_ratings": 169
   },
   {
     "code": "1223",
@@ -202,7 +274,14 @@
         "days": [
           5
         ],
-        "classroom": "35"
+        "classroom": "J202"
+      },
+      {
+        "time": "11:00-13:00",
+        "days": [
+          3
+        ],
+        "classroom": "J101"
       }
     ]
   },
@@ -217,7 +296,7 @@
           2,
           4
         ],
-        "classroom": "48"
+        "classroom": "I103"
       }
     ],
     "professor_id": 95313,
@@ -237,14 +316,14 @@
           3,
           5
         ],
-        "classroom": "48"
+        "classroom": "I205"
       }
     ],
     "professor_id": 91447,
     "first_name": "Alejandro",
     "last_name": "Jaramillo Mora",
-    "rating": 7.4737,
-    "num_ratings": 38
+    "rating": 7.575,
+    "num_ratings": 40
   },
   {
     "code": "1223",
@@ -257,7 +336,7 @@
           1,
           3
         ],
-        "classroom": "48"
+        "classroom": "I206"
       }
     ]
   },
@@ -272,14 +351,14 @@
           1,
           3
         ],
-        "classroom": "48"
+        "classroom": "J208"
       }
     ],
     "professor_id": 141997,
     "first_name": "Adriana",
     "last_name": "Alarcon Muñoz",
-    "rating": 8.7451,
-    "num_ratings": 51
+    "rating": 8.7692,
+    "num_ratings": 52
   },
   {
     "code": "1223",
@@ -291,44 +370,21 @@
         "days": [
           3
         ],
-        "classroom": "48"
+        "classroom": "J109"
+      },
+      {
+        "time": "15:00-17:00",
+        "days": [
+          5
+        ],
+        "classroom": "J110"
       }
     ],
     "professor_id": 91447,
     "first_name": "Alejandro",
     "last_name": "Jaramillo Mora",
-    "rating": 7.4737,
-    "num_ratings": 38
-  },
-  {
-    "code": "1223",
-    "group": "17",
-    "professor": "MARIO ALBERTO MÁRQUEZ CALDERÓN",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "48"
-      }
-    ]
-  },
-  {
-    "code": "1223",
-    "group": "18",
-    "professor": "JOSE ANTONIO RUIZ DIAZ",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          1,
-          5
-        ],
-        "classroom": "48"
-      }
-    ]
+    "rating": 7.575,
+    "num_ratings": 40
   },
   {
     "code": "1223",
@@ -341,29 +397,14 @@
           2,
           4
         ],
-        "classroom": "48"
+        "classroom": "J102"
       }
     ],
     "professor_id": 66464,
     "first_name": "Diego Alberto",
     "last_name": "Zavala Galicia",
-    "rating": 8.1915,
-    "num_ratings": 94
-  },
-  {
-    "code": "1223",
-    "group": "20",
-    "professor": "MARIO ALBERTO MÁRQUEZ CALDERÓN",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "48"
-      }
-    ]
+    "rating": 8.1979,
+    "num_ratings": 96
   },
   {
     "code": "1223",
@@ -376,33 +417,13 @@
           2,
           4
         ],
-        "classroom": "46"
+        "classroom": "EXTR"
       }
     ],
     "professor_id": 115337,
     "first_name": "Oscar",
     "last_name": "Morales López",
-    "rating": 9.6949,
-    "num_ratings": 59
-  },
-  {
-    "code": "1223",
-    "group": "22",
-    "professor": "RICARDO ARTURO PINZON AGUIRRE",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          3,
-          5
-        ],
-        "classroom": "48"
-      }
-    ],
-    "professor_id": 105197,
-    "first_name": "RICARDO ARTURO",
-    "last_name": "PINZON AGUIRRE",
-    "rating": 9.027,
-    "num_ratings": 37
+    "rating": 9.7,
+    "num_ratings": 60
   }
 ]

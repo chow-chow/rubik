@@ -7,9 +7,16 @@
       {
         "time": "16:00-17:30",
         "days": [
+          3
+        ],
+        "classroom": "EXTR"
+      },
+      {
+        "time": "16:00-17:30",
+        "days": [
           1
         ],
-        "classroom": "20"
+        "classroom": "Y204"
       }
     ]
   }

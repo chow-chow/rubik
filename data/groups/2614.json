@@ -1,21 +1,6 @@
 [
   {
     "code": "2614",
-    "group": "1",
-    "professor": "LUIS FERNANDO DONIS RABANALES",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "30"
-      }
-    ]
-  },
-  {
-    "code": "2614",
     "group": "2",
     "professor": "KAREN YESENIA PEREZ SALAS",
     "schedules": [
@@ -25,7 +10,22 @@
           1,
           3
         ],
-        "classroom": "30"
+        "classroom": "DS10"
+      }
+    ]
+  },
+  {
+    "code": "2614",
+    "group": "1",
+    "professor": "LUIS FERNANDO DONIS RABANALES",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "J206"
       }
     ]
   },
@@ -40,7 +40,7 @@
           2,
           4
         ],
-        "classroom": "30"
+        "classroom": "J206"
       }
     ]
   },
@@ -55,7 +55,7 @@
           2,
           4
         ],
-        "classroom": "30"
+        "classroom": "J101"
       }
     ]
   }

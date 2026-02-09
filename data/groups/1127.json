@@ -1,25 +1,6 @@
 [
   {
     "code": "1127",
-    "group": "1",
-    "professor": "JORGE LUIS LOPEZ GARCIA",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          2
-        ],
-        "classroom": "20"
-      }
-    ],
-    "professor_id": 64679,
-    "first_name": "Jorge Luis",
-    "last_name": "López García",
-    "rating": 8.5,
-    "num_ratings": 70
-  },
-  {
-    "code": "1127",
     "group": "2",
     "professor": "DULCE MONICA CASTILLO CORONA",
     "schedules": [
@@ -28,52 +9,21 @@
         "days": [
           2
         ],
-        "classroom": "20"
-      }
-    ],
-    "professor_id": 49563,
-    "first_name": "Dulce Monica",
-    "last_name": "Castillo Corona",
-    "rating": 7.06,
-    "num_ratings": 87
-  },
-  {
-    "code": "1127",
-    "group": "3",
-    "professor": "JESSICA ROJAS SERRANO",
-    "schedules": [
+        "classroom": "A305"
+      },
       {
         "time": "11:00-13:00",
         "days": [
           4
         ],
-        "classroom": "20"
+        "classroom": "Q008"
       }
     ],
-    "professor_id": 187681,
-    "first_name": "ING. JESSICA",
-    "last_name": "ROJAS SERRANO",
-    "rating": 9.5,
-    "num_ratings": 6
-  },
-  {
-    "code": "1127",
-    "group": "4",
-    "professor": "MARIA GUADALUPE MORALES NAVA",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          2
-        ],
-        "classroom": "20"
-      }
-    ],
-    "professor_id": 58571,
-    "first_name": "Maria Guadalupe",
-    "last_name": "Morales Nava",
-    "rating": 8.619,
-    "num_ratings": 42
+    "professor_id": 49563,
+    "first_name": "Dulce Monica",
+    "last_name": "Castillo Corona",
+    "rating": 7.1,
+    "num_ratings": 89
   },
   {
     "code": "1127",
@@ -85,9 +35,94 @@
         "days": [
           2
         ],
-        "classroom": "20"
+        "classroom": "B106"
+      },
+      {
+        "time": "19:00-21:00",
+        "days": [
+          4
+        ],
+        "classroom": "Q008"
       }
     ]
+  },
+  {
+    "code": "1127",
+    "group": "1",
+    "professor": "JORGE LUIS LOPEZ GARCIA",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2
+        ],
+        "classroom": "P003"
+      },
+      {
+        "time": "09:00-11:00",
+        "days": [
+          4
+        ],
+        "classroom": "P003"
+      }
+    ],
+    "professor_id": 64679,
+    "first_name": "Jorge Luis",
+    "last_name": "López García",
+    "rating": 8.507,
+    "num_ratings": 71
+  },
+  {
+    "code": "1127",
+    "group": "3",
+    "professor": "JESSICA ROJAS SERRANO",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          4
+        ],
+        "classroom": "A206"
+      },
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2
+        ],
+        "classroom": "Q007"
+      }
+    ],
+    "professor_id": 187681,
+    "first_name": "ING. JESSICA",
+    "last_name": "ROJAS SERRANO",
+    "rating": 9.4286,
+    "num_ratings": 7
+  },
+  {
+    "code": "1127",
+    "group": "4",
+    "professor": "MARIA GUADALUPE MORALES NAVA",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          2
+        ],
+        "classroom": "I306"
+      },
+      {
+        "time": "13:00-15:00",
+        "days": [
+          4
+        ],
+        "classroom": "Q007"
+      }
+    ],
+    "professor_id": 58571,
+    "first_name": "Maria Guadalupe",
+    "last_name": "Morales Nava",
+    "rating": 8.619,
+    "num_ratings": 42
   },
   {
     "code": "1127",
@@ -99,13 +134,20 @@
         "days": [
           1
         ],
-        "classroom": "20"
+        "classroom": "A206"
+      },
+      {
+        "time": "15:00-17:00",
+        "days": [
+          3
+        ],
+        "classroom": "Q007"
       }
     ],
     "professor_id": 187681,
     "first_name": "ING. JESSICA",
     "last_name": "ROJAS SERRANO",
-    "rating": 9.5,
-    "num_ratings": 6
+    "rating": 9.4286,
+    "num_ratings": 7
   }
 ]

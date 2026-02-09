@@ -9,14 +9,21 @@
         "days": [
           5
         ],
-        "classroom": "48"
+        "classroom": "J106"
+      },
+      {
+        "time": "09:00-11:00",
+        "days": [
+          3
+        ],
+        "classroom": "J108"
       }
     ],
     "professor_id": 84416,
     "first_name": "Ehecatl Luis",
     "last_name": "Paleo González",
-    "rating": 6.3448,
-    "num_ratings": 29
+    "rating": 6.4516,
+    "num_ratings": 31
   },
   {
     "code": "1231",
@@ -29,7 +36,7 @@
           2,
           4
         ],
-        "classroom": "48"
+        "classroom": "J207"
       }
     ],
     "professor_id": 62945,

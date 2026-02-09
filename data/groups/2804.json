@@ -9,7 +9,21 @@
         "days": [
           6
         ],
-        "classroom": "35"
+        "classroom": "A109"
+      }
+    ]
+  },
+  {
+    "code": "2804",
+    "group": "4",
+    "professor": "PEDRO BERMUDEZ PALAFOX",
+    "schedules": [
+      {
+        "time": "07:00-11:00",
+        "days": [
+          5
+        ],
+        "classroom": "A109"
       }
     ]
   },
@@ -24,7 +38,7 @@
           1,
           3
         ],
-        "classroom": "35"
+        "classroom": "B105"
       }
     ],
     "professor_id": 172889,
@@ -44,7 +58,7 @@
           2,
           4
         ],
-        "classroom": "25"
+        "classroom": "C403"
       }
     ],
     "professor_id": 142293,
@@ -52,19 +66,5 @@
     "last_name": "Torres Mendoza",
     "rating": 9.2,
     "num_ratings": 5
-  },
-  {
-    "code": "2804",
-    "group": "4",
-    "professor": "PEDRO BERMUDEZ PALAFOX",
-    "schedules": [
-      {
-        "time": "07:00-11:00",
-        "days": [
-          5
-        ],
-        "classroom": "35"
-      }
-    ]
   }
 ]

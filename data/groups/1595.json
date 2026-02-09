@@ -1,21 +1,6 @@
 [
   {
     "code": "1595",
-    "group": "1",
-    "professor": "CLAUDIA JULIETA ESPINOSA PEREZ",
-    "schedules": [
-      {
-        "time": "08:30-10:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "30"
-      }
-    ]
-  },
-  {
-    "code": "1595",
     "group": "2",
     "professor": "FRANCISCO NOVELO BURBANTE",
     "schedules": [
@@ -25,14 +10,29 @@
           1,
           3
         ],
-        "classroom": "30"
+        "classroom": "A212"
+      }
+    ]
+  },
+  {
+    "code": "1595",
+    "group": "1",
+    "professor": "CLAUDIA JULIETA ESPINOSA PEREZ",
+    "schedules": [
+      {
+        "time": "08:30-10:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "R206"
       }
     ]
   },
   {
     "code": "1595",
     "group": "3",
-    "professor": "ADRIANA ELIZABETH HERNÁNDEZ CRUZ",
+    "professor": "ADRIANA ELIZABETH HERNANDEZ CRUZ",
     "schedules": [
       {
         "time": "11:30-13:00",
@@ -40,9 +40,14 @@
           1,
           3
         ],
-        "classroom": "25"
+        "classroom": "U303"
       }
-    ]
+    ],
+    "professor_id": 155643,
+    "first_name": "Adriana Elizabeth",
+    "last_name": "Hernández Cruz",
+    "rating": 8.7143,
+    "num_ratings": 7
   },
   {
     "code": "1595",
@@ -55,7 +60,7 @@
           2,
           4
         ],
-        "classroom": "30"
+        "classroom": "A212"
       }
     ]
   }

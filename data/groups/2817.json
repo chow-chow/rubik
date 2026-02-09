@@ -2,7 +2,7 @@
   {
     "code": "2817",
     "group": "1",
-    "professor": "FERNANDO GÓMEZ SANTIAGO",
+    "professor": "FERNANDO GOMEZ SANTIAGO",
     "schedules": [
       {
         "time": "19:00-21:00",
@@ -10,7 +10,7 @@
           2,
           4
         ],
-        "classroom": "15"
+        "classroom": "D008"
       }
     ]
   },
@@ -25,7 +25,7 @@
           2,
           4
         ],
-        "classroom": "15"
+        "classroom": "A401"
       }
     ]
   }

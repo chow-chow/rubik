@@ -10,7 +10,7 @@
           1,
           3
         ],
-        "classroom": "35"
+        "classroom": "B103"
       }
     ],
     "professor_id": 142401,
@@ -30,7 +30,7 @@
           2,
           4
         ],
-        "classroom": "35"
+        "classroom": "B101"
       }
     ]
   },
@@ -45,7 +45,7 @@
           2,
           4
         ],
-        "classroom": "35"
+        "classroom": "A305"
       }
     ],
     "professor_id": 83076,
@@ -65,14 +65,14 @@
           2,
           4
         ],
-        "classroom": "35"
+        "classroom": "B103"
       }
     ],
     "professor_id": 135120,
     "first_name": "Iván",
     "last_name": "Martínez Pérez",
-    "rating": 5.04,
-    "num_ratings": 25
+    "rating": 4.9615,
+    "num_ratings": 26
   },
   {
     "code": "1562",
@@ -85,14 +85,14 @@
           3,
           5
         ],
-        "classroom": "35"
+        "classroom": "B205"
       }
     ],
     "professor_id": 58672,
     "first_name": "Julia",
     "last_name": "Vazquez Fuentes",
-    "rating": 4.3415,
-    "num_ratings": 41
+    "rating": 4.3023,
+    "num_ratings": 43
   },
   {
     "code": "1562",
@@ -104,13 +104,13 @@
         "days": [
           6
         ],
-        "classroom": "35"
+        "classroom": "A306"
       }
     ],
     "professor_id": 134274,
     "first_name": "Martha Isela",
     "last_name": "Torres Hernández",
-    "rating": 7.5263,
-    "num_ratings": 19
+    "rating": 7.4286,
+    "num_ratings": 21
   }
 ]

@@ -10,7 +10,7 @@
           2,
           4
         ],
-        "classroom": "30"
+        "classroom": "Y003"
       }
     ],
     "professor_id": 79858,
@@ -18,6 +18,26 @@
     "last_name": "Escalante Camargo",
     "rating": 7.2143,
     "num_ratings": 14
+  },
+  {
+    "code": "1409",
+    "group": "5",
+    "professor": "EDUARDO PEREZ GONZALEZ",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1,
+          5
+        ],
+        "classroom": "D002"
+      }
+    ],
+    "professor_id": 149862,
+    "first_name": "Eduardo",
+    "last_name": "Pérez Gonzalez",
+    "rating": 9.0,
+    "num_ratings": 5
   },
   {
     "code": "1409",
@@ -30,7 +50,7 @@
           2,
           4
         ],
-        "classroom": "30"
+        "classroom": "A109"
       }
     ],
     "professor_id": 74729,
@@ -50,7 +70,7 @@
           1,
           3
         ],
-        "classroom": "30"
+        "classroom": "D001"
       }
     ],
     "professor_id": 93881,
@@ -70,7 +90,7 @@
           1,
           3
         ],
-        "classroom": "30"
+        "classroom": "Y004"
       }
     ],
     "professor_id": 79049,
@@ -78,25 +98,5 @@
     "last_name": "Naude de la Llave",
     "rating": 6.4167,
     "num_ratings": 12
-  },
-  {
-    "code": "1409",
-    "group": "5",
-    "professor": "EDUARDO PEREZ GONZALEZ",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          1,
-          5
-        ],
-        "classroom": "30"
-      }
-    ],
-    "professor_id": 149862,
-    "first_name": "Eduardo",
-    "last_name": "Pérez Gonzalez",
-    "rating": 9.0,
-    "num_ratings": 5
   }
 ]

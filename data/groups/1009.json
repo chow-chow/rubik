@@ -1,26 +1,6 @@
 [
   {
     "code": "1009",
-    "group": "1",
-    "professor": "LAZARO MORALES ACOSTA",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          3,
-          5
-        ],
-        "classroom": "15"
-      }
-    ],
-    "professor_id": 59794,
-    "first_name": "Lazaro",
-    "last_name": "Morales Acosta",
-    "rating": 8.3529,
-    "num_ratings": 17
-  },
-  {
-    "code": "1009",
     "group": "2",
     "professor": "AXEL YAEL PINO PEREZ",
     "schedules": [
@@ -30,8 +10,42 @@
           3,
           5
         ],
-        "classroom": "15"
+        "classroom": "X101"
+      },
+      {
+        "time": "19:00-21:00",
+        "days": [
+          1
+        ],
+        "classroom": "X101"
       }
     ]
+  },
+  {
+    "code": "1009",
+    "group": "1",
+    "professor": "LAZARO MORALES ACOSTA",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "X101"
+      },
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1
+        ],
+        "classroom": "X101"
+      }
+    ],
+    "professor_id": 59794,
+    "first_name": "Lazaro",
+    "last_name": "Morales Acosta",
+    "rating": 8.3529,
+    "num_ratings": 17
   }
 ]

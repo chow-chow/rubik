@@ -1,26 +1,6 @@
 [
   {
     "code": "1535",
-    "group": "1",
-    "professor": "ABRAHAM PEREZ ALONZO",
-    "schedules": [
-      {
-        "time": "09:00-10:30",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "30"
-      }
-    ],
-    "professor_id": 186596,
-    "first_name": "Abraham",
-    "last_name": "Perez Alonzo",
-    "rating": 8.25,
-    "num_ratings": 4
-  },
-  {
-    "code": "1535",
     "group": "2",
     "professor": "VICTOR MANUEL LOMAS BARRIE",
     "schedules": [
@@ -30,7 +10,14 @@
           1,
           3
         ],
-        "classroom": "30"
+        "classroom": "J111"
+      },
+      {
+        "time": "13:00-15:00",
+        "days": [
+          4
+        ],
+        "classroom": "T101"
       }
     ],
     "professor_id": 108435,
@@ -38,21 +25,6 @@
     "last_name": "Lomas Barrie",
     "rating": 7.0,
     "num_ratings": 2
-  },
-  {
-    "code": "1535",
-    "group": "3",
-    "professor": "KAROL JOSHUA MARTINEZ ROSETE",
-    "schedules": [
-      {
-        "time": "15:00-16:30",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "30"
-      }
-    ]
   },
   {
     "code": "1535",
@@ -65,7 +37,14 @@
           2,
           4
         ],
-        "classroom": "30"
+        "classroom": "A302"
+      },
+      {
+        "time": "17:00-19:00",
+        "days": [
+          3
+        ],
+        "classroom": "T101"
       }
     ],
     "professor_id": 135269,
@@ -84,7 +63,14 @@
         "days": [
           5
         ],
-        "classroom": "30"
+        "classroom": "A301"
+      },
+      {
+        "time": "13:00-15:00",
+        "days": [
+          3
+        ],
+        "classroom": "T101"
       }
     ]
   },
@@ -98,14 +84,21 @@
         "days": [
           5
         ],
-        "classroom": "30"
+        "classroom": "B103"
+      },
+      {
+        "time": "17:00-19:00",
+        "days": [
+          4
+        ],
+        "classroom": "T101"
       }
     ],
     "professor_id": 104486,
     "first_name": "ALBERTO",
     "last_name": "NAVARRETE HERNANDEZ",
-    "rating": 5.1455,
-    "num_ratings": 55
+    "rating": 5.0893,
+    "num_ratings": 56
   },
   {
     "code": "1535",
@@ -118,13 +111,69 @@
           1,
           3
         ],
-        "classroom": "30"
+        "classroom": "A301"
+      },
+      {
+        "time": "17:00-19:00",
+        "days": [
+          5
+        ],
+        "classroom": "T101"
       }
     ],
     "professor_id": 142047,
     "first_name": "ING. BRYAN EMMANUEL",
     "last_name": "ALVAREZ SERNA",
-    "rating": 6.2059,
-    "num_ratings": 34
+    "rating": 6.2286,
+    "num_ratings": 35
+  },
+  {
+    "code": "1535",
+    "group": "1",
+    "professor": "ABRAHAM PEREZ ALONZO",
+    "schedules": [
+      {
+        "time": "09:00-10:30",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A305"
+      },
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1
+        ],
+        "classroom": "T101"
+      }
+    ],
+    "professor_id": 186596,
+    "first_name": "Abraham",
+    "last_name": "Perez Alonzo",
+    "rating": 8.25,
+    "num_ratings": 4
+  },
+  {
+    "code": "1535",
+    "group": "3",
+    "professor": "KAROL JOSHUA MARTINEZ ROSETE",
+    "schedules": [
+      {
+        "time": "15:00-16:30",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "Y202"
+      },
+      {
+        "time": "15:00-17:00",
+        "days": [
+          5
+        ],
+        "classroom": "T101"
+      }
+    ]
   }
 ]

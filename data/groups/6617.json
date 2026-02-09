@@ -1,6 +1,20 @@
 [
   {
     "code": "6617",
+    "group": "3",
+    "professor": "ARMANDO ROJAS ASCENCIO",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1
+        ],
+        "classroom": "Q101"
+      }
+    ]
+  },
+  {
+    "code": "6617",
     "group": "1",
     "professor": "ADOLFO ROJAS JUAREZ",
     "schedules": [
@@ -9,7 +23,7 @@
         "days": [
           1
         ],
-        "classroom": "14"
+        "classroom": "Q101"
       }
     ]
   },
@@ -23,28 +37,14 @@
         "days": [
           1
         ],
-        "classroom": "12"
+        "classroom": "Q106"
       }
     ],
     "professor_id": 94156,
     "first_name": "Jaime Hector",
     "last_name": "Murillo Quintero",
-    "rating": 4.5714,
-    "num_ratings": 21
-  },
-  {
-    "code": "6617",
-    "group": "3",
-    "professor": "ARMANDO ROJAS ASCENCIO",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          1
-        ],
-        "classroom": "14"
-      }
-    ]
+    "rating": 4.7273,
+    "num_ratings": 22
   },
   {
     "code": "6617",
@@ -56,7 +56,7 @@
         "days": [
           2
         ],
-        "classroom": "14"
+        "classroom": "Q101"
       }
     ],
     "professor_id": 78454,
@@ -75,7 +75,7 @@
         "days": [
           2
         ],
-        "classroom": "14"
+        "classroom": "Q101"
       }
     ]
   },
@@ -89,7 +89,7 @@
         "days": [
           3
         ],
-        "classroom": "14"
+        "classroom": "Q101"
       }
     ],
     "professor_id": 112721,
@@ -108,7 +108,7 @@
         "days": [
           4
         ],
-        "classroom": "14"
+        "classroom": "Q101"
       }
     ],
     "professor_id": 80201,
@@ -127,7 +127,7 @@
         "days": [
           4
         ],
-        "classroom": "14"
+        "classroom": "Q101"
       }
     ],
     "professor_id": 161304,
@@ -146,7 +146,7 @@
         "days": [
           4
         ],
-        "classroom": "14"
+        "classroom": "Q101"
       }
     ],
     "professor_id": 161304,
@@ -165,14 +165,14 @@
         "days": [
           5
         ],
-        "classroom": "14"
+        "classroom": "Q101"
       }
     ],
     "professor_id": 94156,
     "first_name": "Jaime Hector",
     "last_name": "Murillo Quintero",
-    "rating": 4.5714,
-    "num_ratings": 21
+    "rating": 4.7273,
+    "num_ratings": 22
   },
   {
     "code": "6617",
@@ -184,7 +184,7 @@
         "days": [
           5
         ],
-        "classroom": "14"
+        "classroom": "Q101"
       }
     ],
     "professor_id": 161304,
