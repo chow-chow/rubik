@@ -1,56 +1,6 @@
 [
   {
     "code": "1444",
-    "group": "4",
-    "professor": "JESUS HUGO MEZA PUESTO",
-    "schedules": [
-      {
-        "time": "16:00-17:30",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "A304"
-      }
-    ]
-  },
-  {
-    "code": "1444",
-    "group": "6",
-    "professor": "JESUS HUGO MEZA PUESTO",
-    "schedules": [
-      {
-        "time": "14:30-16:00",
-        "days": [
-          3,
-          5
-        ],
-        "classroom": "A308"
-      }
-    ]
-  },
-  {
-    "code": "1444",
-    "group": "7",
-    "professor": "HERIBERTO ESQUIVEL CASTELLANOS",
-    "schedules": [
-      {
-        "time": "14:30-16:00",
-        "days": [
-          3,
-          5
-        ],
-        "classroom": "A307"
-      }
-    ],
-    "professor_id": 21650,
-    "first_name": "heriberto",
-    "last_name": "esquivel castellanos",
-    "rating": 7.175,
-    "num_ratings": 40
-  },
-  {
-    "code": "1444",
     "group": "1",
     "professor": "ALVARO JORGE ORTIZ FERNANDEZ",
     "schedules": [
@@ -111,6 +61,21 @@
   },
   {
     "code": "1444",
+    "group": "4",
+    "professor": "Grupo cancelado, contactar a la División.",
+    "schedules": [
+      {
+        "time": "16:00-17:30",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A304"
+      }
+    ]
+  },
+  {
+    "code": "1444",
     "group": "5",
     "professor": "JOSE ALONSO ALANIS ROJAS",
     "schedules": [
@@ -123,6 +88,41 @@
         "classroom": "Y205"
       }
     ]
+  },
+  {
+    "code": "1444",
+    "group": "6",
+    "professor": "Grupo cancelado, contactar a la División.",
+    "schedules": [
+      {
+        "time": "14:30-16:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "A308"
+      }
+    ]
+  },
+  {
+    "code": "1444",
+    "group": "7",
+    "professor": "HERIBERTO ESQUIVEL CASTELLANOS",
+    "schedules": [
+      {
+        "time": "14:30-16:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "A307"
+      }
+    ],
+    "professor_id": 21650,
+    "first_name": "heriberto",
+    "last_name": "esquivel castellanos",
+    "rating": 7.175,
+    "num_ratings": 40
   },
   {
     "code": "1444",

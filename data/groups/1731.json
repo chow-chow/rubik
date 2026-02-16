@@ -1,48 +1,6 @@
 [
   {
     "code": "1731",
-    "group": "2",
-    "professor": "LEON MANUEL GARAY ACEVEDO",
-    "schedules": [
-      {
-        "time": "07:00-08:30",
-        "days": [
-          1,
-          3,
-          5
-        ],
-        "classroom": "A307"
-      }
-    ],
-    "professor_id": 184691,
-    "first_name": "LEON MANUEL",
-    "last_name": "GARAY ACEVEDO",
-    "rating": 7.0,
-    "num_ratings": 2
-  },
-  {
-    "code": "1731",
-    "group": "5",
-    "professor": "GUILLERMO MANCILLA URREA",
-    "schedules": [
-      {
-        "time": "17:30-19:00",
-        "days": [
-          1,
-          3,
-          5
-        ],
-        "classroom": "A303"
-      }
-    ],
-    "professor_id": 104937,
-    "first_name": "GUILLERMO",
-    "last_name": "MANCILLA URREA",
-    "rating": 8.381,
-    "num_ratings": 21
-  },
-  {
-    "code": "1731",
     "group": "1",
     "professor": "MICHIKO AMEMIYA RAMIREZ",
     "schedules": [
@@ -60,6 +18,27 @@
     "first_name": "Michiko",
     "last_name": "Amemiya Ramirez",
     "rating": 9.5,
+    "num_ratings": 2
+  },
+  {
+    "code": "1731",
+    "group": "2",
+    "professor": "LEON MANUEL GARAY ACEVEDO",
+    "schedules": [
+      {
+        "time": "07:00-08:30",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "A307"
+      }
+    ],
+    "professor_id": 184691,
+    "first_name": "LEON MANUEL",
+    "last_name": "GARAY ACEVEDO",
+    "rating": 7.0,
     "num_ratings": 2
   },
   {
@@ -90,6 +69,27 @@
     "schedules": [
       {
         "time": "16:00-17:30",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "A303"
+      }
+    ],
+    "professor_id": 104937,
+    "first_name": "GUILLERMO",
+    "last_name": "MANCILLA URREA",
+    "rating": 8.381,
+    "num_ratings": 21
+  },
+  {
+    "code": "1731",
+    "group": "5",
+    "professor": "GUILLERMO MANCILLA URREA",
+    "schedules": [
+      {
+        "time": "17:30-19:00",
         "days": [
           1,
           3,

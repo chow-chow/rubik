@@ -1,20 +1,6 @@
 [
   {
     "code": "6617",
-    "group": "3",
-    "professor": "ARMANDO ROJAS ASCENCIO",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          1
-        ],
-        "classroom": "Q101"
-      }
-    ]
-  },
-  {
-    "code": "6617",
     "group": "1",
     "professor": "ADOLFO ROJAS JUAREZ",
     "schedules": [
@@ -45,6 +31,20 @@
     "last_name": "Murillo Quintero",
     "rating": 4.7273,
     "num_ratings": 22
+  },
+  {
+    "code": "6617",
+    "group": "3",
+    "professor": "ARMANDO ROJAS ASCENCIO",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1
+        ],
+        "classroom": "Q101"
+      }
+    ]
   },
   {
     "code": "6617",

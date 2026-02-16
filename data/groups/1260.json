@@ -2,21 +2,21 @@
   {
     "code": "1260",
     "group": "1",
-    "professor": "ERIK VARGAS ROJASVer Nota 1",
+    "professor": "Grupo cancelado, contactar a la División.",
     "schedules": [
-      {
-        "time": "11:30-13:00",
-        "days": [
-          4
-        ],
-        "classroom": "Y204"
-      },
       {
         "time": "11:30-13:00",
         "days": [
           5
         ],
         "classroom": "A405"
+      },
+      {
+        "time": "11:30-13:00",
+        "days": [
+          4
+        ],
+        "classroom": "Y204"
       }
     ]
   }

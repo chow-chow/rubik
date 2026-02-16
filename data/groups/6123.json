@@ -15,6 +15,96 @@
   },
   {
     "code": "6123",
+    "group": "2",
+    "professor": "ROXANA ISELA NORIEGA NAVARRO",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1
+        ],
+        "classroom": "H003"
+      }
+    ]
+  },
+  {
+    "code": "6123",
+    "group": "3",
+    "professor": "GEORGINA NIETO CASTAÑEDA",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2
+        ],
+        "classroom": "H003"
+      }
+    ],
+    "professor_id": 142352,
+    "first_name": "Georgina",
+    "last_name": "Nieto Castañeda",
+    "rating": 7.0,
+    "num_ratings": 2
+  },
+  {
+    "code": "6123",
+    "group": "4",
+    "professor": "LIOUDMILA FOMINA",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2
+        ],
+        "classroom": "H003"
+      }
+    ],
+    "professor_id": 60337,
+    "first_name": "Lioudmila Dra.",
+    "last_name": "Fomina",
+    "rating": 8.5385,
+    "num_ratings": 13
+  },
+  {
+    "code": "6123",
+    "group": "5",
+    "professor": "FABIOLA VEGA GARCIA",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          2
+        ],
+        "classroom": "H003"
+      }
+    ],
+    "professor_id": 177118,
+    "first_name": "Fabiola",
+    "last_name": "Vega García",
+    "rating": 10.0,
+    "num_ratings": 2
+  },
+  {
+    "code": "6123",
+    "group": "6",
+    "professor": "THALIA ITZEL FERRERA VELAZQUEZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2
+        ],
+        "classroom": "H003"
+      }
+    ],
+    "professor_id": 84707,
+    "first_name": "Thalia Itzel",
+    "last_name": "Ferrera Velazquez",
+    "rating": 8.875,
+    "num_ratings": 32
+  },
+  {
+    "code": "6123",
     "group": "7",
     "professor": "MARIA DE JESUS MUÑOZ ESPINAL",
     "schedules": [
@@ -121,96 +211,6 @@
     "last_name": "Perez Leon",
     "rating": 9.4375,
     "num_ratings": 48
-  },
-  {
-    "code": "6123",
-    "group": "2",
-    "professor": "ROXANA ISELA NORIEGA NAVARRO",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          1
-        ],
-        "classroom": "H003"
-      }
-    ]
-  },
-  {
-    "code": "6123",
-    "group": "3",
-    "professor": "GEORGINA NIETO CASTAÑEDA",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          2
-        ],
-        "classroom": "H003"
-      }
-    ],
-    "professor_id": 142352,
-    "first_name": "Georgina",
-    "last_name": "Nieto Castañeda",
-    "rating": 7.0,
-    "num_ratings": 2
-  },
-  {
-    "code": "6123",
-    "group": "4",
-    "professor": "LIOUDMILA FOMINA",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          2
-        ],
-        "classroom": "H003"
-      }
-    ],
-    "professor_id": 60337,
-    "first_name": "Lioudmila Dra.",
-    "last_name": "Fomina",
-    "rating": 8.5385,
-    "num_ratings": 13
-  },
-  {
-    "code": "6123",
-    "group": "5",
-    "professor": "FABIOLA VEGA GARCIA",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          2
-        ],
-        "classroom": "H003"
-      }
-    ],
-    "professor_id": 177118,
-    "first_name": "Fabiola",
-    "last_name": "Vega García",
-    "rating": 10.0,
-    "num_ratings": 2
-  },
-  {
-    "code": "6123",
-    "group": "6",
-    "professor": "THALIA ITZEL FERRERA VELAZQUEZ",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          2
-        ],
-        "classroom": "H003"
-      }
-    ],
-    "professor_id": 84707,
-    "first_name": "Thalia Itzel",
-    "last_name": "Ferrera Velazquez",
-    "rating": 8.875,
-    "num_ratings": 32
   },
   {
     "code": "6123",

@@ -1,16 +1,16 @@
 [
   {
-    "code": "1024",
-    "group": "2",
+    "code": "3049",
+    "group": "1",
     "professor": "Grupo cancelado, contactar a la División.",
     "schedules": [
       {
-        "time": "13:00-15:00",
+        "time": "13:00-14:30",
         "days": [
-          1,
-          3
+          2,
+          4
         ],
-        "classroom": "A401"
+        "classroom": "SIN"
       }
     ]
   }

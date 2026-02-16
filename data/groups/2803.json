@@ -1,41 +1,6 @@
 [
   {
     "code": "2803",
-    "group": "2",
-    "professor": "PROFESOR POR ASIGNAR",
-    "schedules": [
-      {
-        "time": "19:00-20:30",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "A212"
-      }
-    ]
-  },
-  {
-    "code": "2803",
-    "group": "5",
-    "professor": "ALEJANDRO JOSE LEO VARGAS",
-    "schedules": [
-      {
-        "time": "19:00-20:30",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "A303"
-      }
-    ],
-    "professor_id": 146711,
-    "first_name": "ALEJANDRO JOSE",
-    "last_name": "LEO VARGAS",
-    "rating": 4.8333,
-    "num_ratings": 6
-  },
-  {
-    "code": "2803",
     "group": "1",
     "professor": "GUILLERMO LUIS LAURO ESQUIVEL CASTAÑEDA",
     "schedules": [
@@ -53,6 +18,21 @@
     "last_name": "Esquivel Castañeda",
     "rating": 5.3333,
     "num_ratings": 3
+  },
+  {
+    "code": "2803",
+    "group": "2",
+    "professor": "PROFESOR POR ASIGNAR",
+    "schedules": [
+      {
+        "time": "19:00-20:30",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "A212"
+      }
+    ]
   },
   {
     "code": "2803",
@@ -88,5 +68,25 @@
     "last_name": "MANCILLA URREA",
     "rating": 8.381,
     "num_ratings": 21
+  },
+  {
+    "code": "2803",
+    "group": "5",
+    "professor": "ALEJANDRO JOSE LEO VARGAS",
+    "schedules": [
+      {
+        "time": "19:00-20:30",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A303"
+      }
+    ],
+    "professor_id": 146711,
+    "first_name": "ALEJANDRO JOSE",
+    "last_name": "LEO VARGAS",
+    "rating": 4.8333,
+    "num_ratings": 6
   }
 ]

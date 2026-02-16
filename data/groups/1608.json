@@ -21,41 +21,6 @@
   },
   {
     "code": "1608",
-    "group": "4",
-    "professor": "ENRIQUE GAVALDON ENCISO",
-    "schedules": [
-      {
-        "time": "11:30-13:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "A208"
-      }
-    ],
-    "professor_id": 161595,
-    "first_name": "Enrique",
-    "last_name": "Gavaldon Enciso",
-    "rating": 6.5,
-    "num_ratings": 2
-  },
-  {
-    "code": "1608",
-    "group": "5",
-    "professor": "JUAN MIGUEL PASTEN MARTINEZ",
-    "schedules": [
-      {
-        "time": "16:00-17:30",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "A208"
-      }
-    ]
-  },
-  {
-    "code": "1608",
     "group": "2",
     "professor": "PEDRO LUIS BARRERA DEL CAMPO OLAVARRIETA",
     "schedules": [
@@ -86,6 +51,41 @@
           4
         ],
         "classroom": "A304"
+      }
+    ]
+  },
+  {
+    "code": "1608",
+    "group": "4",
+    "professor": "ENRIQUE GAVALDON ENCISO",
+    "schedules": [
+      {
+        "time": "11:30-13:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A208"
+      }
+    ],
+    "professor_id": 161595,
+    "first_name": "Enrique",
+    "last_name": "Gavaldon Enciso",
+    "rating": 6.5,
+    "num_ratings": 2
+  },
+  {
+    "code": "1608",
+    "group": "5",
+    "professor": "JUAN MIGUEL PASTEN MARTINEZ",
+    "schedules": [
+      {
+        "time": "16:00-17:30",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A208"
       }
     ]
   }

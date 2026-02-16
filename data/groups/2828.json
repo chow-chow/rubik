@@ -1,6 +1,21 @@
 [
   {
     "code": "2828",
+    "group": "1",
+    "professor": "CESAR ABRAHAM LUNA ESTRADAVer Nota 1",
+    "schedules": [
+      {
+        "time": "19:00-20:30",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "Y204"
+      }
+    ]
+  },
+  {
+    "code": "2828",
     "group": "2",
     "professor": "SANTIAGO ZURIEL AGUILLON SALAZARVer Nota 1",
     "schedules": [
@@ -21,36 +36,6 @@
   },
   {
     "code": "2828",
-    "group": "4",
-    "professor": "ERIK VARGAS ROJASVer Nota 1",
-    "schedules": [
-      {
-        "time": "10:00-11:30",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "Y204"
-      }
-    ]
-  },
-  {
-    "code": "2828",
-    "group": "1",
-    "professor": "CESAR ABRAHAM LUNA ESTRADAVer Nota 1",
-    "schedules": [
-      {
-        "time": "19:00-20:30",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "Y204"
-      }
-    ]
-  },
-  {
-    "code": "2828",
     "group": "3",
     "professor": "BARBARA BERMUDEZ REYESVer Nota 1",
     "schedules": [
@@ -61,6 +46,21 @@
           4
         ],
         "classroom": "EXTR"
+      }
+    ]
+  },
+  {
+    "code": "2828",
+    "group": "4",
+    "professor": "ERIK VARGAS ROJASVer Nota 1",
+    "schedules": [
+      {
+        "time": "10:00-11:30",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "Y204"
       }
     ]
   }

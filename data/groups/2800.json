@@ -1,6 +1,21 @@
 [
   {
     "code": "2800",
+    "group": "1",
+    "professor": "MARIO ALBERTO ARELLANO CECILIANO",
+    "schedules": [
+      {
+        "time": "10:00-11:30",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "A309"
+      }
+    ]
+  },
+  {
+    "code": "2800",
     "group": "2",
     "professor": "CRISTIAN EMMANUEL GONZALEZ REYES",
     "schedules": [
@@ -41,35 +56,6 @@
   },
   {
     "code": "2800",
-    "group": "6",
-    "professor": "MARIO ALBERTO ARELLANO CECILIANO",
-    "schedules": [
-      {
-        "time": "07:00-10:00",
-        "days": [
-          5
-        ],
-        "classroom": "A207"
-      }
-    ]
-  },
-  {
-    "code": "2800",
-    "group": "1",
-    "professor": "MARIO ALBERTO ARELLANO CECILIANO",
-    "schedules": [
-      {
-        "time": "10:00-11:30",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "A309"
-      }
-    ]
-  },
-  {
-    "code": "2800",
     "group": "4",
     "professor": "ELIO MANUEL PIMENTEL ALVAREZ",
     "schedules": [
@@ -95,6 +81,20 @@
           4
         ],
         "classroom": "A303"
+      }
+    ]
+  },
+  {
+    "code": "2800",
+    "group": "6",
+    "professor": "MARIO ALBERTO ARELLANO CECILIANO",
+    "schedules": [
+      {
+        "time": "07:00-10:00",
+        "days": [
+          5
+        ],
+        "classroom": "A207"
       }
     ]
   }

@@ -1,6 +1,26 @@
 [
   {
     "code": "1583",
+    "group": "1",
+    "professor": "JAVIER MANCERA ALEJANDREZ",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "C103"
+      }
+    ],
+    "professor_id": 90939,
+    "first_name": "Javier",
+    "last_name": "Mancera Alejandrez",
+    "rating": 5.3333,
+    "num_ratings": 6
+  },
+  {
+    "code": "1583",
     "group": "2",
     "professor": "SERVANDO ARANA GARCIA",
     "schedules": [
@@ -27,25 +47,5 @@
         "classroom": "C303"
       }
     ]
-  },
-  {
-    "code": "1583",
-    "group": "1",
-    "professor": "JAVIER MANCERA ALEJANDREZ",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "C103"
-      }
-    ],
-    "professor_id": 90939,
-    "first_name": "Javier",
-    "last_name": "Mancera Alejandrez",
-    "rating": 5.3333,
-    "num_ratings": 6
   }
 ]

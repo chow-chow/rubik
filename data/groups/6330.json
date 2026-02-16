@@ -20,25 +20,6 @@
   },
   {
     "code": "6330",
-    "group": "3",
-    "professor": "LUIS ANDRES SUAREZ HERNANDEZ",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          4
-        ],
-        "classroom": "G002"
-      }
-    ],
-    "professor_id": 68185,
-    "first_name": "Luis Andrés",
-    "last_name": "Suárez Hernández",
-    "rating": 7.2609,
-    "num_ratings": 23
-  },
-  {
-    "code": "6330",
     "group": "2",
     "professor": "LUCIA YAZMIN JUAREZ DE LA MORA",
     "schedules": [
@@ -55,6 +36,25 @@
     "last_name": "Juárez de la Mora",
     "rating": 6.6522,
     "num_ratings": 46
+  },
+  {
+    "code": "6330",
+    "group": "3",
+    "professor": "LUIS ANDRES SUAREZ HERNANDEZ",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          4
+        ],
+        "classroom": "G002"
+      }
+    ],
+    "professor_id": 68185,
+    "first_name": "Luis Andrés",
+    "last_name": "Suárez Hernández",
+    "rating": 7.2609,
+    "num_ratings": 23
   },
   {
     "code": "6330",

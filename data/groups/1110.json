@@ -2,7 +2,7 @@
   {
     "code": "1110",
     "group": "1",
-    "professor": "Grupo cancelado, contactar a la División.",
+    "professor": "MARIO GUEVARA SALAZAR",
     "schedules": [
       {
         "time": "12:00-17:00",
@@ -11,6 +11,11 @@
         ],
         "classroom": "R029"
       }
-    ]
+    ],
+    "professor_id": 44322,
+    "first_name": "mario",
+    "last_name": "guevara",
+    "rating": 3.9231,
+    "num_ratings": 13
   }
 ]

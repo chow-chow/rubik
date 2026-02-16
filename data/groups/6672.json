@@ -1,82 +1,6 @@
 [
   {
     "code": "6672",
-    "group": "3",
-    "professor": "DIANA AURORA CRUZ HERNANDEZ",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          2
-        ],
-        "classroom": "Q209"
-      }
-    ],
-    "professor_id": 94396,
-    "first_name": "DIANA",
-    "last_name": "CRUZ HERNANDEZ",
-    "rating": 5.2,
-    "num_ratings": 10
-  },
-  {
-    "code": "6672",
-    "group": "5",
-    "professor": "DIANA AURORA CRUZ HERNANDEZ",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          3
-        ],
-        "classroom": "Q209"
-      }
-    ],
-    "professor_id": 94396,
-    "first_name": "DIANA",
-    "last_name": "CRUZ HERNANDEZ",
-    "rating": 5.2,
-    "num_ratings": 10
-  },
-  {
-    "code": "6672",
-    "group": "9",
-    "professor": "ROMAN VICTORIANO OSORIO COMPARAN",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          5
-        ],
-        "classroom": "Q209"
-      }
-    ],
-    "professor_id": 108136,
-    "first_name": "Roman Victoriano",
-    "last_name": "Osorio Comparan",
-    "rating": 6.65,
-    "num_ratings": 20
-  },
-  {
-    "code": "6672",
-    "group": "10",
-    "professor": "ROMAN VICTORIANO OSORIO COMPARAN",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          5
-        ],
-        "classroom": "Q209"
-      }
-    ],
-    "professor_id": 108136,
-    "first_name": "Roman Victoriano",
-    "last_name": "Osorio Comparan",
-    "rating": 6.65,
-    "num_ratings": 20
-  },
-  {
-    "code": "6672",
     "group": "1",
     "professor": "MOISES MELENDEZ REYES",
     "schedules": [
@@ -115,6 +39,25 @@
   },
   {
     "code": "6672",
+    "group": "3",
+    "professor": "DIANA AURORA CRUZ HERNANDEZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2
+        ],
+        "classroom": "Q209"
+      }
+    ],
+    "professor_id": 94396,
+    "first_name": "DIANA",
+    "last_name": "CRUZ HERNANDEZ",
+    "rating": 5.2,
+    "num_ratings": 10
+  },
+  {
+    "code": "6672",
     "group": "4",
     "professor": "RUBEN ANAYA GARCIA",
     "schedules": [
@@ -131,6 +74,25 @@
     "last_name": "ANAYA GARCIA",
     "rating": 8.25,
     "num_ratings": 16
+  },
+  {
+    "code": "6672",
+    "group": "5",
+    "professor": "DIANA AURORA CRUZ HERNANDEZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          3
+        ],
+        "classroom": "Q209"
+      }
+    ],
+    "professor_id": 94396,
+    "first_name": "DIANA",
+    "last_name": "CRUZ HERNANDEZ",
+    "rating": 5.2,
+    "num_ratings": 10
   },
   {
     "code": "6672",
@@ -191,8 +153,46 @@
   },
   {
     "code": "6672",
+    "group": "9",
+    "professor": "ROMAN VICTORIANO OSORIO COMPARAN",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          5
+        ],
+        "classroom": "Q209"
+      }
+    ],
+    "professor_id": 108136,
+    "first_name": "Roman Victoriano",
+    "last_name": "Osorio Comparan",
+    "rating": 6.65,
+    "num_ratings": 20
+  },
+  {
+    "code": "6672",
+    "group": "10",
+    "professor": "ROMAN VICTORIANO OSORIO COMPARAN",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          5
+        ],
+        "classroom": "Q209"
+      }
+    ],
+    "professor_id": 108136,
+    "first_name": "Roman Victoriano",
+    "last_name": "Osorio Comparan",
+    "rating": 6.65,
+    "num_ratings": 20
+  },
+  {
+    "code": "6672",
     "group": "11",
-    "professor": "PROFESOR POR ASIGNAR",
+    "professor": "ABRAHAM PEREZ ALONZO",
     "schedules": [
       {
         "time": "09:00-11:00",
@@ -201,12 +201,17 @@
         ],
         "classroom": "Q209"
       }
-    ]
+    ],
+    "professor_id": 186596,
+    "first_name": "Abraham",
+    "last_name": "Perez Alonzo",
+    "rating": 8.25,
+    "num_ratings": 4
   },
   {
     "code": "6672",
     "group": "12",
-    "professor": "PROFESOR POR ASIGNAR",
+    "professor": "ABRAHAM PEREZ ALONZO",
     "schedules": [
       {
         "time": "11:00-13:00",
@@ -215,6 +220,11 @@
         ],
         "classroom": "Q209"
       }
-    ]
+    ],
+    "professor_id": 186596,
+    "first_name": "Abraham",
+    "last_name": "Perez Alonzo",
+    "rating": 8.25,
+    "num_ratings": 4
   }
 ]

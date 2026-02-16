@@ -21,6 +21,21 @@
   },
   {
     "code": "1797",
+    "group": "2",
+    "professor": "JIMENA OLVERES MONTIEL",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "EXTR"
+      }
+    ]
+  },
+  {
+    "code": "1797",
     "group": "3",
     "professor": "EDGAR ANTONIO HERNANDEZ TIRADO",
     "schedules": [
@@ -30,6 +45,21 @@
           6
         ],
         "classroom": "X101"
+      }
+    ]
+  },
+  {
+    "code": "1797",
+    "group": "4",
+    "professor": "EDGAR ANTONIO HERNANDEZ TIRADO",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "EXTR"
       }
     ]
   }

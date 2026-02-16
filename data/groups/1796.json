@@ -15,67 +15,6 @@
   },
   {
     "code": "1796",
-    "group": "5",
-    "professor": "JOSE FRANCISCO ALBARRAN NUÑEZVer Nota 1",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          4
-        ],
-        "classroom": "A101"
-      }
-    ]
-  },
-  {
-    "code": "1796",
-    "group": "7",
-    "professor": "JOSE FRANCISCO ALBARRAN NUÑEZ",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          1
-        ],
-        "classroom": "Y101"
-      }
-    ]
-  },
-  {
-    "code": "1796",
-    "group": "8",
-    "professor": "ROSA ISELA MARQUEZ MONROY",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          1
-        ],
-        "classroom": "A202"
-      }
-    ]
-  },
-  {
-    "code": "1796",
-    "group": "10",
-    "professor": "ZAIRA LINETTE TORRES CORTES",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          4
-        ],
-        "classroom": "A105"
-      }
-    ],
-    "professor_id": 140654,
-    "first_name": "Zaira Linette",
-    "last_name": "Torres Cortés",
-    "rating": 8.4286,
-    "num_ratings": 21
-  },
-  {
-    "code": "1796",
     "group": "2",
     "professor": "ALEJANDRA GARNICA ARROYO",
     "schedules": [
@@ -123,6 +62,20 @@
   },
   {
     "code": "1796",
+    "group": "5",
+    "professor": "JOSE FRANCISCO ALBARRAN NUÑEZVer Nota 1",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          4
+        ],
+        "classroom": "A101"
+      }
+    ]
+  },
+  {
+    "code": "1796",
     "group": "6",
     "professor": "DIEGO JAVIER SANTAMARIA NAJERA",
     "schedules": [
@@ -139,5 +92,52 @@
     "last_name": "Santamaría Nájera",
     "rating": 10.0,
     "num_ratings": 6
+  },
+  {
+    "code": "1796",
+    "group": "7",
+    "professor": "JOSE FRANCISCO ALBARRAN NUÑEZ",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          1
+        ],
+        "classroom": "Y101"
+      }
+    ]
+  },
+  {
+    "code": "1796",
+    "group": "8",
+    "professor": "ROSA ISELA MARQUEZ MONROY",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          1
+        ],
+        "classroom": "A202"
+      }
+    ]
+  },
+  {
+    "code": "1796",
+    "group": "10",
+    "professor": "ZAIRA LINETTE TORRES CORTES",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          4
+        ],
+        "classroom": "A105"
+      }
+    ],
+    "professor_id": 140654,
+    "first_name": "Zaira Linette",
+    "last_name": "Torres Cortés",
+    "rating": 8.4286,
+    "num_ratings": 21
   }
 ]

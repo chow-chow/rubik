@@ -1,26 +1,6 @@
 [
   {
     "code": "1337",
-    "group": "2",
-    "professor": "AMPARO BAÑUELOS DURAN",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          3,
-          5
-        ],
-        "classroom": "J211"
-      }
-    ],
-    "professor_id": 84651,
-    "first_name": "Amparo",
-    "last_name": "Bañuelos Duran",
-    "rating": 6.55,
-    "num_ratings": 20
-  },
-  {
-    "code": "1337",
     "group": "1",
     "professor": "ALEJANDRO MORALES TREJO",
     "schedules": [
@@ -38,5 +18,25 @@
     "last_name": "Morales Trejo",
     "rating": 8.6207,
     "num_ratings": 58
+  },
+  {
+    "code": "1337",
+    "group": "2",
+    "professor": "AMPARO BAÑUELOS DURAN",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "J211"
+      }
+    ],
+    "professor_id": 84651,
+    "first_name": "Amparo",
+    "last_name": "Bañuelos Duran",
+    "rating": 6.4286,
+    "num_ratings": 21
   }
 ]

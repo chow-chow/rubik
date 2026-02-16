@@ -7,8 +7,14 @@
       {
         "time": "07:00-09:00",
         "days": [
-          2,
           4
+        ],
+        "classroom": "I305"
+      },
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2
         ],
         "classroom": "I103"
       }
@@ -18,6 +24,26 @@
     "last_name": "Luna Ceballos",
     "rating": 8.4024,
     "num_ratings": 82
+  },
+  {
+    "code": "1445",
+    "group": "2",
+    "professor": "MIRIAM ESTELA LEMUS",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "J205"
+      }
+    ],
+    "professor_id": 76408,
+    "first_name": "ESTELA",
+    "last_name": "LEMUS MIRIAM",
+    "rating": 6.0,
+    "num_ratings": 2
   },
   {
     "code": "1445",
@@ -42,48 +68,8 @@
     "professor_id": 84651,
     "first_name": "Amparo",
     "last_name": "Bañuelos Duran",
-    "rating": 6.55,
-    "num_ratings": 20
-  },
-  {
-    "code": "1445",
-    "group": "8",
-    "professor": "DIANA SORIANO FERNANDEZ",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "I105"
-      }
-    ],
-    "professor_id": 162444,
-    "first_name": "Diana",
-    "last_name": "Soriano Fernández",
-    "rating": 7.1333,
-    "num_ratings": 15
-  },
-  {
-    "code": "1445",
-    "group": "2",
-    "professor": "MIRIAM ESTELA LEMUS",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "J205"
-      }
-    ],
-    "professor_id": 76408,
-    "first_name": "ESTELA",
-    "last_name": "LEMUS MIRIAM",
-    "rating": 6.0,
-    "num_ratings": 2
+    "rating": 6.4286,
+    "num_ratings": 21
   },
   {
     "code": "1445",
@@ -159,5 +145,25 @@
     "last_name": "Alvarado Lopez",
     "rating": 7.0,
     "num_ratings": 6
+  },
+  {
+    "code": "1445",
+    "group": "8",
+    "professor": "DIANA SORIANO FERNANDEZ",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "I105"
+      }
+    ],
+    "professor_id": 162444,
+    "first_name": "Diana",
+    "last_name": "Soriano Fernández",
+    "rating": 7.1333,
+    "num_ratings": 15
   }
 ]

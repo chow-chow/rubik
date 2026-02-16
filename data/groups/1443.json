@@ -1,26 +1,6 @@
 [
   {
     "code": "1443",
-    "group": "4",
-    "professor": "ABEL VILLANUEVA PEÑA",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "B206"
-      }
-    ],
-    "professor_id": 60921,
-    "first_name": "ABEL",
-    "last_name": "VILLANUEVA PEÑA",
-    "rating": 5.1333,
-    "num_ratings": 30
-  },
-  {
-    "code": "1443",
     "group": "1",
     "professor": "JUAN MANUEL GOMEZ GONZALEZ",
     "schedules": [
@@ -78,6 +58,26 @@
     "last_name": "Arredondo Garza",
     "rating": 8.0,
     "num_ratings": 5
+  },
+  {
+    "code": "1443",
+    "group": "4",
+    "professor": "ABEL VILLANUEVA PEÑA",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "B206"
+      }
+    ],
+    "professor_id": 60921,
+    "first_name": "ABEL",
+    "last_name": "VILLANUEVA PEÑA",
+    "rating": 5.0323,
+    "num_ratings": 31
   },
   {
     "code": "1443",

@@ -1,26 +1,6 @@
 [
   {
     "code": "1959",
-    "group": "5",
-    "professor": "JOSE ABRAHAM BONILLA PASTOR",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "B305"
-      }
-    ],
-    "professor_id": 172879,
-    "first_name": "José Abraham",
-    "last_name": "Bonilla Pastor",
-    "rating": 7.1,
-    "num_ratings": 10
-  },
-  {
-    "code": "1959",
     "group": "1",
     "professor": "JOSE ANTONIO AYALA BARBOSA",
     "schedules": [
@@ -98,5 +78,25 @@
     "last_name": "BUSTILLO HERNANDEZ",
     "rating": 2.57,
     "num_ratings": 7
+  },
+  {
+    "code": "1959",
+    "group": "5",
+    "professor": "JOSE ABRAHAM BONILLA PASTOR",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "B305"
+      }
+    ],
+    "professor_id": 172879,
+    "first_name": "José Abraham",
+    "last_name": "Bonilla Pastor",
+    "rating": 7.1,
+    "num_ratings": 10
   }
 ]

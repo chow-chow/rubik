@@ -22,90 +22,6 @@
   },
   {
     "code": "1121",
-    "group": "8",
-    "professor": "LUIS HUMBERTO SORIANO SANCHEZ",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          1,
-          3,
-          5
-        ],
-        "classroom": "J207"
-      }
-    ],
-    "professor_id": 25670,
-    "first_name": "Luis Humberto",
-    "last_name": "Soriano Sánchez",
-    "rating": 8.8646,
-    "num_ratings": 96
-  },
-  {
-    "code": "1121",
-    "group": "19",
-    "professor": "VERONICA HIKRA GARCIA CASANOVA",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          2,
-          3,
-          4
-        ],
-        "classroom": "I305"
-      }
-    ],
-    "professor_id": 46460,
-    "first_name": "Veronica Hikra",
-    "last_name": "Garcia Casanova",
-    "rating": 5.1304,
-    "num_ratings": 46
-  },
-  {
-    "code": "1121",
-    "group": "20",
-    "professor": "VICTOR HUGO PIÑA RAMIREZ",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          1,
-          3,
-          5
-        ],
-        "classroom": "I203"
-      }
-    ],
-    "professor_id": 36531,
-    "first_name": "Victor Hugo",
-    "last_name": "Piña Ramirez",
-    "rating": 8.3939,
-    "num_ratings": 132
-  },
-  {
-    "code": "1121",
-    "group": "21",
-    "professor": "ARTURO CAMACHO TRUJILLO",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          2,
-          3,
-          4
-        ],
-        "classroom": "I104"
-      }
-    ],
-    "professor_id": 74045,
-    "first_name": "Arturo",
-    "last_name": "Camacho Trujillo",
-    "rating": 4.4,
-    "num_ratings": 40
-  },
-  {
-    "code": "1121",
     "group": "2",
     "professor": "MARIA ELIZABETH ESQUIVEL RODRIGUEZ",
     "schedules": [
@@ -211,6 +127,27 @@
   },
   {
     "code": "1121",
+    "group": "8",
+    "professor": "LUIS HUMBERTO SORIANO SANCHEZ",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "J207"
+      }
+    ],
+    "professor_id": 25670,
+    "first_name": "Luis Humberto",
+    "last_name": "Soriano Sánchez",
+    "rating": 8.8646,
+    "num_ratings": 96
+  },
+  {
+    "code": "1121",
     "group": "9",
     "professor": "MARIA TERESA PEÑUÑURI SANTOYO",
     "schedules": [
@@ -301,17 +238,17 @@
       {
         "time": "13:00-15:00",
         "days": [
-          3
-        ],
-        "classroom": "J102"
-      },
-      {
-        "time": "13:00-15:00",
-        "days": [
           1,
           5
         ],
         "classroom": "J106"
+      },
+      {
+        "time": "13:00-15:00",
+        "days": [
+          3
+        ],
+        "classroom": "J102"
       }
     ],
     "professor_id": 27999,
@@ -424,5 +361,68 @@
     "last_name": "Pérez Pérez",
     "rating": 8.3182,
     "num_ratings": 44
+  },
+  {
+    "code": "1121",
+    "group": "19",
+    "professor": "VERONICA HIKRA GARCIA CASANOVA",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2,
+          3,
+          4
+        ],
+        "classroom": "I305"
+      }
+    ],
+    "professor_id": 46460,
+    "first_name": "Veronica Hikra",
+    "last_name": "Garcia Casanova",
+    "rating": 5.1304,
+    "num_ratings": 46
+  },
+  {
+    "code": "1121",
+    "group": "20",
+    "professor": "VICTOR HUGO PIÑA RAMIREZ",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "I203"
+      }
+    ],
+    "professor_id": 36531,
+    "first_name": "Victor Hugo",
+    "last_name": "Piña Ramirez",
+    "rating": 8.406,
+    "num_ratings": 133
+  },
+  {
+    "code": "1121",
+    "group": "21",
+    "professor": "ARTURO CAMACHO TRUJILLO",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          2,
+          3,
+          4
+        ],
+        "classroom": "I104"
+      }
+    ],
+    "professor_id": 74045,
+    "first_name": "Arturo",
+    "last_name": "Camacho Trujillo",
+    "rating": 4.4,
+    "num_ratings": 40
   }
 ]

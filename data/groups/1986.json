@@ -1,6 +1,26 @@
 [
   {
     "code": "1986",
+    "group": "1",
+    "professor": "ALFREDO LEON GARCIA",
+    "schedules": [
+      {
+        "time": "17:00-20:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "SIN"
+      }
+    ],
+    "professor_id": 161573,
+    "first_name": "Alfredo",
+    "last_name": "León García",
+    "rating": 7.0,
+    "num_ratings": 3
+  },
+  {
+    "code": "1986",
     "group": "2",
     "professor": "UBALDO ROMERO ORTIZ",
     "schedules": [
@@ -23,8 +43,8 @@
     "professor_id": 153583,
     "first_name": "Ubaldo",
     "last_name": "Ortiz Romero",
-    "rating": 9.0,
-    "num_ratings": 6
+    "rating": 8.5714,
+    "num_ratings": 7
   },
   {
     "code": "1986",
@@ -46,25 +66,5 @@
     "last_name": "Hernández Ibañez",
     "rating": 7.6,
     "num_ratings": 5
-  },
-  {
-    "code": "1986",
-    "group": "1",
-    "professor": "ALFREDO LEON GARCIA",
-    "schedules": [
-      {
-        "time": "17:00-20:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "SIN"
-      }
-    ],
-    "professor_id": 161573,
-    "first_name": "Alfredo",
-    "last_name": "León García",
-    "rating": 7.0,
-    "num_ratings": 3
   }
 ]

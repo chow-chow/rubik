@@ -15,6 +15,20 @@
   },
   {
     "code": "7714",
+    "group": "2",
+    "professor": "SALVADOR EMILIO SIERRA BENAVIDEZ",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          5
+        ],
+        "classroom": "Y201"
+      }
+    ]
+  },
+  {
+    "code": "7714",
     "group": "3",
     "professor": "JORGE PRADO MORALES",
     "schedules": [
@@ -49,21 +63,7 @@
     "first_name": "JULIO",
     "last_name": "SERRANO VILLEGAS",
     "rating": 9.0,
-    "num_ratings": 18
-  },
-  {
-    "code": "7714",
-    "group": "2",
-    "professor": "SALVADOR EMILIO SIERRA BENAVIDEZ",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          5
-        ],
-        "classroom": "Y201"
-      }
-    ]
+    "num_ratings": 19
   },
   {
     "code": "7714",

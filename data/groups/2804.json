@@ -15,20 +15,6 @@
   },
   {
     "code": "2804",
-    "group": "4",
-    "professor": "PEDRO BERMUDEZ PALAFOX",
-    "schedules": [
-      {
-        "time": "07:00-11:00",
-        "days": [
-          5
-        ],
-        "classroom": "A109"
-      }
-    ]
-  },
-  {
-    "code": "2804",
     "group": "2",
     "professor": "ADRIAN ESTEBAN ORTIZ VALERA",
     "schedules": [
@@ -66,5 +52,19 @@
     "last_name": "Torres Mendoza",
     "rating": 9.2,
     "num_ratings": 5
+  },
+  {
+    "code": "2804",
+    "group": "4",
+    "professor": "PEDRO BERMUDEZ PALAFOX",
+    "schedules": [
+      {
+        "time": "07:00-11:00",
+        "days": [
+          5
+        ],
+        "classroom": "A109"
+      }
+    ]
   }
 ]

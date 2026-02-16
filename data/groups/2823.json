@@ -1,22 +1,6 @@
 [
   {
     "code": "2823",
-    "group": "2",
-    "professor": "OSCAR DAVID ARROYO GARCIA",
-    "schedules": [
-      {
-        "time": "16:00-17:30",
-        "days": [
-          1,
-          3,
-          5
-        ],
-        "classroom": "A309"
-      }
-    ]
-  },
-  {
-    "code": "2823",
     "group": "1",
     "professor": "ENRIQUE CESAR VALDEZ",
     "schedules": [
@@ -35,5 +19,21 @@
     "last_name": "Valdez",
     "rating": 8.75,
     "num_ratings": 4
+  },
+  {
+    "code": "2823",
+    "group": "2",
+    "professor": "OSCAR DAVID ARROYO GARCIA",
+    "schedules": [
+      {
+        "time": "16:00-17:30",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "A309"
+      }
+    ]
   }
 ]

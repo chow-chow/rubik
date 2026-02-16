@@ -1,26 +1,6 @@
 [
   {
     "code": "1937",
-    "group": "4",
-    "professor": "ALEJANDRO SOSA FUENTES",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "B305"
-      }
-    ],
-    "professor_id": 71693,
-    "first_name": "Alejandro",
-    "last_name": "Sosa Fuentes",
-    "rating": 4.75,
-    "num_ratings": 16
-  },
-  {
-    "code": "1937",
     "group": "1",
     "professor": "BEATRIZ ESLAVA ARELLANES",
     "schedules": [
@@ -73,6 +53,26 @@
     "last_name": "de la Rosa Nieves",
     "rating": 8.8,
     "num_ratings": 15
+  },
+  {
+    "code": "1937",
+    "group": "4",
+    "professor": "ALEJANDRO SOSA FUENTES",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "B305"
+      }
+    ],
+    "professor_id": 71693,
+    "first_name": "Alejandro",
+    "last_name": "Sosa Fuentes",
+    "rating": 4.75,
+    "num_ratings": 16
   },
   {
     "code": "1937",

@@ -41,86 +41,6 @@
   },
   {
     "code": "1321",
-    "group": "14",
-    "professor": "LUIS ANTONIO PEREZ PEREZ",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          1,
-          5
-        ],
-        "classroom": "I104"
-      }
-    ],
-    "professor_id": 114209,
-    "first_name": "Luis Antonio",
-    "last_name": "Pérez Pérez",
-    "rating": 8.3182,
-    "num_ratings": 44
-  },
-  {
-    "code": "1321",
-    "group": "15",
-    "professor": "NOE ANDRES ANAYA BADILLO",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          1,
-          5
-        ],
-        "classroom": "I203"
-      }
-    ],
-    "professor_id": 124388,
-    "first_name": "Noé Andrés",
-    "last_name": "Anaya Badillo",
-    "rating": 9.06,
-    "num_ratings": 62
-  },
-  {
-    "code": "1321",
-    "group": "17",
-    "professor": "PEDRO RAMIREZ MANNY",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          1,
-          5
-        ],
-        "classroom": "J110"
-      }
-    ],
-    "professor_id": 21252,
-    "first_name": "Pedro",
-    "last_name": "Ramirez Manny",
-    "rating": 8.0397,
-    "num_ratings": 151
-  },
-  {
-    "code": "1321",
-    "group": "19",
-    "professor": "FRANCISCO LEONEL SILVA GONZALEZ",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "I201"
-      }
-    ],
-    "professor_id": 98925,
-    "first_name": "FRANCISCO LEONEL",
-    "last_name": "SILVA GONZÁLEZ",
-    "rating": 7.9444,
-    "num_ratings": 18
-  },
-  {
-    "code": "1321",
     "group": "3",
     "professor": "GERMAN RAMON ARCONADA REY",
     "schedules": [
@@ -302,8 +222,8 @@
     "professor_id": 93403,
     "first_name": "Hector Rodrigo",
     "last_name": "Amezcua Rivera",
-    "rating": 9.6593,
-    "num_ratings": 91
+    "rating": 9.663,
+    "num_ratings": 92
   },
   {
     "code": "1321",
@@ -347,6 +267,46 @@
   },
   {
     "code": "1321",
+    "group": "14",
+    "professor": "LUIS ANTONIO PEREZ PEREZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1,
+          5
+        ],
+        "classroom": "I104"
+      }
+    ],
+    "professor_id": 114209,
+    "first_name": "Luis Antonio",
+    "last_name": "Pérez Pérez",
+    "rating": 8.3182,
+    "num_ratings": 44
+  },
+  {
+    "code": "1321",
+    "group": "15",
+    "professor": "NOE ANDRES ANAYA BADILLO",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1,
+          5
+        ],
+        "classroom": "I203"
+      }
+    ],
+    "professor_id": 124388,
+    "first_name": "Noé Andrés",
+    "last_name": "Anaya Badillo",
+    "rating": 9.06,
+    "num_ratings": 62
+  },
+  {
+    "code": "1321",
     "group": "16",
     "professor": "IAN GUILLERMO MONSIVAIS MONTOLIU",
     "schedules": [
@@ -367,6 +327,26 @@
   },
   {
     "code": "1321",
+    "group": "17",
+    "professor": "PEDRO RAMIREZ MANNY",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1,
+          5
+        ],
+        "classroom": "J110"
+      }
+    ],
+    "professor_id": 21252,
+    "first_name": "Pedro",
+    "last_name": "Ramirez Manny",
+    "rating": 8.0,
+    "num_ratings": 152
+  },
+  {
+    "code": "1321",
     "group": "18",
     "professor": "JESUS ALEJANDRO PLATA MARTINEZ",
     "schedules": [
@@ -384,5 +364,25 @@
     "last_name": "Plata Martinez",
     "rating": 8.9178,
     "num_ratings": 73
+  },
+  {
+    "code": "1321",
+    "group": "19",
+    "professor": "FRANCISCO LEONEL SILVA GONZALEZ",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "I201"
+      }
+    ],
+    "professor_id": 98925,
+    "first_name": "FRANCISCO LEONEL",
+    "last_name": "SILVA GONZÁLEZ",
+    "rating": 7.9444,
+    "num_ratings": 18
   }
 ]

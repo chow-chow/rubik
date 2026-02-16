@@ -1,52 +1,6 @@
 [
   {
     "code": "1807",
-    "group": "3",
-    "professor": "JUAN MAURICIO ANGELES CERVANTES",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "D003"
-      }
-    ],
-    "professor_id": 132604,
-    "first_name": "Juan Mauricio",
-    "last_name": "Angeles Cervantes",
-    "rating": 4.0,
-    "num_ratings": 7
-  },
-  {
-    "code": "1807",
-    "group": "4",
-    "professor": "JUAN MAURICIO ANGELES CERVANTES",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          5
-        ],
-        "classroom": "O103"
-      },
-      {
-        "time": "09:00-11:00",
-        "days": [
-          3
-        ],
-        "classroom": "Y004"
-      }
-    ],
-    "professor_id": 132604,
-    "first_name": "Juan Mauricio",
-    "last_name": "Angeles Cervantes",
-    "rating": 4.0,
-    "num_ratings": 7
-  },
-  {
-    "code": "1807",
     "group": "1",
     "professor": "ARTURO RONQUILLO ARVIZU",
     "schedules": [
@@ -84,5 +38,51 @@
     "last_name": "Mendoza Soto",
     "rating": 8.9,
     "num_ratings": 10
+  },
+  {
+    "code": "1807",
+    "group": "3",
+    "professor": "JUAN MAURICIO ANGELES CERVANTES",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "D003"
+      }
+    ],
+    "professor_id": 132604,
+    "first_name": "Juan Mauricio",
+    "last_name": "Angeles Cervantes",
+    "rating": 4.0,
+    "num_ratings": 7
+  },
+  {
+    "code": "1807",
+    "group": "4",
+    "professor": "JUAN MAURICIO ANGELES CERVANTES",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          3
+        ],
+        "classroom": "Y004"
+      },
+      {
+        "time": "09:00-11:00",
+        "days": [
+          5
+        ],
+        "classroom": "O103"
+      }
+    ],
+    "professor_id": 132604,
+    "first_name": "Juan Mauricio",
+    "last_name": "Angeles Cervantes",
+    "rating": 4.0,
+    "num_ratings": 7
   }
 ]

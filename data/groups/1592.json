@@ -21,6 +21,66 @@
   },
   {
     "code": "1592",
+    "group": "2",
+    "professor": "GERARDO ARIEL CASTILLO GARCIA",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "A206"
+      }
+    ],
+    "professor_id": 142267,
+    "first_name": "Gerardo Ariel",
+    "last_name": "Castillo Garcia",
+    "rating": 5.9412,
+    "num_ratings": 17
+  },
+  {
+    "code": "1592",
+    "group": "3",
+    "professor": "LUIS ANTONIO ALTAMIRANO YEPEZ",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "B407"
+      }
+    ],
+    "professor_id": 142401,
+    "first_name": "Luis Antonio",
+    "last_name": "Altamirano Yepez",
+    "rating": 6.1667,
+    "num_ratings": 6
+  },
+  {
+    "code": "1592",
+    "group": "4",
+    "professor": "MARTHA ISELA TORRES HERNANDEZ",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "DS01"
+      }
+    ],
+    "professor_id": 134274,
+    "first_name": "Martha Isela",
+    "last_name": "Torres Hernández",
+    "rating": 7.4286,
+    "num_ratings": 21
+  },
+  {
+    "code": "1592",
     "group": "5",
     "professor": "HUGO CESAR GARZA MAGALLON",
     "schedules": [
@@ -58,65 +118,5 @@
     "last_name": "Aguado Cruz",
     "rating": 8.3103,
     "num_ratings": 29
-  },
-  {
-    "code": "1592",
-    "group": "2",
-    "professor": "GERARDO ARIEL CASTILLO GARCIA",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "A206"
-      }
-    ],
-    "professor_id": 142267,
-    "first_name": "Gerardo Ariel",
-    "last_name": "Castillo Garcia",
-    "rating": 5.9412,
-    "num_ratings": 17
-  },
-  {
-    "code": "1592",
-    "group": "3",
-    "professor": "LUIS ANTONIO ALTAMIRANO YEPEZ",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "B407"
-      }
-    ],
-    "professor_id": 142401,
-    "first_name": "Luis Antonio",
-    "last_name": "Altamirano Yepez",
-    "rating": 6.8,
-    "num_ratings": 5
-  },
-  {
-    "code": "1592",
-    "group": "4",
-    "professor": "MARTHA ISELA TORRES HERNANDEZ",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "DS01"
-      }
-    ],
-    "professor_id": 134274,
-    "first_name": "Martha Isela",
-    "last_name": "Torres Hernández",
-    "rating": 7.4286,
-    "num_ratings": 21
   }
 ]

@@ -1,28 +1,6 @@
 [
   {
     "code": "2954",
-    "group": "2",
-    "professor": "LUIS IVAN NAVARRETE GUERRA",
-    "schedules": [
-      {
-        "time": "19:00-20:30",
-        "days": [
-          1,
-          2
-        ],
-        "classroom": "B102"
-      },
-      {
-        "time": "19:00-21:00",
-        "days": [
-          4
-        ],
-        "classroom": "Q208"
-      }
-    ]
-  },
-  {
-    "code": "2954",
     "group": "1",
     "professor": "ANA LAURA CHALICO TENORIO",
     "schedules": [
@@ -40,6 +18,28 @@
           3
         ],
         "classroom": "SIN"
+      }
+    ]
+  },
+  {
+    "code": "2954",
+    "group": "2",
+    "professor": "LUIS IVAN NAVARRETE GUERRA",
+    "schedules": [
+      {
+        "time": "19:00-20:30",
+        "days": [
+          1,
+          2
+        ],
+        "classroom": "B102"
+      },
+      {
+        "time": "19:00-21:00",
+        "days": [
+          4
+        ],
+        "classroom": "Q208"
       }
     ]
   },

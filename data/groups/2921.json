@@ -1,21 +1,6 @@
 [
   {
     "code": "2921",
-    "group": "2",
-    "professor": "RICARDO TORRES MENDOZAVer Nota 2",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "XS01"
-      }
-    ]
-  },
-  {
-    "code": "2921",
     "group": "1",
     "professor": "SONIA KARINA PEREZ JUAREZ",
     "schedules": [
@@ -33,6 +18,21 @@
     "last_name": "Pérez Juárez",
     "rating": 5.8947,
     "num_ratings": 38
+  },
+  {
+    "code": "2921",
+    "group": "2",
+    "professor": "RICARDO TORRES MENDOZAVer Nota 2",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "XS01"
+      }
+    ]
   },
   {
     "code": "2921",

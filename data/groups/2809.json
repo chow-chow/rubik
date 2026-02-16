@@ -1,6 +1,21 @@
 [
   {
     "code": "2809",
+    "group": "1",
+    "professor": "JOSE ENRIQUE SANTOS JALLATH",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "C106"
+      }
+    ]
+  },
+  {
+    "code": "2809",
     "group": "2",
     "professor": "GUADALUPE OCHOA PASTOR",
     "schedules": [
@@ -18,20 +33,5 @@
     "last_name": "Ochoa",
     "rating": 8.3333,
     "num_ratings": 3
-  },
-  {
-    "code": "2809",
-    "group": "1",
-    "professor": "JOSE ENRIQUE SANTOS JALLATH",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "C106"
-      }
-    ]
   }
 ]

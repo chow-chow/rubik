@@ -1,26 +1,6 @@
 [
   {
     "code": "1747",
-    "group": "3",
-    "professor": "DAMIAN CANALES SANCHEZ",
-    "schedules": [
-      {
-        "time": "20:00-22:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "D001"
-      }
-    ],
-    "professor_id": 109635,
-    "first_name": "Damian",
-    "last_name": "Canales Sanchez",
-    "rating": 9.0,
-    "num_ratings": 11
-  },
-  {
-    "code": "1747",
     "group": "1",
     "professor": "LUIS ALBERTO MEDINA FARFAN",
     "schedules": [
@@ -58,6 +38,26 @@
     "last_name": "Pérez Silva",
     "rating": 9.5556,
     "num_ratings": 9
+  },
+  {
+    "code": "1747",
+    "group": "3",
+    "professor": "DAMIAN CANALES SANCHEZ",
+    "schedules": [
+      {
+        "time": "20:00-22:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "D001"
+      }
+    ],
+    "professor_id": 109635,
+    "first_name": "Damian",
+    "last_name": "Canales Sanchez",
+    "rating": 9.0,
+    "num_ratings": 11
   },
   {
     "code": "1747",

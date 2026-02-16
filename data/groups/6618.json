@@ -1,63 +1,6 @@
 [
   {
     "code": "6618",
-    "group": "4",
-    "professor": "JAVIER LOPEZ VELAZQUEZ",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          2
-        ],
-        "classroom": "Q108"
-      }
-    ],
-    "professor_id": 94353,
-    "first_name": "JAVIER",
-    "last_name": "LOPEZ VELAZQUEZ",
-    "rating": 3.75,
-    "num_ratings": 12
-  },
-  {
-    "code": "6618",
-    "group": "7",
-    "professor": "JAVIER LOPEZ VELAZQUEZ",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          3
-        ],
-        "classroom": "Q108"
-      }
-    ],
-    "professor_id": 94353,
-    "first_name": "JAVIER",
-    "last_name": "LOPEZ VELAZQUEZ",
-    "rating": 3.75,
-    "num_ratings": 12
-  },
-  {
-    "code": "6618",
-    "group": "8",
-    "professor": "JOSE RODELMAR OCAMPO SANTILLAN",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          5
-        ],
-        "classroom": "Q109"
-      }
-    ],
-    "professor_id": 124065,
-    "first_name": "ING. JOSE RODELMAR",
-    "last_name": "OCAMPO SANTILLAN",
-    "rating": 6.7778,
-    "num_ratings": 9
-  },
-  {
-    "code": "6618",
     "group": "1",
     "professor": "JUAN CARLOS ROA BEIZA",
     "schedules": [
@@ -110,6 +53,25 @@
   },
   {
     "code": "6618",
+    "group": "4",
+    "professor": "JAVIER LOPEZ VELAZQUEZ",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          2
+        ],
+        "classroom": "Q108"
+      }
+    ],
+    "professor_id": 94353,
+    "first_name": "JAVIER",
+    "last_name": "LOPEZ VELAZQUEZ",
+    "rating": 3.75,
+    "num_ratings": 12
+  },
+  {
+    "code": "6618",
     "group": "5",
     "professor": "FRANCISCO JAVIER MARTINEZ RODRIGUEZ",
     "schedules": [
@@ -145,6 +107,44 @@
     "last_name": "Mendoza Rosales",
     "rating": 6.9565,
     "num_ratings": 69
+  },
+  {
+    "code": "6618",
+    "group": "7",
+    "professor": "JAVIER LOPEZ VELAZQUEZ",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          3
+        ],
+        "classroom": "Q108"
+      }
+    ],
+    "professor_id": 94353,
+    "first_name": "JAVIER",
+    "last_name": "LOPEZ VELAZQUEZ",
+    "rating": 3.75,
+    "num_ratings": 12
+  },
+  {
+    "code": "6618",
+    "group": "8",
+    "professor": "JOSE RODELMAR OCAMPO SANTILLAN",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          5
+        ],
+        "classroom": "Q109"
+      }
+    ],
+    "professor_id": 124065,
+    "first_name": "ING. JOSE RODELMAR",
+    "last_name": "OCAMPO SANTILLAN",
+    "rating": 6.7778,
+    "num_ratings": 9
   },
   {
     "code": "6618",

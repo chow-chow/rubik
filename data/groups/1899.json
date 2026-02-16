@@ -18,5 +18,20 @@
     "last_name": "Guillen Mandujano",
     "rating": 8.2667,
     "num_ratings": 15
+  },
+  {
+    "code": "1899",
+    "group": "2",
+    "professor": "ZAIDA ESTEFANIA ALARCON BERNAL",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "EXTR"
+      }
+    ]
   }
 ]

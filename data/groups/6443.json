@@ -1,25 +1,6 @@
 [
   {
     "code": "6443",
-    "group": "10",
-    "professor": "LAURO FERNANDO VAZQUEZ ALBERTO",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          3
-        ],
-        "classroom": "P114"
-      }
-    ],
-    "professor_id": 124067,
-    "first_name": "M.I. LAURO FERNANDO",
-    "last_name": "VAZQUEZ ALBERTO",
-    "rating": 9.0,
-    "num_ratings": 10
-  },
-  {
-    "code": "6443",
     "group": "1",
     "professor": "MARIA LEONOR SALCEDO UBILLA",
     "schedules": [
@@ -173,6 +154,25 @@
     "last_name": "Salcedo Ubilla",
     "rating": 8.75,
     "num_ratings": 4
+  },
+  {
+    "code": "6443",
+    "group": "10",
+    "professor": "LAURO FERNANDO VAZQUEZ ALBERTO",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          3
+        ],
+        "classroom": "P114"
+      }
+    ],
+    "professor_id": 124067,
+    "first_name": "M.I. LAURO FERNANDO",
+    "last_name": "VAZQUEZ ALBERTO",
+    "rating": 9.0,
+    "num_ratings": 10
   },
   {
     "code": "6443",

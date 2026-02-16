@@ -1,21 +1,6 @@
 [
   {
     "code": "1584",
-    "group": "2",
-    "professor": "MARIA DE LOURDES BARBOSA SALDAÑA",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "Y103"
-      }
-    ]
-  },
-  {
-    "code": "1584",
     "group": "1",
     "professor": "DARIO EMMANUEL SOLANO ROJAS",
     "schedules": [
@@ -33,6 +18,21 @@
     "last_name": "Solano Rojas",
     "rating": 4.375,
     "num_ratings": 8
+  },
+  {
+    "code": "1584",
+    "group": "2",
+    "professor": "MARIA DE LOURDES BARBOSA SALDAÑA",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "J100"
+      }
+    ]
   },
   {
     "code": "1584",

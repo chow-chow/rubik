@@ -1,6 +1,21 @@
 [
   {
     "code": "1871",
+    "group": "1",
+    "professor": "NORMA ERIKA PAREDES LOPEZ",
+    "schedules": [
+      {
+        "time": "10:00-13:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "C302"
+      }
+    ]
+  },
+  {
+    "code": "1871",
     "group": "2",
     "professor": "NORMA ERIKA PAREDES LOPEZ",
     "schedules": [
@@ -12,21 +27,6 @@
           5
         ],
         "classroom": "C402"
-      }
-    ]
-  },
-  {
-    "code": "1871",
-    "group": "1",
-    "professor": "NORMA ERIKA PAREDES LOPEZ",
-    "schedules": [
-      {
-        "time": "10:00-13:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "C302"
       }
     ]
   }

@@ -1,27 +1,6 @@
 [
   {
     "code": "2609",
-    "group": "2",
-    "professor": "MARIA JOSE SOLER PEREZ DE SALAZAR",
-    "schedules": [
-      {
-        "time": "16:30-19:30",
-        "days": [
-          5
-        ],
-        "classroom": "SIN"
-      },
-      {
-        "time": "17:30-19:30",
-        "days": [
-          2
-        ],
-        "classroom": "SIN"
-      }
-    ]
-  },
-  {
-    "code": "2609",
     "group": "1",
     "professor": "MARIA JOSE SOLER PEREZ DE SALAZAR",
     "schedules": [
@@ -36,6 +15,27 @@
         "time": "17:30-19:30",
         "days": [
           4
+        ],
+        "classroom": "SIN"
+      }
+    ]
+  },
+  {
+    "code": "2609",
+    "group": "2",
+    "professor": "MARIA JOSE SOLER PEREZ DE SALAZAR",
+    "schedules": [
+      {
+        "time": "16:30-19:30",
+        "days": [
+          5
+        ],
+        "classroom": "SIN"
+      },
+      {
+        "time": "17:30-19:30",
+        "days": [
+          2
         ],
         "classroom": "SIN"
       }

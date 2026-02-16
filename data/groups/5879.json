@@ -1,44 +1,6 @@
 [
   {
     "code": "5879",
-    "group": "6",
-    "professor": "JOSE LUIS VILLEDAS MORALES",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          1
-        ],
-        "classroom": "Q303"
-      }
-    ],
-    "professor_id": 99092,
-    "first_name": "JOSE LUIS",
-    "last_name": "VILLEDAS MORALES",
-    "rating": 7.2857,
-    "num_ratings": 7
-  },
-  {
-    "code": "5879",
-    "group": "14",
-    "professor": "JOSE LUIS VILLEDAS MORALES",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          3
-        ],
-        "classroom": "Q303"
-      }
-    ],
-    "professor_id": 99092,
-    "first_name": "JOSE LUIS",
-    "last_name": "VILLEDAS MORALES",
-    "rating": 7.2857,
-    "num_ratings": 7
-  },
-  {
-    "code": "5879",
     "group": "1",
     "professor": "MONICA LOPEZ COYOTE",
     "schedules": [
@@ -134,6 +96,25 @@
   },
   {
     "code": "5879",
+    "group": "6",
+    "professor": "JOSE LUIS VILLEDAS MORALES",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1
+        ],
+        "classroom": "Q303"
+      }
+    ],
+    "professor_id": 99092,
+    "first_name": "JOSE LUIS",
+    "last_name": "VILLEDAS MORALES",
+    "rating": 7.2857,
+    "num_ratings": 7
+  },
+  {
+    "code": "5879",
     "group": "7",
     "professor": "CHRISTIAN HERNANDEZ SANTIAGO",
     "schedules": [
@@ -148,8 +129,8 @@
     "professor_id": 94393,
     "first_name": "CHRISTIAN",
     "last_name": "HERNANDEZ SANTIAGO",
-    "rating": 9.3125,
-    "num_ratings": 16
+    "rating": 9.3529,
+    "num_ratings": 17
   },
   {
     "code": "5879",
@@ -238,8 +219,27 @@
     "professor_id": 94393,
     "first_name": "CHRISTIAN",
     "last_name": "HERNANDEZ SANTIAGO",
-    "rating": 9.3125,
-    "num_ratings": 16
+    "rating": 9.3529,
+    "num_ratings": 17
+  },
+  {
+    "code": "5879",
+    "group": "14",
+    "professor": "JOSE LUIS VILLEDAS MORALES",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          3
+        ],
+        "classroom": "Q303"
+      }
+    ],
+    "professor_id": 99092,
+    "first_name": "JOSE LUIS",
+    "last_name": "VILLEDAS MORALES",
+    "rating": 7.2857,
+    "num_ratings": 7
   },
   {
     "code": "5879",
@@ -399,8 +399,8 @@
     "professor_id": 94393,
     "first_name": "CHRISTIAN",
     "last_name": "HERNANDEZ SANTIAGO",
-    "rating": 9.3125,
-    "num_ratings": 16
+    "rating": 9.3529,
+    "num_ratings": 17
   },
   {
     "code": "5879",

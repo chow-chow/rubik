@@ -36,6 +36,20 @@
   },
   {
     "code": "1784",
+    "group": "3",
+    "professor": "TAREK HENAINE BRITO",
+    "schedules": [
+      {
+        "time": "09:00-13:00",
+        "days": [
+          6
+        ],
+        "classroom": "B104"
+      }
+    ]
+  },
+  {
+    "code": "1784",
     "group": "4",
     "professor": "ROBERTO CERVERA AGUILAR Y RUIZ DE CHAVEZ",
     "schedules": [
@@ -46,20 +60,6 @@
           4
         ],
         "classroom": "A310"
-      }
-    ]
-  },
-  {
-    "code": "1784",
-    "group": "3",
-    "professor": "TAREK HENAINE BRITO",
-    "schedules": [
-      {
-        "time": "09:00-13:00",
-        "days": [
-          6
-        ],
-        "classroom": "B104"
       }
     ]
   },

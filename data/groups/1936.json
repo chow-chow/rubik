@@ -1,21 +1,6 @@
 [
   {
     "code": "1936",
-    "group": "2",
-    "professor": "NESTOR GONZALEZ CABRERA",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "A107"
-      }
-    ]
-  },
-  {
-    "code": "1936",
     "group": "1",
     "professor": "MILTON DAVE HUESCA AMADOR",
     "schedules": [
@@ -33,6 +18,21 @@
     "last_name": "Huesca Amador",
     "rating": 7.6,
     "num_ratings": 5
+  },
+  {
+    "code": "1936",
+    "group": "2",
+    "professor": "NESTOR GONZALEZ CABRERA",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A107"
+      }
+    ]
   },
   {
     "code": "1936",

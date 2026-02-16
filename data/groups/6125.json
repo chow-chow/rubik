@@ -20,25 +20,6 @@
   },
   {
     "code": "6125",
-    "group": "5",
-    "professor": "ARIANEE SAINZ VIDAL",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          5
-        ],
-        "classroom": "H003"
-      }
-    ],
-    "professor_id": 167784,
-    "first_name": "Arianee",
-    "last_name": "Sainz Vidal",
-    "rating": 5.6667,
-    "num_ratings": 3
-  },
-  {
-    "code": "6125",
     "group": "2",
     "professor": "MARIA DEL PILAR CARREON CASTRO",
     "schedules": [
@@ -78,5 +59,24 @@
         "classroom": "H003"
       }
     ]
+  },
+  {
+    "code": "6125",
+    "group": "5",
+    "professor": "ARIANEE SAINZ VIDAL",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          5
+        ],
+        "classroom": "H003"
+      }
+    ],
+    "professor_id": 167784,
+    "first_name": "Arianee",
+    "last_name": "Sainz Vidal",
+    "rating": 5.6667,
+    "num_ratings": 3
   }
 ]

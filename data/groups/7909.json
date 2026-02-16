@@ -1,6 +1,20 @@
 [
   {
     "code": "7909",
+    "group": "1",
+    "professor": "ANA GABRIELA GALLARDO HERNANDEZ",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1
+        ],
+        "classroom": "P113"
+      }
+    ]
+  },
+  {
+    "code": "7909",
     "group": "2",
     "professor": "FERNANDA RAMOS GARCIA",
     "schedules": [
@@ -17,20 +31,6 @@
     "last_name": "Ramos",
     "rating": 8.3333,
     "num_ratings": 3
-  },
-  {
-    "code": "7909",
-    "group": "1",
-    "professor": "ANA GABRIELA GALLARDO HERNANDEZ",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          1
-        ],
-        "classroom": "P113"
-      }
-    ]
   },
   {
     "code": "7909",

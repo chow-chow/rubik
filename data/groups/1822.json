@@ -21,6 +21,21 @@
   },
   {
     "code": "1822",
+    "group": "2",
+    "professor": "SALVADOR EMILIO SIERRA BENAVIDEZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "DS01"
+      }
+    ]
+  },
+  {
+    "code": "1822",
     "group": "3",
     "professor": "JESUS ALVAREZ CASTILLO",
     "schedules": [
@@ -58,21 +73,6 @@
     "last_name": "Díaz Nacar",
     "rating": 7.7895,
     "num_ratings": 19
-  },
-  {
-    "code": "1822",
-    "group": "2",
-    "professor": "SALVADOR EMILIO SIERRA BENAVIDEZ",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "DS01"
-      }
-    ]
   },
   {
     "code": "1822",

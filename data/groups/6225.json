@@ -111,8 +111,28 @@
     "professor_id": 113002,
     "first_name": "Eric Adrián",
     "last_name": "Tejada Malpica",
-    "rating": 7.7895,
-    "num_ratings": 19
+    "rating": 7.6,
+    "num_ratings": 20
+  },
+  {
+    "code": "6225",
+    "group": "7",
+    "professor": "DAVID MARTINEZ HERNANDEZ",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "O009"
+      }
+    ],
+    "professor_id": 101528,
+    "first_name": "David",
+    "last_name": "Martínez Hernández",
+    "rating": 7.7727,
+    "num_ratings": 22
   },
   {
     "code": "6225",
@@ -173,26 +193,6 @@
     "last_name": "Guillen Mandujano",
     "rating": 8.2667,
     "num_ratings": 15
-  },
-  {
-    "code": "6225",
-    "group": "7",
-    "professor": "DAVID MARTINEZ HERNANDEZ",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "O009"
-      }
-    ],
-    "professor_id": 101528,
-    "first_name": "David",
-    "last_name": "Martínez Hernández",
-    "rating": 7.7727,
-    "num_ratings": 22
   },
   {
     "code": "6225",

@@ -1,26 +1,6 @@
 [
   {
     "code": "2926",
-    "group": "4",
-    "professor": "AGUSTIN NIEVES SAAVEDRA",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "DS07"
-      }
-    ],
-    "professor_id": 63731,
-    "first_name": "Agustín",
-    "last_name": "Nieves Saavedra",
-    "rating": 2.8,
-    "num_ratings": 5
-  },
-  {
-    "code": "2926",
     "group": "1",
     "professor": "Grupo cancelado, contactar a la División.",
     "schedules": [
@@ -63,6 +43,26 @@
         "classroom": "DS07"
       }
     ]
+  },
+  {
+    "code": "2926",
+    "group": "4",
+    "professor": "AGUSTIN NIEVES SAAVEDRA",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "DS07"
+      }
+    ],
+    "professor_id": 63731,
+    "first_name": "Agustín",
+    "last_name": "Nieves Saavedra",
+    "rating": 2.8,
+    "num_ratings": 5
   },
   {
     "code": "2926",

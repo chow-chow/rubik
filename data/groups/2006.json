@@ -1,6 +1,26 @@
 [
   {
     "code": "2006",
+    "group": "1",
+    "professor": "FRANCISCO JAVIER MARTINEZ RODRIGUEZ",
+    "schedules": [
+      {
+        "time": "07:00-08:30",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "P318"
+      }
+    ],
+    "professor_id": 99064,
+    "first_name": "Francisco Javier",
+    "last_name": "Martinez Rodriguez",
+    "rating": 4.7179,
+    "num_ratings": 39
+  },
+  {
+    "code": "2006",
     "group": "3",
     "professor": "SAUL DE LA ROSA NIEVES",
     "schedules": [
@@ -38,44 +58,5 @@
     "last_name": "Escobar salguero",
     "rating": 7.6552,
     "num_ratings": 29
-  },
-  {
-    "code": "2006",
-    "group": "5",
-    "professor": "PABLO ROBERTO PEREZ ALCAZAR",
-    "schedules": [
-      {
-        "time": "09:00-12:00",
-        "days": [
-          6
-        ],
-        "classroom": "P318"
-      }
-    ],
-    "professor_id": 89952,
-    "first_name": "PABLO",
-    "last_name": "PEREZ ALCAZAR",
-    "rating": 6.0,
-    "num_ratings": 23
-  },
-  {
-    "code": "2006",
-    "group": "1",
-    "professor": "FRANCISCO JAVIER MARTINEZ RODRIGUEZ",
-    "schedules": [
-      {
-        "time": "07:00-08:30",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "P318"
-      }
-    ],
-    "professor_id": 99064,
-    "first_name": "Francisco Javier",
-    "last_name": "Martinez Rodriguez",
-    "rating": 4.7179,
-    "num_ratings": 39
   }
 ]

@@ -1,6 +1,26 @@
 [
   {
     "code": "1997",
+    "group": "2",
+    "professor": "SOFIA MAGDALENA AVILA BECERRIL",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "J111"
+      }
+    ],
+    "professor_id": 34036,
+    "first_name": "Sofia Magdalena",
+    "last_name": "Avila Becerril",
+    "rating": 9.163,
+    "num_ratings": 92
+  },
+  {
+    "code": "1997",
     "group": "3",
     "professor": "MARCO ANTONIO ARTEAGA PEREZ",
     "schedules": [
@@ -98,25 +118,5 @@
     "last_name": "Goldreich",
     "rating": 6.42,
     "num_ratings": 12
-  },
-  {
-    "code": "1997",
-    "group": "2",
-    "professor": "SOFIA MAGDALENA AVILA BECERRIL",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "J111"
-      }
-    ],
-    "professor_id": 34036,
-    "first_name": "Sofia Magdalena",
-    "last_name": "Avila Becerril",
-    "rating": 9.163,
-    "num_ratings": 92
   }
 ]

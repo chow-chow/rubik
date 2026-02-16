@@ -21,6 +21,26 @@
   },
   {
     "code": "1333",
+    "group": "2",
+    "professor": "MARTIN BARCENAS ESCOBAR",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "I105"
+      }
+    ],
+    "professor_id": 23476,
+    "first_name": "martin",
+    "last_name": "barcenas escobar",
+    "rating": 6.4348,
+    "num_ratings": 23
+  },
+  {
+    "code": "1333",
     "group": "3",
     "professor": "MARIA DEL CARMEN MELO DIAZ",
     "schedules": [
@@ -58,25 +78,5 @@
     "last_name": "Hernandez Quintero",
     "rating": 5.8824,
     "num_ratings": 34
-  },
-  {
-    "code": "1333",
-    "group": "2",
-    "professor": "MARTIN BARCENAS ESCOBAR",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "I105"
-      }
-    ],
-    "professor_id": 23476,
-    "first_name": "martin",
-    "last_name": "barcenas escobar",
-    "rating": 6.4348,
-    "num_ratings": 23
   }
 ]

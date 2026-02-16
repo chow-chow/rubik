@@ -1,53 +1,6 @@
 [
   {
     "code": "1127",
-    "group": "2",
-    "professor": "DULCE MONICA CASTILLO CORONA",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          2
-        ],
-        "classroom": "A305"
-      },
-      {
-        "time": "11:00-13:00",
-        "days": [
-          4
-        ],
-        "classroom": "Q008"
-      }
-    ],
-    "professor_id": 49563,
-    "first_name": "Dulce Monica",
-    "last_name": "Castillo Corona",
-    "rating": 7.1,
-    "num_ratings": 89
-  },
-  {
-    "code": "1127",
-    "group": "5",
-    "professor": "ERNESTO MENDEZ HERNANDEZ",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          2
-        ],
-        "classroom": "B106"
-      },
-      {
-        "time": "19:00-21:00",
-        "days": [
-          4
-        ],
-        "classroom": "Q008"
-      }
-    ]
-  },
-  {
-    "code": "1127",
     "group": "1",
     "professor": "JORGE LUIS LOPEZ GARCIA",
     "schedules": [
@@ -74,6 +27,32 @@
   },
   {
     "code": "1127",
+    "group": "2",
+    "professor": "DULCE MONICA CASTILLO CORONA",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2
+        ],
+        "classroom": "A305"
+      },
+      {
+        "time": "11:00-13:00",
+        "days": [
+          4
+        ],
+        "classroom": "Q008"
+      }
+    ],
+    "professor_id": 49563,
+    "first_name": "Dulce Monica",
+    "last_name": "Castillo Corona",
+    "rating": 7.1,
+    "num_ratings": 89
+  },
+  {
+    "code": "1127",
     "group": "3",
     "professor": "JESSICA ROJAS SERRANO",
     "schedules": [
@@ -95,8 +74,8 @@
     "professor_id": 187681,
     "first_name": "ING. JESSICA",
     "last_name": "ROJAS SERRANO",
-    "rating": 9.4286,
-    "num_ratings": 7
+    "rating": 9.375,
+    "num_ratings": 8
   },
   {
     "code": "1127",
@@ -126,6 +105,27 @@
   },
   {
     "code": "1127",
+    "group": "5",
+    "professor": "ERNESTO MENDEZ HERNANDEZ",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          2
+        ],
+        "classroom": "B106"
+      },
+      {
+        "time": "19:00-21:00",
+        "days": [
+          4
+        ],
+        "classroom": "Q008"
+      }
+    ]
+  },
+  {
+    "code": "1127",
     "group": "6",
     "professor": "JESSICA ROJAS SERRANO",
     "schedules": [
@@ -147,7 +147,7 @@
     "professor_id": 187681,
     "first_name": "ING. JESSICA",
     "last_name": "ROJAS SERRANO",
-    "rating": 9.4286,
-    "num_ratings": 7
+    "rating": 9.375,
+    "num_ratings": 8
   }
 ]

@@ -1,6 +1,26 @@
 [
   {
     "code": "1322",
+    "group": "1",
+    "professor": "EPIFANIO OSCAR CARBALLAR LOPEZ",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "J109"
+      }
+    ],
+    "professor_id": 70466,
+    "first_name": "Epifanio Oscar",
+    "last_name": "Carballar López",
+    "rating": 7.3902,
+    "num_ratings": 41
+  },
+  {
+    "code": "1322",
     "group": "2",
     "professor": "MANUEL AYALA MARTINEZ",
     "schedules": [
@@ -18,66 +38,6 @@
     "last_name": "Ayala Martinez",
     "rating": 4.4737,
     "num_ratings": 19
-  },
-  {
-    "code": "1322",
-    "group": "6",
-    "professor": "LORENZO OCTAVIO MIRANDA CORDERO",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          1,
-          5
-        ],
-        "classroom": "I303"
-      }
-    ],
-    "professor_id": 63626,
-    "first_name": "Lorenzo Octavio",
-    "last_name": "Miranda  Cordero",
-    "rating": 6.3143,
-    "num_ratings": 35
-  },
-  {
-    "code": "1322",
-    "group": "8",
-    "professor": "HUGO GERMAN SERRANO MIRANDA",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "I103"
-      }
-    ],
-    "professor_id": 84710,
-    "first_name": "Hugo German",
-    "last_name": "Serrano Miranda",
-    "rating": 5.48,
-    "num_ratings": 25
-  },
-  {
-    "code": "1322",
-    "group": "1",
-    "professor": "EPIFANIO OSCAR CARBALLAR LOPEZ",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "J109"
-      }
-    ],
-    "professor_id": 70466,
-    "first_name": "Epifanio Oscar",
-    "last_name": "Carballar López",
-    "rating": 7.35,
-    "num_ratings": 40
   },
   {
     "code": "1322",
@@ -120,6 +80,26 @@
   },
   {
     "code": "1322",
+    "group": "6",
+    "professor": "LORENZO OCTAVIO MIRANDA CORDERO",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1,
+          5
+        ],
+        "classroom": "I303"
+      }
+    ],
+    "professor_id": 63626,
+    "first_name": "Lorenzo Octavio",
+    "last_name": "Miranda  Cordero",
+    "rating": 6.3143,
+    "num_ratings": 35
+  },
+  {
+    "code": "1322",
     "group": "7",
     "professor": "JUAN MARIA DE LA SALUD OCARIZ CASTELAZO",
     "schedules": [
@@ -137,6 +117,26 @@
     "last_name": "Ocáriz Castelazo",
     "rating": 8.6568,
     "num_ratings": 169
+  },
+  {
+    "code": "1322",
+    "group": "8",
+    "professor": "HUGO GERMAN SERRANO MIRANDA",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "I103"
+      }
+    ],
+    "professor_id": 84710,
+    "first_name": "Hugo German",
+    "last_name": "Serrano Miranda",
+    "rating": 5.3462,
+    "num_ratings": 26
   },
   {
     "code": "1322",

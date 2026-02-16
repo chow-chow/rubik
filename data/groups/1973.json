@@ -27,32 +27,6 @@
   },
   {
     "code": "1973",
-    "group": "3",
-    "professor": "CAROLINA CASTRO ALARCON",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          3
-        ],
-        "classroom": "O007"
-      },
-      {
-        "time": "17:00-19:00",
-        "days": [
-          1
-        ],
-        "classroom": "B104"
-      }
-    ],
-    "professor_id": 167496,
-    "first_name": "Carolina",
-    "last_name": "Castro Alarcón",
-    "rating": 7.4,
-    "num_ratings": 5
-  },
-  {
-    "code": "1973",
     "group": "2",
     "professor": "SAID ULISES PEREZ SIERRA",
     "schedules": [
@@ -76,5 +50,31 @@
     "last_name": "Pérez Sierra",
     "rating": 8.5,
     "num_ratings": 6
+  },
+  {
+    "code": "1973",
+    "group": "3",
+    "professor": "CAROLINA CASTRO ALARCON",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          3
+        ],
+        "classroom": "O007"
+      },
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1
+        ],
+        "classroom": "B104"
+      }
+    ],
+    "professor_id": 167496,
+    "first_name": "Carolina",
+    "last_name": "Castro Alarcón",
+    "rating": 7.4,
+    "num_ratings": 5
   }
 ]

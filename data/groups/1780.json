@@ -41,16 +41,16 @@
       {
         "time": "11:00-13:00",
         "days": [
-          5
+          3
         ],
-        "classroom": "H001"
+        "classroom": "H002"
       },
       {
         "time": "11:00-13:00",
         "days": [
-          3
+          5
         ],
-        "classroom": "H002"
+        "classroom": "H001"
       }
     ],
     "professor_id": 99087,
@@ -67,7 +67,13 @@
       {
         "time": "11:00-13:00",
         "days": [
-          2,
+          2
+        ],
+        "classroom": "I304"
+      },
+      {
+        "time": "11:00-13:00",
+        "days": [
           4
         ],
         "classroom": "I204"

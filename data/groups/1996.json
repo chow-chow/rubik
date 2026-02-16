@@ -1,50 +1,6 @@
 [
   {
     "code": "1996",
-    "group": "4",
-    "professor": "IGNACIO RANGEL FUERTE",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "A203"
-      },
-      {
-        "time": "13:00-15:00",
-        "days": [
-          5
-        ],
-        "classroom": "O007"
-      }
-    ]
-  },
-  {
-    "code": "1996",
-    "group": "5",
-    "professor": "IGNACIO RANGEL FUERTE",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "J206"
-      },
-      {
-        "time": "07:00-09:00",
-        "days": [
-          5
-        ],
-        "classroom": "O007"
-      }
-    ]
-  },
-  {
-    "code": "1996",
     "group": "1",
     "professor": "ULISES MARTIN PEÑUELAS RIVAS",
     "schedules": [
@@ -104,17 +60,17 @@
       {
         "time": "11:00-13:00",
         "days": [
-          1,
-          3
+          5
         ],
-        "classroom": "B301"
+        "classroom": "O007"
       },
       {
         "time": "11:00-13:00",
         "days": [
-          5
+          1,
+          3
         ],
-        "classroom": "O007"
+        "classroom": "B301"
       }
     ],
     "professor_id": 109270,
@@ -122,5 +78,49 @@
     "last_name": "Castañeda Cedeño",
     "rating": 7.3333,
     "num_ratings": 12
+  },
+  {
+    "code": "1996",
+    "group": "4",
+    "professor": "IGNACIO RANGEL FUERTE",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "A203"
+      },
+      {
+        "time": "13:00-15:00",
+        "days": [
+          5
+        ],
+        "classroom": "O007"
+      }
+    ]
+  },
+  {
+    "code": "1996",
+    "group": "5",
+    "professor": "IGNACIO RANGEL FUERTE",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "J206"
+      },
+      {
+        "time": "07:00-09:00",
+        "days": [
+          5
+        ],
+        "classroom": "O007"
+      }
+    ]
   }
 ]

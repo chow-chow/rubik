@@ -1,26 +1,6 @@
 [
   {
     "code": "1867",
-    "group": "3",
-    "professor": "JULIO CESAR CRUZ ESTRADA",
-    "schedules": [
-      {
-        "time": "07:00-08:30",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "A305"
-      }
-    ],
-    "professor_id": 160861,
-    "first_name": "Julio Cesar",
-    "last_name": "Cruz Estrada",
-    "rating": 8.8182,
-    "num_ratings": 11
-  },
-  {
-    "code": "1867",
     "group": "1",
     "professor": "JOSE ANTONIO DE JESUS ARREDONDO GARZA",
     "schedules": [
@@ -56,8 +36,28 @@
     "professor_id": 66377,
     "first_name": "Pedro Ignacio",
     "last_name": "Rincon Gomez",
-    "rating": 8.1852,
-    "num_ratings": 27
+    "rating": 8.0714,
+    "num_ratings": 28
+  },
+  {
+    "code": "1867",
+    "group": "3",
+    "professor": "JULIO CESAR CRUZ ESTRADA",
+    "schedules": [
+      {
+        "time": "07:00-08:30",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A305"
+      }
+    ],
+    "professor_id": 160861,
+    "first_name": "Julio Cesar",
+    "last_name": "Cruz Estrada",
+    "rating": 8.8182,
+    "num_ratings": 11
   },
   {
     "code": "1867",
@@ -90,7 +90,7 @@
     "professor_id": 83173,
     "first_name": "José Luis",
     "last_name": "Cruz Mora",
-    "rating": 7.7778,
-    "num_ratings": 18
+    "rating": 7.7368,
+    "num_ratings": 19
   }
 ]

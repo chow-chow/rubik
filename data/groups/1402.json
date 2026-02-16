@@ -1,6 +1,48 @@
 [
   {
     "code": "1402",
+    "group": "1",
+    "professor": "AMALIA ADRIANA CAFAGGI FELIX",
+    "schedules": [
+      {
+        "time": "08:30-10:00",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "A307"
+      }
+    ],
+    "professor_id": 175830,
+    "first_name": "AMALIA ADRIANA",
+    "last_name": "CAFAGGI FELIX",
+    "rating": 8.2857,
+    "num_ratings": 7
+  },
+  {
+    "code": "1402",
+    "group": "2",
+    "professor": "JESUS GALLEGOS SILVA",
+    "schedules": [
+      {
+        "time": "10:00-11:30",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "A207"
+      }
+    ],
+    "professor_id": 135259,
+    "first_name": "Jesús",
+    "last_name": "Gallegos Silva",
+    "rating": 6.6,
+    "num_ratings": 5
+  },
+  {
+    "code": "1402",
     "group": "3",
     "professor": "JOSE LUIS SALINAS ESTEVEZ",
     "schedules": [
@@ -70,47 +112,5 @@
         "classroom": "A209"
       }
     ]
-  },
-  {
-    "code": "1402",
-    "group": "1",
-    "professor": "AMALIA ADRIANA CAFAGGI FELIX",
-    "schedules": [
-      {
-        "time": "08:30-10:00",
-        "days": [
-          1,
-          3,
-          5
-        ],
-        "classroom": "A307"
-      }
-    ],
-    "professor_id": 175830,
-    "first_name": "AMALIA ADRIANA",
-    "last_name": "CAFAGGI FELIX",
-    "rating": 8.2857,
-    "num_ratings": 7
-  },
-  {
-    "code": "1402",
-    "group": "2",
-    "professor": "JESUS GALLEGOS SILVA",
-    "schedules": [
-      {
-        "time": "10:00-11:30",
-        "days": [
-          1,
-          3,
-          5
-        ],
-        "classroom": "A207"
-      }
-    ],
-    "professor_id": 135259,
-    "first_name": "Jesús",
-    "last_name": "Gallegos Silva",
-    "rating": 6.6,
-    "num_ratings": 5
   }
 ]

@@ -168,5 +168,19 @@
     "last_name": "Bautista González",
     "rating": 9.6,
     "num_ratings": 5
+  },
+  {
+    "code": "6598",
+    "group": "12",
+    "professor": "PATRICIA NALLELY GOMEZ FLORES",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1
+        ],
+        "classroom": "Q208"
+      }
+    ]
   }
 ]

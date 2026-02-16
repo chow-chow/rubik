@@ -20,115 +20,6 @@
   },
   {
     "code": "6592",
-    "group": "5",
-    "professor": "JULIA VAZQUEZ FUENTES",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          2
-        ],
-        "classroom": "P215"
-      }
-    ],
-    "professor_id": 58672,
-    "first_name": "Julia",
-    "last_name": "Vazquez Fuentes",
-    "rating": 4.3023,
-    "num_ratings": 43
-  },
-  {
-    "code": "6592",
-    "group": "7",
-    "professor": "BENJAMIN RAMIREZ HERNANDEZ",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          3
-        ],
-        "classroom": "P215"
-      }
-    ],
-    "professor_id": 134845,
-    "first_name": "Benjamin",
-    "last_name": "Ramírez Hernández",
-    "rating": 7.1563,
-    "num_ratings": 32
-  },
-  {
-    "code": "6592",
-    "group": "8",
-    "professor": "JORGE ALBERTO UC MARTIN",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          3
-        ],
-        "classroom": "P215"
-      }
-    ]
-  },
-  {
-    "code": "6592",
-    "group": "11",
-    "professor": "JULIA VAZQUEZ FUENTES",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          4
-        ],
-        "classroom": "P215"
-      }
-    ],
-    "professor_id": 58672,
-    "first_name": "Julia",
-    "last_name": "Vazquez Fuentes",
-    "rating": 4.3023,
-    "num_ratings": 43
-  },
-  {
-    "code": "6592",
-    "group": "12",
-    "professor": "JUAN MANUEL VELASCO MIRANDA",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          4
-        ],
-        "classroom": "P215"
-      }
-    ],
-    "professor_id": 95190,
-    "first_name": "Juan Manuel",
-    "last_name": "Velasco Miranda",
-    "rating": 8.8333,
-    "num_ratings": 12
-  },
-  {
-    "code": "6592",
-    "group": "13",
-    "professor": "JULIO SERRANO VILLEGAS",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          5
-        ],
-        "classroom": "P215"
-      }
-    ],
-    "professor_id": 95374,
-    "first_name": "JULIO",
-    "last_name": "SERRANO VILLEGAS",
-    "rating": 9.0,
-    "num_ratings": 18
-  },
-  {
-    "code": "6592",
     "group": "2",
     "professor": "JULIA VAZQUEZ FUENTES",
     "schedules": [
@@ -186,6 +77,25 @@
   },
   {
     "code": "6592",
+    "group": "5",
+    "professor": "JULIA VAZQUEZ FUENTES",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2
+        ],
+        "classroom": "P215"
+      }
+    ],
+    "professor_id": 58672,
+    "first_name": "Julia",
+    "last_name": "Vazquez Fuentes",
+    "rating": 4.3023,
+    "num_ratings": 43
+  },
+  {
+    "code": "6592",
     "group": "6",
     "professor": "JORGE ALBERTO UC MARTIN",
     "schedules": [
@@ -193,6 +103,39 @@
         "time": "17:00-19:00",
         "days": [
           2
+        ],
+        "classroom": "P215"
+      }
+    ]
+  },
+  {
+    "code": "6592",
+    "group": "7",
+    "professor": "BENJAMIN RAMIREZ HERNANDEZ",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          3
+        ],
+        "classroom": "P215"
+      }
+    ],
+    "professor_id": 134845,
+    "first_name": "Benjamin",
+    "last_name": "Ramírez Hernández",
+    "rating": 7.1563,
+    "num_ratings": 32
+  },
+  {
+    "code": "6592",
+    "group": "8",
+    "professor": "JORGE ALBERTO UC MARTIN",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          3
         ],
         "classroom": "P215"
       }
@@ -215,7 +158,7 @@
     "first_name": "JULIO",
     "last_name": "SERRANO VILLEGAS",
     "rating": 9.0,
-    "num_ratings": 18
+    "num_ratings": 19
   },
   {
     "code": "6592",
@@ -235,5 +178,62 @@
     "last_name": "Velasco Miranda",
     "rating": 8.8333,
     "num_ratings": 12
+  },
+  {
+    "code": "6592",
+    "group": "11",
+    "professor": "JULIA VAZQUEZ FUENTES",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          4
+        ],
+        "classroom": "P215"
+      }
+    ],
+    "professor_id": 58672,
+    "first_name": "Julia",
+    "last_name": "Vazquez Fuentes",
+    "rating": 4.3023,
+    "num_ratings": 43
+  },
+  {
+    "code": "6592",
+    "group": "12",
+    "professor": "JUAN MANUEL VELASCO MIRANDA",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          4
+        ],
+        "classroom": "P215"
+      }
+    ],
+    "professor_id": 95190,
+    "first_name": "Juan Manuel",
+    "last_name": "Velasco Miranda",
+    "rating": 8.8333,
+    "num_ratings": 12
+  },
+  {
+    "code": "6592",
+    "group": "13",
+    "professor": "JULIO SERRANO VILLEGAS",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          5
+        ],
+        "classroom": "P215"
+      }
+    ],
+    "professor_id": 95374,
+    "first_name": "JULIO",
+    "last_name": "SERRANO VILLEGAS",
+    "rating": 9.0,
+    "num_ratings": 19
   }
 ]

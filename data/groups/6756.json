@@ -20,67 +20,6 @@
   },
   {
     "code": "6756",
-    "group": "9",
-    "professor": "SERVANDO RUIZ RODRIGUEZ",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          2
-        ],
-        "classroom": "N005"
-      }
-    ]
-  },
-  {
-    "code": "6756",
-    "group": "11",
-    "professor": "DANIEL ESQUIVEL VELAZQUEZ",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          4
-        ],
-        "classroom": "N005"
-      }
-    ]
-  },
-  {
-    "code": "6756",
-    "group": "16",
-    "professor": "LUIS ARTURO NAVARRO BAENA",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          5
-        ],
-        "classroom": "N005"
-      }
-    ]
-  },
-  {
-    "code": "6756",
-    "group": "17",
-    "professor": "ZAIRA LINETTE TORRES CORTES",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          5
-        ],
-        "classroom": "N005"
-      }
-    ],
-    "professor_id": 140654,
-    "first_name": "Zaira Linette",
-    "last_name": "Torres Cortés",
-    "rating": 8.4286,
-    "num_ratings": 21
-  },
-  {
-    "code": "6756",
     "group": "2",
     "professor": "JOAQUIN LEONEL REYES GARCIA",
     "schedules": [
@@ -194,6 +133,34 @@
   },
   {
     "code": "6756",
+    "group": "9",
+    "professor": "SERVANDO RUIZ RODRIGUEZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2
+        ],
+        "classroom": "N005"
+      }
+    ]
+  },
+  {
+    "code": "6756",
+    "group": "11",
+    "professor": "DANIEL ESQUIVEL VELAZQUEZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          4
+        ],
+        "classroom": "N005"
+      }
+    ]
+  },
+  {
+    "code": "6756",
     "group": "12",
     "professor": "ARNOLD FRANCISCO BASTIDAS MELO",
     "schedules": [
@@ -252,5 +219,38 @@
     "last_name": "Mendoza Campos",
     "rating": 9.5,
     "num_ratings": 2
+  },
+  {
+    "code": "6756",
+    "group": "16",
+    "professor": "LUIS ARTURO NAVARRO BAENA",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          5
+        ],
+        "classroom": "N005"
+      }
+    ]
+  },
+  {
+    "code": "6756",
+    "group": "17",
+    "professor": "ZAIRA LINETTE TORRES CORTES",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          5
+        ],
+        "classroom": "N005"
+      }
+    ],
+    "professor_id": 140654,
+    "first_name": "Zaira Linette",
+    "last_name": "Torres Cortés",
+    "rating": 8.4286,
+    "num_ratings": 21
   }
 ]

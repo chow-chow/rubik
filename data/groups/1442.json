@@ -42,28 +42,6 @@
   },
   {
     "code": "1442",
-    "group": "4",
-    "professor": "MOISES VELASCO LOZANO",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "C104"
-      },
-      {
-        "time": "09:00-11:00",
-        "days": [
-          5
-        ],
-        "classroom": "C404"
-      }
-    ]
-  },
-  {
-    "code": "1442",
     "group": "3",
     "professor": "EFRAIN GARCIA ACEVEDO",
     "schedules": [
@@ -82,5 +60,27 @@
     "last_name": "GARCIA ACEVEDO",
     "rating": 6.2,
     "num_ratings": 10
+  },
+  {
+    "code": "1442",
+    "group": "4",
+    "professor": "MOISES VELASCO LOZANO",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          5
+        ],
+        "classroom": "C404"
+      },
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "C104"
+      }
+    ]
   }
 ]

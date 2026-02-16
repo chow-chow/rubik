@@ -1,6 +1,26 @@
 [
   {
     "code": "1860",
+    "group": "1",
+    "professor": "WILLIAM VICENTE Y RODRIGUEZ",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "B303"
+      }
+    ],
+    "professor_id": 74598,
+    "first_name": "William",
+    "last_name": "Vicente y Rodríguez",
+    "rating": 7.1429,
+    "num_ratings": 7
+  },
+  {
+    "code": "1860",
     "group": "2",
     "professor": "RAFAEL CHAVEZ MARTINEZVer Nota 2",
     "schedules": [
@@ -33,26 +53,6 @@
     "last_name": "Rojas Morin",
     "rating": 5.0,
     "num_ratings": 3
-  },
-  {
-    "code": "1860",
-    "group": "1",
-    "professor": "WILLIAM VICENTE Y RODRIGUEZ",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "B303"
-      }
-    ],
-    "professor_id": 74598,
-    "first_name": "William",
-    "last_name": "Vicente y Rodríguez",
-    "rating": 7.1429,
-    "num_ratings": 7
   },
   {
     "code": "1860",

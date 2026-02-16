@@ -22,6 +22,64 @@
   },
   {
     "code": "1228",
+    "group": "2",
+    "professor": "Grupo cancelado, contactar a la División.",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "I106"
+      }
+    ]
+  },
+  {
+    "code": "1228",
+    "group": "3",
+    "professor": "RIGOBERTO LEDESMA RIVERA",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "I102"
+      }
+    ],
+    "professor_id": 108359,
+    "first_name": "Rigoberto",
+    "last_name": "Ledesma Rivera",
+    "rating": 7.2,
+    "num_ratings": 5
+  },
+  {
+    "code": "1228",
+    "group": "4",
+    "professor": "JAVIER GOMEZ MENDEZ",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2,
+          3,
+          4
+        ],
+        "classroom": "I202"
+      }
+    ],
+    "professor_id": 81587,
+    "first_name": "Javier",
+    "last_name": "Gómez Méndez",
+    "rating": 8.11,
+    "num_ratings": 89
+  },
+  {
+    "code": "1228",
     "group": "5",
     "professor": "FERNANDO SANCHEZ RODRIGUEZ",
     "schedules": [
@@ -40,6 +98,48 @@
     "last_name": "Sanchez Rodriguez",
     "rating": 5.3571,
     "num_ratings": 28
+  },
+  {
+    "code": "1228",
+    "group": "6",
+    "professor": "ANTONIO MIRALLES ESCOBAR",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "I103"
+      }
+    ],
+    "professor_id": 61247,
+    "first_name": "ANTONIO",
+    "last_name": "MIRALLES ESCOBAR",
+    "rating": 8.0566,
+    "num_ratings": 106
+  },
+  {
+    "code": "1228",
+    "group": "7",
+    "professor": "ABAN ALONSO MORENO AGUILAR",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2,
+          3,
+          4
+        ],
+        "classroom": "I304"
+      }
+    ],
+    "professor_id": 95313,
+    "first_name": "Aban Alonso",
+    "last_name": "Moreno Aguilar",
+    "rating": 8.0,
+    "num_ratings": 9
   },
   {
     "code": "1228",
@@ -64,6 +164,27 @@
   },
   {
     "code": "1228",
+    "group": "9",
+    "professor": "EDGAR RAYMUNDO LOPEZ TELLEZ",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "I103"
+      }
+    ],
+    "professor_id": 58547,
+    "first_name": "Edgar Raymundo",
+    "last_name": "López Tellez",
+    "rating": 7.0,
+    "num_ratings": 72
+  },
+  {
+    "code": "1228",
     "group": "10",
     "professor": "RICARDO FERNANDO ABELA POSADA",
     "schedules": [
@@ -85,6 +206,106 @@
   },
   {
     "code": "1228",
+    "group": "11",
+    "professor": "DIEGO ALBERTO ZAVALA GALICIA",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2,
+          3,
+          4
+        ],
+        "classroom": "J210"
+      }
+    ],
+    "professor_id": 66464,
+    "first_name": "Diego Alberto",
+    "last_name": "Zavala Galicia",
+    "rating": 8.2062,
+    "num_ratings": 97
+  },
+  {
+    "code": "1228",
+    "group": "12",
+    "professor": "MARIA ANAYELI RAMIREZ RAMIREZ",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "I204"
+      }
+    ],
+    "professor_id": 133917,
+    "first_name": "Anayeli",
+    "last_name": "Ramirez Ramirez",
+    "rating": 7.52,
+    "num_ratings": 25
+  },
+  {
+    "code": "1228",
+    "group": "13",
+    "professor": "ADRIANA ALARCON MUÑOZ",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "J105"
+      }
+    ],
+    "professor_id": 141997,
+    "first_name": "Adriana",
+    "last_name": "Alarcon Muñoz",
+    "rating": 8.7692,
+    "num_ratings": 52
+  },
+  {
+    "code": "1228",
+    "group": "14",
+    "professor": "DIEGO ALBERTO ZAVALA GALICIA",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          2,
+          3,
+          4
+        ],
+        "classroom": "J110"
+      }
+    ],
+    "professor_id": 66464,
+    "first_name": "Diego Alberto",
+    "last_name": "Zavala Galicia",
+    "rating": 8.2062,
+    "num_ratings": 97
+  },
+  {
+    "code": "1228",
+    "group": "15",
+    "professor": "ERICA GUZMAN VARGAS",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "I101"
+      }
+    ]
+  },
+  {
+    "code": "1228",
     "group": "16",
     "professor": "ALFREDO ANTONIO AGUILAR CASTILLO",
     "schedules": [
@@ -103,6 +324,27 @@
     "last_name": "Aguilar Castillo",
     "rating": 7.7083,
     "num_ratings": 24
+  },
+  {
+    "code": "1228",
+    "group": "17",
+    "professor": "RICARDO ARTURO PINZON AGUIRRE",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2,
+          3,
+          4
+        ],
+        "classroom": "I105"
+      }
+    ],
+    "professor_id": 105197,
+    "first_name": "RICARDO ARTURO",
+    "last_name": "PINZON AGUIRRE",
+    "rating": 9.0263,
+    "num_ratings": 38
   },
   {
     "code": "1228",
@@ -235,247 +477,5 @@
         "classroom": "J110"
       }
     ]
-  },
-  {
-    "code": "1228",
-    "group": "2",
-    "professor": "Grupo cancelado, contactar a la División.",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          1,
-          3,
-          5
-        ],
-        "classroom": "I106"
-      }
-    ]
-  },
-  {
-    "code": "1228",
-    "group": "3",
-    "professor": "RIGOBERTO LEDESMA RIVERA",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          1,
-          3,
-          5
-        ],
-        "classroom": "I102"
-      }
-    ],
-    "professor_id": 108359,
-    "first_name": "Rigoberto",
-    "last_name": "Ledesma Rivera",
-    "rating": 7.2,
-    "num_ratings": 5
-  },
-  {
-    "code": "1228",
-    "group": "4",
-    "professor": "JAVIER GOMEZ MENDEZ",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          2,
-          3,
-          4
-        ],
-        "classroom": "I202"
-      }
-    ],
-    "professor_id": 81587,
-    "first_name": "Javier",
-    "last_name": "Gómez Méndez",
-    "rating": 8.11,
-    "num_ratings": 89
-  },
-  {
-    "code": "1228",
-    "group": "6",
-    "professor": "ANTONIO MIRALLES ESCOBAR",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          1,
-          3,
-          5
-        ],
-        "classroom": "I103"
-      }
-    ],
-    "professor_id": 61247,
-    "first_name": "ANTONIO",
-    "last_name": "MIRALLES ESCOBAR",
-    "rating": 8.0566,
-    "num_ratings": 106
-  },
-  {
-    "code": "1228",
-    "group": "7",
-    "professor": "ABAN ALONSO MORENO AGUILAR",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          2,
-          3,
-          4
-        ],
-        "classroom": "I304"
-      }
-    ],
-    "professor_id": 95313,
-    "first_name": "Aban Alonso",
-    "last_name": "Moreno Aguilar",
-    "rating": 8.0,
-    "num_ratings": 9
-  },
-  {
-    "code": "1228",
-    "group": "9",
-    "professor": "EDGAR RAYMUNDO LOPEZ TELLEZ",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          1,
-          3,
-          5
-        ],
-        "classroom": "I103"
-      }
-    ],
-    "professor_id": 58547,
-    "first_name": "Edgar Raymundo",
-    "last_name": "López Tellez",
-    "rating": 7.0141,
-    "num_ratings": 71
-  },
-  {
-    "code": "1228",
-    "group": "11",
-    "professor": "DIEGO ALBERTO ZAVALA GALICIA",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          2,
-          3,
-          4
-        ],
-        "classroom": "J210"
-      }
-    ],
-    "professor_id": 66464,
-    "first_name": "Diego Alberto",
-    "last_name": "Zavala Galicia",
-    "rating": 8.1979,
-    "num_ratings": 96
-  },
-  {
-    "code": "1228",
-    "group": "12",
-    "professor": "MARIA ANAYELI RAMIREZ RAMIREZ",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          1,
-          3,
-          5
-        ],
-        "classroom": "I204"
-      }
-    ],
-    "professor_id": 133917,
-    "first_name": "Anayeli",
-    "last_name": "Ramirez Ramirez",
-    "rating": 7.52,
-    "num_ratings": 25
-  },
-  {
-    "code": "1228",
-    "group": "13",
-    "professor": "ADRIANA ALARCON MUÑOZ",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          1,
-          3,
-          5
-        ],
-        "classroom": "J105"
-      }
-    ],
-    "professor_id": 141997,
-    "first_name": "Adriana",
-    "last_name": "Alarcon Muñoz",
-    "rating": 8.7692,
-    "num_ratings": 52
-  },
-  {
-    "code": "1228",
-    "group": "14",
-    "professor": "DIEGO ALBERTO ZAVALA GALICIA",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          2,
-          3,
-          4
-        ],
-        "classroom": "J110"
-      }
-    ],
-    "professor_id": 66464,
-    "first_name": "Diego Alberto",
-    "last_name": "Zavala Galicia",
-    "rating": 8.1979,
-    "num_ratings": 96
-  },
-  {
-    "code": "1228",
-    "group": "15",
-    "professor": "ERICA GUZMAN VARGAS",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          1,
-          3,
-          5
-        ],
-        "classroom": "I101"
-      }
-    ]
-  },
-  {
-    "code": "1228",
-    "group": "17",
-    "professor": "RICARDO ARTURO PINZON AGUIRRE",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          2,
-          3,
-          4
-        ],
-        "classroom": "I105"
-      }
-    ],
-    "professor_id": 105197,
-    "first_name": "RICARDO ARTURO",
-    "last_name": "PINZON AGUIRRE",
-    "rating": 9.0263,
-    "num_ratings": 38
   }
 ]

@@ -1,20 +1,6 @@
 [
   {
     "code": "2611",
-    "group": "3",
-    "professor": "Grupo cancelado, contactar a la División.",
-    "schedules": [
-      {
-        "time": "10:00-12:00",
-        "days": [
-          2
-        ],
-        "classroom": "SIN"
-      }
-    ]
-  },
-  {
-    "code": "2611",
     "group": "1",
     "professor": "CLAUDIA JULIETA ESPINOSA PEREZ",
     "schedules": [
@@ -25,6 +11,20 @@
           4
         ],
         "classroom": "Y205"
+      }
+    ]
+  },
+  {
+    "code": "2611",
+    "group": "3",
+    "professor": "Grupo cancelado, contactar a la División.",
+    "schedules": [
+      {
+        "time": "10:00-12:00",
+        "days": [
+          2
+        ],
+        "classroom": "SIN"
       }
     ]
   }

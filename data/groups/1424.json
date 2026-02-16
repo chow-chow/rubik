@@ -1,6 +1,47 @@
 [
   {
     "code": "1424",
+    "group": "1",
+    "professor": "PAVEL RAMOS MARTINEZ",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          3
+        ],
+        "classroom": "J102"
+      },
+      {
+        "time": "07:00-09:00",
+        "days": [
+          1
+        ],
+        "classroom": "J101"
+      }
+    ]
+  },
+  {
+    "code": "1424",
+    "group": "2",
+    "professor": "SAUL LAZCANO SALAS",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "J102"
+      }
+    ],
+    "professor_id": 149542,
+    "first_name": "Saul",
+    "last_name": "Lazcano Salas",
+    "rating": 8.375,
+    "num_ratings": 8
+  },
+  {
+    "code": "1424",
     "group": "3",
     "professor": "MANUEL CORTES RUBIO",
     "schedules": [
@@ -38,67 +79,6 @@
     "last_name": "Peña Maciel",
     "rating": 7.1923,
     "num_ratings": 26
-  },
-  {
-    "code": "1424",
-    "group": "11",
-    "professor": "JOSE LUIS FLORES SILVA",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "J108"
-      }
-    ],
-    "professor_id": 43499,
-    "first_name": "Jose luis",
-    "last_name": "Flores Silva",
-    "rating": 7.4107,
-    "num_ratings": 56
-  },
-  {
-    "code": "1424",
-    "group": "1",
-    "professor": "PAVEL RAMOS MARTINEZ",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          1
-        ],
-        "classroom": "J101"
-      },
-      {
-        "time": "07:00-09:00",
-        "days": [
-          3
-        ],
-        "classroom": "J102"
-      }
-    ]
-  },
-  {
-    "code": "1424",
-    "group": "2",
-    "professor": "SAUL LAZCANO SALAS",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "J102"
-      }
-    ],
-    "professor_id": 149542,
-    "first_name": "Saul",
-    "last_name": "Lazcano Salas",
-    "rating": 8.375,
-    "num_ratings": 8
   },
   {
     "code": "1424",
@@ -219,6 +199,26 @@
     "last_name": "Velazco Velasco",
     "rating": 7.2182,
     "num_ratings": 55
+  },
+  {
+    "code": "1424",
+    "group": "11",
+    "professor": "JOSE LUIS FLORES SILVA",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "J108"
+      }
+    ],
+    "professor_id": 43499,
+    "first_name": "Jose luis",
+    "last_name": "Flores Silva",
+    "rating": 7.4107,
+    "num_ratings": 56
   },
   {
     "code": "1424",

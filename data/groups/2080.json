@@ -40,100 +40,6 @@
   },
   {
     "code": "2080",
-    "group": "18",
-    "professor": "JOSE FERNANDO GARCIA ROJAS MIRA",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "A106"
-      }
-    ]
-  },
-  {
-    "code": "2080",
-    "group": "20",
-    "professor": "SERGIO EDUARDO ZERECERO GALICIA",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "A108"
-      }
-    ],
-    "professor_id": 114257,
-    "first_name": "Sergio Eduardo",
-    "last_name": "Zerecero Galicia",
-    "rating": 4.5,
-    "num_ratings": 2
-  },
-  {
-    "code": "2080",
-    "group": "22",
-    "professor": "HECTOR GERARDO GONZALEZ REZA",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "A202"
-      }
-    ],
-    "professor_id": 105047,
-    "first_name": "Hector Gerardo",
-    "last_name": "Gonzalez Reza",
-    "rating": 7.0,
-    "num_ratings": 10
-  },
-  {
-    "code": "2080",
-    "group": "23",
-    "professor": "JESUS ULISES ACOSTA ROBLEDO",
-    "schedules": [
-      {
-        "time": "17:00-21:00",
-        "days": [
-          5
-        ],
-        "classroom": "A101"
-      }
-    ],
-    "professor_id": 72178,
-    "first_name": "Jesús Ulises",
-    "last_name": "Acosta Robledo",
-    "rating": 7.6667,
-    "num_ratings": 12
-  },
-  {
-    "code": "2080",
-    "group": "25",
-    "professor": "HECTOR GERARDO GONZALEZ REZA",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "A101"
-      }
-    ],
-    "professor_id": 105047,
-    "first_name": "Hector Gerardo",
-    "last_name": "Gonzalez Reza",
-    "rating": 7.0,
-    "num_ratings": 10
-  },
-  {
-    "code": "2080",
     "group": "3",
     "professor": "EDUARDO ALEJANDRO HERNANDEZ GONZALEZ",
     "schedules": [
@@ -188,8 +94,8 @@
     "professor_id": 105044,
     "first_name": "Juan Manuel",
     "last_name": "Bueno Soria",
-    "rating": 6.0,
-    "num_ratings": 23
+    "rating": 6.2,
+    "num_ratings": 25
   },
   {
     "code": "2080",
@@ -417,6 +323,21 @@
   },
   {
     "code": "2080",
+    "group": "18",
+    "professor": "JOSE FERNANDO GARCIA ROJAS MIRA",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A106"
+      }
+    ]
+  },
+  {
+    "code": "2080",
     "group": "19",
     "professor": "JUAN MANUEL BUENO SORIA",
     "schedules": [
@@ -432,8 +353,28 @@
     "professor_id": 105044,
     "first_name": "Juan Manuel",
     "last_name": "Bueno Soria",
-    "rating": 6.0,
-    "num_ratings": 23
+    "rating": 6.2,
+    "num_ratings": 25
+  },
+  {
+    "code": "2080",
+    "group": "20",
+    "professor": "SERGIO EDUARDO ZERECERO GALICIA",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "A108"
+      }
+    ],
+    "professor_id": 114257,
+    "first_name": "Sergio Eduardo",
+    "last_name": "Zerecero Galicia",
+    "rating": 4.5,
+    "num_ratings": 2
   },
   {
     "code": "2080",
@@ -452,8 +393,47 @@
     "professor_id": 105044,
     "first_name": "Juan Manuel",
     "last_name": "Bueno Soria",
-    "rating": 6.0,
-    "num_ratings": 23
+    "rating": 6.2,
+    "num_ratings": 25
+  },
+  {
+    "code": "2080",
+    "group": "22",
+    "professor": "HECTOR GERARDO GONZALEZ REZA",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "A202"
+      }
+    ],
+    "professor_id": 105047,
+    "first_name": "Hector Gerardo",
+    "last_name": "Gonzalez Reza",
+    "rating": 7.0,
+    "num_ratings": 10
+  },
+  {
+    "code": "2080",
+    "group": "23",
+    "professor": "JESUS ULISES ACOSTA ROBLEDO",
+    "schedules": [
+      {
+        "time": "17:00-21:00",
+        "days": [
+          5
+        ],
+        "classroom": "A101"
+      }
+    ],
+    "professor_id": 72178,
+    "first_name": "Jesús Ulises",
+    "last_name": "Acosta Robledo",
+    "rating": 7.6667,
+    "num_ratings": 12
   },
   {
     "code": "2080",
@@ -474,6 +454,26 @@
     "last_name": "Carranza Torres",
     "rating": 8.2083,
     "num_ratings": 24
+  },
+  {
+    "code": "2080",
+    "group": "25",
+    "professor": "HECTOR GERARDO GONZALEZ REZA",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "A101"
+      }
+    ],
+    "professor_id": 105047,
+    "first_name": "Hector Gerardo",
+    "last_name": "Gonzalez Reza",
+    "rating": 7.0,
+    "num_ratings": 10
   },
   {
     "code": "2080",

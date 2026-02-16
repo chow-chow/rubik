@@ -1,20 +1,6 @@
 [
   {
     "code": "2710",
-    "group": "2",
-    "professor": "Grupo cancelado, contactar a la División.",
-    "schedules": [
-      {
-        "time": "10:00-12:00",
-        "days": [
-          1
-        ],
-        "classroom": "SIN"
-      }
-    ]
-  },
-  {
-    "code": "2710",
     "group": "1",
     "professor": "GILBERTO FUENTES GARCIA",
     "schedules": [
@@ -25,6 +11,20 @@
           3
         ],
         "classroom": "B409"
+      }
+    ]
+  },
+  {
+    "code": "2710",
+    "group": "2",
+    "professor": "Grupo cancelado, contactar a la División.",
+    "schedules": [
+      {
+        "time": "10:00-12:00",
+        "days": [
+          1
+        ],
+        "classroom": "SIN"
       }
     ]
   }

@@ -36,6 +36,46 @@
   },
   {
     "code": "2601",
+    "group": "3",
+    "professor": "MARIA DEL ROSARIO NAVARRETE GATICA",
+    "schedules": [
+      {
+        "time": "11:30-13:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "U304"
+      }
+    ],
+    "professor_id": 189356,
+    "first_name": "Maria del Rosario",
+    "last_name": "Navarrete Gatica",
+    "rating": 8.375,
+    "num_ratings": 8
+  },
+  {
+    "code": "2601",
+    "group": "4",
+    "professor": "MARIA DEL ROSARIO NAVARRETE GATICA",
+    "schedules": [
+      {
+        "time": "13:00-14:30",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "SIN"
+      }
+    ],
+    "professor_id": 189356,
+    "first_name": "Maria del Rosario",
+    "last_name": "Navarrete Gatica",
+    "rating": 8.375,
+    "num_ratings": 8
+  },
+  {
+    "code": "2601",
     "group": "5",
     "professor": "ADRIANA ELIZABETH HERNANDEZ CRUZ",
     "schedules": [
@@ -57,7 +97,7 @@
   {
     "code": "2601",
     "group": "6",
-    "professor": "PROFESOR POR ASIGNAR",
+    "professor": "RICARDO ORTIZ CONDE",
     "schedules": [
       {
         "time": "07:00-10:00",
@@ -67,45 +107,5 @@
         "classroom": "A210"
       }
     ]
-  },
-  {
-    "code": "2601",
-    "group": "3",
-    "professor": "MARIA DEL ROSARIO NAVARRETE GATICA",
-    "schedules": [
-      {
-        "time": "11:30-13:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "U304"
-      }
-    ],
-    "professor_id": 189356,
-    "first_name": "Maria del Rosario",
-    "last_name": "Navarrete Gatica",
-    "rating": 8.1429,
-    "num_ratings": 7
-  },
-  {
-    "code": "2601",
-    "group": "4",
-    "professor": "MARIA DEL ROSARIO NAVARRETE GATICA",
-    "schedules": [
-      {
-        "time": "13:00-14:30",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "SIN"
-      }
-    ],
-    "professor_id": 189356,
-    "first_name": "Maria del Rosario",
-    "last_name": "Navarrete Gatica",
-    "rating": 8.1429,
-    "num_ratings": 7
   }
 ]

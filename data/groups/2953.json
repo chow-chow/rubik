@@ -1,26 +1,6 @@
 [
   {
     "code": "2953",
-    "group": "1",
-    "professor": "JESUS SAVAGE CARMONA",
-    "schedules": [
-      {
-        "time": "11:00-12:30",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "S227"
-      }
-    ],
-    "professor_id": 81491,
-    "first_name": "Jesus",
-    "last_name": "Savage Carmona",
-    "rating": 6.1429,
-    "num_ratings": 14
-  },
-  {
-    "code": "2953",
     "group": "2",
     "professor": "MARCO ANTONIO NEGRETE VILLANUEVA",
     "schedules": [

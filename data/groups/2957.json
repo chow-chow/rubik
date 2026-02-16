@@ -1,39 +1,6 @@
 [
   {
     "code": "2957",
-    "group": "3",
-    "professor": "JORGE ALBERTO RODRIGUEZ CAMPOS",
-    "schedules": [
-      {
-        "time": "11:00-14:00",
-        "days": [
-          5
-        ],
-        "classroom": "A107"
-      }
-    ],
-    "professor_id": 108516,
-    "first_name": "Jorge Alberto",
-    "last_name": "Rodríguez Campos",
-    "rating": 8.4643,
-    "num_ratings": 56
-  },
-  {
-    "code": "2957",
-    "group": "5",
-    "professor": "VIRGINIA CECILIA DIAZ GARCIA",
-    "schedules": [
-      {
-        "time": "08:00-11:00",
-        "days": [
-          6
-        ],
-        "classroom": "B402"
-      }
-    ]
-  },
-  {
-    "code": "2957",
     "group": "1",
     "professor": "JOSE ANTONIO MACIAS GARCIA",
     "schedules": [
@@ -74,6 +41,25 @@
   },
   {
     "code": "2957",
+    "group": "3",
+    "professor": "JORGE ALBERTO RODRIGUEZ CAMPOS",
+    "schedules": [
+      {
+        "time": "11:00-14:00",
+        "days": [
+          5
+        ],
+        "classroom": "A107"
+      }
+    ],
+    "professor_id": 108516,
+    "first_name": "Jorge Alberto",
+    "last_name": "Rodríguez Campos",
+    "rating": 8.4643,
+    "num_ratings": 56
+  },
+  {
+    "code": "2957",
     "group": "4",
     "professor": "HEIDDY ALEJANDRA PASTEN LUGO",
     "schedules": [
@@ -90,5 +76,19 @@
     "last_name": "Pasten Lugo",
     "rating": 8.7143,
     "num_ratings": 28
+  },
+  {
+    "code": "2957",
+    "group": "5",
+    "professor": "VIRGINIA CECILIA DIAZ GARCIA",
+    "schedules": [
+      {
+        "time": "08:00-11:00",
+        "days": [
+          6
+        ],
+        "classroom": "B402"
+      }
+    ]
   }
 ]

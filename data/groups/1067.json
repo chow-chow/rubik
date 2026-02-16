@@ -1,6 +1,46 @@
 [
   {
     "code": "1067",
+    "group": "1",
+    "professor": "GILBERTO SILVA ROMO",
+    "schedules": [
+      {
+        "time": "10:00-12:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "C203"
+      }
+    ],
+    "professor_id": 78441,
+    "first_name": "Gilberto",
+    "last_name": "Silva Romo",
+    "rating": 7.8421,
+    "num_ratings": 19
+  },
+  {
+    "code": "1067",
+    "group": "2",
+    "professor": "JOSE LUIS ARCOS HERNANDEZ",
+    "schedules": [
+      {
+        "time": "16:00-18:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "C203"
+      }
+    ],
+    "professor_id": 23452,
+    "first_name": "José Luis",
+    "last_name": "Arcos Hernández",
+    "rating": 7.45,
+    "num_ratings": 40
+  },
+  {
+    "code": "1067",
     "group": "3",
     "professor": "FERNANDO ROSIQUE NARANJO",
     "schedules": [
@@ -58,45 +98,5 @@
     "last_name": "Hernández Marmolejo",
     "rating": 5.4167,
     "num_ratings": 36
-  },
-  {
-    "code": "1067",
-    "group": "1",
-    "professor": "GILBERTO SILVA ROMO",
-    "schedules": [
-      {
-        "time": "10:00-12:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "C203"
-      }
-    ],
-    "professor_id": 78441,
-    "first_name": "Gilberto",
-    "last_name": "Silva Romo",
-    "rating": 7.8421,
-    "num_ratings": 19
-  },
-  {
-    "code": "1067",
-    "group": "2",
-    "professor": "JOSE LUIS ARCOS HERNANDEZ",
-    "schedules": [
-      {
-        "time": "16:00-18:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "C203"
-      }
-    ],
-    "professor_id": 23452,
-    "first_name": "José Luis",
-    "last_name": "Arcos Hernández",
-    "rating": 7.45,
-    "num_ratings": 40
   }
 ]

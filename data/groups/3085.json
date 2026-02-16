@@ -1,26 +1,6 @@
 [
   {
     "code": "3085",
-    "group": "3",
-    "professor": "DAVID PADILLA MEDINA",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "A203"
-      }
-    ],
-    "professor_id": 177195,
-    "first_name": "David",
-    "last_name": "Padilla Medina",
-    "rating": 10.0,
-    "num_ratings": 2
-  },
-  {
-    "code": "3085",
     "group": "1",
     "professor": "CARLOS ALBERTO GONZALEZ RODRIGUEZ",
     "schedules": [
@@ -53,5 +33,25 @@
         "classroom": "D003"
       }
     ]
+  },
+  {
+    "code": "3085",
+    "group": "3",
+    "professor": "DAVID PADILLA MEDINA",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A203"
+      }
+    ],
+    "professor_id": 177195,
+    "first_name": "David",
+    "last_name": "Padilla Medina",
+    "rating": 10.0,
+    "num_ratings": 2
   }
 ]

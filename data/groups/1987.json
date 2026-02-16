@@ -1,6 +1,26 @@
 [
   {
     "code": "1987",
+    "group": "1",
+    "professor": "JOSE ANGEL GOMEZ CABRERA",
+    "schedules": [
+      {
+        "time": "13:00-16:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "D008"
+      }
+    ],
+    "professor_id": 162271,
+    "first_name": "José Angel",
+    "last_name": "Gómez Cabrera",
+    "rating": 3.8333,
+    "num_ratings": 6
+  },
+  {
+    "code": "1987",
     "group": "2",
     "professor": "ANTONIO ENRIQUE ACEVEDO FRANCO",
     "schedules": [
@@ -40,25 +60,5 @@
     "last_name": "Chávez Garduño",
     "rating": 8.6667,
     "num_ratings": 3
-  },
-  {
-    "code": "1987",
-    "group": "1",
-    "professor": "JOSE ANGEL GOMEZ CABRERA",
-    "schedules": [
-      {
-        "time": "13:00-16:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "D008"
-      }
-    ],
-    "professor_id": 162271,
-    "first_name": "José Angel",
-    "last_name": "Gómez Cabrera",
-    "rating": 3.8333,
-    "num_ratings": 6
   }
 ]

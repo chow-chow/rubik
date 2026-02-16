@@ -1,6 +1,25 @@
 [
   {
     "code": "6822",
+    "group": "1",
+    "professor": "JESUS MARIA FRANCISCO HERNANDEZ MORALES",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1
+        ],
+        "classroom": "Q109"
+      }
+    ],
+    "professor_id": 80201,
+    "first_name": "JESUS MARIA FRANCISCO",
+    "last_name": "HERNANDEZ MORALES",
+    "rating": 6.1111,
+    "num_ratings": 18
+  },
+  {
+    "code": "6822",
     "group": "2",
     "professor": "DOMINGO TEODORO MENDOZA ROSALES",
     "schedules": [
@@ -17,6 +36,25 @@
     "last_name": "Mendoza Rosales",
     "rating": 6.9565,
     "num_ratings": 69
+  },
+  {
+    "code": "6822",
+    "group": "3",
+    "professor": "JESUS MARIA FRANCISCO HERNANDEZ MORALES",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2
+        ],
+        "classroom": "Q109"
+      }
+    ],
+    "professor_id": 80201,
+    "first_name": "JESUS MARIA FRANCISCO",
+    "last_name": "HERNANDEZ MORALES",
+    "rating": 6.1111,
+    "num_ratings": 18
   },
   {
     "code": "6822",
@@ -55,44 +93,6 @@
     "last_name": "Mendoza Rosales",
     "rating": 6.9565,
     "num_ratings": 69
-  },
-  {
-    "code": "6822",
-    "group": "1",
-    "professor": "JESUS MARIA FRANCISCO HERNANDEZ MORALES",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          1
-        ],
-        "classroom": "Q109"
-      }
-    ],
-    "professor_id": 80201,
-    "first_name": "JESUS MARIA FRANCISCO",
-    "last_name": "HERNANDEZ MORALES",
-    "rating": 6.1111,
-    "num_ratings": 18
-  },
-  {
-    "code": "6822",
-    "group": "3",
-    "professor": "JESUS MARIA FRANCISCO HERNANDEZ MORALES",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          2
-        ],
-        "classroom": "Q109"
-      }
-    ],
-    "professor_id": 80201,
-    "first_name": "JESUS MARIA FRANCISCO",
-    "last_name": "HERNANDEZ MORALES",
-    "rating": 6.1111,
-    "num_ratings": 18
   },
   {
     "code": "6822",

@@ -1,39 +1,6 @@
 [
   {
     "code": "6999",
-    "group": "8",
-    "professor": "ALBERTO ISRAEL HERRERA MARTINEZ",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          2
-        ],
-        "classroom": "Q316"
-      }
-    ]
-  },
-  {
-    "code": "6999",
-    "group": "13",
-    "professor": "JORGE ANTONIO MONROY JUAREZ",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          4
-        ],
-        "classroom": "Q316"
-      }
-    ],
-    "professor_id": 89950,
-    "first_name": "Jorge Antonio",
-    "last_name": "Monroy Juarez",
-    "rating": 6.2353,
-    "num_ratings": 17
-  },
-  {
-    "code": "6999",
     "group": "1",
     "professor": "MANUEL ALEJANDRO CORDOBA MALDONADO",
     "schedules": [
@@ -157,6 +124,20 @@
   },
   {
     "code": "6999",
+    "group": "8",
+    "professor": "ALBERTO ISRAEL HERRERA MARTINEZ",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          2
+        ],
+        "classroom": "Q316"
+      }
+    ]
+  },
+  {
+    "code": "6999",
     "group": "9",
     "professor": "ESPERANZA GUERRA ZAMORA",
     "schedules": [
@@ -218,6 +199,20 @@
           4
         ],
         "classroom": "Q314"
+      }
+    ]
+  },
+  {
+    "code": "6999",
+    "group": "13",
+    "professor": "Grupo cancelado, contactar a la División.",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          4
+        ],
+        "classroom": "Q316"
       }
     ]
   },

@@ -1,25 +1,6 @@
 [
   {
     "code": "5138",
-    "group": "2",
-    "professor": "JAIME HECTOR MURILLO QUINTERO",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          2
-        ],
-        "classroom": "Q109"
-      }
-    ],
-    "professor_id": 94156,
-    "first_name": "Jaime Hector",
-    "last_name": "Murillo Quintero",
-    "rating": 4.7273,
-    "num_ratings": 22
-  },
-  {
-    "code": "5138",
     "group": "1",
     "professor": "FRANCISCO JAVIER MARTINEZ RODRIGUEZ",
     "schedules": [
@@ -36,6 +17,25 @@
     "last_name": "Martinez Rodriguez",
     "rating": 4.7179,
     "num_ratings": 39
+  },
+  {
+    "code": "5138",
+    "group": "2",
+    "professor": "JAIME HECTOR MURILLO QUINTERO",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          2
+        ],
+        "classroom": "Q109"
+      }
+    ],
+    "professor_id": 94156,
+    "first_name": "Jaime Hector",
+    "last_name": "Murillo Quintero",
+    "rating": 4.7273,
+    "num_ratings": 22
   },
   {
     "code": "5138",

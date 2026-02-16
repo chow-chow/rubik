@@ -40,26 +40,6 @@
   },
   {
     "code": "1982",
-    "group": "4",
-    "professor": "BERENICE ANELL MARTINEZ CABAÑAS",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          3,
-          5
-        ],
-        "classroom": "C204"
-      }
-    ],
-    "professor_id": 135138,
-    "first_name": "berenice",
-    "last_name": "Martinez Cabañas",
-    "rating": 7.4118,
-    "num_ratings": 17
-  },
-  {
-    "code": "1982",
     "group": "3",
     "professor": "TEODORO IVAN GUERRERO SARABIA",
     "schedules": [
@@ -77,5 +57,25 @@
     "last_name": "Guerrero Sarabia",
     "rating": 6.1,
     "num_ratings": 10
+  },
+  {
+    "code": "1982",
+    "group": "4",
+    "professor": "BERENICE ANELL MARTINEZ CABAÑAS",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "C204"
+      }
+    ],
+    "professor_id": 135138,
+    "first_name": "berenice",
+    "last_name": "Martinez Cabañas",
+    "rating": 7.4118,
+    "num_ratings": 17
   }
 ]

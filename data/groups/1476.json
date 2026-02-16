@@ -1,21 +1,6 @@
 [
   {
     "code": "1476",
-    "group": "2",
-    "professor": "LUIS MANUEL CERVANTES MARCELINO",
-    "schedules": [
-      {
-        "time": "14:30-16:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "Y204"
-      }
-    ]
-  },
-  {
-    "code": "1476",
     "group": "1",
     "professor": "JOEL CONTRERAS LIMAVer Nota 1",
     "schedules": [
@@ -26,6 +11,21 @@
           3
         ],
         "classroom": "EXTR"
+      }
+    ]
+  },
+  {
+    "code": "1476",
+    "group": "2",
+    "professor": "LUIS MANUEL CERVANTES MARCELINO",
+    "schedules": [
+      {
+        "time": "14:30-16:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "Y204"
       }
     ]
   },
@@ -52,16 +52,16 @@
       {
         "time": "13:00-14:30",
         "days": [
-          1
+          3
         ],
-        "classroom": "Y204"
+        "classroom": "EXTR"
       },
       {
         "time": "13:00-14:30",
         "days": [
-          3
+          1
         ],
-        "classroom": "EXTR"
+        "classroom": "Y204"
       }
     ]
   }

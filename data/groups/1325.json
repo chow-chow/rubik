@@ -1,91 +1,6 @@
 [
   {
     "code": "1325",
-    "group": "9",
-    "professor": "MIGUEL EDUARDO GONZALEZ CARDENAS",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          3,
-          5
-        ],
-        "classroom": "I104"
-      }
-    ],
-    "professor_id": 60278,
-    "first_name": "Miguel Eduardo",
-    "last_name": "Gonzalez Cardenas",
-    "rating": 5.1154,
-    "num_ratings": 26
-  },
-  {
-    "code": "1325",
-    "group": "12",
-    "professor": "ALEJANDRA MARIBEL BARRAGAN MARTINEZ",
-    "schedules": [
-      {
-        "time": "13:00-17:00",
-        "days": [
-          5
-        ],
-        "classroom": "I206"
-      }
-    ],
-    "professor_id": 105237,
-    "first_name": "ALEJANDRA MARIBEL",
-    "last_name": "BARRAGAN MARTINEZ",
-    "rating": 7.129,
-    "num_ratings": 31
-  },
-  {
-    "code": "1325",
-    "group": "13",
-    "professor": "ANDRES BASILIO RAMIREZ Y VILLA",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          3
-        ],
-        "classroom": "J103"
-      },
-      {
-        "time": "15:00-17:00",
-        "days": [
-          1
-        ],
-        "classroom": "I103"
-      }
-    ],
-    "professor_id": 63727,
-    "first_name": "Andres Basilio",
-    "last_name": "Ramirez y Villa",
-    "rating": 6.2051,
-    "num_ratings": 39
-  },
-  {
-    "code": "1325",
-    "group": "20",
-    "professor": "JESUS ALFREDO ZARRAGA MARTINEZ",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "J106"
-      }
-    ],
-    "professor_id": 108661,
-    "first_name": "Jesus Alfredo",
-    "last_name": "Zarraga Martinez",
-    "rating": 5.1818,
-    "num_ratings": 22
-  },
-  {
-    "code": "1325",
     "group": "1",
     "professor": "ERIK NORMAN GUEVARA CORONA",
     "schedules": [
@@ -245,6 +160,26 @@
   },
   {
     "code": "1325",
+    "group": "9",
+    "professor": "MIGUEL EDUARDO GONZALEZ CARDENAS",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "I104"
+      }
+    ],
+    "professor_id": 60278,
+    "first_name": "Miguel Eduardo",
+    "last_name": "Gonzalez Cardenas",
+    "rating": 5.1154,
+    "num_ratings": 26
+  },
+  {
+    "code": "1325",
     "group": "10",
     "professor": "RAQUEL MARTINEZ AVALOS",
     "schedules": [
@@ -271,16 +206,16 @@
       {
         "time": "13:00-15:00",
         "days": [
-          5
+          3
         ],
-        "classroom": "J108"
+        "classroom": "J101"
       },
       {
         "time": "13:00-15:00",
         "days": [
-          3
+          5
         ],
-        "classroom": "J101"
+        "classroom": "J108"
       }
     ],
     "professor_id": 177290,
@@ -288,6 +223,51 @@
     "last_name": "González Martínez",
     "rating": 7.7059,
     "num_ratings": 17
+  },
+  {
+    "code": "1325",
+    "group": "12",
+    "professor": "ALEJANDRA MARIBEL BARRAGAN MARTINEZ",
+    "schedules": [
+      {
+        "time": "13:00-17:00",
+        "days": [
+          5
+        ],
+        "classroom": "I206"
+      }
+    ],
+    "professor_id": 105237,
+    "first_name": "ALEJANDRA MARIBEL",
+    "last_name": "BARRAGAN MARTINEZ",
+    "rating": 7.129,
+    "num_ratings": 31
+  },
+  {
+    "code": "1325",
+    "group": "13",
+    "professor": "ANDRES BASILIO RAMIREZ Y VILLA",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          3
+        ],
+        "classroom": "J103"
+      },
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1
+        ],
+        "classroom": "I103"
+      }
+    ],
+    "professor_id": 63727,
+    "first_name": "Andres Basilio",
+    "last_name": "Ramirez y Villa",
+    "rating": 6.2051,
+    "num_ratings": 39
   },
   {
     "code": "1325",
@@ -372,16 +352,16 @@
       {
         "time": "17:00-19:00",
         "days": [
-          3
+          5
         ],
-        "classroom": "I106"
+        "classroom": "I105"
       },
       {
         "time": "17:00-19:00",
         "days": [
-          5
+          3
         ],
-        "classroom": "I105"
+        "classroom": "I106"
       }
     ],
     "professor_id": 177289,
@@ -409,5 +389,25 @@
     "last_name": "Fernández Martínez",
     "rating": 8.0682,
     "num_ratings": 44
+  },
+  {
+    "code": "1325",
+    "group": "20",
+    "professor": "JESUS ALFREDO ZARRAGA MARTINEZ",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "J106"
+      }
+    ],
+    "professor_id": 108661,
+    "first_name": "Jesus Alfredo",
+    "last_name": "Zarraga Martinez",
+    "rating": 5.2609,
+    "num_ratings": 23
   }
 ]

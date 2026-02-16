@@ -21,6 +21,21 @@
   },
   {
     "code": "2400",
+    "group": "2",
+    "professor": "ARTEMISA MAZON MARTINEZ",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "O103"
+      }
+    ]
+  },
+  {
+    "code": "2400",
     "group": "3",
     "professor": "RAFAEL SCHOUWENAARS",
     "schedules": [
@@ -36,43 +51,8 @@
     "professor_id": 79048,
     "first_name": "Rafael",
     "last_name": "Schouwenaars Franssens",
-    "rating": 7.5714,
-    "num_ratings": 14
-  },
-  {
-    "code": "2400",
-    "group": "9",
-    "professor": "MIGUEL ANGEL HERNANDEZ GALLEGOS",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "EXTR"
-      }
-    ],
-    "professor_id": 71869,
-    "first_name": "Miguel Ángel",
-    "last_name": "Hernández Gallegos",
-    "rating": 6.3333,
-    "num_ratings": 6
-  },
-  {
-    "code": "2400",
-    "group": "2",
-    "professor": "ARTEMISA MAZON MARTINEZ",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          3,
-          5
-        ],
-        "classroom": "O103"
-      }
-    ]
+    "rating": 7.7333,
+    "num_ratings": 15
   },
   {
     "code": "2400",
@@ -168,5 +148,25 @@
     "last_name": "Ávalos Rendón",
     "rating": 7.2353,
     "num_ratings": 17
+  },
+  {
+    "code": "2400",
+    "group": "9",
+    "professor": "MIGUEL ANGEL HERNANDEZ GALLEGOS",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "EXTR"
+      }
+    ],
+    "professor_id": 71869,
+    "first_name": "Miguel Ángel",
+    "last_name": "Hernández Gallegos",
+    "rating": 6.3333,
+    "num_ratings": 6
   }
 ]

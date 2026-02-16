@@ -35,32 +35,6 @@
   },
   {
     "code": "1068",
-    "group": "4",
-    "professor": "RUBEN MIRANDA ARIAS",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          3
-        ],
-        "classroom": "C205"
-      },
-      {
-        "time": "09:00-11:00",
-        "days": [
-          5
-        ],
-        "classroom": "D006"
-      }
-    ],
-    "professor_id": 91807,
-    "first_name": "Ruben",
-    "last_name": "Miranda Arias",
-    "rating": 4.7273,
-    "num_ratings": 22
-  },
-  {
-    "code": "1068",
     "group": "3",
     "professor": "ERICK JAIR GORDILLO GUILLEN",
     "schedules": [
@@ -85,5 +59,31 @@
     "last_name": "GORDILLO GUILLEN",
     "rating": 8.2857,
     "num_ratings": 7
+  },
+  {
+    "code": "1068",
+    "group": "4",
+    "professor": "RUBEN MIRANDA ARIAS",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          3
+        ],
+        "classroom": "C205"
+      },
+      {
+        "time": "09:00-11:00",
+        "days": [
+          5
+        ],
+        "classroom": "D006"
+      }
+    ],
+    "professor_id": 91807,
+    "first_name": "Ruben",
+    "last_name": "Miranda Arias",
+    "rating": 4.7273,
+    "num_ratings": 22
   }
 ]

@@ -36,6 +36,26 @@
   },
   {
     "code": "1124",
+    "group": "3",
+    "professor": "JESICA MARTINEZ ROSAS",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A104"
+      }
+    ],
+    "professor_id": 60167,
+    "first_name": "Jesica",
+    "last_name": "Martinez Rosas",
+    "rating": 8.0909,
+    "num_ratings": 44
+  },
+  {
+    "code": "1124",
     "group": "4",
     "professor": "PAOLA GUTIERREZ ARANDA",
     "schedules": [
@@ -75,6 +95,21 @@
   },
   {
     "code": "1124",
+    "group": "6",
+    "professor": "PAULINA LANDEROS ALVARADO",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "A101"
+      }
+    ]
+  },
+  {
+    "code": "1124",
     "group": "7",
     "professor": "JESUS PEREZ ESQUIVEL",
     "schedules": [
@@ -92,6 +127,41 @@
     "last_name": "Pérez Esquivel",
     "rating": 8.625,
     "num_ratings": 72
+  },
+  {
+    "code": "1124",
+    "group": "9",
+    "professor": "ANA YANTZIN PEREZ CORTES",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "Y102"
+      }
+    ]
+  },
+  {
+    "code": "1124",
+    "group": "10",
+    "professor": "PAOLA GUTIERREZ ARANDA",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A105"
+      }
+    ],
+    "professor_id": 134724,
+    "first_name": "PAOLA",
+    "last_name": "GUTIERREZ ARANDA",
+    "rating": 10.0,
+    "num_ratings": 2
   },
   {
     "code": "1124",
@@ -135,6 +205,41 @@
   },
   {
     "code": "1124",
+    "group": "13",
+    "professor": "ANA YANTZIN PEREZ CORTES",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "Y102"
+      }
+    ]
+  },
+  {
+    "code": "1124",
+    "group": "14",
+    "professor": "PAOLA GUTIERREZ ARANDA",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A106"
+      }
+    ],
+    "professor_id": 134724,
+    "first_name": "PAOLA",
+    "last_name": "GUTIERREZ ARANDA",
+    "rating": 10.0,
+    "num_ratings": 2
+  },
+  {
+    "code": "1124",
     "group": "15",
     "professor": "VALERIA AMANDA BENITEZ ROSETE",
     "schedules": [
@@ -152,6 +257,41 @@
     "last_name": "Benitez Rosete",
     "rating": 8.45,
     "num_ratings": 20
+  },
+  {
+    "code": "1124",
+    "group": "16",
+    "professor": "PAULINA LANDEROS ALVARADO",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "A108"
+      }
+    ]
+  },
+  {
+    "code": "1124",
+    "group": "17",
+    "professor": "RAFAEL RODRIGUEZ VICTORIA",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "Y101"
+      }
+    ],
+    "professor_id": 119459,
+    "first_name": "Rafael",
+    "last_name": "Rodríguez Victoria",
+    "rating": 9.0588,
+    "num_ratings": 17
   },
   {
     "code": "1124",
@@ -255,6 +395,26 @@
   },
   {
     "code": "1124",
+    "group": "23",
+    "professor": "ANA GEORGINA GARCIA Y COLOME",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "Y101"
+      }
+    ],
+    "professor_id": 58656,
+    "first_name": "Ana Georgina",
+    "last_name": "Garcia y Colome",
+    "rating": 9.2703,
+    "num_ratings": 37
+  },
+  {
+    "code": "1124",
     "group": "24",
     "professor": "AURELIO PEREZ GOMEZ",
     "schedules": [
@@ -310,8 +470,8 @@
     "professor_id": 79450,
     "first_name": "Maria del Rocio",
     "last_name": "Padilla Hernández",
-    "rating": 6.1765,
-    "num_ratings": 17
+    "rating": 6.1111,
+    "num_ratings": 18
   },
   {
     "code": "1124",
@@ -347,165 +507,5 @@
         "classroom": "A108"
       }
     ]
-  },
-  {
-    "code": "1124",
-    "group": "3",
-    "professor": "JESICA MARTINEZ ROSAS",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "A104"
-      }
-    ],
-    "professor_id": 60167,
-    "first_name": "Jesica",
-    "last_name": "Martinez Rosas",
-    "rating": 8.0909,
-    "num_ratings": 44
-  },
-  {
-    "code": "1124",
-    "group": "6",
-    "professor": "PAULINA LANDEROS ALVARADO",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "A101"
-      }
-    ]
-  },
-  {
-    "code": "1124",
-    "group": "9",
-    "professor": "ANA YANTZIN PEREZ CORTES",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "Y102"
-      }
-    ]
-  },
-  {
-    "code": "1124",
-    "group": "10",
-    "professor": "PAOLA GUTIERREZ ARANDA",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "A105"
-      }
-    ],
-    "professor_id": 134724,
-    "first_name": "PAOLA",
-    "last_name": "GUTIERREZ ARANDA",
-    "rating": 10.0,
-    "num_ratings": 2
-  },
-  {
-    "code": "1124",
-    "group": "13",
-    "professor": "ANA YANTZIN PEREZ CORTES",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "Y102"
-      }
-    ]
-  },
-  {
-    "code": "1124",
-    "group": "14",
-    "professor": "PAOLA GUTIERREZ ARANDA",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "A106"
-      }
-    ],
-    "professor_id": 134724,
-    "first_name": "PAOLA",
-    "last_name": "GUTIERREZ ARANDA",
-    "rating": 10.0,
-    "num_ratings": 2
-  },
-  {
-    "code": "1124",
-    "group": "16",
-    "professor": "PAULINA LANDEROS ALVARADO",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "A108"
-      }
-    ]
-  },
-  {
-    "code": "1124",
-    "group": "17",
-    "professor": "RAFAEL RODRIGUEZ VICTORIA",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "Y101"
-      }
-    ],
-    "professor_id": 119459,
-    "first_name": "Rafael",
-    "last_name": "Rodríguez Victoria",
-    "rating": 9.0588,
-    "num_ratings": 17
-  },
-  {
-    "code": "1124",
-    "group": "23",
-    "professor": "ANA GEORGINA GARCIA Y COLOME",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "Y101"
-      }
-    ],
-    "professor_id": 58656,
-    "first_name": "Ana Georgina",
-    "last_name": "Garcia y Colome",
-    "rating": 9.2703,
-    "num_ratings": 37
   }
 ]

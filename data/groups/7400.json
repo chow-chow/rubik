@@ -20,63 +20,6 @@
   },
   {
     "code": "7400",
-    "group": "16",
-    "professor": "DAVID MARTINEZ HERNANDEZ",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          2
-        ],
-        "classroom": "O001"
-      }
-    ],
-    "professor_id": 101528,
-    "first_name": "David",
-    "last_name": "Martínez Hernández",
-    "rating": 7.7727,
-    "num_ratings": 22
-  },
-  {
-    "code": "7400",
-    "group": "19",
-    "professor": "MARTIN REYES FARIAS",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          5
-        ],
-        "classroom": "O001"
-      }
-    ],
-    "professor_id": 51610,
-    "first_name": "Martin Ing.",
-    "last_name": "Reyes Farias",
-    "rating": 5.6857,
-    "num_ratings": 35
-  },
-  {
-    "code": "7400",
-    "group": "20",
-    "professor": "JOSE LUIS ALMARAZ MORENO",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          3
-        ],
-        "classroom": "O001"
-      }
-    ],
-    "professor_id": 141917,
-    "first_name": "Jose Luis",
-    "last_name": "Almaraz Moreno",
-    "rating": 6.5,
-    "num_ratings": 2
-  },
-  {
-    "code": "7400",
     "group": "2",
     "professor": "AURORA GUTIERREZ MORALES",
     "schedules": [
@@ -343,6 +286,25 @@
   },
   {
     "code": "7400",
+    "group": "16",
+    "professor": "DAVID MARTINEZ HERNANDEZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2
+        ],
+        "classroom": "O001"
+      }
+    ],
+    "professor_id": 101528,
+    "first_name": "David",
+    "last_name": "Martínez Hernández",
+    "rating": 7.7727,
+    "num_ratings": 22
+  },
+  {
+    "code": "7400",
     "group": "17",
     "professor": "DAVID MARTINEZ HERNANDEZ",
     "schedules": [
@@ -378,5 +340,43 @@
     "last_name": "Garduño Garcia",
     "rating": 7.3846,
     "num_ratings": 13
+  },
+  {
+    "code": "7400",
+    "group": "19",
+    "professor": "MARTIN REYES FARIAS",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          5
+        ],
+        "classroom": "O001"
+      }
+    ],
+    "professor_id": 51610,
+    "first_name": "Martin Ing.",
+    "last_name": "Reyes Farias",
+    "rating": 5.6857,
+    "num_ratings": 35
+  },
+  {
+    "code": "7400",
+    "group": "20",
+    "professor": "JOSE LUIS ALMARAZ MORENO",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          3
+        ],
+        "classroom": "O001"
+      }
+    ],
+    "professor_id": 141917,
+    "first_name": "Jose Luis",
+    "last_name": "Almaraz Moreno",
+    "rating": 6.5,
+    "num_ratings": 2
   }
 ]

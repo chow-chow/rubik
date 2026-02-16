@@ -21,26 +21,6 @@
   },
   {
     "code": "1409",
-    "group": "5",
-    "professor": "EDUARDO PEREZ GONZALEZ",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          1,
-          5
-        ],
-        "classroom": "D002"
-      }
-    ],
-    "professor_id": 149862,
-    "first_name": "Eduardo",
-    "last_name": "Pérez Gonzalez",
-    "rating": 9.0,
-    "num_ratings": 5
-  },
-  {
-    "code": "1409",
     "group": "2",
     "professor": "GUSTAVO BECERRA MUÑOZ",
     "schedules": [
@@ -98,5 +78,25 @@
     "last_name": "Naude de la Llave",
     "rating": 6.4167,
     "num_ratings": 12
+  },
+  {
+    "code": "1409",
+    "group": "5",
+    "professor": "EDUARDO PEREZ GONZALEZ",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1,
+          5
+        ],
+        "classroom": "D002"
+      }
+    ],
+    "professor_id": 149862,
+    "first_name": "Eduardo",
+    "last_name": "Pérez Gonzalez",
+    "rating": 9.0,
+    "num_ratings": 6
   }
 ]

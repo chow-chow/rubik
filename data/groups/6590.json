@@ -1,6 +1,25 @@
 [
   {
     "code": "6590",
+    "group": "1",
+    "professor": "ARTURO PEREZ DE LA CRUZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1
+        ],
+        "classroom": "Q219"
+      }
+    ],
+    "professor_id": 95352,
+    "first_name": "Arturo",
+    "last_name": "Pérez De la Cruz",
+    "rating": 5.2857,
+    "num_ratings": 28
+  },
+  {
+    "code": "6590",
     "group": "2",
     "professor": "JOSE ROQUE ROMAN GUADARRAMA",
     "schedules": [
@@ -36,63 +55,6 @@
     "last_name": "Román Guadarrama",
     "rating": 7.3333,
     "num_ratings": 36
-  },
-  {
-    "code": "6590",
-    "group": "10",
-    "professor": "LUIS SERGIO VALENCIA CASTRO",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          4
-        ],
-        "classroom": "Q219"
-      }
-    ],
-    "professor_id": 79254,
-    "first_name": "Luis Sergio",
-    "last_name": "Valencia Castro",
-    "rating": 5.9167,
-    "num_ratings": 48
-  },
-  {
-    "code": "6590",
-    "group": "11",
-    "professor": "LUIS SERGIO VALENCIA CASTRO",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          4
-        ],
-        "classroom": "Q219"
-      }
-    ],
-    "professor_id": 79254,
-    "first_name": "Luis Sergio",
-    "last_name": "Valencia Castro",
-    "rating": 5.9167,
-    "num_ratings": 48
-  },
-  {
-    "code": "6590",
-    "group": "1",
-    "professor": "ARTURO PEREZ DE LA CRUZ",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          1
-        ],
-        "classroom": "Q219"
-      }
-    ],
-    "professor_id": 95352,
-    "first_name": "Arturo",
-    "last_name": "Pérez De la Cruz",
-    "rating": 5.2857,
-    "num_ratings": 28
   },
   {
     "code": "6590",
@@ -202,6 +164,44 @@
         "classroom": "Q219"
       }
     ]
+  },
+  {
+    "code": "6590",
+    "group": "10",
+    "professor": "LUIS SERGIO VALENCIA CASTRO",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          4
+        ],
+        "classroom": "Q219"
+      }
+    ],
+    "professor_id": 79254,
+    "first_name": "Luis Sergio",
+    "last_name": "Valencia Castro",
+    "rating": 5.9167,
+    "num_ratings": 48
+  },
+  {
+    "code": "6590",
+    "group": "11",
+    "professor": "LUIS SERGIO VALENCIA CASTRO",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          4
+        ],
+        "classroom": "Q219"
+      }
+    ],
+    "professor_id": 79254,
+    "first_name": "Luis Sergio",
+    "last_name": "Valencia Castro",
+    "rating": 5.9167,
+    "num_ratings": 48
   },
   {
     "code": "6590",

@@ -1,72 +1,6 @@
 [
   {
     "code": "1790",
-    "group": "9",
-    "professor": "EDGARDO ULISES BENITEZ ESLAVA",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          2
-        ],
-        "classroom": "A106"
-      }
-    ]
-  },
-  {
-    "code": "1790",
-    "group": "10",
-    "professor": "JOSE MARTIN SERNA DE ANDA",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          2
-        ],
-        "classroom": "A105"
-      }
-    ],
-    "professor_id": 155980,
-    "first_name": "José Martín",
-    "last_name": "Serna de Anda",
-    "rating": 7.5,
-    "num_ratings": 4
-  },
-  {
-    "code": "1790",
-    "group": "11",
-    "professor": "ZURAYA HUIZAR CRUZ",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          4
-        ],
-        "classroom": "A108"
-      }
-    ]
-  },
-  {
-    "code": "1790",
-    "group": "13",
-    "professor": "PHEN BOLIO ALBUERNE",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          1
-        ],
-        "classroom": "A106"
-      }
-    ],
-    "professor_id": 167392,
-    "first_name": "PHEN",
-    "last_name": "BOLIO ALBUERNE",
-    "rating": 7.6667,
-    "num_ratings": 3
-  },
-  {
-    "code": "1790",
     "group": "1",
     "professor": "JOSE CARLOS DELGADO CHONG",
     "schedules": [
@@ -214,6 +148,53 @@
   },
   {
     "code": "1790",
+    "group": "9",
+    "professor": "EDGARDO ULISES BENITEZ ESLAVA",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2
+        ],
+        "classroom": "A106"
+      }
+    ]
+  },
+  {
+    "code": "1790",
+    "group": "10",
+    "professor": "JOSE MARTIN SERNA DE ANDA",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2
+        ],
+        "classroom": "A105"
+      }
+    ],
+    "professor_id": 155980,
+    "first_name": "José Martín",
+    "last_name": "Serna de Anda",
+    "rating": 7.5,
+    "num_ratings": 4
+  },
+  {
+    "code": "1790",
+    "group": "11",
+    "professor": "ZURAYA HUIZAR CRUZ",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          4
+        ],
+        "classroom": "A108"
+      }
+    ]
+  },
+  {
+    "code": "1790",
     "group": "12",
     "professor": "ANGEL JULIAN AVILA AGUILAR",
     "schedules": [
@@ -230,5 +211,24 @@
     "last_name": "Avila Aguilar",
     "rating": 9.0,
     "num_ratings": 2
+  },
+  {
+    "code": "1790",
+    "group": "13",
+    "professor": "PHEN BOLIO ALBUERNE",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          1
+        ],
+        "classroom": "A106"
+      }
+    ],
+    "professor_id": 167392,
+    "first_name": "PHEN",
+    "last_name": "BOLIO ALBUERNE",
+    "rating": 7.6667,
+    "num_ratings": 3
   }
 ]

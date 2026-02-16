@@ -1,6 +1,25 @@
 [
   {
     "code": "1225",
+    "group": "1",
+    "professor": "ERIC ADRIAN TEJADA MALPICA",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2
+        ],
+        "classroom": "B302"
+      }
+    ],
+    "professor_id": 113002,
+    "first_name": "Eric Adrián",
+    "last_name": "Tejada Malpica",
+    "rating": 7.6,
+    "num_ratings": 20
+  },
+  {
+    "code": "1225",
     "group": "2",
     "professor": "VICTOR HUGO JACOBO ARMENDARIZ",
     "schedules": [
@@ -74,25 +93,6 @@
     "last_name": "Ortiz Valera",
     "rating": 6.7273,
     "num_ratings": 33
-  },
-  {
-    "code": "1225",
-    "group": "1",
-    "professor": "ERIC ADRIAN TEJADA MALPICA",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          2
-        ],
-        "classroom": "B302"
-      }
-    ],
-    "professor_id": 113002,
-    "first_name": "Eric Adrián",
-    "last_name": "Tejada Malpica",
-    "rating": 7.7895,
-    "num_ratings": 19
   },
   {
     "code": "1225",

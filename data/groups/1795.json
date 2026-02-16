@@ -1,34 +1,6 @@
 [
   {
     "code": "1795",
-    "group": "5",
-    "professor": "OMAR ALEJANDRO LLANES BRICEÑOVer Nota 1",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          3
-        ],
-        "classroom": "Y102"
-      }
-    ]
-  },
-  {
-    "code": "1795",
-    "group": "6",
-    "professor": "NOE CRUZ MARIN",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          4
-        ],
-        "classroom": "A103"
-      }
-    ]
-  },
-  {
-    "code": "1795",
     "group": "1",
     "professor": "GABRIELA CAMACHO VILLASEÑOR",
     "schedules": [
@@ -102,5 +74,33 @@
     "last_name": "Cruz",
     "rating": 9.3333,
     "num_ratings": 39
+  },
+  {
+    "code": "1795",
+    "group": "5",
+    "professor": "OMAR ALEJANDRO LLANES BRICEÑOVer Nota 1",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          3
+        ],
+        "classroom": "Y102"
+      }
+    ]
+  },
+  {
+    "code": "1795",
+    "group": "6",
+    "professor": "NOE CRUZ MARIN",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          4
+        ],
+        "classroom": "A103"
+      }
+    ]
   }
 ]

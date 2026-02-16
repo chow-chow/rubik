@@ -1,42 +1,6 @@
 [
   {
     "code": "1644",
-    "group": "3",
-    "professor": "LUCIRALIA HERNANDEZ HERNANDEZ",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          1,
-          3,
-          5
-        ],
-        "classroom": "B404"
-      }
-    ],
-    "professor_id": 27303,
-    "first_name": "Luciralia",
-    "last_name": "Hernandez Hernandez",
-    "rating": 6.0833,
-    "num_ratings": 48
-  },
-  {
-    "code": "1644",
-    "group": "7",
-    "professor": "FRANCISCO JAVIER ROJAS DURAN",
-    "schedules": [
-      {
-        "time": "07:00-10:00",
-        "days": [
-          5,
-          6
-        ],
-        "classroom": "B103"
-      }
-    ]
-  },
-  {
-    "code": "1644",
     "group": "1",
     "professor": "FERNANDO ARREOLA FRANCO",
     "schedules": [
@@ -71,6 +35,27 @@
     "last_name": "Arellano Mendoza",
     "rating": 6.8696,
     "num_ratings": 46
+  },
+  {
+    "code": "1644",
+    "group": "3",
+    "professor": "LUCIRALIA HERNANDEZ HERNANDEZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "B404"
+      }
+    ],
+    "professor_id": 27303,
+    "first_name": "Luciralia",
+    "last_name": "Hernandez Hernandez",
+    "rating": 6.0833,
+    "num_ratings": 48
   },
   {
     "code": "1644",
@@ -111,8 +96,8 @@
     "professor_id": 177287,
     "first_name": "Oscar",
     "last_name": "Arana Hernández",
-    "rating": 6.6364,
-    "num_ratings": 11
+    "rating": 6.6667,
+    "num_ratings": 12
   },
   {
     "code": "1644",
@@ -134,5 +119,20 @@
     "last_name": "RUIZ REYES",
     "rating": 7.6364,
     "num_ratings": 22
+  },
+  {
+    "code": "1644",
+    "group": "7",
+    "professor": "FRANCISCO JAVIER ROJAS DURAN",
+    "schedules": [
+      {
+        "time": "07:00-10:00",
+        "days": [
+          5,
+          6
+        ],
+        "classroom": "B103"
+      }
+    ]
   }
 ]

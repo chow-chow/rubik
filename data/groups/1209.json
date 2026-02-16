@@ -27,188 +27,6 @@
   },
   {
     "code": "1209",
-    "group": "7",
-    "professor": "MARTIN REYES FARIAS",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          2
-        ],
-        "classroom": "O004"
-      },
-      {
-        "time": "17:00-19:00",
-        "days": [
-          4
-        ],
-        "classroom": "O004"
-      }
-    ],
-    "professor_id": 51610,
-    "first_name": "Martin Ing.",
-    "last_name": "Reyes Farias",
-    "rating": 5.6857,
-    "num_ratings": 35
-  },
-  {
-    "code": "1209",
-    "group": "9",
-    "professor": "EMILIANO ANGUIANO ROJAS",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          1
-        ],
-        "classroom": "O004"
-      },
-      {
-        "time": "13:00-15:00",
-        "days": [
-          3
-        ],
-        "classroom": "O004"
-      }
-    ],
-    "professor_id": 42619,
-    "first_name": "Emiliano",
-    "last_name": "Anguiano Rojas",
-    "rating": 4.0,
-    "num_ratings": 35
-  },
-  {
-    "code": "1209",
-    "group": "10",
-    "professor": "EMILIANO ANGUIANO ROJAS",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          2
-        ],
-        "classroom": "O004"
-      },
-      {
-        "time": "13:00-15:00",
-        "days": [
-          4
-        ],
-        "classroom": "O004"
-      }
-    ],
-    "professor_id": 42619,
-    "first_name": "Emiliano",
-    "last_name": "Anguiano Rojas",
-    "rating": 4.0,
-    "num_ratings": 35
-  },
-  {
-    "code": "1209",
-    "group": "11",
-    "professor": "EFRAIN RAMOS TREJO",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          2
-        ],
-        "classroom": "O004"
-      },
-      {
-        "time": "15:00-17:00",
-        "days": [
-          4
-        ],
-        "classroom": "O004"
-      }
-    ],
-    "professor_id": 95361,
-    "first_name": "Efraín",
-    "last_name": "Ramos Trejo",
-    "rating": 9.125,
-    "num_ratings": 8
-  },
-  {
-    "code": "1209",
-    "group": "16",
-    "professor": "ARMANDO SANCHEZ GUZMAN",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          1
-        ],
-        "classroom": "O004"
-      },
-      {
-        "time": "19:00-21:00",
-        "days": [
-          3
-        ],
-        "classroom": "O004"
-      }
-    ],
-    "professor_id": 93948,
-    "first_name": "Armando",
-    "last_name": "Sánchez Guzmán",
-    "rating": 8.2903,
-    "num_ratings": 31
-  },
-  {
-    "code": "1209",
-    "group": "22",
-    "professor": "MARTIN REYES FARIAS",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          1
-        ],
-        "classroom": "O003"
-      },
-      {
-        "time": "17:00-19:00",
-        "days": [
-          3
-        ],
-        "classroom": "O003"
-      }
-    ],
-    "professor_id": 51610,
-    "first_name": "Martin Ing.",
-    "last_name": "Reyes Farias",
-    "rating": 5.6857,
-    "num_ratings": 35
-  },
-  {
-    "code": "1209",
-    "group": "23",
-    "professor": "ROGELIO DARIO GUTIERREZ CARRILLO",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          2
-        ],
-        "classroom": "EXTR"
-      },
-      {
-        "time": "19:00-21:00",
-        "days": [
-          4
-        ],
-        "classroom": "EXTR"
-      }
-    ],
-    "professor_id": 124462,
-    "first_name": "ROGELIO DARIO",
-    "last_name": "GUTIERREZ",
-    "rating": 5.2632,
-    "num_ratings": 19
-  },
-  {
-    "code": "1209",
     "group": "3",
     "professor": "GUADALUPE GERTRUDIS HERRERA MEJIA",
     "schedules": [
@@ -313,6 +131,32 @@
   },
   {
     "code": "1209",
+    "group": "7",
+    "professor": "MARTIN REYES FARIAS",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2
+        ],
+        "classroom": "O004"
+      },
+      {
+        "time": "17:00-19:00",
+        "days": [
+          4
+        ],
+        "classroom": "O004"
+      }
+    ],
+    "professor_id": 51610,
+    "first_name": "Martin Ing.",
+    "last_name": "Reyes Farias",
+    "rating": 5.6857,
+    "num_ratings": 35
+  },
+  {
+    "code": "1209",
     "group": "8",
     "professor": "GUADALUPE GERTRUDIS HERRERA MEJIA",
     "schedules": [
@@ -336,6 +180,84 @@
     "last_name": "Herrera Mejia",
     "rating": 6.6429,
     "num_ratings": 14
+  },
+  {
+    "code": "1209",
+    "group": "9",
+    "professor": "EMILIANO ANGUIANO ROJAS",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1
+        ],
+        "classroom": "O004"
+      },
+      {
+        "time": "13:00-15:00",
+        "days": [
+          3
+        ],
+        "classroom": "O004"
+      }
+    ],
+    "professor_id": 42619,
+    "first_name": "Emiliano",
+    "last_name": "Anguiano Rojas",
+    "rating": 4.0,
+    "num_ratings": 35
+  },
+  {
+    "code": "1209",
+    "group": "10",
+    "professor": "EMILIANO ANGUIANO ROJAS",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          2
+        ],
+        "classroom": "O004"
+      },
+      {
+        "time": "13:00-15:00",
+        "days": [
+          4
+        ],
+        "classroom": "O004"
+      }
+    ],
+    "professor_id": 42619,
+    "first_name": "Emiliano",
+    "last_name": "Anguiano Rojas",
+    "rating": 4.0,
+    "num_ratings": 35
+  },
+  {
+    "code": "1209",
+    "group": "11",
+    "professor": "EFRAIN RAMOS TREJO",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2
+        ],
+        "classroom": "O004"
+      },
+      {
+        "time": "15:00-17:00",
+        "days": [
+          4
+        ],
+        "classroom": "O004"
+      }
+    ],
+    "professor_id": 95361,
+    "first_name": "Efraín",
+    "last_name": "Ramos Trejo",
+    "rating": 9.125,
+    "num_ratings": 8
   },
   {
     "code": "1209",
@@ -414,6 +336,32 @@
     "last_name": "Peña Bandala",
     "rating": 9.8636,
     "num_ratings": 22
+  },
+  {
+    "code": "1209",
+    "group": "16",
+    "professor": "ARMANDO SANCHEZ GUZMAN",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          1
+        ],
+        "classroom": "O004"
+      },
+      {
+        "time": "19:00-21:00",
+        "days": [
+          3
+        ],
+        "classroom": "O004"
+      }
+    ],
+    "professor_id": 93948,
+    "first_name": "Armando",
+    "last_name": "Sánchez Guzmán",
+    "rating": 8.2903,
+    "num_ratings": 31
   },
   {
     "code": "1209",
@@ -544,5 +492,57 @@
     "last_name": "Lira Velázquez",
     "rating": 7.0,
     "num_ratings": 7
+  },
+  {
+    "code": "1209",
+    "group": "22",
+    "professor": "MARTIN REYES FARIAS",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1
+        ],
+        "classroom": "O003"
+      },
+      {
+        "time": "17:00-19:00",
+        "days": [
+          3
+        ],
+        "classroom": "O003"
+      }
+    ],
+    "professor_id": 51610,
+    "first_name": "Martin Ing.",
+    "last_name": "Reyes Farias",
+    "rating": 5.6857,
+    "num_ratings": 35
+  },
+  {
+    "code": "1209",
+    "group": "23",
+    "professor": "ROGELIO DARIO GUTIERREZ CARRILLO",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          2
+        ],
+        "classroom": "EXTR"
+      },
+      {
+        "time": "19:00-21:00",
+        "days": [
+          4
+        ],
+        "classroom": "EXTR"
+      }
+    ],
+    "professor_id": 124462,
+    "first_name": "ROGELIO DARIO",
+    "last_name": "GUTIERREZ",
+    "rating": 5.2632,
+    "num_ratings": 19
   }
 ]

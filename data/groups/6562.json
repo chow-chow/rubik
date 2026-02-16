@@ -1,34 +1,6 @@
 [
   {
     "code": "6562",
-    "group": "4",
-    "professor": "PROFESOR POR ASIGNAR",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          2
-        ],
-        "classroom": "P215"
-      }
-    ]
-  },
-  {
-    "code": "6562",
-    "group": "16",
-    "professor": "FERNANDO RIVERA PEREZ",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          5
-        ],
-        "classroom": "P215"
-      }
-    ]
-  },
-  {
-    "code": "6562",
     "group": "1",
     "professor": "JULIA VAZQUEZ FUENTES",
     "schedules": [
@@ -63,7 +35,7 @@
     "first_name": "JULIO",
     "last_name": "SERRANO VILLEGAS",
     "rating": 9.0,
-    "num_ratings": 18
+    "num_ratings": 19
   },
   {
     "code": "6562",
@@ -82,7 +54,21 @@
     "first_name": "JULIO",
     "last_name": "SERRANO VILLEGAS",
     "rating": 9.0,
-    "num_ratings": 18
+    "num_ratings": 19
+  },
+  {
+    "code": "6562",
+    "group": "4",
+    "professor": "PROFESOR POR ASIGNAR",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2
+        ],
+        "classroom": "P215"
+      }
+    ]
   },
   {
     "code": "6562",
@@ -177,7 +163,7 @@
     "first_name": "JULIO",
     "last_name": "SERRANO VILLEGAS",
     "rating": 9.0,
-    "num_ratings": 18
+    "num_ratings": 19
   },
   {
     "code": "6562",
@@ -281,6 +267,20 @@
     "schedules": [
       {
         "time": "17:00-19:00",
+        "days": [
+          5
+        ],
+        "classroom": "P215"
+      }
+    ]
+  },
+  {
+    "code": "6562",
+    "group": "16",
+    "professor": "FERNANDO RIVERA PEREZ",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
         "days": [
           5
         ],

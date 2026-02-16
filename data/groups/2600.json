@@ -1,6 +1,21 @@
 [
   {
     "code": "2600",
+    "group": "1",
+    "professor": "JOSE LUIS SALINAS ESTEVEZ",
+    "schedules": [
+      {
+        "time": "13:00-14:30",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "A207"
+      }
+    ]
+  },
+  {
+    "code": "2600",
     "group": "2",
     "professor": "LUIS ARMANDO HERNANDEZ GONZALEZ",
     "schedules": [
@@ -41,36 +56,6 @@
   },
   {
     "code": "2600",
-    "group": "5",
-    "professor": "CLAUDIA LUCIA HERNANDEZ MARTINEZ",
-    "schedules": [
-      {
-        "time": "19:00-20:30",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "SIN"
-      }
-    ]
-  },
-  {
-    "code": "2600",
-    "group": "1",
-    "professor": "JOSE LUIS SALINAS ESTEVEZ",
-    "schedules": [
-      {
-        "time": "13:00-14:30",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "A207"
-      }
-    ]
-  },
-  {
-    "code": "2600",
     "group": "4",
     "professor": "ISAAC FELIPE LIMA CASTILLO",
     "schedules": [
@@ -88,6 +73,21 @@
     "last_name": "Lima Castillo",
     "rating": 8.0,
     "num_ratings": 2
+  },
+  {
+    "code": "2600",
+    "group": "5",
+    "professor": "CLAUDIA LUCIA HERNANDEZ MARTINEZ",
+    "schedules": [
+      {
+        "time": "19:00-20:30",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "SIN"
+      }
+    ]
   },
   {
     "code": "2600",

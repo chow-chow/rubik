@@ -1,20 +1,6 @@
 [
   {
     "code": "7911",
-    "group": "2",
-    "professor": "EDUARDO PEREZ CAMACHO",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          2
-        ],
-        "classroom": "P113"
-      }
-    ]
-  },
-  {
-    "code": "7911",
     "group": "1",
     "professor": "IVAN DE JESUS OSIO CHAVEZ",
     "schedules": [
@@ -31,6 +17,20 @@
     "last_name": "Osio Chavez",
     "rating": 6.75,
     "num_ratings": 16
+  },
+  {
+    "code": "7911",
+    "group": "2",
+    "professor": "EDUARDO PEREZ CAMACHO",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2
+        ],
+        "classroom": "P113"
+      }
+    ]
   },
   {
     "code": "7911",

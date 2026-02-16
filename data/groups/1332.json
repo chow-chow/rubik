@@ -27,6 +27,32 @@
   },
   {
     "code": "1332",
+    "group": "2",
+    "professor": "JORGE LUIS LOPEZ GARCIA",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1
+        ],
+        "classroom": "P003"
+      },
+      {
+        "time": "09:00-11:00",
+        "days": [
+          3
+        ],
+        "classroom": "P003"
+      }
+    ],
+    "professor_id": 64679,
+    "first_name": "Jorge Luis",
+    "last_name": "López García",
+    "rating": 8.507,
+    "num_ratings": 71
+  },
+  {
+    "code": "1332",
     "group": "3",
     "professor": "JORGE LUIS LOPEZ GARCIA",
     "schedules": [
@@ -54,7 +80,7 @@
   {
     "code": "1332",
     "group": "4",
-    "professor": "PATRICIA DEL VALLE MORALES",
+    "professor": "Grupo cancelado, contactar a la División.",
     "schedules": [
       {
         "time": "11:00-13:00",
@@ -70,12 +96,33 @@
         ],
         "classroom": "P003"
       }
+    ]
+  },
+  {
+    "code": "1332",
+    "group": "5",
+    "professor": "JESSICA ROJAS SERRANO",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1
+        ],
+        "classroom": "I306"
+      },
+      {
+        "time": "13:00-15:00",
+        "days": [
+          3
+        ],
+        "classroom": "Q007"
+      }
     ],
-    "professor_id": 36976,
-    "first_name": "Patricia",
-    "last_name": "Del Valle Morales",
-    "rating": 7.3548,
-    "num_ratings": 93
+    "professor_id": 187681,
+    "first_name": "ING. JESSICA",
+    "last_name": "ROJAS SERRANO",
+    "rating": 9.375,
+    "num_ratings": 8
   },
   {
     "code": "1332",
@@ -102,57 +149,5 @@
     "last_name": "RODRIGUEZ MAYA",
     "rating": 8.5,
     "num_ratings": 2
-  },
-  {
-    "code": "1332",
-    "group": "2",
-    "professor": "JORGE LUIS LOPEZ GARCIA",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          1
-        ],
-        "classroom": "P003"
-      },
-      {
-        "time": "09:00-11:00",
-        "days": [
-          3
-        ],
-        "classroom": "P003"
-      }
-    ],
-    "professor_id": 64679,
-    "first_name": "Jorge Luis",
-    "last_name": "López García",
-    "rating": 8.507,
-    "num_ratings": 71
-  },
-  {
-    "code": "1332",
-    "group": "5",
-    "professor": "JESSICA ROJAS SERRANO",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          1
-        ],
-        "classroom": "I306"
-      },
-      {
-        "time": "13:00-15:00",
-        "days": [
-          3
-        ],
-        "classroom": "Q007"
-      }
-    ],
-    "professor_id": 187681,
-    "first_name": "ING. JESSICA",
-    "last_name": "ROJAS SERRANO",
-    "rating": 9.4286,
-    "num_ratings": 7
   }
 ]

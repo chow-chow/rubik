@@ -1,25 +1,6 @@
 [
   {
     "code": "6645",
-    "group": "7",
-    "professor": "ALBERTO NAVARRETE HERNANDEZ",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          5
-        ],
-        "classroom": "T101"
-      }
-    ],
-    "professor_id": 104486,
-    "first_name": "ALBERTO",
-    "last_name": "NAVARRETE HERNANDEZ",
-    "rating": 5.0893,
-    "num_ratings": 56
-  },
-  {
-    "code": "6645",
     "group": "1",
     "professor": "MARIA DEL PILAR VALENCIA MONTES",
     "schedules": [
@@ -121,5 +102,24 @@
     "last_name": "Ramos",
     "rating": 8.3333,
     "num_ratings": 3
+  },
+  {
+    "code": "6645",
+    "group": "7",
+    "professor": "ALBERTO NAVARRETE HERNANDEZ",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          5
+        ],
+        "classroom": "T101"
+      }
+    ],
+    "professor_id": 104486,
+    "first_name": "ALBERTO",
+    "last_name": "NAVARRETE HERNANDEZ",
+    "rating": 5.0893,
+    "num_ratings": 56
   }
 ]

@@ -1,21 +1,6 @@
 [
   {
     "code": "2090",
-    "group": "2",
-    "professor": "MARIBEL TRUJILLO VALLADOLID",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "C106"
-      }
-    ]
-  },
-  {
-    "code": "2090",
     "group": "1",
     "professor": "FRANCISCO GARCIA SANCHEZ",
     "schedules": [
@@ -26,6 +11,21 @@
           4
         ],
         "classroom": "C404"
+      }
+    ]
+  },
+  {
+    "code": "2090",
+    "group": "2",
+    "professor": "MARIBEL TRUJILLO VALLADOLID",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "C106"
       }
     ]
   }

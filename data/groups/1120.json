@@ -21,111 +21,6 @@
   },
   {
     "code": "1120",
-    "group": "7",
-    "professor": "MARIA TERESA PEÑUÑURI SANTOYO",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          1,
-          5
-        ],
-        "classroom": "I304"
-      }
-    ],
-    "professor_id": 46393,
-    "first_name": "Maria Teresa",
-    "last_name": "Peñuñuri Santoyo",
-    "rating": 7.5185,
-    "num_ratings": 81
-  },
-  {
-    "code": "1120",
-    "group": "10",
-    "professor": "JACQUELYN MARTINEZ ALAVEZ",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "I203"
-      }
-    ]
-  },
-  {
-    "code": "1120",
-    "group": "11",
-    "professor": "VERONICA GONZALEZ PACHECO",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          1,
-          5
-        ],
-        "classroom": "I305"
-      }
-    ],
-    "professor_id": 95169,
-    "first_name": "VERONICA ING",
-    "last_name": "GONZALEZ PACHECO",
-    "rating": 8.62,
-    "num_ratings": 66
-  },
-  {
-    "code": "1120",
-    "group": "17",
-    "professor": "MARIO FLORES GUZMAN",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          3,
-          5
-        ],
-        "classroom": "J211"
-      }
-    ],
-    "professor_id": 113849,
-    "first_name": "mario",
-    "last_name": "flores guzman",
-    "rating": 7.1,
-    "num_ratings": 10
-  },
-  {
-    "code": "1120",
-    "group": "18",
-    "professor": "ELENA RAMIREZ GARCIA",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "I301"
-      }
-    ]
-  },
-  {
-    "code": "1120",
-    "group": "19",
-    "professor": "GERARDO MEDINA LADRON DE GUEVARA",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "I101"
-      }
-    ]
-  },
-  {
-    "code": "1120",
     "group": "2",
     "professor": "FRANCISCO BARRERA DEL RAYO",
     "schedules": [
@@ -216,6 +111,26 @@
   },
   {
     "code": "1120",
+    "group": "7",
+    "professor": "MARIA TERESA PEÑUÑURI SANTOYO",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1,
+          5
+        ],
+        "classroom": "I304"
+      }
+    ],
+    "professor_id": 46393,
+    "first_name": "Maria Teresa",
+    "last_name": "Peñuñuri Santoyo",
+    "rating": 7.5185,
+    "num_ratings": 81
+  },
+  {
+    "code": "1120",
     "group": "8",
     "professor": "MARIA DEL ROCIO AVILA NUÑEZ",
     "schedules": [
@@ -253,6 +168,41 @@
     "last_name": "Cortes Ochoa",
     "rating": 7.47,
     "num_ratings": 32
+  },
+  {
+    "code": "1120",
+    "group": "10",
+    "professor": "JACQUELYN MARTINEZ ALAVEZ",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "I203"
+      }
+    ]
+  },
+  {
+    "code": "1120",
+    "group": "11",
+    "professor": "VERONICA GONZALEZ PACHECO",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1,
+          5
+        ],
+        "classroom": "I305"
+      }
+    ],
+    "professor_id": 95169,
+    "first_name": "VERONICA ING",
+    "last_name": "GONZALEZ PACHECO",
+    "rating": 8.62,
+    "num_ratings": 66
   },
   {
     "code": "1120",
@@ -311,8 +261,8 @@
     "professor_id": 187681,
     "first_name": "ING. JESSICA",
     "last_name": "ROJAS SERRANO",
-    "rating": 9.4286,
-    "num_ratings": 7
+    "rating": 9.375,
+    "num_ratings": 8
   },
   {
     "code": "1120",
@@ -351,7 +301,57 @@
     "professor_id": 181249,
     "first_name": "David Ivan",
     "last_name": "Morales Huerta",
-    "rating": 9.3125,
-    "num_ratings": 16
+    "rating": 9.2941,
+    "num_ratings": 17
+  },
+  {
+    "code": "1120",
+    "group": "17",
+    "professor": "MARIO FLORES GUZMAN",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "J211"
+      }
+    ],
+    "professor_id": 113849,
+    "first_name": "mario",
+    "last_name": "flores guzman",
+    "rating": 7.1,
+    "num_ratings": 10
+  },
+  {
+    "code": "1120",
+    "group": "18",
+    "professor": "ELENA RAMIREZ GARCIA",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "I301"
+      }
+    ]
+  },
+  {
+    "code": "1120",
+    "group": "19",
+    "professor": "GERARDO MEDINA LADRON DE GUEVARA",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "I101"
+      }
+    ]
   }
 ]

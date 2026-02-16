@@ -1,48 +1,6 @@
 [
   {
     "code": "1245",
-    "group": "3",
-    "professor": "JAVIER CORTES BENIGNOVer Nota 1",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          1
-        ],
-        "classroom": "J201"
-      }
-    ]
-  },
-  {
-    "code": "1245",
-    "group": "4",
-    "professor": "JAVIER CORTES BENIGNOVer Nota 1",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          3
-        ],
-        "classroom": "J201"
-      }
-    ]
-  },
-  {
-    "code": "1245",
-    "group": "6",
-    "professor": "VIVALDO MUÑOZ GONZALEZVer Nota 1",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          2
-        ],
-        "classroom": "J206"
-      }
-    ]
-  },
-  {
-    "code": "1245",
     "group": "1",
     "professor": "BARBARA BERMUDEZ REYESVer Nota 1",
     "schedules": [
@@ -76,6 +34,34 @@
   },
   {
     "code": "1245",
+    "group": "3",
+    "professor": "JAVIER CORTES BENIGNOVer Nota 1",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1
+        ],
+        "classroom": "J201"
+      }
+    ]
+  },
+  {
+    "code": "1245",
+    "group": "4",
+    "professor": "JAVIER CORTES BENIGNOVer Nota 1",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          3
+        ],
+        "classroom": "J201"
+      }
+    ]
+  },
+  {
+    "code": "1245",
     "group": "5",
     "professor": "CESAR ABRAHAM LUNA ESTRADAVer Nota 2",
     "schedules": [
@@ -83,6 +69,20 @@
         "time": "15:00-17:00",
         "days": [
           5
+        ],
+        "classroom": "J206"
+      }
+    ]
+  },
+  {
+    "code": "1245",
+    "group": "6",
+    "professor": "VIVALDO MUÑOZ GONZALEZVer Nota 1",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2
         ],
         "classroom": "J206"
       }

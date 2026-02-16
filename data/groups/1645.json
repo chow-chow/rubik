@@ -1,6 +1,26 @@
 [
   {
     "code": "1645",
+    "group": "1",
+    "professor": "NORMA ELVA CHAVEZ RODRIGUEZ",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "A107"
+      }
+    ],
+    "professor_id": 142387,
+    "first_name": "Norma",
+    "last_name": "Elva Chavez Rodriguez",
+    "rating": 8.5714,
+    "num_ratings": 28
+  },
+  {
+    "code": "1645",
     "group": "2",
     "professor": "JORGE ALBERTO UC MARTIN",
     "schedules": [
@@ -36,6 +56,36 @@
   },
   {
     "code": "1645",
+    "group": "4",
+    "professor": "OSCAR FRANCISCO FUENTES CASARRUBIAS",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "B404"
+      }
+    ]
+  },
+  {
+    "code": "1645",
+    "group": "5",
+    "professor": "DANIEL ALBERTO ARCOS SANTIAGO",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "B405"
+      }
+    ]
+  },
+  {
+    "code": "1645",
     "group": "6",
     "professor": "FERNANDA RAMOS GARCIA",
     "schedules": [
@@ -53,6 +103,26 @@
     "last_name": "Ramos",
     "rating": 8.3333,
     "num_ratings": 3
+  },
+  {
+    "code": "1645",
+    "group": "7",
+    "professor": "YOVANNI ALVAREZ ULLOA",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "B408"
+      }
+    ],
+    "professor_id": 162200,
+    "first_name": "YOVANNI",
+    "last_name": "ALVAREZ ULLOA",
+    "rating": 9.2105,
+    "num_ratings": 19
   },
   {
     "code": "1645",
@@ -92,75 +162,5 @@
     "last_name": "Mandujano Wild",
     "rating": 7.566,
     "num_ratings": 53
-  },
-  {
-    "code": "1645",
-    "group": "1",
-    "professor": "NORMA ELVA CHAVEZ RODRIGUEZ",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "A107"
-      }
-    ],
-    "professor_id": 142387,
-    "first_name": "Norma",
-    "last_name": "Elva Chavez Rodriguez",
-    "rating": 8.5714,
-    "num_ratings": 28
-  },
-  {
-    "code": "1645",
-    "group": "4",
-    "professor": "OSCAR FRANCISCO FUENTES CASARRUBIAS",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "B404"
-      }
-    ]
-  },
-  {
-    "code": "1645",
-    "group": "5",
-    "professor": "DANIEL ALBERTO ARCOS SANTIAGO",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "B405"
-      }
-    ]
-  },
-  {
-    "code": "1645",
-    "group": "7",
-    "professor": "YOVANNI ALVAREZ ULLOA",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "B408"
-      }
-    ],
-    "professor_id": 162200,
-    "first_name": "YOVANNI",
-    "last_name": "ALVAREZ ULLOA",
-    "rating": 9.2105,
-    "num_ratings": 19
   }
 ]

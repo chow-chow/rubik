@@ -41,61 +41,6 @@
   },
   {
     "code": "1437",
-    "group": "5",
-    "professor": "ABRAHAM LAURENCIO MARTINEZ BAUTISTA",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "I202"
-      }
-    ],
-    "professor_id": 55067,
-    "first_name": "Abraham Laurencio",
-    "last_name": "Martinez  Bautista",
-    "rating": 4.7333,
-    "num_ratings": 45
-  },
-  {
-    "code": "1437",
-    "group": "18",
-    "professor": "RICARDO CABRERA POSADA",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "J105"
-      }
-    ]
-  },
-  {
-    "code": "1437",
-    "group": "19",
-    "professor": "ROGELIO SOTO AYALA",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          3,
-          5
-        ],
-        "classroom": "J105"
-      }
-    ],
-    "professor_id": 33622,
-    "first_name": "Soto Ayala",
-    "last_name": "Rogelio",
-    "rating": 8.6545,
-    "num_ratings": 55
-  },
-  {
-    "code": "1437",
     "group": "3",
     "professor": "MARIA DEL CARMEN MELO DIAZ",
     "schedules": [
@@ -127,6 +72,26 @@
         "classroom": "J209"
       }
     ]
+  },
+  {
+    "code": "1437",
+    "group": "5",
+    "professor": "ABRAHAM LAURENCIO MARTINEZ BAUTISTA",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "I202"
+      }
+    ],
+    "professor_id": 55067,
+    "first_name": "Abraham Laurencio",
+    "last_name": "Martinez  Bautista",
+    "rating": 4.7333,
+    "num_ratings": 45
   },
   {
     "code": "1437",
@@ -301,16 +266,16 @@
       {
         "time": "15:00-17:00",
         "days": [
-          1
+          5
         ],
-        "classroom": "J104"
+        "classroom": "J105"
       },
       {
         "time": "15:00-17:00",
         "days": [
-          5
+          1
         ],
-        "classroom": "J105"
+        "classroom": "J104"
       }
     ],
     "professor_id": 54985,
@@ -358,6 +323,41 @@
     "last_name": "Ramirez Cruz",
     "rating": 9.6667,
     "num_ratings": 54
+  },
+  {
+    "code": "1437",
+    "group": "18",
+    "professor": "RICARDO CABRERA POSADA",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "J105"
+      }
+    ]
+  },
+  {
+    "code": "1437",
+    "group": "19",
+    "professor": "ROGELIO SOTO AYALA",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "J105"
+      }
+    ],
+    "professor_id": 33622,
+    "first_name": "Soto Ayala",
+    "last_name": "Rogelio",
+    "rating": 8.6545,
+    "num_ratings": 55
   },
   {
     "code": "1437",

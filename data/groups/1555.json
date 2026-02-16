@@ -1,36 +1,6 @@
 [
   {
     "code": "1555",
-    "group": "4",
-    "professor": "MAURICIO PEREZ DIAZ",
-    "schedules": [
-      {
-        "time": "17:30-19:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "A304"
-      }
-    ]
-  },
-  {
-    "code": "1555",
-    "group": "9",
-    "professor": "LUIS ARTURO NAVARRO BAENA",
-    "schedules": [
-      {
-        "time": "19:00-20:30",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "A204"
-      }
-    ]
-  },
-  {
-    "code": "1555",
     "group": "1",
     "professor": "CESAR VAZQUEZ LORENZANA",
     "schedules": [
@@ -91,6 +61,21 @@
   },
   {
     "code": "1555",
+    "group": "4",
+    "professor": "MAURICIO PEREZ DIAZ",
+    "schedules": [
+      {
+        "time": "17:30-19:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "A304"
+      }
+    ]
+  },
+  {
+    "code": "1555",
     "group": "5",
     "professor": "RUBEN DOMINGUEZ ALFARO",
     "schedules": [
@@ -138,5 +123,20 @@
     "last_name": "MAGAÑA DEL TORO",
     "rating": 4.3333,
     "num_ratings": 6
+  },
+  {
+    "code": "1555",
+    "group": "9",
+    "professor": "LUIS ARTURO NAVARRO BAENA",
+    "schedules": [
+      {
+        "time": "19:00-20:30",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A204"
+      }
+    ]
   }
 ]

@@ -18,5 +18,25 @@
     "last_name": "Cuellar Gonzalez",
     "rating": 8.0,
     "num_ratings": 5
+  },
+  {
+    "code": "1459",
+    "group": "2",
+    "professor": "MARGARITA BAUTISTA GONZALEZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "Q308"
+      }
+    ],
+    "professor_id": 79762,
+    "first_name": "Margarita",
+    "last_name": "Bautista Gonzalez",
+    "rating": 9.0,
+    "num_ratings": 6
   }
 ]

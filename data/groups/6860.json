@@ -1,53 +1,6 @@
 [
   {
     "code": "6860",
-    "group": "7",
-    "professor": "ALEJANDRO CORTES ESLAVA",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          1
-        ],
-        "classroom": "N005"
-      }
-    ]
-  },
-  {
-    "code": "6860",
-    "group": "9",
-    "professor": "ARNOLD FRANCISCO BASTIDAS MELO",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          1
-        ],
-        "classroom": "N005"
-      }
-    ]
-  },
-  {
-    "code": "6860",
-    "group": "18",
-    "professor": "OCTAVIO PASTOR REYES GARCIA",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          3
-        ],
-        "classroom": "N005"
-      }
-    ],
-    "professor_id": 98730,
-    "first_name": "Octavio Pastor",
-    "last_name": "Reyes García",
-    "rating": 8.25,
-    "num_ratings": 16
-  },
-  {
-    "code": "6860",
     "group": "1",
     "professor": "LUIS ARTURO NAVARRO BAENA",
     "schedules": [
@@ -137,6 +90,20 @@
   },
   {
     "code": "6860",
+    "group": "7",
+    "professor": "ALEJANDRO CORTES ESLAVA",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1
+        ],
+        "classroom": "N005"
+      }
+    ]
+  },
+  {
+    "code": "6860",
     "group": "8",
     "professor": "IAN GUILLERMO MONSIVAIS MONTOLIU",
     "schedules": [
@@ -153,6 +120,20 @@
     "last_name": "MONSIVAIS MONTOLIU",
     "rating": 7.375,
     "num_ratings": 24
+  },
+  {
+    "code": "6860",
+    "group": "9",
+    "professor": "ARNOLD FRANCISCO BASTIDAS MELO",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1
+        ],
+        "classroom": "N005"
+      }
+    ]
   },
   {
     "code": "6860",
@@ -280,6 +261,25 @@
     "last_name": "Pérez Barrera",
     "rating": 9.5,
     "num_ratings": 2
+  },
+  {
+    "code": "6860",
+    "group": "18",
+    "professor": "OCTAVIO PASTOR REYES GARCIA",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          3
+        ],
+        "classroom": "N005"
+      }
+    ],
+    "professor_id": 98730,
+    "first_name": "Octavio Pastor",
+    "last_name": "Reyes García",
+    "rating": 8.25,
+    "num_ratings": 16
   },
   {
     "code": "6860",

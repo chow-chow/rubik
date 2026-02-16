@@ -1,6 +1,21 @@
 [
   {
     "code": "1727",
+    "group": "1",
+    "professor": "ISABEL DOMINGUEZ TREJO",
+    "schedules": [
+      {
+        "time": "12:00-14:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "C304"
+      }
+    ]
+  },
+  {
+    "code": "1727",
     "group": "2",
     "professor": "EMILIANO CAMPOS MADRIGAL",
     "schedules": [
@@ -38,20 +53,5 @@
     "last_name": "Campos Madrigal",
     "rating": 8.2,
     "num_ratings": 10
-  },
-  {
-    "code": "1727",
-    "group": "1",
-    "professor": "ISABEL DOMINGUEZ TREJO",
-    "schedules": [
-      {
-        "time": "12:00-14:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "C304"
-      }
-    ]
   }
 ]

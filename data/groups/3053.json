@@ -1,21 +1,6 @@
 [
   {
     "code": "3053",
-    "group": "2",
-    "professor": "MANUEL SALVADOR TOVAR CARDONA",
-    "schedules": [
-      {
-        "time": "13:00-14:30",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "S005"
-      }
-    ]
-  },
-  {
-    "code": "3053",
     "group": "1",
     "professor": "MARCO ANTONIO LUQUE GARCIA",
     "schedules": [
@@ -33,5 +18,20 @@
     "last_name": "Luque García",
     "rating": 7.3333,
     "num_ratings": 3
+  },
+  {
+    "code": "3053",
+    "group": "2",
+    "professor": "Grupo cancelado, contactar a la División.",
+    "schedules": [
+      {
+        "time": "13:00-14:30",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "S005"
+      }
+    ]
   }
 ]

@@ -1,39 +1,6 @@
 [
   {
     "code": "6998",
-    "group": "8",
-    "professor": "JOSE ARMANDO PLUMA ROSALES",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          4
-        ],
-        "classroom": "DS06"
-      }
-    ],
-    "professor_id": 99548,
-    "first_name": "Jose Armando",
-    "last_name": "Pluma Rosales",
-    "rating": 6.3333,
-    "num_ratings": 6
-  },
-  {
-    "code": "6998",
-    "group": "12",
-    "professor": "JOHAN RACIEL GRANADOS VILLEDA",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          2
-        ],
-        "classroom": "DS06"
-      }
-    ]
-  },
-  {
-    "code": "6998",
     "group": "1",
     "professor": "ALEJANDRO BAEZ MUÑOZ",
     "schedules": [
@@ -143,6 +110,25 @@
   },
   {
     "code": "6998",
+    "group": "8",
+    "professor": "JOSE ARMANDO PLUMA ROSALES",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          4
+        ],
+        "classroom": "DS06"
+      }
+    ],
+    "professor_id": 99548,
+    "first_name": "Jose Armando",
+    "last_name": "Pluma Rosales",
+    "rating": 6.3333,
+    "num_ratings": 6
+  },
+  {
+    "code": "6998",
     "group": "9",
     "professor": "JOSE ARMANDO PLUMA ROSALES",
     "schedules": [
@@ -197,6 +183,20 @@
     "last_name": "Urzua Rosas",
     "rating": 9.3,
     "num_ratings": 10
+  },
+  {
+    "code": "6998",
+    "group": "12",
+    "professor": "JOHAN RACIEL GRANADOS VILLEDA",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2
+        ],
+        "classroom": "DS06"
+      }
+    ]
   },
   {
     "code": "6998",

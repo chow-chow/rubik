@@ -1,29 +1,6 @@
 [
   {
     "code": "1334",
-    "group": "3",
-    "professor": "ANDREA ISADORA VARGAS GARDUÑO",
-    "schedules": [
-      {
-        "time": "17:30-19:00",
-        "days": [
-          1,
-          3,
-          5
-        ],
-        "classroom": "SIN"
-      },
-      {
-        "time": "12:00-15:00",
-        "days": [
-          6
-        ],
-        "classroom": "R032"
-      }
-    ]
-  },
-  {
-    "code": "1334",
     "group": "1",
     "professor": "ANDREA ISADORA VARGAS GARDUÑO",
     "schedules": [
@@ -71,5 +48,28 @@
     "last_name": "Garduño Castro",
     "rating": 8.6,
     "num_ratings": 5
+  },
+  {
+    "code": "1334",
+    "group": "3",
+    "professor": "ANDREA ISADORA VARGAS GARDUÑO",
+    "schedules": [
+      {
+        "time": "17:30-19:00",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "SIN"
+      },
+      {
+        "time": "12:00-15:00",
+        "days": [
+          6
+        ],
+        "classroom": "R032"
+      }
+    ]
   }
 ]

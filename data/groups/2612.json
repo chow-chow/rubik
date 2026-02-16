@@ -2,7 +2,7 @@
   {
     "code": "2612",
     "group": "1",
-    "professor": "PROFESOR POR ASIGNAR",
+    "professor": "LUIS ARMANDO HERNANDEZ GONZALEZ",
     "schedules": [
       {
         "time": "07:00-08:30",
@@ -13,7 +13,12 @@
         ],
         "classroom": "SIN"
       }
-    ]
+    ],
+    "professor_id": 20638,
+    "first_name": "Luis",
+    "last_name": "Hernandez",
+    "rating": 7.75,
+    "num_ratings": 16
   },
   {
     "code": "2612",

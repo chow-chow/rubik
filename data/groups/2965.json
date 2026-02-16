@@ -1,11 +1,11 @@
 [
   {
     "code": "2965",
-    "group": "2",
-    "professor": "ROQUE LUIS EDUARDO CHACON WENCES",
+    "group": "1",
+    "professor": "ISRAEL ORTEGA CASILLAS",
     "schedules": [
       {
-        "time": "13:00-15:00",
+        "time": "17:00-19:00",
         "days": [
           2,
           4
@@ -16,11 +16,11 @@
   },
   {
     "code": "2965",
-    "group": "1",
-    "professor": "ISRAEL ORTEGA CASILLAS",
+    "group": "2",
+    "professor": "ROQUE LUIS EDUARDO CHACON WENCES",
     "schedules": [
       {
-        "time": "17:00-19:00",
+        "time": "13:00-15:00",
         "days": [
           2,
           4

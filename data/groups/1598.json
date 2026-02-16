@@ -1,48 +1,6 @@
 [
   {
     "code": "1598",
-    "group": "6",
-    "professor": "ALEJANDRO VELAZQUEZ MENA",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          2,
-          3,
-          4
-        ],
-        "classroom": "Y202"
-      }
-    ],
-    "professor_id": 66382,
-    "first_name": "Alejandro",
-    "last_name": "Mena",
-    "rating": 7.7778,
-    "num_ratings": 9
-  },
-  {
-    "code": "1598",
-    "group": "7",
-    "professor": "MARIA JAQUELINA LOPEZ BARRIENTOS",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          2,
-          3,
-          4
-        ],
-        "classroom": "J111"
-      }
-    ],
-    "professor_id": 119470,
-    "first_name": "Jaquelina",
-    "last_name": "Lopez Barrientos",
-    "rating": 6.7391,
-    "num_ratings": 23
-  },
-  {
-    "code": "1598",
     "group": "1",
     "professor": "JAVIER FLORES PERALTA",
     "schedules": [
@@ -130,6 +88,48 @@
         "classroom": "B408"
       }
     ]
+  },
+  {
+    "code": "1598",
+    "group": "6",
+    "professor": "ALEJANDRO VELAZQUEZ MENA",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2,
+          3,
+          4
+        ],
+        "classroom": "Y202"
+      }
+    ],
+    "professor_id": 66382,
+    "first_name": "Alejandro",
+    "last_name": "Mena",
+    "rating": 7.7778,
+    "num_ratings": 9
+  },
+  {
+    "code": "1598",
+    "group": "7",
+    "professor": "MARIA JAQUELINA LOPEZ BARRIENTOS",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2,
+          3,
+          4
+        ],
+        "classroom": "J111"
+      }
+    ],
+    "professor_id": 119470,
+    "first_name": "Jaquelina",
+    "last_name": "Lopez Barrientos",
+    "rating": 6.7391,
+    "num_ratings": 23
   },
   {
     "code": "1598",

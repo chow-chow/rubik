@@ -1,21 +1,6 @@
 [
   {
     "code": "1230",
-    "group": "2",
-    "professor": "GILBERTO FUENTES GARCIA",
-    "schedules": [
-      {
-        "time": "11:30-13:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "Y203"
-      }
-    ]
-  },
-  {
-    "code": "1230",
     "group": "1",
     "professor": "FERNANDO MILLAN VAZQUEZ",
     "schedules": [
@@ -24,6 +9,21 @@
         "days": [
           1,
           3
+        ],
+        "classroom": "Y203"
+      }
+    ]
+  },
+  {
+    "code": "1230",
+    "group": "2",
+    "professor": "GILBERTO FUENTES GARCIA",
+    "schedules": [
+      {
+        "time": "11:30-13:00",
+        "days": [
+          2,
+          4
         ],
         "classroom": "Y203"
       }

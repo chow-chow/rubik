@@ -1,46 +1,6 @@
 [
   {
     "code": "1999",
-    "group": "2",
-    "professor": "MARIO ALFREDO IBARRA CARRILLO",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "A306"
-      }
-    ],
-    "professor_id": 99010,
-    "first_name": "Mario Alfredo",
-    "last_name": "Ibarra Carrillo",
-    "rating": 8.2222,
-    "num_ratings": 9
-  },
-  {
-    "code": "1999",
-    "group": "4",
-    "professor": "FLORICEL RAMOS VARGAS",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "A306"
-      }
-    ],
-    "professor_id": 89946,
-    "first_name": "FLORICEL",
-    "last_name": "RAMOS VARGAS",
-    "rating": 5.7429,
-    "num_ratings": 35
-  },
-  {
-    "code": "1999",
     "group": "1",
     "professor": "ADAN BONILLA CHAVEZ",
     "schedules": [
@@ -61,6 +21,26 @@
   },
   {
     "code": "1999",
+    "group": "2",
+    "professor": "MARIO ALFREDO IBARRA CARRILLO",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "A306"
+      }
+    ],
+    "professor_id": 99010,
+    "first_name": "Mario Alfredo",
+    "last_name": "Ibarra Carrillo",
+    "rating": 8.2222,
+    "num_ratings": 9
+  },
+  {
+    "code": "1999",
     "group": "3",
     "professor": "BENJAMIN VALERA OROZCO",
     "schedules": [
@@ -78,5 +58,25 @@
     "last_name": "Valera Orozco",
     "rating": 7.4,
     "num_ratings": 5
+  },
+  {
+    "code": "1999",
+    "group": "4",
+    "professor": "FLORICEL RAMOS VARGAS",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A306"
+      }
+    ],
+    "professor_id": 89946,
+    "first_name": "FLORICEL",
+    "last_name": "RAMOS VARGAS",
+    "rating": 5.7429,
+    "num_ratings": 35
   }
 ]

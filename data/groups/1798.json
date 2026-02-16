@@ -28,5 +28,19 @@
         "classroom": "X101"
       }
     ]
+  },
+  {
+    "code": "1798",
+    "group": "3",
+    "professor": "EDGAR ANTONIO HERNANDEZ TIRADO",
+    "schedules": [
+      {
+        "time": "08:00-12:00",
+        "days": [
+          6
+        ],
+        "classroom": "X101"
+      }
+    ]
   }
 ]

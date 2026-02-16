@@ -36,73 +36,8 @@
     "professor_id": 51489,
     "first_name": "Pedro",
     "last_name": "Struck Cano",
-    "rating": 6.625,
-    "num_ratings": 48
-  },
-  {
-    "code": "1223",
-    "group": "17",
-    "professor": "MARIO ALBERTO MARQUEZ CALDERON",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "I204"
-      }
-    ]
-  },
-  {
-    "code": "1223",
-    "group": "18",
-    "professor": "JOSE ANTONIO RUIZ DIAZ",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          1,
-          5
-        ],
-        "classroom": "J208"
-      }
-    ]
-  },
-  {
-    "code": "1223",
-    "group": "20",
-    "professor": "MARIO ALBERTO MARQUEZ CALDERON",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "I203"
-      }
-    ]
-  },
-  {
-    "code": "1223",
-    "group": "22",
-    "professor": "RICARDO ARTURO PINZON AGUIRRE",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          3,
-          5
-        ],
-        "classroom": "J210"
-      }
-    ],
-    "professor_id": 105197,
-    "first_name": "RICARDO ARTURO",
-    "last_name": "PINZON AGUIRRE",
-    "rating": 9.0263,
-    "num_ratings": 38
+    "rating": 6.48,
+    "num_ratings": 50
   },
   {
     "code": "1223",
@@ -127,8 +62,8 @@
     "professor_id": 58547,
     "first_name": "Edgar Raymundo",
     "last_name": "López Tellez",
-    "rating": 7.0141,
-    "num_ratings": 71
+    "rating": 7.0,
+    "num_ratings": 72
   },
   {
     "code": "1223",
@@ -167,8 +102,8 @@
     "professor_id": 70466,
     "first_name": "Epifanio Oscar",
     "last_name": "Carballar López",
-    "rating": 7.35,
-    "num_ratings": 40
+    "rating": 7.3902,
+    "num_ratings": 41
   },
   {
     "code": "1223",
@@ -272,16 +207,16 @@
       {
         "time": "11:00-13:00",
         "days": [
-          5
+          3
         ],
-        "classroom": "J202"
+        "classroom": "J101"
       },
       {
         "time": "11:00-13:00",
         "days": [
-          3
+          5
         ],
-        "classroom": "J101"
+        "classroom": "J202"
       }
     ]
   },
@@ -322,8 +257,8 @@
     "professor_id": 91447,
     "first_name": "Alejandro",
     "last_name": "Jaramillo Mora",
-    "rating": 7.575,
-    "num_ratings": 40
+    "rating": 7.5952,
+    "num_ratings": 42
   },
   {
     "code": "1223",
@@ -383,8 +318,38 @@
     "professor_id": 91447,
     "first_name": "Alejandro",
     "last_name": "Jaramillo Mora",
-    "rating": 7.575,
-    "num_ratings": 40
+    "rating": 7.5952,
+    "num_ratings": 42
+  },
+  {
+    "code": "1223",
+    "group": "17",
+    "professor": "MARIO ALBERTO MARQUEZ CALDERON",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "I204"
+      }
+    ]
+  },
+  {
+    "code": "1223",
+    "group": "18",
+    "professor": "JOSE ANTONIO RUIZ DIAZ",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1,
+          5
+        ],
+        "classroom": "J208"
+      }
+    ]
   },
   {
     "code": "1223",
@@ -403,8 +368,23 @@
     "professor_id": 66464,
     "first_name": "Diego Alberto",
     "last_name": "Zavala Galicia",
-    "rating": 8.1979,
-    "num_ratings": 96
+    "rating": 8.2062,
+    "num_ratings": 97
+  },
+  {
+    "code": "1223",
+    "group": "20",
+    "professor": "MARIO ALBERTO MARQUEZ CALDERON",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "I203"
+      }
+    ]
   },
   {
     "code": "1223",
@@ -425,5 +405,25 @@
     "last_name": "Morales López",
     "rating": 9.7,
     "num_ratings": 60
+  },
+  {
+    "code": "1223",
+    "group": "22",
+    "professor": "RICARDO ARTURO PINZON AGUIRRE",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "J210"
+      }
+    ],
+    "professor_id": 105197,
+    "first_name": "RICARDO ARTURO",
+    "last_name": "PINZON AGUIRRE",
+    "rating": 9.0263,
+    "num_ratings": 38
   }
 ]

@@ -16,21 +16,6 @@
   },
   {
     "code": "2919",
-    "group": "3",
-    "professor": "EMMANUEL GONZALEZ TRUEBA",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "Y004"
-      }
-    ]
-  },
-  {
-    "code": "2919",
     "group": "2",
     "professor": "PABLO LUIS MENDOZA MEDINA",
     "schedules": [
@@ -41,6 +26,21 @@
           3
         ],
         "classroom": "EXTR"
+      }
+    ]
+  },
+  {
+    "code": "2919",
+    "group": "3",
+    "professor": "EMMANUEL GONZALEZ TRUEBA",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "Y004"
       }
     ]
   },

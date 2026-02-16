@@ -1,26 +1,6 @@
 [
   {
     "code": "3098",
-    "group": "8",
-    "professor": "JORGE ARMANDO RODRIGUEZ VERA",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "EXTR"
-      }
-    ],
-    "professor_id": 75097,
-    "first_name": "Jorge Armando",
-    "last_name": "Rodríguez Vera",
-    "rating": 8.1923,
-    "num_ratings": 26
-  },
-  {
-    "code": "3098",
     "group": "1",
     "professor": "RICARDO FERNANDO ABELA POSADA",
     "schedules": [
@@ -58,6 +38,26 @@
     "last_name": "Nava Morales",
     "rating": 5.0,
     "num_ratings": 2
+  },
+  {
+    "code": "3098",
+    "group": "8",
+    "professor": "JORGE ARMANDO RODRIGUEZ VERA",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "EXTR"
+      }
+    ],
+    "professor_id": 75097,
+    "first_name": "Jorge Armando",
+    "last_name": "Rodríguez Vera",
+    "rating": 8.1923,
+    "num_ratings": 26
   },
   {
     "code": "3098",

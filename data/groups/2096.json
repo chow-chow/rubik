@@ -1,20 +1,6 @@
 [
   {
     "code": "2096",
-    "group": "3",
-    "professor": "Grupo cancelado, contactar a la División.",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          1
-        ],
-        "classroom": "EXTR"
-      }
-    ]
-  },
-  {
-    "code": "2096",
     "group": "1",
     "professor": "ARMANDO ERNESTO ALATORRE CAMPOS",
     "schedules": [
@@ -45,6 +31,20 @@
           4
         ],
         "classroom": "C302"
+      }
+    ]
+  },
+  {
+    "code": "2096",
+    "group": "3",
+    "professor": "Grupo cancelado, contactar a la División.",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1
+        ],
+        "classroom": "EXTR"
       }
     ]
   },

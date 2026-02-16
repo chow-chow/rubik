@@ -1,20 +1,6 @@
 [
   {
     "code": "1686",
-    "group": "7",
-    "professor": "HUMBERTO FLORES GONZALEZ",
-    "schedules": [
-      {
-        "time": "08:00-11:00",
-        "days": [
-          6
-        ],
-        "classroom": "B206"
-      }
-    ]
-  },
-  {
-    "code": "1686",
     "group": "1",
     "professor": "ISMAEL ROMERO OCARANZA",
     "schedules": [
@@ -126,6 +112,20 @@
     "last_name": "Bonilla Chávez",
     "rating": 8.75,
     "num_ratings": 20
+  },
+  {
+    "code": "1686",
+    "group": "7",
+    "professor": "HUMBERTO FLORES GONZALEZ",
+    "schedules": [
+      {
+        "time": "08:00-11:00",
+        "days": [
+          6
+        ],
+        "classroom": "B206"
+      }
+    ]
   },
   {
     "code": "1686",

@@ -20,115 +20,6 @@
   },
   {
     "code": "6473",
-    "group": "3",
-    "professor": "LAURO FERNANDO VAZQUEZ ALBERTO",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          1
-        ],
-        "classroom": "P109"
-      }
-    ],
-    "professor_id": 124067,
-    "first_name": "M.I. LAURO FERNANDO",
-    "last_name": "VAZQUEZ ALBERTO",
-    "rating": 9.0,
-    "num_ratings": 10
-  },
-  {
-    "code": "6473",
-    "group": "7",
-    "professor": "ISRAEL RIVERA CONTRERAS",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          2
-        ],
-        "classroom": "P109"
-      }
-    ]
-  },
-  {
-    "code": "6473",
-    "group": "10",
-    "professor": "JESUS YAÑEZ GUTIERREZ",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          3
-        ],
-        "classroom": "P109"
-      }
-    ],
-    "professor_id": 156041,
-    "first_name": "Jesús",
-    "last_name": "Yañez Gutiérrez",
-    "rating": 9.3333,
-    "num_ratings": 3
-  },
-  {
-    "code": "6473",
-    "group": "11",
-    "professor": "JESUS YAÑEZ GUTIERREZ",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          3
-        ],
-        "classroom": "P109"
-      }
-    ],
-    "professor_id": 156041,
-    "first_name": "Jesús",
-    "last_name": "Yañez Gutiérrez",
-    "rating": 9.3333,
-    "num_ratings": 3
-  },
-  {
-    "code": "6473",
-    "group": "13",
-    "professor": "LAURO FERNANDO VAZQUEZ ALBERTO",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          3
-        ],
-        "classroom": "P109"
-      }
-    ],
-    "professor_id": 124067,
-    "first_name": "M.I. LAURO FERNANDO",
-    "last_name": "VAZQUEZ ALBERTO",
-    "rating": 9.0,
-    "num_ratings": 10
-  },
-  {
-    "code": "6473",
-    "group": "16",
-    "professor": "JESUS YAÑEZ GUTIERREZ",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          4
-        ],
-        "classroom": "P109"
-      }
-    ],
-    "professor_id": 156041,
-    "first_name": "Jesús",
-    "last_name": "Yañez Gutiérrez",
-    "rating": 9.3333,
-    "num_ratings": 3
-  },
-  {
-    "code": "6473",
     "group": "2",
     "professor": "ADRIANA EUGENIA CHAVIRA DIAZ",
     "schedules": [
@@ -145,6 +36,25 @@
     "last_name": "Chavira Diaz",
     "rating": 9.4706,
     "num_ratings": 17
+  },
+  {
+    "code": "6473",
+    "group": "3",
+    "professor": "LAURO FERNANDO VAZQUEZ ALBERTO",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1
+        ],
+        "classroom": "P109"
+      }
+    ],
+    "professor_id": 124067,
+    "first_name": "M.I. LAURO FERNANDO",
+    "last_name": "VAZQUEZ ALBERTO",
+    "rating": 9.0,
+    "num_ratings": 10
   },
   {
     "code": "6473",
@@ -205,6 +115,20 @@
   },
   {
     "code": "6473",
+    "group": "7",
+    "professor": "ISRAEL RIVERA CONTRERAS",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2
+        ],
+        "classroom": "P109"
+      }
+    ]
+  },
+  {
+    "code": "6473",
     "group": "8",
     "professor": "MICHAEL JOSSUE ROJAS GARCIA",
     "schedules": [
@@ -224,17 +148,41 @@
   },
   {
     "code": "6473",
-    "group": "9",
-    "professor": "Grupo cancelado, contactar a la División.",
+    "group": "10",
+    "professor": "JESUS YAÑEZ GUTIERREZ",
     "schedules": [
       {
-        "time": "19:00-21:00",
+        "time": "07:00-09:00",
         "days": [
-          2
+          3
         ],
         "classroom": "P109"
       }
-    ]
+    ],
+    "professor_id": 156041,
+    "first_name": "Jesús",
+    "last_name": "Yañez Gutiérrez",
+    "rating": 9.3333,
+    "num_ratings": 3
+  },
+  {
+    "code": "6473",
+    "group": "11",
+    "professor": "JESUS YAÑEZ GUTIERREZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          3
+        ],
+        "classroom": "P109"
+      }
+    ],
+    "professor_id": 156041,
+    "first_name": "Jesús",
+    "last_name": "Yañez Gutiérrez",
+    "rating": 9.3333,
+    "num_ratings": 3
   },
   {
     "code": "6473",
@@ -249,6 +197,25 @@
         "classroom": "P114"
       }
     ]
+  },
+  {
+    "code": "6473",
+    "group": "13",
+    "professor": "LAURO FERNANDO VAZQUEZ ALBERTO",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          3
+        ],
+        "classroom": "P109"
+      }
+    ],
+    "professor_id": 124067,
+    "first_name": "M.I. LAURO FERNANDO",
+    "last_name": "VAZQUEZ ALBERTO",
+    "rating": 9.0,
+    "num_ratings": 10
   },
   {
     "code": "6473",
@@ -268,6 +235,25 @@
     "last_name": "Arellano Figueroa",
     "rating": 7.7778,
     "num_ratings": 18
+  },
+  {
+    "code": "6473",
+    "group": "16",
+    "professor": "JESUS YAÑEZ GUTIERREZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          4
+        ],
+        "classroom": "P109"
+      }
+    ],
+    "professor_id": 156041,
+    "first_name": "Jesús",
+    "last_name": "Yañez Gutiérrez",
+    "rating": 9.3333,
+    "num_ratings": 3
   },
   {
     "code": "6473",

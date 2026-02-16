@@ -1,26 +1,6 @@
 [
   {
     "code": "2934",
-    "group": "4",
-    "professor": "ANTONIO MONTALVO GARCIA",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "B408"
-      }
-    ],
-    "professor_id": 75394,
-    "first_name": "ANTONIO",
-    "last_name": "MONTALVO GARCIA",
-    "rating": 6.1786,
-    "num_ratings": 28
-  },
-  {
-    "code": "2934",
     "group": "1",
     "professor": "CINTIA QUEZADA REYES",
     "schedules": [
@@ -72,5 +52,25 @@
         "classroom": "B306"
       }
     ]
+  },
+  {
+    "code": "2934",
+    "group": "4",
+    "professor": "ANTONIO MONTALVO GARCIA",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "B408"
+      }
+    ],
+    "professor_id": 75394,
+    "first_name": "ANTONIO",
+    "last_name": "MONTALVO GARCIA",
+    "rating": 6.1786,
+    "num_ratings": 28
   }
 ]

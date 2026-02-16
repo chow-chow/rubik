@@ -20,44 +20,6 @@
   },
   {
     "code": "6409",
-    "group": "4",
-    "professor": "JAIME AGUILAR REYES",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          3
-        ],
-        "classroom": "N005"
-      }
-    ],
-    "professor_id": 161895,
-    "first_name": "Jaime",
-    "last_name": "Aguilar Reyes",
-    "rating": 8.25,
-    "num_ratings": 4
-  },
-  {
-    "code": "6409",
-    "group": "25",
-    "professor": "SONIA LUISA ELENA LOPEZ MALDONADO",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          5
-        ],
-        "classroom": "N005"
-      }
-    ],
-    "professor_id": 134971,
-    "first_name": "Sonia Luisa",
-    "last_name": "López Maldonado",
-    "rating": 4.86,
-    "num_ratings": 7
-  },
-  {
-    "code": "6409",
     "group": "2",
     "professor": "ALEJANDRA MENDOZA CAMPOS",
     "schedules": [
@@ -93,6 +55,25 @@
     "last_name": "Escalante Camargo",
     "rating": 7.2143,
     "num_ratings": 14
+  },
+  {
+    "code": "6409",
+    "group": "4",
+    "professor": "JAIME AGUILAR REYES",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          3
+        ],
+        "classroom": "N005"
+      }
+    ],
+    "professor_id": 161895,
+    "first_name": "Jaime",
+    "last_name": "Aguilar Reyes",
+    "rating": 8.25,
+    "num_ratings": 4
   },
   {
     "code": "6409",
@@ -220,7 +201,7 @@
     "first_name": "Eduardo",
     "last_name": "Pérez Gonzalez",
     "rating": 9.0,
-    "num_ratings": 5
+    "num_ratings": 6
   },
   {
     "code": "6409",
@@ -433,6 +414,25 @@
         "classroom": "N005"
       }
     ]
+  },
+  {
+    "code": "6409",
+    "group": "25",
+    "professor": "SONIA LUISA ELENA LOPEZ MALDONADO",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          5
+        ],
+        "classroom": "N005"
+      }
+    ],
+    "professor_id": 134971,
+    "first_name": "Sonia Luisa",
+    "last_name": "López Maldonado",
+    "rating": 4.86,
+    "num_ratings": 7
   },
   {
     "code": "6409",

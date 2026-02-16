@@ -1,6 +1,20 @@
 [
   {
     "code": "2935",
+    "group": "1",
+    "professor": "Grupo cancelado, contactar a la División.",
+    "schedules": [
+      {
+        "time": "07:00-10:00",
+        "days": [
+          3
+        ],
+        "classroom": "R029"
+      }
+    ]
+  },
+  {
+    "code": "2935",
     "group": "2",
     "professor": "Grupo cancelado, contactar a la División.",
     "schedules": [
@@ -11,20 +25,6 @@
           4
         ],
         "classroom": "R004"
-      }
-    ]
-  },
-  {
-    "code": "2935",
-    "group": "1",
-    "professor": "Grupo cancelado, contactar a la División.",
-    "schedules": [
-      {
-        "time": "07:00-10:00",
-        "days": [
-          3
-        ],
-        "classroom": "R029"
       }
     ]
   }

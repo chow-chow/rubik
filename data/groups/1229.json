@@ -1,113 +1,6 @@
 [
   {
     "code": "1229",
-    "group": "5",
-    "professor": "ANGEL AVILA MENDOZA",
-    "schedules": [
-      {
-        "time": "16:00-17:30",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "A308"
-      },
-      {
-        "time": "16:00-19:00",
-        "days": [
-          2
-        ],
-        "classroom": "R029"
-      }
-    ],
-    "professor_id": 38449,
-    "first_name": "Angel",
-    "last_name": "Avila Mendoza",
-    "rating": 7.2143,
-    "num_ratings": 28
-  },
-  {
-    "code": "1229",
-    "group": "6",
-    "professor": "ANGEL AVILA MENDOZA",
-    "schedules": [
-      {
-        "time": "17:30-19:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "A308"
-      },
-      {
-        "time": "16:00-19:00",
-        "days": [
-          4
-        ],
-        "classroom": "R029"
-      }
-    ],
-    "professor_id": 38449,
-    "first_name": "Angel",
-    "last_name": "Avila Mendoza",
-    "rating": 7.2143,
-    "num_ratings": 28
-  },
-  {
-    "code": "1229",
-    "group": "9",
-    "professor": "ERIK MARQUEZ GARCIA",
-    "schedules": [
-      {
-        "time": "16:00-17:30",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "R206"
-      },
-      {
-        "time": "16:00-19:00",
-        "days": [
-          3
-        ],
-        "classroom": "R029"
-      }
-    ],
-    "professor_id": 142005,
-    "first_name": "Erik",
-    "last_name": "Marquez Garcia",
-    "rating": 10.0,
-    "num_ratings": 5
-  },
-  {
-    "code": "1229",
-    "group": "10",
-    "professor": "JOSE MARIA BRISEÑO ALMARAZ",
-    "schedules": [
-      {
-        "time": "14:30-17:30",
-        "days": [
-          3
-        ],
-        "classroom": "U305"
-      },
-      {
-        "time": "14:30-17:30",
-        "days": [
-          5
-        ],
-        "classroom": "R029"
-      }
-    ],
-    "professor_id": 153667,
-    "first_name": "José María",
-    "last_name": "Briseño Almaraz",
-    "rating": 8.25,
-    "num_ratings": 4
-  },
-  {
-    "code": "1229",
     "group": "1",
     "professor": "CATALINA ORDOÑEZ RAMOS",
     "schedules": [
@@ -216,6 +109,60 @@
   },
   {
     "code": "1229",
+    "group": "5",
+    "professor": "ANGEL AVILA MENDOZA",
+    "schedules": [
+      {
+        "time": "16:00-17:30",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "A308"
+      },
+      {
+        "time": "16:00-19:00",
+        "days": [
+          2
+        ],
+        "classroom": "R029"
+      }
+    ],
+    "professor_id": 38449,
+    "first_name": "Angel",
+    "last_name": "Avila Mendoza",
+    "rating": 7.2143,
+    "num_ratings": 28
+  },
+  {
+    "code": "1229",
+    "group": "6",
+    "professor": "ANGEL AVILA MENDOZA",
+    "schedules": [
+      {
+        "time": "17:30-19:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "A308"
+      },
+      {
+        "time": "16:00-19:00",
+        "days": [
+          4
+        ],
+        "classroom": "R029"
+      }
+    ],
+    "professor_id": 38449,
+    "first_name": "Angel",
+    "last_name": "Avila Mendoza",
+    "rating": 7.2143,
+    "num_ratings": 28
+  },
+  {
+    "code": "1229",
     "group": "7",
     "professor": "BRENDA IVETH MORENO HURTADO",
     "schedules": [
@@ -267,6 +214,59 @@
     "last_name": "Moreno Hurtado",
     "rating": 8.5556,
     "num_ratings": 9
+  },
+  {
+    "code": "1229",
+    "group": "9",
+    "professor": "ERIK MARQUEZ GARCIA",
+    "schedules": [
+      {
+        "time": "16:00-17:30",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "R206"
+      },
+      {
+        "time": "16:00-19:00",
+        "days": [
+          3
+        ],
+        "classroom": "R029"
+      }
+    ],
+    "professor_id": 142005,
+    "first_name": "Erik",
+    "last_name": "Marquez Garcia",
+    "rating": 10.0,
+    "num_ratings": 5
+  },
+  {
+    "code": "1229",
+    "group": "10",
+    "professor": "JOSE MARIA BRISEÑO ALMARAZ",
+    "schedules": [
+      {
+        "time": "14:30-17:30",
+        "days": [
+          3
+        ],
+        "classroom": "U305"
+      },
+      {
+        "time": "14:30-17:30",
+        "days": [
+          5
+        ],
+        "classroom": "R029"
+      }
+    ],
+    "professor_id": 153667,
+    "first_name": "José María",
+    "last_name": "Briseño Almaraz",
+    "rating": 8.25,
+    "num_ratings": 4
   },
   {
     "code": "1229",

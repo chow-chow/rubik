@@ -1,60 +1,6 @@
 [
   {
     "code": "1473",
-    "group": "2",
-    "professor": "ISRAEL RIVERA CONTRERAS",
-    "schedules": [
-      {
-        "time": "13:00-14:30",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "A301"
-      }
-    ]
-  },
-  {
-    "code": "1473",
-    "group": "5",
-    "professor": "FERNANDA RAMOS GARCIA",
-    "schedules": [
-      {
-        "time": "15:00-16:30",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "A306"
-      }
-    ],
-    "professor_id": 159593,
-    "first_name": "Fernanda",
-    "last_name": "Ramos",
-    "rating": 8.3333,
-    "num_ratings": 3
-  },
-  {
-    "code": "1473",
-    "group": "6",
-    "professor": "ERIKA SUSANA MENDOZA URRUTIA",
-    "schedules": [
-      {
-        "time": "07:00-10:00",
-        "days": [
-          6
-        ],
-        "classroom": "A301"
-      }
-    ],
-    "professor_id": 99801,
-    "first_name": "ERIKA SUSANA ING.",
-    "last_name": "MENDOZA URRUTIA",
-    "rating": 6.8387,
-    "num_ratings": 31
-  },
-  {
-    "code": "1473",
     "group": "1",
     "professor": "EDGAR TELLO PALETA",
     "schedules": [
@@ -72,6 +18,21 @@
     "last_name": "Tello",
     "rating": 8.1818,
     "num_ratings": 44
+  },
+  {
+    "code": "1473",
+    "group": "2",
+    "professor": "ISRAEL RIVERA CONTRERAS",
+    "schedules": [
+      {
+        "time": "13:00-14:30",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "A301"
+      }
+    ]
   },
   {
     "code": "1473",
@@ -112,5 +73,44 @@
     "last_name": "Tello",
     "rating": 8.1818,
     "num_ratings": 44
+  },
+  {
+    "code": "1473",
+    "group": "5",
+    "professor": "FERNANDA RAMOS GARCIA",
+    "schedules": [
+      {
+        "time": "15:00-16:30",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A306"
+      }
+    ],
+    "professor_id": 159593,
+    "first_name": "Fernanda",
+    "last_name": "Ramos",
+    "rating": 8.3333,
+    "num_ratings": 3
+  },
+  {
+    "code": "1473",
+    "group": "6",
+    "professor": "ERIKA SUSANA MENDOZA URRUTIA",
+    "schedules": [
+      {
+        "time": "07:00-10:00",
+        "days": [
+          6
+        ],
+        "classroom": "A301"
+      }
+    ],
+    "professor_id": 99801,
+    "first_name": "ERIKA SUSANA ING.",
+    "last_name": "MENDOZA URRUTIA",
+    "rating": 6.8387,
+    "num_ratings": 31
   }
 ]

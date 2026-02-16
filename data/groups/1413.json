@@ -71,6 +71,26 @@
   },
   {
     "code": "1413",
+    "group": "5",
+    "professor": "ELSA RUTH MONDRAGON SAAVEDRA",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A102"
+      }
+    ],
+    "professor_id": 70316,
+    "first_name": "Elsa Ruth",
+    "last_name": "Mondragón Saavedra",
+    "rating": 8.39,
+    "num_ratings": 59
+  },
+  {
+    "code": "1413",
     "group": "6",
     "professor": "JOSE MANUEL BAHAMONDE PELAEZVer Nota 1",
     "schedules": [
@@ -82,6 +102,25 @@
         "classroom": "A104"
       }
     ]
+  },
+  {
+    "code": "1413",
+    "group": "7",
+    "professor": "IRIS MONSERRAT URBINA CASAS",
+    "schedules": [
+      {
+        "time": "08:00-12:00",
+        "days": [
+          6
+        ],
+        "classroom": "A108"
+      }
+    ],
+    "professor_id": 75038,
+    "first_name": "Iris Monserrat",
+    "last_name": "Urbina Casas",
+    "rating": 7.0465,
+    "num_ratings": 43
   },
   {
     "code": "1413",
@@ -120,144 +159,6 @@
     "last_name": "Macedo Calvillo",
     "rating": 6.0816,
     "num_ratings": 49
-  },
-  {
-    "code": "1413",
-    "group": "20",
-    "professor": "MARIA MAGDALENA MEJIA ESTAÑOL",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "A102"
-      }
-    ],
-    "professor_id": 64088,
-    "first_name": "Maria Magdalena",
-    "last_name": "Mejia Estañol",
-    "rating": 5.0,
-    "num_ratings": 14
-  },
-  {
-    "code": "1413",
-    "group": "24",
-    "professor": "LIZET DIAZ GARCIA",
-    "schedules": [
-      {
-        "time": "17:00-21:00",
-        "days": [
-          5
-        ],
-        "classroom": "A106"
-      }
-    ],
-    "professor_id": 55874,
-    "first_name": "Lizet",
-    "last_name": "Diaz García",
-    "rating": 6.6471,
-    "num_ratings": 17
-  },
-  {
-    "code": "1413",
-    "group": "26",
-    "professor": "JOSE ANTONIO LOPEZ CUESTA",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "A101"
-      }
-    ],
-    "professor_id": 52239,
-    "first_name": "Jose António",
-    "last_name": "Lopez Cuesta",
-    "rating": 8.4471,
-    "num_ratings": 85
-  },
-  {
-    "code": "1413",
-    "group": "27",
-    "professor": "JOSE MARTIN SERNA DE ANDA",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "A202"
-      }
-    ],
-    "professor_id": 155980,
-    "first_name": "José Martín",
-    "last_name": "Serna de Anda",
-    "rating": 7.5,
-    "num_ratings": 4
-  },
-  {
-    "code": "1413",
-    "group": "28",
-    "professor": "JUAN CARLOS GUZMAN CORREA",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          3,
-          5
-        ],
-        "classroom": "Y101"
-      }
-    ],
-    "professor_id": 62658,
-    "first_name": "Juan Carlos",
-    "last_name": "Correa Guzman",
-    "rating": 8.0,
-    "num_ratings": 17
-  },
-  {
-    "code": "1413",
-    "group": "5",
-    "professor": "ELSA RUTH MONDRAGON SAAVEDRA",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "A102"
-      }
-    ],
-    "professor_id": 70316,
-    "first_name": "Elsa Ruth",
-    "last_name": "Mondragón Saavedra",
-    "rating": 8.39,
-    "num_ratings": 59
-  },
-  {
-    "code": "1413",
-    "group": "7",
-    "professor": "IRIS MONSERRAT URBINA CASAS",
-    "schedules": [
-      {
-        "time": "08:00-12:00",
-        "days": [
-          6
-        ],
-        "classroom": "A108"
-      }
-    ],
-    "professor_id": 75038,
-    "first_name": "Iris Monserrat",
-    "last_name": "Urbina Casas",
-    "rating": 7.0465,
-    "num_ratings": 43
   },
   {
     "code": "1413",
@@ -460,6 +361,26 @@
   },
   {
     "code": "1413",
+    "group": "20",
+    "professor": "MARIA MAGDALENA MEJIA ESTAÑOL",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "A102"
+      }
+    ],
+    "professor_id": 64088,
+    "first_name": "Maria Magdalena",
+    "last_name": "Mejia Estañol",
+    "rating": 5.0,
+    "num_ratings": 14
+  },
+  {
+    "code": "1413",
     "group": "21",
     "professor": "ALEJANDRO CESAR LOPEZ BOLAÑOSVer Nota 1",
     "schedules": [
@@ -519,6 +440,25 @@
   },
   {
     "code": "1413",
+    "group": "24",
+    "professor": "LIZET DIAZ GARCIA",
+    "schedules": [
+      {
+        "time": "17:00-21:00",
+        "days": [
+          5
+        ],
+        "classroom": "A106"
+      }
+    ],
+    "professor_id": 55874,
+    "first_name": "Lizet",
+    "last_name": "Diaz García",
+    "rating": 6.6471,
+    "num_ratings": 17
+  },
+  {
+    "code": "1413",
     "group": "25",
     "professor": "ANGEL JULIAN AVILA AGUILAR",
     "schedules": [
@@ -536,5 +476,65 @@
     "last_name": "Avila Aguilar",
     "rating": 9.0,
     "num_ratings": 2
+  },
+  {
+    "code": "1413",
+    "group": "26",
+    "professor": "JOSE ANTONIO LOPEZ CUESTA",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A101"
+      }
+    ],
+    "professor_id": 52239,
+    "first_name": "Jose António",
+    "last_name": "Lopez Cuesta",
+    "rating": 8.4471,
+    "num_ratings": 85
+  },
+  {
+    "code": "1413",
+    "group": "27",
+    "professor": "JOSE MARTIN SERNA DE ANDA",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A202"
+      }
+    ],
+    "professor_id": 155980,
+    "first_name": "José Martín",
+    "last_name": "Serna de Anda",
+    "rating": 7.5,
+    "num_ratings": 4
+  },
+  {
+    "code": "1413",
+    "group": "28",
+    "professor": "JUAN CARLOS GUZMAN CORREA",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "Y101"
+      }
+    ],
+    "professor_id": 62658,
+    "first_name": "Juan Carlos",
+    "last_name": "Correa Guzman",
+    "rating": 8.0,
+    "num_ratings": 17
   }
 ]

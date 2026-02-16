@@ -20,6 +20,20 @@
   },
   {
     "code": "5558",
+    "group": "3",
+    "professor": "EDUARDO HERNANDEZ ROMERO",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          2
+        ],
+        "classroom": "P217"
+      }
+    ]
+  },
+  {
+    "code": "5558",
     "group": "4",
     "professor": "EDUARDO HERNANDEZ ROMERO",
     "schedules": [
@@ -72,39 +86,6 @@
   },
   {
     "code": "5558",
-    "group": "9",
-    "professor": "ABEL VILLANUEVA PEÑA",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          5
-        ],
-        "classroom": "P217"
-      }
-    ],
-    "professor_id": 60921,
-    "first_name": "ABEL",
-    "last_name": "VILLANUEVA PEÑA",
-    "rating": 5.1333,
-    "num_ratings": 30
-  },
-  {
-    "code": "5558",
-    "group": "3",
-    "professor": "EDUARDO HERNANDEZ ROMERO",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          2
-        ],
-        "classroom": "P217"
-      }
-    ]
-  },
-  {
-    "code": "5558",
     "group": "7",
     "professor": "JOSE ALBERTO ARELLANO FIGUEROA",
     "schedules": [
@@ -140,6 +121,25 @@
     "last_name": "Barbosa Castillo",
     "rating": 8.0,
     "num_ratings": 5
+  },
+  {
+    "code": "5558",
+    "group": "9",
+    "professor": "ABEL VILLANUEVA PEÑA",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          5
+        ],
+        "classroom": "P217"
+      }
+    ],
+    "professor_id": 60921,
+    "first_name": "ABEL",
+    "last_name": "VILLANUEVA PEÑA",
+    "rating": 5.0323,
+    "num_ratings": 31
   },
   {
     "code": "5558",

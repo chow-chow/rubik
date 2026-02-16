@@ -1,41 +1,6 @@
 [
   {
     "code": "1760",
-    "group": "4",
-    "professor": "MARCO TULIO MENDOZA ROSAS",
-    "schedules": [
-      {
-        "time": "17:30-19:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "A304"
-      }
-    ],
-    "professor_id": 135805,
-    "first_name": "Marco Tulio",
-    "last_name": "Mendoza Rosas",
-    "rating": 8.3333,
-    "num_ratings": 3
-  },
-  {
-    "code": "1760",
-    "group": "5",
-    "professor": "SERGIO MACUIL ROBLES",
-    "schedules": [
-      {
-        "time": "07:00-08:30",
-        "days": [
-          3,
-          5
-        ],
-        "classroom": "Y104"
-      }
-    ]
-  },
-  {
-    "code": "1760",
     "group": "1",
     "professor": "LAURA MINERVA ROLDAN MORALES",
     "schedules": [
@@ -83,5 +48,40 @@
     "last_name": "Mendoza Rosas",
     "rating": 8.3333,
     "num_ratings": 3
+  },
+  {
+    "code": "1760",
+    "group": "4",
+    "professor": "MARCO TULIO MENDOZA ROSAS",
+    "schedules": [
+      {
+        "time": "17:30-19:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A304"
+      }
+    ],
+    "professor_id": 135805,
+    "first_name": "Marco Tulio",
+    "last_name": "Mendoza Rosas",
+    "rating": 8.3333,
+    "num_ratings": 3
+  },
+  {
+    "code": "1760",
+    "group": "5",
+    "professor": "SERGIO MACUIL ROBLES",
+    "schedules": [
+      {
+        "time": "07:00-08:30",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "Y104"
+      }
+    ]
   }
 ]

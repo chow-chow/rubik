@@ -1,33 +1,6 @@
 [
   {
     "code": "1328",
-    "group": "2",
-    "professor": "ELIZABETH AGUIRRE MALDONADO",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "J108"
-      },
-      {
-        "time": "17:00-19:00",
-        "days": [
-          3
-        ],
-        "classroom": "H002"
-      }
-    ],
-    "professor_id": 60632,
-    "first_name": "Elizabeth",
-    "last_name": "Aguirre Maldonado",
-    "rating": 6.7347,
-    "num_ratings": 49
-  },
-  {
-    "code": "1328",
     "group": "1",
     "professor": "CYNTHIA MIRANDA TREJO",
     "schedules": [
@@ -52,5 +25,32 @@
     "last_name": "Miranda",
     "rating": 6.0,
     "num_ratings": 4
+  },
+  {
+    "code": "1328",
+    "group": "2",
+    "professor": "ELIZABETH AGUIRRE MALDONADO",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "J108"
+      },
+      {
+        "time": "17:00-19:00",
+        "days": [
+          3
+        ],
+        "classroom": "H002"
+      }
+    ],
+    "professor_id": 60632,
+    "first_name": "Elizabeth",
+    "last_name": "Aguirre Maldonado",
+    "rating": 6.7347,
+    "num_ratings": 49
   }
 ]

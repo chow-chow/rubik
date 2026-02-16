@@ -1,20 +1,6 @@
 [
   {
     "code": "2829",
-    "group": "2",
-    "professor": "ERICK FELIPE JIMENEZ QUIROZ",
-    "schedules": [
-      {
-        "time": "07:00-10:00",
-        "days": [
-          5
-        ],
-        "classroom": "A304"
-      }
-    ]
-  },
-  {
-    "code": "2829",
     "group": "1",
     "professor": "ENRIQUE CESAR VALDEZ",
     "schedules": [
@@ -32,5 +18,19 @@
     "last_name": "Valdez",
     "rating": 8.75,
     "num_ratings": 4
+  },
+  {
+    "code": "2829",
+    "group": "2",
+    "professor": "ERICK FELIPE JIMENEZ QUIROZ",
+    "schedules": [
+      {
+        "time": "07:00-10:00",
+        "days": [
+          5
+        ],
+        "classroom": "A304"
+      }
+    ]
   }
 ]

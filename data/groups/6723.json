@@ -1,6 +1,25 @@
 [
   {
     "code": "6723",
+    "group": "1",
+    "professor": "DOMINGO TEODORO MENDOZA ROSALES",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1
+        ],
+        "classroom": "Q107"
+      }
+    ],
+    "professor_id": 71346,
+    "first_name": "Domingo Teodoro",
+    "last_name": "Mendoza Rosales",
+    "rating": 6.9565,
+    "num_ratings": 69
+  },
+  {
+    "code": "6723",
     "group": "2",
     "professor": "FRANCISCO JAVIER MARTINEZ RODRIGUEZ",
     "schedules": [
@@ -27,25 +46,6 @@
         "time": "13:00-15:00",
         "days": [
           3
-        ],
-        "classroom": "Q107"
-      }
-    ],
-    "professor_id": 71346,
-    "first_name": "Domingo Teodoro",
-    "last_name": "Mendoza Rosales",
-    "rating": 6.9565,
-    "num_ratings": 69
-  },
-  {
-    "code": "6723",
-    "group": "1",
-    "professor": "DOMINGO TEODORO MENDOZA ROSALES",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          1
         ],
         "classroom": "Q107"
       }

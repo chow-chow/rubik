@@ -17,7 +17,7 @@
   {
     "code": "1977",
     "group": "2",
-    "professor": "JORGE LUIS ROJAS ARCE",
+    "professor": "Grupo cancelado, contactar a la División.",
     "schedules": [
       {
         "time": "09:00-11:00",
@@ -27,12 +27,7 @@
         ],
         "classroom": "A203"
       }
-    ],
-    "professor_id": 134036,
-    "first_name": "Jorge Luis",
-    "last_name": "Rojas Arce",
-    "rating": 7.0,
-    "num_ratings": 9
+    ]
   },
   {
     "code": "1977",
@@ -81,8 +76,23 @@
   },
   {
     "code": "1977",
+    "group": "6",
+    "professor": "EDGAR ANTONIO HERNANDEZ TIRADO",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "EXTR"
+      }
+    ]
+  },
+  {
+    "code": "1977",
     "group": "7",
-    "professor": "JIMENA OLVERES MONTIEL",
+    "professor": "Grupo cancelado, contactar a la División.",
     "schedules": [
       {
         "time": "09:00-11:00",
@@ -97,7 +107,7 @@
   {
     "code": "1977",
     "group": "8",
-    "professor": "JUAN CARLOS MUÑOZ TORRES",
+    "professor": "Grupo cancelado, contactar a la División.",
     "schedules": [
       {
         "time": "07:00-09:00",
@@ -112,7 +122,7 @@
   {
     "code": "1977",
     "group": "9",
-    "professor": "FERNANDO PEREZ ESCAMIROSA",
+    "professor": "Grupo cancelado, contactar a la División.",
     "schedules": [
       {
         "time": "13:00-15:00",
@@ -127,7 +137,7 @@
   {
     "code": "1977",
     "group": "10",
-    "professor": "ZEUS TLALTECUTLI DOMINGUEZ VEGA",
+    "professor": "Grupo cancelado, contactar a la División.",
     "schedules": [
       {
         "time": "11:00-13:00",
@@ -142,7 +152,7 @@
   {
     "code": "1977",
     "group": "11",
-    "professor": "GRACIELA VELASCO HERRERA",
+    "professor": "Grupo cancelado, contactar a la División.",
     "schedules": [
       {
         "time": "15:00-17:00",
@@ -157,7 +167,7 @@
   {
     "code": "1977",
     "group": "12",
-    "professor": "DIEGO ORTEGA PICAZO",
+    "professor": "Grupo cancelado, contactar a la División.",
     "schedules": [
       {
         "time": "15:00-17:00",
@@ -166,21 +176,6 @@
           4
         ],
         "classroom": "X101"
-      }
-    ]
-  },
-  {
-    "code": "1977",
-    "group": "6",
-    "professor": "EDGAR ANTONIO HERNANDEZ TIRADO",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "EXTR"
       }
     ]
   }

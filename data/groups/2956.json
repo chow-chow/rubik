@@ -1,21 +1,6 @@
 [
   {
     "code": "2956",
-    "group": "2",
-    "professor": "JUAN CARLOS MUÑOZ TORRES",
-    "schedules": [
-      {
-        "time": "07:00-08:30",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "T102"
-      }
-    ]
-  },
-  {
-    "code": "2956",
     "group": "1",
     "professor": "JOSE GABRIEL PERAL GARCIA",
     "schedules": [
@@ -33,6 +18,21 @@
     "last_name": "Peral Garcia",
     "rating": 9.0,
     "num_ratings": 2
+  },
+  {
+    "code": "2956",
+    "group": "2",
+    "professor": "JUAN CARLOS MUÑOZ TORRES",
+    "schedules": [
+      {
+        "time": "07:00-08:30",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "T102"
+      }
+    ]
   },
   {
     "code": "2956",

@@ -1,27 +1,6 @@
 [
   {
     "code": "2923",
-    "group": "4",
-    "professor": "ALAN ABDIEL DIAZ YAÑEZ",
-    "schedules": [
-      {
-        "time": "08:00-12:00",
-        "days": [
-          6
-        ],
-        "classroom": "O005"
-      },
-      {
-        "time": "12:00-14:00",
-        "days": [
-          6
-        ],
-        "classroom": "O005"
-      }
-    ]
-  },
-  {
-    "code": "2923",
     "group": "1",
     "professor": "DAVID HORTON CAVAZOS",
     "schedules": [
@@ -88,6 +67,27 @@
           1
         ],
         "classroom": "EXTR"
+      }
+    ]
+  },
+  {
+    "code": "2923",
+    "group": "4",
+    "professor": "ALAN ABDIEL DIAZ YAÑEZ",
+    "schedules": [
+      {
+        "time": "08:00-12:00",
+        "days": [
+          6
+        ],
+        "classroom": "O005"
+      },
+      {
+        "time": "12:00-14:00",
+        "days": [
+          6
+        ],
+        "classroom": "O005"
       }
     ]
   }

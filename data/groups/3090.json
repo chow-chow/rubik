@@ -61,6 +61,21 @@
   },
   {
     "code": "3090",
+    "group": "5",
+    "professor": "CARLOS OMAR CALIECA ROMERO",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "EXTR"
+      }
+    ]
+  },
+  {
+    "code": "3090",
     "group": "6",
     "professor": "RICARDO FERNANDO ABELA POSADA",
     "schedules": [
@@ -78,6 +93,21 @@
     "last_name": "ABELA POSADA",
     "rating": 9.4091,
     "num_ratings": 22
+  },
+  {
+    "code": "3090",
+    "group": "7",
+    "professor": "IVAN NIETO DIAZ LAVANA",
+    "schedules": [
+      {
+        "time": "18:00-20:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "EXTR"
+      }
+    ]
   },
   {
     "code": "3090",
@@ -191,36 +221,6 @@
           4
         ],
         "classroom": "O103"
-      }
-    ]
-  },
-  {
-    "code": "3090",
-    "group": "5",
-    "professor": "CARLOS OMAR CALIECA ROMERO",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "EXTR"
-      }
-    ]
-  },
-  {
-    "code": "3090",
-    "group": "7",
-    "professor": "IVAN NIETO DIAZ LAVANA",
-    "schedules": [
-      {
-        "time": "18:00-20:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "EXTR"
       }
     ]
   }

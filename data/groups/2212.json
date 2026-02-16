@@ -1,6 +1,21 @@
 [
   {
     "code": "2212",
+    "group": "1",
+    "professor": "Grupo cancelado, contactar a la División.",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "J107"
+      }
+    ]
+  },
+  {
+    "code": "2212",
     "group": "2",
     "professor": "ANAHI VELAZQUEZ SILVA",
     "schedules": [
@@ -18,20 +33,5 @@
     "last_name": "Velázquez Silva",
     "rating": 6.5455,
     "num_ratings": 22
-  },
-  {
-    "code": "2212",
-    "group": "1",
-    "professor": "Grupo cancelado, contactar a la División.",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "J107"
-      }
-    ]
   }
 ]

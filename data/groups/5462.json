@@ -1,20 +1,6 @@
 [
   {
     "code": "5462",
-    "group": "12",
-    "professor": "MOISES GUILLERMO QUINTANILLA DURAN",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          2
-        ],
-        "classroom": "N005"
-      }
-    ]
-  },
-  {
-    "code": "5462",
     "group": "1",
     "professor": "MIGUEL ANGEL GARCIA AVILA",
     "schedules": [
@@ -201,6 +187,20 @@
     "last_name": "Escalante Camargo",
     "rating": 7.2143,
     "num_ratings": 14
+  },
+  {
+    "code": "5462",
+    "group": "12",
+    "professor": "MOISES GUILLERMO QUINTANILLA DURAN",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2
+        ],
+        "classroom": "N005"
+      }
+    ]
   },
   {
     "code": "5462",

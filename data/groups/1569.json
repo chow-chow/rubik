@@ -1,22 +1,42 @@
 [
   {
     "code": "1569",
+    "group": "1",
+    "professor": "HECTOR CIRO BARBOSA MONTES",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "J204"
+      }
+    ],
+    "professor_id": 108764,
+    "first_name": "ING HECTOR CIRO",
+    "last_name": "BARBOSA MONTES",
+    "rating": 8.2593,
+    "num_ratings": 27
+  },
+  {
+    "code": "1569",
     "group": "2",
     "professor": "MIRIAM ESTELA LEMUS",
     "schedules": [
       {
         "time": "07:00-09:00",
         "days": [
-          2
+          4
         ],
-        "classroom": "J205"
+        "classroom": "I103"
       },
       {
         "time": "07:00-09:00",
         "days": [
-          4
+          2
         ],
-        "classroom": "I305"
+        "classroom": "J205"
       }
     ],
     "professor_id": 76408,
@@ -33,16 +53,16 @@
       {
         "time": "09:00-11:00",
         "days": [
-          3
+          1
         ],
-        "classroom": "J203"
+        "classroom": "J211"
       },
       {
         "time": "09:00-11:00",
         "days": [
-          1
+          3
         ],
-        "classroom": "J211"
+        "classroom": "J203"
       }
     ],
     "professor_id": 99111,
@@ -128,46 +148,6 @@
   },
   {
     "code": "1569",
-    "group": "12",
-    "professor": "ELIA INES LUNA CEBALLOS",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "J105"
-      }
-    ],
-    "professor_id": 84849,
-    "first_name": "Elia Inés",
-    "last_name": "Luna Ceballos",
-    "rating": 8.4024,
-    "num_ratings": 82
-  },
-  {
-    "code": "1569",
-    "group": "1",
-    "professor": "HECTOR CIRO BARBOSA MONTES",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "J204"
-      }
-    ],
-    "professor_id": 108764,
-    "first_name": "ING HECTOR CIRO",
-    "last_name": "BARBOSA MONTES",
-    "rating": 8.2593,
-    "num_ratings": 27
-  },
-  {
-    "code": "1569",
     "group": "8",
     "professor": "VEDUAR ALLIE SARMIENTO TORRES",
     "schedules": [
@@ -226,5 +206,25 @@
         "classroom": "I104"
       }
     ]
+  },
+  {
+    "code": "1569",
+    "group": "12",
+    "professor": "ELIA INES LUNA CEBALLOS",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "J105"
+      }
+    ],
+    "professor_id": 84849,
+    "first_name": "Elia Inés",
+    "last_name": "Luna Ceballos",
+    "rating": 8.4024,
+    "num_ratings": 82
   }
 ]

@@ -41,40 +41,6 @@
   },
   {
     "code": "1537",
-    "group": "4",
-    "professor": "GUSTAVO CAMACHO PALACIOS",
-    "schedules": [
-      {
-        "time": "19:00-20:30",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "B206"
-      }
-    ],
-    "professor_id": 83079,
-    "first_name": "Gustavo",
-    "last_name": "Camacho Palacios",
-    "rating": 9.0,
-    "num_ratings": 9
-  },
-  {
-    "code": "1537",
-    "group": "6",
-    "professor": "ALFREDO URIBE ARANDAVer Nota 1",
-    "schedules": [
-      {
-        "time": "17:00-20:00",
-        "days": [
-          5
-        ],
-        "classroom": "A107"
-      }
-    ]
-  },
-  {
-    "code": "1537",
     "group": "3",
     "professor": "GERARDO GABRIEL CARRASCO ZUÑIGA",
     "schedules": [
@@ -95,6 +61,26 @@
   },
   {
     "code": "1537",
+    "group": "4",
+    "professor": "GUSTAVO CAMACHO PALACIOS",
+    "schedules": [
+      {
+        "time": "19:00-20:30",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "B206"
+      }
+    ],
+    "professor_id": 83079,
+    "first_name": "Gustavo",
+    "last_name": "Camacho Palacios",
+    "rating": 9.0,
+    "num_ratings": 9
+  },
+  {
+    "code": "1537",
     "group": "5",
     "professor": "LUIS RAFAEL JIMENEZ UGALDE",
     "schedules": [
@@ -111,6 +97,20 @@
     "last_name": "Jiménez Ugalde",
     "rating": 9.1579,
     "num_ratings": 19
+  },
+  {
+    "code": "1537",
+    "group": "6",
+    "professor": "ALFREDO URIBE ARANDAVer Nota 1",
+    "schedules": [
+      {
+        "time": "17:00-20:00",
+        "days": [
+          5
+        ],
+        "classroom": "A107"
+      }
+    ]
   },
   {
     "code": "1537",

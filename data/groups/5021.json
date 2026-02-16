@@ -15,25 +15,6 @@
   },
   {
     "code": "5021",
-    "group": "3",
-    "professor": "OMAR RAFAEL RODRIGUEZ GUADARRAMA",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          4
-        ],
-        "classroom": "DS07"
-      }
-    ],
-    "professor_id": 93961,
-    "first_name": "Omar  Rafael",
-    "last_name": "Rodriguez Guadarrama",
-    "rating": 7.1667,
-    "num_ratings": 6
-  },
-  {
-    "code": "5021",
     "group": "2",
     "professor": "SONIA LUISA ELENA LOPEZ MALDONADO",
     "schedules": [
@@ -50,6 +31,25 @@
     "last_name": "López Maldonado",
     "rating": 4.86,
     "num_ratings": 7
+  },
+  {
+    "code": "5021",
+    "group": "3",
+    "professor": "OMAR RAFAEL RODRIGUEZ GUADARRAMA",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          4
+        ],
+        "classroom": "DS07"
+      }
+    ],
+    "professor_id": 93961,
+    "first_name": "Omar  Rafael",
+    "last_name": "Rodriguez Guadarrama",
+    "rating": 7.1667,
+    "num_ratings": 6
   },
   {
     "code": "5021",

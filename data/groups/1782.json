@@ -21,6 +21,46 @@
   },
   {
     "code": "1782",
+    "group": "2",
+    "professor": "ANTONIO ZEPEDA SANCHEZ",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "J107"
+      }
+    ],
+    "professor_id": 142062,
+    "first_name": "Antonio",
+    "last_name": "Zepeda Sanchez",
+    "rating": 8.7273,
+    "num_ratings": 11
+  },
+  {
+    "code": "1782",
+    "group": "3",
+    "professor": "HERMOGENES GUSTAVO ROJAS COCA",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "D002"
+      }
+    ],
+    "professor_id": 88053,
+    "first_name": "Gustavo",
+    "last_name": "Rojas Coca",
+    "rating": 6.0,
+    "num_ratings": 29
+  },
+  {
+    "code": "1782",
     "group": "5",
     "professor": "RICARDO YAÑEZ VALDEZ",
     "schedules": [
@@ -73,46 +113,6 @@
     "last_name": "Anguiano Rojas",
     "rating": 4.0,
     "num_ratings": 35
-  },
-  {
-    "code": "1782",
-    "group": "2",
-    "professor": "ANTONIO ZEPEDA SANCHEZ",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "J107"
-      }
-    ],
-    "professor_id": 142062,
-    "first_name": "Antonio",
-    "last_name": "Zepeda Sanchez",
-    "rating": 8.7273,
-    "num_ratings": 11
-  },
-  {
-    "code": "1782",
-    "group": "3",
-    "professor": "HERMOGENES GUSTAVO ROJAS COCA",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "D002"
-      }
-    ],
-    "professor_id": 88053,
-    "first_name": "Gustavo",
-    "last_name": "Rojas Coca",
-    "rating": 6.0,
-    "num_ratings": 29
   },
   {
     "code": "1782",
