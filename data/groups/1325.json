@@ -56,8 +56,8 @@
     "professor_id": 32932,
     "first_name": "Margarita",
     "last_name": "Ramírez Galindo",
-    "rating": 7.9028,
-    "num_ratings": 72
+    "rating": 7.9595,
+    "num_ratings": 74
   },
   {
     "code": "1325",
@@ -251,16 +251,16 @@
       {
         "time": "15:00-17:00",
         "days": [
-          3
+          1
         ],
-        "classroom": "J103"
+        "classroom": "I103"
       },
       {
         "time": "15:00-17:00",
         "days": [
-          1
+          3
         ],
-        "classroom": "I103"
+        "classroom": "J103"
       }
     ],
     "professor_id": 63727,
@@ -352,16 +352,16 @@
       {
         "time": "17:00-19:00",
         "days": [
-          5
+          3
         ],
-        "classroom": "I105"
+        "classroom": "I106"
       },
       {
         "time": "17:00-19:00",
         "days": [
-          3
+          5
         ],
-        "classroom": "I106"
+        "classroom": "I105"
       }
     ],
     "professor_id": 177289,

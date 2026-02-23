@@ -22,7 +22,7 @@
   {
     "code": "2913",
     "group": "2",
-    "professor": "PROFESOR POR ASIGNAR",
+    "professor": "KARLA ALICIA ANGUIANO AVENDAÑO",
     "schedules": [
       {
         "time": "11:30-13:00",
@@ -37,7 +37,7 @@
   {
     "code": "2913",
     "group": "3",
-    "professor": "PROFESOR POR ASIGNAR",
+    "professor": "ALEJANDRO JOSE LEO VARGAS",
     "schedules": [
       {
         "time": "14:30-16:00",
@@ -47,7 +47,12 @@
         ],
         "classroom": "A209"
       }
-    ]
+    ],
+    "professor_id": 146711,
+    "first_name": "ALEJANDRO JOSE",
+    "last_name": "LEO VARGAS",
+    "rating": 4.8333,
+    "num_ratings": 6
   },
   {
     "code": "2913",

@@ -166,8 +166,8 @@
     "professor_id": 89946,
     "first_name": "FLORICEL",
     "last_name": "RAMOS VARGAS",
-    "rating": 5.7429,
-    "num_ratings": 35
+    "rating": 5.8611,
+    "num_ratings": 36
   },
   {
     "code": "6999",
@@ -185,8 +185,8 @@
     "professor_id": 89946,
     "first_name": "FLORICEL",
     "last_name": "RAMOS VARGAS",
-    "rating": 5.7429,
-    "num_ratings": 35
+    "rating": 5.8611,
+    "num_ratings": 36
   },
   {
     "code": "6999",
@@ -199,20 +199,6 @@
           4
         ],
         "classroom": "Q314"
-      }
-    ]
-  },
-  {
-    "code": "6999",
-    "group": "13",
-    "professor": "Grupo cancelado, contactar a la División.",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          4
-        ],
-        "classroom": "Q316"
       }
     ]
   },

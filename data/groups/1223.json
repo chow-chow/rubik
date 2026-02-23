@@ -47,16 +47,16 @@
       {
         "time": "09:00-11:00",
         "days": [
-          1
+          3
         ],
-        "classroom": "I302"
+        "classroom": "I303"
       },
       {
         "time": "09:00-11:00",
         "days": [
-          3
+          1
         ],
-        "classroom": "I303"
+        "classroom": "I302"
       }
     ],
     "professor_id": 58547,
@@ -82,8 +82,8 @@
     "professor_id": 42880,
     "first_name": "gloria",
     "last_name": "ramirez romero",
-    "rating": 6.7835,
-    "num_ratings": 97
+    "rating": 6.7449,
+    "num_ratings": 98
   },
   {
     "code": "1223",
@@ -207,16 +207,16 @@
       {
         "time": "11:00-13:00",
         "days": [
-          3
+          5
         ],
-        "classroom": "J101"
+        "classroom": "J202"
       },
       {
         "time": "11:00-13:00",
         "days": [
-          5
+          3
         ],
-        "classroom": "J202"
+        "classroom": "J101"
       }
     ]
   },
@@ -403,8 +403,8 @@
     "professor_id": 115337,
     "first_name": "Oscar",
     "last_name": "Morales López",
-    "rating": 9.7,
-    "num_ratings": 60
+    "rating": 9.7049,
+    "num_ratings": 61
   },
   {
     "code": "1223",
@@ -423,7 +423,7 @@
     "professor_id": 105197,
     "first_name": "RICARDO ARTURO",
     "last_name": "PINZON AGUIRRE",
-    "rating": 9.0263,
-    "num_ratings": 38
+    "rating": 9.0256,
+    "num_ratings": 39
   }
 ]

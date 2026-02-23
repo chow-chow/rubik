@@ -80,8 +80,8 @@
     "professor_id": 84414,
     "first_name": "Bertha Isabel",
     "last_name": "Vega Galicia",
-    "rating": 8.84,
-    "num_ratings": 50
+    "rating": 8.8431,
+    "num_ratings": 51
   },
   {
     "code": "1121",
@@ -233,7 +233,7 @@
   {
     "code": "1121",
     "group": "13",
-    "professor": "PABLO GARCIA Y COLOME",
+    "professor": "LETICIA HERNANDEZ SANCHEZ",
     "schedules": [
       {
         "time": "13:00-15:00",
@@ -251,11 +251,11 @@
         "classroom": "J102"
       }
     ],
-    "professor_id": 27999,
-    "first_name": "Pablo",
-    "last_name": "Garcia  y colome",
-    "rating": 6.0702,
-    "num_ratings": 114
+    "professor_id": 83884,
+    "first_name": "Leticia",
+    "last_name": "Hernández Sánchez",
+    "rating": 8.6406,
+    "num_ratings": 64
   },
   {
     "code": "1121",
@@ -401,8 +401,8 @@
     "professor_id": 36531,
     "first_name": "Victor Hugo",
     "last_name": "Piña Ramirez",
-    "rating": 8.406,
-    "num_ratings": 133
+    "rating": 8.4179,
+    "num_ratings": 134
   },
   {
     "code": "1121",

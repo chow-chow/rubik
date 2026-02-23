@@ -102,16 +102,16 @@
       {
         "time": "11:00-13:00",
         "days": [
-          5
+          1
         ],
-        "classroom": "I204"
+        "classroom": "I203"
       },
       {
         "time": "11:00-13:00",
         "days": [
-          1
+          5
         ],
-        "classroom": "I203"
+        "classroom": "I204"
       }
     ],
     "professor_id": 176745,
@@ -137,8 +137,8 @@
     "professor_id": 182074,
     "first_name": "Edgar Héctor",
     "last_name": "Guzmán Castellón",
-    "rating": 6.3333,
-    "num_ratings": 6
+    "rating": 6.4286,
+    "num_ratings": 7
   },
   {
     "code": "1123",

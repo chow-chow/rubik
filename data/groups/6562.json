@@ -59,7 +59,7 @@
   {
     "code": "6562",
     "group": "4",
-    "professor": "PROFESOR POR ASIGNAR",
+    "professor": "EDGAR  BALDEMAR AGUADO CRUZ",
     "schedules": [
       {
         "time": "07:00-09:00",
@@ -68,7 +68,12 @@
         ],
         "classroom": "P215"
       }
-    ]
+    ],
+    "professor_id": 99901,
+    "first_name": "Edgar Baldemar",
+    "last_name": "Aguado Cruz",
+    "rating": 8.3103,
+    "num_ratings": 29
   },
   {
     "code": "6562",

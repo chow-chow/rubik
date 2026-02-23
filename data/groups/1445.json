@@ -53,16 +53,16 @@
       {
         "time": "09:00-11:00",
         "days": [
-          5
+          3
         ],
-        "classroom": "J203"
+        "classroom": "J205"
       },
       {
         "time": "09:00-11:00",
         "days": [
-          3
+          5
         ],
-        "classroom": "J205"
+        "classroom": "J203"
       }
     ],
     "professor_id": 84651,
