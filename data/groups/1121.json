@@ -59,8 +59,8 @@
     "professor_id": 62000,
     "first_name": "Alfredo",
     "last_name": "Velásquez Márquez",
-    "rating": 6.5854,
-    "num_ratings": 82
+    "rating": 6.5422,
+    "num_ratings": 83
   },
   {
     "code": "1121",
@@ -80,8 +80,8 @@
     "professor_id": 84414,
     "first_name": "Bertha Isabel",
     "last_name": "Vega Galicia",
-    "rating": 8.8431,
-    "num_ratings": 51
+    "rating": 8.8654,
+    "num_ratings": 52
   },
   {
     "code": "1121",
@@ -238,24 +238,24 @@
       {
         "time": "13:00-15:00",
         "days": [
-          1,
-          5
+          3
         ],
-        "classroom": "J106"
+        "classroom": "J102"
       },
       {
         "time": "13:00-15:00",
         "days": [
-          3
+          1,
+          5
         ],
-        "classroom": "J102"
+        "classroom": "J106"
       }
     ],
     "professor_id": 83884,
     "first_name": "Leticia",
     "last_name": "Hernández Sánchez",
-    "rating": 8.6406,
-    "num_ratings": 64
+    "rating": 8.5692,
+    "num_ratings": 65
   },
   {
     "code": "1121",
@@ -275,8 +275,8 @@
     "professor_id": 68301,
     "first_name": "Silvia Jennifer",
     "last_name": "Aguilar Delgado",
-    "rating": 7.2909,
-    "num_ratings": 55
+    "rating": 7.25,
+    "num_ratings": 56
   },
   {
     "code": "1121",
@@ -359,8 +359,8 @@
     "professor_id": 114209,
     "first_name": "Luis Antonio",
     "last_name": "Pérez Pérez",
-    "rating": 8.3182,
-    "num_ratings": 44
+    "rating": 8.3333,
+    "num_ratings": 45
   },
   {
     "code": "1121",
@@ -401,8 +401,8 @@
     "professor_id": 36531,
     "first_name": "Victor Hugo",
     "last_name": "Piña Ramirez",
-    "rating": 8.4179,
-    "num_ratings": 134
+    "rating": 8.4296,
+    "num_ratings": 135
   },
   {
     "code": "1121",

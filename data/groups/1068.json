@@ -2,7 +2,7 @@
   {
     "code": "1068",
     "group": "1",
-    "professor": "ANDRÉS ASTUDILLO NICANOR",
+    "professor": "ANDRES ASTUDILLO NICANOR",
     "schedules": [
       {
         "time": "15:00-17:00",
@@ -63,27 +63,22 @@
   {
     "code": "1068",
     "group": "4",
-    "professor": "RUBEN MIRANDA ARIAS",
+    "professor": "ISAIAS CASTRO ARMENDARIZ",
     "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          3
-        ],
-        "classroom": "C205"
-      },
       {
         "time": "09:00-11:00",
         "days": [
           5
         ],
         "classroom": "D006"
+      },
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2
+        ],
+        "classroom": "C202"
       }
-    ],
-    "professor_id": 91807,
-    "first_name": "Ruben",
-    "last_name": "Miranda Arias",
-    "rating": 4.7273,
-    "num_ratings": 22
+    ]
   }
 ]

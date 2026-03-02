@@ -53,16 +53,16 @@
       {
         "time": "09:00-11:00",
         "days": [
-          3
+          1
         ],
-        "classroom": "J203"
+        "classroom": "J211"
       },
       {
         "time": "09:00-11:00",
         "days": [
-          1
+          3
         ],
-        "classroom": "J211"
+        "classroom": "J203"
       }
     ],
     "professor_id": 99111,
@@ -143,8 +143,8 @@
     "professor_id": 21806,
     "first_name": "Angel Leonardo",
     "last_name": "Bañuelos Saucedo",
-    "rating": 7.4615,
-    "num_ratings": 52
+    "rating": 7.4906,
+    "num_ratings": 53
   },
   {
     "code": "1569",
@@ -154,16 +154,16 @@
       {
         "time": "15:00-17:00",
         "days": [
-          3
+          1
         ],
-        "classroom": "J110"
+        "classroom": "J205"
       },
       {
         "time": "15:00-17:00",
         "days": [
-          1
+          3
         ],
-        "classroom": "J205"
+        "classroom": "J110"
       }
     ],
     "professor_id": 84287,

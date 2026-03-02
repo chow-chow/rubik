@@ -16,8 +16,8 @@
     "professor_id": 59597,
     "first_name": "Erik Norman",
     "last_name": "Guevara Corona",
-    "rating": 9.3878,
-    "num_ratings": 49
+    "rating": 9.4,
+    "num_ratings": 50
   },
   {
     "code": "1325",
@@ -76,8 +76,8 @@
     "professor_id": 20657,
     "first_name": "Mayverena",
     "last_name": "Jurado Pineda",
-    "rating": 8.1092,
-    "num_ratings": 119
+    "rating": 8.0833,
+    "num_ratings": 120
   },
   {
     "code": "1325",
@@ -95,8 +95,8 @@
     "professor_id": 59597,
     "first_name": "Erik Norman",
     "last_name": "Guevara Corona",
-    "rating": 9.3878,
-    "num_ratings": 49
+    "rating": 9.4,
+    "num_ratings": 50
   },
   {
     "code": "1325",
@@ -115,8 +115,8 @@
     "professor_id": 161375,
     "first_name": "Juana Itzel",
     "last_name": "Hernández Peña",
-    "rating": 9.6719,
-    "num_ratings": 64
+    "rating": 9.6769,
+    "num_ratings": 65
   },
   {
     "code": "1325",
@@ -206,16 +206,16 @@
       {
         "time": "13:00-15:00",
         "days": [
-          3
+          5
         ],
-        "classroom": "J101"
+        "classroom": "J108"
       },
       {
         "time": "13:00-15:00",
         "days": [
-          5
+          3
         ],
-        "classroom": "J108"
+        "classroom": "J101"
       }
     ],
     "professor_id": 177290,
@@ -240,8 +240,8 @@
     "professor_id": 105237,
     "first_name": "ALEJANDRA MARIBEL",
     "last_name": "BARRAGAN MARTINEZ",
-    "rating": 7.129,
-    "num_ratings": 31
+    "rating": 7.125,
+    "num_ratings": 32
   },
   {
     "code": "1325",
@@ -352,16 +352,16 @@
       {
         "time": "17:00-19:00",
         "days": [
-          3
+          5
         ],
-        "classroom": "I106"
+        "classroom": "I105"
       },
       {
         "time": "17:00-19:00",
         "days": [
-          5
+          3
         ],
-        "classroom": "I105"
+        "classroom": "I106"
       }
     ],
     "professor_id": 177289,

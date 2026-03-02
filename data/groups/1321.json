@@ -96,8 +96,8 @@
     "professor_id": 50095,
     "first_name": "Bertha",
     "last_name": "López Nájera",
-    "rating": 8.1831,
-    "num_ratings": 71
+    "rating": 8.1944,
+    "num_ratings": 72
   },
   {
     "code": "1321",
@@ -116,8 +116,8 @@
     "professor_id": 42052,
     "first_name": "Rosalba",
     "last_name": "Rodríguez Chávez",
-    "rating": 9.1461,
-    "num_ratings": 89
+    "rating": 9.1556,
+    "num_ratings": 90
   },
   {
     "code": "1321",
@@ -167,16 +167,16 @@
       {
         "time": "11:00-13:00",
         "days": [
-          5
+          3
         ],
-        "classroom": "I301"
+        "classroom": "I304"
       },
       {
         "time": "11:00-13:00",
         "days": [
-          3
+          5
         ],
-        "classroom": "I304"
+        "classroom": "I301"
       }
     ],
     "professor_id": 44334,
@@ -282,8 +282,8 @@
     "professor_id": 114209,
     "first_name": "Luis Antonio",
     "last_name": "Pérez Pérez",
-    "rating": 8.3182,
-    "num_ratings": 44
+    "rating": 8.3333,
+    "num_ratings": 45
   },
   {
     "code": "1321",
@@ -302,8 +302,8 @@
     "professor_id": 124388,
     "first_name": "Noé Andrés",
     "last_name": "Anaya Badillo",
-    "rating": 9.06,
-    "num_ratings": 62
+    "rating": 9.02,
+    "num_ratings": 63
   },
   {
     "code": "1321",
@@ -322,8 +322,8 @@
     "professor_id": 79478,
     "first_name": "IAN GUILLERMO M.I.",
     "last_name": "MONSIVAIS MONTOLIU",
-    "rating": 7.375,
-    "num_ratings": 24
+    "rating": 7.28,
+    "num_ratings": 25
   },
   {
     "code": "1321",

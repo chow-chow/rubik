@@ -2,7 +2,7 @@
   {
     "code": "1774",
     "group": "1",
-    "professor": "OLEKSANDER MARTYNYUK",
+    "professor": "OLEKSANDR MARTYNYUK",
     "schedules": [
       {
         "time": "13:30-15:00",
@@ -12,6 +12,11 @@
         ],
         "classroom": "B102"
       }
-    ]
+    ],
+    "professor_id": 161583,
+    "first_name": "Oleksandr",
+    "last_name": "Martynyuk",
+    "rating": 10.0,
+    "num_ratings": 6
   }
 ]

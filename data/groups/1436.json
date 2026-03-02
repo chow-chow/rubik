@@ -56,8 +56,8 @@
     "professor_id": 84414,
     "first_name": "Bertha Isabel",
     "last_name": "Vega Galicia",
-    "rating": 8.8431,
-    "num_ratings": 51
+    "rating": 8.8654,
+    "num_ratings": 52
   },
   {
     "code": "1436",
@@ -142,8 +142,8 @@
     "professor_id": 87593,
     "first_name": "Nayelli",
     "last_name": "Manzanarez Gómez",
-    "rating": 9.0571,
-    "num_ratings": 35
+    "rating": 8.9444,
+    "num_ratings": 36
   },
   {
     "code": "1436",
@@ -181,8 +181,8 @@
     "professor_id": 21806,
     "first_name": "Angel Leonardo",
     "last_name": "Bañuelos Saucedo",
-    "rating": 7.4615,
-    "num_ratings": 52
+    "rating": 7.4906,
+    "num_ratings": 53
   },
   {
     "code": "1436",
@@ -207,8 +207,8 @@
     "professor_id": 56184,
     "first_name": "Liliana",
     "last_name": "Flores Garcia",
-    "rating": 8.4091,
-    "num_ratings": 44
+    "rating": 8.4444,
+    "num_ratings": 45
   },
   {
     "code": "1436",
@@ -379,16 +379,16 @@
       {
         "time": "15:00-17:00",
         "days": [
-          3
+          5
         ],
-        "classroom": "I305"
+        "classroom": "I304"
       },
       {
         "time": "15:00-17:00",
         "days": [
-          5
+          3
         ],
-        "classroom": "I304"
+        "classroom": "I305"
       }
     ]
   },
