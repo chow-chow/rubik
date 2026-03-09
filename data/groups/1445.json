@@ -7,16 +7,16 @@
       {
         "time": "07:00-09:00",
         "days": [
-          4
+          2
         ],
-        "classroom": "I305"
+        "classroom": "I103"
       },
       {
         "time": "07:00-09:00",
         "days": [
-          2
+          4
         ],
-        "classroom": "I103"
+        "classroom": "I305"
       }
     ],
     "professor_id": 84849,
@@ -53,16 +53,16 @@
       {
         "time": "09:00-11:00",
         "days": [
-          3
+          5
         ],
-        "classroom": "J205"
+        "classroom": "J203"
       },
       {
         "time": "09:00-11:00",
         "days": [
-          5
+          3
         ],
-        "classroom": "J203"
+        "classroom": "J205"
       }
     ],
     "professor_id": 84651,

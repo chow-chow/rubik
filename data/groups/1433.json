@@ -53,23 +53,23 @@
       {
         "time": "07:00-09:00",
         "days": [
-          4
+          2
         ],
-        "classroom": "J205"
+        "classroom": "J101"
       },
       {
         "time": "07:00-09:00",
         "days": [
-          2
+          4
         ],
-        "classroom": "J101"
+        "classroom": "J205"
       }
     ],
     "professor_id": 84710,
     "first_name": "Hugo German",
     "last_name": "Serrano Miranda",
-    "rating": 5.3462,
-    "num_ratings": 26
+    "rating": 5.2222,
+    "num_ratings": 27
   },
   {
     "code": "1433",
@@ -366,23 +366,23 @@
       {
         "time": "15:00-17:00",
         "days": [
-          3
+          1
         ],
-        "classroom": "J205"
+        "classroom": "J110"
       },
       {
         "time": "15:00-17:00",
         "days": [
-          1
+          3
         ],
-        "classroom": "J110"
+        "classroom": "J205"
       }
     ],
     "professor_id": 78565,
     "first_name": "Anahí",
     "last_name": "Flores Perez",
-    "rating": 7.8305,
-    "num_ratings": 59
+    "rating": 7.8667,
+    "num_ratings": 60
   },
   {
     "code": "1433",
@@ -422,8 +422,8 @@
     "professor_id": 78565,
     "first_name": "Anahí",
     "last_name": "Flores Perez",
-    "rating": 7.8305,
-    "num_ratings": 59
+    "rating": 7.8667,
+    "num_ratings": 60
   },
   {
     "code": "1433",
@@ -433,16 +433,16 @@
       {
         "time": "15:00-17:00",
         "days": [
-          5
+          3
         ],
-        "classroom": "J205"
+        "classroom": "J210"
       },
       {
         "time": "15:00-17:00",
         "days": [
-          3
+          5
         ],
-        "classroom": "J210"
+        "classroom": "J205"
       }
     ],
     "professor_id": 177290,
@@ -598,16 +598,16 @@
       {
         "time": "19:00-21:00",
         "days": [
-          2
+          4
         ],
-        "classroom": "I206"
+        "classroom": "J203"
       },
       {
         "time": "19:00-21:00",
         "days": [
-          4
+          2
         ],
-        "classroom": "J203"
+        "classroom": "I206"
       }
     ],
     "professor_id": 187334,

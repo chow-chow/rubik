@@ -27,16 +27,16 @@
       {
         "time": "11:00-13:00",
         "days": [
-          3
+          5
         ],
-        "classroom": "I101"
+        "classroom": "I102"
       },
       {
         "time": "11:00-13:00",
         "days": [
-          5
+          3
         ],
-        "classroom": "I102"
+        "classroom": "I101"
       }
     ]
   },

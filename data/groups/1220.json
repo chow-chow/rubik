@@ -36,8 +36,8 @@
     "professor_id": 105419,
     "first_name": "SUSANA LIZETH",
     "last_name": "VALADEZ GOMEZ",
-    "rating": 7.5,
-    "num_ratings": 42
+    "rating": 7.4651,
+    "num_ratings": 43
   },
   {
     "code": "1220",
@@ -222,16 +222,16 @@
       {
         "time": "11:00-13:00",
         "days": [
-          1
+          3
         ],
-        "classroom": "I205"
+        "classroom": "I206"
       },
       {
         "time": "11:00-13:00",
         "days": [
-          3
+          1
         ],
-        "classroom": "I206"
+        "classroom": "I205"
       }
     ],
     "professor_id": 93401,
@@ -437,8 +437,8 @@
     "professor_id": 149609,
     "first_name": "Abraham",
     "last_name": "Cortes Ochoa",
-    "rating": 7.47,
-    "num_ratings": 32
+    "rating": 7.62,
+    "num_ratings": 34
   },
   {
     "code": "1220",
@@ -587,8 +587,8 @@
     "professor_id": 149609,
     "first_name": "Abraham",
     "last_name": "Cortes Ochoa",
-    "rating": 7.47,
-    "num_ratings": 32
+    "rating": 7.62,
+    "num_ratings": 34
   },
   {
     "code": "1220",

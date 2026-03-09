@@ -66,18 +66,18 @@
     "professor": "ISAIAS CASTRO ARMENDARIZ",
     "schedules": [
       {
-        "time": "09:00-11:00",
-        "days": [
-          5
-        ],
-        "classroom": "D006"
-      },
-      {
         "time": "07:00-09:00",
         "days": [
           2
         ],
         "classroom": "C202"
+      },
+      {
+        "time": "09:00-11:00",
+        "days": [
+          5
+        ],
+        "classroom": "D006"
       }
     ]
   }
