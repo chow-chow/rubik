@@ -222,16 +222,16 @@
       {
         "time": "11:00-13:00",
         "days": [
-          3
+          1
         ],
-        "classroom": "I206"
+        "classroom": "I205"
       },
       {
         "time": "11:00-13:00",
         "days": [
-          1
+          3
         ],
-        "classroom": "I205"
+        "classroom": "I206"
       }
     ],
     "professor_id": 93401,
@@ -423,7 +423,7 @@
   {
     "code": "1220",
     "group": "22",
-    "professor": "ABRAHAM CORTES OCHOA",
+    "professor": "CASIANO AGUILAR MORALES",
     "schedules": [
       {
         "time": "13:00-15:00",
@@ -434,11 +434,11 @@
         "classroom": "J204"
       }
     ],
-    "professor_id": 149609,
-    "first_name": "Abraham",
-    "last_name": "Cortes Ochoa",
-    "rating": 7.62,
-    "num_ratings": 34
+    "professor_id": 49939,
+    "first_name": "Casiano",
+    "last_name": "Aguilar Morales",
+    "rating": 7.3415,
+    "num_ratings": 82
   },
   {
     "code": "1220",
@@ -573,7 +573,7 @@
   {
     "code": "1220",
     "group": "30",
-    "professor": "ABRAHAM CORTES OCHOA",
+    "professor": "ROBERTO GUZMAN GONZALEZ",
     "schedules": [
       {
         "time": "15:00-17:00",
@@ -584,11 +584,11 @@
         "classroom": "J209"
       }
     ],
-    "professor_id": 149609,
-    "first_name": "Abraham",
-    "last_name": "Cortes Ochoa",
-    "rating": 7.62,
-    "num_ratings": 34
+    "professor_id": 30856,
+    "first_name": "roberto",
+    "last_name": "Guzman Gonzalez",
+    "rating": 7.5816,
+    "num_ratings": 141
   },
   {
     "code": "1220",
@@ -627,8 +627,8 @@
     "professor_id": 49939,
     "first_name": "Casiano",
     "last_name": "Aguilar Morales",
-    "rating": 7.3457,
-    "num_ratings": 81
+    "rating": 7.3415,
+    "num_ratings": 82
   },
   {
     "code": "1220",
@@ -647,8 +647,8 @@
     "professor_id": 49939,
     "first_name": "Casiano",
     "last_name": "Aguilar Morales",
-    "rating": 7.3457,
-    "num_ratings": 81
+    "rating": 7.3415,
+    "num_ratings": 82
   },
   {
     "code": "1220",

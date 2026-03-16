@@ -167,16 +167,16 @@
       {
         "time": "11:00-13:00",
         "days": [
-          3
+          5
         ],
-        "classroom": "I304"
+        "classroom": "I301"
       },
       {
         "time": "11:00-13:00",
         "days": [
-          5
+          3
         ],
-        "classroom": "I301"
+        "classroom": "I304"
       }
     ],
     "professor_id": 44334,

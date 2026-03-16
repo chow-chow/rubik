@@ -102,16 +102,16 @@
       {
         "time": "11:00-13:00",
         "days": [
-          1
+          5
         ],
-        "classroom": "I203"
+        "classroom": "I204"
       },
       {
         "time": "11:00-13:00",
         "days": [
-          5
+          1
         ],
-        "classroom": "I204"
+        "classroom": "I203"
       }
     ],
     "professor_id": 176745,

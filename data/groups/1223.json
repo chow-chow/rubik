@@ -167,10 +167,16 @@
       {
         "time": "11:00-13:00",
         "days": [
-          1,
           3
         ],
-        "classroom": "J105"
+        "classroom": "J109"
+      },
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1
+        ],
+        "classroom": "J108"
       }
     ],
     "professor_id": 114184,
@@ -207,16 +213,16 @@
       {
         "time": "11:00-13:00",
         "days": [
-          5
+          3
         ],
-        "classroom": "J202"
+        "classroom": "J101"
       },
       {
         "time": "11:00-13:00",
         "days": [
-          3
+          5
         ],
-        "classroom": "J101"
+        "classroom": "J202"
       }
     ]
   },
@@ -303,16 +309,16 @@
       {
         "time": "15:00-17:00",
         "days": [
-          5
+          3
         ],
-        "classroom": "J110"
+        "classroom": "J109"
       },
       {
         "time": "15:00-17:00",
         "days": [
-          3
+          5
         ],
-        "classroom": "J109"
+        "classroom": "J110"
       }
     ],
     "professor_id": 91447,

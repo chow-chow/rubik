@@ -67,23 +67,23 @@
       {
         "time": "09:00-11:00",
         "days": [
-          3
+          1
         ],
-        "classroom": "J207"
+        "classroom": "J208"
       },
       {
         "time": "09:00-11:00",
         "days": [
-          1
+          3
         ],
-        "classroom": "J208"
+        "classroom": "J207"
       }
     ],
     "professor_id": 44254,
     "first_name": "Maria del Carmen",
     "last_name": "Melo Díaz",
-    "rating": 6.8642,
-    "num_ratings": 81
+    "rating": 6.878,
+    "num_ratings": 82
   },
   {
     "code": "1414",
@@ -192,7 +192,13 @@
       {
         "time": "11:00-13:00",
         "days": [
-          3,
+          3
+        ],
+        "classroom": "J105"
+      },
+      {
+        "time": "11:00-13:00",
+        "days": [
           5
         ],
         "classroom": "J109"
@@ -241,8 +247,8 @@
     "professor_id": 44254,
     "first_name": "Maria del Carmen",
     "last_name": "Melo Díaz",
-    "rating": 6.8642,
-    "num_ratings": 81
+    "rating": 6.878,
+    "num_ratings": 82
   },
   {
     "code": "1414",
@@ -341,8 +347,8 @@
     "professor_id": 74107,
     "first_name": "María Ofelia",
     "last_name": "Rodriguez Durán",
-    "rating": 7.06,
-    "num_ratings": 50
+    "rating": 7.1176,
+    "num_ratings": 51
   },
   {
     "code": "1414",
@@ -361,8 +367,8 @@
     "professor_id": 74107,
     "first_name": "María Ofelia",
     "last_name": "Rodriguez Durán",
-    "rating": 7.06,
-    "num_ratings": 50
+    "rating": 7.1176,
+    "num_ratings": 51
   },
   {
     "code": "1414",

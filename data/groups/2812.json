@@ -5,17 +5,17 @@
     "professor": "LINA BEATRIZ LARA HERNANDEZ",
     "schedules": [
       {
-        "time": "13:00-15:00",
-        "days": [
-          5
-        ],
-        "classroom": "EXTR"
-      },
-      {
         "time": "13:00-14:30",
         "days": [
           2,
           4
+        ],
+        "classroom": "EXTR"
+      },
+      {
+        "time": "13:00-15:00",
+        "days": [
+          5
         ],
         "classroom": "EXTR"
       }

@@ -7,16 +7,16 @@
       {
         "time": "07:00-09:00",
         "days": [
-          1
+          3
         ],
-        "classroom": "J101"
+        "classroom": "J102"
       },
       {
         "time": "07:00-09:00",
         "days": [
-          3
+          1
         ],
-        "classroom": "J102"
+        "classroom": "J101"
       }
     ]
   },

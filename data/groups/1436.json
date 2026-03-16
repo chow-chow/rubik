@@ -379,16 +379,16 @@
       {
         "time": "15:00-17:00",
         "days": [
-          3
+          5
         ],
-        "classroom": "I305"
+        "classroom": "I304"
       },
       {
         "time": "15:00-17:00",
         "days": [
-          5
+          3
         ],
-        "classroom": "I304"
+        "classroom": "I305"
       }
     ]
   },
