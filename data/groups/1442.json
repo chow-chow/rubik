@@ -69,17 +69,17 @@
       {
         "time": "09:00-11:00",
         "days": [
-          1,
-          3
+          5
         ],
-        "classroom": "C104"
+        "classroom": "C404"
       },
       {
         "time": "09:00-11:00",
         "days": [
-          5
+          1,
+          3
         ],
-        "classroom": "C404"
+        "classroom": "C104"
       }
     ]
   }

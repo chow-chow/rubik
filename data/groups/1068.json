@@ -30,8 +30,8 @@
     "professor_id": 82781,
     "first_name": "Daniel",
     "last_name": "Marure Valdez",
-    "rating": 5.4783,
-    "num_ratings": 23
+    "rating": 5.375,
+    "num_ratings": 24
   },
   {
     "code": "1068",
@@ -66,18 +66,18 @@
     "professor": "ISAIAS CASTRO ARMENDARIZ",
     "schedules": [
       {
-        "time": "07:00-09:00",
-        "days": [
-          2
-        ],
-        "classroom": "C202"
-      },
-      {
         "time": "09:00-11:00",
         "days": [
           5
         ],
         "classroom": "D006"
+      },
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2
+        ],
+        "classroom": "C202"
       }
     ]
   }

@@ -27,17 +27,17 @@
       {
         "time": "09:00-11:00",
         "days": [
-          2
-        ],
-        "classroom": "D008"
-      },
-      {
-        "time": "09:00-11:00",
-        "days": [
           1,
           3
         ],
         "classroom": "D006"
+      },
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2
+        ],
+        "classroom": "D008"
       }
     ],
     "professor_id": 153583,
