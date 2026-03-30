@@ -53,16 +53,16 @@
       {
         "time": "07:00-09:00",
         "days": [
-          2
+          4
         ],
-        "classroom": "J101"
+        "classroom": "J205"
       },
       {
         "time": "07:00-09:00",
         "days": [
-          4
+          2
         ],
-        "classroom": "J205"
+        "classroom": "J101"
       }
     ],
     "professor_id": 84710,
@@ -94,8 +94,8 @@
     "professor_id": 51439,
     "first_name": "Maritza",
     "last_name": "Arganis",
-    "rating": 7.3659,
-    "num_ratings": 41
+    "rating": 7.4048,
+    "num_ratings": 42
   },
   {
     "code": "1433",
@@ -105,16 +105,16 @@
       {
         "time": "09:00-11:00",
         "days": [
-          5
+          1
         ],
-        "classroom": "J205"
+        "classroom": "I206"
       },
       {
         "time": "09:00-11:00",
         "days": [
-          1
+          5
         ],
-        "classroom": "I206"
+        "classroom": "J205"
       }
     ],
     "professor_id": 187334,
@@ -407,16 +407,16 @@
       {
         "time": "15:00-17:00",
         "days": [
-          2
+          4
         ],
-        "classroom": "J102"
+        "classroom": "J204"
       },
       {
         "time": "15:00-17:00",
         "days": [
-          4
+          2
         ],
-        "classroom": "J204"
+        "classroom": "J102"
       }
     ],
     "professor_id": 78565,
@@ -433,16 +433,16 @@
       {
         "time": "15:00-17:00",
         "days": [
-          5
+          3
         ],
-        "classroom": "J205"
+        "classroom": "J210"
       },
       {
         "time": "15:00-17:00",
         "days": [
-          3
+          5
         ],
-        "classroom": "J210"
+        "classroom": "J205"
       }
     ],
     "professor_id": 177290,

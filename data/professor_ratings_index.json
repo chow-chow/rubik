@@ -852,8 +852,8 @@
     "full_name": "GUIOMAR ACEVEDO LOPEZ",
     "first_name": "Guiomar",
     "last_name": "Acevedo Lopez",
-    "num_ratings": 28,
-    "rating": 9.7143
+    "num_ratings": 29,
+    "rating": 9.7241
   },
   {
     "id": 189026,
@@ -1852,14 +1852,6 @@
     "full_name": "IVAN MONTES",
     "first_name": "IVÁN",
     "last_name": "MONTES",
-    "num_ratings": 7,
-    "rating": 9.2857
-  },
-  {
-    "id": 80071,
-    "full_name": "MARTIN SALINAS VAZQUEZ",
-    "first_name": "Martin",
-    "last_name": "Salinas Vazquez",
     "num_ratings": 7,
     "rating": 9.2857
   },
@@ -2960,6 +2952,14 @@
     "rating": 8.875
   },
   {
+    "id": 80071,
+    "full_name": "MARTIN SALINAS VAZQUEZ",
+    "first_name": "Martin",
+    "last_name": "Salinas Vazquez",
+    "num_ratings": 8,
+    "rating": 8.875
+  },
+  {
     "id": 84414,
     "full_name": "BERTHA ISABEL VEGA GALICIA",
     "first_name": "Bertha Isabel",
@@ -3072,6 +3072,14 @@
     "rating": 8.8235
   },
   {
+    "id": 74385,
+    "full_name": "NORMA ELVA CHAVEZ",
+    "first_name": "Norma Elva",
+    "last_name": "Chavez",
+    "num_ratings": 45,
+    "rating": 8.8222
+  },
+  {
     "id": 118726,
     "full_name": "REGINA ANAID MARTINEZ LOBATO",
     "first_name": "Regina Anaid",
@@ -3126,14 +3134,6 @@
     "last_name": "Vera Ocampo",
     "num_ratings": 5,
     "rating": 8.8
-  },
-  {
-    "id": 74385,
-    "full_name": "NORMA ELVA CHAVEZ",
-    "first_name": "Norma Elva",
-    "last_name": "Chavez",
-    "num_ratings": 44,
-    "rating": 8.7955
   },
   {
     "id": 33634,
@@ -4064,14 +4064,6 @@
     "rating": 8.4471
   },
   {
-    "id": 42088,
-    "full_name": "MIGUEL ANGEL JAIME VASCONCELOS",
-    "first_name": "MIGUEL ANGEL",
-    "last_name": "JAIME VASCONCELOS",
-    "num_ratings": 65,
-    "rating": 8.4462
-  },
-  {
     "id": 56184,
     "full_name": "LILIANA FLORES GARCIA",
     "first_name": "Liliana",
@@ -4326,6 +4318,14 @@
     "last_name": "Morales Acosta",
     "num_ratings": 17,
     "rating": 8.3529
+  },
+  {
+    "id": 42088,
+    "full_name": "MIGUEL ANGEL JAIME VASCONCELOS",
+    "first_name": "MIGUEL ANGEL",
+    "last_name": "JAIME VASCONCELOS",
+    "num_ratings": 66,
+    "rating": 8.3485
   },
   {
     "id": 30266,
@@ -5072,14 +5072,6 @@
     "rating": 8.1304
   },
   {
-    "id": 78455,
-    "full_name": "EDUARDO LOPEZ MOLINA",
-    "first_name": "Eduardo",
-    "last_name": "López Molina",
-    "num_ratings": 70,
-    "rating": 8.13
-  },
-  {
     "id": 49944,
     "full_name": "CARLOS VENCES ESPINOSA",
     "first_name": "Carlos",
@@ -5102,6 +5094,14 @@
     "last_name": "esquivel rodriguez",
     "num_ratings": 18,
     "rating": 8.1111
+  },
+  {
+    "id": 78455,
+    "full_name": "EDUARDO LOPEZ MOLINA",
+    "first_name": "Eduardo",
+    "last_name": "López Molina",
+    "num_ratings": 71,
+    "rating": 8.11
   },
   {
     "id": 50295,
@@ -5420,14 +5420,6 @@
     "full_name": "AURELIO ADOLFO MILLAN NAJERA",
     "first_name": "Aurelio Adolfo",
     "last_name": "Millan Najera",
-    "num_ratings": 5,
-    "rating": 8.0
-  },
-  {
-    "id": 163564,
-    "full_name": "OMAR OLIVARES REYES",
-    "first_name": "Omar",
-    "last_name": "Olivares Reyes",
     "num_ratings": 5,
     "rating": 8.0
   },
@@ -5776,6 +5768,14 @@
     "rating": 7.9091
   },
   {
+    "id": 30167,
+    "full_name": "ALICIA ESPONDA CASCAJARES",
+    "first_name": "Alicia",
+    "last_name": "Esponda Cascajares",
+    "num_ratings": 50,
+    "rating": 7.9
+  },
+  {
     "id": 84646,
     "full_name": "IVONNE BLANCAS SILVA",
     "first_name": "Ivonne",
@@ -6008,12 +6008,12 @@
     "rating": 7.8333
   },
   {
-    "id": 30167,
-    "full_name": "ALICIA ESPONDA CASCAJARES",
-    "first_name": "Alicia",
-    "last_name": "Esponda Cascajares",
-    "num_ratings": 48,
-    "rating": 7.8125
+    "id": 101528,
+    "full_name": "DAVID MARTINEZ HERNANDEZ",
+    "first_name": "David",
+    "last_name": "Martínez Hernández",
+    "num_ratings": 23,
+    "rating": 7.8261
   },
   {
     "id": 32242,
@@ -6126,14 +6126,6 @@
     "last_name": "Alcalá López",
     "num_ratings": 31,
     "rating": 7.7742
-  },
-  {
-    "id": 101528,
-    "full_name": "DAVID MARTINEZ HERNANDEZ",
-    "first_name": "David",
-    "last_name": "Martínez Hernández",
-    "num_ratings": 22,
-    "rating": 7.7727
   },
   {
     "id": 67066,
@@ -6744,14 +6736,6 @@
     "rating": 7.5625
   },
   {
-    "id": 66377,
-    "full_name": "PEDRO IGNACIO RINCON GOMEZ",
-    "first_name": "Pedro Ignacio",
-    "last_name": "Rincon Gomez",
-    "num_ratings": 32,
-    "rating": 7.5625
-  },
-  {
     "id": 104960,
     "full_name": "BILLY ARTURO FLORES MEDERO NAVARRO",
     "first_name": "M.I. BILLY ARTURO",
@@ -7200,12 +7184,12 @@
     "rating": 7.4091
   },
   {
-    "id": 24264,
-    "full_name": "CINTHYA MIRANDA TREJO",
-    "first_name": "Cinthya",
-    "last_name": "Miranda Trejo",
-    "num_ratings": 45,
-    "rating": 7.4
+    "id": 51439,
+    "full_name": "MARITZA ARGANIS",
+    "first_name": "Maritza",
+    "last_name": "Arganis",
+    "num_ratings": 42,
+    "rating": 7.4048
   },
   {
     "id": 88849,
@@ -7318,14 +7302,6 @@
     "last_name": "Hernandez Garcia",
     "num_ratings": 19,
     "rating": 7.3684
-  },
-  {
-    "id": 51439,
-    "full_name": "MARITZA ARGANIS",
-    "first_name": "Maritza",
-    "last_name": "Arganis",
-    "num_ratings": 41,
-    "rating": 7.3659
   },
   {
     "id": 96788,
@@ -7590,6 +7566,14 @@
     "last_name": "VILLEDAS MORALES",
     "num_ratings": 7,
     "rating": 7.2857
+  },
+  {
+    "id": 24264,
+    "full_name": "CINTHYA MIRANDA TREJO",
+    "first_name": "Cinthya",
+    "last_name": "Miranda Trejo",
+    "num_ratings": 46,
+    "rating": 7.2826
   },
   {
     "id": 22843,
@@ -8152,6 +8136,14 @@
     "rating": 7.09
   },
   {
+    "id": 66377,
+    "full_name": "PEDRO IGNACIO RINCON GOMEZ",
+    "first_name": "Pedro Ignacio",
+    "last_name": "Rincon Gomez",
+    "num_ratings": 35,
+    "rating": 7.0857
+  },
+  {
     "id": 94339,
     "full_name": "ALBERTO ARTURO HERRERA BECERRA",
     "first_name": "ALBERTO ARTURO",
@@ -8300,6 +8292,14 @@
     "full_name": "NEFTALI ELORZA",
     "first_name": "Neftali",
     "last_name": "Elorza",
+    "num_ratings": 6,
+    "rating": 7.0
+  },
+  {
+    "id": 163564,
+    "full_name": "OMAR OLIVARES REYES",
+    "first_name": "Omar",
+    "last_name": "Olivares Reyes",
     "num_ratings": 6,
     "rating": 7.0
   },
@@ -8876,8 +8876,8 @@
     "full_name": "MARIA FERNANDA CARRISOZA ZAMORA",
     "first_name": "María Fernanda",
     "last_name": "Carrisoza Zamora",
-    "num_ratings": 18,
-    "rating": 6.7778
+    "num_ratings": 19,
+    "rating": 6.7895
   },
   {
     "id": 68042,
@@ -10064,14 +10064,6 @@
     "rating": 6.2727
   },
   {
-    "id": 74732,
-    "full_name": "RUBEN AVILA RODRIGUEZ",
-    "first_name": "Rubén",
-    "last_name": "Ávila Rodríguez",
-    "num_ratings": 27,
-    "rating": 6.2593
-  },
-  {
     "id": 75525,
     "full_name": "GLORIA MATA",
     "first_name": "Gloria",
@@ -10174,14 +10166,6 @@
     "last_name": "Figueroa Paez",
     "num_ratings": 47,
     "rating": 6.2128
-  },
-  {
-    "id": 99111,
-    "full_name": "KENYA VERONICA ESPINOSA HURTADO",
-    "first_name": "Kenya Verónica",
-    "last_name": "Espinosa Hurtado",
-    "num_ratings": 38,
-    "rating": 6.2105
   },
   {
     "id": 74729,
@@ -10368,6 +10352,14 @@
     "rating": 6.1304
   },
   {
+    "id": 99111,
+    "full_name": "KENYA VERONICA ESPINOSA HURTADO",
+    "first_name": "Kenya Verónica",
+    "last_name": "Espinosa Hurtado",
+    "num_ratings": 39,
+    "rating": 6.1282
+  },
+  {
     "id": 70517,
     "full_name": "NORA PATRICIA ROCHA MILLER",
     "first_name": "nora patricia",
@@ -10408,20 +10400,20 @@
     "rating": 6.1111
   },
   {
+    "id": 74732,
+    "full_name": "RUBEN AVILA RODRIGUEZ",
+    "first_name": "Rubén",
+    "last_name": "Ávila Rodríguez",
+    "num_ratings": 28,
+    "rating": 6.1071
+  },
+  {
     "id": 71971,
     "full_name": "MARIO ING MORENO FLORES",
     "first_name": "MARIO ING.",
     "last_name": "MORENO FLORES",
     "num_ratings": 19,
     "rating": 6.1053
-  },
-  {
-    "id": 148066,
-    "full_name": "ALEJANDRA LIDIA MEDINA ARZATE",
-    "first_name": "Alejandra Lidia",
-    "last_name": "Medina Arzate",
-    "num_ratings": 20,
-    "rating": 6.1
   },
   {
     "id": 78973,
@@ -10605,14 +10597,6 @@
     "first_name": "PABLO",
     "last_name": "PEREZ ALCAZAR",
     "num_ratings": 23,
-    "rating": 6.0
-  },
-  {
-    "id": 93401,
-    "full_name": "CESAR PANIAGUA LOVERA",
-    "first_name": "Cesar",
-    "last_name": "Paniagua Lovera",
-    "num_ratings": 21,
     "rating": 6.0
   },
   {
@@ -10960,6 +10944,14 @@
     "rating": 5.9615
   },
   {
+    "id": 148066,
+    "full_name": "ALEJANDRA LIDIA MEDINA ARZATE",
+    "first_name": "Alejandra Lidia",
+    "last_name": "Medina Arzate",
+    "num_ratings": 21,
+    "rating": 5.9524
+  },
+  {
     "id": 42563,
     "full_name": "JESUS ANTONIO PATIÑO RAMIREZ",
     "first_name": "Jesús Antonio",
@@ -11013,6 +11005,14 @@
     "first_name": "Ranulfo",
     "last_name": "Rodriguez sobreyra",
     "num_ratings": 33,
+    "rating": 5.9091
+  },
+  {
+    "id": 93401,
+    "full_name": "CESAR PANIAGUA LOVERA",
+    "first_name": "Cesar",
+    "last_name": "Paniagua Lovera",
+    "num_ratings": 22,
     "rating": 5.9091
   },
   {
@@ -11488,14 +11488,6 @@
     "rating": 5.5385
   },
   {
-    "id": 67966,
-    "full_name": "TEHNY CAROLINA RUIZ PRIMO MARTINEZ",
-    "first_name": "Tehny Carolina",
-    "last_name": "Ruiz Primo Martínez",
-    "num_ratings": 30,
-    "rating": 5.53
-  },
-  {
     "id": 72006,
     "full_name": "JOSE ALBERTO ESCOBAR SANCHEZ",
     "first_name": "Jose Alberto",
@@ -11688,6 +11680,14 @@
     "rating": 5.5
   },
   {
+    "id": 67966,
+    "full_name": "TEHNY CAROLINA RUIZ PRIMO MARTINEZ",
+    "first_name": "Tehny Carolina",
+    "last_name": "Ruiz Primo Martínez",
+    "num_ratings": 31,
+    "rating": 5.48
+  },
+  {
     "id": 104675,
     "full_name": "LAURO SANTIAGO CRUZ",
     "first_name": "LAURO",
@@ -11696,26 +11696,10 @@
     "rating": 5.4524
   },
   {
-    "id": 82287,
-    "full_name": "HIPOLITO MORALES RODRIGUEZ",
-    "first_name": "Hipolito",
-    "last_name": "Morales Rodriguez",
-    "num_ratings": 29,
-    "rating": 5.4483
-  },
-  {
     "id": 36979,
     "full_name": "CARLOS HERNANDEZ ESPINOSA",
     "first_name": "Carlos",
     "last_name": "Hernández Espinosa",
-    "num_ratings": 9,
-    "rating": 5.4444
-  },
-  {
-    "id": 75135,
-    "full_name": "FERNANDO MONROY MIRANDA",
-    "first_name": "Fernando",
-    "last_name": "Monroy Miranda",
     "num_ratings": 9,
     "rating": 5.4444
   },
@@ -11878,6 +11862,14 @@
     "last_name": "Sanchez Rodriguez",
     "num_ratings": 28,
     "rating": 5.3571
+  },
+  {
+    "id": 82287,
+    "full_name": "HIPOLITO MORALES RODRIGUEZ",
+    "first_name": "Hipolito",
+    "last_name": "Morales Rodriguez",
+    "num_ratings": 30,
+    "rating": 5.3333
   },
   {
     "id": 87021,
@@ -12152,14 +12144,6 @@
     "rating": 5.2
   },
   {
-    "id": 190136,
-    "full_name": "ROSALBA SOLIS SORIANO",
-    "first_name": "ROSALBA",
-    "last_name": "SOLIS SORIANO",
-    "num_ratings": 5,
-    "rating": 5.2
-  },
-  {
     "id": 27437,
     "full_name": "MARICELA CASTAÑEDA PERDOMO",
     "first_name": "Maricela",
@@ -12172,8 +12156,8 @@
     "full_name": "JOSE LUIS GUILLEN REA",
     "first_name": "Jose Luis",
     "last_name": "Guillen Rea",
-    "num_ratings": 22,
-    "rating": 5.1818
+    "num_ratings": 23,
+    "rating": 5.1739
   },
   {
     "id": 84925,
@@ -12188,6 +12172,14 @@
     "full_name": "NIDIA GARCIA ARROYO",
     "first_name": "Nidia",
     "last_name": "Garcia Arroyo",
+    "num_ratings": 6,
+    "rating": 5.1667
+  },
+  {
+    "id": 190136,
+    "full_name": "ROSALBA SOLIS SORIANO",
+    "first_name": "ROSALBA",
+    "last_name": "SOLIS SORIANO",
     "num_ratings": 6,
     "rating": 5.1667
   },
@@ -12285,6 +12277,14 @@
     "first_name": "Carlos",
     "last_name": "Rivera Rivera",
     "num_ratings": 30,
+    "rating": 5.1
+  },
+  {
+    "id": 75135,
+    "full_name": "FERNANDO MONROY MIRANDA",
+    "first_name": "Fernando",
+    "last_name": "Monroy Miranda",
+    "num_ratings": 10,
     "rating": 5.1
   },
   {
@@ -12688,14 +12688,6 @@
     "rating": 4.75
   },
   {
-    "id": 55067,
-    "full_name": "ABRAHAM LAURENCIO MARTINEZ BAUTISTA",
-    "first_name": "Abraham Laurencio",
-    "last_name": "Martinez  Bautista",
-    "num_ratings": 45,
-    "rating": 4.7333
-  },
-  {
     "id": 91807,
     "full_name": "RUBEN MIRANDA ARIAS",
     "first_name": "Ruben",
@@ -12750,6 +12742,14 @@
     "last_name": "Cisneros Hernandez",
     "num_ratings": 35,
     "rating": 4.6857
+  },
+  {
+    "id": 55067,
+    "full_name": "ABRAHAM LAURENCIO MARTINEZ BAUTISTA",
+    "first_name": "Abraham Laurencio",
+    "last_name": "Martinez  Bautista",
+    "num_ratings": 46,
+    "rating": 4.6739
   },
   {
     "id": 113611,
@@ -13080,14 +13080,6 @@
     "rating": 4.3571
   },
   {
-    "id": 98743,
-    "full_name": "NATHASA CARIME VILLASEÑOR HERNANDEZ",
-    "first_name": "Nathasa Carime",
-    "last_name": "Villaseñor Hernandez",
-    "num_ratings": 17,
-    "rating": 4.3529
-  },
-  {
     "id": 60629,
     "full_name": "ALEJANDRO CASTILLO MONTALVO",
     "first_name": "Alejandro",
@@ -13214,6 +13206,14 @@
     "last_name": "Leon de los Santos",
     "num_ratings": 4,
     "rating": 4.25
+  },
+  {
+    "id": 98743,
+    "full_name": "NATHASA CARIME VILLASEÑOR HERNANDEZ",
+    "first_name": "Nathasa Carime",
+    "last_name": "Villaseñor Hernandez",
+    "num_ratings": 18,
+    "rating": 4.2222
   },
   {
     "id": 109852,
