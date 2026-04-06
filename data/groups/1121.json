@@ -238,17 +238,17 @@
       {
         "time": "13:00-15:00",
         "days": [
-          1,
-          5
+          3
         ],
-        "classroom": "J106"
+        "classroom": "J102"
       },
       {
         "time": "13:00-15:00",
         "days": [
-          3
+          1,
+          5
         ],
-        "classroom": "J102"
+        "classroom": "J106"
       }
     ],
     "professor_id": 83884,

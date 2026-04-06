@@ -213,16 +213,16 @@
       {
         "time": "11:00-13:00",
         "days": [
-          5
+          3
         ],
-        "classroom": "J202"
+        "classroom": "J101"
       },
       {
         "time": "11:00-13:00",
         "days": [
-          3
+          5
         ],
-        "classroom": "J101"
+        "classroom": "J202"
       }
     ]
   },
@@ -298,8 +298,8 @@
     "professor_id": 141997,
     "first_name": "Adriana",
     "last_name": "Alarcon Muñoz",
-    "rating": 8.7692,
-    "num_ratings": 52
+    "rating": 8.7925,
+    "num_ratings": 53
   },
   {
     "code": "1223",
@@ -309,16 +309,16 @@
       {
         "time": "15:00-17:00",
         "days": [
-          5
+          3
         ],
-        "classroom": "J110"
+        "classroom": "J109"
       },
       {
         "time": "15:00-17:00",
         "days": [
-          3
+          5
         ],
-        "classroom": "J109"
+        "classroom": "J110"
       }
     ],
     "professor_id": 91447,

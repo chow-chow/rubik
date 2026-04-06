@@ -117,16 +117,16 @@
       {
         "time": "13:00-15:00",
         "days": [
-          3
+          5
         ],
-        "classroom": "O103"
+        "classroom": "O101"
       },
       {
         "time": "13:00-15:00",
         "days": [
-          5
+          3
         ],
-        "classroom": "O101"
+        "classroom": "O103"
       }
     ]
   },
