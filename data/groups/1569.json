@@ -154,16 +154,16 @@
       {
         "time": "15:00-17:00",
         "days": [
-          1
+          3
         ],
-        "classroom": "J205"
+        "classroom": "J110"
       },
       {
         "time": "15:00-17:00",
         "days": [
-          3
+          1
         ],
-        "classroom": "J110"
+        "classroom": "J205"
       }
     ],
     "professor_id": 84287,
@@ -224,7 +224,7 @@
     "professor_id": 84849,
     "first_name": "Elia Inés",
     "last_name": "Luna Ceballos",
-    "rating": 8.4024,
-    "num_ratings": 82
+    "rating": 8.4217,
+    "num_ratings": 83
   }
 ]

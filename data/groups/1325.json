@@ -16,8 +16,8 @@
     "professor_id": 59597,
     "first_name": "Erik Norman",
     "last_name": "Guevara Corona",
-    "rating": 9.4,
-    "num_ratings": 50
+    "rating": 9.3725,
+    "num_ratings": 51
   },
   {
     "code": "1325",
@@ -56,8 +56,8 @@
     "professor_id": 32932,
     "first_name": "Margarita",
     "last_name": "Ramírez Galindo",
-    "rating": 7.9867,
-    "num_ratings": 75
+    "rating": 8.0132,
+    "num_ratings": 76
   },
   {
     "code": "1325",
@@ -95,8 +95,8 @@
     "professor_id": 59597,
     "first_name": "Erik Norman",
     "last_name": "Guevara Corona",
-    "rating": 9.4,
-    "num_ratings": 50
+    "rating": 9.3725,
+    "num_ratings": 51
   },
   {
     "code": "1325",
@@ -240,8 +240,8 @@
     "professor_id": 105237,
     "first_name": "ALEJANDRA MARIBEL",
     "last_name": "BARRAGAN MARTINEZ",
-    "rating": 7.125,
-    "num_ratings": 32
+    "rating": 7.2121,
+    "num_ratings": 33
   },
   {
     "code": "1325",
@@ -352,16 +352,16 @@
       {
         "time": "17:00-19:00",
         "days": [
-          5
+          3
         ],
-        "classroom": "I105"
+        "classroom": "I106"
       },
       {
         "time": "17:00-19:00",
         "days": [
-          3
+          5
         ],
-        "classroom": "I106"
+        "classroom": "I105"
       }
     ],
     "professor_id": 177289,

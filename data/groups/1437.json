@@ -36,8 +36,8 @@
     "professor_id": 66367,
     "first_name": "Adán Tonatiuh",
     "last_name": "López Rodríguez",
-    "rating": 8.1481,
-    "num_ratings": 27
+    "rating": 8.1429,
+    "num_ratings": 28
   },
   {
     "code": "1437",
@@ -55,8 +55,8 @@
     "professor_id": 44254,
     "first_name": "Maria del Carmen",
     "last_name": "Melo Díaz",
-    "rating": 6.878,
-    "num_ratings": 82
+    "rating": 6.9157,
+    "num_ratings": 83
   },
   {
     "code": "1437",
@@ -266,16 +266,16 @@
       {
         "time": "15:00-17:00",
         "days": [
-          1
+          5
         ],
-        "classroom": "J104"
+        "classroom": "J105"
       },
       {
         "time": "15:00-17:00",
         "days": [
-          5
+          1
         ],
-        "classroom": "J105"
+        "classroom": "J104"
       }
     ],
     "professor_id": 54985,

@@ -76,8 +76,8 @@
     "professor_id": 66566,
     "first_name": "Cesar",
     "last_name": "Vazquez Lorenzana",
-    "rating": 6.1149,
-    "num_ratings": 87
+    "rating": 6.0682,
+    "num_ratings": 88
   },
   {
     "code": "1321",
@@ -96,8 +96,8 @@
     "professor_id": 50095,
     "first_name": "Bertha",
     "last_name": "López Nájera",
-    "rating": 8.2192,
-    "num_ratings": 73
+    "rating": 8.2432,
+    "num_ratings": 74
   },
   {
     "code": "1321",
@@ -167,16 +167,16 @@
       {
         "time": "11:00-13:00",
         "days": [
-          5
+          3
         ],
-        "classroom": "I301"
+        "classroom": "I304"
       },
       {
         "time": "11:00-13:00",
         "days": [
-          3
+          5
         ],
-        "classroom": "I304"
+        "classroom": "I301"
       }
     ],
     "professor_id": 44334,
@@ -282,8 +282,8 @@
     "professor_id": 114209,
     "first_name": "Luis Antonio",
     "last_name": "Pérez Pérez",
-    "rating": 8.3333,
-    "num_ratings": 45
+    "rating": 8.3696,
+    "num_ratings": 46
   },
   {
     "code": "1321",
@@ -302,8 +302,8 @@
     "professor_id": 124388,
     "first_name": "Noé Andrés",
     "last_name": "Anaya Badillo",
-    "rating": 9.02,
-    "num_ratings": 63
+    "rating": 9.03,
+    "num_ratings": 64
   },
   {
     "code": "1321",
