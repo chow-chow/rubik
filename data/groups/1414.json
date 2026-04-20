@@ -36,8 +36,8 @@
     "professor_id": 78455,
     "first_name": "Eduardo",
     "last_name": "López Molina",
-    "rating": 8.11,
-    "num_ratings": 71
+    "rating": 8.08,
+    "num_ratings": 72
   },
   {
     "code": "1414",
@@ -192,16 +192,16 @@
       {
         "time": "11:00-13:00",
         "days": [
-          3
+          5
         ],
-        "classroom": "J105"
+        "classroom": "J109"
       },
       {
         "time": "11:00-13:00",
         "days": [
-          5
+          3
         ],
-        "classroom": "J109"
+        "classroom": "J105"
       }
     ],
     "professor_id": 23476,
@@ -287,8 +287,8 @@
     "professor_id": 78455,
     "first_name": "Eduardo",
     "last_name": "López Molina",
-    "rating": 8.11,
-    "num_ratings": 71
+    "rating": 8.08,
+    "num_ratings": 72
   },
   {
     "code": "1414",

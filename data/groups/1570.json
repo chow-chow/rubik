@@ -16,8 +16,8 @@
     "professor_id": 162118,
     "first_name": "Sandra Marcela",
     "last_name": "Rojas Montoya",
-    "rating": 8.75,
-    "num_ratings": 8
+    "rating": 8.8889,
+    "num_ratings": 9
   },
   {
     "code": "1570",
@@ -117,16 +117,16 @@
       {
         "time": "13:00-15:00",
         "days": [
-          5
+          3
         ],
-        "classroom": "O101"
+        "classroom": "O103"
       },
       {
         "time": "13:00-15:00",
         "days": [
-          3
+          5
         ],
-        "classroom": "O103"
+        "classroom": "O101"
       }
     ]
   },

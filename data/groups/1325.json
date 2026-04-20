@@ -195,8 +195,8 @@
     "professor_id": 32484,
     "first_name": "Raquel",
     "last_name": "Martinez Avalos",
-    "rating": 7.374,
-    "num_ratings": 123
+    "rating": 7.3952,
+    "num_ratings": 124
   },
   {
     "code": "1325",
@@ -352,16 +352,16 @@
       {
         "time": "17:00-19:00",
         "days": [
-          3
+          5
         ],
-        "classroom": "I106"
+        "classroom": "I105"
       },
       {
         "time": "17:00-19:00",
         "days": [
-          5
+          3
         ],
-        "classroom": "I105"
+        "classroom": "I106"
       }
     ],
     "professor_id": 177289,
