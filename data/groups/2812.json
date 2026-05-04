@@ -27,19 +27,19 @@
     "professor": "ALMA ELIA VERA MORALESVer Nota 1",
     "schedules": [
       {
+        "time": "07:00-09:00",
+        "days": [
+          5
+        ],
+        "classroom": "J206"
+      },
+      {
         "time": "08:30-10:00",
         "days": [
           1,
           3
         ],
         "classroom": "Y204"
-      },
-      {
-        "time": "07:00-09:00",
-        "days": [
-          5
-        ],
-        "classroom": "J206"
       }
     ]
   },

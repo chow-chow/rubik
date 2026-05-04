@@ -167,16 +167,16 @@
       {
         "time": "11:00-13:00",
         "days": [
-          3
+          5
         ],
-        "classroom": "I304"
+        "classroom": "I301"
       },
       {
         "time": "11:00-13:00",
         "days": [
-          5
+          3
         ],
-        "classroom": "I301"
+        "classroom": "I304"
       }
     ],
     "professor_id": 44334,
@@ -262,8 +262,8 @@
     "professor_id": 98184,
     "first_name": "Eduardo Valentín",
     "last_name": "Talavera Moctezuma",
-    "rating": 7.6,
-    "num_ratings": 45
+    "rating": 7.5,
+    "num_ratings": 46
   },
   {
     "code": "1321",

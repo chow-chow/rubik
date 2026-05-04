@@ -53,16 +53,16 @@
       {
         "time": "07:00-09:00",
         "days": [
-          4
+          2
         ],
-        "classroom": "J205"
+        "classroom": "J101"
       },
       {
         "time": "07:00-09:00",
         "days": [
-          2
+          4
         ],
-        "classroom": "J101"
+        "classroom": "J205"
       }
     ],
     "professor_id": 84710,
@@ -79,16 +79,16 @@
       {
         "time": "09:00-11:00",
         "days": [
-          3
+          1
         ],
-        "classroom": "I202"
+        "classroom": "J205"
       },
       {
         "time": "09:00-11:00",
         "days": [
-          1
+          3
         ],
-        "classroom": "J205"
+        "classroom": "I202"
       }
     ],
     "professor_id": 51439,
@@ -105,16 +105,16 @@
       {
         "time": "09:00-11:00",
         "days": [
-          5
+          1
         ],
-        "classroom": "J205"
+        "classroom": "I206"
       },
       {
         "time": "09:00-11:00",
         "days": [
-          1
+          5
         ],
-        "classroom": "I206"
+        "classroom": "J205"
       }
     ],
     "professor_id": 187334,
@@ -270,16 +270,16 @@
       {
         "time": "13:00-15:00",
         "days": [
-          3
+          1
         ],
-        "classroom": "J106"
+        "classroom": "J204"
       },
       {
         "time": "13:00-15:00",
         "days": [
-          1
+          3
         ],
-        "classroom": "J204"
+        "classroom": "J106"
       }
     ],
     "professor_id": 75669,
@@ -433,16 +433,16 @@
       {
         "time": "15:00-17:00",
         "days": [
-          3
+          5
         ],
-        "classroom": "J210"
+        "classroom": "J205"
       },
       {
         "time": "15:00-17:00",
         "days": [
-          5
+          3
         ],
-        "classroom": "J205"
+        "classroom": "J210"
       }
     ],
     "professor_id": 177290,
@@ -598,16 +598,16 @@
       {
         "time": "19:00-21:00",
         "days": [
-          4
+          2
         ],
-        "classroom": "J203"
+        "classroom": "I206"
       },
       {
         "time": "19:00-21:00",
         "days": [
-          2
+          4
         ],
-        "classroom": "I206"
+        "classroom": "J203"
       }
     ],
     "professor_id": 187334,
