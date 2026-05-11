@@ -59,8 +59,8 @@
     "professor_id": 62000,
     "first_name": "Alfredo",
     "last_name": "Velásquez Márquez",
-    "rating": 6.5422,
-    "num_ratings": 83
+    "rating": 6.5238,
+    "num_ratings": 84
   },
   {
     "code": "1121",
@@ -238,17 +238,17 @@
       {
         "time": "13:00-15:00",
         "days": [
-          3
-        ],
-        "classroom": "J102"
-      },
-      {
-        "time": "13:00-15:00",
-        "days": [
           1,
           5
         ],
         "classroom": "J106"
+      },
+      {
+        "time": "13:00-15:00",
+        "days": [
+          3
+        ],
+        "classroom": "J102"
       }
     ],
     "professor_id": 83884,
@@ -380,8 +380,8 @@
     "professor_id": 46460,
     "first_name": "Veronica Hikra",
     "last_name": "Garcia Casanova",
-    "rating": 5.1304,
-    "num_ratings": 46
+    "rating": 5.0638,
+    "num_ratings": 47
   },
   {
     "code": "1121",

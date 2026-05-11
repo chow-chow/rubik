@@ -5,17 +5,17 @@
     "professor": "LINA BEATRIZ LARA HERNANDEZ",
     "schedules": [
       {
-        "time": "13:00-14:30",
+        "time": "13:00-15:00",
         "days": [
-          2,
-          4
+          5
         ],
         "classroom": "EXTR"
       },
       {
-        "time": "13:00-15:00",
+        "time": "13:00-14:30",
         "days": [
-          5
+          2,
+          4
         ],
         "classroom": "EXTR"
       }
@@ -49,17 +49,17 @@
     "professor": "MANUEL SALGADO CRUZ",
     "schedules": [
       {
-        "time": "19:00-20:30",
+        "time": "19:00-21:00",
         "days": [
-          3,
-          4
+          5
         ],
         "classroom": "EXTR"
       },
       {
-        "time": "19:00-21:00",
+        "time": "19:00-20:30",
         "days": [
-          5
+          3,
+          4
         ],
         "classroom": "EXTR"
       }
