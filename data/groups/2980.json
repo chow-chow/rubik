@@ -28,17 +28,17 @@
     "professor": "LUIS ANTONIO ALTAMIRANO YEPEZVer Nota 1",
     "schedules": [
       {
-        "time": "13:00-15:00",
+        "time": "09:00-11:00",
         "days": [
-          1,
-          3,
           5
         ],
         "classroom": "Y201"
       },
       {
-        "time": "09:00-11:00",
+        "time": "13:00-15:00",
         "days": [
+          1,
+          3,
           5
         ],
         "classroom": "Y201"
