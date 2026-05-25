@@ -257,8 +257,8 @@
     "professor_id": 123084,
     "first_name": "Jesus Alejandro",
     "last_name": "Plata Martinez",
-    "rating": 8.9178,
-    "num_ratings": 73
+    "rating": 8.9324,
+    "num_ratings": 74
   },
   {
     "code": "1220",
@@ -377,8 +377,8 @@
     "professor_id": 123084,
     "first_name": "Jesus Alejandro",
     "last_name": "Plata Martinez",
-    "rating": 8.9178,
-    "num_ratings": 73
+    "rating": 8.9324,
+    "num_ratings": 74
   },
   {
     "code": "1220",
@@ -593,7 +593,7 @@
   {
     "code": "1220",
     "group": "31",
-    "professor": "JAIME HECTOR DIAZ OSORNIO",
+    "professor": "JAIME HECTOR DÍAZ OSORNIO",
     "schedules": [
       {
         "time": "17:00-19:00",
@@ -603,12 +603,7 @@
         ],
         "classroom": "I105"
       }
-    ],
-    "professor_id": 58909,
-    "first_name": "Jaime Hector",
-    "last_name": "Diaz Osornio",
-    "rating": 8.2143,
-    "num_ratings": 28
+    ]
   },
   {
     "code": "1220",
@@ -653,7 +648,7 @@
   {
     "code": "1220",
     "group": "34",
-    "professor": "RUBEN HERNANDEZ BUSTAMANTE",
+    "professor": "RUBÉN HERNÁNDEZ BUSTAMANTE",
     "schedules": [
       {
         "time": "17:00-19:00",
@@ -663,12 +658,7 @@
         ],
         "classroom": "I101"
       }
-    ],
-    "professor_id": 106849,
-    "first_name": "Rubén",
-    "last_name": "Hernández Bustamante",
-    "rating": 9.791,
-    "num_ratings": 67
+    ]
   },
   {
     "code": "1220",
@@ -702,8 +692,8 @@
     "professor_id": 81587,
     "first_name": "Javier",
     "last_name": "Gómez Méndez",
-    "rating": 8.12,
-    "num_ratings": 90
+    "rating": 7.99,
+    "num_ratings": 92
   },
   {
     "code": "1220",
@@ -743,7 +733,7 @@
   {
     "code": "1220",
     "group": "39",
-    "professor": "RUBEN HERNANDEZ BUSTAMANTE",
+    "professor": "RUBÉN HERNÁNDEZ BUSTAMANTE",
     "schedules": [
       {
         "time": "19:00-21:00",
@@ -753,12 +743,7 @@
         ],
         "classroom": "J207"
       }
-    ],
-    "professor_id": 106849,
-    "first_name": "Rubén",
-    "last_name": "Hernández Bustamante",
-    "rating": 9.791,
-    "num_ratings": 67
+    ]
   },
   {
     "code": "1220",

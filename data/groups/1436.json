@@ -96,8 +96,8 @@
     "professor_id": 60278,
     "first_name": "Miguel Eduardo",
     "last_name": "Gonzalez Cardenas",
-    "rating": 5.1154,
-    "num_ratings": 26
+    "rating": 5.0741,
+    "num_ratings": 27
   },
   {
     "code": "1436",
@@ -379,16 +379,16 @@
       {
         "time": "15:00-17:00",
         "days": [
-          3
+          5
         ],
-        "classroom": "I305"
+        "classroom": "I304"
       },
       {
         "time": "15:00-17:00",
         "days": [
-          5
+          3
         ],
-        "classroom": "I304"
+        "classroom": "I305"
       }
     ]
   },

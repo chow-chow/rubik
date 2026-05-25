@@ -2,7 +2,7 @@
   {
     "code": "5692",
     "group": "1",
-    "professor": "JAIME HECTOR DIAZ OSORNIO",
+    "professor": "JAIME HECTOR DÍAZ OSORNIO",
     "schedules": [
       {
         "time": "17:00-19:00",
@@ -11,11 +11,6 @@
         ],
         "classroom": "P217"
       }
-    ],
-    "professor_id": 58909,
-    "first_name": "Jaime Hector",
-    "last_name": "Diaz Osornio",
-    "rating": 8.2143,
-    "num_ratings": 28
+    ]
   }
 ]
