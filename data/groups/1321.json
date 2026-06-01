@@ -167,16 +167,16 @@
       {
         "time": "11:00-13:00",
         "days": [
-          3
+          5
         ],
-        "classroom": "I304"
+        "classroom": "I301"
       },
       {
         "time": "11:00-13:00",
         "days": [
-          5
+          3
         ],
-        "classroom": "I301"
+        "classroom": "I304"
       }
     ],
     "professor_id": 44334,
@@ -202,8 +202,8 @@
     "professor_id": 182751,
     "first_name": "Miryam",
     "last_name": "Chavez Monterrosa",
-    "rating": 7.3,
-    "num_ratings": 20
+    "rating": 7.381,
+    "num_ratings": 21
   },
   {
     "code": "1321",
@@ -322,8 +322,8 @@
     "professor_id": 79478,
     "first_name": "IAN GUILLERMO M.I.",
     "last_name": "MONSIVAIS MONTOLIU",
-    "rating": 7.28,
-    "num_ratings": 25
+    "rating": 7.3462,
+    "num_ratings": 26
   },
   {
     "code": "1321",
@@ -382,7 +382,7 @@
     "professor_id": 98925,
     "first_name": "FRANCISCO LEONEL",
     "last_name": "SILVA GONZÁLEZ",
-    "rating": 7.9444,
-    "num_ratings": 18
+    "rating": 8.0526,
+    "num_ratings": 19
   }
 ]

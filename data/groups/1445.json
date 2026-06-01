@@ -53,23 +53,23 @@
       {
         "time": "09:00-11:00",
         "days": [
-          3
+          5
         ],
-        "classroom": "J205"
+        "classroom": "J203"
       },
       {
         "time": "09:00-11:00",
         "days": [
-          5
+          3
         ],
-        "classroom": "J203"
+        "classroom": "J205"
       }
     ],
     "professor_id": 84651,
     "first_name": "Amparo",
     "last_name": "Bañuelos Duran",
-    "rating": 6.4286,
-    "num_ratings": 21
+    "rating": 6.2727,
+    "num_ratings": 22
   },
   {
     "code": "1445",
