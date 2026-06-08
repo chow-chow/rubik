@@ -56,8 +56,8 @@
     "professor_id": 104129,
     "first_name": "Germán",
     "last_name": "Arconada Rey",
-    "rating": 8.6286,
-    "num_ratings": 35
+    "rating": 8.5833,
+    "num_ratings": 36
   },
   {
     "code": "1321",
@@ -96,8 +96,8 @@
     "professor_id": 50095,
     "first_name": "Bertha",
     "last_name": "López Nájera",
-    "rating": 8.2432,
-    "num_ratings": 74
+    "rating": 8.2667,
+    "num_ratings": 75
   },
   {
     "code": "1321",
@@ -116,8 +116,8 @@
     "professor_id": 42052,
     "first_name": "Rosalba",
     "last_name": "Rodríguez Chávez",
-    "rating": 9.1556,
-    "num_ratings": 90
+    "rating": 9.1538,
+    "num_ratings": 91
   },
   {
     "code": "1321",
@@ -156,8 +156,8 @@
     "professor_id": 70180,
     "first_name": "Rafael Guillermo",
     "last_name": "Suárez Nájera",
-    "rating": 8.6087,
-    "num_ratings": 46
+    "rating": 8.617,
+    "num_ratings": 47
   },
   {
     "code": "1321",
@@ -167,23 +167,23 @@
       {
         "time": "11:00-13:00",
         "days": [
-          5
+          3
         ],
-        "classroom": "I301"
+        "classroom": "I304"
       },
       {
         "time": "11:00-13:00",
         "days": [
-          3
+          5
         ],
-        "classroom": "I304"
+        "classroom": "I301"
       }
     ],
     "professor_id": 44334,
     "first_name": "María del Rocío",
     "last_name": "Ávila Núñez",
     "rating": 9.17,
-    "num_ratings": 40
+    "num_ratings": 41
   },
   {
     "code": "1321",
@@ -222,8 +222,8 @@
     "professor_id": 93403,
     "first_name": "Hector Rodrigo",
     "last_name": "Amezcua Rivera",
-    "rating": 9.663,
-    "num_ratings": 92
+    "rating": 9.6559,
+    "num_ratings": 93
   },
   {
     "code": "1321",
@@ -242,8 +242,8 @@
     "professor_id": 93401,
     "first_name": "Cesar",
     "last_name": "Paniagua Lovera",
-    "rating": 5.9091,
-    "num_ratings": 22
+    "rating": 6.0435,
+    "num_ratings": 23
   },
   {
     "code": "1321",
@@ -322,8 +322,8 @@
     "professor_id": 79478,
     "first_name": "IAN GUILLERMO M.I.",
     "last_name": "MONSIVAIS MONTOLIU",
-    "rating": 7.3462,
-    "num_ratings": 26
+    "rating": 7.4444,
+    "num_ratings": 27
   },
   {
     "code": "1321",

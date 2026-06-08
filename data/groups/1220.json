@@ -16,8 +16,8 @@
     "professor_id": 55058,
     "first_name": "Erika",
     "last_name": "Leyra Tobilla",
-    "rating": 7.1081,
-    "num_ratings": 37
+    "rating": 7.1579,
+    "num_ratings": 38
   },
   {
     "code": "1220",
@@ -96,8 +96,8 @@
     "professor_id": 63724,
     "first_name": "HECTOR",
     "last_name": "HERNANDEZ LOPEZ",
-    "rating": 6.79,
-    "num_ratings": 168
+    "rating": 6.81,
+    "num_ratings": 169
   },
   {
     "code": "1220",
@@ -116,8 +116,8 @@
     "professor_id": 70180,
     "first_name": "Rafael Guillermo",
     "last_name": "Suárez Nájera",
-    "rating": 8.6087,
-    "num_ratings": 46
+    "rating": 8.617,
+    "num_ratings": 47
   },
   {
     "code": "1220",
@@ -211,8 +211,8 @@
     "professor_id": 118726,
     "first_name": "Regina Anaid",
     "last_name": "Martínez Lobato",
-    "rating": 8.6739,
-    "num_ratings": 46
+    "rating": 8.5957,
+    "num_ratings": 47
   },
   {
     "code": "1220",
@@ -222,23 +222,23 @@
       {
         "time": "11:00-13:00",
         "days": [
-          1
+          3
         ],
-        "classroom": "I205"
+        "classroom": "I206"
       },
       {
         "time": "11:00-13:00",
         "days": [
-          3
+          1
         ],
-        "classroom": "I206"
+        "classroom": "I205"
       }
     ],
     "professor_id": 93401,
     "first_name": "Cesar",
     "last_name": "Paniagua Lovera",
-    "rating": 5.9091,
-    "num_ratings": 22
+    "rating": 6.0435,
+    "num_ratings": 23
   },
   {
     "code": "1220",
@@ -297,8 +297,8 @@
     "professor_id": 93403,
     "first_name": "Hector Rodrigo",
     "last_name": "Amezcua Rivera",
-    "rating": 9.663,
-    "num_ratings": 92
+    "rating": 9.6559,
+    "num_ratings": 93
   },
   {
     "code": "1220",
@@ -472,8 +472,8 @@
     "professor_id": 51835,
     "first_name": "Ana Marissa",
     "last_name": "Juarez Mendoza",
-    "rating": 8.5714,
-    "num_ratings": 56
+    "rating": 8.5965,
+    "num_ratings": 57
   },
   {
     "code": "1220",
@@ -567,8 +567,8 @@
     "professor_id": 51835,
     "first_name": "Ana Marissa",
     "last_name": "Juarez Mendoza",
-    "rating": 8.5714,
-    "num_ratings": 56
+    "rating": 8.5965,
+    "num_ratings": 57
   },
   {
     "code": "1220",
@@ -692,8 +692,8 @@
     "professor_id": 81587,
     "first_name": "Javier",
     "last_name": "Gómez Méndez",
-    "rating": 7.91,
-    "num_ratings": 94
+    "rating": 7.92,
+    "num_ratings": 95
   },
   {
     "code": "1220",

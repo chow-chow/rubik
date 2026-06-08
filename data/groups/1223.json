@@ -102,8 +102,8 @@
     "professor_id": 70466,
     "first_name": "Epifanio Oscar",
     "last_name": "Carballar López",
-    "rating": 7.3902,
-    "num_ratings": 41
+    "rating": 7.381,
+    "num_ratings": 42
   },
   {
     "code": "1223",
@@ -122,8 +122,8 @@
     "professor_id": 173549,
     "first_name": "Roberto Ángel",
     "last_name": "García García",
-    "rating": 8.3636,
-    "num_ratings": 11
+    "rating": 8.5,
+    "num_ratings": 12
   },
   {
     "code": "1223",
@@ -182,8 +182,8 @@
     "professor_id": 114184,
     "first_name": "Fernando",
     "last_name": "Sanchez Rodriguez",
-    "rating": 5.1333,
-    "num_ratings": 30
+    "rating": 5.25,
+    "num_ratings": 32
   },
   {
     "code": "1223",
@@ -298,8 +298,8 @@
     "professor_id": 141997,
     "first_name": "Adriana",
     "last_name": "Alarcon Muñoz",
-    "rating": 8.6071,
-    "num_ratings": 56
+    "rating": 8.614,
+    "num_ratings": 57
   },
   {
     "code": "1223",
@@ -309,16 +309,16 @@
       {
         "time": "15:00-17:00",
         "days": [
-          3
+          5
         ],
-        "classroom": "J109"
+        "classroom": "J110"
       },
       {
         "time": "15:00-17:00",
         "days": [
-          5
+          3
         ],
-        "classroom": "J110"
+        "classroom": "J109"
       }
     ],
     "professor_id": 91447,
@@ -340,7 +340,12 @@
         ],
         "classroom": "I204"
       }
-    ]
+    ],
+    "professor_id": 187228,
+    "first_name": "Mario Alberto",
+    "last_name": "Márquez Calderón",
+    "rating": 9.0,
+    "num_ratings": 2
   },
   {
     "code": "1223",
@@ -390,7 +395,12 @@
         ],
         "classroom": "I203"
       }
-    ]
+    ],
+    "professor_id": 187228,
+    "first_name": "Mario Alberto",
+    "last_name": "Márquez Calderón",
+    "rating": 9.0,
+    "num_ratings": 2
   },
   {
     "code": "1223",

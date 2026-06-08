@@ -7,23 +7,23 @@
       {
         "time": "07:00-09:00",
         "days": [
-          4
+          2
         ],
-        "classroom": "I305"
+        "classroom": "I103"
       },
       {
         "time": "07:00-09:00",
         "days": [
-          2
+          4
         ],
-        "classroom": "I103"
+        "classroom": "I305"
       }
     ],
     "professor_id": 84849,
     "first_name": "Elia Inés",
     "last_name": "Luna Ceballos",
-    "rating": 8.4217,
-    "num_ratings": 83
+    "rating": 8.4405,
+    "num_ratings": 84
   },
   {
     "code": "1445",

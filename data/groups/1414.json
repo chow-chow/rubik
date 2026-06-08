@@ -16,8 +16,8 @@
     "professor_id": 104129,
     "first_name": "Germán",
     "last_name": "Arconada Rey",
-    "rating": 8.6286,
-    "num_ratings": 35
+    "rating": 8.5833,
+    "num_ratings": 36
   },
   {
     "code": "1414",
@@ -36,8 +36,8 @@
     "professor_id": 78455,
     "first_name": "Eduardo",
     "last_name": "López Molina",
-    "rating": 8.11,
-    "num_ratings": 73
+    "rating": 8.12,
+    "num_ratings": 74
   },
   {
     "code": "1414",
@@ -67,16 +67,16 @@
       {
         "time": "09:00-11:00",
         "days": [
-          3
+          1
         ],
-        "classroom": "J207"
+        "classroom": "J208"
       },
       {
         "time": "09:00-11:00",
         "days": [
-          1
+          3
         ],
-        "classroom": "J208"
+        "classroom": "J207"
       }
     ],
     "professor_id": 44254,
@@ -287,8 +287,8 @@
     "professor_id": 78455,
     "first_name": "Eduardo",
     "last_name": "López Molina",
-    "rating": 8.11,
-    "num_ratings": 73
+    "rating": 8.12,
+    "num_ratings": 74
   },
   {
     "code": "1414",
@@ -327,8 +327,8 @@
     "professor_id": 156721,
     "first_name": "Salvador Enrique",
     "last_name": "Villalobos Perez",
-    "rating": 5.8824,
-    "num_ratings": 17
+    "rating": 5.6667,
+    "num_ratings": 18
   },
   {
     "code": "1414",
@@ -347,8 +347,8 @@
     "professor_id": 74107,
     "first_name": "María Ofelia",
     "last_name": "Rodriguez Durán",
-    "rating": 7.2264,
-    "num_ratings": 53
+    "rating": 7.2222,
+    "num_ratings": 54
   },
   {
     "code": "1414",
@@ -367,8 +367,8 @@
     "professor_id": 74107,
     "first_name": "María Ofelia",
     "last_name": "Rodriguez Durán",
-    "rating": 7.2264,
-    "num_ratings": 53
+    "rating": 7.2222,
+    "num_ratings": 54
   },
   {
     "code": "1414",

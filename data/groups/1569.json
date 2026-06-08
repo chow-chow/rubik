@@ -53,16 +53,16 @@
       {
         "time": "09:00-11:00",
         "days": [
-          3
+          1
         ],
-        "classroom": "J203"
+        "classroom": "J211"
       },
       {
         "time": "09:00-11:00",
         "days": [
-          1
+          3
         ],
-        "classroom": "J211"
+        "classroom": "J203"
       }
     ],
     "professor_id": 99111,
@@ -169,8 +169,8 @@
     "professor_id": 84287,
     "first_name": "Véduar Allié",
     "last_name": "Sarmiento Torres",
-    "rating": 8.3111,
-    "num_ratings": 45
+    "rating": 8.3261,
+    "num_ratings": 46
   },
   {
     "code": "1569",
@@ -189,8 +189,8 @@
     "professor_id": 84287,
     "first_name": "Véduar Allié",
     "last_name": "Sarmiento Torres",
-    "rating": 8.3111,
-    "num_ratings": 45
+    "rating": 8.3261,
+    "num_ratings": 46
   },
   {
     "code": "1569",
@@ -224,7 +224,7 @@
     "professor_id": 84849,
     "first_name": "Elia Inés",
     "last_name": "Luna Ceballos",
-    "rating": 8.4217,
-    "num_ratings": 83
+    "rating": 8.4405,
+    "num_ratings": 84
   }
 ]

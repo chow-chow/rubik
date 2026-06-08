@@ -49,17 +49,17 @@
     "professor": "MANUEL SALGADO CRUZ",
     "schedules": [
       {
-        "time": "19:00-21:00",
-        "days": [
-          5
-        ],
-        "classroom": "EXTR"
-      },
-      {
         "time": "19:00-20:30",
         "days": [
           3,
           4
+        ],
+        "classroom": "EXTR"
+      },
+      {
+        "time": "19:00-21:00",
+        "days": [
+          5
         ],
         "classroom": "EXTR"
       }
