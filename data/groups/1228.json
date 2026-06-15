@@ -75,8 +75,8 @@
     "professor_id": 81587,
     "first_name": "Javier",
     "last_name": "Gómez Méndez",
-    "rating": 7.92,
-    "num_ratings": 95
+    "rating": 7.94,
+    "num_ratings": 96
   },
   {
     "code": "1228",
@@ -107,17 +107,17 @@
       {
         "time": "09:00-11:00",
         "days": [
-          5
-        ],
-        "classroom": "I103"
-      },
-      {
-        "time": "09:00-11:00",
-        "days": [
           1,
           3
         ],
         "classroom": "J210"
+      },
+      {
+        "time": "09:00-11:00",
+        "days": [
+          5
+        ],
+        "classroom": "I103"
       }
     ],
     "professor_id": 61247,
@@ -176,17 +176,17 @@
       {
         "time": "11:00-13:00",
         "days": [
-          1
-        ],
-        "classroom": "I103"
-      },
-      {
-        "time": "11:00-13:00",
-        "days": [
           3,
           5
         ],
         "classroom": "I202"
+      },
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1
+        ],
+        "classroom": "I103"
       }
     ],
     "professor_id": 58547,
