@@ -67,7 +67,12 @@
         ],
         "classroom": "A101"
       }
-    ]
+    ],
+    "professor_id": 194888,
+    "first_name": "Edgardo Ulises",
+    "last_name": "Benítez Eslava",
+    "rating": 3.5,
+    "num_ratings": 2
   },
   {
     "code": "1413",
@@ -119,8 +124,8 @@
     "professor_id": 75038,
     "first_name": "Iris Monserrat",
     "last_name": "Urbina Casas",
-    "rating": 6.898,
-    "num_ratings": 49
+    "rating": 6.8,
+    "num_ratings": 50
   },
   {
     "code": "1413",
@@ -435,8 +440,8 @@
     "professor_id": 75038,
     "first_name": "Iris Monserrat",
     "last_name": "Urbina Casas",
-    "rating": 6.898,
-    "num_ratings": 49
+    "rating": 6.8,
+    "num_ratings": 50
   },
   {
     "code": "1413",
