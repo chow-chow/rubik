@@ -9,7 +9,7 @@
         "days": [
           2
         ],
-        "classroom": "A202"
+        "classroom": "35"
       }
     ],
     "professor_id": 95281,
@@ -28,7 +28,7 @@
         "days": [
           5
         ],
-        "classroom": "A103"
+        "classroom": "35"
       }
     ],
     "professor_id": 95281,
@@ -47,7 +47,7 @@
         "days": [
           5
         ],
-        "classroom": "A101"
+        "classroom": "35"
       }
     ],
     "professor_id": 51469,
@@ -66,7 +66,7 @@
         "days": [
           1
         ],
-        "classroom": "A104"
+        "classroom": "35"
       }
     ],
     "professor_id": 90265,
@@ -78,20 +78,6 @@
   {
     "code": "1795",
     "group": "5",
-    "professor": "OMAR ALEJANDRO LLANES BRICEÑOVer Nota 1",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          3
-        ],
-        "classroom": "Y102"
-      }
-    ]
-  },
-  {
-    "code": "1795",
-    "group": "6",
     "professor": "NOE CRUZ MARIN",
     "schedules": [
       {
@@ -99,7 +85,7 @@
         "days": [
           4
         ],
-        "classroom": "A103"
+        "classroom": "35"
       }
     ]
   }

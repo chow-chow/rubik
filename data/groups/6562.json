@@ -9,7 +9,7 @@
         "days": [
           1
         ],
-        "classroom": "P215"
+        "classroom": "14"
       }
     ],
     "professor_id": 58672,
@@ -28,7 +28,7 @@
         "days": [
           1
         ],
-        "classroom": "P215"
+        "classroom": "14"
       }
     ],
     "professor_id": 95374,
@@ -47,7 +47,7 @@
         "days": [
           1
         ],
-        "classroom": "P215"
+        "classroom": "14"
       }
     ],
     "professor_id": 95374,
@@ -66,7 +66,7 @@
         "days": [
           2
         ],
-        "classroom": "P215"
+        "classroom": "14"
       }
     ],
     "professor_id": 99901,
@@ -78,25 +78,6 @@
   {
     "code": "6562",
     "group": "5",
-    "professor": "BENJAMIN RAMIREZ HERNANDEZ",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          2
-        ],
-        "classroom": "P215"
-      }
-    ],
-    "professor_id": 134845,
-    "first_name": "Benjamin",
-    "last_name": "Ramírez Hernández",
-    "rating": 7.1515,
-    "num_ratings": 33
-  },
-  {
-    "code": "6562",
-    "group": "6",
     "professor": "PATRICIA HONG CIRION",
     "schedules": [
       {
@@ -104,7 +85,7 @@
         "days": [
           2
         ],
-        "classroom": "P215"
+        "classroom": "14"
       }
     ],
     "professor_id": 83076,
@@ -115,26 +96,7 @@
   },
   {
     "code": "6562",
-    "group": "7",
-    "professor": "JULIA VAZQUEZ FUENTES",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          3
-        ],
-        "classroom": "P215"
-      }
-    ],
-    "professor_id": 58672,
-    "first_name": "Julia",
-    "last_name": "Vazquez Fuentes",
-    "rating": 4.2222,
-    "num_ratings": 45
-  },
-  {
-    "code": "6562",
-    "group": "8",
+    "group": "6",
     "professor": "JUAN MANUEL VELASCO MIRANDA",
     "schedules": [
       {
@@ -142,7 +104,7 @@
         "days": [
           3
         ],
-        "classroom": "P215"
+        "classroom": "14"
       }
     ],
     "professor_id": 95190,
@@ -153,7 +115,7 @@
   },
   {
     "code": "6562",
-    "group": "9",
+    "group": "7",
     "professor": "JULIO SERRANO VILLEGAS",
     "schedules": [
       {
@@ -161,7 +123,7 @@
         "days": [
           3
         ],
-        "classroom": "P215"
+        "classroom": "14"
       }
     ],
     "professor_id": 95374,
@@ -172,26 +134,21 @@
   },
   {
     "code": "6562",
-    "group": "10",
-    "professor": "BENJAMIN RAMIREZ HERNANDEZ",
+    "group": "8",
+    "professor": "PROFESOR POR ASIGNAR",
     "schedules": [
       {
         "time": "07:00-09:00",
         "days": [
           4
         ],
-        "classroom": "P215"
+        "classroom": "14"
       }
-    ],
-    "professor_id": 134845,
-    "first_name": "Benjamin",
-    "last_name": "Ramírez Hernández",
-    "rating": 7.1515,
-    "num_ratings": 33
+    ]
   },
   {
     "code": "6562",
-    "group": "11",
+    "group": "9",
     "professor": "MAURICIO AYALA HERNANDEZ",
     "schedules": [
       {
@@ -199,7 +156,45 @@
         "days": [
           4
         ],
-        "classroom": "P215"
+        "classroom": "14"
+      }
+    ],
+    "professor_id": 74386,
+    "first_name": "Mauricio",
+    "last_name": "Ayala Hernandez",
+    "rating": 8.4286,
+    "num_ratings": 14
+  },
+  {
+    "code": "6562",
+    "group": "10",
+    "professor": "MAURICIO AYALA HERNANDEZ",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          4
+        ],
+        "classroom": "14"
+      }
+    ],
+    "professor_id": 74386,
+    "first_name": "Mauricio",
+    "last_name": "Ayala Hernandez",
+    "rating": 8.4286,
+    "num_ratings": 14
+  },
+  {
+    "code": "6562",
+    "group": "11",
+    "professor": "MAURICIO AYALA HERNANDEZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          5
+        ],
+        "classroom": "14"
       }
     ],
     "professor_id": 74386,
@@ -211,91 +206,6 @@
   {
     "code": "6562",
     "group": "12",
-    "professor": "MAURICIO AYALA HERNANDEZ",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          4
-        ],
-        "classroom": "P215"
-      }
-    ],
-    "professor_id": 74386,
-    "first_name": "Mauricio",
-    "last_name": "Ayala Hernandez",
-    "rating": 8.4286,
-    "num_ratings": 14
-  },
-  {
-    "code": "6562",
-    "group": "13",
-    "professor": "JUAN MANUEL VELASCO MIRANDA",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          5
-        ],
-        "classroom": "P215"
-      }
-    ],
-    "professor_id": 95190,
-    "first_name": "Juan Manuel",
-    "last_name": "Velasco Miranda",
-    "rating": 8.8333,
-    "num_ratings": 12
-  },
-  {
-    "code": "6562",
-    "group": "14",
-    "professor": "MAURICIO AYALA HERNANDEZ",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          5
-        ],
-        "classroom": "P215"
-      }
-    ],
-    "professor_id": 74386,
-    "first_name": "Mauricio",
-    "last_name": "Ayala Hernandez",
-    "rating": 8.4286,
-    "num_ratings": 14
-  },
-  {
-    "code": "6562",
-    "group": "15",
-    "professor": "FERNANDO RIVERA PEREZ",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          5
-        ],
-        "classroom": "P215"
-      }
-    ]
-  },
-  {
-    "code": "6562",
-    "group": "16",
-    "professor": "FERNANDO RIVERA PEREZ",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          5
-        ],
-        "classroom": "P215"
-      }
-    ]
-  },
-  {
-    "code": "6562",
-    "group": "17",
     "professor": "EDGAR BALDEMAR AGUADO CRUZ",
     "schedules": [
       {
@@ -303,7 +213,7 @@
         "days": [
           5
         ],
-        "classroom": "P215"
+        "classroom": "14"
       }
     ],
     "professor_id": 99901,
@@ -311,5 +221,33 @@
     "last_name": "Aguado Cruz",
     "rating": 8.3103,
     "num_ratings": 29
+  },
+  {
+    "code": "6562",
+    "group": "13",
+    "professor": "FERNANDO RIVERA PEREZ",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          5
+        ],
+        "classroom": "14"
+      }
+    ]
+  },
+  {
+    "code": "6562",
+    "group": "14",
+    "professor": "FERNANDO RIVERA PEREZ",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          5
+        ],
+        "classroom": "14"
+      }
+    ]
   }
 ]

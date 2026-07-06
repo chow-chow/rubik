@@ -2,47 +2,56 @@
   {
     "code": "2980",
     "group": "1",
-    "professor": "GIBRAN JALIL GARNICA CASTROVer Nota 1",
+    "professor": "GENARO CARREON CARRERAVer Nota 1",
     "schedules": [
       {
-        "time": "17:00-19:00",
+        "time": "07:00-09:00",
         "days": [
           1,
-          3
-        ],
-        "classroom": "Y201"
-      },
-      {
-        "time": "11:00-13:00",
-        "days": [
           2,
+          3,
           4
         ],
-        "classroom": "Y201"
+        "classroom": "35"
       }
     ]
   },
   {
     "code": "2980",
     "group": "2",
-    "professor": "LUIS ANTONIO ALTAMIRANO YEPEZVer Nota 1",
+    "professor": "GIBRAN JALIL GARNICA CASTROVer Nota 1",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1,
+          3,
+          4
+        ],
+        "classroom": "35"
+      }
+    ]
+  },
+  {
+    "code": "2980",
+    "group": "3",
+    "professor": "RAFAEL GUADALUPE CHAVEZ MORENO",
     "schedules": [
       {
         "time": "09:00-11:00",
         "days": [
-          5
-        ],
-        "classroom": "Y201"
-      },
-      {
-        "time": "13:00-15:00",
-        "days": [
           1,
+          2,
           3,
-          5
+          4
         ],
-        "classroom": "Y201"
+        "classroom": "35"
       }
-    ]
+    ],
+    "professor_id": 134478,
+    "first_name": "Rafael Guadalupe",
+    "last_name": "Chávez Moreno",
+    "rating": 5.3333,
+    "num_ratings": 6
   }
 ]

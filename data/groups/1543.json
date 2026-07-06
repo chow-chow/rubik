@@ -10,7 +10,7 @@
           1,
           3
         ],
-        "classroom": "R001"
+        "classroom": "15"
       }
     ],
     "professor_id": 147733,
@@ -22,7 +22,7 @@
   {
     "code": "1543",
     "group": "2",
-    "professor": "MARIA ELENA OSORIO TAI",
+    "professor": "Grupo cancelado, contactar a la División.",
     "schedules": [
       {
         "time": "17:30-19:00",
@@ -30,13 +30,8 @@
           1,
           3
         ],
-        "classroom": "R001"
+        "classroom": "10"
       }
-    ],
-    "professor_id": 147733,
-    "first_name": "Maria Elena",
-    "last_name": "Osorio Tai",
-    "rating": 7.8571,
-    "num_ratings": 7
+    ]
   }
 ]

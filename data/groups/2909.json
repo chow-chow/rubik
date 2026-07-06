@@ -2,42 +2,16 @@
   {
     "code": "2909",
     "group": "1",
-    "professor": "MARCOS ANGEL GONZALEZ OLVERA",
+    "professor": "GERARDO RENE ESPINOSA PEREZ",
     "schedules": [
       {
-        "time": "07:00-09:00",
+        "time": "09:00-11:00",
         "days": [
           2,
           4
         ],
-        "classroom": "B206"
+        "classroom": "35"
       }
     ]
-  },
-  {
-    "code": "2909",
-    "group": "2",
-    "professor": "EDMUNDO GABRIEL ROCHA COZATL",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          5
-        ],
-        "classroom": "I306"
-      },
-      {
-        "time": "15:00-17:00",
-        "days": [
-          3
-        ],
-        "classroom": "J111"
-      }
-    ],
-    "professor_id": 114509,
-    "first_name": "Edmundo Gabriel",
-    "last_name": "Rocha Cózatl",
-    "rating": 10.0,
-    "num_ratings": 4
   }
 ]

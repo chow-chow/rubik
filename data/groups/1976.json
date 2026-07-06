@@ -13,7 +13,7 @@
           4,
           5
         ],
-        "classroom": "EXTR"
+        "classroom": "0"
       }
     ]
   },
@@ -31,7 +31,7 @@
           4,
           5
         ],
-        "classroom": "EXTR"
+        "classroom": "0"
       }
     ]
   },
@@ -49,7 +49,7 @@
           4,
           5
         ],
-        "classroom": "EXTR"
+        "classroom": "0"
       }
     ]
   },
@@ -67,7 +67,7 @@
           4,
           5
         ],
-        "classroom": "EXTR"
+        "classroom": "0"
       }
     ]
   },
@@ -85,7 +85,7 @@
           4,
           5
         ],
-        "classroom": "EXTR"
+        "classroom": "0"
       }
     ]
   },
@@ -103,7 +103,7 @@
           4,
           5
         ],
-        "classroom": "EXTR"
+        "classroom": "0"
       }
     ],
     "professor_id": 154334,
@@ -115,7 +115,7 @@
   {
     "code": "1976",
     "group": "7",
-    "professor": "SERAFIN CASTAÑEDA CEDEÑO",
+    "professor": "TOMAS EFRAIN SANCHEZ PEREZ",
     "schedules": [
       {
         "time": "08:00-09:00",
@@ -126,13 +126,8 @@
           4,
           5
         ],
-        "classroom": "EXTR"
+        "classroom": "0"
       }
-    ],
-    "professor_id": 109270,
-    "first_name": "Serafín",
-    "last_name": "Castañeda Cedeño",
-    "rating": 7.3333,
-    "num_ratings": 12
+    ]
   }
 ]

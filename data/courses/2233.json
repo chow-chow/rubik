@@ -348,11 +348,8 @@
     "code": "2611",
     "name": "EVALUACION DE LA CALIDAD DEL AGUA",
     "credits": 8,
-    "has_lab": true,
-    "lab": {
-      "code": "7611",
-      "name": "LABORATORIO DE EVALUACION DE LA CALIDAD DEL AGUA"
-    }
+    "has_lab": false,
+    "lab": null
   },
   {
     "code": "2612",
@@ -372,11 +369,8 @@
     "code": "2710",
     "name": "EVALUACION DE LA CALIDAD DEL AIRE",
     "credits": 8,
-    "has_lab": true,
-    "lab": {
-      "code": "7710",
-      "name": "LABORATORIO DE EVALUACION DE LA CALIDAD DEL AIRE"
-    }
+    "has_lab": false,
+    "lab": null
   },
   {
     "code": "2711",

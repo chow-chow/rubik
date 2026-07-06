@@ -9,7 +9,7 @@
         "days": [
           5
         ],
-        "classroom": "C201"
+        "classroom": "24"
       }
     ],
     "professor_id": 101485,
@@ -28,7 +28,7 @@
         "days": [
           1
         ],
-        "classroom": "C201"
+        "classroom": "24"
       }
     ]
   },
@@ -43,22 +43,7 @@
           2,
           4
         ],
-        "classroom": "C201"
-      }
-    ]
-  },
-  {
-    "code": "1439",
-    "group": "4",
-    "professor": "JANETT MONTAÑO SALAZAR",
-    "schedules": [
-      {
-        "time": "15:00-16:30",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "C201"
+        "classroom": "24"
       }
     ]
   }

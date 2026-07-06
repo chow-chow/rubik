@@ -2,6 +2,20 @@
   {
     "code": "1790",
     "group": "1",
+    "professor": "ZURAYA HUIZAR CRUZ",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          5
+        ],
+        "classroom": "35"
+      }
+    ]
+  },
+  {
+    "code": "1790",
+    "group": "2",
     "professor": "JOSE CARLOS DELGADO CHONG",
     "schedules": [
       {
@@ -9,7 +23,7 @@
         "days": [
           5
         ],
-        "classroom": "A102"
+        "classroom": "35"
       }
     ],
     "professor_id": 24305,
@@ -20,7 +34,7 @@
   },
   {
     "code": "1790",
-    "group": "2",
+    "group": "3",
     "professor": "JOSE CARLOS DIAZ SILVA",
     "schedules": [
       {
@@ -28,28 +42,9 @@
         "days": [
           5
         ],
-        "classroom": "A108"
+        "classroom": "35"
       }
     ]
-  },
-  {
-    "code": "1790",
-    "group": "3",
-    "professor": "MARCO JORGE ALBERTO RODRIGUEZ MARTINEZ",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          2
-        ],
-        "classroom": "A101"
-      }
-    ],
-    "professor_id": 68143,
-    "first_name": "Marco Jorge Alberto",
-    "last_name": "Rodríguez Martínez",
-    "rating": 8.9524,
-    "num_ratings": 21
   },
   {
     "code": "1790",
@@ -61,7 +56,7 @@
         "days": [
           5
         ],
-        "classroom": "A102"
+        "classroom": "35"
       }
     ],
     "professor_id": 24305,
@@ -80,7 +75,7 @@
         "days": [
           2
         ],
-        "classroom": "A104"
+        "classroom": "35"
       }
     ],
     "professor_id": 70316,
@@ -99,7 +94,7 @@
         "days": [
           4
         ],
-        "classroom": "A104"
+        "classroom": "35"
       }
     ],
     "professor_id": 70316,
@@ -114,11 +109,11 @@
     "professor": "MARCO JORGE ALBERTO RODRIGUEZ MARTINEZ",
     "schedules": [
       {
-        "time": "15:00-17:00",
+        "time": "13:00-15:00",
         "days": [
-          1
+          5
         ],
-        "classroom": "A103"
+        "classroom": "35"
       }
     ],
     "professor_id": 68143,
@@ -130,6 +125,25 @@
   {
     "code": "1790",
     "group": "8",
+    "professor": "MARCO JORGE ALBERTO RODRIGUEZ MARTINEZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1
+        ],
+        "classroom": "30"
+      }
+    ],
+    "professor_id": 68143,
+    "first_name": "Marco Jorge Alberto",
+    "last_name": "Rodríguez Martínez",
+    "rating": 8.9524,
+    "num_ratings": 21
+  },
+  {
+    "code": "1790",
+    "group": "9",
     "professor": "CARLOS AURELIO BERNAL ESPONDA",
     "schedules": [
       {
@@ -137,7 +151,7 @@
         "days": [
           2
         ],
-        "classroom": "A103"
+        "classroom": "35"
       }
     ],
     "professor_id": 68400,
@@ -148,34 +162,15 @@
   },
   {
     "code": "1790",
-    "group": "9",
-    "professor": "EDGARDO ULISES BENITEZ ESLAVA",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          2
-        ],
-        "classroom": "A106"
-      }
-    ],
-    "professor_id": 194888,
-    "first_name": "Edgardo Ulises",
-    "last_name": "Benítez Eslava",
-    "rating": 3.5,
-    "num_ratings": 2
-  },
-  {
-    "code": "1790",
     "group": "10",
     "professor": "JOSE MARTIN SERNA DE ANDA",
     "schedules": [
       {
-        "time": "17:00-19:00",
+        "time": "15:00-17:00",
         "days": [
-          2
+          4
         ],
-        "classroom": "A105"
+        "classroom": "35"
       }
     ],
     "professor_id": 155980,
@@ -187,20 +182,6 @@
   {
     "code": "1790",
     "group": "11",
-    "professor": "ZURAYA HUIZAR CRUZ",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          4
-        ],
-        "classroom": "A108"
-      }
-    ]
-  },
-  {
-    "code": "1790",
-    "group": "12",
     "professor": "ANGEL JULIAN AVILA AGUILAR",
     "schedules": [
       {
@@ -208,13 +189,32 @@
         "days": [
           1
         ],
-        "classroom": "A103"
+        "classroom": "35"
       }
     ],
     "professor_id": 189921,
     "first_name": "Angel Julian",
     "last_name": "Avila Aguilar",
     "rating": 9.0,
+    "num_ratings": 2
+  },
+  {
+    "code": "1790",
+    "group": "12",
+    "professor": "EDGARDO ULISES BENITEZ ESLAVA",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2
+        ],
+        "classroom": "35"
+      }
+    ],
+    "professor_id": 194888,
+    "first_name": "Edgardo Ulises",
+    "last_name": "Benítez Eslava",
+    "rating": 3.5,
     "num_ratings": 2
   },
   {
@@ -227,7 +227,7 @@
         "days": [
           1
         ],
-        "classroom": "A106"
+        "classroom": "35"
       }
     ],
     "professor_id": 167392,

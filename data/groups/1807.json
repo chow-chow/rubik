@@ -5,12 +5,12 @@
     "professor": "ARTURO RONQUILLO ARVIZU",
     "schedules": [
       {
-        "time": "07:00-09:00",
+        "time": "15:00-17:00",
         "days": [
           2,
           4
         ],
-        "classroom": "B303"
+        "classroom": "30"
       }
     ],
     "professor_id": 114508,
@@ -30,7 +30,7 @@
           2,
           4
         ],
-        "classroom": "O103"
+        "classroom": "30"
       }
     ],
     "professor_id": 154073,
@@ -50,7 +50,7 @@
           2,
           4
         ],
-        "classroom": "D003"
+        "classroom": "30"
       }
     ],
     "professor_id": 132604,
@@ -67,16 +67,9 @@
       {
         "time": "09:00-11:00",
         "days": [
-          3
-        ],
-        "classroom": "Y004"
-      },
-      {
-        "time": "09:00-11:00",
-        "days": [
           5
         ],
-        "classroom": "O103"
+        "classroom": "30"
       }
     ],
     "professor_id": 132604,

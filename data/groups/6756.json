@@ -9,7 +9,7 @@
         "days": [
           1
         ],
-        "classroom": "N005"
+        "classroom": "5"
       }
     ],
     "professor_id": 71864,
@@ -28,7 +28,7 @@
         "days": [
           1
         ],
-        "classroom": "N005"
+        "classroom": "5"
       }
     ]
   },
@@ -42,7 +42,7 @@
         "days": [
           1
         ],
-        "classroom": "N005"
+        "classroom": "5"
       }
     ]
   },
@@ -56,7 +56,7 @@
         "days": [
           1
         ],
-        "classroom": "N005"
+        "classroom": "5"
       }
     ],
     "professor_id": 98730,
@@ -75,7 +75,7 @@
         "days": [
           1
         ],
-        "classroom": "N005"
+        "classroom": "5"
       }
     ],
     "professor_id": 79858,
@@ -87,14 +87,14 @@
   {
     "code": "6756",
     "group": "6",
-    "professor": "Grupo cancelado, contactar a la División.",
+    "professor": "ALEJANDRO CORTES ESLAVA",
     "schedules": [
       {
-        "time": "13:00-15:00",
+        "time": "15:00-17:00",
         "days": [
           1
         ],
-        "classroom": "N005"
+        "classroom": "5"
       }
     ]
   },
@@ -108,7 +108,7 @@
         "days": [
           2
         ],
-        "classroom": "N005"
+        "classroom": "5"
       }
     ],
     "professor_id": 159597,
@@ -127,7 +127,7 @@
         "days": [
           2
         ],
-        "classroom": "N005"
+        "classroom": "5"
       }
     ]
   },
@@ -141,7 +141,7 @@
         "days": [
           2
         ],
-        "classroom": "N005"
+        "classroom": "5"
       }
     ]
   },
@@ -155,7 +155,7 @@
         "days": [
           4
         ],
-        "classroom": "N005"
+        "classroom": "5"
       }
     ]
   },
@@ -169,7 +169,7 @@
         "days": [
           4
         ],
-        "classroom": "N005"
+        "classroom": "5"
       }
     ]
   },
@@ -183,27 +183,46 @@
         "days": [
           4
         ],
-        "classroom": "N005"
+        "classroom": "5"
       }
     ]
   },
   {
     "code": "6756",
     "group": "14",
-    "professor": "SANTIAGO VALENCIA CAÑOLA",
+    "professor": "JOSE MELESIO SANCHEZ HUERTA",
     "schedules": [
       {
         "time": "13:00-15:00",
         "days": [
           5
         ],
-        "classroom": "N005"
+        "classroom": "5"
+      }
+    ],
+    "professor_id": 70740,
+    "first_name": "José Melesio",
+    "last_name": "Sánchez Huerta",
+    "rating": 6.6842,
+    "num_ratings": 19
+  },
+  {
+    "code": "6756",
+    "group": "15",
+    "professor": "LUIS ARTURO NAVARRO BAENA",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          5
+        ],
+        "classroom": "5"
       }
     ]
   },
   {
     "code": "6756",
-    "group": "15",
+    "group": "16",
     "professor": "ALEJANDRA MENDOZA CAMPOS",
     "schedules": [
       {
@@ -211,7 +230,7 @@
         "days": [
           5
         ],
-        "classroom": "N005"
+        "classroom": "5"
       }
     ],
     "professor_id": 186559,
@@ -222,7 +241,7 @@
   },
   {
     "code": "6756",
-    "group": "16",
+    "group": "17",
     "professor": "LUIS ARTURO NAVARRO BAENA",
     "schedules": [
       {
@@ -230,27 +249,8 @@
         "days": [
           5
         ],
-        "classroom": "N005"
+        "classroom": "5"
       }
     ]
-  },
-  {
-    "code": "6756",
-    "group": "17",
-    "professor": "ZAIRA LINETTE TORRES CORTES",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          5
-        ],
-        "classroom": "N005"
-      }
-    ],
-    "professor_id": 140654,
-    "first_name": "Zaira Linette",
-    "last_name": "Torres Cortés",
-    "rating": 8.4783,
-    "num_ratings": 23
   }
 ]

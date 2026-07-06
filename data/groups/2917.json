@@ -9,7 +9,7 @@
         "days": [
           2
         ],
-        "classroom": "EXTR"
+        "classroom": "10"
       }
     ],
     "professor_id": 178387,
@@ -28,7 +28,7 @@
         "days": [
           5
         ],
-        "classroom": "EXTR"
+        "classroom": "10"
       }
     ]
   },
@@ -42,7 +42,7 @@
         "days": [
           2
         ],
-        "classroom": "EXTR"
+        "classroom": "10"
       }
     ],
     "professor_id": 120294,
@@ -61,7 +61,7 @@
         "days": [
           1
         ],
-        "classroom": "EXTR"
+        "classroom": "10"
       }
     ]
   },
@@ -75,7 +75,7 @@
         "days": [
           5
         ],
-        "classroom": "EXTR"
+        "classroom": "10"
       }
     ]
   },
@@ -90,7 +90,7 @@
           4,
           5
         ],
-        "classroom": "EXTR"
+        "classroom": "10"
       }
     ]
   },
@@ -104,7 +104,7 @@
         "days": [
           5
         ],
-        "classroom": "EXTR"
+        "classroom": "10"
       }
     ],
     "professor_id": 141771,
@@ -116,21 +116,21 @@
   {
     "code": "2917",
     "group": "8",
-    "professor": "RICARDO TORRES MENDOZA",
+    "professor": "FLOR HERNANDEZ PADILLA",
     "schedules": [
       {
-        "time": "19:00-21:00",
+        "time": "09:00-11:00",
         "days": [
-          1
+          5
         ],
-        "classroom": "EXTR"
+        "classroom": "10"
       }
     ],
-    "professor_id": 142293,
-    "first_name": "Ricardo",
-    "last_name": "Torres Mendoza",
-    "rating": 9.2,
-    "num_ratings": 5
+    "professor_id": 94327,
+    "first_name": "Flor",
+    "last_name": "Hernández Padilla",
+    "rating": 5.65,
+    "num_ratings": 20
   },
   {
     "code": "2917",
@@ -142,7 +142,7 @@
         "days": [
           5
         ],
-        "classroom": "EXTR"
+        "classroom": "5"
       }
     ],
     "professor_id": 84656,
@@ -161,7 +161,7 @@
         "days": [
           4
         ],
-        "classroom": "EXTR"
+        "classroom": "10"
       }
     ]
   },
@@ -175,7 +175,7 @@
         "days": [
           2
         ],
-        "classroom": "EXTR"
+        "classroom": "10"
       }
     ],
     "professor_id": 84733,
@@ -194,7 +194,7 @@
         "days": [
           2
         ],
-        "classroom": "EXTR"
+        "classroom": "10"
       }
     ],
     "professor_id": 98611,
@@ -213,7 +213,7 @@
         "days": [
           1
         ],
-        "classroom": "EXTR"
+        "classroom": "10"
       }
     ]
   },
@@ -227,7 +227,7 @@
         "days": [
           1
         ],
-        "classroom": "EXTR"
+        "classroom": "10"
       }
     ],
     "professor_id": 56349,

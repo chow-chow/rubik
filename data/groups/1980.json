@@ -2,15 +2,14 @@
   {
     "code": "1980",
     "group": "1",
-    "professor": "DANIEL CABRERA SOTELO",
+    "professor": "LEONARDO MENESES LARIOS",
     "schedules": [
       {
-        "time": "17:00-19:00",
+        "time": "07:00-11:00",
         "days": [
-          2,
-          4
+          5
         ],
-        "classroom": "A205"
+        "classroom": "18"
       }
     ]
   },
@@ -20,12 +19,11 @@
     "professor": "IZA CANALES GARCIA",
     "schedules": [
       {
-        "time": "07:00-09:00",
+        "time": "07:00-11:00",
         "days": [
-          2,
-          4
+          5
         ],
-        "classroom": "C402"
+        "classroom": "18"
       }
     ],
     "professor_id": 64701,
@@ -44,7 +42,7 @@
         "days": [
           3
         ],
-        "classroom": "C105"
+        "classroom": "18"
       }
     ]
   }

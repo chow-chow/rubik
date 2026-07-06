@@ -9,7 +9,7 @@
         "days": [
           2
         ],
-        "classroom": "Q315"
+        "classroom": "6"
       }
     ],
     "professor_id": 89946,
@@ -21,6 +21,25 @@
   {
     "code": "6467",
     "group": "2",
+    "professor": "FLORICEL RAMOS VARGAS",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          4
+        ],
+        "classroom": "6"
+      }
+    ],
+    "professor_id": 89946,
+    "first_name": "FLORICEL",
+    "last_name": "RAMOS VARGAS",
+    "rating": 5.8974,
+    "num_ratings": 39
+  },
+  {
+    "code": "6467",
+    "group": "3",
     "professor": "ISMAEL ROMERO OCARANZA",
     "schedules": [
       {
@@ -28,7 +47,7 @@
         "days": [
           5
         ],
-        "classroom": "Q315"
+        "classroom": "6"
       }
     ],
     "professor_id": 89949,

@@ -10,14 +10,7 @@
           1,
           3
         ],
-        "classroom": "R031"
-      },
-      {
-        "time": "11:30-13:30",
-        "days": [
-          5
-        ],
-        "classroom": "R031"
+        "classroom": "10"
       }
     ]
   },
@@ -27,19 +20,11 @@
     "professor": "Grupo cancelado, contactar a la División.",
     "schedules": [
       {
-        "time": "16:00-17:30",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "A405"
-      },
-      {
-        "time": "16:00-18:00",
+        "time": "11:30-13:30",
         "days": [
           5
         ],
-        "classroom": "A405"
+        "classroom": "10"
       }
     ]
   }

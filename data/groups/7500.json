@@ -9,7 +9,7 @@
         "days": [
           6
         ],
-        "classroom": "O001"
+        "classroom": "12"
       }
     ],
     "professor_id": 166353,
@@ -28,14 +28,14 @@
         "days": [
           1
         ],
-        "classroom": "O001"
+        "classroom": "12"
       }
     ],
     "professor_id": 151773,
     "first_name": "Aurora",
     "last_name": "Gutierrez Morales",
-    "rating": 9.3333,
-    "num_ratings": 6
+    "rating": 9.125,
+    "num_ratings": 8
   },
   {
     "code": "7500",
@@ -47,7 +47,7 @@
         "days": [
           2
         ],
-        "classroom": "O001"
+        "classroom": "12"
       }
     ],
     "professor_id": 141917,
@@ -66,14 +66,14 @@
         "days": [
           3
         ],
-        "classroom": "O001"
+        "classroom": "12"
       }
     ],
     "professor_id": 71882,
     "first_name": "Roberto",
     "last_name": "Cisneros Hernandez",
-    "rating": 4.5758,
-    "num_ratings": 33
+    "rating": 4.7368,
+    "num_ratings": 38
   },
   {
     "code": "7500",
@@ -85,14 +85,14 @@
         "days": [
           5
         ],
-        "classroom": "O001"
+        "classroom": "12"
       }
     ],
     "professor_id": 102330,
     "first_name": "Israel",
     "last_name": "Garduño Garcia",
-    "rating": 7.6667,
-    "num_ratings": 12
+    "rating": 7.2857,
+    "num_ratings": 14
   },
   {
     "code": "7500",
@@ -104,7 +104,7 @@
         "days": [
           1
         ],
-        "classroom": "O001"
+        "classroom": "12"
       }
     ],
     "professor_id": 109955,
@@ -123,7 +123,7 @@
         "days": [
           2
         ],
-        "classroom": "O001"
+        "classroom": "12"
       }
     ],
     "professor_id": 66628,
@@ -142,7 +142,7 @@
         "days": [
           3
         ],
-        "classroom": "O001"
+        "classroom": "12"
       }
     ],
     "professor_id": 66628,
@@ -161,7 +161,7 @@
         "days": [
           4
         ],
-        "classroom": "O001"
+        "classroom": "12"
       }
     ],
     "professor_id": 66628,
@@ -180,37 +180,18 @@
         "days": [
           5
         ],
-        "classroom": "O001"
+        "classroom": "12"
       }
     ],
     "professor_id": 151773,
     "first_name": "Aurora",
     "last_name": "Gutierrez Morales",
-    "rating": 9.3333,
-    "num_ratings": 6
+    "rating": 9.125,
+    "num_ratings": 8
   },
   {
     "code": "7500",
     "group": "11",
-    "professor": "JESUS RAFAEL GONZALEZ PARRA",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          1
-        ],
-        "classroom": "O001"
-      }
-    ],
-    "professor_id": 149718,
-    "first_name": "JESUS RAFAEL",
-    "last_name": "GONZALEZ PARRA",
-    "rating": 6.1667,
-    "num_ratings": 12
-  },
-  {
-    "code": "7500",
-    "group": "12",
     "professor": "AURORA GUTIERREZ MORALES",
     "schedules": [
       {
@@ -218,18 +199,18 @@
         "days": [
           2
         ],
-        "classroom": "O001"
+        "classroom": "12"
       }
     ],
     "professor_id": 151773,
     "first_name": "Aurora",
     "last_name": "Gutierrez Morales",
-    "rating": 9.3333,
-    "num_ratings": 6
+    "rating": 9.125,
+    "num_ratings": 8
   },
   {
     "code": "7500",
-    "group": "13",
+    "group": "12",
     "professor": "ADRIAN MANCILLA VELASCO",
     "schedules": [
       {
@@ -237,7 +218,7 @@
         "days": [
           3
         ],
-        "classroom": "O001"
+        "classroom": "12"
       }
     ],
     "professor_id": 109955,
@@ -248,7 +229,7 @@
   },
   {
     "code": "7500",
-    "group": "14",
+    "group": "13",
     "professor": "DAVID MARTINEZ HERNANDEZ",
     "schedules": [
       {
@@ -256,18 +237,18 @@
         "days": [
           4
         ],
-        "classroom": "O001"
+        "classroom": "12"
       }
     ],
     "professor_id": 101528,
     "first_name": "David",
     "last_name": "Martínez Hernández",
-    "rating": 7.7727,
-    "num_ratings": 22
+    "rating": 8.0,
+    "num_ratings": 26
   },
   {
     "code": "7500",
-    "group": "15",
+    "group": "14",
     "professor": "ADRIAN MANCILLA VELASCO",
     "schedules": [
       {
@@ -275,7 +256,7 @@
         "days": [
           5
         ],
-        "classroom": "O001"
+        "classroom": "12"
       }
     ],
     "professor_id": 109955,
@@ -286,26 +267,7 @@
   },
   {
     "code": "7500",
-    "group": "16",
-    "professor": "ISRAEL GARDUÑO GARCIA",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          4
-        ],
-        "classroom": "O001"
-      }
-    ],
-    "professor_id": 102330,
-    "first_name": "Israel",
-    "last_name": "Garduño Garcia",
-    "rating": 7.6667,
-    "num_ratings": 12
-  },
-  {
-    "code": "7500",
-    "group": "17",
+    "group": "15",
     "professor": "DAVID MARTINEZ HERNANDEZ",
     "schedules": [
       {
@@ -313,18 +275,18 @@
         "days": [
           2
         ],
-        "classroom": "O001"
+        "classroom": "12"
       }
     ],
     "professor_id": 101528,
     "first_name": "David",
     "last_name": "Martínez Hernández",
-    "rating": 7.7727,
-    "num_ratings": 22
+    "rating": 8.0,
+    "num_ratings": 26
   },
   {
     "code": "7500",
-    "group": "18",
+    "group": "16",
     "professor": "DAVID MARTINEZ HERNANDEZ",
     "schedules": [
       {
@@ -332,18 +294,37 @@
         "days": [
           3
         ],
-        "classroom": "O001"
+        "classroom": "12"
       }
     ],
     "professor_id": 101528,
     "first_name": "David",
     "last_name": "Martínez Hernández",
-    "rating": 7.7727,
-    "num_ratings": 22
+    "rating": 8.0,
+    "num_ratings": 26
   },
   {
     "code": "7500",
-    "group": "19",
+    "group": "17",
+    "professor": "ISRAEL GARDUÑO GARCIA",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          4
+        ],
+        "classroom": "12"
+      }
+    ],
+    "professor_id": 102330,
+    "first_name": "Israel",
+    "last_name": "Garduño Garcia",
+    "rating": 7.2857,
+    "num_ratings": 14
+  },
+  {
+    "code": "7500",
+    "group": "18",
     "professor": "MARTIN REYES FARIAS",
     "schedules": [
       {
@@ -351,18 +332,18 @@
         "days": [
           5
         ],
-        "classroom": "O001"
+        "classroom": "12"
       }
     ],
     "professor_id": 51610,
     "first_name": "Martin Ing.",
     "last_name": "Reyes Farias",
-    "rating": 5.5588,
-    "num_ratings": 34
+    "rating": 5.6944,
+    "num_ratings": 36
   },
   {
     "code": "7500",
-    "group": "20",
+    "group": "19",
     "professor": "JOSE LUIS ALMARAZ MORENO",
     "schedules": [
       {
@@ -370,7 +351,7 @@
         "days": [
           3
         ],
-        "classroom": "O001"
+        "classroom": "12"
       }
     ],
     "professor_id": 141917,

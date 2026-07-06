@@ -2,77 +2,14 @@
   {
     "code": "2211",
     "group": "1",
-    "professor": "OMAR DE JESUS PEREZ",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "J103"
-      },
-      {
-        "time": "07:00-09:00",
-        "days": [
-          3
-        ],
-        "classroom": "H002"
-      }
-    ],
-    "professor_id": 90851,
-    "first_name": "OMAR ING.",
-    "last_name": "DE JESUS PEREZ",
-    "rating": 7.9184,
-    "num_ratings": 49
-  },
-  {
-    "code": "2211",
-    "group": "2",
-    "professor": "MARIA DEL PILAR AGUILAR DEL VALLE",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          3
-        ],
-        "classroom": "I105"
-      },
-      {
-        "time": "13:00-15:00",
-        "days": [
-          1
-        ],
-        "classroom": "I106"
-      },
-      {
-        "time": "13:00-15:00",
-        "days": [
-          5
-        ],
-        "classroom": "H002"
-      }
-    ]
-  },
-  {
-    "code": "2211",
-    "group": "3",
     "professor": "M. DEL CARMEN MALDONADO SUSANO",
     "schedules": [
       {
-        "time": "15:00-17:00",
+        "time": "09:00-11:00",
         "days": [
-          2,
-          4
+          5
         ],
-        "classroom": "J105"
-      },
-      {
-        "time": "15:00-17:00",
-        "days": [
-          3
-        ],
-        "classroom": "H002"
+        "classroom": "30"
       }
     ],
     "professor_id": 78275,
@@ -80,5 +17,25 @@
     "last_name": "Maldonado Susano",
     "rating": 9.4091,
     "num_ratings": 44
+  },
+  {
+    "code": "2211",
+    "group": "2",
+    "professor": "ELIZABETH AGUIRRE MALDONADO",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "30"
+      }
+    ],
+    "professor_id": 60632,
+    "first_name": "Elizabeth",
+    "last_name": "Aguirre Maldonado",
+    "rating": 6.6471,
+    "num_ratings": 51
   }
 ]

@@ -9,21 +9,7 @@
         "days": [
           5
         ],
-        "classroom": "O101"
-      }
-    ]
-  },
-  {
-    "code": "5992",
-    "group": "2",
-    "professor": "LEOPOLDO ADRIAN GONZALEZ GONZALEZ",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          4
-        ],
-        "classroom": "D002"
+        "classroom": "20"
       }
     ]
   },
@@ -37,7 +23,7 @@
         "days": [
           5
         ],
-        "classroom": "B202"
+        "classroom": "20"
       }
     ]
   },
@@ -49,9 +35,9 @@
       {
         "time": "17:00-19:00",
         "days": [
-          4
+          2
         ],
-        "classroom": "A311"
+        "classroom": "20"
       }
     ],
     "professor_id": 167496,

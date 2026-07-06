@@ -9,7 +9,7 @@
         "days": [
           6
         ],
-        "classroom": "A101"
+        "classroom": "37"
       }
     ],
     "professor_id": 67067,
@@ -29,13 +29,32 @@
           2,
           4
         ],
-        "classroom": "A104"
+        "classroom": "37"
       }
     ]
   },
   {
     "code": "1052",
     "group": "3",
+    "professor": "ENRIQUE OCTAVIO DIAZ CERON",
+    "schedules": [
+      {
+        "time": "09:00-13:00",
+        "days": [
+          5
+        ],
+        "classroom": "37"
+      }
+    ],
+    "professor_id": 105051,
+    "first_name": "Enrique Octavio",
+    "last_name": "Diaz Ceron",
+    "rating": 5.6667,
+    "num_ratings": 9
+  },
+  {
+    "code": "1052",
+    "group": "4",
     "professor": "SILVANA CITLALLI TORRES CAMPOY",
     "schedules": [
       {
@@ -44,28 +63,9 @@
           3,
           5
         ],
-        "classroom": "A202"
+        "classroom": "37"
       }
     ]
-  },
-  {
-    "code": "1052",
-    "group": "4",
-    "professor": "ENRIQUE OCTAVIO DIAZ CERON",
-    "schedules": [
-      {
-        "time": "09:00-13:00",
-        "days": [
-          5
-        ],
-        "classroom": "A105"
-      }
-    ],
-    "professor_id": 105051,
-    "first_name": "Enrique Octavio",
-    "last_name": "Diaz Ceron",
-    "rating": 5.6667,
-    "num_ratings": 9
   },
   {
     "code": "1052",
@@ -78,7 +78,7 @@
           1,
           3
         ],
-        "classroom": "A105"
+        "classroom": "37"
       }
     ],
     "professor_id": 98619,
@@ -90,17 +90,22 @@
   {
     "code": "1052",
     "group": "6",
-    "professor": "ALDO FERNANDO TRUJILLO PRIEGOVer Nota 1",
+    "professor": "ALDO FERNANDO TRUJILLO PRIEGO",
     "schedules": [
       {
         "time": "11:00-13:00",
         "days": [
-          2,
-          4
+          1,
+          3
         ],
-        "classroom": "A202"
+        "classroom": "37"
       }
-    ]
+    ],
+    "professor_id": 98613,
+    "first_name": "Aldo Fernando",
+    "last_name": "Priego Trujillo",
+    "rating": 5.5,
+    "num_ratings": 10
   },
   {
     "code": "1052",
@@ -113,7 +118,7 @@
           2,
           4
         ],
-        "classroom": "A102"
+        "classroom": "37"
       }
     ],
     "professor_id": 36978,
@@ -133,7 +138,7 @@
           3,
           5
         ],
-        "classroom": "A202"
+        "classroom": "37"
       }
     ],
     "professor_id": 99011,
@@ -145,26 +150,6 @@
   {
     "code": "1052",
     "group": "9",
-    "professor": "MARTHA MANCILLA URREA",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "A106"
-      }
-    ],
-    "professor_id": 98619,
-    "first_name": "Martha",
-    "last_name": "Mancilla Urrea",
-    "rating": 5.1176,
-    "num_ratings": 17
-  },
-  {
-    "code": "1052",
-    "group": "10",
     "professor": "ANA LUISA SELENE ALVAREZ CARRILLO",
     "schedules": [
       {
@@ -173,7 +158,7 @@
           1,
           3
         ],
-        "classroom": "A103"
+        "classroom": "37"
       }
     ],
     "professor_id": 71332,
@@ -184,7 +169,42 @@
   },
   {
     "code": "1052",
+    "group": "10",
+    "professor": "MARTHA MANCILLA URREA",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "37"
+      }
+    ],
+    "professor_id": 98619,
+    "first_name": "Martha",
+    "last_name": "Mancilla Urrea",
+    "rating": 5.1176,
+    "num_ratings": 17
+  },
+  {
+    "code": "1052",
     "group": "11",
+    "professor": "RODOLFO CARLOS PRIETO MENDOZA",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1,
+          5
+        ],
+        "classroom": "37"
+      }
+    ]
+  },
+  {
+    "code": "1052",
+    "group": "12",
     "professor": "ALDO FERNANDO TRUJILLO PRIEGO",
     "schedules": [
       {
@@ -193,7 +213,7 @@
           2,
           4
         ],
-        "classroom": "A202"
+        "classroom": "37"
       }
     ],
     "professor_id": 98613,
@@ -204,7 +224,7 @@
   },
   {
     "code": "1052",
-    "group": "12",
+    "group": "13",
     "professor": "OLINCA SUAREZ MEJIA",
     "schedules": [
       {
@@ -212,7 +232,7 @@
         "days": [
           5
         ],
-        "classroom": "A202"
+        "classroom": "37"
       }
     ],
     "professor_id": 67067,
@@ -223,7 +243,7 @@
   },
   {
     "code": "1052",
-    "group": "13",
+    "group": "14",
     "professor": "OCTAVIO EDUARDO VIZCAYA XILOTL",
     "schedules": [
       {
@@ -232,7 +252,7 @@
           2,
           4
         ],
-        "classroom": "A104"
+        "classroom": "37"
       }
     ],
     "professor_id": 171569,
@@ -243,22 +263,26 @@
   },
   {
     "code": "1052",
-    "group": "14",
-    "professor": "NORMA ANGELICA OCAMPO MENDOZA",
+    "group": "15",
+    "professor": "RICARDO TRANSITO SANTOS",
     "schedules": [
       {
-        "time": "15:00-17:00",
+        "time": "15:00-19:00",
         "days": [
-          2,
-          4
+          5
         ],
-        "classroom": "A202"
+        "classroom": "37"
       }
-    ]
+    ],
+    "professor_id": 182424,
+    "first_name": "Ricardo",
+    "last_name": "Tránsito Santos",
+    "rating": 8.0,
+    "num_ratings": 2
   },
   {
     "code": "1052",
-    "group": "15",
+    "group": "16",
     "professor": "ANGELA RENATA GOMEZ GONZALEZ",
     "schedules": [
       {
@@ -267,7 +291,7 @@
           3,
           5
         ],
-        "classroom": "A105"
+        "classroom": "37"
       }
     ],
     "professor_id": 99011,
@@ -278,41 +302,23 @@
   },
   {
     "code": "1052",
-    "group": "16",
-    "professor": "ENRIQUE OCTAVIO DIAZ CERON",
-    "schedules": [
-      {
-        "time": "15:00-19:00",
-        "days": [
-          5
-        ],
-        "classroom": "Y101"
-      }
-    ],
-    "professor_id": 105051,
-    "first_name": "Enrique Octavio",
-    "last_name": "Diaz Ceron",
-    "rating": 5.6667,
-    "num_ratings": 9
-  },
-  {
-    "code": "1052",
     "group": "17",
-    "professor": "RICARDO TRANSITO SANTOS",
+    "professor": "AMELIA GUADALUPE FIEL RIVERA",
     "schedules": [
       {
-        "time": "15:00-19:00",
+        "time": "17:00-19:00",
         "days": [
-          5
+          1,
+          3
         ],
-        "classroom": "Y102"
+        "classroom": "37"
       }
     ],
-    "professor_id": 182424,
-    "first_name": "Ricardo",
-    "last_name": "Tránsito Santos",
-    "rating": 8.0,
-    "num_ratings": 2
+    "professor_id": 62947,
+    "first_name": "Amelia Guadalupe",
+    "last_name": "Fiel Rivera",
+    "rating": 8.4,
+    "num_ratings": 5
   },
   {
     "code": "1052",
@@ -325,33 +331,13 @@
           1,
           3
         ],
-        "classroom": "A108"
+        "classroom": "37"
       }
     ]
   },
   {
     "code": "1052",
     "group": "19",
-    "professor": "OLINCA SUAREZ MEJIA",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "A102"
-      }
-    ],
-    "professor_id": 67067,
-    "first_name": "Olinca",
-    "last_name": "Suárez Mejía",
-    "rating": 7.45,
-    "num_ratings": 40
-  },
-  {
-    "code": "1052",
-    "group": "20",
     "professor": "OCTAVIO EDUARDO VIZCAYA XILOTL",
     "schedules": [
       {
@@ -360,7 +346,7 @@
           2,
           4
         ],
-        "classroom": "A104"
+        "classroom": "37"
       }
     ],
     "professor_id": 171569,
@@ -368,6 +354,26 @@
     "last_name": "Vizcaya Xilotl",
     "rating": 9.4444,
     "num_ratings": 9
+  },
+  {
+    "code": "1052",
+    "group": "20",
+    "professor": "OLINCA SUAREZ MEJIA",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "37"
+      }
+    ],
+    "professor_id": 67067,
+    "first_name": "Olinca",
+    "last_name": "Suárez Mejía",
+    "rating": 7.45,
+    "num_ratings": 40
   },
   {
     "code": "1052",
@@ -380,7 +386,7 @@
           3,
           5
         ],
-        "classroom": "A105"
+        "classroom": "37"
       }
     ],
     "professor_id": 99011,
@@ -400,22 +406,42 @@
           1,
           3
         ],
-        "classroom": "Y102"
+        "classroom": "37"
       }
     ]
   },
   {
     "code": "1052",
     "group": "23",
+    "professor": "RENE ALVAREZ GUTIERREZ",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "37"
+      }
+    ],
+    "professor_id": 149430,
+    "first_name": "Rene",
+    "last_name": "Alvarez Gutierrez",
+    "rating": 10.0,
+    "num_ratings": 8
+  },
+  {
+    "code": "1052",
+    "group": "24",
     "professor": "HUGO ULISES CRUZ",
     "schedules": [
       {
         "time": "19:00-21:00",
         "days": [
-          1,
-          3
+          2,
+          4
         ],
-        "classroom": "A104"
+        "classroom": "37"
       }
     ],
     "professor_id": 90265,
@@ -426,7 +452,7 @@
   },
   {
     "code": "1052",
-    "group": "24",
+    "group": "25",
     "professor": "MARIA DE LA LUZ GONZALEZ COVARRUBIAS",
     "schedules": [
       {
@@ -435,43 +461,23 @@
           1,
           3
         ],
-        "classroom": "A105"
-      }
-    ]
-  },
-  {
-    "code": "1052",
-    "group": "25",
-    "professor": "GABRIEL CUE GUERRERO",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "Y102"
+        "classroom": "37"
       }
     ]
   },
   {
     "code": "1052",
     "group": "26",
-    "professor": "RENE ALVAREZ GUTIERREZ",
+    "professor": "GABRIEL CUE GUERRERO",
     "schedules": [
       {
         "time": "19:00-21:00",
         "days": [
-          2,
-          4
+          3,
+          5
         ],
-        "classroom": "Y101"
+        "classroom": "37"
       }
-    ],
-    "professor_id": 149430,
-    "first_name": "Rene",
-    "last_name": "Alvarez Gutierrez",
-    "rating": 10.0,
-    "num_ratings": 8
+    ]
   }
 ]

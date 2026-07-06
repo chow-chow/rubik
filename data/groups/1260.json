@@ -2,21 +2,15 @@
   {
     "code": "1260",
     "group": "1",
-    "professor": "Grupo cancelado, contactar a la División.",
+    "professor": "BARBARA BERMUDEZ REYESVer Nota 1",
     "schedules": [
       {
-        "time": "11:30-13:00",
+        "time": "19:00-20:30",
         "days": [
+          2,
           4
         ],
-        "classroom": "Y204"
-      },
-      {
-        "time": "11:30-13:00",
-        "days": [
-          5
-        ],
-        "classroom": "A405"
+        "classroom": "15"
       }
     ]
   }

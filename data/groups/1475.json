@@ -2,21 +2,20 @@
   {
     "code": "1475",
     "group": "1",
-    "professor": "MIGUEL ANGEL JAIME VASCONCELOS",
+    "professor": "EHECATL LUIS DAVID PALEO GONZALEZ",
     "schedules": [
       {
-        "time": "09:00-11:00",
+        "time": "11:00-13:00",
         "days": [
-          2,
-          4
+          5
         ],
-        "classroom": "I205"
+        "classroom": "35"
       }
     ],
-    "professor_id": 42088,
-    "first_name": "MIGUEL ANGEL",
-    "last_name": "JAIME VASCONCELOS",
-    "rating": 8.1594,
-    "num_ratings": 69
+    "professor_id": 84416,
+    "first_name": "Ehecatl Luis",
+    "last_name": "Paleo González",
+    "rating": 6.4516,
+    "num_ratings": 31
   }
 ]

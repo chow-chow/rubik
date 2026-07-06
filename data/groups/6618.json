@@ -9,7 +9,7 @@
         "days": [
           1
         ],
-        "classroom": "Q108"
+        "classroom": "20"
       }
     ],
     "professor_id": 21291,
@@ -21,25 +21,6 @@
   {
     "code": "6618",
     "group": "2",
-    "professor": "DOMINGO TEODORO MENDOZA ROSALES",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          1
-        ],
-        "classroom": "Q107"
-      }
-    ],
-    "professor_id": 71346,
-    "first_name": "Domingo Teodoro",
-    "last_name": "Mendoza Rosales",
-    "rating": 6.9565,
-    "num_ratings": 69
-  },
-  {
-    "code": "6618",
-    "group": "3",
     "professor": "SALVADOR EMILIO SIERRA BENAVIDEZ",
     "schedules": [
       {
@@ -47,13 +28,13 @@
         "days": [
           2
         ],
-        "classroom": "Q108"
+        "classroom": "20"
       }
     ]
   },
   {
     "code": "6618",
-    "group": "4",
+    "group": "3",
     "professor": "JAVIER LOPEZ VELAZQUEZ",
     "schedules": [
       {
@@ -61,7 +42,7 @@
         "days": [
           2
         ],
-        "classroom": "Q108"
+        "classroom": "20"
       }
     ],
     "professor_id": 94353,
@@ -72,7 +53,7 @@
   },
   {
     "code": "6618",
-    "group": "5",
+    "group": "4",
     "professor": "FRANCISCO JAVIER MARTINEZ RODRIGUEZ",
     "schedules": [
       {
@@ -80,7 +61,7 @@
         "days": [
           3
         ],
-        "classroom": "Q107"
+        "classroom": "20"
       }
     ],
     "professor_id": 99064,
@@ -91,7 +72,7 @@
   },
   {
     "code": "6618",
-    "group": "6",
+    "group": "5",
     "professor": "DOMINGO TEODORO MENDOZA ROSALES",
     "schedules": [
       {
@@ -99,7 +80,7 @@
         "days": [
           3
         ],
-        "classroom": "Q107"
+        "classroom": "20"
       }
     ],
     "professor_id": 71346,
@@ -110,7 +91,7 @@
   },
   {
     "code": "6618",
-    "group": "7",
+    "group": "6",
     "professor": "JAVIER LOPEZ VELAZQUEZ",
     "schedules": [
       {
@@ -118,7 +99,7 @@
         "days": [
           3
         ],
-        "classroom": "Q108"
+        "classroom": "20"
       }
     ],
     "professor_id": 94353,
@@ -129,7 +110,7 @@
   },
   {
     "code": "6618",
-    "group": "8",
+    "group": "7",
     "professor": "JOSE RODELMAR OCAMPO SANTILLAN",
     "schedules": [
       {
@@ -137,7 +118,7 @@
         "days": [
           5
         ],
-        "classroom": "Q109"
+        "classroom": "20"
       }
     ],
     "professor_id": 124065,
@@ -148,7 +129,7 @@
   },
   {
     "code": "6618",
-    "group": "9",
+    "group": "8",
     "professor": "JESUS MARIA FRANCISCO HERNANDEZ MORALES",
     "schedules": [
       {
@@ -156,7 +137,7 @@
         "days": [
           5
         ],
-        "classroom": "Q109"
+        "classroom": "20"
       }
     ],
     "professor_id": 80201,
@@ -164,38 +145,5 @@
     "last_name": "HERNANDEZ MORALES",
     "rating": 6.1111,
     "num_ratings": 18
-  },
-  {
-    "code": "6618",
-    "group": "10",
-    "professor": "ISMAEL ROMERO OCARANZA",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          5
-        ],
-        "classroom": "Q108"
-      }
-    ],
-    "professor_id": 89949,
-    "first_name": "ISMAEL",
-    "last_name": "ROMERO OCARANZA",
-    "rating": 6.2963,
-    "num_ratings": 27
-  },
-  {
-    "code": "6618",
-    "group": "11",
-    "professor": "SALVADOR EMILIO SIERRA BENAVIDEZ",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          3
-        ],
-        "classroom": "Q107"
-      }
-    ]
   }
 ]

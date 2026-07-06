@@ -2,21 +2,30 @@
   {
     "code": "1279",
     "group": "1",
-    "professor": "CARLOS ROMO FUENTES",
+    "professor": "CARLOS ROMO FUENTESVer Nota 1",
     "schedules": [
       {
-        "time": "11:30-13:00",
+        "time": "11:00-12:30",
         "days": [
           1,
           3
         ],
-        "classroom": "U302"
+        "classroom": "15"
       }
-    ],
-    "professor_id": 142940,
-    "first_name": "Carlos",
-    "last_name": "Romo Fuentes",
-    "rating": 6.0833,
-    "num_ratings": 12
+    ]
+  },
+  {
+    "code": "1279",
+    "group": "2",
+    "professor": "GIBRAN JALIL GARNICA CASTROVer Nota 1",
+    "schedules": [
+      {
+        "time": "13:00-14:30",
+        "days": [
+          2
+        ],
+        "classroom": "15"
+      }
+    ]
   }
 ]

@@ -11,7 +11,7 @@
           3,
           5
         ],
-        "classroom": "U303"
+        "classroom": "28"
       }
     ],
     "professor_id": 154735,
@@ -32,7 +32,7 @@
           3,
           5
         ],
-        "classroom": "A307"
+        "classroom": "28"
       }
     ],
     "professor_id": 184691,
@@ -53,7 +53,7 @@
           3,
           5
         ],
-        "classroom": "U303"
+        "classroom": "28"
       }
     ],
     "professor_id": 154735,
@@ -65,44 +65,37 @@
   {
     "code": "1731",
     "group": "4",
-    "professor": "GUILLERMO MANCILLA URREA",
+    "professor": "JUAN ANTONIO DEL VALLE FLORES",
     "schedules": [
       {
-        "time": "16:00-17:30",
+        "time": "13:00-15:15",
         "days": [
           1,
-          3,
-          5
+          3
         ],
-        "classroom": "A303"
+        "classroom": "28"
       }
     ],
-    "professor_id": 104937,
-    "first_name": "GUILLERMO",
-    "last_name": "MANCILLA URREA",
-    "rating": 8.4545,
-    "num_ratings": 22
+    "professor_id": 135807,
+    "first_name": "Juan Antonio",
+    "last_name": "Del Valle Flores",
+    "rating": 6.3333,
+    "num_ratings": 6
   },
   {
     "code": "1731",
     "group": "5",
-    "professor": "GUILLERMO MANCILLA URREA",
+    "professor": "Grupo cancelado, contactar a la División.",
     "schedules": [
       {
-        "time": "17:30-19:00",
+        "time": "13:00-15:15",
         "days": [
-          1,
-          3,
-          5
+          2,
+          4
         ],
-        "classroom": "A303"
+        "classroom": "28"
       }
-    ],
-    "professor_id": 104937,
-    "first_name": "GUILLERMO",
-    "last_name": "MANCILLA URREA",
-    "rating": 8.4545,
-    "num_ratings": 22
+    ]
   },
   {
     "code": "1731",
@@ -115,7 +108,7 @@
           2,
           4
         ],
-        "classroom": "A309"
+        "classroom": "28"
       }
     ],
     "professor_id": 72178,

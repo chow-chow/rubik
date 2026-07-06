@@ -1,7 +1,7 @@
 [
   {
     "code": "1998",
-    "group": "2",
+    "group": "1",
     "professor": "ALEJANDRO BAEZ MUÑOZ",
     "schedules": [
       {
@@ -10,7 +10,7 @@
           1,
           3
         ],
-        "classroom": "B408"
+        "classroom": "35"
       }
     ],
     "professor_id": 118946,
@@ -21,7 +21,7 @@
   },
   {
     "code": "1998",
-    "group": "3",
+    "group": "2",
     "professor": "GONZALO SANDOVAL RODRIGUEZ",
     "schedules": [
       {
@@ -30,7 +30,7 @@
           2,
           4
         ],
-        "classroom": "B305"
+        "classroom": "35"
       }
     ],
     "professor_id": 155707,
@@ -41,28 +41,28 @@
   },
   {
     "code": "1998",
-    "group": "4",
-    "professor": "FREDERIC TRILLAUD",
+    "group": "5",
+    "professor": "RUBEN TAPIA OLVERA",
     "schedules": [
       {
-        "time": "11:00-13:00",
+        "time": "17:00-19:00",
         "days": [
-          2,
-          4
+          1,
+          3
         ],
-        "classroom": "S201"
+        "classroom": "25"
       }
     ],
-    "professor_id": 102987,
-    "first_name": "Frederic",
-    "last_name": "Trillaud",
-    "rating": 6.2857,
-    "num_ratings": 14
+    "professor_id": 95192,
+    "first_name": "Ruben",
+    "last_name": "Tapia Olvera",
+    "rating": 6.5385,
+    "num_ratings": 26
   },
   {
     "code": "1998",
-    "group": "5",
-    "professor": "GONZALO SANDOVAL RODRIGUEZ",
+    "group": "6",
+    "professor": "FREDERIC TRILLAUD",
     "schedules": [
       {
         "time": "09:00-11:00",
@@ -70,13 +70,13 @@
           2,
           4
         ],
-        "classroom": "B401"
+        "classroom": "30"
       }
     ],
-    "professor_id": 155707,
-    "first_name": "Gonzalo",
-    "last_name": "Sandoval Rodriguez",
-    "rating": 5.0,
+    "professor_id": 102987,
+    "first_name": "Frederic",
+    "last_name": "Trillaud",
+    "rating": 6.2857,
     "num_ratings": 14
   }
 ]

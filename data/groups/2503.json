@@ -11,7 +11,7 @@
           3,
           5
         ],
-        "classroom": "B406"
+        "classroom": "15"
       }
     ],
     "professor_id": 104881,
@@ -19,20 +19,5 @@
     "last_name": "Tejero Andrade",
     "rating": 4.5556,
     "num_ratings": 9
-  },
-  {
-    "code": "2503",
-    "group": "2",
-    "professor": "MANUEL ORTIZ OSIO",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "D007"
-      }
-    ]
   }
 ]

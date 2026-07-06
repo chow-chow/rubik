@@ -9,7 +9,7 @@
         "days": [
           1
         ],
-        "classroom": "N005"
+        "classroom": "5"
       }
     ],
     "professor_id": 162159,
@@ -28,7 +28,7 @@
         "days": [
           1
         ],
-        "classroom": "N005"
+        "classroom": "5"
       }
     ],
     "professor_id": 162159,
@@ -47,7 +47,7 @@
         "days": [
           1
         ],
-        "classroom": "N005"
+        "classroom": "5"
       }
     ],
     "professor_id": 149511,
@@ -66,7 +66,7 @@
         "days": [
           1
         ],
-        "classroom": "N005"
+        "classroom": "5"
       }
     ],
     "professor_id": 79858,
@@ -85,7 +85,7 @@
         "days": [
           1
         ],
-        "classroom": "N005"
+        "classroom": "5"
       }
     ],
     "professor_id": 93961,
@@ -104,7 +104,7 @@
         "days": [
           1
         ],
-        "classroom": "N005"
+        "classroom": "5"
       }
     ]
   },
@@ -118,7 +118,7 @@
         "days": [
           1
         ],
-        "classroom": "N005"
+        "classroom": "5"
       }
     ]
   },
@@ -132,40 +132,21 @@
         "days": [
           1
         ],
-        "classroom": "N005"
+        "classroom": "5"
       }
     ]
   },
   {
     "code": "5462",
     "group": "9",
-    "professor": "JUAN ANTONIO SANDOVAL RODRIGUEZ",
+    "professor": "FERMIN MAYA ROMERO",
     "schedules": [
       {
         "time": "09:00-11:00",
         "days": [
           2
         ],
-        "classroom": "N005"
-      }
-    ],
-    "professor_id": 71990,
-    "first_name": "Juan Antonio",
-    "last_name": "Sandoval Rodríguez",
-    "rating": 8.4118,
-    "num_ratings": 17
-  },
-  {
-    "code": "5462",
-    "group": "10",
-    "professor": "JOAQUIN LEONEL REYES GARCIA",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          2
-        ],
-        "classroom": "N005"
+        "classroom": "5"
       }
     ]
   },
@@ -179,7 +160,7 @@
         "days": [
           2
         ],
-        "classroom": "N005"
+        "classroom": "5"
       }
     ],
     "professor_id": 79858,
@@ -198,7 +179,7 @@
         "days": [
           2
         ],
-        "classroom": "N005"
+        "classroom": "5"
       }
     ]
   },
@@ -212,7 +193,7 @@
         "days": [
           3
         ],
-        "classroom": "N005"
+        "classroom": "5"
       }
     ]
   },
@@ -226,7 +207,7 @@
         "days": [
           3
         ],
-        "classroom": "N005"
+        "classroom": "5"
       }
     ],
     "professor_id": 186559,
@@ -245,7 +226,7 @@
         "days": [
           4
         ],
-        "classroom": "N005"
+        "classroom": "5"
       }
     ]
   },
@@ -259,21 +240,7 @@
         "days": [
           4
         ],
-        "classroom": "N005"
-      }
-    ]
-  },
-  {
-    "code": "5462",
-    "group": "17",
-    "professor": "JOAQUIN LEONEL REYES GARCIA",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          4
-        ],
-        "classroom": "N005"
+        "classroom": "5"
       }
     ]
   },
@@ -287,7 +254,7 @@
         "days": [
           4
         ],
-        "classroom": "N005"
+        "classroom": "5"
       }
     ]
   },
@@ -301,7 +268,7 @@
         "days": [
           4
         ],
-        "classroom": "N005"
+        "classroom": "5"
       }
     ]
   },
@@ -315,7 +282,7 @@
         "days": [
           4
         ],
-        "classroom": "N005"
+        "classroom": "5"
       }
     ]
   },
@@ -329,7 +296,7 @@
         "days": [
           4
         ],
-        "classroom": "N005"
+        "classroom": "5"
       }
     ],
     "professor_id": 186559,
@@ -348,7 +315,7 @@
         "days": [
           4
         ],
-        "classroom": "N005"
+        "classroom": "5"
       }
     ],
     "professor_id": 70577,
@@ -359,26 +326,7 @@
   },
   {
     "code": "5462",
-    "group": "24",
-    "professor": "JOSE MELESIO SANCHEZ HUERTA",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          5
-        ],
-        "classroom": "N005"
-      }
-    ],
-    "professor_id": 70740,
-    "first_name": "José Melesio",
-    "last_name": "Sánchez Huerta",
-    "rating": 6.6842,
-    "num_ratings": 19
-  },
-  {
-    "code": "5462",
-    "group": "25",
+    "group": "23",
     "professor": "MIGUEL ANGEL GARCIA AVILA",
     "schedules": [
       {
@@ -386,7 +334,7 @@
         "days": [
           5
         ],
-        "classroom": "N005"
+        "classroom": "5"
       }
     ],
     "professor_id": 162159,
@@ -397,7 +345,7 @@
   },
   {
     "code": "5462",
-    "group": "26",
+    "group": "24",
     "professor": "FERMIN MAYA ROMERO",
     "schedules": [
       {
@@ -405,7 +353,7 @@
         "days": [
           5
         ],
-        "classroom": "N005"
+        "classroom": "5"
       }
     ]
   }

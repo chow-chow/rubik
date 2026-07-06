@@ -9,7 +9,7 @@
         "days": [
           1
         ],
-        "classroom": "Q109"
+        "classroom": "18"
       }
     ],
     "professor_id": 80201,
@@ -28,7 +28,7 @@
         "days": [
           1
         ],
-        "classroom": "Q109"
+        "classroom": "18"
       }
     ],
     "professor_id": 71346,
@@ -47,7 +47,7 @@
         "days": [
           2
         ],
-        "classroom": "Q109"
+        "classroom": "18"
       }
     ],
     "professor_id": 80201,
@@ -62,11 +62,11 @@
     "professor": "MANUEL ALBERTO SORIANO AVILA",
     "schedules": [
       {
-        "time": "17:00-19:00",
+        "time": "13:00-15:00",
         "days": [
           2
         ],
-        "classroom": "Q109"
+        "classroom": "18"
       }
     ],
     "professor_id": 149502,
@@ -85,7 +85,7 @@
         "days": [
           3
         ],
-        "classroom": "Q109"
+        "classroom": "18"
       }
     ],
     "professor_id": 71346,
@@ -104,7 +104,7 @@
         "days": [
           4
         ],
-        "classroom": "Q109"
+        "classroom": "18"
       }
     ]
   }

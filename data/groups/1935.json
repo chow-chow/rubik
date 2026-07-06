@@ -11,7 +11,7 @@
           3,
           5
         ],
-        "classroom": "A212"
+        "classroom": "22"
       }
     ],
     "professor_id": 146710,
@@ -26,19 +26,56 @@
     "professor": "DULCE MARIA CISNEROS PERALTA",
     "schedules": [
       {
-        "time": "08:30-10:00",
+        "time": "14:30-16:00",
         "days": [
           1,
           3,
           5
         ],
-        "classroom": "A204"
+        "classroom": "22"
       }
     ]
   },
   {
     "code": "1935",
     "group": "3",
+    "professor": "CRISTIAN EMMANUEL GONZALEZ REYES",
+    "schedules": [
+      {
+        "time": "10:00-11:30",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "22"
+      }
+    ],
+    "professor_id": 185901,
+    "first_name": "Cristian Emmanuel",
+    "last_name": "González Reyes",
+    "rating": 6.5,
+    "num_ratings": 2
+  },
+  {
+    "code": "1935",
+    "group": "4",
+    "professor": "ALBA BEATRIZ VAZQUEZ GONZALEZ",
+    "schedules": [
+      {
+        "time": "11:30-13:00",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "22"
+      }
+    ]
+  },
+  {
+    "code": "1935",
+    "group": "5",
     "professor": "LUIS ANTONIO GARCIA VILLANUEVA",
     "schedules": [
       {
@@ -48,7 +85,7 @@
           3,
           5
         ],
-        "classroom": "A307"
+        "classroom": "22"
       }
     ],
     "professor_id": 79610,
@@ -59,17 +96,17 @@
   },
   {
     "code": "1935",
-    "group": "4",
+    "group": "6",
     "professor": "ALEJANDRA MEDINA AREVALO",
     "schedules": [
       {
-        "time": "16:00-17:30",
+        "time": "19:00-20:30",
         "days": [
           1,
           3,
           5
         ],
-        "classroom": "SIN"
+        "classroom": "22"
       }
     ],
     "professor_id": 108907,

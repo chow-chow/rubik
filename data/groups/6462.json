@@ -9,7 +9,7 @@
         "days": [
           1
         ],
-        "classroom": "Q316"
+        "classroom": "7"
       }
     ],
     "professor_id": 130840,
@@ -28,7 +28,7 @@
         "days": [
           3
         ],
-        "classroom": "Q316"
+        "classroom": "7"
       }
     ],
     "professor_id": 130840,
@@ -36,5 +36,43 @@
     "last_name": "Ramírez Cruz",
     "rating": 9.4583,
     "num_ratings": 24
+  },
+  {
+    "code": "6462",
+    "group": "3",
+    "professor": "NORMA REYES CRUZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2
+        ],
+        "classroom": "7"
+      }
+    ],
+    "professor_id": 141855,
+    "first_name": "Norma",
+    "last_name": "Reyes Cruz",
+    "rating": 8.3333,
+    "num_ratings": 6
+  },
+  {
+    "code": "6462",
+    "group": "4",
+    "professor": "CHRISTIAN HERNANDEZ SANTIAGO",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          5
+        ],
+        "classroom": "7"
+      }
+    ],
+    "professor_id": 94393,
+    "first_name": "CHRISTIAN",
+    "last_name": "HERNANDEZ SANTIAGO",
+    "rating": 9.3889,
+    "num_ratings": 18
   }
 ]

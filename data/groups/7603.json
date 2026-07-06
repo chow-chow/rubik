@@ -9,7 +9,7 @@
         "days": [
           1
         ],
-        "classroom": "O005"
+        "classroom": "11"
       }
     ]
   },
@@ -23,7 +23,7 @@
         "days": [
           1
         ],
-        "classroom": "O005"
+        "classroom": "11"
       }
     ],
     "professor_id": 74730,
@@ -42,7 +42,7 @@
         "days": [
           3
         ],
-        "classroom": "O005"
+        "classroom": "11"
       }
     ],
     "professor_id": 74730,
@@ -61,7 +61,7 @@
         "days": [
           1
         ],
-        "classroom": "O005"
+        "classroom": "11"
       }
     ],
     "professor_id": 102330,
@@ -69,20 +69,6 @@
     "last_name": "Garduño Garcia",
     "rating": 7.2857,
     "num_ratings": 14
-  },
-  {
-    "code": "7603",
-    "group": "5",
-    "professor": "ALAN MICHELL RAMIREZ PEÑA",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          5
-        ],
-        "classroom": "O005"
-      }
-    ]
   },
   {
     "code": "7603",
@@ -94,7 +80,7 @@
         "days": [
           1
         ],
-        "classroom": "O005"
+        "classroom": "11"
       }
     ],
     "professor_id": 190647,
@@ -113,7 +99,7 @@
         "days": [
           2
         ],
-        "classroom": "O005"
+        "classroom": "11"
       }
     ],
     "professor_id": 112014,
@@ -132,7 +118,7 @@
         "days": [
           3
         ],
-        "classroom": "O005"
+        "classroom": "11"
       }
     ],
     "professor_id": 190647,
@@ -151,7 +137,7 @@
         "days": [
           4
         ],
-        "classroom": "O005"
+        "classroom": "11"
       }
     ],
     "professor_id": 190647,
@@ -166,11 +152,11 @@
     "professor": "OSVALDO RUIZ CERVANTES",
     "schedules": [
       {
-        "time": "15:00-17:00",
+        "time": "19:00-21:00",
         "days": [
           2
         ],
-        "classroom": "O005"
+        "classroom": "11"
       }
     ],
     "professor_id": 90646,
@@ -189,7 +175,7 @@
         "days": [
           3
         ],
-        "classroom": "O005"
+        "classroom": "11"
       }
     ],
     "professor_id": 124462,

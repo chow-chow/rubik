@@ -2,15 +2,15 @@
   {
     "code": "2815",
     "group": "1",
-    "professor": "Grupo cancelado, contactar a la División.",
+    "professor": "JULIAN ZAPOTITLA ROMAN",
     "schedules": [
       {
-        "time": "17:00-19:00",
+        "time": "13:00-15:00",
         "days": [
           2,
           4
         ],
-        "classroom": "C106"
+        "classroom": "15"
       }
     ]
   },
@@ -25,7 +25,7 @@
           2,
           4
         ],
-        "classroom": "D006"
+        "classroom": "15"
       }
     ],
     "professor_id": 75933,

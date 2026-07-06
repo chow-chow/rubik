@@ -9,7 +9,7 @@
         "days": [
           1
         ],
-        "classroom": "Q102"
+        "classroom": "12"
       }
     ]
   },
@@ -23,7 +23,7 @@
         "days": [
           2
         ],
-        "classroom": "Q102"
+        "classroom": "12"
       }
     ],
     "professor_id": 105055,
@@ -42,7 +42,7 @@
         "days": [
           2
         ],
-        "classroom": "Q102"
+        "classroom": "12"
       }
     ]
   },
@@ -56,7 +56,7 @@
         "days": [
           2
         ],
-        "classroom": "Q102"
+        "classroom": "12"
       }
     ],
     "professor_id": 86745,
@@ -75,7 +75,7 @@
         "days": [
           3
         ],
-        "classroom": "Q102"
+        "classroom": "12"
       }
     ],
     "professor_id": 71693,
@@ -94,7 +94,7 @@
         "days": [
           3
         ],
-        "classroom": "Q102"
+        "classroom": "12"
       }
     ]
   },
@@ -108,7 +108,7 @@
         "days": [
           4
         ],
-        "classroom": "Q102"
+        "classroom": "12"
       }
     ],
     "professor_id": 105055,
@@ -127,7 +127,7 @@
         "days": [
           4
         ],
-        "classroom": "Q102"
+        "classroom": "12"
       }
     ],
     "professor_id": 86745,
@@ -146,7 +146,7 @@
         "days": [
           5
         ],
-        "classroom": "Q102"
+        "classroom": "12"
       }
     ],
     "professor_id": 71693,
@@ -158,20 +158,15 @@
   {
     "code": "6937",
     "group": "10",
-    "professor": "JOSE SALVADOR ZAMORA ALARCON",
+    "professor": "IVAN DE JESUS GRANADOS MIRANDA",
     "schedules": [
       {
         "time": "13:00-15:00",
         "days": [
           5
         ],
-        "classroom": "Q102"
+        "classroom": "12"
       }
-    ],
-    "professor_id": 86745,
-    "first_name": "José Salvador",
-    "last_name": "Zamora Alarcón",
-    "rating": 9.8571,
-    "num_ratings": 7
+    ]
   }
 ]

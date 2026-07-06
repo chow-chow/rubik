@@ -11,14 +11,7 @@
           3,
           5
         ],
-        "classroom": "A405"
-      },
-      {
-        "time": "10:00-13:00",
-        "days": [
-          2
-        ],
-        "classroom": "R032"
+        "classroom": "8"
       }
     ],
     "professor_id": 141820,
@@ -39,42 +32,38 @@
           3,
           5
         ],
-        "classroom": "R005"
-      },
-      {
-        "time": "16:00-19:00",
-        "days": [
-          2
-        ],
-        "classroom": "R032"
+        "classroom": "8"
       }
     ]
   },
   {
     "code": "1449",
     "group": "3",
-    "professor": "LUIS BRUNO GARDUÑO CASTRO",
+    "professor": "PROFESOR POR ASIGNAR",
     "schedules": [
       {
-        "time": "07:00-09:15",
+        "time": "16:00-17:30",
         "days": [
-          2,
-          4
+          1,
+          3,
+          5
         ],
-        "classroom": "R004"
-      },
-      {
-        "time": "07:00-10:00",
-        "days": [
-          3
-        ],
-        "classroom": "R032"
+        "classroom": "8"
       }
-    ],
-    "professor_id": 99543,
-    "first_name": "Luis Bruno",
-    "last_name": "Garduño Castro",
-    "rating": 8.6,
-    "num_ratings": 5
+    ]
+  },
+  {
+    "code": "1449",
+    "group": "4",
+    "professor": "Grupo cancelado, contactar a la División.",
+    "schedules": [
+      {
+        "time": "16:00-19:00",
+        "days": [
+          2
+        ],
+        "classroom": "8"
+      }
+    ]
   }
 ]

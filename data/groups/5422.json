@@ -1,7 +1,7 @@
 [
   {
     "code": "5422",
-    "group": "3",
+    "group": "1",
     "professor": "GLORIA CORREA PALACIOS",
     "schedules": [
       {
@@ -9,7 +9,7 @@
         "days": [
           2
         ],
-        "classroom": "P001"
+        "classroom": "16"
       }
     ],
     "professor_id": 112607,
@@ -20,15 +20,43 @@
   },
   {
     "code": "5422",
+    "group": "2",
+    "professor": "CARLOS ALBERTO PEREZ JUAREZ",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          4
+        ],
+        "classroom": "16"
+      }
+    ]
+  },
+  {
+    "code": "5422",
+    "group": "3",
+    "professor": "CARLOS ALBERTO PEREZ JUAREZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          4
+        ],
+        "classroom": "16"
+      }
+    ]
+  },
+  {
+    "code": "5422",
     "group": "4",
-    "professor": "DAVID QUINTANAR VILLALBA",
+    "professor": "CARLOS ALBERTO PEREZ JUAREZ",
     "schedules": [
       {
         "time": "17:00-19:00",
         "days": [
-          5
+          4
         ],
-        "classroom": "P001"
+        "classroom": "16"
       }
     ]
   },
@@ -38,87 +66,40 @@
     "professor": "DAVID QUINTANAR VILLALBA",
     "schedules": [
       {
-        "time": "13:00-15:00",
+        "time": "15:00-17:00",
         "days": [
-          6
+          5
         ],
-        "classroom": "P001"
+        "classroom": "16"
       }
     ]
   },
   {
     "code": "5422",
     "group": "6",
-    "professor": "CARLOS ALBERTO PEREZ JUAREZ",
+    "professor": "DAVID QUINTANAR VILLALBA",
     "schedules": [
       {
-        "time": "13:00-15:00",
+        "time": "17:00-19:00",
         "days": [
-          4
+          5
         ],
-        "classroom": "P001"
+        "classroom": "16"
       }
     ]
   },
   {
     "code": "5422",
     "group": "7",
-    "professor": "CARLOS ALBERTO PEREZ JUAREZ",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          4
-        ],
-        "classroom": "P001"
-      }
-    ]
-  },
-  {
-    "code": "5422",
-    "group": "8",
-    "professor": "CARLOS ALBERTO PEREZ JUAREZ",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          4
-        ],
-        "classroom": "P001"
-      }
-    ]
-  },
-  {
-    "code": "5422",
-    "group": "9",
     "professor": "DAVID QUINTANAR VILLALBA",
     "schedules": [
       {
-        "time": "15:00-17:00",
+        "time": "13:00-15:00",
         "days": [
-          5
+          6
         ],
-        "classroom": "P001"
+        "classroom": "16"
       }
     ]
-  },
-  {
-    "code": "5422",
-    "group": "10",
-    "professor": "RICARDO GARIBAY JIMENEZ",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          4
-        ],
-        "classroom": "P001"
-      }
-    ],
-    "professor_id": 109852,
-    "first_name": "Ricardo",
-    "last_name": "Garibay Jiménez",
-    "rating": 3.8333,
-    "num_ratings": 12
   }
 ]

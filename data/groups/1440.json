@@ -11,7 +11,7 @@
           3,
           5
         ],
-        "classroom": "J001"
+        "classroom": "27"
       }
     ],
     "professor_id": 189661,
@@ -23,48 +23,26 @@
   {
     "code": "1440",
     "group": "2",
-    "professor": "JOSMARK ALFREDO SANCHEZ GONZALEZ",
+    "professor": "IZA CANALES GARCIA",
     "schedules": [
       {
-        "time": "17:00-19:00",
+        "time": "07:00-10:00",
         "days": [
           1,
-          3,
-          5
+          3
         ],
-        "classroom": "J001"
+        "classroom": "27"
       }
     ],
-    "professor_id": 189661,
-    "first_name": "Josmark Alfredo",
-    "last_name": "Sanchez Gonzalez",
-    "rating": 9.0,
-    "num_ratings": 6
+    "professor_id": 64701,
+    "first_name": "Iza",
+    "last_name": "Canales García",
+    "rating": 8.0513,
+    "num_ratings": 39
   },
   {
     "code": "1440",
     "group": "3",
-    "professor": "PAOLA JUDITH VILLA MANCILLA",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          1,
-          3,
-          5
-        ],
-        "classroom": "C301"
-      }
-    ],
-    "professor_id": 90876,
-    "first_name": "Paola Judith",
-    "last_name": "Villa Mancilla",
-    "rating": 7.3077,
-    "num_ratings": 13
-  },
-  {
-    "code": "1440",
-    "group": "4",
     "professor": "ARNULFO SANCHEZ VALERIO",
     "schedules": [
       {
@@ -72,7 +50,7 @@
         "days": [
           6
         ],
-        "classroom": "C401"
+        "classroom": "27"
       }
     ],
     "professor_id": 90860,
@@ -80,21 +58,5 @@
     "last_name": "Sánchez Valerio",
     "rating": 9.4091,
     "num_ratings": 66
-  },
-  {
-    "code": "1440",
-    "group": "5",
-    "professor": "GONZALO DIEGO ORTIZ",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          1,
-          3,
-          5
-        ],
-        "classroom": "C105"
-      }
-    ]
   }
 ]

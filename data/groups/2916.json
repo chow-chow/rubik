@@ -2,21 +2,6 @@
   {
     "code": "2916",
     "group": "1",
-    "professor": "SERGIO MACUIL ROBLES",
-    "schedules": [
-      {
-        "time": "07:00-08:30",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "Y104"
-      }
-    ]
-  },
-  {
-    "code": "2916",
-    "group": "2",
     "professor": "FRANCISCO LOPEZ RIVAS",
     "schedules": [
       {
@@ -25,7 +10,22 @@
           2,
           4
         ],
-        "classroom": "DS11"
+        "classroom": "28"
+      }
+    ]
+  },
+  {
+    "code": "2916",
+    "group": "2",
+    "professor": "SERGIO MACUIL ROBLES",
+    "schedules": [
+      {
+        "time": "07:00-08:30",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "28"
       }
     ]
   },
@@ -40,7 +40,7 @@
           2,
           4
         ],
-        "classroom": "A308"
+        "classroom": "28"
       }
     ],
     "professor_id": 118842,
@@ -60,22 +60,7 @@
           2,
           4
         ],
-        "classroom": "U305"
-      }
-    ]
-  },
-  {
-    "code": "2916",
-    "group": "5",
-    "professor": "FRANCISCO LOPEZ RIVAS",
-    "schedules": [
-      {
-        "time": "14:30-16:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "R004"
+        "classroom": "28"
       }
     ]
   }

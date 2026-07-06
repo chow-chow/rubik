@@ -2,7 +2,7 @@
   {
     "code": "1850",
     "group": "1",
-    "professor": "ALDO RAMOS ROSIQUEVer Nota 2",
+    "professor": "ALDO RAMOS ROSIQUE",
     "schedules": [
       {
         "time": "16:00-18:00",
@@ -11,9 +11,14 @@
           3,
           5
         ],
-        "classroom": "C301"
+        "classroom": "13"
       }
-    ]
+    ],
+    "professor_id": 73851,
+    "first_name": "Aldo",
+    "last_name": "Ramos Rosique",
+    "rating": 7.36,
+    "num_ratings": 25
   },
   {
     "code": "1850",
@@ -21,12 +26,12 @@
     "professor": "SILJA AGUILAR AUSTRIA",
     "schedules": [
       {
-        "time": "07:00-10:00",
+        "time": "08:00-11:00",
         "days": [
           2,
           4
         ],
-        "classroom": "C301"
+        "classroom": "13"
       }
     ]
   }

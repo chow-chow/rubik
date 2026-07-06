@@ -9,14 +9,7 @@
         "days": [
           4
         ],
-        "classroom": "O102"
-      },
-      {
-        "time": "11:00-14:00",
-        "days": [
-          2
-        ],
-        "classroom": "O007"
+        "classroom": "20"
       }
     ],
     "professor_id": 124473,
@@ -31,19 +24,12 @@
     "professor": "ULISES MARTIN PEÑUELAS RIVAS",
     "schedules": [
       {
-        "time": "11:00-13:00",
+        "time": "09:00-11:00",
         "days": [
           1,
           3
         ],
-        "classroom": "B202"
-      },
-      {
-        "time": "11:00-13:00",
-        "days": [
-          5
-        ],
-        "classroom": "X401"
+        "classroom": "15"
       }
     ],
     "professor_id": 124473,
@@ -62,15 +48,7 @@
         "days": [
           5
         ],
-        "classroom": "O007"
-      },
-      {
-        "time": "11:00-13:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "B301"
+        "classroom": "20"
       }
     ],
     "professor_id": 109270,
@@ -90,14 +68,7 @@
           1,
           3
         ],
-        "classroom": "A203"
-      },
-      {
-        "time": "13:00-15:00",
-        "days": [
-          5
-        ],
-        "classroom": "O007"
+        "classroom": "20"
       }
     ]
   },
@@ -112,15 +83,28 @@
           1,
           3
         ],
-        "classroom": "J206"
-      },
-      {
-        "time": "07:00-09:00",
-        "days": [
-          5
-        ],
-        "classroom": "O007"
+        "classroom": "20"
       }
     ]
+  },
+  {
+    "code": "1996",
+    "group": "6",
+    "professor": "YUKIHIRO MINAMI KOYAMA",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1,
+          5
+        ],
+        "classroom": "20"
+      }
+    ],
+    "professor_id": 27938,
+    "first_name": "Yukihiro",
+    "last_name": "Minami",
+    "rating": 8.175,
+    "num_ratings": 40
   }
 ]

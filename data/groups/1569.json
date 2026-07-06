@@ -10,7 +10,7 @@
           1,
           3
         ],
-        "classroom": "J204"
+        "classroom": "48"
       }
     ],
     "professor_id": 108764,
@@ -27,16 +27,10 @@
       {
         "time": "07:00-09:00",
         "days": [
-          2
-        ],
-        "classroom": "J205"
-      },
-      {
-        "time": "07:00-09:00",
-        "days": [
+          2,
           4
         ],
-        "classroom": "I103"
+        "classroom": "35"
       }
     ],
     "professor_id": 76408,
@@ -48,32 +42,6 @@
   {
     "code": "1569",
     "group": "3",
-    "professor": "KENYA VERONICA ESPINOSA HURTADO",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          3
-        ],
-        "classroom": "J203"
-      },
-      {
-        "time": "09:00-11:00",
-        "days": [
-          1
-        ],
-        "classroom": "J211"
-      }
-    ],
-    "professor_id": 99111,
-    "first_name": "Kenya Verónica",
-    "last_name": "Espinosa Hurtado",
-    "rating": 6.025,
-    "num_ratings": 40
-  },
-  {
-    "code": "1569",
-    "group": "4",
     "professor": "FRANCISCA IRENE SOLER ANGUIANO",
     "schedules": [
       {
@@ -82,33 +50,13 @@
           2,
           4
         ],
-        "classroom": "I206"
+        "classroom": "35"
       }
     ]
   },
   {
     "code": "1569",
     "group": "5",
-    "professor": "ISABEL PATRICIA AGUILAR JUAREZ",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "J204"
-      }
-    ],
-    "professor_id": 66375,
-    "first_name": "Isabel Patricia",
-    "last_name": "Aguilar Juarez",
-    "rating": 7.9394,
-    "num_ratings": 33
-  },
-  {
-    "code": "1569",
-    "group": "6",
     "professor": "NORA PATRICIA ROCHA MILLER",
     "schedules": [
       {
@@ -117,7 +65,7 @@
           1,
           3
         ],
-        "classroom": "J110"
+        "classroom": "48"
       }
     ],
     "professor_id": 70517,
@@ -128,7 +76,7 @@
   },
   {
     "code": "1569",
-    "group": "7",
+    "group": "6",
     "professor": "ANGEL LEONARDO BAÑUELOS SAUCEDO",
     "schedules": [
       {
@@ -137,7 +85,7 @@
           2,
           4
         ],
-        "classroom": "I201"
+        "classroom": "48"
       }
     ],
     "professor_id": 21806,
@@ -148,29 +96,38 @@
   },
   {
     "code": "1569",
-    "group": "8",
-    "professor": "VEDUAR ALLIE SARMIENTO TORRES",
+    "group": "7",
+    "professor": "MARIA DE LOURDES BARBOSA SALDAÑA",
     "schedules": [
       {
-        "time": "15:00-17:00",
+        "time": "13:00-15:00",
         "days": [
+          1,
           3
         ],
-        "classroom": "J110"
-      },
+        "classroom": "48"
+      }
+    ]
+  },
+  {
+    "code": "1569",
+    "group": "8",
+    "professor": "ALEJANDRO MORALES TREJO",
+    "schedules": [
       {
-        "time": "15:00-17:00",
+        "time": "13:00-15:00",
         "days": [
-          1
+          2,
+          4
         ],
-        "classroom": "J205"
+        "classroom": "48"
       }
     ],
-    "professor_id": 84287,
-    "first_name": "Véduar Allié",
-    "last_name": "Sarmiento Torres",
-    "rating": 8.3958,
-    "num_ratings": 48
+    "professor_id": 36975,
+    "first_name": "Alejandro",
+    "last_name": "Morales Trejo",
+    "rating": 8.5593,
+    "num_ratings": 59
   },
   {
     "code": "1569",
@@ -180,10 +137,10 @@
       {
         "time": "15:00-17:00",
         "days": [
-          2,
-          4
+          1,
+          3
         ],
-        "classroom": "EXTR"
+        "classroom": "35"
       }
     ],
     "professor_id": 84287,
@@ -194,31 +151,51 @@
   },
   {
     "code": "1569",
-    "group": "11",
+    "group": "10",
+    "professor": "VEDUAR ALLIE SARMIENTO TORRES",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "50"
+      }
+    ],
+    "professor_id": 84287,
+    "first_name": "Véduar Allié",
+    "last_name": "Sarmiento Torres",
+    "rating": 8.3958,
+    "num_ratings": 48
+  },
+  {
+    "code": "1569",
+    "group": "12",
     "professor": "JUANITA ELIZABETH SOTELO MORALES",
     "schedules": [
       {
-        "time": "17:00-19:00",
+        "time": "15:00-17:00",
         "days": [
           3,
           5
         ],
-        "classroom": "I104"
+        "classroom": "48"
       }
     ]
   },
   {
     "code": "1569",
-    "group": "12",
+    "group": "13",
     "professor": "ELIA INES LUNA CEBALLOS",
     "schedules": [
       {
         "time": "19:00-21:00",
         "days": [
-          2,
-          4
+          1,
+          3
         ],
-        "classroom": "J105"
+        "classroom": "48"
       }
     ],
     "professor_id": 84849,
@@ -226,5 +203,35 @@
     "last_name": "Luna Ceballos",
     "rating": 8.4588,
     "num_ratings": 85
+  },
+  {
+    "code": "1569",
+    "group": "4",
+    "professor": "Grupo cancelado, contactar a la División.",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "0"
+      }
+    ]
+  },
+  {
+    "code": "1569",
+    "group": "11",
+    "professor": "Grupo cancelado, contactar a la División.",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "0"
+      }
+    ]
   }
 ]

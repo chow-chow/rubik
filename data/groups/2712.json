@@ -10,14 +10,22 @@
           1,
           3
         ],
-        "classroom": "S005"
-      },
+        "classroom": "15"
+      }
+    ]
+  },
+  {
+    "code": "2712",
+    "group": "2",
+    "professor": "OSCAR DAVID ARROYO GARCIA",
+    "schedules": [
       {
-        "time": "08:00-11:00",
+        "time": "17:30-19:00",
         "days": [
-          5
+          1,
+          3
         ],
-        "classroom": "SIN"
+        "classroom": "15"
       }
     ]
   }

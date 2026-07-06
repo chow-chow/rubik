@@ -10,7 +10,27 @@
           2,
           4
         ],
-        "classroom": "C304"
+        "classroom": "20"
+      }
+    ],
+    "professor_id": 135652,
+    "first_name": "Ivan Manuel",
+    "last_name": "Cuadros Mendoza",
+    "rating": 8.8947,
+    "num_ratings": 19
+  },
+  {
+    "code": "1329",
+    "group": "2",
+    "professor": "IVAN MANUEL CUADROS MENDOZA",
+    "schedules": [
+      {
+        "time": "12:00-14:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "20"
       }
     ],
     "professor_id": 135652,

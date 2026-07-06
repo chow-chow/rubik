@@ -5,11 +5,11 @@
     "professor": "SERGIO FEDERICO GAYTAN SANCHEZ",
     "schedules": [
       {
-        "time": "08:00-12:30",
+        "time": "09:00-13:30",
         "days": [
-          6
+          1
         ],
-        "classroom": "A211"
+        "classroom": "10"
       }
     ],
     "professor_id": 102021,

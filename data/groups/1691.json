@@ -2,29 +2,22 @@
   {
     "code": "1691",
     "group": "1",
-    "professor": "MARIA DEL PILAR CORONA LIRA",
+    "professor": "LUIS DARIO REYES DELGADO",
     "schedules": [
       {
-        "time": "09:00-11:00",
+        "time": "15:00-17:00",
         "days": [
           3,
           5
         ],
-        "classroom": "B201"
-      },
-      {
-        "time": "09:00-11:00",
-        "days": [
-          1
-        ],
-        "classroom": "O007"
+        "classroom": "15"
       }
     ],
-    "professor_id": 93473,
-    "first_name": "Maria del Pilar",
-    "last_name": "Corona Lira",
-    "rating": 7.1333,
-    "num_ratings": 15
+    "professor_id": 167704,
+    "first_name": "LUIS DARIO",
+    "last_name": "REYES DELGADO",
+    "rating": 7.8,
+    "num_ratings": 5
   },
   {
     "code": "1691",
@@ -37,14 +30,7 @@
           1,
           3
         ],
-        "classroom": "Y003"
-      },
-      {
-        "time": "17:00-19:00",
-        "days": [
-          5
-        ],
-        "classroom": "O007"
+        "classroom": "20"
       }
     ]
   },
@@ -58,21 +44,7 @@
         "days": [
           1
         ],
-        "classroom": "O103"
-      },
-      {
-        "time": "07:00-09:00",
-        "days": [
-          3
-        ],
-        "classroom": "B201"
-      },
-      {
-        "time": "07:00-09:00",
-        "days": [
-          5
-        ],
-        "classroom": "X401"
+        "classroom": "15"
       }
     ],
     "professor_id": 74599,
@@ -92,14 +64,7 @@
           2,
           4
         ],
-        "classroom": "A310"
-      },
-      {
-        "time": "15:00-17:00",
-        "days": [
-          4
-        ],
-        "classroom": "O007"
+        "classroom": "20"
       }
     ],
     "professor_id": 167439,
@@ -118,21 +83,7 @@
         "days": [
           5
         ],
-        "classroom": "A109"
-      },
-      {
-        "time": "13:00-15:00",
-        "days": [
-          1
-        ],
-        "classroom": "A311"
-      },
-      {
-        "time": "13:00-15:00",
-        "days": [
-          3
-        ],
-        "classroom": "O007"
+        "classroom": "20"
       }
     ],
     "professor_id": 104960,
@@ -144,35 +95,22 @@
   {
     "code": "1691",
     "group": "6",
-    "professor": "YUKIHIRO MINAMI KOYAMA",
+    "professor": "BILLY ARTURO FLORES MEDERO NAVARRO",
     "schedules": [
       {
-        "time": "09:00-11:00",
+        "time": "11:00-13:00",
         "days": [
+          1,
           5
         ],
-        "classroom": "B301"
-      },
-      {
-        "time": "09:00-11:00",
-        "days": [
-          1
-        ],
-        "classroom": "B202"
-      },
-      {
-        "time": "09:00-11:00",
-        "days": [
-          3
-        ],
-        "classroom": "O007"
+        "classroom": "20"
       }
     ],
-    "professor_id": 27938,
-    "first_name": "Yukihiro",
-    "last_name": "Minami",
-    "rating": 8.175,
-    "num_ratings": 40
+    "professor_id": 104960,
+    "first_name": "M.I. BILLY ARTURO",
+    "last_name": "FLORES MEDERO NAVARRO",
+    "rating": 7.6,
+    "num_ratings": 10
   },
   {
     "code": "1691",
@@ -185,14 +123,7 @@
           2,
           4
         ],
-        "classroom": "Y004"
-      },
-      {
-        "time": "09:00-11:00",
-        "days": [
-          4
-        ],
-        "classroom": "Q108"
+        "classroom": "20"
       }
     ],
     "professor_id": 74599,
@@ -212,14 +143,7 @@
           1,
           5
         ],
-        "classroom": "Y003"
-      },
-      {
-        "time": "11:00-13:00",
-        "days": [
-          3
-        ],
-        "classroom": "X401"
+        "classroom": "15"
       }
     ],
     "professor_id": 74599,
@@ -239,14 +163,7 @@
           3,
           5
         ],
-        "classroom": "Y004"
-      },
-      {
-        "time": "11:00-13:00",
-        "days": [
-          1
-        ],
-        "classroom": "X401"
+        "classroom": "15"
       }
     ],
     "professor_id": 59070,
@@ -266,14 +183,7 @@
           2,
           4
         ],
-        "classroom": "A310"
-      },
-      {
-        "time": "13:00-15:00",
-        "days": [
-          1
-        ],
-        "classroom": "X401"
+        "classroom": "15"
       }
     ],
     "professor_id": 59070,
@@ -293,14 +203,7 @@
           1,
           3
         ],
-        "classroom": "B202"
-      },
-      {
-        "time": "13:00-15:00",
-        "days": [
-          5
-        ],
-        "classroom": "X401"
+        "classroom": "15"
       }
     ]
   },
@@ -315,14 +218,7 @@
           3,
           5
         ],
-        "classroom": "A310"
-      },
-      {
-        "time": "19:00-21:00",
-        "days": [
-          1
-        ],
-        "classroom": "O007"
+        "classroom": "20"
       }
     ]
   },
@@ -337,14 +233,7 @@
           3,
           5
         ],
-        "classroom": "B302"
-      },
-      {
-        "time": "14:00-16:00",
-        "days": [
-          1
-        ],
-        "classroom": "Q108"
+        "classroom": "20"
       }
     ],
     "professor_id": 60921,
@@ -356,60 +245,6 @@
   {
     "code": "1691",
     "group": "14",
-    "professor": "BILLY ARTURO FLORES MEDERO NAVARRO",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          1,
-          5
-        ],
-        "classroom": "A109"
-      },
-      {
-        "time": "11:00-13:00",
-        "days": [
-          3
-        ],
-        "classroom": "O007"
-      }
-    ],
-    "professor_id": 104960,
-    "first_name": "M.I. BILLY ARTURO",
-    "last_name": "FLORES MEDERO NAVARRO",
-    "rating": 7.6,
-    "num_ratings": 10
-  },
-  {
-    "code": "1691",
-    "group": "15",
-    "professor": "LUIS DARIO REYES DELGADO",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          3,
-          5
-        ],
-        "classroom": "B203"
-      },
-      {
-        "time": "15:00-17:00",
-        "days": [
-          1
-        ],
-        "classroom": "X401"
-      }
-    ],
-    "professor_id": 167704,
-    "first_name": "LUIS DARIO",
-    "last_name": "REYES DELGADO",
-    "rating": 7.8,
-    "num_ratings": 5
-  },
-  {
-    "code": "1691",
-    "group": "16",
     "professor": "ARTURO ZAPATA Y ROSALES",
     "schedules": [
       {
@@ -418,14 +253,7 @@
           1,
           3
         ],
-        "classroom": "B301"
-      },
-      {
-        "time": "17:00-19:00",
-        "days": [
-          5
-        ],
-        "classroom": "X401"
+        "classroom": "15"
       }
     ],
     "professor_id": 85612,

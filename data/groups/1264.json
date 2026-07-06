@@ -2,15 +2,14 @@
   {
     "code": "1264",
     "group": "1",
-    "professor": "GENARO CARREON CARRERA",
+    "professor": "GIBRAN JALIL GARNICA CASTROVer Nota 1",
     "schedules": [
       {
-        "time": "10:00-11:30",
+        "time": "13:00-14:30",
         "days": [
-          2,
-          4
+          2
         ],
-        "classroom": "U302"
+        "classroom": "15"
       }
     ]
   }

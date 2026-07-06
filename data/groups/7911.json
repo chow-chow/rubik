@@ -2,21 +2,21 @@
   {
     "code": "7911",
     "group": "1",
-    "professor": "IVAN DE JESUS OSIO CHAVEZ",
+    "professor": "ULISES ARTURO PEREZ VENTURA",
     "schedules": [
       {
-        "time": "07:00-09:00",
+        "time": "13:00-15:00",
         "days": [
           1
         ],
-        "classroom": "P113"
+        "classroom": "12"
       }
     ],
-    "professor_id": 115270,
-    "first_name": "Ivan de Jesus",
-    "last_name": "Osio Chavez",
-    "rating": 6.75,
-    "num_ratings": 16
+    "professor_id": 94779,
+    "first_name": "Ulises Arturo",
+    "last_name": "Perez Ventura",
+    "rating": 10.0,
+    "num_ratings": 2
   },
   {
     "code": "7911",
@@ -28,7 +28,7 @@
         "days": [
           2
         ],
-        "classroom": "P113"
+        "classroom": "12"
       }
     ]
   },
@@ -42,7 +42,7 @@
         "days": [
           5
         ],
-        "classroom": "P113"
+        "classroom": "12"
       }
     ]
   }

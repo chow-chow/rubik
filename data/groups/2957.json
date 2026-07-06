@@ -1,27 +1,6 @@
 [
   {
     "code": "2957",
-    "group": "1",
-    "professor": "JOSE ANTONIO MACIAS GARCIA",
-    "schedules": [
-      {
-        "time": "13:00-14:30",
-        "days": [
-          2
-        ],
-        "classroom": "T102"
-      },
-      {
-        "time": "13:00-14:30",
-        "days": [
-          4
-        ],
-        "classroom": "Q208"
-      }
-    ]
-  },
-  {
-    "code": "2957",
     "group": "2",
     "professor": "EDUARDO DANIEL GUERRERO RAMIREZ",
     "schedules": [
@@ -30,7 +9,7 @@
         "days": [
           5
         ],
-        "classroom": "B402"
+        "classroom": "17"
       }
     ],
     "professor_id": 149937,
@@ -49,7 +28,7 @@
         "days": [
           5
         ],
-        "classroom": "A107"
+        "classroom": "17"
       }
     ],
     "professor_id": 108516,
@@ -68,7 +47,7 @@
         "days": [
           6
         ],
-        "classroom": "B204"
+        "classroom": "17"
       }
     ],
     "professor_id": 109156,
@@ -87,7 +66,21 @@
         "days": [
           6
         ],
-        "classroom": "B402"
+        "classroom": "18"
+      }
+    ]
+  },
+  {
+    "code": "2957",
+    "group": "1",
+    "professor": "JOSE ANTONIO MACIAS GARCIA",
+    "schedules": [
+      {
+        "time": "13:00-14:30",
+        "days": [
+          2
+        ],
+        "classroom": "0"
       }
     ]
   }

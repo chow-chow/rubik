@@ -9,7 +9,7 @@
         "days": [
           1
         ],
-        "classroom": "Q101"
+        "classroom": "20"
       }
     ]
   },
@@ -23,7 +23,7 @@
         "days": [
           1
         ],
-        "classroom": "Q106"
+        "classroom": "12"
       }
     ],
     "professor_id": 94156,
@@ -42,7 +42,7 @@
         "days": [
           1
         ],
-        "classroom": "Q101"
+        "classroom": "20"
       }
     ]
   },
@@ -56,7 +56,7 @@
         "days": [
           2
         ],
-        "classroom": "Q101"
+        "classroom": "20"
       }
     ],
     "professor_id": 78454,
@@ -75,13 +75,32 @@
         "days": [
           2
         ],
-        "classroom": "Q101"
+        "classroom": "20"
       }
     ]
   },
   {
     "code": "6617",
     "group": "6",
+    "professor": "VICENTE FLORES OLVERA",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2
+        ],
+        "classroom": "20"
+      }
+    ],
+    "professor_id": 65407,
+    "first_name": "vicente",
+    "last_name": "flores",
+    "rating": 7.2075,
+    "num_ratings": 53
+  },
+  {
+    "code": "6617",
+    "group": "7",
     "professor": "JESUS RAMIREZ ORTEGA",
     "schedules": [
       {
@@ -89,7 +108,7 @@
         "days": [
           3
         ],
-        "classroom": "Q101"
+        "classroom": "20"
       }
     ],
     "professor_id": 112721,
@@ -100,7 +119,7 @@
   },
   {
     "code": "6617",
-    "group": "7",
+    "group": "8",
     "professor": "JESUS MARIA FRANCISCO HERNANDEZ MORALES",
     "schedules": [
       {
@@ -108,7 +127,7 @@
         "days": [
           4
         ],
-        "classroom": "Q101"
+        "classroom": "20"
       }
     ],
     "professor_id": 80201,
@@ -119,7 +138,7 @@
   },
   {
     "code": "6617",
-    "group": "8",
+    "group": "9",
     "professor": "OMAR EDSIEL ABREGO BLANCAS",
     "schedules": [
       {
@@ -127,7 +146,7 @@
         "days": [
           4
         ],
-        "classroom": "Q101"
+        "classroom": "20"
       }
     ],
     "professor_id": 161304,
@@ -138,7 +157,7 @@
   },
   {
     "code": "6617",
-    "group": "9",
+    "group": "10",
     "professor": "OMAR EDSIEL ABREGO BLANCAS",
     "schedules": [
       {
@@ -146,7 +165,7 @@
         "days": [
           4
         ],
-        "classroom": "Q101"
+        "classroom": "20"
       }
     ],
     "professor_id": 161304,
@@ -165,7 +184,7 @@
         "days": [
           5
         ],
-        "classroom": "Q101"
+        "classroom": "20"
       }
     ],
     "professor_id": 94156,
@@ -184,7 +203,7 @@
         "days": [
           5
         ],
-        "classroom": "Q101"
+        "classroom": "20"
       }
     ],
     "professor_id": 161304,

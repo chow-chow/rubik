@@ -2,15 +2,15 @@
   {
     "code": "2926",
     "group": "1",
-    "professor": "Grupo cancelado, contactar a la División.",
+    "professor": "VICENTE GUILLERMO LOPEZ FERNANDEZ",
     "schedules": [
       {
-        "time": "07:00-09:00",
+        "time": "09:00-11:00",
         "days": [
           2,
           4
         ],
-        "classroom": "DS07"
+        "classroom": "5"
       }
     ]
   },
@@ -25,7 +25,7 @@
           2,
           4
         ],
-        "classroom": "DS07"
+        "classroom": "5"
       }
     ],
     "professor_id": 190157,
@@ -45,7 +45,7 @@
           2,
           4
         ],
-        "classroom": "DS07"
+        "classroom": "5"
       }
     ]
   },
@@ -60,7 +60,7 @@
           2,
           4
         ],
-        "classroom": "DS07"
+        "classroom": "5"
       }
     ],
     "professor_id": 63731,
@@ -80,7 +80,7 @@
           2,
           4
         ],
-        "classroom": "DS07"
+        "classroom": "5"
       }
     ],
     "professor_id": 45253,
@@ -99,23 +99,28 @@
         "days": [
           6
         ],
-        "classroom": "DS07"
+        "classroom": "5"
       }
     ]
   },
   {
     "code": "2926",
-    "group": "8",
-    "professor": "VICENTE GUILLERMO LOPEZ FERNANDEZ",
+    "group": "7",
+    "professor": "RAMON SANDOVAL PEÑA",
     "schedules": [
       {
-        "time": "13:00-15:00",
+        "time": "09:00-11:00",
         "days": [
-          2,
-          4
+          1,
+          5
         ],
-        "classroom": "DS07"
+        "classroom": "5"
       }
-    ]
+    ],
+    "professor_id": 134458,
+    "first_name": "Ramon",
+    "last_name": "Sandoval Peña",
+    "rating": 6.1,
+    "num_ratings": 10
   }
 ]

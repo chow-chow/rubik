@@ -10,7 +10,7 @@
           1,
           3
         ],
-        "classroom": "B102"
+        "classroom": "30"
       }
     ],
     "professor_id": 21291,
@@ -30,7 +30,7 @@
           1,
           3
         ],
-        "classroom": "B305"
+        "classroom": "30"
       }
     ],
     "professor_id": 104675,
@@ -41,7 +41,7 @@
   },
   {
     "code": "1723",
-    "group": "4",
+    "group": "3",
     "professor": "JOSE ISMAEL MARTINEZ LOPEZ",
     "schedules": [
       {
@@ -50,7 +50,7 @@
           2,
           4
         ],
-        "classroom": "A301"
+        "classroom": "30"
       }
     ],
     "professor_id": 148822,
@@ -61,7 +61,7 @@
   },
   {
     "code": "1723",
-    "group": "5",
+    "group": "4",
     "professor": "JUAN CARLOS ROA BEIZA",
     "schedules": [
       {
@@ -70,7 +70,7 @@
           3,
           5
         ],
-        "classroom": "B404"
+        "classroom": "30"
       }
     ],
     "professor_id": 21291,
@@ -78,5 +78,20 @@
     "last_name": "roa beiza",
     "rating": 6.4478,
     "num_ratings": 67
+  },
+  {
+    "code": "1723",
+    "group": "5",
+    "professor": "SALVADOR EMILIO SIERRA BENAVIDEZ",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "15"
+      }
+    ]
   }
 ]

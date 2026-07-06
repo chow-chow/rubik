@@ -5,12 +5,12 @@
     "professor": "MARCO ANTONIO POLO LABARRIOS",
     "schedules": [
       {
-        "time": "17:00-19:00",
+        "time": "15:00-17:00",
         "days": [
           2,
           4
         ],
-        "classroom": "B402"
+        "classroom": "20"
       }
     ],
     "professor_id": 147325,

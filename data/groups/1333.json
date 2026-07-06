@@ -7,10 +7,9 @@
       {
         "time": "07:00-09:00",
         "days": [
-          3,
           5
         ],
-        "classroom": "J104"
+        "classroom": "48"
       }
     ],
     "professor_id": 30167,
@@ -22,15 +21,35 @@
   {
     "code": "1333",
     "group": "2",
-    "professor": "MARTIN BARCENAS ESCOBAR",
+    "professor": "ALICIA MARIA ESPONDA CASCAJARES",
     "schedules": [
       {
-        "time": "11:00-13:00",
+        "time": "07:00-09:00",
         "days": [
           2,
           4
         ],
-        "classroom": "I105"
+        "classroom": "48"
+      }
+    ],
+    "professor_id": 30167,
+    "first_name": "Alicia",
+    "last_name": "Esponda Cascajares",
+    "rating": 8.0556,
+    "num_ratings": 54
+  },
+  {
+    "code": "1333",
+    "group": "3",
+    "professor": "MARTIN BARCENAS ESCOBAR",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "48"
       }
     ],
     "professor_id": 23476,
@@ -41,16 +60,36 @@
   },
   {
     "code": "1333",
-    "group": "3",
+    "group": "4",
+    "professor": "ABRAHAM LAURENCIO MARTINEZ BAUTISTA",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "48"
+      }
+    ],
+    "professor_id": 55067,
+    "first_name": "Abraham Laurencio",
+    "last_name": "Martinez  Bautista",
+    "rating": 4.6739,
+    "num_ratings": 46
+  },
+  {
+    "code": "1333",
+    "group": "5",
     "professor": "MARIA DEL CARMEN MELO DIAZ",
     "schedules": [
       {
-        "time": "15:00-17:00",
+        "time": "11:00-13:00",
         "days": [
-          1,
-          3
+          3,
+          5
         ],
-        "classroom": "J102"
+        "classroom": "35"
       }
     ],
     "professor_id": 44254,
@@ -61,7 +100,27 @@
   },
   {
     "code": "1333",
-    "group": "4",
+    "group": "6",
+    "professor": "JORGE ISUNZA HERNANDEZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "48"
+      }
+    ],
+    "professor_id": 49393,
+    "first_name": "Jorge",
+    "last_name": "Isunza Hernández",
+    "rating": 4.6429,
+    "num_ratings": 14
+  },
+  {
+    "code": "1333",
+    "group": "7",
     "professor": "AGUSTIN HERNANDEZ QUINTERO",
     "schedules": [
       {
@@ -70,7 +129,7 @@
           2,
           4
         ],
-        "classroom": "I302"
+        "classroom": "48"
       }
     ],
     "professor_id": 54985,

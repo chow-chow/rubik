@@ -2,22 +2,16 @@
   {
     "code": "2811",
     "group": "1",
-    "professor": "HUGO CESAR GARZA MAGALLON",
+    "professor": "JOSE DE JESUS AVILA MANRIQUEVer Nota 1",
     "schedules": [
       {
-        "time": "17:30-19:00",
+        "time": "17:00-20:00",
         "days": [
-          2,
-          4
+          3
         ],
-        "classroom": "U302"
+        "classroom": "30"
       }
-    ],
-    "professor_id": 176675,
-    "first_name": "Hugo Cesar",
-    "last_name": "Garza Magallón",
-    "rating": 5.0,
-    "num_ratings": 21
+    ]
   },
   {
     "code": "2811",
@@ -25,40 +19,11 @@
     "professor": "JOSE OMAR CRUZ SANTIAGOVer Nota 1",
     "schedules": [
       {
-        "time": "07:00-10:00",
+        "time": "07:00-08:30",
         "days": [
-          5
+          2
         ],
-        "classroom": "A203"
-      }
-    ]
-  },
-  {
-    "code": "2811",
-    "group": "3",
-    "professor": "JOSE DE JESUS AVILA MANRIQUEVer Nota 1",
-    "schedules": [
-      {
-        "time": "17:30-20:30",
-        "days": [
-          3
-        ],
-        "classroom": "EXTR"
-      }
-    ]
-  },
-  {
-    "code": "2811",
-    "group": "4",
-    "professor": "OMAR OLIVARES REYESVer Nota 1",
-    "schedules": [
-      {
-        "time": "16:00-17:30",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "Y204"
+        "classroom": "30"
       }
     ]
   }

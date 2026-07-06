@@ -5,12 +5,12 @@
     "professor": "DIEGO ALONSO AMANTE SORIA",
     "schedules": [
       {
-        "time": "11:30-13:00",
+        "time": "17:30-19:00",
         "days": [
           1,
           3
         ],
-        "classroom": "Y204"
+        "classroom": "30"
       }
     ],
     "professor_id": 172322,
@@ -25,12 +25,12 @@
     "professor": "DIEGO ALONSO AMANTE SORIA",
     "schedules": [
       {
-        "time": "10:00-11:30",
+        "time": "11:30-13:00",
         "days": [
           2,
           4
         ],
-        "classroom": "Y204"
+        "classroom": "30"
       }
     ],
     "professor_id": 172322,
@@ -49,7 +49,26 @@
         "days": [
           5
         ],
-        "classroom": "Y204"
+        "classroom": "30"
+      }
+    ],
+    "professor_id": 191407,
+    "first_name": "Azucena Guadalupe",
+    "last_name": "Miranda Carreón",
+    "rating": 9.0,
+    "num_ratings": 2
+  },
+  {
+    "code": "1477",
+    "group": "4",
+    "professor": "AZUCENA GUADALUPE MIRANDA CARREON",
+    "schedules": [
+      {
+        "time": "13:30-15:00",
+        "days": [
+          4
+        ],
+        "classroom": "30"
       }
     ],
     "professor_id": 191407,

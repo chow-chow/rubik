@@ -9,7 +9,7 @@
         "days": [
           1
         ],
-        "classroom": "DS06"
+        "classroom": "7"
       }
     ],
     "professor_id": 185484,
@@ -28,7 +28,7 @@
         "days": [
           3
         ],
-        "classroom": "DS06"
+        "classroom": "7"
       }
     ],
     "professor_id": 185484,
@@ -36,5 +36,19 @@
     "last_name": "OLIVARES LEYVA",
     "rating": 6.0,
     "num_ratings": 2
+  },
+  {
+    "code": "5636",
+    "group": "3",
+    "professor": "JUAN JOSE LOPEZ MARQUEZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          4
+        ],
+        "classroom": "7"
+      }
+    ]
   }
 ]

@@ -2,33 +2,14 @@
   {
     "code": "6475",
     "group": "1",
-    "professor": "EHECATL LUIS DAVID PALEO GONZALEZ",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          3
-        ],
-        "classroom": "H004"
-      }
-    ],
-    "professor_id": 84416,
-    "first_name": "Ehecatl Luis",
-    "last_name": "Paleo González",
-    "rating": 6.4516,
-    "num_ratings": 31
-  },
-  {
-    "code": "6475",
-    "group": "2",
     "professor": "ROXANA ISELA NORIEGA NAVARRO",
     "schedules": [
       {
-        "time": "07:00-09:00",
+        "time": "09:00-11:00",
         "days": [
-          4
+          1
         ],
-        "classroom": "H004"
+        "classroom": "20"
       }
     ]
   }

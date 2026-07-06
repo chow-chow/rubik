@@ -2,26 +2,6 @@
   {
     "code": "1999",
     "group": "1",
-    "professor": "ADAN BONILLA CHAVEZ",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "B205"
-      }
-    ],
-    "professor_id": 124535,
-    "first_name": "Adan",
-    "last_name": "Bonilla Chávez",
-    "rating": 8.75,
-    "num_ratings": 20
-  },
-  {
-    "code": "1999",
-    "group": "2",
     "professor": "MARIO ALFREDO IBARRA CARRILLO",
     "schedules": [
       {
@@ -30,7 +10,7 @@
           1,
           3
         ],
-        "classroom": "A306"
+        "classroom": "32"
       }
     ],
     "professor_id": 99010,
@@ -41,7 +21,7 @@
   },
   {
     "code": "1999",
-    "group": "3",
+    "group": "2",
     "professor": "BENJAMIN VALERA OROZCO",
     "schedules": [
       {
@@ -50,7 +30,7 @@
           2,
           4
         ],
-        "classroom": "B407"
+        "classroom": "32"
       }
     ],
     "professor_id": 104552,
@@ -58,6 +38,26 @@
     "last_name": "Valera Orozco",
     "rating": 7.6667,
     "num_ratings": 6
+  },
+  {
+    "code": "1999",
+    "group": "3",
+    "professor": "FLORICEL RAMOS VARGAS",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "32"
+      }
+    ],
+    "professor_id": 89946,
+    "first_name": "FLORICEL",
+    "last_name": "RAMOS VARGAS",
+    "rating": 5.8974,
+    "num_ratings": 39
   },
   {
     "code": "1999",
@@ -70,7 +70,7 @@
           2,
           4
         ],
-        "classroom": "A306"
+        "classroom": "32"
       }
     ],
     "professor_id": 89946,

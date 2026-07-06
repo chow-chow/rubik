@@ -10,34 +10,14 @@
           1,
           3
         ],
-        "classroom": "A207"
+        "classroom": "20"
       }
     ]
   },
   {
     "code": "2600",
     "group": "2",
-    "professor": "LUIS ARMANDO HERNANDEZ GONZALEZ",
-    "schedules": [
-      {
-        "time": "16:00-17:30",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "B409"
-      }
-    ],
-    "professor_id": 189926,
-    "first_name": "Luis Armando",
-    "last_name": "Hernández González",
-    "rating": 9.5,
-    "num_ratings": 2
-  },
-  {
-    "code": "2600",
-    "group": "3",
-    "professor": "LUIS ARMANDO HERNANDEZ GONZALEZ",
+    "professor": "SIXTA HINNDI MENDOZA PEREZ",
     "schedules": [
       {
         "time": "17:30-19:00",
@@ -45,14 +25,34 @@
           1,
           3
         ],
-        "classroom": "B409"
+        "classroom": "20"
       }
     ],
-    "professor_id": 189926,
-    "first_name": "Luis Armando",
-    "last_name": "Hernández González",
-    "rating": 9.5,
-    "num_ratings": 2
+    "professor_id": 141803,
+    "first_name": "Sixta Hinndi",
+    "last_name": "Mendoza Pérez",
+    "rating": 7.875,
+    "num_ratings": 8
+  },
+  {
+    "code": "2600",
+    "group": "3",
+    "professor": "SIXTA HINNDI MENDOZA PEREZ",
+    "schedules": [
+      {
+        "time": "19:00-20:30",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "20"
+      }
+    ],
+    "professor_id": 141803,
+    "first_name": "Sixta Hinndi",
+    "last_name": "Mendoza Pérez",
+    "rating": 7.875,
+    "num_ratings": 8
   },
   {
     "code": "2600",
@@ -65,7 +65,7 @@
           2,
           4
         ],
-        "classroom": "A307"
+        "classroom": "20"
       }
     ],
     "professor_id": 154733,
@@ -85,27 +85,8 @@
           2,
           4
         ],
-        "classroom": "SIN"
+        "classroom": "20"
       }
     ]
-  },
-  {
-    "code": "2600",
-    "group": "6",
-    "professor": "LILIANA AGUILAR YAÑEZ",
-    "schedules": [
-      {
-        "time": "11:30-14:30",
-        "days": [
-          5
-        ],
-        "classroom": "A209"
-      }
-    ],
-    "professor_id": 181728,
-    "first_name": "LILIANA",
-    "last_name": "AGUILAR YAÑEZ",
-    "rating": 9.4,
-    "num_ratings": 5
   }
 ]

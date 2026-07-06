@@ -9,7 +9,7 @@
         "days": [
           2
         ],
-        "classroom": "O005"
+        "classroom": "12"
       }
     ],
     "professor_id": 112014,
@@ -28,7 +28,7 @@
         "days": [
           3
         ],
-        "classroom": "O005"
+        "classroom": "12"
       }
     ]
   },
@@ -42,47 +42,9 @@
         "days": [
           4
         ],
-        "classroom": "O005"
+        "classroom": "12"
       }
     ]
-  },
-  {
-    "code": "5507",
-    "group": "4",
-    "professor": "ISRAEL GARDUÑO GARCIA",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          4
-        ],
-        "classroom": "O005"
-      }
-    ],
-    "professor_id": 102330,
-    "first_name": "Israel",
-    "last_name": "Garduño Garcia",
-    "rating": 7.2857,
-    "num_ratings": 14
-  },
-  {
-    "code": "5507",
-    "group": "5",
-    "professor": "JOSE LUIS ESPINOZA RAMIREZ",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          5
-        ],
-        "classroom": "O005"
-      }
-    ],
-    "professor_id": 75503,
-    "first_name": "Jose Luis",
-    "last_name": "Espinoza",
-    "rating": 9.25,
-    "num_ratings": 12
   },
   {
     "code": "5507",
@@ -94,7 +56,7 @@
         "days": [
           2
         ],
-        "classroom": "O005"
+        "classroom": "12"
       }
     ],
     "professor_id": 112014,
@@ -113,7 +75,7 @@
         "days": [
           3
         ],
-        "classroom": "O005"
+        "classroom": "14"
       }
     ]
   },
@@ -127,7 +89,7 @@
         "days": [
           4
         ],
-        "classroom": "O005"
+        "classroom": "12"
       }
     ],
     "professor_id": 112014,
@@ -142,11 +104,11 @@
     "professor": "MARICARMEN GUILLEN MANDUJANO",
     "schedules": [
       {
-        "time": "13:00-15:00",
+        "time": "11:00-13:00",
         "days": [
           5
         ],
-        "classroom": "O005"
+        "classroom": "12"
       }
     ],
     "professor_id": 142033,
@@ -165,7 +127,7 @@
         "days": [
           1
         ],
-        "classroom": "O005"
+        "classroom": "12"
       }
     ],
     "professor_id": 102330,
@@ -184,7 +146,7 @@
         "days": [
           3
         ],
-        "classroom": "O005"
+        "classroom": "12"
       }
     ],
     "professor_id": 102330,
@@ -192,25 +154,6 @@
     "last_name": "Garduño Garcia",
     "rating": 7.2857,
     "num_ratings": 14
-  },
-  {
-    "code": "5507",
-    "group": "12",
-    "professor": "JOSE LUIS ESPINOZA RAMIREZ",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          4
-        ],
-        "classroom": "O005"
-      }
-    ],
-    "professor_id": 75503,
-    "first_name": "Jose Luis",
-    "last_name": "Espinoza",
-    "rating": 9.25,
-    "num_ratings": 12
   },
   {
     "code": "5507",
@@ -222,7 +165,7 @@
         "days": [
           1
         ],
-        "classroom": "O005"
+        "classroom": "12"
       }
     ],
     "professor_id": 75503,
@@ -241,7 +184,7 @@
         "days": [
           1
         ],
-        "classroom": "O005"
+        "classroom": "12"
       }
     ],
     "professor_id": 75503,
@@ -260,7 +203,7 @@
         "days": [
           2
         ],
-        "classroom": "O005"
+        "classroom": "12"
       }
     ],
     "professor_id": 102330,
@@ -268,43 +211,5 @@
     "last_name": "Garduño Garcia",
     "rating": 7.2857,
     "num_ratings": 14
-  },
-  {
-    "code": "5507",
-    "group": "16",
-    "professor": "JOSE LUIS ESPINOZA RAMIREZ",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          3
-        ],
-        "classroom": "O005"
-      }
-    ],
-    "professor_id": 75503,
-    "first_name": "Jose Luis",
-    "last_name": "Espinoza",
-    "rating": 9.25,
-    "num_ratings": 12
-  },
-  {
-    "code": "5507",
-    "group": "17",
-    "professor": "MARICARMEN GUILLEN MANDUJANO",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          4
-        ],
-        "classroom": "O005"
-      }
-    ],
-    "professor_id": 142033,
-    "first_name": "Ing. Maricarmen",
-    "last_name": "Guillen Mandujano",
-    "rating": 8.2667,
-    "num_ratings": 15
   }
 ]

@@ -2,21 +2,16 @@
   {
     "code": "1272",
     "group": "1",
-    "professor": "GIBRAN JALIL GARNICA CASTRO",
+    "professor": "JORGE ALFREDO FERRER PEREZ",
     "schedules": [
       {
-        "time": "13:00-14:30",
+        "time": "09:30-11:00",
         "days": [
-          2,
-          4
+          3,
+          5
         ],
-        "classroom": "Y204"
+        "classroom": "15"
       }
-    ],
-    "professor_id": 174613,
-    "first_name": "Gibran Jalil",
-    "last_name": "Garnica Castro",
-    "rating": 7.3636,
-    "num_ratings": 11
+    ]
   }
 ]

@@ -2,16 +2,20 @@
   {
     "code": "3075",
     "group": "1",
-    "professor": "EMILIA ISABEL GARCIA MARTINEZ",
+    "professor": "JESUS MANUEL DORADOR GONZALEZ",
     "schedules": [
       {
-        "time": "13:00-15:00",
+        "time": "09:00-13:00",
         "days": [
-          1,
-          3
+          2
         ],
-        "classroom": "B203"
+        "classroom": "15"
       }
-    ]
+    ],
+    "professor_id": 79634,
+    "first_name": "Jesus manuel",
+    "last_name": "Dorador González",
+    "rating": 8.1111,
+    "num_ratings": 9
   }
 ]

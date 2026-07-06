@@ -10,7 +10,7 @@
           2,
           4
         ],
-        "classroom": "A207"
+        "classroom": "30"
       }
     ],
     "professor_id": 78273,
@@ -30,7 +30,7 @@
           2,
           4
         ],
-        "classroom": "A204"
+        "classroom": "30"
       }
     ],
     "professor_id": 172599,
@@ -42,91 +42,41 @@
   {
     "code": "1444",
     "group": "3",
-    "professor": "MARCOS TREJO HERNANDEZ",
+    "professor": "GUILLERMO LLANOS BONILLA",
     "schedules": [
       {
-        "time": "13:00-14:30",
+        "time": "14:30-16:00",
         "days": [
           2,
           4
         ],
-        "classroom": "Y104"
+        "classroom": "30"
       }
     ],
-    "professor_id": 71649,
-    "first_name": "Marcos",
-    "last_name": "Trejo Hernández",
-    "rating": 5.5,
-    "num_ratings": 14
+    "professor_id": 107514,
+    "first_name": "Guillermo",
+    "last_name": "Llanos Bonilla",
+    "rating": 6.33,
+    "num_ratings": 24
   },
   {
     "code": "1444",
     "group": "4",
-    "professor": "Grupo cancelado, contactar a la División.",
+    "professor": "JOSE ALONSO ALANIS ROJAS",
     "schedules": [
       {
-        "time": "16:00-17:30",
+        "time": "17:30-19:00",
         "days": [
           2,
           4
         ],
-        "classroom": "A304"
+        "classroom": "30"
       }
     ]
   },
   {
     "code": "1444",
     "group": "5",
-    "professor": "JOSE ALONSO ALANIS ROJAS",
-    "schedules": [
-      {
-        "time": "16:00-17:30",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "Y205"
-      }
-    ]
-  },
-  {
-    "code": "1444",
-    "group": "6",
-    "professor": "Grupo cancelado, contactar a la División.",
-    "schedules": [
-      {
-        "time": "14:30-16:00",
-        "days": [
-          3,
-          5
-        ],
-        "classroom": "A308"
-      }
-    ]
-  },
-  {
-    "code": "1444",
-    "group": "7",
-    "professor": "HERIBERTO ESQUIVEL CASTELLANOS",
-    "schedules": [
-      {
-        "time": "14:30-16:00",
-        "days": [
-          3,
-          5
-        ],
-        "classroom": "A307"
-      }
-    ],
-    "professor_id": 21650,
-    "first_name": "heriberto",
-    "last_name": "esquivel castellanos",
-    "rating": 7.175,
-    "num_ratings": 40
-  },
-  {
-    "code": "1444",
-    "group": "8",
     "professor": "ESTEBAN JAVIER FINO VELASCO",
     "schedules": [
       {
@@ -134,21 +84,7 @@
         "days": [
           6
         ],
-        "classroom": "A212"
-      }
-    ]
-  },
-  {
-    "code": "1444",
-    "group": "9",
-    "professor": "EDMUNDO SANCHEZ RAMIREZ",
-    "schedules": [
-      {
-        "time": "07:00-10:00",
-        "days": [
-          6
-        ],
-        "classroom": "A303"
+        "classroom": "30"
       }
     ]
   }

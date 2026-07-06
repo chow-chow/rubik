@@ -9,7 +9,7 @@
         "days": [
           6
         ],
-        "classroom": "DS07"
+        "classroom": "4"
       }
     ]
   },
@@ -23,7 +23,7 @@
         "days": [
           6
         ],
-        "classroom": "DS07"
+        "classroom": "4"
       }
     ],
     "professor_id": 134971,
@@ -42,7 +42,7 @@
         "days": [
           4
         ],
-        "classroom": "DS07"
+        "classroom": "4"
       }
     ],
     "professor_id": 93961,
@@ -54,15 +54,20 @@
   {
     "code": "5021",
     "group": "4",
-    "professor": "SANTIAGO VALENCIA CAÑOLA",
+    "professor": "RAMON SANDOVAL PEÑA",
     "schedules": [
       {
-        "time": "15:00-17:00",
+        "time": "11:00-13:00",
         "days": [
           1
         ],
-        "classroom": "DS07"
+        "classroom": "4"
       }
-    ]
+    ],
+    "professor_id": 134458,
+    "first_name": "Ramon",
+    "last_name": "Sandoval Peña",
+    "rating": 6.1,
+    "num_ratings": 10
   }
 ]

@@ -9,7 +9,7 @@
         "days": [
           1
         ],
-        "classroom": "P217"
+        "classroom": "12"
       }
     ],
     "professor_id": 104949,
@@ -20,7 +20,7 @@
   },
   {
     "code": "5558",
-    "group": "3",
+    "group": "2",
     "professor": "EDUARDO HERNANDEZ ROMERO",
     "schedules": [
       {
@@ -28,13 +28,13 @@
         "days": [
           2
         ],
-        "classroom": "P217"
+        "classroom": "12"
       }
     ]
   },
   {
     "code": "5558",
-    "group": "4",
+    "group": "3",
     "professor": "EDUARDO HERNANDEZ ROMERO",
     "schedules": [
       {
@@ -42,13 +42,13 @@
         "days": [
           3
         ],
-        "classroom": "P217"
+        "classroom": "12"
       }
     ]
   },
   {
     "code": "5558",
-    "group": "5",
+    "group": "4",
     "professor": "JAVIER GONZALEZ PRADO",
     "schedules": [
       {
@@ -56,7 +56,7 @@
         "days": [
           3
         ],
-        "classroom": "P217"
+        "classroom": "12"
       }
     ],
     "professor_id": 104949,
@@ -67,7 +67,7 @@
   },
   {
     "code": "5558",
-    "group": "6",
+    "group": "5",
     "professor": "JUAN MANUEL BARBOSA CASTILLO",
     "schedules": [
       {
@@ -75,7 +75,7 @@
         "days": [
           4
         ],
-        "classroom": "P217"
+        "classroom": "12"
       }
     ],
     "professor_id": 95329,
@@ -86,7 +86,7 @@
   },
   {
     "code": "5558",
-    "group": "7",
+    "group": "6",
     "professor": "JOSE ALBERTO ARELLANO FIGUEROA",
     "schedules": [
       {
@@ -94,7 +94,7 @@
         "days": [
           4
         ],
-        "classroom": "P217"
+        "classroom": "12"
       }
     ],
     "professor_id": 87572,
@@ -105,7 +105,7 @@
   },
   {
     "code": "5558",
-    "group": "8",
+    "group": "7",
     "professor": "JUAN MANUEL BARBOSA CASTILLO",
     "schedules": [
       {
@@ -113,7 +113,7 @@
         "days": [
           5
         ],
-        "classroom": "P217"
+        "classroom": "12"
       }
     ],
     "professor_id": 95329,
@@ -124,7 +124,7 @@
   },
   {
     "code": "5558",
-    "group": "9",
+    "group": "8",
     "professor": "ABEL VILLANUEVA PEÑA",
     "schedules": [
       {
@@ -132,7 +132,7 @@
         "days": [
           5
         ],
-        "classroom": "P217"
+        "classroom": "12"
       }
     ],
     "professor_id": 60921,
@@ -143,7 +143,7 @@
   },
   {
     "code": "5558",
-    "group": "10",
+    "group": "9",
     "professor": "JAVIER GONZALEZ PRADO",
     "schedules": [
       {
@@ -151,7 +151,7 @@
         "days": [
           5
         ],
-        "classroom": "P217"
+        "classroom": "12"
       }
     ],
     "professor_id": 104949,

@@ -5,11 +5,12 @@
     "professor": "FREDER BIDEGAIN GONZALEZ",
     "schedules": [
       {
-        "time": "07:00-10:00",
+        "time": "11:30-13:00",
         "days": [
-          5
+          2,
+          4
         ],
-        "classroom": "B409"
+        "classroom": "20"
       }
     ]
   }

@@ -1,23 +1,38 @@
 [
   {
     "code": "1997",
-    "group": "2",
-    "professor": "SOFIA MAGDALENA AVILA BECERRIL",
+    "group": "1",
+    "professor": "LEONID FRIDMAN",
     "schedules": [
       {
-        "time": "17:00-19:00",
+        "time": "09:00-11:00",
         "days": [
           1,
           3
         ],
-        "classroom": "J111"
+        "classroom": "35"
       }
     ],
-    "professor_id": 34036,
-    "first_name": "Sofia Magdalena",
-    "last_name": "Avila Becerril",
-    "rating": 9.1979,
-    "num_ratings": 96
+    "professor_id": 108660,
+    "first_name": "Leonid Fridman",
+    "last_name": "Goldreich",
+    "rating": 6.15,
+    "num_ratings": 13
+  },
+  {
+    "code": "1997",
+    "group": "2",
+    "professor": "MARCOS ANGEL GONZALEZ OLVERA",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "35"
+      }
+    ]
   },
   {
     "code": "1997",
@@ -30,7 +45,7 @@
           2,
           4
         ],
-        "classroom": "B306"
+        "classroom": "35"
       }
     ],
     "professor_id": 135659,
@@ -50,7 +65,7 @@
           2,
           4
         ],
-        "classroom": "B401"
+        "classroom": "35"
       }
     ],
     "professor_id": 162092,
@@ -70,7 +85,7 @@
           2,
           4
         ],
-        "classroom": "A206"
+        "classroom": "35"
       }
     ],
     "professor_id": 79245,
@@ -90,7 +105,7 @@
           2,
           4
         ],
-        "classroom": "D004"
+        "classroom": "35"
       }
     ],
     "professor_id": 124068,
@@ -98,25 +113,5 @@
     "last_name": "ROJAS GARCIA",
     "rating": 9.2273,
     "num_ratings": 22
-  },
-  {
-    "code": "1997",
-    "group": "7",
-    "professor": "LEONID FRIDMAN",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "A302"
-      }
-    ],
-    "professor_id": 108660,
-    "first_name": "Leonid Fridman",
-    "last_name": "Goldreich",
-    "rating": 6.15,
-    "num_ratings": 13
   }
 ]

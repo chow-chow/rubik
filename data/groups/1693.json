@@ -2,54 +2,16 @@
   {
     "code": "1693",
     "group": "1",
-    "professor": "MÉD TANIA ROCIO GARIBAY HUARTE",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          1,
-          3,
-          5
-        ],
-        "classroom": "DS11"
-      }
-    ]
-  },
-  {
-    "code": "1693",
-    "group": "2",
-    "professor": "EDUARDO MAURILIO PEREZ LOPEZ",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          1,
-          3,
-          5
-        ],
-        "classroom": "X101"
-      }
-    ]
-  },
-  {
-    "code": "1693",
-    "group": "3",
     "professor": "ANA BRISA GARCIA VILCHIS",
     "schedules": [
       {
         "time": "13:00-15:00",
         "days": [
           1,
-          3
-        ],
-        "classroom": "A109"
-      },
-      {
-        "time": "13:00-15:00",
-        "days": [
+          3,
           5
         ],
-        "classroom": "Y003"
+        "classroom": "10"
       }
     ]
   }

@@ -5,20 +5,12 @@
     "professor": "MAURICIO BUENDIA MILLAN",
     "schedules": [
       {
-        "time": "14:00-16:00",
+        "time": "16:00-18:00",
         "days": [
           2,
           4
         ],
-        "classroom": "C401"
-      },
-      {
-        "time": "16:00-17:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "C401"
+        "classroom": "15"
       }
     ]
   },
@@ -33,15 +25,7 @@
           3,
           5
         ],
-        "classroom": "SIN"
-      },
-      {
-        "time": "19:00-20:00",
-        "days": [
-          3,
-          5
-        ],
-        "classroom": "SIN"
+        "classroom": "15"
       }
     ]
   }

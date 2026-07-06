@@ -2,7 +2,7 @@
   {
     "code": "1093",
     "group": "1",
-    "professor": "LUIS AGUSTIN ALVAREZ ICAZA LONGORIA",
+    "professor": "LEONID FRIDMAN",
     "schedules": [
       {
         "time": "09:00-10:30",
@@ -10,13 +10,13 @@
           2,
           4
         ],
-        "classroom": "P113"
+        "classroom": "10"
       }
     ],
-    "professor_id": 104515,
-    "first_name": "Luis Agustín",
-    "last_name": "álvarez Icaza Longoria",
-    "rating": 5.6,
-    "num_ratings": 5
+    "professor_id": 108660,
+    "first_name": "Leonid Fridman",
+    "last_name": "Goldreich",
+    "rating": 6.15,
+    "num_ratings": 13
   }
 ]

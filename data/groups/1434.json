@@ -2,7 +2,7 @@
   {
     "code": "1434",
     "group": "1",
-    "professor": "MARIA EUGENIA CERVANTES VALENCIA",
+    "professor": "GUADALUPE MORALES RICARDES",
     "schedules": [
       {
         "time": "11:00-13:00",
@@ -10,22 +10,7 @@
           2,
           4
         ],
-        "classroom": "EXTR"
-      }
-    ]
-  },
-  {
-    "code": "1434",
-    "group": "2",
-    "professor": "JOSE ANGEL GUADALUPE SALGADO HERNANDEZ",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "EXTR"
+        "classroom": "20"
       }
     ]
   }

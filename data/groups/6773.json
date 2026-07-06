@@ -7,9 +7,28 @@
       {
         "time": "07:00-09:00",
         "days": [
+          1
+        ],
+        "classroom": "6"
+      }
+    ],
+    "professor_id": 134945,
+    "first_name": "Valentina Luisa",
+    "last_name": "Souza Rodríguez",
+    "rating": 8.625,
+    "num_ratings": 8
+  },
+  {
+    "code": "6773",
+    "group": "2",
+    "professor": "VALENTINA LUISA SOUZA RODRIGUEZ",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
           3
         ],
-        "classroom": "Q307"
+        "classroom": "6"
       }
     ],
     "professor_id": 134945,

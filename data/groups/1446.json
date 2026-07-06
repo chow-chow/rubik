@@ -8,16 +8,9 @@
         "time": "15:00-17:00",
         "days": [
           1,
-          5
-        ],
-        "classroom": "I105"
-      },
-      {
-        "time": "15:00-17:00",
-        "days": [
           3
         ],
-        "classroom": "G006"
+        "classroom": "20"
       }
     ],
     "professor_id": 87387,

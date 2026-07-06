@@ -5,12 +5,12 @@
     "professor": "MARICARMEN GUILLEN MANDUJANO",
     "schedules": [
       {
-        "time": "15:00-17:00",
+        "time": "13:00-15:00",
         "days": [
           3,
           5
         ],
-        "classroom": "J107"
+        "classroom": "10"
       }
     ],
     "professor_id": 142033,
@@ -18,20 +18,5 @@
     "last_name": "Guillen Mandujano",
     "rating": 8.2667,
     "num_ratings": 15
-  },
-  {
-    "code": "1899",
-    "group": "2",
-    "professor": "ZAIDA ESTEFANIA ALARCON BERNAL",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          3,
-          5
-        ],
-        "classroom": "EXTR"
-      }
-    ]
   }
 ]

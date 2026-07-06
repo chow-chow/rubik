@@ -2,14 +2,14 @@
   {
     "code": "6997",
     "group": "1",
-    "professor": "ANDRES GONZALEZ RODRIGUEZ",
+    "professor": "JUAN JOSE LOPEZ SOLORZANO",
     "schedules": [
       {
-        "time": "15:00-17:00",
+        "time": "13:00-15:00",
         "days": [
           1
         ],
-        "classroom": "P114"
+        "classroom": "10"
       }
     ]
   },
@@ -19,11 +19,11 @@
     "professor": "ADRIANA EUGENIA CHAVIRA DIAZ",
     "schedules": [
       {
-        "time": "07:00-09:00",
+        "time": "09:00-11:00",
         "days": [
-          2
+          1
         ],
-        "classroom": "P114"
+        "classroom": "10"
       }
     ],
     "professor_id": 112610,
@@ -42,7 +42,7 @@
         "days": [
           2
         ],
-        "classroom": "P114"
+        "classroom": "10"
       }
     ],
     "professor_id": 156041,
@@ -61,7 +61,7 @@
         "days": [
           2
         ],
-        "classroom": "P114"
+        "classroom": "10"
       }
     ],
     "professor_id": 104932,
@@ -80,7 +80,7 @@
         "days": [
           3
         ],
-        "classroom": "P114"
+        "classroom": "10"
       }
     ],
     "professor_id": 161143,
@@ -95,11 +95,11 @@
     "professor": "ADRIANA EUGENIA CHAVIRA DIAZ",
     "schedules": [
       {
-        "time": "15:00-17:00",
+        "time": "11:00-13:00",
         "days": [
           4
         ],
-        "classroom": "P114"
+        "classroom": "10"
       }
     ],
     "professor_id": 112610,
@@ -118,7 +118,7 @@
         "days": [
           4
         ],
-        "classroom": "P114"
+        "classroom": "10"
       }
     ],
     "professor_id": 156041,
@@ -137,13 +137,32 @@
         "days": [
           5
         ],
-        "classroom": "P114"
+        "classroom": "10"
       }
     ]
   },
   {
     "code": "6997",
     "group": "9",
+    "professor": "ADRIANA EUGENIA CHAVIRA DIAZ",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          5
+        ],
+        "classroom": "10"
+      }
+    ],
+    "professor_id": 112610,
+    "first_name": "Adriana Eugenia",
+    "last_name": "Chavira Diaz",
+    "rating": 9.2778,
+    "num_ratings": 18
+  },
+  {
+    "code": "6997",
+    "group": "10",
     "professor": "FERNANDA RAMOS GARCIA",
     "schedules": [
       {
@@ -151,7 +170,7 @@
         "days": [
           5
         ],
-        "classroom": "P114"
+        "classroom": "10"
       }
     ],
     "professor_id": 159593,
@@ -162,7 +181,7 @@
   },
   {
     "code": "6997",
-    "group": "10",
+    "group": "11",
     "professor": "DANIEL MARTINEZ GUTIERREZ",
     "schedules": [
       {
@@ -170,7 +189,7 @@
         "days": [
           5
         ],
-        "classroom": "P113"
+        "classroom": "10"
       }
     ],
     "professor_id": 87594,
@@ -178,24 +197,5 @@
     "last_name": "Martínez Gutierrez",
     "rating": 6.2105,
     "num_ratings": 19
-  },
-  {
-    "code": "6997",
-    "group": "11",
-    "professor": "ADRIANA EUGENIA CHAVIRA DIAZ",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          5
-        ],
-        "classroom": "P113"
-      }
-    ],
-    "professor_id": 112610,
-    "first_name": "Adriana Eugenia",
-    "last_name": "Chavira Diaz",
-    "rating": 9.2778,
-    "num_ratings": 18
   }
 ]

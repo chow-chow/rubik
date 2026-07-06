@@ -2,27 +2,20 @@
   {
     "code": "1451",
     "group": "1",
-    "professor": "SALVADOR ENRIQUE VILLALOBOS PEREZ",
+    "professor": "MARIA BEATRIZ DE LA MORA MOJICA",
     "schedules": [
       {
         "time": "11:00-13:00",
         "days": [
-          2
+          3
         ],
-        "classroom": "I204"
-      },
-      {
-        "time": "11:00-13:00",
-        "days": [
-          4
-        ],
-        "classroom": "H001"
+        "classroom": "30"
       }
     ],
-    "professor_id": 156721,
-    "first_name": "Salvador Enrique",
-    "last_name": "Villalobos Perez",
-    "rating": 5.6667,
-    "num_ratings": 18
+    "professor_id": 105490,
+    "first_name": "María Beatriz",
+    "last_name": "De La Mora Mojica",
+    "rating": 9.3636,
+    "num_ratings": 11
   }
 ]

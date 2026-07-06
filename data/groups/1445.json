@@ -2,67 +2,15 @@
   {
     "code": "1445",
     "group": "1",
-    "professor": "ELIA INES LUNA CEBALLOS",
+    "professor": "AMPARO BAÑUELOS DURAN",
     "schedules": [
       {
         "time": "07:00-09:00",
-        "days": [
-          2
-        ],
-        "classroom": "I103"
-      },
-      {
-        "time": "07:00-09:00",
-        "days": [
-          4
-        ],
-        "classroom": "I305"
-      }
-    ],
-    "professor_id": 84849,
-    "first_name": "Elia Inés",
-    "last_name": "Luna Ceballos",
-    "rating": 8.4588,
-    "num_ratings": 85
-  },
-  {
-    "code": "1445",
-    "group": "2",
-    "professor": "MIRIAM ESTELA LEMUS",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
         "days": [
           2,
           4
         ],
-        "classroom": "J205"
-      }
-    ],
-    "professor_id": 76408,
-    "first_name": "ESTELA",
-    "last_name": "LEMUS MIRIAM",
-    "rating": 6.0,
-    "num_ratings": 2
-  },
-  {
-    "code": "1445",
-    "group": "3",
-    "professor": "AMPARO BAÑUELOS DURAN",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          5
-        ],
-        "classroom": "J203"
-      },
-      {
-        "time": "09:00-11:00",
-        "days": [
-          3
-        ],
-        "classroom": "J205"
+        "classroom": "48"
       }
     ],
     "professor_id": 84651,
@@ -73,23 +21,48 @@
   },
   {
     "code": "1445",
-    "group": "4",
-    "professor": "ALEJANDRA VARGAS ESPINOZA DE LOS MONTEROS",
+    "group": "2",
+    "professor": "BERTHA ISABEL VEGA GALICIA",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1,
+          5
+        ],
+        "classroom": "35"
+      }
+    ],
+    "professor_id": 84414,
+    "first_name": "Bertha Isabel",
+    "last_name": "Vega Galicia",
+    "rating": 8.8182,
+    "num_ratings": 55
+  },
+  {
+    "code": "1445",
+    "group": "3",
+    "professor": "LILIANA FLORES GARCIA",
     "schedules": [
       {
         "time": "11:00-13:00",
         "days": [
-          2,
-          4
+          1,
+          3
         ],
-        "classroom": "J204"
+        "classroom": "35"
       }
-    ]
+    ],
+    "professor_id": 56184,
+    "first_name": "Liliana",
+    "last_name": "Flores Garcia",
+    "rating": 8.2128,
+    "num_ratings": 47
   },
   {
     "code": "1445",
-    "group": "5",
-    "professor": "DIANA SORIANO FERNANDEZ",
+    "group": "4",
+    "professor": "LILIANA FLORES GARCIA",
     "schedules": [
       {
         "time": "13:00-15:00",
@@ -97,73 +70,13 @@
           2,
           4
         ],
-        "classroom": "I202"
+        "classroom": "48"
       }
     ],
-    "professor_id": 162444,
-    "first_name": "Diana",
-    "last_name": "Soriano Fernández",
-    "rating": 7.5556,
-    "num_ratings": 18
-  },
-  {
-    "code": "1445",
-    "group": "6",
-    "professor": "ARMANDO MOISES PEREZ SILVA",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          3,
-          5
-        ],
-        "classroom": "J201"
-      }
-    ],
-    "professor_id": 133428,
-    "first_name": "Armando Moisés",
-    "last_name": "Pérez Silva",
-    "rating": 9.5556,
-    "num_ratings": 9
-  },
-  {
-    "code": "1445",
-    "group": "7",
-    "professor": "SANDRA ALVARADO LOPEZ",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "J104"
-      }
-    ],
-    "professor_id": 100430,
-    "first_name": "Sandra",
-    "last_name": "Alvarado Lopez",
-    "rating": 7.0,
-    "num_ratings": 6
-  },
-  {
-    "code": "1445",
-    "group": "8",
-    "professor": "DIANA SORIANO FERNANDEZ",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "I105"
-      }
-    ],
-    "professor_id": 162444,
-    "first_name": "Diana",
-    "last_name": "Soriano Fernández",
-    "rating": 7.5556,
-    "num_ratings": 18
+    "professor_id": 56184,
+    "first_name": "Liliana",
+    "last_name": "Flores Garcia",
+    "rating": 8.2128,
+    "num_ratings": 47
   }
 ]

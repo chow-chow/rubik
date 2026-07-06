@@ -9,7 +9,7 @@
         "days": [
           1
         ],
-        "classroom": "Q108"
+        "classroom": "18"
       }
     ],
     "professor_id": 99064,
@@ -21,6 +21,25 @@
   {
     "code": "5138",
     "group": "2",
+    "professor": "DOMINGO TEODORO MENDOZA ROSALES",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1
+        ],
+        "classroom": "18"
+      }
+    ],
+    "professor_id": 71346,
+    "first_name": "Domingo Teodoro",
+    "last_name": "Mendoza Rosales",
+    "rating": 6.9565,
+    "num_ratings": 69
+  },
+  {
+    "code": "5138",
+    "group": "3",
     "professor": "JAIME HECTOR MURILLO QUINTERO",
     "schedules": [
       {
@@ -28,7 +47,7 @@
         "days": [
           2
         ],
-        "classroom": "Q109"
+        "classroom": "18"
       }
     ],
     "professor_id": 94156,
@@ -39,21 +58,21 @@
   },
   {
     "code": "5138",
-    "group": "3",
+    "group": "4",
     "professor": "RICARDO ALBERTO SOLIS ESTRADA",
     "schedules": [
       {
-        "time": "15:00-17:00",
+        "time": "17:00-19:00",
         "days": [
           2
         ],
-        "classroom": "Q108"
+        "classroom": "18"
       }
     ]
   },
   {
     "code": "5138",
-    "group": "4",
+    "group": "5",
     "professor": "RAUL RUVALCABA MORALES",
     "schedules": [
       {
@@ -61,7 +80,7 @@
         "days": [
           3
         ],
-        "classroom": "Q108"
+        "classroom": "18"
       }
     ],
     "professor_id": 99902,
@@ -72,7 +91,7 @@
   },
   {
     "code": "5138",
-    "group": "5",
+    "group": "6",
     "professor": "JESUS MARIA FRANCISCO HERNANDEZ MORALES",
     "schedules": [
       {
@@ -80,7 +99,7 @@
         "days": [
           3
         ],
-        "classroom": "Q108"
+        "classroom": "18"
       }
     ],
     "professor_id": 80201,
@@ -91,7 +110,7 @@
   },
   {
     "code": "5138",
-    "group": "6",
+    "group": "7",
     "professor": "ISMAEL ROMERO OCARANZA",
     "schedules": [
       {
@@ -99,7 +118,7 @@
         "days": [
           3
         ],
-        "classroom": "Q108"
+        "classroom": "18"
       }
     ],
     "professor_id": 89949,
@@ -110,7 +129,21 @@
   },
   {
     "code": "5138",
-    "group": "7",
+    "group": "8",
+    "professor": "SALVADOR EMILIO SIERRA BENAVIDEZ",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          3
+        ],
+        "classroom": "18"
+      }
+    ]
+  },
+  {
+    "code": "5138",
+    "group": "9",
     "professor": "JAIME HECTOR MURILLO QUINTERO",
     "schedules": [
       {
@@ -118,7 +151,7 @@
         "days": [
           4
         ],
-        "classroom": "Q108"
+        "classroom": "18"
       }
     ],
     "professor_id": 94156,
@@ -129,7 +162,7 @@
   },
   {
     "code": "5138",
-    "group": "8",
+    "group": "10",
     "professor": "ROMAN VICTORIANO OSORIO COMPARAN",
     "schedules": [
       {
@@ -137,7 +170,7 @@
         "days": [
           5
         ],
-        "classroom": "Q108"
+        "classroom": "18"
       }
     ],
     "professor_id": 108136,
@@ -148,7 +181,26 @@
   },
   {
     "code": "5138",
-    "group": "9",
+    "group": "11",
+    "professor": "ISMAEL ROMERO OCARANZA",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          5
+        ],
+        "classroom": "18"
+      }
+    ],
+    "professor_id": 89949,
+    "first_name": "ISMAEL",
+    "last_name": "ROMERO OCARANZA",
+    "rating": 6.2963,
+    "num_ratings": 27
+  },
+  {
+    "code": "5138",
+    "group": "12",
     "professor": "PATRICIA ARANDA MELO",
     "schedules": [
       {
@@ -156,7 +208,7 @@
         "days": [
           6
         ],
-        "classroom": "Q107"
+        "classroom": "18"
       }
     ],
     "professor_id": 124066,

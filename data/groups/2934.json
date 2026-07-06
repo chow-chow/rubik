@@ -2,6 +2,26 @@
   {
     "code": "2934",
     "group": "1",
+    "professor": "ANTONIO MONTALVO GARCIA",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "40"
+      }
+    ],
+    "professor_id": 75394,
+    "first_name": "ANTONIO",
+    "last_name": "MONTALVO GARCIA",
+    "rating": 6.1786,
+    "num_ratings": 28
+  },
+  {
+    "code": "2934",
+    "group": "2",
     "professor": "CINTIA QUEZADA REYES",
     "schedules": [
       {
@@ -10,7 +30,7 @@
           2,
           4
         ],
-        "classroom": "Y202"
+        "classroom": "40"
       }
     ],
     "professor_id": 75919,
@@ -21,7 +41,7 @@
   },
   {
     "code": "2934",
-    "group": "2",
+    "group": "3",
     "professor": "DULCE CAMPOS DEL RAZO",
     "schedules": [
       {
@@ -30,7 +50,7 @@
           3,
           5
         ],
-        "classroom": "SIN"
+        "classroom": "40"
       }
     ],
     "professor_id": 149586,
@@ -41,36 +61,21 @@
   },
   {
     "code": "2934",
-    "group": "3",
-    "professor": "DEMIAN ROBERTO GARCIA VELAZQUEZVer Nota 1",
+    "group": "4",
+    "professor": "DEMIAN ROBERTO GARCIA VELAZQUEZ",
     "schedules": [
       {
         "time": "09:00-13:00",
         "days": [
           6
         ],
-        "classroom": "B306"
-      }
-    ]
-  },
-  {
-    "code": "2934",
-    "group": "4",
-    "professor": "ANTONIO MONTALVO GARCIA",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "B408"
+        "classroom": "40"
       }
     ],
-    "professor_id": 75394,
-    "first_name": "ANTONIO",
-    "last_name": "MONTALVO GARCIA",
-    "rating": 6.1786,
-    "num_ratings": 28
+    "professor_id": 161303,
+    "first_name": "Demian",
+    "last_name": "Garcia Velazquez",
+    "rating": 6.2222,
+    "num_ratings": 18
   }
 ]

@@ -2,26 +2,6 @@
   {
     "code": "2304",
     "group": "1",
-    "professor": "JUVENTINO CUELLAR GONZALEZ",
-    "schedules": [
-      {
-        "time": "09:30-11:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "Q309"
-      }
-    ],
-    "professor_id": 99008,
-    "first_name": "Juventino",
-    "last_name": "Cuellar Gonzalez",
-    "rating": 8.0,
-    "num_ratings": 5
-  },
-  {
-    "code": "2304",
-    "group": "2",
     "professor": "SERGIY KHOTYAINTSEV",
     "schedules": [
       {
@@ -30,8 +10,28 @@
           2,
           4
         ],
-        "classroom": "Q307"
+        "classroom": "5"
       }
     ]
+  },
+  {
+    "code": "2304",
+    "group": "2",
+    "professor": "JUVENTINO CUELLAR GONZALEZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "5"
+      }
+    ],
+    "professor_id": 99008,
+    "first_name": "Juventino",
+    "last_name": "Cuellar Gonzalez",
+    "rating": 8.0,
+    "num_ratings": 5
   }
 ]

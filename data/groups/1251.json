@@ -5,12 +5,11 @@
     "professor": "JOSE OMAR CRUZ SANTIAGOVer Nota 1",
     "schedules": [
       {
-        "time": "17:30-19:00",
+        "time": "13:00-16:00",
         "days": [
-          1,
-          3
+          5
         ],
-        "classroom": "Y204"
+        "classroom": "15"
       }
     ]
   }

@@ -10,7 +10,7 @@
           2,
           4
         ],
-        "classroom": "C103"
+        "classroom": "18"
       }
     ],
     "professor_id": 90939,
@@ -29,22 +29,7 @@
         "days": [
           5
         ],
-        "classroom": "C204"
-      }
-    ]
-  },
-  {
-    "code": "1583",
-    "group": "3",
-    "professor": "VICTOR ANDRES LOJERO OCHOA",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "C303"
+        "classroom": "18"
       }
     ]
   }

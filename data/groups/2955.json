@@ -1,7 +1,7 @@
 [
   {
     "code": "2955",
-    "group": "3",
+    "group": "1",
     "professor": "MIGUEL PEREZ GASPAR",
     "schedules": [
       {
@@ -9,7 +9,7 @@
         "days": [
           5
         ],
-        "classroom": "A306"
+        "classroom": "15"
       }
     ],
     "professor_id": 184516,
@@ -17,5 +17,24 @@
     "last_name": "Pérez Gaspar",
     "rating": 8.6,
     "num_ratings": 5
+  },
+  {
+    "code": "2955",
+    "group": "2",
+    "professor": "JUANA JULIETA NOGUEZ MONROY",
+    "schedules": [
+      {
+        "time": "14:00-17:00",
+        "days": [
+          1
+        ],
+        "classroom": "15"
+      }
+    ],
+    "professor_id": 184451,
+    "first_name": "Juana Julieta",
+    "last_name": "Noguez Monroy",
+    "rating": 5.0,
+    "num_ratings": 2
   }
 ]

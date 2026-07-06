@@ -2,6 +2,25 @@
   {
     "code": "7706",
     "group": "1",
+    "professor": "ISMAEL ROMERO OCARANZA",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1
+        ],
+        "classroom": "7"
+      }
+    ],
+    "professor_id": 89949,
+    "first_name": "ISMAEL",
+    "last_name": "ROMERO OCARANZA",
+    "rating": 6.2963,
+    "num_ratings": 27
+  },
+  {
+    "code": "7706",
+    "group": "2",
     "professor": "ERNESTO RAMIREZ CRUZ",
     "schedules": [
       {
@@ -9,7 +28,7 @@
         "days": [
           4
         ],
-        "classroom": "Q315"
+        "classroom": "7"
       }
     ],
     "professor_id": 130840,

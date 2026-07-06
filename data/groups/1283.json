@@ -5,12 +5,12 @@
     "professor": "MANUEL SALGADO CRUZ",
     "schedules": [
       {
-        "time": "17:30-19:00",
+        "time": "17:00-18:30",
         "days": [
-          2,
-          4
+          4,
+          5
         ],
-        "classroom": "EXTR"
+        "classroom": "15"
       }
     ]
   }

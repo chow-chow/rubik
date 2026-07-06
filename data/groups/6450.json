@@ -2,28 +2,47 @@
   {
     "code": "6450",
     "group": "1",
-    "professor": "GIOVANNI ALDANA GUTIERREZ",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          1
-        ],
-        "classroom": "H004"
-      }
-    ]
-  },
-  {
-    "code": "6450",
-    "group": "2",
-    "professor": "FABIOLA VEGA GARCIA",
+    "professor": "MAYRA LEON SANTIAGO",
     "schedules": [
       {
         "time": "13:00-15:00",
         "days": [
           1
         ],
-        "classroom": "H004"
+        "classroom": "20"
+      }
+    ],
+    "professor_id": 176747,
+    "first_name": "Mayra",
+    "last_name": "León Santiago",
+    "rating": 9.25,
+    "num_ratings": 4
+  },
+  {
+    "code": "6450",
+    "group": "2",
+    "professor": "MONSERRAT AGUILAR PICHARDO",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2
+        ],
+        "classroom": "20"
+      }
+    ]
+  },
+  {
+    "code": "6450",
+    "group": "3",
+    "professor": "FABIOLA VEGA GARCIA",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          2
+        ],
+        "classroom": "20"
       }
     ],
     "professor_id": 177118,
@@ -34,125 +53,35 @@
   },
   {
     "code": "6450",
-    "group": "3",
-    "professor": "VIANEY FRANCO GARCIA",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          1
-        ],
-        "classroom": "H004"
-      }
-    ],
-    "professor_id": 46452,
-    "first_name": "Vianey",
-    "last_name": "Franco García",
-    "rating": 7.1,
-    "num_ratings": 20
-  },
-  {
-    "code": "6450",
     "group": "4",
-    "professor": "ANA LAURA PEREZ MARTINEZ",
+    "professor": "ROXANA ISELA NORIEGA NAVARRO",
     "schedules": [
       {
-        "time": "11:00-13:00",
+        "time": "09:00-11:00",
         "days": [
-          2
+          3
         ],
-        "classroom": "H004"
+        "classroom": "20"
       }
-    ],
-    "professor_id": 51350,
-    "first_name": "Ana Laura",
-    "last_name": "Pérez Martínez",
-    "rating": 7.2895,
-    "num_ratings": 38
+    ]
   },
   {
     "code": "6450",
     "group": "5",
-    "professor": "MAYRA LEON SANTIAGO",
+    "professor": "LUIS EDGARDO VIGUERAS RUEDA",
     "schedules": [
       {
-        "time": "13:00-15:00",
+        "time": "17:00-19:00",
         "days": [
-          2
+          4
         ],
-        "classroom": "H004"
+        "classroom": "20"
       }
-    ],
-    "professor_id": 176747,
-    "first_name": "Mayra",
-    "last_name": "León Santiago",
-    "rating": 9.25,
-    "num_ratings": 4
+    ]
   },
   {
     "code": "6450",
     "group": "6",
-    "professor": "KARINA HERRERA GUZMAN",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          3
-        ],
-        "classroom": "H004"
-      }
-    ]
-  },
-  {
-    "code": "6450",
-    "group": "7",
-    "professor": "LUIS EDGARDO VIGUERAS RUEDA",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          3
-        ],
-        "classroom": "H004"
-      }
-    ]
-  },
-  {
-    "code": "6450",
-    "group": "8",
-    "professor": "MAYRA LEON SANTIAGO",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          4
-        ],
-        "classroom": "H004"
-      }
-    ],
-    "professor_id": 176747,
-    "first_name": "Mayra",
-    "last_name": "León Santiago",
-    "rating": 9.25,
-    "num_ratings": 4
-  },
-  {
-    "code": "6450",
-    "group": "9",
-    "professor": "LUIS EDGARDO VIGUERAS RUEDA",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          4
-        ],
-        "classroom": "H004"
-      }
-    ]
-  },
-  {
-    "code": "6450",
-    "group": "10",
     "professor": "LUIS PEÑA CRUZ",
     "schedules": [
       {
@@ -160,7 +89,7 @@
         "days": [
           5
         ],
-        "classroom": "H004"
+        "classroom": "20"
       }
     ],
     "professor_id": 128316,
@@ -168,19 +97,5 @@
     "last_name": "Peña Cruz",
     "rating": 6.2727,
     "num_ratings": 11
-  },
-  {
-    "code": "6450",
-    "group": "11",
-    "professor": "MONSERRAT AGUILAR PICHARDO",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          5
-        ],
-        "classroom": "H004"
-      }
-    ]
   }
 ]

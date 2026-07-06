@@ -11,8 +11,28 @@
           3,
           5
         ],
-        "classroom": "C302"
+        "classroom": "13"
       }
     ]
+  },
+  {
+    "code": "1729",
+    "group": "2",
+    "professor": "NORMA BETANIA PALACIOS GARCIA",
+    "schedules": [
+      {
+        "time": "13:00-16:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "13"
+      }
+    ],
+    "professor_id": 191047,
+    "first_name": "Norma Betania",
+    "last_name": "Palacios García",
+    "rating": 10.0,
+    "num_ratings": 2
   }
 ]

@@ -5,12 +5,12 @@
     "professor": "KARINA HERRERA GUZMAN",
     "schedules": [
       {
-        "time": "13:00-14:30",
+        "time": "17:00-18:30",
         "days": [
-          2,
-          4
+          1,
+          5
         ],
-        "classroom": "J102"
+        "classroom": "48"
       }
     ]
   }

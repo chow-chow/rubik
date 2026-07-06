@@ -1,54 +1,21 @@
 [
   {
     "code": "1130",
-    "group": "1",
-    "professor": "EDUARDO BERNAL VARGAS",
+    "group": "7",
+    "professor": "JORGE ISUNZA HERNANDEZ",
     "schedules": [
       {
         "time": "13:00-15:00",
         "days": [
           2
         ],
-        "classroom": "J104"
-      },
-      {
-        "time": "13:00-15:00",
-        "days": [
-          4
-        ],
-        "classroom": "H002"
+        "classroom": "48"
       }
     ],
-    "professor_id": 105127,
-    "first_name": "Eduardo",
-    "last_name": "Bernal Vargas",
-    "rating": 9.6471,
-    "num_ratings": 17
-  },
-  {
-    "code": "1130",
-    "group": "2",
-    "professor": "MARIA OFELIA RODRIGUEZ DURAN",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          2
-        ],
-        "classroom": "J106"
-      },
-      {
-        "time": "17:00-19:00",
-        "days": [
-          4
-        ],
-        "classroom": "H002"
-      }
-    ],
-    "professor_id": 74107,
-    "first_name": "María Ofelia",
-    "last_name": "Rodriguez Durán",
-    "rating": 7.2727,
-    "num_ratings": 55
+    "professor_id": 49393,
+    "first_name": "Jorge",
+    "last_name": "Isunza Hernández",
+    "rating": 4.6429,
+    "num_ratings": 14
   }
 ]

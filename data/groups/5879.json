@@ -9,7 +9,7 @@
         "days": [
           1
         ],
-        "classroom": "Q303"
+        "classroom": "7"
       }
     ],
     "professor_id": 82398,
@@ -28,7 +28,7 @@
         "days": [
           1
         ],
-        "classroom": "Q303"
+        "classroom": "7"
       }
     ],
     "professor_id": 82398,
@@ -47,7 +47,7 @@
         "days": [
           1
         ],
-        "classroom": "Q307"
+        "classroom": "7"
       }
     ],
     "professor_id": 134945,
@@ -66,7 +66,7 @@
         "days": [
           1
         ],
-        "classroom": "Q303"
+        "classroom": "7"
       }
     ],
     "professor_id": 99092,
@@ -85,7 +85,7 @@
         "days": [
           1
         ],
-        "classroom": "Q303"
+        "classroom": "7"
       }
     ],
     "professor_id": 99092,
@@ -104,7 +104,7 @@
         "days": [
           1
         ],
-        "classroom": "Q303"
+        "classroom": "7"
       }
     ],
     "professor_id": 99092,
@@ -116,25 +116,6 @@
   {
     "code": "5879",
     "group": "7",
-    "professor": "CHRISTIAN HERNANDEZ SANTIAGO",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          2
-        ],
-        "classroom": "Q303"
-      }
-    ],
-    "professor_id": 94393,
-    "first_name": "CHRISTIAN",
-    "last_name": "HERNANDEZ SANTIAGO",
-    "rating": 9.3889,
-    "num_ratings": 18
-  },
-  {
-    "code": "5879",
-    "group": "8",
     "professor": "ROGELIO TORRES CABRERA",
     "schedules": [
       {
@@ -142,7 +123,7 @@
         "days": [
           2
         ],
-        "classroom": "Q303"
+        "classroom": "7"
       }
     ],
     "professor_id": 162569,
@@ -153,7 +134,7 @@
   },
   {
     "code": "5879",
-    "group": "9",
+    "group": "8",
     "professor": "JESUS CASTELAN MARTINEZ",
     "schedules": [
       {
@@ -161,9 +142,28 @@
         "days": [
           2
         ],
-        "classroom": "Q303"
+        "classroom": "7"
       }
     ]
+  },
+  {
+    "code": "5879",
+    "group": "9",
+    "professor": "CHRISTIAN HERNANDEZ SANTIAGO",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2
+        ],
+        "classroom": "7"
+      }
+    ],
+    "professor_id": 94393,
+    "first_name": "CHRISTIAN",
+    "last_name": "HERNANDEZ SANTIAGO",
+    "rating": 9.3889,
+    "num_ratings": 18
   },
   {
     "code": "5879",
@@ -175,7 +175,7 @@
         "days": [
           3
         ],
-        "classroom": "Q303"
+        "classroom": "7"
       }
     ],
     "professor_id": 162569,
@@ -183,6 +183,20 @@
     "last_name": "Torres Cabrera",
     "rating": 9.75,
     "num_ratings": 8
+  },
+  {
+    "code": "5879",
+    "group": "11",
+    "professor": "JESUS CASTELAN MARTINEZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          3
+        ],
+        "classroom": "7"
+      }
+    ]
   },
   {
     "code": "5879",
@@ -194,7 +208,7 @@
         "days": [
           3
         ],
-        "classroom": "Q303"
+        "classroom": "7"
       }
     ],
     "professor_id": 82398,
@@ -213,7 +227,7 @@
         "days": [
           3
         ],
-        "classroom": "Q303"
+        "classroom": "7"
       }
     ],
     "professor_id": 94393,
@@ -232,7 +246,7 @@
         "days": [
           3
         ],
-        "classroom": "Q303"
+        "classroom": "7"
       }
     ],
     "professor_id": 99092,
@@ -251,7 +265,7 @@
         "days": [
           4
         ],
-        "classroom": "Q303"
+        "classroom": "7"
       }
     ],
     "professor_id": 23484,
@@ -270,7 +284,7 @@
         "days": [
           4
         ],
-        "classroom": "Q303"
+        "classroom": "7"
       }
     ],
     "professor_id": 141855,
@@ -289,7 +303,7 @@
         "days": [
           4
         ],
-        "classroom": "Q303"
+        "classroom": "7"
       }
     ],
     "professor_id": 141855,
@@ -308,7 +322,7 @@
         "days": [
           4
         ],
-        "classroom": "Q303"
+        "classroom": "7"
       }
     ]
   },
@@ -322,7 +336,7 @@
         "days": [
           4
         ],
-        "classroom": "Q303"
+        "classroom": "7"
       }
     ]
   },
@@ -336,7 +350,7 @@
         "days": [
           4
         ],
-        "classroom": "Q303"
+        "classroom": "7"
       }
     ],
     "professor_id": 149553,
@@ -355,7 +369,7 @@
         "days": [
           5
         ],
-        "classroom": "Q303"
+        "classroom": "7"
       }
     ],
     "professor_id": 162569,
@@ -374,7 +388,7 @@
         "days": [
           5
         ],
-        "classroom": "Q303"
+        "classroom": "7"
       }
     ],
     "professor_id": 162569,
@@ -393,7 +407,7 @@
         "days": [
           5
         ],
-        "classroom": "Q303"
+        "classroom": "7"
       }
     ],
     "professor_id": 94393,
@@ -401,24 +415,5 @@
     "last_name": "HERNANDEZ SANTIAGO",
     "rating": 9.3889,
     "num_ratings": 18
-  },
-  {
-    "code": "5879",
-    "group": "24",
-    "professor": "LUIS RAUL FLORES CORONEL",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          5
-        ],
-        "classroom": "Q303"
-      }
-    ],
-    "professor_id": 23484,
-    "first_name": "luis",
-    "last_name": "flores",
-    "rating": 2.3333,
-    "num_ratings": 3
   }
 ]

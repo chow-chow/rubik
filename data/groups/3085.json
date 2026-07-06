@@ -10,7 +10,7 @@
           2,
           4
         ],
-        "classroom": "EXTR"
+        "classroom": "15"
       }
     ],
     "professor_id": 118817,
@@ -18,40 +18,5 @@
     "last_name": "Gonzalez Rodriguez",
     "rating": 9.5,
     "num_ratings": 4
-  },
-  {
-    "code": "3085",
-    "group": "2",
-    "professor": "Grupo cancelado, contactar a la División.",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "D003"
-      }
-    ]
-  },
-  {
-    "code": "3085",
-    "group": "3",
-    "professor": "DAVID PADILLA MEDINA",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "A203"
-      }
-    ],
-    "professor_id": 177195,
-    "first_name": "David",
-    "last_name": "Padilla Medina",
-    "rating": 10.0,
-    "num_ratings": 2
   }
 ]

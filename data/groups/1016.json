@@ -2,7 +2,26 @@
   {
     "code": "1016",
     "group": "1",
-    "professor": "RODOLFO SOTO CARRASCO",
+    "professor": "GERARDO LOREDO LOPEZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1
+        ],
+        "classroom": "35"
+      }
+    ],
+    "professor_id": 172325,
+    "first_name": "Gerardo",
+    "last_name": "Loredo López",
+    "rating": 8.0,
+    "num_ratings": 5
+  },
+  {
+    "code": "1016",
+    "group": "2",
+    "professor": "PROFESOR POR ASIGNAR",
     "schedules": [
       {
         "time": "19:00-21:00",
@@ -10,18 +29,13 @@
           2,
           4
         ],
-        "classroom": "B401"
+        "classroom": "35"
       }
-    ],
-    "professor_id": 134031,
-    "first_name": "Rodolfo",
-    "last_name": "Soto Carrasco",
-    "rating": 7.6667,
-    "num_ratings": 9
+    ]
   },
   {
     "code": "1016",
-    "group": "2",
+    "group": "3",
     "professor": "JORGE VELAZQUEZ RAMIREZ",
     "schedules": [
       {
@@ -30,7 +44,7 @@
           2,
           4
         ],
-        "classroom": "A107"
+        "classroom": "35"
       }
     ],
     "professor_id": 74006,
@@ -38,25 +52,5 @@
     "last_name": "Velazquez Ramirez",
     "rating": 8.43,
     "num_ratings": 30
-  },
-  {
-    "code": "1016",
-    "group": "3",
-    "professor": "JORGE QUINTANA CASTAÑEDA",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          3,
-          4
-        ],
-        "classroom": "B106"
-      }
-    ],
-    "professor_id": 95193,
-    "first_name": "jorge",
-    "last_name": "quintana castañeda",
-    "rating": 4.33,
-    "num_ratings": 18
   }
 ]

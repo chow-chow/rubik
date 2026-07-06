@@ -2,14 +2,15 @@
   {
     "code": "2935",
     "group": "1",
-    "professor": "Grupo cancelado, contactar a la División.",
+    "professor": "ALEJANDRA GUZMAN CORTES",
     "schedules": [
       {
-        "time": "07:00-10:00",
+        "time": "13:30-15:00",
         "days": [
-          3
+          2,
+          4
         ],
-        "classroom": "R029"
+        "classroom": "10"
       }
     ]
   },
@@ -24,7 +25,7 @@
           2,
           4
         ],
-        "classroom": "R004"
+        "classroom": "10"
       }
     ]
   }

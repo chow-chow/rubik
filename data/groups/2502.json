@@ -8,24 +8,32 @@
         "time": "07:00-08:30",
         "days": [
           1,
-          3
+          3,
+          5
         ],
-        "classroom": "A404"
+        "classroom": "20"
       }
     ]
   },
   {
     "code": "2502",
     "group": "2",
-    "professor": "Grupo cancelado, contactar a la División.",
+    "professor": "LUIS ARMANDO HERNANDEZ GONZALEZ",
     "schedules": [
       {
-        "time": "07:00-08:00",
+        "time": "14:30-16:00",
         "days": [
+          1,
+          3,
           5
         ],
-        "classroom": "A404"
+        "classroom": "20"
       }
-    ]
+    ],
+    "professor_id": 189926,
+    "first_name": "Luis Armando",
+    "last_name": "Hernández González",
+    "rating": 9.5,
+    "num_ratings": 2
   }
 ]

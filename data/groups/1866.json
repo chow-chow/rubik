@@ -2,7 +2,7 @@
   {
     "code": "1866",
     "group": "1",
-    "professor": "JUAN JOSE GARCIA ROMERO",
+    "professor": "JUAN JOSE GARCIA ROMEROVer Nota 1",
     "schedules": [
       {
         "time": "07:00-08:30",
@@ -10,14 +10,9 @@
           2,
           4
         ],
-        "classroom": "B306"
+        "classroom": "30"
       }
-    ],
-    "professor_id": 142145,
-    "first_name": "Juan",
-    "last_name": "Garcia Romero",
-    "rating": 8.4,
-    "num_ratings": 5
+    ]
   },
   {
     "code": "1866",
@@ -29,7 +24,7 @@
         "days": [
           6
         ],
-        "classroom": "B304"
+        "classroom": "30"
       }
     ],
     "professor_id": 172881,

@@ -2,15 +2,21 @@
   {
     "code": "3009",
     "group": "1",
-    "professor": "EDGAR SALAZAR SALAZAR",
+    "professor": "MARCO ANTONIO POLO LABARRIOS",
     "schedules": [
       {
-        "time": "13:00-17:00",
+        "time": "17:00-19:00",
         "days": [
-          5
+          2,
+          4
         ],
-        "classroom": "B101"
+        "classroom": "20"
       }
-    ]
+    ],
+    "professor_id": 147325,
+    "first_name": "Marco Antonio",
+    "last_name": "Polo Labarrios",
+    "rating": 8.1429,
+    "num_ratings": 7
   }
 ]

@@ -9,7 +9,7 @@
         "days": [
           1
         ],
-        "classroom": "Q314"
+        "classroom": "7"
       }
     ]
   },
@@ -23,7 +23,7 @@
         "days": [
           1
         ],
-        "classroom": "Q316"
+        "classroom": "6"
       }
     ],
     "professor_id": 141855,
@@ -42,7 +42,7 @@
         "days": [
           1
         ],
-        "classroom": "Q314"
+        "classroom": "7"
       }
     ],
     "professor_id": 23484,
@@ -61,7 +61,7 @@
         "days": [
           2
         ],
-        "classroom": "Q316"
+        "classroom": "6"
       }
     ],
     "professor_id": 142432,
@@ -80,7 +80,7 @@
         "days": [
           2
         ],
-        "classroom": "Q314"
+        "classroom": "7"
       }
     ],
     "professor_id": 99903,
@@ -99,7 +99,7 @@
         "days": [
           2
         ],
-        "classroom": "Q314"
+        "classroom": "6"
       }
     ],
     "professor_id": 89949,
@@ -118,27 +118,13 @@
         "days": [
           2
         ],
-        "classroom": "Q316"
+        "classroom": "7"
       }
     ]
   },
   {
     "code": "6999",
     "group": "8",
-    "professor": "ALBERTO ISRAEL HERRERA MARTINEZ",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          2
-        ],
-        "classroom": "Q316"
-      }
-    ]
-  },
-  {
-    "code": "6999",
-    "group": "9",
     "professor": "ESPERANZA GUERRA ZAMORA",
     "schedules": [
       {
@@ -146,13 +132,13 @@
         "days": [
           2
         ],
-        "classroom": "Q314"
+        "classroom": "6"
       }
     ]
   },
   {
     "code": "6999",
-    "group": "10",
+    "group": "9",
     "professor": "FLORICEL RAMOS VARGAS",
     "schedules": [
       {
@@ -160,7 +146,26 @@
         "days": [
           3
         ],
-        "classroom": "Q314"
+        "classroom": "7"
+      }
+    ],
+    "professor_id": 89946,
+    "first_name": "FLORICEL",
+    "last_name": "RAMOS VARGAS",
+    "rating": 5.8974,
+    "num_ratings": 39
+  },
+  {
+    "code": "6999",
+    "group": "10",
+    "professor": "FLORICEL RAMOS VARGAS",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          3
+        ],
+        "classroom": "6"
       }
     ],
     "professor_id": 89946,
@@ -172,25 +177,6 @@
   {
     "code": "6999",
     "group": "11",
-    "professor": "FLORICEL RAMOS VARGAS",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          3
-        ],
-        "classroom": "Q316"
-      }
-    ],
-    "professor_id": 89946,
-    "first_name": "FLORICEL",
-    "last_name": "RAMOS VARGAS",
-    "rating": 5.8974,
-    "num_ratings": 39
-  },
-  {
-    "code": "6999",
-    "group": "12",
     "professor": "MARIO ALBERTO HERNANDEZ ROMAN",
     "schedules": [
       {
@@ -198,13 +184,13 @@
         "days": [
           4
         ],
-        "classroom": "Q314"
+        "classroom": "7"
       }
     ]
   },
   {
     "code": "6999",
-    "group": "14",
+    "group": "12",
     "professor": "ISMAEL ROMERO OCARANZA",
     "schedules": [
       {
@@ -212,7 +198,7 @@
         "days": [
           4
         ],
-        "classroom": "Q314"
+        "classroom": "6"
       }
     ],
     "professor_id": 89949,
@@ -223,7 +209,7 @@
   },
   {
     "code": "6999",
-    "group": "15",
+    "group": "13",
     "professor": "EDGAR SENOBIO MOZO RAMOS",
     "schedules": [
       {
@@ -231,7 +217,7 @@
         "days": [
           4
         ],
-        "classroom": "Q316"
+        "classroom": "7"
       }
     ],
     "professor_id": 149553,
@@ -242,7 +228,7 @@
   },
   {
     "code": "6999",
-    "group": "16",
+    "group": "14",
     "professor": "JOSE ALBERTO LOPEZ CERVANTES",
     "schedules": [
       {
@@ -250,7 +236,40 @@
         "days": [
           5
         ],
-        "classroom": "Q316"
+        "classroom": "6"
+      }
+    ],
+    "professor_id": 99903,
+    "first_name": "José Alberto",
+    "last_name": "López Cervantes",
+    "rating": 8.8,
+    "num_ratings": 10
+  },
+  {
+    "code": "6999",
+    "group": "15",
+    "professor": "JESUS ALEJANDRO FLORES RAMIREZ",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          6
+        ],
+        "classroom": "7"
+      }
+    ]
+  },
+  {
+    "code": "6999",
+    "group": "16",
+    "professor": "JOSE ALBERTO LOPEZ CERVANTES",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          6
+        ],
+        "classroom": "6"
       }
     ],
     "professor_id": 99903,
@@ -262,39 +281,6 @@
   {
     "code": "6999",
     "group": "17",
-    "professor": "JESUS ALEJANDRO FLORES RAMIREZ",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          6
-        ],
-        "classroom": "Q314"
-      }
-    ]
-  },
-  {
-    "code": "6999",
-    "group": "18",
-    "professor": "JOSE ALBERTO LOPEZ CERVANTES",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          6
-        ],
-        "classroom": "Q316"
-      }
-    ],
-    "professor_id": 99903,
-    "first_name": "José Alberto",
-    "last_name": "López Cervantes",
-    "rating": 8.8,
-    "num_ratings": 10
-  },
-  {
-    "code": "6999",
-    "group": "19",
     "professor": "JOSE ALBERTO LOPEZ CERVANTES",
     "schedules": [
       {
@@ -302,7 +288,7 @@
         "days": [
           6
         ],
-        "classroom": "Q316"
+        "classroom": "7"
       }
     ],
     "professor_id": 99903,

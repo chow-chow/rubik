@@ -2,27 +2,6 @@
   {
     "code": "1424",
     "group": "1",
-    "professor": "PAVEL RAMOS MARTINEZ",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          3
-        ],
-        "classroom": "J102"
-      },
-      {
-        "time": "07:00-09:00",
-        "days": [
-          1
-        ],
-        "classroom": "J101"
-      }
-    ]
-  },
-  {
-    "code": "1424",
-    "group": "2",
     "professor": "SAUL LAZCANO SALAS",
     "schedules": [
       {
@@ -31,7 +10,7 @@
           2,
           4
         ],
-        "classroom": "J102"
+        "classroom": "48"
       }
     ],
     "professor_id": 149542,
@@ -42,68 +21,27 @@
   },
   {
     "code": "1424",
+    "group": "2",
+    "professor": "DANIEL PEÑA MACIEL",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          3
+        ],
+        "classroom": "48"
+      }
+    ],
+    "professor_id": 84731,
+    "first_name": "Daniel",
+    "last_name": "Peña Maciel",
+    "rating": 7.2222,
+    "num_ratings": 27
+  },
+  {
+    "code": "1424",
     "group": "3",
-    "professor": "MANUEL CORTES RUBIO",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          3,
-          5
-        ],
-        "classroom": "J208"
-      }
-    ],
-    "professor_id": 100208,
-    "first_name": "Manuel",
-    "last_name": "Cortes Rubio",
-    "rating": 8.6265,
-    "num_ratings": 83
-  },
-  {
-    "code": "1424",
-    "group": "4",
-    "professor": "DANIEL PEÑA MACIEL",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          1,
-          5
-        ],
-        "classroom": "J104"
-      }
-    ],
-    "professor_id": 84731,
-    "first_name": "Daniel",
-    "last_name": "Peña Maciel",
-    "rating": 7.2222,
-    "num_ratings": 27
-  },
-  {
-    "code": "1424",
-    "group": "5",
-    "professor": "DANIEL PEÑA MACIEL",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "J210"
-      }
-    ],
-    "professor_id": 84731,
-    "first_name": "Daniel",
-    "last_name": "Peña Maciel",
-    "rating": 7.2222,
-    "num_ratings": 27
-  },
-  {
-    "code": "1424",
-    "group": "6",
-    "professor": "EDGAR ALI RAMOS GOMEZ",
+    "professor": "RODRIGO ROBLES MONTERO",
     "schedules": [
       {
         "time": "11:00-13:00",
@@ -111,14 +49,52 @@
           2,
           4
         ],
-        "classroom": "I206"
+        "classroom": "48"
       }
     ],
-    "professor_id": 84254,
-    "first_name": "Ali",
-    "last_name": "Ramos Gómez",
-    "rating": 8.4384,
-    "num_ratings": 73
+    "professor_id": 99320,
+    "first_name": "Rodrigo",
+    "last_name": "Robles Montero",
+    "rating": 7.9737,
+    "num_ratings": 38
+  },
+  {
+    "code": "1424",
+    "group": "4",
+    "professor": "HERIBERTO DE JESUS AGUILAR JUAREZ",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          5
+        ],
+        "classroom": "48"
+      }
+    ],
+    "professor_id": 78508,
+    "first_name": "Heriberto de Jesús",
+    "last_name": "Aguilar Juárez",
+    "rating": 8.65,
+    "num_ratings": 40
+  },
+  {
+    "code": "1424",
+    "group": "5",
+    "professor": "SALVADOR ENRIQUE VILLALOBOS PEREZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1
+        ],
+        "classroom": "48"
+      }
+    ],
+    "professor_id": 156721,
+    "first_name": "Salvador Enrique",
+    "last_name": "Villalobos Perez",
+    "rating": 5.6667,
+    "num_ratings": 18
   },
   {
     "code": "1424",
@@ -126,12 +102,12 @@
     "professor": "CYNTHIA LISSETH VELAZCO VELASCO",
     "schedules": [
       {
-        "time": "13:00-15:00",
+        "time": "17:00-19:00",
         "days": [
           2,
           4
         ],
-        "classroom": "I105"
+        "classroom": "48"
       }
     ],
     "professor_id": 86508,
@@ -143,87 +119,22 @@
   {
     "code": "1424",
     "group": "8",
-    "professor": "MANUEL CORTES RUBIO",
+    "professor": "PAVEL RAMOS MARTINEZ",
     "schedules": [
       {
-        "time": "13:00-15:00",
-        "days": [
-          3,
-          5
-        ],
-        "classroom": "I106"
-      }
-    ],
-    "professor_id": 100208,
-    "first_name": "Manuel",
-    "last_name": "Cortes Rubio",
-    "rating": 8.6265,
-    "num_ratings": 83
-  },
-  {
-    "code": "1424",
-    "group": "9",
-    "professor": "HERIBERTO DE JESUS AGUILAR JUAREZ",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
+        "time": "19:00-21:00",
         "days": [
           1,
           3
         ],
-        "classroom": "J207"
+        "classroom": "35"
       }
-    ],
-    "professor_id": 78508,
-    "first_name": "Heriberto de Jesús",
-    "last_name": "Aguilar Juárez",
-    "rating": 8.65,
-    "num_ratings": 40
+    ]
   },
   {
     "code": "1424",
-    "group": "10",
-    "professor": "CYNTHIA LISSETH VELAZCO VELASCO",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "J103"
-      }
-    ],
-    "professor_id": 86508,
-    "first_name": "Cynthia Lisseth",
-    "last_name": "Velazco Velasco",
-    "rating": 7.2182,
-    "num_ratings": 55
-  },
-  {
-    "code": "1424",
-    "group": "11",
-    "professor": "JOSE LUIS FLORES SILVA",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "J108"
-      }
-    ],
-    "professor_id": 43499,
-    "first_name": "Jose luis",
-    "last_name": "Flores Silva",
-    "rating": 7.4107,
-    "num_ratings": 56
-  },
-  {
-    "code": "1424",
-    "group": "12",
-    "professor": "SALVADOR ENRIQUE VILLALOBOS PEREZ",
+    "group": "6",
+    "professor": "Grupo cancelado, contactar a la División.",
     "schedules": [
       {
         "time": "17:00-19:00",
@@ -231,13 +142,8 @@
           1,
           3
         ],
-        "classroom": "J103"
+        "classroom": "0"
       }
-    ],
-    "professor_id": 156721,
-    "first_name": "Salvador Enrique",
-    "last_name": "Villalobos Perez",
-    "rating": 5.6667,
-    "num_ratings": 18
+    ]
   }
 ]

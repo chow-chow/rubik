@@ -9,7 +9,7 @@
         "days": [
           3
         ],
-        "classroom": "S201"
+        "classroom": "5"
       }
     ],
     "professor_id": 109198,
@@ -21,20 +21,20 @@
   {
     "code": "7908",
     "group": "2",
-    "professor": "JESUS HERNANDEZ SANCHEZ",
+    "professor": "LUIS MIGUEL CASTRO GONZALEZ",
     "schedules": [
       {
-        "time": "19:00-21:00",
+        "time": "11:00-13:00",
         "days": [
           2
         ],
-        "classroom": "S201"
+        "classroom": "18"
       }
     ],
-    "professor_id": 172361,
-    "first_name": "Jesús",
-    "last_name": "Hernández",
-    "rating": 9.5,
-    "num_ratings": 2
+    "professor_id": 99894,
+    "first_name": "Luis Miguel",
+    "last_name": "Castro González",
+    "rating": 6.875,
+    "num_ratings": 16
   }
 ]

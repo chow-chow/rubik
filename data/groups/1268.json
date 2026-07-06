@@ -2,15 +2,30 @@
   {
     "code": "1268",
     "group": "1",
-    "professor": "ANDRES DAVID FLORES FERRO",
+    "professor": "KEVIN AXEL VARGAS ZAMUDIO",
     "schedules": [
       {
-        "time": "08:30-10:00",
+        "time": "07:00-08:30",
         "days": [
           1,
           3
         ],
-        "classroom": "EXTR"
+        "classroom": "30"
+      }
+    ]
+  },
+  {
+    "code": "1268",
+    "group": "2",
+    "professor": "GUILLERMO OCAÑA ANAYA",
+    "schedules": [
+      {
+        "time": "17:30-19:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "30"
       }
     ]
   }

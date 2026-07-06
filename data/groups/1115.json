@@ -10,7 +10,7 @@
           2,
           4
         ],
-        "classroom": "C403"
+        "classroom": "25"
       }
     ],
     "professor_id": 99243,
@@ -18,5 +18,20 @@
     "last_name": "SILLER GARCIA",
     "rating": 6.7143,
     "num_ratings": 7
+  },
+  {
+    "code": "1115",
+    "group": "2",
+    "professor": "RODRIGUEZ TOSTADO JOSE ANTONIO",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "20"
+      }
+    ]
   }
 ]

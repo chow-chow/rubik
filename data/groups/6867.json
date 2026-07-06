@@ -9,7 +9,7 @@
         "days": [
           2
         ],
-        "classroom": "Q209"
+        "classroom": "18"
       }
     ],
     "professor_id": 149934,
@@ -28,7 +28,7 @@
         "days": [
           2
         ],
-        "classroom": "Q209"
+        "classroom": "18"
       }
     ],
     "professor_id": 124016,
@@ -47,7 +47,7 @@
         "days": [
           3
         ],
-        "classroom": "Q209"
+        "classroom": "18"
       }
     ],
     "professor_id": 149934,
@@ -62,11 +62,11 @@
     "professor": "DIANA KAREN PEREZ PEREZ",
     "schedules": [
       {
-        "time": "15:00-17:00",
+        "time": "13:00-15:00",
         "days": [
-          3
+          2
         ],
-        "classroom": "Q209"
+        "classroom": "18"
       }
     ]
   },
@@ -80,7 +80,7 @@
         "days": [
           3
         ],
-        "classroom": "Q209"
+        "classroom": "18"
       }
     ],
     "professor_id": 66377,
@@ -95,11 +95,11 @@
     "professor": "DIANA KAREN PEREZ PEREZ",
     "schedules": [
       {
-        "time": "17:00-19:00",
+        "time": "13:00-15:00",
         "days": [
           4
         ],
-        "classroom": "Q209"
+        "classroom": "18"
       }
     ]
   },
@@ -113,7 +113,7 @@
         "days": [
           5
         ],
-        "classroom": "Q209"
+        "classroom": "18"
       }
     ],
     "professor_id": 160861,
@@ -132,7 +132,7 @@
         "days": [
           6
         ],
-        "classroom": "Q209"
+        "classroom": "18"
       }
     ],
     "professor_id": 36956,

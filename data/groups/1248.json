@@ -2,21 +2,35 @@
   {
     "code": "1248",
     "group": "1",
-    "professor": "OMAR OLIVARES REYES",
+    "professor": "ERIK VARGAS ROJASVer Nota 1",
     "schedules": [
       {
-        "time": "19:00-21:00",
+        "time": "11:00-13:00",
         "days": [
-          2,
-          4
+          1
         ],
-        "classroom": "J206"
+        "classroom": "30"
+      }
+    ]
+  },
+  {
+    "code": "1248",
+    "group": "2",
+    "professor": "DAVID ISRAEL POSADAS NAVARRO",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "30"
       }
     ],
-    "professor_id": 163564,
-    "first_name": "Omar",
-    "last_name": "Olivares Reyes",
-    "rating": 7.4286,
-    "num_ratings": 7
+    "professor_id": 96627,
+    "first_name": "David Israel",
+    "last_name": "Posadas Navarro",
+    "rating": 9.6923,
+    "num_ratings": 13
   }
 ]

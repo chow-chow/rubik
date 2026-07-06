@@ -2,7 +2,7 @@
   {
     "code": "1320",
     "group": "1",
-    "professor": "Grupo cancelado, contactar a la División.",
+    "professor": "MARIA MARGARITA ZAYIL SALAZAR CAMPOS",
     "schedules": [
       {
         "time": "11:00-13:00",
@@ -10,7 +10,47 @@
           1,
           3
         ],
-        "classroom": "O102"
+        "classroom": "15"
+      }
+    ],
+    "professor_id": 89958,
+    "first_name": "Zayil",
+    "last_name": "Salazar Campos",
+    "rating": 8.0,
+    "num_ratings": 31
+  },
+  {
+    "code": "1320",
+    "group": "2",
+    "professor": "MIGUEL ALEJANDRO MALDONADO GORDILLO",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "15"
+      }
+    ],
+    "professor_id": 113918,
+    "first_name": "Miguel",
+    "last_name": "Maldonado",
+    "rating": 9.0,
+    "num_ratings": 4
+  },
+  {
+    "code": "1320",
+    "group": "3",
+    "professor": "NORMA LILIA MORALES GARCIA",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "15"
       }
     ]
   }

@@ -2,7 +2,7 @@
   {
     "code": "1648",
     "group": "1",
-    "professor": "ESTRELLA CRUZ REYES",
+    "professor": "Grupo cancelado, contactar a la División.",
     "schedules": [
       {
         "time": "07:00-08:30",
@@ -10,8 +10,28 @@
           2,
           4
         ],
-        "classroom": "R206"
+        "classroom": "15"
       }
     ]
+  },
+  {
+    "code": "1648",
+    "group": "2",
+    "professor": "CLAUDIA ELISA SANCHEZ NAVARRO",
+    "schedules": [
+      {
+        "time": "17:30-19:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "15"
+      }
+    ],
+    "professor_id": 68129,
+    "first_name": "Claudia Elisa",
+    "last_name": "Sanchez Navarro",
+    "rating": 4.7727,
+    "num_ratings": 22
   }
 ]

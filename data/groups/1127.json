@@ -1,85 +1,7 @@
 [
   {
     "code": "1127",
-    "group": "1",
-    "professor": "JORGE LUIS LOPEZ GARCIA",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          2
-        ],
-        "classroom": "P003"
-      },
-      {
-        "time": "09:00-11:00",
-        "days": [
-          4
-        ],
-        "classroom": "P003"
-      }
-    ],
-    "professor_id": 64679,
-    "first_name": "Jorge Luis",
-    "last_name": "López García",
-    "rating": 8.507,
-    "num_ratings": 71
-  },
-  {
-    "code": "1127",
-    "group": "2",
-    "professor": "DULCE MONICA CASTILLO CORONA",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          2
-        ],
-        "classroom": "A305"
-      },
-      {
-        "time": "11:00-13:00",
-        "days": [
-          4
-        ],
-        "classroom": "Q008"
-      }
-    ],
-    "professor_id": 49563,
-    "first_name": "Dulce Monica",
-    "last_name": "Castillo Corona",
-    "rating": 7.09,
-    "num_ratings": 90
-  },
-  {
-    "code": "1127",
-    "group": "3",
-    "professor": "JESSICA ROJAS SERRANO",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          4
-        ],
-        "classroom": "A206"
-      },
-      {
-        "time": "11:00-13:00",
-        "days": [
-          2
-        ],
-        "classroom": "Q007"
-      }
-    ],
-    "professor_id": 187681,
-    "first_name": "ING. JESSICA",
-    "last_name": "ROJAS SERRANO",
-    "rating": 9.3333,
-    "num_ratings": 12
-  },
-  {
-    "code": "1127",
-    "group": "4",
+    "group": "31",
     "professor": "MARIA GUADALUPE MORALES NAVA",
     "schedules": [
       {
@@ -87,14 +9,7 @@
         "days": [
           2
         ],
-        "classroom": "I306"
-      },
-      {
-        "time": "13:00-15:00",
-        "days": [
-          4
-        ],
-        "classroom": "Q007"
+        "classroom": "20"
       }
     ],
     "professor_id": 58571,
@@ -105,7 +20,7 @@
   },
   {
     "code": "1127",
-    "group": "5",
+    "group": "32",
     "professor": "ERNESTO MENDEZ HERNANDEZ",
     "schedules": [
       {
@@ -113,41 +28,8 @@
         "days": [
           2
         ],
-        "classroom": "B106"
-      },
-      {
-        "time": "19:00-21:00",
-        "days": [
-          4
-        ],
-        "classroom": "Q008"
+        "classroom": "20"
       }
     ]
-  },
-  {
-    "code": "1127",
-    "group": "6",
-    "professor": "JESSICA ROJAS SERRANO",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          1
-        ],
-        "classroom": "A206"
-      },
-      {
-        "time": "15:00-17:00",
-        "days": [
-          3
-        ],
-        "classroom": "Q007"
-      }
-    ],
-    "professor_id": 187681,
-    "first_name": "ING. JESSICA",
-    "last_name": "ROJAS SERRANO",
-    "rating": 9.3333,
-    "num_ratings": 12
   }
 ]

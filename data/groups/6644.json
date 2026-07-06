@@ -2,28 +2,14 @@
   {
     "code": "6644",
     "group": "1",
-    "professor": "JESSICA HUELGAS MORENO",
+    "professor": "MARTHA LOPEZ PELCASTRE",
     "schedules": [
       {
         "time": "07:00-09:00",
         "days": [
-          2
+          1
         ],
-        "classroom": "T101"
-      }
-    ]
-  },
-  {
-    "code": "6644",
-    "group": "2",
-    "professor": "MARTHA LOPEZ PELCASTRE",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          2
-        ],
-        "classroom": "T101"
+        "classroom": "28"
       }
     ],
     "professor_id": 114128,
@@ -34,15 +20,34 @@
   },
   {
     "code": "6644",
+    "group": "2",
+    "professor": "LUCILA PATRICIA ARELLANO MENDOZA",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          4
+        ],
+        "classroom": "28"
+      }
+    ],
+    "professor_id": 79253,
+    "first_name": "Lucila Patricia",
+    "last_name": "Arellano Mendoza",
+    "rating": 6.8723,
+    "num_ratings": 47
+  },
+  {
+    "code": "6644",
     "group": "3",
     "professor": "JUAN ANGEL CALVILLO PEREZ",
     "schedules": [
       {
-        "time": "15:00-17:00",
+        "time": "17:00-19:00",
         "days": [
           2
         ],
-        "classroom": "T101"
+        "classroom": "28"
       }
     ],
     "professor_id": 135119,
@@ -57,11 +62,11 @@
     "professor": "JUAN ANGEL CALVILLO PEREZ",
     "schedules": [
       {
-        "time": "17:00-19:00",
+        "time": "19:00-21:00",
         "days": [
           2
         ],
-        "classroom": "T101"
+        "classroom": "28"
       }
     ],
     "professor_id": 135119,
@@ -80,7 +85,7 @@
         "days": [
           4
         ],
-        "classroom": "T101"
+        "classroom": "28"
       }
     ],
     "professor_id": 105202,
@@ -99,7 +104,7 @@
         "days": [
           5
         ],
-        "classroom": "T101"
+        "classroom": "28"
       }
     ],
     "professor_id": 108516,
@@ -118,7 +123,7 @@
         "days": [
           5
         ],
-        "classroom": "T101"
+        "classroom": "28"
       }
     ],
     "professor_id": 114128,
@@ -137,7 +142,7 @@
         "days": [
           6
         ],
-        "classroom": "T101"
+        "classroom": "28"
       }
     ],
     "professor_id": 114128,
@@ -156,7 +161,7 @@
         "days": [
           3
         ],
-        "classroom": "T101"
+        "classroom": "28"
       }
     ],
     "professor_id": 173728,
@@ -164,5 +169,24 @@
     "last_name": "Brito Segura",
     "rating": 9.8,
     "num_ratings": 5
+  },
+  {
+    "code": "6644",
+    "group": "10",
+    "professor": "JORGE LUIS LOPEZ GARCIA",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1
+        ],
+        "classroom": "28"
+      }
+    ],
+    "professor_id": 64679,
+    "first_name": "Jorge Luis",
+    "last_name": "López García",
+    "rating": 8.507,
+    "num_ratings": 71
   }
 ]

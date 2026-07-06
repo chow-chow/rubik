@@ -1,25 +1,6 @@
 [
   {
     "code": "2805",
-    "group": "1",
-    "professor": "MIGUEL ANGEL ROJAS GARCIA",
-    "schedules": [
-      {
-        "time": "09:00-13:00",
-        "days": [
-          6
-        ],
-        "classroom": "B203"
-      }
-    ],
-    "professor_id": 124035,
-    "first_name": "ING. MIGUEL ANGEL",
-    "last_name": "ROJAS GARCIA",
-    "rating": 4.5,
-    "num_ratings": 8
-  },
-  {
-    "code": "2805",
     "group": "2",
     "professor": "ALFREDO NAVA RODRIGUEZ",
     "schedules": [
@@ -29,7 +10,7 @@
           2,
           4
         ],
-        "classroom": "O103"
+        "classroom": "35"
       }
     ],
     "professor_id": 153236,
@@ -48,7 +29,7 @@
         "days": [
           6
         ],
-        "classroom": "B301"
+        "classroom": "35"
       }
     ]
   },
@@ -63,7 +44,7 @@
           2,
           4
         ],
-        "classroom": "B104"
+        "classroom": "35"
       }
     ],
     "professor_id": 186560,

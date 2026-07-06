@@ -10,7 +10,7 @@
           2,
           4
         ],
-        "classroom": "J107"
+        "classroom": "20"
       }
     ]
   },
@@ -25,7 +25,7 @@
           2,
           4
         ],
-        "classroom": "A203"
+        "classroom": "20"
       }
     ],
     "professor_id": 95794,
@@ -45,7 +45,7 @@
           1,
           5
         ],
-        "classroom": "J107"
+        "classroom": "15"
       }
     ],
     "professor_id": 104858,
@@ -53,5 +53,35 @@
     "last_name": "Perez Duran",
     "rating": 8.7778,
     "num_ratings": 27
+  },
+  {
+    "code": "3077",
+    "group": "4",
+    "professor": "SAUL ARMANDO SANDOVAL TAMAYO",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "15"
+      }
+    ]
+  },
+  {
+    "code": "3077",
+    "group": "5",
+    "professor": "BENITO SANCHEZ LARA",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "15"
+      }
+    ]
   }
 ]

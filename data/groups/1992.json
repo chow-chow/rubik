@@ -2,14 +2,14 @@
   {
     "code": "1992",
     "group": "1",
-    "professor": "Grupo cancelado, contactar a la División.",
+    "professor": "NOE JESUS JUAREZ DOMINGUEZ",
     "schedules": [
       {
         "time": "07:00-09:00",
         "days": [
           2
         ],
-        "classroom": "B406"
+        "classroom": "15"
       }
     ]
   },
@@ -23,7 +23,7 @@
         "days": [
           2
         ],
-        "classroom": "A401"
+        "classroom": "15"
       }
     ]
   },
@@ -37,7 +37,7 @@
         "days": [
           4
         ],
-        "classroom": "D009"
+        "classroom": "15"
       }
     ]
   },
@@ -51,7 +51,7 @@
         "days": [
           4
         ],
-        "classroom": "A205"
+        "classroom": "15"
       }
     ],
     "professor_id": 68400,

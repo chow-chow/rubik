@@ -1,21 +1,40 @@
 [
   {
     "code": "6774",
-    "group": "1",
-    "professor": "NORMA REYES CRUZ",
+    "group": "2",
+    "professor": "OLEKSANDR MARTYNYUK",
     "schedules": [
       {
-        "time": "07:00-09:00",
+        "time": "09:00-11:00",
         "days": [
-          2
+          5
         ],
-        "classroom": "P002"
+        "classroom": "7"
       }
     ],
-    "professor_id": 141855,
-    "first_name": "Norma",
-    "last_name": "Reyes Cruz",
-    "rating": 8.3333,
+    "professor_id": 161583,
+    "first_name": "Oleksandr",
+    "last_name": "Martynyuk",
+    "rating": 10.0,
+    "num_ratings": 6
+  },
+  {
+    "code": "6774",
+    "group": "3",
+    "professor": "OLEKSANDR MARTYNYUK",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          5
+        ],
+        "classroom": "7"
+      }
+    ],
+    "professor_id": 161583,
+    "first_name": "Oleksandr",
+    "last_name": "Martynyuk",
+    "rating": 10.0,
     "num_ratings": 6
   }
 ]

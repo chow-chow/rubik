@@ -1,0 +1,22 @@
+[
+  {
+    "code": "1261",
+    "group": "1",
+    "professor": "MAGDALENA TRUJILLO BARRAGAN",
+    "schedules": [
+      {
+        "time": "09:30-11:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "15"
+      }
+    ],
+    "professor_id": 91353,
+    "first_name": "Magdalena",
+    "last_name": "Trujillo Barragán",
+    "rating": 5.75,
+    "num_ratings": 4
+  }
+]

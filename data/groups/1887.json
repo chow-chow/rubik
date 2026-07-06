@@ -7,10 +7,9 @@
       {
         "time": "15:00-17:00",
         "days": [
-          2,
-          4
+          2
         ],
-        "classroom": "S003"
+        "classroom": "12"
       }
     ]
   },
@@ -22,10 +21,9 @@
       {
         "time": "09:00-11:00",
         "days": [
-          3,
           5
         ],
-        "classroom": "R237"
+        "classroom": "15"
       }
     ],
     "professor_id": 186614,

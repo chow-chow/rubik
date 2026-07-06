@@ -9,14 +9,7 @@
         "days": [
           2
         ],
-        "classroom": "EXTR"
-      },
-      {
-        "time": "07:00-09:00",
-        "days": [
-          6
-        ],
-        "classroom": "EXTR"
+        "classroom": "10"
       }
     ]
   },
@@ -31,7 +24,7 @@
           2,
           4
         ],
-        "classroom": "EXTR"
+        "classroom": "10"
       }
     ]
   },
@@ -46,7 +39,7 @@
           2,
           4
         ],
-        "classroom": "EXTR"
+        "classroom": "10"
       }
     ],
     "professor_id": 149445,
@@ -65,7 +58,7 @@
         "days": [
           6
         ],
-        "classroom": "EXTR"
+        "classroom": "10"
       }
     ]
   },
@@ -75,12 +68,26 @@
     "professor": "DAVID ABRAHAM BARRERA GARCIA",
     "schedules": [
       {
-        "time": "07:00-09:00",
+        "time": "19:00-21:00",
         "days": [
           2,
           4
         ],
-        "classroom": "N005"
+        "classroom": "10"
+      }
+    ]
+  },
+  {
+    "code": "2077",
+    "group": "6",
+    "professor": "SANTIAGO VALENCIA CAÑOLA",
+    "schedules": [
+      {
+        "time": "07:00-11:00",
+        "days": [
+          6
+        ],
+        "classroom": "10"
       }
     ]
   }

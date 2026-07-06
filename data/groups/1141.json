@@ -2,26 +2,6 @@
   {
     "code": "1141",
     "group": "1",
-    "professor": "JUAN CARLOS JIMENEZ VELAZQUEZ",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "C105"
-      }
-    ],
-    "professor_id": 31343,
-    "first_name": "Juan",
-    "last_name": "Velazquez",
-    "rating": 8.1667,
-    "num_ratings": 6
-  },
-  {
-    "code": "1141",
-    "group": "2",
     "professor": "VICTOR ORLANDO MAGAÑA RUEDA",
     "schedules": [
       {
@@ -30,13 +10,13 @@
           2,
           4
         ],
-        "classroom": "B406"
+        "classroom": "10"
       }
     ]
   },
   {
     "code": "1141",
-    "group": "3",
+    "group": "2",
     "professor": "ERNESTO DOS SANTOS CAETANO NETO",
     "schedules": [
       {
@@ -45,28 +25,13 @@
           1,
           3
         ],
-        "classroom": "U304"
+        "classroom": "10"
       }
     ]
   },
   {
     "code": "1141",
-    "group": "4",
-    "professor": "SAUL ARCINIEGA ESPARZA",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "C106"
-      }
-    ]
-  },
-  {
-    "code": "1141",
-    "group": "5",
+    "group": "3",
     "professor": "DANIEL ARMANDO PEREZ CALDERON",
     "schedules": [
       {
@@ -75,7 +40,7 @@
           2,
           4
         ],
-        "classroom": "C204"
+        "classroom": "10"
       }
     ],
     "professor_id": 124736,
@@ -86,22 +51,7 @@
   },
   {
     "code": "1141",
-    "group": "6",
-    "professor": "RAUL VALENZUELA WONG",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "A401"
-      }
-    ]
-  },
-  {
-    "code": "1141",
-    "group": "7",
+    "group": "4",
     "professor": "ITZEL ISUNZA MANRIQUE",
     "schedules": [
       {
@@ -110,7 +60,7 @@
           2,
           4
         ],
-        "classroom": "A401"
+        "classroom": "10"
       }
     ]
   }
