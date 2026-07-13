@@ -15,8 +15,8 @@
     "professor_id": 68042,
     "first_name": "carlos alberto",
     "last_name": "rosas gutierrez",
-    "rating": 6.7778,
-    "num_ratings": 18
+    "rating": 6.9474,
+    "num_ratings": 19
   },
   {
     "code": "1433",
@@ -73,8 +73,8 @@
     "professor_id": 51439,
     "first_name": "Maritza",
     "last_name": "Arganis",
-    "rating": 7.4419,
-    "num_ratings": 43
+    "rating": 7.4444,
+    "num_ratings": 45
   },
   {
     "code": "1433",
@@ -191,8 +191,8 @@
     "professor_id": 78565,
     "first_name": "Anahí",
     "last_name": "Flores Perez",
-    "rating": 7.8548,
-    "num_ratings": 62
+    "rating": 7.8571,
+    "num_ratings": 63
   },
   {
     "code": "1433",
@@ -245,8 +245,8 @@
     "professor_id": 62496,
     "first_name": "José Alejandro",
     "last_name": "Figueroa Paez",
-    "rating": 6.2708,
-    "num_ratings": 48
+    "rating": 6.2857,
+    "num_ratings": 49
   },
   {
     "code": "1433",
@@ -264,8 +264,8 @@
     "professor_id": 177290,
     "first_name": "José Rafael",
     "last_name": "González Martínez",
-    "rating": 7.7059,
-    "num_ratings": 17
+    "rating": 7.7222,
+    "num_ratings": 18
   },
   {
     "code": "1433",
@@ -284,8 +284,8 @@
     "professor_id": 84413,
     "first_name": "Jorge",
     "last_name": "Ramirez Cruz",
-    "rating": 9.6786,
-    "num_ratings": 56
+    "rating": 9.5517,
+    "num_ratings": 58
   },
   {
     "code": "1433",
@@ -304,8 +304,8 @@
     "professor_id": 62496,
     "first_name": "José Alejandro",
     "last_name": "Figueroa Paez",
-    "rating": 6.2708,
-    "num_ratings": 48
+    "rating": 6.2857,
+    "num_ratings": 49
   },
   {
     "code": "1433",
@@ -362,8 +362,8 @@
     "professor_id": 187334,
     "first_name": "Adriana",
     "last_name": "López Zazueta",
-    "rating": 6.4,
-    "num_ratings": 5
+    "rating": 6.3333,
+    "num_ratings": 6
   },
   {
     "code": "1433",
@@ -398,6 +398,11 @@
         ],
         "classroom": "48"
       }
-    ]
+    ],
+    "professor_id": 195040,
+    "first_name": "Raúl Alejandro",
+    "last_name": "Hernández Martínez",
+    "rating": 10.0,
+    "num_ratings": 2
   }
 ]

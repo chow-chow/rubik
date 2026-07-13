@@ -16,8 +16,8 @@
     "professor_id": 74008,
     "first_name": "Gaspar",
     "last_name": "Franco hernandez",
-    "rating": 6.0,
-    "num_ratings": 15
+    "rating": 6.125,
+    "num_ratings": 16
   },
   {
     "code": "1995",
@@ -46,6 +46,11 @@
         ],
         "classroom": "20"
       }
-    ]
+    ],
+    "professor_id": 171807,
+    "first_name": "Noe Jesus Juarez Domiguez",
+    "last_name": "Juárez Domínguez",
+    "rating": 6.0,
+    "num_ratings": 2
   }
 ]
