@@ -82,7 +82,7 @@
   {
     "code": "1322",
     "group": "5",
-    "professor": "JOEL GOMEZ",
+    "professor": "PROFESOR POR ASIGNAR",
     "schedules": [
       {
         "time": "09:00-11:00",
@@ -92,12 +92,7 @@
         ],
         "classroom": "48"
       }
-    ],
-    "professor_id": 30241,
-    "first_name": "Ing. Joel",
-    "last_name": "Gomez",
-    "rating": 4.4528,
-    "num_ratings": 53
+    ]
   },
   {
     "code": "1322",
@@ -146,7 +141,7 @@
       {
         "time": "11:00-13:00",
         "days": [
-          5
+          1
         ],
         "classroom": "35"
       }
@@ -154,8 +149,8 @@
     "professor_id": 22035,
     "first_name": "Juan",
     "last_name": "Ocáriz Castelazo",
-    "rating": 8.6294,
-    "num_ratings": 170
+    "rating": 8.6316,
+    "num_ratings": 171
   },
   {
     "code": "1322",
@@ -280,7 +275,7 @@
       {
         "time": "17:00-19:00",
         "days": [
-          5
+          3
         ],
         "classroom": "48"
       }

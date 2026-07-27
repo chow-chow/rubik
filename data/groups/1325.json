@@ -16,8 +16,8 @@
     "professor_id": 177290,
     "first_name": "José Rafael",
     "last_name": "González Martínez",
-    "rating": 7.7222,
-    "num_ratings": 18
+    "rating": 7.6842,
+    "num_ratings": 19
   },
   {
     "code": "1325",
@@ -56,8 +56,8 @@
     "professor_id": 100208,
     "first_name": "Manuel",
     "last_name": "Cortes Rubio",
-    "rating": 8.5833,
-    "num_ratings": 84
+    "rating": 8.5882,
+    "num_ratings": 85
   },
   {
     "code": "1325",
@@ -76,8 +76,8 @@
     "professor_id": 100208,
     "first_name": "Manuel",
     "last_name": "Cortes Rubio",
-    "rating": 8.5833,
-    "num_ratings": 84
+    "rating": 8.5882,
+    "num_ratings": 85
   },
   {
     "code": "1325",
@@ -166,7 +166,7 @@
       {
         "time": "11:00-13:00",
         "days": [
-          5
+          1
         ],
         "classroom": "48"
       }
@@ -220,7 +220,7 @@
   {
     "code": "1325",
     "group": "12",
-    "professor": "JOEL GOMEZ",
+    "professor": "PROFESOR POR ASIGNAR",
     "schedules": [
       {
         "time": "11:00-13:00",
@@ -230,12 +230,7 @@
         ],
         "classroom": "48"
       }
-    ],
-    "professor_id": 30241,
-    "first_name": "Ing. Joel",
-    "last_name": "Gomez",
-    "rating": 4.4528,
-    "num_ratings": 53
+    ]
   },
   {
     "code": "1325",
@@ -288,8 +283,8 @@
     "professor_id": 84731,
     "first_name": "Daniel",
     "last_name": "Peña Maciel",
-    "rating": 7.2222,
-    "num_ratings": 27
+    "rating": 7.0714,
+    "num_ratings": 28
   },
   {
     "code": "1325",
@@ -308,8 +303,8 @@
     "professor_id": 78565,
     "first_name": "Anahí",
     "last_name": "Flores Perez",
-    "rating": 7.8125,
-    "num_ratings": 64
+    "rating": 7.8462,
+    "num_ratings": 65
   },
   {
     "code": "1325",
@@ -462,8 +457,8 @@
     "professor_id": 78565,
     "first_name": "Anahí",
     "last_name": "Flores Perez",
-    "rating": 7.8125,
-    "num_ratings": 64
+    "rating": 7.8462,
+    "num_ratings": 65
   },
   {
     "code": "1325",
@@ -482,8 +477,8 @@
     "professor_id": 84731,
     "first_name": "Daniel",
     "last_name": "Peña Maciel",
-    "rating": 7.2222,
-    "num_ratings": 27
+    "rating": 7.0714,
+    "num_ratings": 28
   },
   {
     "code": "1325",
@@ -548,7 +543,7 @@
       {
         "time": "17:00-19:00",
         "days": [
-          3
+          5
         ],
         "classroom": "48"
       }
@@ -656,7 +651,7 @@
     "professor_id": 43499,
     "first_name": "Jose luis",
     "last_name": "Flores Silva",
-    "rating": 7.4107,
-    "num_ratings": 56
+    "rating": 7.4211,
+    "num_ratings": 57
   }
 ]

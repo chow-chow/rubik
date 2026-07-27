@@ -117,7 +117,7 @@
   {
     "code": "1220",
     "group": "7",
-    "professor": "PROFESOR POR ASIGNAR",
+    "professor": "IVAN MANUEL CUADROS MENDOZA",
     "schedules": [
       {
         "time": "11:00-13:00",
@@ -127,7 +127,12 @@
         ],
         "classroom": "48"
       }
-    ]
+    ],
+    "professor_id": 135652,
+    "first_name": "Ivan Manuel",
+    "last_name": "Cuadros Mendoza",
+    "rating": 8.8095,
+    "num_ratings": 21
   },
   {
     "code": "1220",
@@ -241,8 +246,8 @@
     "professor_id": 51835,
     "first_name": "Ana Marissa",
     "last_name": "Juarez Mendoza",
-    "rating": 8.6885,
-    "num_ratings": 61
+    "rating": 8.7097,
+    "num_ratings": 62
   },
   {
     "code": "1220",

@@ -22,11 +22,9 @@
     "professor": "GIBRAN JALIL GARNICA CASTROVer Nota 1",
     "schedules": [
       {
-        "time": "11:00-13:00",
+        "time": "15:00-17:00",
         "days": [
-          1,
-          3,
-          4
+          2
         ],
         "classroom": "35"
       }

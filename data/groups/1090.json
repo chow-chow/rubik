@@ -5,10 +5,9 @@
     "professor": "VICTOR LEONARDO TEJA JUAREZ",
     "schedules": [
       {
-        "time": "09:00-11:00",
+        "time": "09:00-10:00",
         "days": [
-          1,
-          3
+          5
         ],
         "classroom": "22"
       }

@@ -23,7 +23,8 @@
       {
         "time": "07:00-09:00",
         "days": [
-          3
+          2,
+          4
         ],
         "classroom": "48"
       }
@@ -82,7 +83,8 @@
       {
         "time": "11:00-13:00",
         "days": [
-          3
+          2,
+          4
         ],
         "classroom": "48"
       }
@@ -143,8 +145,8 @@
     "professor_id": 141997,
     "first_name": "Adriana",
     "last_name": "Alarcon Muñoz",
-    "rating": 8.623,
-    "num_ratings": 61
+    "rating": 8.5645,
+    "num_ratings": 62
   },
   {
     "code": "1228",
@@ -227,7 +229,7 @@
     "professor_id": 22035,
     "first_name": "Juan",
     "last_name": "Ocáriz Castelazo",
-    "rating": 8.6294,
-    "num_ratings": 170
+    "rating": 8.6316,
+    "num_ratings": 171
   }
 ]

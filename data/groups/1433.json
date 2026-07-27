@@ -46,7 +46,7 @@
       {
         "time": "07:00-09:00",
         "days": [
-          2
+          4
         ],
         "classroom": "35"
       }
@@ -183,7 +183,7 @@
       {
         "time": "13:00-15:00",
         "days": [
-          2
+          4
         ],
         "classroom": "35"
       }
@@ -191,8 +191,8 @@
     "professor_id": 78565,
     "first_name": "Anahí",
     "last_name": "Flores Perez",
-    "rating": 7.8125,
-    "num_ratings": 64
+    "rating": 7.8462,
+    "num_ratings": 65
   },
   {
     "code": "1433",
@@ -245,8 +245,8 @@
     "professor_id": 62496,
     "first_name": "José Alejandro",
     "last_name": "Figueroa Paez",
-    "rating": 6.2857,
-    "num_ratings": 49
+    "rating": 6.36,
+    "num_ratings": 50
   },
   {
     "code": "1433",
@@ -264,8 +264,8 @@
     "professor_id": 177290,
     "first_name": "José Rafael",
     "last_name": "González Martínez",
-    "rating": 7.7222,
-    "num_ratings": 18
+    "rating": 7.6842,
+    "num_ratings": 19
   },
   {
     "code": "1433",
@@ -304,8 +304,8 @@
     "professor_id": 62496,
     "first_name": "José Alejandro",
     "last_name": "Figueroa Paez",
-    "rating": 6.2857,
-    "num_ratings": 49
+    "rating": 6.36,
+    "num_ratings": 50
   },
   {
     "code": "1433",
