@@ -17,6 +17,27 @@
   },
   {
     "code": "1598",
+    "group": "6",
+    "professor": "ALEJANDRO VELAZQUEZ MENA",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2,
+          3,
+          4
+        ],
+        "classroom": "40"
+      }
+    ],
+    "professor_id": 66382,
+    "first_name": "Alejandro",
+    "last_name": "Mena",
+    "rating": 7.7778,
+    "num_ratings": 9
+  },
+  {
+    "code": "1598",
     "group": "2",
     "professor": "MARIA EUGENIA BAUTISTA GONZALEZ",
     "schedules": [
@@ -59,8 +80,24 @@
   },
   {
     "code": "1598",
+    "group": "4",
+    "professor": "JOSE ANTONIO MACIAS GARCIA",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1,
+          2,
+          4
+        ],
+        "classroom": "0"
+      }
+    ]
+  },
+  {
+    "code": "1598",
     "group": "5",
-    "professor": "MARCO ANTONIO VIGUERAS VILLASEÑOR",
+    "professor": "MARCO ANTONIO VIGUERAS VILLASEÑORVer Nota 1",
     "schedules": [
       {
         "time": "19:00-21:00",
@@ -70,27 +107,6 @@
           4
         ],
         "classroom": "20"
-      }
-    ],
-    "professor_id": 164357,
-    "first_name": "Marco Antonio",
-    "last_name": "Vigueras Villaseñor",
-    "rating": 8.8571,
-    "num_ratings": 7
-  },
-  {
-    "code": "1598",
-    "group": "6",
-    "professor": "ALEJANDRO VELAZQUEZ MENAVer Nota 1",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          2,
-          3,
-          4
-        ],
-        "classroom": "40"
       }
     ]
   },
@@ -133,36 +149,6 @@
   },
   {
     "code": "1598",
-    "group": "10",
-    "professor": "MARIA ALEJANDRA ZUÑIGA MEDEL",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          4
-        ],
-        "classroom": "40"
-      }
-    ]
-  },
-  {
-    "code": "1598",
-    "group": "4",
-    "professor": "JOSE ANTONIO MACIAS GARCIA",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          1,
-          2,
-          4
-        ],
-        "classroom": "0"
-      }
-    ]
-  },
-  {
-    "code": "1598",
     "group": "9",
     "professor": "JOSE ANTONIO MACIAS GARCIA",
     "schedules": [
@@ -172,6 +158,20 @@
           5
         ],
         "classroom": "0"
+      }
+    ]
+  },
+  {
+    "code": "1598",
+    "group": "10",
+    "professor": "MARIA ALEJANDRA ZUÑIGA MEDEL",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          4
+        ],
+        "classroom": "40"
       }
     ]
   }

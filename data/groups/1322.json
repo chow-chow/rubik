@@ -82,7 +82,7 @@
   {
     "code": "1322",
     "group": "5",
-    "professor": "PROFESOR POR ASIGNAR",
+    "professor": "NICOLAS RODRIGUEZ CARREON",
     "schedules": [
       {
         "time": "09:00-11:00",
@@ -92,7 +92,12 @@
         ],
         "classroom": "48"
       }
-    ]
+    ],
+    "professor_id": 82797,
+    "first_name": "Nicolás",
+    "last_name": "Rodríguez Carreón",
+    "rating": 9.3036,
+    "num_ratings": 56
   },
   {
     "code": "1322",
@@ -149,8 +154,8 @@
     "professor_id": 22035,
     "first_name": "Juan",
     "last_name": "Ocáriz Castelazo",
-    "rating": 8.6316,
-    "num_ratings": 171
+    "rating": 8.6279,
+    "num_ratings": 172
   },
   {
     "code": "1322",
@@ -209,8 +214,8 @@
     "professor_id": 42880,
     "first_name": "gloria",
     "last_name": "ramirez romero",
-    "rating": 6.77,
-    "num_ratings": 100
+    "rating": 6.7426,
+    "num_ratings": 101
   },
   {
     "code": "1322",
@@ -275,7 +280,7 @@
       {
         "time": "17:00-19:00",
         "days": [
-          3
+          5
         ],
         "classroom": "48"
       }

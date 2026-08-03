@@ -81,26 +81,6 @@
   },
   {
     "code": "1229",
-    "group": "5",
-    "professor": "BRENDA IVETH MORENO HURTADO",
-    "schedules": [
-      {
-        "time": "11:30-13:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "18"
-      }
-    ],
-    "professor_id": 109874,
-    "first_name": "Brenda Iveth",
-    "last_name": "Moreno Hurtado",
-    "rating": 8.7,
-    "num_ratings": 10
-  },
-  {
-    "code": "1229",
     "group": "6",
     "professor": "IVONNE ALVARADO BEATRIZ",
     "schedules": [
@@ -141,6 +121,41 @@
   },
   {
     "code": "1229",
+    "group": "5",
+    "professor": "BRENDA IVETH MORENO HURTADO",
+    "schedules": [
+      {
+        "time": "11:30-13:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "18"
+      }
+    ],
+    "professor_id": 109874,
+    "first_name": "Brenda Iveth",
+    "last_name": "Moreno Hurtado",
+    "rating": 8.7,
+    "num_ratings": 10
+  },
+  {
+    "code": "1229",
+    "group": "8",
+    "professor": "Grupo cancelado, contactar a la División.",
+    "schedules": [
+      {
+        "time": "17:30-19:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "0"
+      }
+    ]
+  },
+  {
+    "code": "1229",
     "group": "9",
     "professor": "ERIK DE VALLE SALGADO",
     "schedules": [
@@ -157,20 +172,5 @@
     "last_name": "De Valle Salgado",
     "rating": 9.3571,
     "num_ratings": 14
-  },
-  {
-    "code": "1229",
-    "group": "8",
-    "professor": "PROFESOR POR ASIGNAR",
-    "schedules": [
-      {
-        "time": "17:30-19:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "0"
-      }
-    ]
   }
 ]

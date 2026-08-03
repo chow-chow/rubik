@@ -1,20 +1,6 @@
 [
   {
     "code": "1585",
-    "group": "1",
-    "professor": "LUIS ESPINOSA ARRUBARRENA",
-    "schedules": [
-      {
-        "time": "18:00-20:00",
-        "days": [
-          4
-        ],
-        "classroom": "10"
-      }
-    ]
-  },
-  {
-    "code": "1585",
     "group": "2",
     "professor": "HERMES MARTIN GARCIA RODRIGUEZ",
     "schedules": [
@@ -22,6 +8,20 @@
         "time": "18:00-20:00",
         "days": [
           1
+        ],
+        "classroom": "10"
+      }
+    ]
+  },
+  {
+    "code": "1585",
+    "group": "1",
+    "professor": "LUIS ESPINOSA ARRUBARRENA",
+    "schedules": [
+      {
+        "time": "18:00-20:00",
+        "days": [
+          4
         ],
         "classroom": "10"
       }

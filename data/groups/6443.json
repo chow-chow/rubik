@@ -20,77 +20,6 @@
   },
   {
     "code": "6443",
-    "group": "2",
-    "professor": "MIREYA OSORIO PALACIOS",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          1
-        ],
-        "classroom": "10"
-      }
-    ]
-  },
-  {
-    "code": "6443",
-    "group": "3",
-    "professor": "MARIA LEONOR SALCEDO UBILLA",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          1
-        ],
-        "classroom": "10"
-      }
-    ],
-    "professor_id": 161143,
-    "first_name": "Maria Leonor",
-    "last_name": "Salcedo Ubilla",
-    "rating": 8.2,
-    "num_ratings": 5
-  },
-  {
-    "code": "6443",
-    "group": "4",
-    "professor": "JOSE ALBERTO ARELLANO FIGUEROA",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          2
-        ],
-        "classroom": "10"
-      }
-    ],
-    "professor_id": 87572,
-    "first_name": "José Alberto",
-    "last_name": "Arellano Figueroa",
-    "rating": 7.7778,
-    "num_ratings": 18
-  },
-  {
-    "code": "6443",
-    "group": "5",
-    "professor": "ADRIANA EUGENIA CHAVIRA DIAZ",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          2
-        ],
-        "classroom": "10"
-      }
-    ],
-    "professor_id": 112610,
-    "first_name": "Adriana Eugenia",
-    "last_name": "Chavira Diaz",
-    "rating": 9.3158,
-    "num_ratings": 19
-  },
-  {
-    "code": "6443",
     "group": "6",
     "professor": "ALBERTO RAMIRO GARIBAY MARTINEZ",
     "schedules": [
@@ -107,39 +36,6 @@
     "last_name": "Garibay Martínez",
     "rating": 2.5,
     "num_ratings": 2
-  },
-  {
-    "code": "6443",
-    "group": "7",
-    "professor": "MIREYA OSORIO PALACIOS",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          3
-        ],
-        "classroom": "10"
-      }
-    ]
-  },
-  {
-    "code": "6443",
-    "group": "8",
-    "professor": "MARIA LEONOR SALCEDO UBILLA",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          3
-        ],
-        "classroom": "10"
-      }
-    ],
-    "professor_id": 161143,
-    "first_name": "Maria Leonor",
-    "last_name": "Salcedo Ubilla",
-    "rating": 8.2,
-    "num_ratings": 5
   },
   {
     "code": "6443",
@@ -181,6 +77,133 @@
   },
   {
     "code": "6443",
+    "group": "12",
+    "professor": "ISRAEL RIVERA CONTRERAS",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          4
+        ],
+        "classroom": "10"
+      }
+    ]
+  },
+  {
+    "code": "6443",
+    "group": "16",
+    "professor": "VALENTINA FABIENNE RUIZ VILLALBA",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          5
+        ],
+        "classroom": "10"
+      }
+    ]
+  },
+  {
+    "code": "6443",
+    "group": "2",
+    "professor": "MIREYA OSORIO PALACIOS",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1
+        ],
+        "classroom": "10"
+      }
+    ]
+  },
+  {
+    "code": "6443",
+    "group": "3",
+    "professor": "MIREYA OSORIO PALACIOS",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1
+        ],
+        "classroom": "10"
+      }
+    ]
+  },
+  {
+    "code": "6443",
+    "group": "4",
+    "professor": "JOSE ALBERTO ARELLANO FIGUEROA",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2
+        ],
+        "classroom": "10"
+      }
+    ],
+    "professor_id": 87572,
+    "first_name": "José Alberto",
+    "last_name": "Arellano Figueroa",
+    "rating": 7.7778,
+    "num_ratings": 18
+  },
+  {
+    "code": "6443",
+    "group": "5",
+    "professor": "ADRIANA EUGENIA CHAVIRA DIAZ",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2
+        ],
+        "classroom": "10"
+      }
+    ],
+    "professor_id": 112610,
+    "first_name": "Adriana Eugenia",
+    "last_name": "Chavira Diaz",
+    "rating": 9.3158,
+    "num_ratings": 19
+  },
+  {
+    "code": "6443",
+    "group": "7",
+    "professor": "MARIA LEONOR SALCEDO UBILLA",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          3
+        ],
+        "classroom": "10"
+      }
+    ],
+    "professor_id": 161143,
+    "first_name": "Maria Leonor",
+    "last_name": "Salcedo Ubilla",
+    "rating": 8.2,
+    "num_ratings": 5
+  },
+  {
+    "code": "6443",
+    "group": "8",
+    "professor": "MIREYA OSORIO PALACIOS",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          3
+        ],
+        "classroom": "10"
+      }
+    ]
+  },
+  {
+    "code": "6443",
     "group": "11",
     "professor": "LAURO FERNANDO VAZQUEZ ALBERTO",
     "schedules": [
@@ -197,20 +220,6 @@
     "last_name": "VAZQUEZ ALBERTO",
     "rating": 8.9091,
     "num_ratings": 11
-  },
-  {
-    "code": "6443",
-    "group": "12",
-    "professor": "ISRAEL RIVERA CONTRERAS",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          4
-        ],
-        "classroom": "10"
-      }
-    ]
   },
   {
     "code": "6443",
@@ -268,19 +277,5 @@
     "last_name": "ROJAS GARCIA",
     "rating": 9.2917,
     "num_ratings": 24
-  },
-  {
-    "code": "6443",
-    "group": "16",
-    "professor": "VALENTINA FABIENNE RUIZ VILLALBA",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          5
-        ],
-        "classroom": "10"
-      }
-    ]
   }
 ]

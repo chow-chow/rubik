@@ -1,20 +1,6 @@
 [
   {
     "code": "5021",
-    "group": "1",
-    "professor": "VICENTE GUILLERMO LOPEZ FERNANDEZ",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          6
-        ],
-        "classroom": "4"
-      }
-    ]
-  },
-  {
-    "code": "5021",
     "group": "2",
     "professor": "SONIA LUISA ELENA LOPEZ MALDONADO",
     "schedules": [
@@ -31,6 +17,39 @@
     "last_name": "López Maldonado",
     "rating": 4.5,
     "num_ratings": 8
+  },
+  {
+    "code": "5021",
+    "group": "5",
+    "professor": "JORGE AGUILAR JUAREZ",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          2
+        ],
+        "classroom": "5"
+      }
+    ],
+    "professor_id": 160523,
+    "first_name": "Jorge",
+    "last_name": "Aguilar Juárez",
+    "rating": 8.5,
+    "num_ratings": 4
+  },
+  {
+    "code": "5021",
+    "group": "1",
+    "professor": "VICENTE GUILLERMO LOPEZ FERNANDEZ",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          6
+        ],
+        "classroom": "4"
+      }
+    ]
   },
   {
     "code": "5021",
@@ -69,5 +88,24 @@
     "last_name": "Sandoval Peña",
     "rating": 6.1,
     "num_ratings": 10
+  },
+  {
+    "code": "5021",
+    "group": "6",
+    "professor": "JORGE AGUILAR JUAREZ",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          5
+        ],
+        "classroom": "5"
+      }
+    ],
+    "professor_id": 160523,
+    "first_name": "Jorge",
+    "last_name": "Aguilar Juárez",
+    "rating": 8.5,
+    "num_ratings": 4
   }
 ]

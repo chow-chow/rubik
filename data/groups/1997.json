@@ -56,26 +56,6 @@
   },
   {
     "code": "1997",
-    "group": "4",
-    "professor": "PAUL ROLANDO MAYA ORTIZ",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "35"
-      }
-    ],
-    "professor_id": 162092,
-    "first_name": "PAUL ROLANDO",
-    "last_name": "MAYA ORTIZ",
-    "rating": 7.5,
-    "num_ratings": 6
-  },
-  {
-    "code": "1997",
     "group": "5",
     "professor": "OCTAVIO ALEJANDRO IRIS AGUILAR",
     "schedules": [
@@ -113,5 +93,25 @@
     "last_name": "ROJAS GARCIA",
     "rating": 9.2917,
     "num_ratings": 24
+  },
+  {
+    "code": "1997",
+    "group": "4",
+    "professor": "PAUL ROLANDO MAYA ORTIZ",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "35"
+      }
+    ],
+    "professor_id": 162092,
+    "first_name": "PAUL ROLANDO",
+    "last_name": "MAYA ORTIZ",
+    "rating": 7.5,
+    "num_ratings": 6
   }
 ]

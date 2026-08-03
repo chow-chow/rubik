@@ -1,6 +1,26 @@
 [
   {
     "code": "1617",
+    "group": "4",
+    "professor": "MARIA DEL SOCORRO GUEVARA RODRIGUEZ",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "32"
+      }
+    ],
+    "professor_id": 78454,
+    "first_name": "Maria del Socorro",
+    "last_name": "Guevara Rodriguez",
+    "rating": 5.9189,
+    "num_ratings": 37
+  },
+  {
+    "code": "1617",
     "group": "1",
     "professor": "ROBERTO FEDERICO MANDUJANO WILD",
     "schedules": [
@@ -58,26 +78,6 @@
     "last_name": "flores",
     "rating": 7.2075,
     "num_ratings": 53
-  },
-  {
-    "code": "1617",
-    "group": "4",
-    "professor": "MARIA DEL SOCORRO GUEVARA RODRIGUEZ",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "32"
-      }
-    ],
-    "professor_id": 78454,
-    "first_name": "Maria del Socorro",
-    "last_name": "Guevara Rodriguez",
-    "rating": 5.9189,
-    "num_ratings": 37
   },
   {
     "code": "1617",

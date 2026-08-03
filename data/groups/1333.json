@@ -1,6 +1,46 @@
 [
   {
     "code": "1333",
+    "group": "4",
+    "professor": "ABRAHAM LAURENCIO MARTINEZ BAUTISTA",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "48"
+      }
+    ],
+    "professor_id": 55067,
+    "first_name": "Abraham Laurencio",
+    "last_name": "Martinez  Bautista",
+    "rating": 4.7292,
+    "num_ratings": 48
+  },
+  {
+    "code": "1333",
+    "group": "7",
+    "professor": "AGUSTIN HERNANDEZ QUINTERO",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "48"
+      }
+    ],
+    "professor_id": 54985,
+    "first_name": "Agustin",
+    "last_name": "Hernandez Quintero",
+    "rating": 5.8824,
+    "num_ratings": 34
+  },
+  {
+    "code": "1333",
     "group": "1",
     "professor": "ALICIA MARIA ESPONDA CASCAJARES",
     "schedules": [
@@ -55,28 +95,8 @@
     "professor_id": 23476,
     "first_name": "martin",
     "last_name": "barcenas escobar",
-    "rating": 6.5,
-    "num_ratings": 26
-  },
-  {
-    "code": "1333",
-    "group": "4",
-    "professor": "ABRAHAM LAURENCIO MARTINEZ BAUTISTA",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "48"
-      }
-    ],
-    "professor_id": 55067,
-    "first_name": "Abraham Laurencio",
-    "last_name": "Martinez  Bautista",
-    "rating": 4.7292,
-    "num_ratings": 48
+    "rating": 6.3793,
+    "num_ratings": 29
   },
   {
     "code": "1333",
@@ -95,8 +115,8 @@
     "professor_id": 44254,
     "first_name": "Maria del Carmen",
     "last_name": "Melo Díaz",
-    "rating": 6.908,
-    "num_ratings": 87
+    "rating": 6.8864,
+    "num_ratings": 88
   },
   {
     "code": "1333",
@@ -117,25 +137,5 @@
     "last_name": "Isunza Hernández",
     "rating": 4.6429,
     "num_ratings": 14
-  },
-  {
-    "code": "1333",
-    "group": "7",
-    "professor": "AGUSTIN HERNANDEZ QUINTERO",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "48"
-      }
-    ],
-    "professor_id": 54985,
-    "first_name": "Agustin",
-    "last_name": "Hernandez Quintero",
-    "rating": 5.8824,
-    "num_ratings": 34
   }
 ]

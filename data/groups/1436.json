@@ -1,6 +1,85 @@
 [
   {
     "code": "1436",
+    "group": "12",
+    "professor": "MARINA RAMIREZ ENSASTIGUE",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "48"
+      }
+    ],
+    "professor_id": 51062,
+    "first_name": "Marina",
+    "last_name": "Ramirez  Ensastigue",
+    "rating": 2.7083,
+    "num_ratings": 24
+  },
+  {
+    "code": "1436",
+    "group": "23",
+    "professor": "MARCO POLO GARCIA RIVERA",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "48"
+      }
+    ],
+    "professor_id": 194052,
+    "first_name": "Marco Polo",
+    "last_name": "García Rivera",
+    "rating": 7.0,
+    "num_ratings": 2
+  },
+  {
+    "code": "1436",
+    "group": "25",
+    "professor": "GUILLERMO CASAR MARCOS",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "48"
+      }
+    ],
+    "professor_id": 95279,
+    "first_name": "Guillermo",
+    "last_name": "Casar Marcos",
+    "rating": 5.5,
+    "num_ratings": 10
+  },
+  {
+    "code": "1436",
+    "group": "27",
+    "professor": "KENYA VERONICA ESPINOSA HURTADO",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          5
+        ],
+        "classroom": "48"
+      }
+    ],
+    "professor_id": 99111,
+    "first_name": "Kenya Verónica",
+    "last_name": "Espinosa Hurtado",
+    "rating": 6.025,
+    "num_ratings": 40
+  },
+  {
+    "code": "1436",
     "group": "1",
     "professor": "YONI MIGUEL CASTILLO TZEC",
     "schedules": [
@@ -91,8 +170,8 @@
     "professor_id": 70517,
     "first_name": "nora patricia",
     "last_name": "rocha miller",
-    "rating": 6.0976,
-    "num_ratings": 41
+    "rating": 6.0238,
+    "num_ratings": 42
   },
   {
     "code": "1436",
@@ -189,8 +268,8 @@
     "professor_id": 118842,
     "first_name": "Jesús Antonio",
     "last_name": "Contreras Ramírez",
-    "rating": 6.0,
-    "num_ratings": 38
+    "rating": 6.2,
+    "num_ratings": 40
   },
   {
     "code": "1436",
@@ -211,26 +290,6 @@
     "last_name": "LEMUS MIRIAM",
     "rating": 6.0,
     "num_ratings": 2
-  },
-  {
-    "code": "1436",
-    "group": "12",
-    "professor": "MARINA RAMIREZ ENSASTIGUE",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "48"
-      }
-    ],
-    "professor_id": 51062,
-    "first_name": "Marina",
-    "last_name": "Ramirez  Ensastigue",
-    "rating": 2.7391,
-    "num_ratings": 23
   },
   {
     "code": "1436",
@@ -399,7 +458,7 @@
       {
         "time": "17:00-19:00",
         "days": [
-          5
+          1
         ],
         "classroom": "48"
       }
@@ -427,26 +486,6 @@
   },
   {
     "code": "1436",
-    "group": "23",
-    "professor": "MARCO POLO GARCIA RIVERA",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          3,
-          5
-        ],
-        "classroom": "48"
-      }
-    ],
-    "professor_id": 194052,
-    "first_name": "Marco Polo",
-    "last_name": "García Rivera",
-    "rating": 7.0,
-    "num_ratings": 2
-  },
-  {
-    "code": "1436",
     "group": "24",
     "professor": "JAVIER REYNA ALONSO",
     "schedules": [
@@ -467,26 +506,6 @@
   },
   {
     "code": "1436",
-    "group": "25",
-    "professor": "GUILLERMO CASAR MARCOS",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "48"
-      }
-    ],
-    "professor_id": 95279,
-    "first_name": "Guillermo",
-    "last_name": "Casar Marcos",
-    "rating": 5.5,
-    "num_ratings": 10
-  },
-  {
-    "code": "1436",
     "group": "26",
     "professor": "ELIA INES LUNA CEBALLOS",
     "schedules": [
@@ -502,27 +521,8 @@
     "professor_id": 84849,
     "first_name": "Elia Inés",
     "last_name": "Luna Ceballos",
-    "rating": 8.4598,
-    "num_ratings": 87
-  },
-  {
-    "code": "1436",
-    "group": "27",
-    "professor": "KENYA VERONICA ESPINOSA HURTADO",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          3
-        ],
-        "classroom": "48"
-      }
-    ],
-    "professor_id": 99111,
-    "first_name": "Kenya Verónica",
-    "last_name": "Espinosa Hurtado",
-    "rating": 6.025,
-    "num_ratings": 40
+    "rating": 8.4318,
+    "num_ratings": 88
   },
   {
     "code": "1436",

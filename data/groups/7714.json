@@ -1,44 +1,6 @@
 [
   {
     "code": "7714",
-    "group": "1",
-    "professor": "JULIO SERRANO VILLEGAS",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          2
-        ],
-        "classroom": "12"
-      }
-    ],
-    "professor_id": 95374,
-    "first_name": "JULIO",
-    "last_name": "SERRANO VILLEGAS",
-    "rating": 9.0,
-    "num_ratings": 19
-  },
-  {
-    "code": "7714",
-    "group": "2",
-    "professor": "JULIO SERRANO VILLEGAS",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          5
-        ],
-        "classroom": "12"
-      }
-    ],
-    "professor_id": 95374,
-    "first_name": "JULIO",
-    "last_name": "SERRANO VILLEGAS",
-    "rating": 9.0,
-    "num_ratings": 19
-  },
-  {
-    "code": "7714",
     "group": "3",
     "professor": "EDUARDO ROSAS LIRA",
     "schedules": [
@@ -91,20 +53,6 @@
   },
   {
     "code": "7714",
-    "group": "6",
-    "professor": "SALVADOR EMILIO SIERRA BENAVIDEZ",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          2
-        ],
-        "classroom": "12"
-      }
-    ]
-  },
-  {
-    "code": "7714",
     "group": "7",
     "professor": "SALVADOR EMILIO SIERRA BENAVIDEZ",
     "schedules": [
@@ -112,6 +60,77 @@
         "time": "11:00-13:00",
         "days": [
           5
+        ],
+        "classroom": "12"
+      }
+    ]
+  },
+  {
+    "code": "7714",
+    "group": "10",
+    "professor": "JORGE PRADO MORALES",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          4
+        ],
+        "classroom": "12"
+      }
+    ],
+    "professor_id": 175543,
+    "first_name": "Jorge",
+    "last_name": "Prado Morales",
+    "rating": 7.5,
+    "num_ratings": 8
+  },
+  {
+    "code": "7714",
+    "group": "1",
+    "professor": "JULIO SERRANO VILLEGAS",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2
+        ],
+        "classroom": "12"
+      }
+    ],
+    "professor_id": 95374,
+    "first_name": "JULIO",
+    "last_name": "SERRANO VILLEGAS",
+    "rating": 9.0,
+    "num_ratings": 19
+  },
+  {
+    "code": "7714",
+    "group": "2",
+    "professor": "JULIO SERRANO VILLEGAS",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          5
+        ],
+        "classroom": "12"
+      }
+    ],
+    "professor_id": 95374,
+    "first_name": "JULIO",
+    "last_name": "SERRANO VILLEGAS",
+    "rating": 9.0,
+    "num_ratings": 19
+  },
+  {
+    "code": "7714",
+    "group": "6",
+    "professor": "SALVADOR EMILIO SIERRA BENAVIDEZ",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2
         ],
         "classroom": "12"
       }
@@ -145,25 +164,6 @@
         "time": "17:00-19:00",
         "days": [
           2
-        ],
-        "classroom": "12"
-      }
-    ],
-    "professor_id": 175543,
-    "first_name": "Jorge",
-    "last_name": "Prado Morales",
-    "rating": 7.5,
-    "num_ratings": 8
-  },
-  {
-    "code": "7714",
-    "group": "10",
-    "professor": "JORGE PRADO MORALES",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          4
         ],
         "classroom": "12"
       }

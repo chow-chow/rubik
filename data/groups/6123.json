@@ -15,20 +15,6 @@
   },
   {
     "code": "6123",
-    "group": "14",
-    "professor": "MARIA DEL PILAR CARREON CASTRO",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          1
-        ],
-        "classroom": "20"
-      }
-    ]
-  },
-  {
-    "code": "6123",
     "group": "15",
     "professor": "MARIA DE JESUS MUÑOZ ESPINAL",
     "schedules": [
@@ -55,6 +41,20 @@
         "time": "15:00-17:00",
         "days": [
           5
+        ],
+        "classroom": "20"
+      }
+    ]
+  },
+  {
+    "code": "6123",
+    "group": "14",
+    "professor": "MARIA DEL PILAR CARREON CASTRO",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1
         ],
         "classroom": "20"
       }

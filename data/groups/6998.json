@@ -1,6 +1,20 @@
 [
   {
     "code": "6998",
+    "group": "10",
+    "professor": "JOHAN RACIEL GRANADOS VILLEDA",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2
+        ],
+        "classroom": "9"
+      }
+    ]
+  },
+  {
+    "code": "6998",
     "group": "1",
     "professor": "ALEJANDRO BAEZ MUÑOZ",
     "schedules": [
@@ -145,20 +159,6 @@
     "last_name": "Urzua Rosas",
     "rating": 9.0909,
     "num_ratings": 11
-  },
-  {
-    "code": "6998",
-    "group": "10",
-    "professor": "JOHAN RACIEL GRANADOS VILLEDA",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          2
-        ],
-        "classroom": "9"
-      }
-    ]
   },
   {
     "code": "6998",

@@ -15,6 +15,20 @@
   },
   {
     "code": "7909",
+    "group": "4",
+    "professor": "LUIS ALBERTO CANALES MEZA",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          5
+        ],
+        "classroom": "10"
+      }
+    ]
+  },
+  {
+    "code": "7909",
     "group": "2",
     "professor": "FERNANDA RAMOS GARCIA",
     "schedules": [
@@ -41,20 +55,6 @@
         "time": "07:00-09:00",
         "days": [
           3
-        ],
-        "classroom": "10"
-      }
-    ]
-  },
-  {
-    "code": "7909",
-    "group": "4",
-    "professor": "LUIS ALBERTO CANALES MEZA",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          5
         ],
         "classroom": "10"
       }

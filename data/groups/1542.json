@@ -1,6 +1,20 @@
 [
   {
     "code": "1542",
+    "group": "2",
+    "professor": "Grupo cancelado, contactar a la División.",
+    "schedules": [
+      {
+        "time": "11:30-13:30",
+        "days": [
+          5
+        ],
+        "classroom": "10"
+      }
+    ]
+  },
+  {
+    "code": "1542",
     "group": "1",
     "professor": "JOSE LUIS JIMENEZ MENDOZA",
     "schedules": [
@@ -9,20 +23,6 @@
         "days": [
           1,
           3
-        ],
-        "classroom": "10"
-      }
-    ]
-  },
-  {
-    "code": "1542",
-    "group": "2",
-    "professor": "Grupo cancelado, contactar a la División.",
-    "schedules": [
-      {
-        "time": "11:30-13:30",
-        "days": [
-          5
         ],
         "classroom": "10"
       }

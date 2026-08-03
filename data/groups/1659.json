@@ -1,6 +1,46 @@
 [
   {
     "code": "1659",
+    "group": "4",
+    "professor": "RICARDO YAÑEZ VALDEZ",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "35"
+      }
+    ],
+    "professor_id": 105090,
+    "first_name": "Ricardo",
+    "last_name": "Yañez valdez",
+    "rating": 3.2,
+    "num_ratings": 15
+  },
+  {
+    "code": "1659",
+    "group": "6",
+    "professor": "JOSE ROGELIO VALDES HERRERA",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "35"
+      }
+    ],
+    "professor_id": 142070,
+    "first_name": "JOSE ROGELIO",
+    "last_name": "VALDES HERRERA",
+    "rating": 7.4,
+    "num_ratings": 5
+  },
+  {
+    "code": "1659",
     "group": "1",
     "professor": "FRANCISCO CUENCA JIMENEZ",
     "schedules": [
@@ -61,26 +101,6 @@
   },
   {
     "code": "1659",
-    "group": "4",
-    "professor": "RICARDO YAÑEZ VALDEZ",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "35"
-      }
-    ],
-    "professor_id": 105090,
-    "first_name": "Ricardo",
-    "last_name": "Yañez valdez",
-    "rating": 3.2,
-    "num_ratings": 15
-  },
-  {
-    "code": "1659",
     "group": "5",
     "professor": "EPIFANIO VARGAS ALCARAZ",
     "schedules": [
@@ -98,25 +118,5 @@
     "last_name": "Vargas Alcaraz",
     "rating": 7.2143,
     "num_ratings": 28
-  },
-  {
-    "code": "1659",
-    "group": "6",
-    "professor": "JOSE ROGELIO VALDES HERRERA",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "35"
-      }
-    ],
-    "professor_id": 142070,
-    "first_name": "JOSE ROGELIO",
-    "last_name": "VALDES HERRERA",
-    "rating": 7.4,
-    "num_ratings": 5
   }
 ]

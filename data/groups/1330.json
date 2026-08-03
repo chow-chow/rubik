@@ -16,6 +16,41 @@
   },
   {
     "code": "1330",
+    "group": "5",
+    "professor": "DANIEL ESQUIVEL VELAZQUEZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1,
+          5
+        ],
+        "classroom": "48"
+      }
+    ]
+  },
+  {
+    "code": "1330",
+    "group": "6",
+    "professor": "JORGE ISUNZA HERNANDEZ",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "48"
+      }
+    ],
+    "professor_id": 49393,
+    "first_name": "Jorge",
+    "last_name": "Isunza Hernández",
+    "rating": 4.6429,
+    "num_ratings": 14
+  },
+  {
+    "code": "1330",
     "group": "2",
     "professor": "GABRIEL ALEJANDRO JARAMILLO MORALES",
     "schedules": [
@@ -51,8 +86,8 @@
     "professor_id": 78455,
     "first_name": "Eduardo",
     "last_name": "López Molina",
-    "rating": 8.28,
-    "num_ratings": 82
+    "rating": 8.3,
+    "num_ratings": 84
   },
   {
     "code": "1330",
@@ -68,40 +103,5 @@
         "classroom": "35"
       }
     ]
-  },
-  {
-    "code": "1330",
-    "group": "5",
-    "professor": "DANIEL ESQUIVEL VELAZQUEZ",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          1,
-          5
-        ],
-        "classroom": "48"
-      }
-    ]
-  },
-  {
-    "code": "1330",
-    "group": "6",
-    "professor": "JORGE ISUNZA HERNANDEZ",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "48"
-      }
-    ],
-    "professor_id": 49393,
-    "first_name": "Jorge",
-    "last_name": "Isunza Hernández",
-    "rating": 4.6429,
-    "num_ratings": 14
   }
 ]

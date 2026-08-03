@@ -1,21 +1,6 @@
 [
   {
     "code": "2954",
-    "group": "1",
-    "professor": "ANA LAURA CHALICO TENORIO",
-    "schedules": [
-      {
-        "time": "13:00-14:30",
-        "days": [
-          1,
-          2
-        ],
-        "classroom": "30"
-      }
-    ]
-  },
-  {
-    "code": "2954",
     "group": "2",
     "professor": "LUIS IVAN NAVARRETE GUERRA",
     "schedules": [
@@ -47,5 +32,20 @@
     "last_name": "Sanabria",
     "rating": 5.5,
     "num_ratings": 2
+  },
+  {
+    "code": "2954",
+    "group": "1",
+    "professor": "ANA LAURA CHALICO TENORIO",
+    "schedules": [
+      {
+        "time": "13:00-14:30",
+        "days": [
+          1,
+          2
+        ],
+        "classroom": "30"
+      }
+    ]
   }
 ]

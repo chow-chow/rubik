@@ -15,8 +15,84 @@
     "professor_id": 82820,
     "first_name": "Lucia Yazmín",
     "last_name": "Juárez de la Mora",
-    "rating": 6.8367,
-    "num_ratings": 49
+    "rating": 6.9615,
+    "num_ratings": 52
+  },
+  {
+    "code": "6330",
+    "group": "3",
+    "professor": "LUCIA YAZMIN JUAREZ DE LA MORA",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1
+        ],
+        "classroom": "20"
+      }
+    ],
+    "professor_id": 82820,
+    "first_name": "Lucia Yazmín",
+    "last_name": "Juárez de la Mora",
+    "rating": 6.9615,
+    "num_ratings": 52
+  },
+  {
+    "code": "6330",
+    "group": "5",
+    "professor": "MARIA ELIZABETH ESQUIVEL RODRIGUEZ",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2
+        ],
+        "classroom": "20"
+      }
+    ],
+    "professor_id": 71883,
+    "first_name": "Maria Elizabeth",
+    "last_name": "Esquivel Rodriguez",
+    "rating": 7.5161,
+    "num_ratings": 31
+  },
+  {
+    "code": "6330",
+    "group": "9",
+    "professor": "LUCIA YAZMIN JUAREZ DE LA MORA",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          4
+        ],
+        "classroom": "20"
+      }
+    ],
+    "professor_id": 82820,
+    "first_name": "Lucia Yazmín",
+    "last_name": "Juárez de la Mora",
+    "rating": 6.9615,
+    "num_ratings": 52
+  },
+  {
+    "code": "6330",
+    "group": "10",
+    "professor": "BRENDA NATALY SANCHEZ EGUIA",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          5
+        ],
+        "classroom": "20"
+      }
+    ],
+    "professor_id": 176745,
+    "first_name": "Brenda Nataly",
+    "last_name": "Sánchez Eguía",
+    "rating": 8.0,
+    "num_ratings": 8
   },
   {
     "code": "6330",
@@ -39,25 +115,6 @@
   },
   {
     "code": "6330",
-    "group": "3",
-    "professor": "LUCIA YAZMIN JUAREZ DE LA MORA",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          1
-        ],
-        "classroom": "20"
-      }
-    ],
-    "professor_id": 82820,
-    "first_name": "Lucia Yazmín",
-    "last_name": "Juárez de la Mora",
-    "rating": 6.8367,
-    "num_ratings": 49
-  },
-  {
-    "code": "6330",
     "group": "4",
     "professor": "ALFONSO PALACIOS MUÑOZ",
     "schedules": [
@@ -74,25 +131,6 @@
     "last_name": "Palacios Muñoz",
     "rating": 9.1923,
     "num_ratings": 26
-  },
-  {
-    "code": "6330",
-    "group": "5",
-    "professor": "MARIA ELIZABETH ESQUIVEL RODRIGUEZ",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          2
-        ],
-        "classroom": "20"
-      }
-    ],
-    "professor_id": 71883,
-    "first_name": "Maria Elizabeth",
-    "last_name": "Esquivel Rodriguez",
-    "rating": 7.5161,
-    "num_ratings": 31
   },
   {
     "code": "6330",
@@ -150,38 +188,5 @@
     "last_name": "Franco García",
     "rating": 7.1,
     "num_ratings": 20
-  },
-  {
-    "code": "6330",
-    "group": "9",
-    "professor": "LUCIA YAZMIN JUAREZ DE LA MORA",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          4
-        ],
-        "classroom": "20"
-      }
-    ],
-    "professor_id": 82820,
-    "first_name": "Lucia Yazmín",
-    "last_name": "Juárez de la Mora",
-    "rating": 6.8367,
-    "num_ratings": 49
-  },
-  {
-    "code": "6330",
-    "group": "10",
-    "professor": "ANTONIO GONZALEZ TREVIÑO",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          5
-        ],
-        "classroom": "20"
-      }
-    ]
   }
 ]

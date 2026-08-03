@@ -15,6 +15,34 @@
   },
   {
     "code": "1332",
+    "group": "6",
+    "professor": "OSCAR MANUEL RUIZ USCARDO",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1
+        ],
+        "classroom": "35"
+      }
+    ]
+  },
+  {
+    "code": "1332",
+    "group": "7",
+    "professor": "ALDO HERNENDEZ FONTES",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          4
+        ],
+        "classroom": "35"
+      }
+    ]
+  },
+  {
+    "code": "1332",
     "group": "2",
     "professor": "LUIS ADRIAN GARCIA ACOSTA",
     "schedules": [
@@ -43,8 +71,8 @@
     "professor_id": 64679,
     "first_name": "Jorge Luis",
     "last_name": "López García",
-    "rating": 8.507,
-    "num_ratings": 71
+    "rating": 8.4722,
+    "num_ratings": 72
   },
   {
     "code": "1332",
@@ -62,8 +90,8 @@
     "professor_id": 36976,
     "first_name": "Patricia",
     "last_name": "Del Valle Morales",
-    "rating": 7.3723,
-    "num_ratings": 94
+    "rating": 7.3646,
+    "num_ratings": 96
   },
   {
     "code": "1332",
@@ -83,33 +111,5 @@
     "last_name": "ROJAS SERRANO",
     "rating": 9.3333,
     "num_ratings": 12
-  },
-  {
-    "code": "1332",
-    "group": "6",
-    "professor": "OSCAR MANUEL RUIZ USCARDO",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          1
-        ],
-        "classroom": "35"
-      }
-    ]
-  },
-  {
-    "code": "1332",
-    "group": "7",
-    "professor": "ALDO HERNENDEZ FONTES",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          4
-        ],
-        "classroom": "35"
-      }
-    ]
   }
 ]

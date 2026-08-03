@@ -1,21 +1,6 @@
 [
   {
     "code": "1578",
-    "group": "1",
-    "professor": "GUSTAVO DANIEL CRUZ GUTIERREZ",
-    "schedules": [
-      {
-        "time": "07:00-10:00",
-        "days": [
-          3,
-          5
-        ],
-        "classroom": "13"
-      }
-    ]
-  },
-  {
-    "code": "1578",
     "group": "2",
     "professor": "SERGIO ENRIQUE MACIAS MEDRANO",
     "schedules": [
@@ -24,6 +9,21 @@
         "days": [
           1,
           3
+        ],
+        "classroom": "13"
+      }
+    ]
+  },
+  {
+    "code": "1578",
+    "group": "1",
+    "professor": "GUSTAVO DANIEL CRUZ GUTIERREZ",
+    "schedules": [
+      {
+        "time": "07:00-10:00",
+        "days": [
+          3,
+          5
         ],
         "classroom": "13"
       }

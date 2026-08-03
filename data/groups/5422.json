@@ -1,6 +1,48 @@
 [
   {
     "code": "5422",
+    "group": "4",
+    "professor": "CARLOS ALBERTO PEREZ JUAREZ",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          4
+        ],
+        "classroom": "16"
+      }
+    ]
+  },
+  {
+    "code": "5422",
+    "group": "6",
+    "professor": "DAVID QUINTANAR VILLALBA",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          5
+        ],
+        "classroom": "16"
+      }
+    ]
+  },
+  {
+    "code": "5422",
+    "group": "7",
+    "professor": "DAVID QUINTANAR VILLALBA",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          6
+        ],
+        "classroom": "16"
+      }
+    ]
+  },
+  {
+    "code": "5422",
     "group": "1",
     "professor": "GLORIA CORREA PALACIOS",
     "schedules": [
@@ -48,20 +90,6 @@
   },
   {
     "code": "5422",
-    "group": "4",
-    "professor": "CARLOS ALBERTO PEREZ JUAREZ",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          4
-        ],
-        "classroom": "16"
-      }
-    ]
-  },
-  {
-    "code": "5422",
     "group": "5",
     "professor": "DAVID QUINTANAR VILLALBA",
     "schedules": [
@@ -69,34 +97,6 @@
         "time": "15:00-17:00",
         "days": [
           5
-        ],
-        "classroom": "16"
-      }
-    ]
-  },
-  {
-    "code": "5422",
-    "group": "6",
-    "professor": "DAVID QUINTANAR VILLALBA",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          5
-        ],
-        "classroom": "16"
-      }
-    ]
-  },
-  {
-    "code": "5422",
-    "group": "7",
-    "professor": "DAVID QUINTANAR VILLALBA",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          6
         ],
         "classroom": "16"
       }

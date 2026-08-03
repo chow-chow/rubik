@@ -1,6 +1,25 @@
 [
   {
     "code": "6617",
+    "group": "4",
+    "professor": "MARIA DEL SOCORRO GUEVARA RODRIGUEZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2
+        ],
+        "classroom": "20"
+      }
+    ],
+    "professor_id": 78454,
+    "first_name": "Maria del Socorro",
+    "last_name": "Guevara Rodriguez",
+    "rating": 5.9189,
+    "num_ratings": 37
+  },
+  {
+    "code": "6617",
     "group": "1",
     "professor": "ADOLFO ROJAS JUAREZ",
     "schedules": [
@@ -45,25 +64,6 @@
         "classroom": "20"
       }
     ]
-  },
-  {
-    "code": "6617",
-    "group": "4",
-    "professor": "MARIA DEL SOCORRO GUEVARA RODRIGUEZ",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          2
-        ],
-        "classroom": "20"
-      }
-    ],
-    "professor_id": 78454,
-    "first_name": "Maria del Socorro",
-    "last_name": "Guevara Rodriguez",
-    "rating": 5.9189,
-    "num_ratings": 37
   },
   {
     "code": "6617",
@@ -133,8 +133,8 @@
     "professor_id": 80201,
     "first_name": "JESUS MARIA FRANCISCO",
     "last_name": "HERNANDEZ MORALES",
-    "rating": 6.0,
-    "num_ratings": 19
+    "rating": 6.1,
+    "num_ratings": 20
   },
   {
     "code": "6617",

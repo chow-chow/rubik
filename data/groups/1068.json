@@ -35,6 +35,21 @@
   },
   {
     "code": "1068",
+    "group": "4",
+    "professor": "ISAIAS CASTRO ARMENDARIZ",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "15"
+      }
+    ]
+  },
+  {
+    "code": "1068",
     "group": "3",
     "professor": "ERICK JAIR GORDILLO GUILLEN",
     "schedules": [
@@ -50,22 +65,7 @@
     "professor_id": 149603,
     "first_name": "ERICK JAIR",
     "last_name": "GORDILLO GUILLEN",
-    "rating": 8.2857,
-    "num_ratings": 7
-  },
-  {
-    "code": "1068",
-    "group": "4",
-    "professor": "ISAIAS CASTRO ARMENDARIZ",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "15"
-      }
-    ]
+    "rating": 8.25,
+    "num_ratings": 8
   }
 ]

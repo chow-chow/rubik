@@ -1,6 +1,20 @@
 [
   {
     "code": "7911",
+    "group": "2",
+    "professor": "EDUARDO PEREZ CAMACHO",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2
+        ],
+        "classroom": "12"
+      }
+    ]
+  },
+  {
+    "code": "7911",
     "group": "1",
     "professor": "ULISES ARTURO PEREZ VENTURA",
     "schedules": [
@@ -17,20 +31,6 @@
     "last_name": "Perez Ventura",
     "rating": 10.0,
     "num_ratings": 2
-  },
-  {
-    "code": "7911",
-    "group": "2",
-    "professor": "EDUARDO PEREZ CAMACHO",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          2
-        ],
-        "classroom": "12"
-      }
-    ]
   },
   {
     "code": "7911",

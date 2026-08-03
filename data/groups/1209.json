@@ -1,6 +1,82 @@
 [
   {
     "code": "1209",
+    "group": "7",
+    "professor": "MARTIN REYES FARIAS",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2
+        ],
+        "classroom": "16"
+      }
+    ],
+    "professor_id": 51610,
+    "first_name": "Martin Ing.",
+    "last_name": "Reyes Farias",
+    "rating": 5.6944,
+    "num_ratings": 36
+  },
+  {
+    "code": "1209",
+    "group": "14",
+    "professor": "EDUARDO ANGUIANO ANAYA",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          1
+        ],
+        "classroom": "16"
+      }
+    ],
+    "professor_id": 115628,
+    "first_name": "Eduardo",
+    "last_name": "Anguiano Anaya",
+    "rating": 7.2667,
+    "num_ratings": 15
+  },
+  {
+    "code": "1209",
+    "group": "17",
+    "professor": "EDUARDO ANGUIANO ANAYA",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          2
+        ],
+        "classroom": "16"
+      }
+    ],
+    "professor_id": 115628,
+    "first_name": "Eduardo",
+    "last_name": "Anguiano Anaya",
+    "rating": 7.2667,
+    "num_ratings": 15
+  },
+  {
+    "code": "1209",
+    "group": "22",
+    "professor": "MARTIN REYES FARIAS",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1
+        ],
+        "classroom": "16"
+      }
+    ],
+    "professor_id": 51610,
+    "first_name": "Martin Ing.",
+    "last_name": "Reyes Farias",
+    "rating": 5.6944,
+    "num_ratings": 36
+  },
+  {
+    "code": "1209",
     "group": "1",
     "professor": "JORGE ALBERTO NAJERA CASTREJON",
     "schedules": [
@@ -96,25 +172,6 @@
   },
   {
     "code": "1209",
-    "group": "7",
-    "professor": "MARTIN REYES FARIAS",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          2
-        ],
-        "classroom": "16"
-      }
-    ],
-    "professor_id": 51610,
-    "first_name": "Martin Ing.",
-    "last_name": "Reyes Farias",
-    "rating": 5.6944,
-    "num_ratings": 36
-  },
-  {
-    "code": "1209",
     "group": "8",
     "professor": "GUADALUPE GERTRUDIS HERRERA MEJIA",
     "schedules": [
@@ -148,8 +205,8 @@
     "professor_id": 42619,
     "first_name": "Emiliano",
     "last_name": "Anguiano Rojas",
-    "rating": 3.9444,
-    "num_ratings": 36
+    "rating": 4.1081,
+    "num_ratings": 37
   },
   {
     "code": "1209",
@@ -167,8 +224,8 @@
     "professor_id": 42619,
     "first_name": "Emiliano",
     "last_name": "Anguiano Rojas",
-    "rating": 3.9444,
-    "num_ratings": 36
+    "rating": 4.1081,
+    "num_ratings": 37
   },
   {
     "code": "1209",
@@ -210,25 +267,6 @@
   },
   {
     "code": "1209",
-    "group": "14",
-    "professor": "EDUARDO ANGUIANO ANAYA",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          1
-        ],
-        "classroom": "16"
-      }
-    ],
-    "professor_id": 115628,
-    "first_name": "Eduardo",
-    "last_name": "Anguiano Anaya",
-    "rating": 7.2667,
-    "num_ratings": 15
-  },
-  {
-    "code": "1209",
     "group": "15",
     "professor": "ROBERTO PEÑA BANDALA",
     "schedules": [
@@ -243,8 +281,8 @@
     "professor_id": 82396,
     "first_name": "Roberto",
     "last_name": "Peña Bandala",
-    "rating": 9.8636,
-    "num_ratings": 22
+    "rating": 9.7826,
+    "num_ratings": 23
   },
   {
     "code": "1209",
@@ -264,25 +302,6 @@
     "last_name": "Sánchez Guzmán",
     "rating": 8.2903,
     "num_ratings": 31
-  },
-  {
-    "code": "1209",
-    "group": "17",
-    "professor": "EDUARDO ANGUIANO ANAYA",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          2
-        ],
-        "classroom": "16"
-      }
-    ],
-    "professor_id": 115628,
-    "first_name": "Eduardo",
-    "last_name": "Anguiano Anaya",
-    "rating": 7.2667,
-    "num_ratings": 15
   },
   {
     "code": "1209",
@@ -359,24 +378,5 @@
     "last_name": "Lira Velazquez",
     "rating": 7.53,
     "num_ratings": 15
-  },
-  {
-    "code": "1209",
-    "group": "22",
-    "professor": "MARTIN REYES FARIAS",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          1
-        ],
-        "classroom": "16"
-      }
-    ],
-    "professor_id": 51610,
-    "first_name": "Martin Ing.",
-    "last_name": "Reyes Farias",
-    "rating": 5.6944,
-    "num_ratings": 36
   }
 ]

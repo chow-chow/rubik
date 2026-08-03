@@ -70,27 +70,7 @@
     "professor_id": 182170,
     "first_name": "James",
     "last_name": "Pérez Barrera",
-    "rating": 8.75,
-    "num_ratings": 4
-  },
-  {
-    "code": "1860",
-    "group": "5",
-    "professor": "FRANCISCO JAVIER SOLORIO ORDAZ",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "30"
-      }
-    ],
-    "professor_id": 113818,
-    "first_name": "Francisco Javier",
-    "last_name": "Solorio Ordaz",
-    "rating": 7.9,
-    "num_ratings": 10
+    "rating": 8.4,
+    "num_ratings": 5
   }
 ]

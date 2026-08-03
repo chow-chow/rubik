@@ -1,6 +1,20 @@
 [
   {
     "code": "1450",
+    "group": "3",
+    "professor": "ANDRES NORIEGA USI",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          4
+        ],
+        "classroom": "35"
+      }
+    ]
+  },
+  {
+    "code": "1450",
     "group": "1",
     "professor": "ANTONIA DEL CARMEN PEREZ LEON",
     "schedules": [
@@ -27,20 +41,6 @@
         "time": "09:00-11:00",
         "days": [
           1
-        ],
-        "classroom": "35"
-      }
-    ]
-  },
-  {
-    "code": "1450",
-    "group": "3",
-    "professor": "ANDRES NORIEGA USI",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          4
         ],
         "classroom": "35"
       }

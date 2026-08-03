@@ -1,6 +1,21 @@
 [
   {
     "code": "1587",
+    "group": "2",
+    "professor": "ELENA CENTENO GARCIA",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "22"
+      }
+    ]
+  },
+  {
+    "code": "1587",
     "group": "1",
     "professor": "ENRIQUE ALEJANDRO GONZALEZ TORRES",
     "schedules": [
@@ -18,20 +33,5 @@
     "last_name": "González Torres",
     "rating": 9.4375,
     "num_ratings": 16
-  },
-  {
-    "code": "1587",
-    "group": "2",
-    "professor": "ELENA CENTENO GARCIA",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "22"
-      }
-    ]
   }
 ]

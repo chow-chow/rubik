@@ -1,6 +1,46 @@
 [
   {
     "code": "1220",
+    "group": "5",
+    "professor": "SOFIA MAGDALENA AVILA BECERRIL",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "48"
+      }
+    ],
+    "professor_id": 34036,
+    "first_name": "Sofia Magdalena",
+    "last_name": "Avila Becerril",
+    "rating": 9.1979,
+    "num_ratings": 96
+  },
+  {
+    "code": "1220",
+    "group": "21",
+    "professor": "GUILLERMO ADOLFO VIGNAU ESTEVA",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "48"
+      }
+    ],
+    "professor_id": 64988,
+    "first_name": "Guillermo Adolfo",
+    "last_name": "Vignau Esteva",
+    "rating": 8.4773,
+    "num_ratings": 44
+  },
+  {
+    "code": "1220",
     "group": "1",
     "professor": "ROBERTO GUZMAN GONZALEZ",
     "schedules": [
@@ -16,8 +56,8 @@
     "professor_id": 30856,
     "first_name": "roberto",
     "last_name": "Guzman Gonzalez",
-    "rating": 7.5816,
-    "num_ratings": 141
+    "rating": 7.5775,
+    "num_ratings": 142
   },
   {
     "code": "1220",
@@ -36,8 +76,8 @@
     "professor_id": 37991,
     "first_name": "FELIPE",
     "last_name": "SEGUNDO CUEVAS",
-    "rating": 4.087,
-    "num_ratings": 46
+    "rating": 4.0851,
+    "num_ratings": 47
   },
   {
     "code": "1220",
@@ -73,26 +113,6 @@
         "classroom": "35"
       }
     ]
-  },
-  {
-    "code": "1220",
-    "group": "5",
-    "professor": "SOFIA MAGDALENA AVILA BECERRIL",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "35"
-      }
-    ],
-    "professor_id": 34036,
-    "first_name": "Sofia Magdalena",
-    "last_name": "Avila Becerril",
-    "rating": 9.1979,
-    "num_ratings": 96
   },
   {
     "code": "1220",
@@ -151,8 +171,8 @@
     "professor_id": 118726,
     "first_name": "Regina Anaid",
     "last_name": "Martínez Lobato",
-    "rating": 8.2593,
-    "num_ratings": 54
+    "rating": 8.1607,
+    "num_ratings": 56
   },
   {
     "code": "1220",
@@ -246,8 +266,8 @@
     "professor_id": 51835,
     "first_name": "Ana Marissa",
     "last_name": "Juarez Mendoza",
-    "rating": 8.7097,
-    "num_ratings": 62
+    "rating": 8.7143,
+    "num_ratings": 63
   },
   {
     "code": "1220",
@@ -266,8 +286,8 @@
     "professor_id": 49939,
     "first_name": "Casiano",
     "last_name": "Aguilar Morales",
-    "rating": 7.3415,
-    "num_ratings": 82
+    "rating": 7.3333,
+    "num_ratings": 84
   },
   {
     "code": "1220",
@@ -368,25 +388,5 @@
     "last_name": "Ortega Barbosa",
     "rating": 7.7407,
     "num_ratings": 27
-  },
-  {
-    "code": "1220",
-    "group": "21",
-    "professor": "GUILLERMO ADOLFO VIGNAU ESTEVA",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          3,
-          5
-        ],
-        "classroom": "48"
-      }
-    ],
-    "professor_id": 64988,
-    "first_name": "Guillermo Adolfo",
-    "last_name": "Vignau Esteva",
-    "rating": 8.4773,
-    "num_ratings": 44
   }
 ]

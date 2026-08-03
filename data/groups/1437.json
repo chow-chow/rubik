@@ -21,6 +21,21 @@
   },
   {
     "code": "1437",
+    "group": "14",
+    "professor": "RICARDO CABRERA POSADA",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "48"
+      }
+    ]
+  },
+  {
+    "code": "1437",
     "group": "2",
     "professor": "ADAN TONATIUH LOPEZ RODRIGUEZ",
     "schedules": [
@@ -67,7 +82,7 @@
       {
         "time": "09:00-11:00",
         "days": [
-          5
+          3
         ],
         "classroom": "48"
       }
@@ -90,8 +105,8 @@
     "professor_id": 31167,
     "first_name": "Rigel",
     "last_name": "Gámez Leal",
-    "rating": 8.5,
-    "num_ratings": 86
+    "rating": 8.5172,
+    "num_ratings": 87
   },
   {
     "code": "1437",
@@ -125,8 +140,8 @@
     "professor_id": 96626,
     "first_name": "Javier",
     "last_name": "Rosas Flores",
-    "rating": 8.791,
-    "num_ratings": 67
+    "rating": 8.7794,
+    "num_ratings": 68
   },
   {
     "code": "1437",
@@ -156,7 +171,7 @@
       {
         "time": "15:00-17:00",
         "days": [
-          3
+          1
         ],
         "classroom": "48"
       }
@@ -164,8 +179,8 @@
     "professor_id": 78455,
     "first_name": "Eduardo",
     "last_name": "López Molina",
-    "rating": 8.28,
-    "num_ratings": 82
+    "rating": 8.3,
+    "num_ratings": 84
   },
   {
     "code": "1437",
@@ -219,8 +234,8 @@
     "professor_id": 96626,
     "first_name": "Javier",
     "last_name": "Rosas Flores",
-    "rating": 8.791,
-    "num_ratings": 67
+    "rating": 8.7794,
+    "num_ratings": 68
   },
   {
     "code": "1437",
@@ -241,21 +256,6 @@
     "last_name": "Rogelio",
     "rating": 8.6607,
     "num_ratings": 56
-  },
-  {
-    "code": "1437",
-    "group": "14",
-    "professor": "RICARDO CABRERA POSADA",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "48"
-      }
-    ]
   },
   {
     "code": "1437",

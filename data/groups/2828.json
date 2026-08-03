@@ -1,21 +1,6 @@
 [
   {
     "code": "2828",
-    "group": "1",
-    "professor": "OMAR OLIVARES REYESVer Nota 1",
-    "schedules": [
-      {
-        "time": "15:00-16:30",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "30"
-      }
-    ]
-  },
-  {
-    "code": "2828",
     "group": "2",
     "professor": "SANTIAGO ZURIEL AGUILLON SALAZARVer Nota 1",
     "schedules": [
@@ -33,5 +18,20 @@
     "last_name": "Aguillón",
     "rating": 9.0833,
     "num_ratings": 12
+  },
+  {
+    "code": "2828",
+    "group": "1",
+    "professor": "OMAR OLIVARES REYESVer Nota 1",
+    "schedules": [
+      {
+        "time": "15:00-16:30",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "30"
+      }
+    ]
   }
 ]

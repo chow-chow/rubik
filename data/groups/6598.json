@@ -1,6 +1,20 @@
 [
   {
     "code": "6598",
+    "group": "1",
+    "professor": "JOSE ANTONIO MACIAS GARCIA",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1
+        ],
+        "classroom": "0"
+      }
+    ]
+  },
+  {
+    "code": "6598",
     "group": "2",
     "professor": "CINTIA QUEZADA REYES",
     "schedules": [
@@ -124,6 +138,20 @@
   },
   {
     "code": "6598",
+    "group": "9",
+    "professor": "JOSE ANTONIO MACIAS GARCIA",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          5
+        ],
+        "classroom": "0"
+      }
+    ]
+  },
+  {
+    "code": "6598",
     "group": "10",
     "professor": "MARIA EUGENIA BAUTISTA GONZALEZ",
     "schedules": [
@@ -152,34 +180,6 @@
           1
         ],
         "classroom": "18"
-      }
-    ]
-  },
-  {
-    "code": "6598",
-    "group": "1",
-    "professor": "JOSE ANTONIO MACIAS GARCIA",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          1
-        ],
-        "classroom": "0"
-      }
-    ]
-  },
-  {
-    "code": "6598",
-    "group": "9",
-    "professor": "JOSE ANTONIO MACIAS GARCIA",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          5
-        ],
-        "classroom": "0"
       }
     ]
   }

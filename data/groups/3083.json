@@ -56,28 +56,8 @@
     "professor_id": 91447,
     "first_name": "Alejandro",
     "last_name": "Jaramillo Mora",
-    "rating": 7.6512,
-    "num_ratings": 43
-  },
-  {
-    "code": "3083",
-    "group": "4",
-    "professor": "CESAR ABRAHAM LUNA ESTRADA",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "15"
-      }
-    ],
-    "professor_id": 137507,
-    "first_name": "César Abraham",
-    "last_name": "Luna Estrada",
-    "rating": 9.5556,
-    "num_ratings": 18
+    "rating": 7.6222,
+    "num_ratings": 45
   },
   {
     "code": "3083",
@@ -108,5 +88,25 @@
         "classroom": "17"
       }
     ]
+  },
+  {
+    "code": "3083",
+    "group": "4",
+    "professor": "CESAR ABRAHAM LUNA ESTRADA",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "15"
+      }
+    ],
+    "professor_id": 137507,
+    "first_name": "César Abraham",
+    "last_name": "Luna Estrada",
+    "rating": 9.5556,
+    "num_ratings": 18
   }
 ]

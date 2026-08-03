@@ -20,6 +20,44 @@
   },
   {
     "code": "7500",
+    "group": "18",
+    "professor": "MARTIN REYES FARIAS",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          5
+        ],
+        "classroom": "12"
+      }
+    ],
+    "professor_id": 51610,
+    "first_name": "Martin Ing.",
+    "last_name": "Reyes Farias",
+    "rating": 5.6944,
+    "num_ratings": 36
+  },
+  {
+    "code": "7500",
+    "group": "19",
+    "professor": "JOSE LUIS ALMARAZ MORENO",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          3
+        ],
+        "classroom": "12"
+      }
+    ],
+    "professor_id": 141917,
+    "first_name": "Jose Luis",
+    "last_name": "Almaraz Moreno",
+    "rating": 6.5,
+    "num_ratings": 2
+  },
+  {
+    "code": "7500",
     "group": "2",
     "professor": "AURORA GUTIERREZ MORALES",
     "schedules": [
@@ -129,8 +167,8 @@
     "professor_id": 66628,
     "first_name": "Adolfo",
     "last_name": "Altamirano Meza",
-    "rating": 7.875,
-    "num_ratings": 8
+    "rating": 8.1111,
+    "num_ratings": 9
   },
   {
     "code": "7500",
@@ -148,8 +186,8 @@
     "professor_id": 66628,
     "first_name": "Adolfo",
     "last_name": "Altamirano Meza",
-    "rating": 7.875,
-    "num_ratings": 8
+    "rating": 8.1111,
+    "num_ratings": 9
   },
   {
     "code": "7500",
@@ -167,8 +205,8 @@
     "professor_id": 66628,
     "first_name": "Adolfo",
     "last_name": "Altamirano Meza",
-    "rating": 7.875,
-    "num_ratings": 8
+    "rating": 8.1111,
+    "num_ratings": 9
   },
   {
     "code": "7500",
@@ -243,8 +281,8 @@
     "professor_id": 101528,
     "first_name": "David",
     "last_name": "Martínez Hernández",
-    "rating": 8.0,
-    "num_ratings": 26
+    "rating": 7.8519,
+    "num_ratings": 27
   },
   {
     "code": "7500",
@@ -281,8 +319,8 @@
     "professor_id": 101528,
     "first_name": "David",
     "last_name": "Martínez Hernández",
-    "rating": 8.0,
-    "num_ratings": 26
+    "rating": 7.8519,
+    "num_ratings": 27
   },
   {
     "code": "7500",
@@ -300,8 +338,8 @@
     "professor_id": 101528,
     "first_name": "David",
     "last_name": "Martínez Hernández",
-    "rating": 8.0,
-    "num_ratings": 26
+    "rating": 7.8519,
+    "num_ratings": 27
   },
   {
     "code": "7500",
@@ -321,43 +359,5 @@
     "last_name": "Garduño Garcia",
     "rating": 7.2857,
     "num_ratings": 14
-  },
-  {
-    "code": "7500",
-    "group": "18",
-    "professor": "MARTIN REYES FARIAS",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          5
-        ],
-        "classroom": "12"
-      }
-    ],
-    "professor_id": 51610,
-    "first_name": "Martin Ing.",
-    "last_name": "Reyes Farias",
-    "rating": 5.6944,
-    "num_ratings": 36
-  },
-  {
-    "code": "7500",
-    "group": "19",
-    "professor": "JOSE LUIS ALMARAZ MORENO",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          3
-        ],
-        "classroom": "12"
-      }
-    ],
-    "professor_id": 141917,
-    "first_name": "Jose Luis",
-    "last_name": "Almaraz Moreno",
-    "rating": 6.5,
-    "num_ratings": 2
   }
 ]

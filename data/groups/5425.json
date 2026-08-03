@@ -1,6 +1,20 @@
 [
   {
     "code": "5425",
+    "group": "4",
+    "professor": "GREGORIO RAYMUNDO ORTIZ MEJIA",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          6
+        ],
+        "classroom": "5"
+      }
+    ]
+  },
+  {
+    "code": "5425",
     "group": "1",
     "professor": "LOURDES MARTINEZ LOPEZ",
     "schedules": [
@@ -55,19 +69,5 @@
     "last_name": "Martinez Lopez",
     "rating": 6.6429,
     "num_ratings": 14
-  },
-  {
-    "code": "5425",
-    "group": "4",
-    "professor": "GREGORIO RAYMUNDO ORTIZ MEJIA",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          6
-        ],
-        "classroom": "5"
-      }
-    ]
   }
 ]

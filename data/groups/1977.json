@@ -31,11 +31,11 @@
   },
   {
     "code": "1977",
-    "group": "4",
-    "professor": "JESUS ESTEBAN PEREZ ORTEGA",
+    "group": "3",
+    "professor": "MIGUEL ANGEL PADILLA CASTAÑEDA",
     "schedules": [
       {
-        "time": "11:00-13:00",
+        "time": "09:00-11:00",
         "days": [
           2,
           4
@@ -46,11 +46,11 @@
   },
   {
     "code": "1977",
-    "group": "5",
-    "professor": "EDGAR ANTONIO HERNANDEZ TIRADO",
+    "group": "4",
+    "professor": "JESUS ESTEBAN PEREZ ORTEGA",
     "schedules": [
       {
-        "time": "19:00-21:00",
+        "time": "11:00-13:00",
         "days": [
           2,
           4
@@ -130,6 +130,21 @@
     "schedules": [
       {
         "time": "09:00-11:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "10"
+      }
+    ]
+  },
+  {
+    "code": "1977",
+    "group": "5",
+    "professor": "EDGAR ANTONIO HERNANDEZ TIRADO",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
         "days": [
           2,
           4

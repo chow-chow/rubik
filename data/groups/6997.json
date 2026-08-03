@@ -15,44 +15,6 @@
   },
   {
     "code": "6997",
-    "group": "2",
-    "professor": "ADRIANA EUGENIA CHAVIRA DIAZ",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          1
-        ],
-        "classroom": "10"
-      }
-    ],
-    "professor_id": 112610,
-    "first_name": "Adriana Eugenia",
-    "last_name": "Chavira Diaz",
-    "rating": 9.3158,
-    "num_ratings": 19
-  },
-  {
-    "code": "6997",
-    "group": "3",
-    "professor": "JESUS YAÑEZ GUTIERREZ",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          2
-        ],
-        "classroom": "10"
-      }
-    ],
-    "professor_id": 156041,
-    "first_name": "Jesús",
-    "last_name": "Yañez Gutiérrez",
-    "rating": 9.3333,
-    "num_ratings": 3
-  },
-  {
-    "code": "6997",
     "group": "4",
     "professor": "MINERVA RUTH HERRERA RODRIGUEZ",
     "schedules": [
@@ -91,25 +53,6 @@
   },
   {
     "code": "6997",
-    "group": "6",
-    "professor": "ADRIANA EUGENIA CHAVIRA DIAZ",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          4
-        ],
-        "classroom": "10"
-      }
-    ],
-    "professor_id": 112610,
-    "first_name": "Adriana Eugenia",
-    "last_name": "Chavira Diaz",
-    "rating": 9.3158,
-    "num_ratings": 19
-  },
-  {
-    "code": "6997",
     "group": "7",
     "professor": "JESUS YAÑEZ GUTIERREZ",
     "schedules": [
@@ -140,6 +83,82 @@
         "classroom": "10"
       }
     ]
+  },
+  {
+    "code": "6997",
+    "group": "11",
+    "professor": "DANIEL MARTINEZ GUTIERREZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          5
+        ],
+        "classroom": "10"
+      }
+    ],
+    "professor_id": 87594,
+    "first_name": "Daniel",
+    "last_name": "Martínez Gutierrez",
+    "rating": 6.2105,
+    "num_ratings": 19
+  },
+  {
+    "code": "6997",
+    "group": "2",
+    "professor": "ADRIANA EUGENIA CHAVIRA DIAZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1
+        ],
+        "classroom": "10"
+      }
+    ],
+    "professor_id": 112610,
+    "first_name": "Adriana Eugenia",
+    "last_name": "Chavira Diaz",
+    "rating": 9.3158,
+    "num_ratings": 19
+  },
+  {
+    "code": "6997",
+    "group": "3",
+    "professor": "JESUS YAÑEZ GUTIERREZ",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          2
+        ],
+        "classroom": "10"
+      }
+    ],
+    "professor_id": 156041,
+    "first_name": "Jesús",
+    "last_name": "Yañez Gutiérrez",
+    "rating": 9.3333,
+    "num_ratings": 3
+  },
+  {
+    "code": "6997",
+    "group": "6",
+    "professor": "ADRIANA EUGENIA CHAVIRA DIAZ",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          4
+        ],
+        "classroom": "10"
+      }
+    ],
+    "professor_id": 112610,
+    "first_name": "Adriana Eugenia",
+    "last_name": "Chavira Diaz",
+    "rating": 9.3158,
+    "num_ratings": 19
   },
   {
     "code": "6997",
@@ -178,24 +197,5 @@
     "last_name": "Ramos",
     "rating": 8.3333,
     "num_ratings": 3
-  },
-  {
-    "code": "6997",
-    "group": "11",
-    "professor": "DANIEL MARTINEZ GUTIERREZ",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          5
-        ],
-        "classroom": "10"
-      }
-    ],
-    "professor_id": 87594,
-    "first_name": "Daniel",
-    "last_name": "Martínez Gutierrez",
-    "rating": 6.2105,
-    "num_ratings": 19
   }
 ]

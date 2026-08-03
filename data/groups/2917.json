@@ -1,6 +1,44 @@
 [
   {
     "code": "2917",
+    "group": "8",
+    "professor": "FLOR HERNANDEZ PADILLA",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          5
+        ],
+        "classroom": "10"
+      }
+    ],
+    "professor_id": 94327,
+    "first_name": "Flor",
+    "last_name": "Hernández Padilla",
+    "rating": 5.65,
+    "num_ratings": 20
+  },
+  {
+    "code": "2917",
+    "group": "14",
+    "professor": "HERIBERTO GARCIA LEDEZMA",
+    "schedules": [
+      {
+        "time": "14:00-18:00",
+        "days": [
+          1
+        ],
+        "classroom": "10"
+      }
+    ],
+    "professor_id": 56349,
+    "first_name": "Heriberto",
+    "last_name": "García Ledezma",
+    "rating": 7.3,
+    "num_ratings": 44
+  },
+  {
+    "code": "2917",
     "group": "1",
     "professor": "VERONICA OLVERA RODRIGUEZ",
     "schedules": [
@@ -53,8 +91,8 @@
     "professor_id": 120294,
     "first_name": "Susana Casy",
     "last_name": "Tellez Ballesteros",
-    "rating": 9.4286,
-    "num_ratings": 7
+    "rating": 9.25,
+    "num_ratings": 8
   },
   {
     "code": "2917",
@@ -117,25 +155,6 @@
     "last_name": "Torres Aguilar",
     "rating": 6.6667,
     "num_ratings": 15
-  },
-  {
-    "code": "2917",
-    "group": "8",
-    "professor": "FLOR HERNANDEZ PADILLA",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          5
-        ],
-        "classroom": "10"
-      }
-    ],
-    "professor_id": 94327,
-    "first_name": "Flor",
-    "last_name": "Hernández Padilla",
-    "rating": 5.65,
-    "num_ratings": 20
   },
   {
     "code": "2917",
@@ -221,24 +240,5 @@
         "classroom": "10"
       }
     ]
-  },
-  {
-    "code": "2917",
-    "group": "14",
-    "professor": "HERIBERTO GARCIA LEDEZMA",
-    "schedules": [
-      {
-        "time": "14:00-18:00",
-        "days": [
-          1
-        ],
-        "classroom": "10"
-      }
-    ],
-    "professor_id": 56349,
-    "first_name": "Heriberto",
-    "last_name": "García Ledezma",
-    "rating": 7.3,
-    "num_ratings": 44
   }
 ]

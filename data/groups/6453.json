@@ -15,20 +15,6 @@
   },
   {
     "code": "6453",
-    "group": "2",
-    "professor": "IVAN DE JESUS GRANADOS MIRANDA",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          4
-        ],
-        "classroom": "12"
-      }
-    ]
-  },
-  {
-    "code": "6453",
     "group": "3",
     "professor": "ELIZABETH FONSECA CHAVEZ",
     "schedules": [
@@ -36,6 +22,20 @@
         "time": "13:00-15:00",
         "days": [
           5
+        ],
+        "classroom": "12"
+      }
+    ]
+  },
+  {
+    "code": "6453",
+    "group": "2",
+    "professor": "IVAN DE JESUS GRANADOS MIRANDA",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          4
         ],
         "classroom": "12"
       }

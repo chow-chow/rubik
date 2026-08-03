@@ -1,6 +1,21 @@
 [
   {
     "code": "2079",
+    "group": "2",
+    "professor": "FRANCISCO MANUEL SANCHEZ AREVALO",
+    "schedules": [
+      {
+        "time": "08:00-10:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "5"
+      }
+    ]
+  },
+  {
+    "code": "2079",
     "group": "1",
     "professor": "NELLY MEDINA MOLOTLA",
     "schedules": [
@@ -19,20 +34,5 @@
     "last_name": "Medina Molotla",
     "rating": 9.2,
     "num_ratings": 5
-  },
-  {
-    "code": "2079",
-    "group": "2",
-    "professor": "FRANCISCO MANUEL SANCHEZ AREVALO",
-    "schedules": [
-      {
-        "time": "08:00-10:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "5"
-      }
-    ]
   }
 ]

@@ -1,6 +1,115 @@
 [
   {
     "code": "6414",
+    "group": "6",
+    "professor": "MARIA DEL PILAR AGUILAR DEL VALLE",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1
+        ],
+        "classroom": "20"
+      }
+    ]
+  },
+  {
+    "code": "6414",
+    "group": "11",
+    "professor": "ROSALBA SOLIS SORIANO",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2
+        ],
+        "classroom": "20"
+      }
+    ],
+    "professor_id": 190136,
+    "first_name": "ROSALBA",
+    "last_name": "SOLIS SORIANO",
+    "rating": 5.1667,
+    "num_ratings": 6
+  },
+  {
+    "code": "6414",
+    "group": "17",
+    "professor": "ADRIANA YOLOXOCHIL JIMENEZ RODRIGUEZ",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          3
+        ],
+        "classroom": "20"
+      }
+    ],
+    "professor_id": 94468,
+    "first_name": "Adriana Yoloxochil",
+    "last_name": "Jiménez Rodríguez",
+    "rating": 6.6176,
+    "num_ratings": 34
+  },
+  {
+    "code": "6414",
+    "group": "18",
+    "professor": "ELIZABETH AGUIRRE MALDONADO",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          3
+        ],
+        "classroom": "20"
+      }
+    ],
+    "professor_id": 60632,
+    "first_name": "Elizabeth",
+    "last_name": "Aguirre Maldonado",
+    "rating": 6.6471,
+    "num_ratings": 51
+  },
+  {
+    "code": "6414",
+    "group": "19",
+    "professor": "JULIA VAZQUEZ FUENTES",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          4
+        ],
+        "classroom": "20"
+      }
+    ],
+    "professor_id": 58672,
+    "first_name": "Julia",
+    "last_name": "Vazquez Fuentes",
+    "rating": 4.2128,
+    "num_ratings": 47
+  },
+  {
+    "code": "6414",
+    "group": "24",
+    "professor": "JULIA VAZQUEZ FUENTES",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          5
+        ],
+        "classroom": "20"
+      }
+    ],
+    "professor_id": 58672,
+    "first_name": "Julia",
+    "last_name": "Vazquez Fuentes",
+    "rating": 4.2128,
+    "num_ratings": 47
+  },
+  {
+    "code": "6414",
     "group": "1",
     "professor": "ANTONIO PACHECO CONDE",
     "schedules": [
@@ -91,20 +200,6 @@
   },
   {
     "code": "6414",
-    "group": "6",
-    "professor": "MARIA DEL PILAR AGUILAR DEL VALLE",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          1
-        ],
-        "classroom": "20"
-      }
-    ]
-  },
-  {
-    "code": "6414",
     "group": "7",
     "professor": "JOSE CARLOS RODRIGUEZ TENORIO",
     "schedules": [
@@ -176,25 +271,6 @@
   },
   {
     "code": "6414",
-    "group": "11",
-    "professor": "ROSALBA SOLIS SORIANO",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          2
-        ],
-        "classroom": "20"
-      }
-    ],
-    "professor_id": 190136,
-    "first_name": "ROSALBA",
-    "last_name": "SOLIS SORIANO",
-    "rating": 5.1667,
-    "num_ratings": 6
-  },
-  {
-    "code": "6414",
     "group": "12",
     "professor": "SANTIAGO GONZALEZ LOPEZ",
     "schedules": [
@@ -261,8 +337,8 @@
     "professor_id": 113700,
     "first_name": "Juan Carlos",
     "last_name": "Cedeño Vazquez",
-    "rating": 8.3684,
-    "num_ratings": 19
+    "rating": 8.5238,
+    "num_ratings": 21
   },
   {
     "code": "6414",
@@ -282,63 +358,6 @@
     "last_name": "Flores Zárate",
     "rating": 7.1,
     "num_ratings": 20
-  },
-  {
-    "code": "6414",
-    "group": "17",
-    "professor": "ADRIANA YOLOXOCHIL JIMENEZ RODRIGUEZ",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          3
-        ],
-        "classroom": "20"
-      }
-    ],
-    "professor_id": 94468,
-    "first_name": "Adriana Yoloxochil",
-    "last_name": "Jiménez Rodríguez",
-    "rating": 6.6176,
-    "num_ratings": 34
-  },
-  {
-    "code": "6414",
-    "group": "18",
-    "professor": "ELIZABETH AGUIRRE MALDONADO",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          3
-        ],
-        "classroom": "20"
-      }
-    ],
-    "professor_id": 60632,
-    "first_name": "Elizabeth",
-    "last_name": "Aguirre Maldonado",
-    "rating": 6.6471,
-    "num_ratings": 51
-  },
-  {
-    "code": "6414",
-    "group": "19",
-    "professor": "JULIA VAZQUEZ FUENTES",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          4
-        ],
-        "classroom": "20"
-      }
-    ],
-    "professor_id": 58672,
-    "first_name": "Julia",
-    "last_name": "Vazquez Fuentes",
-    "rating": 4.2391,
-    "num_ratings": 46
   },
   {
     "code": "6414",
@@ -375,8 +394,8 @@
     "professor_id": 82820,
     "first_name": "Lucia Yazmín",
     "last_name": "Juárez de la Mora",
-    "rating": 6.8367,
-    "num_ratings": 49
+    "rating": 6.9615,
+    "num_ratings": 52
   },
   {
     "code": "6414",
@@ -418,25 +437,6 @@
   },
   {
     "code": "6414",
-    "group": "24",
-    "professor": "JULIA VAZQUEZ FUENTES",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          5
-        ],
-        "classroom": "20"
-      }
-    ],
-    "professor_id": 58672,
-    "first_name": "Julia",
-    "last_name": "Vazquez Fuentes",
-    "rating": 4.2391,
-    "num_ratings": 46
-  },
-  {
-    "code": "6414",
     "group": "25",
     "professor": "EDUARDO LOPEZ MOLINA",
     "schedules": [
@@ -451,8 +451,8 @@
     "professor_id": 78455,
     "first_name": "Eduardo",
     "last_name": "López Molina",
-    "rating": 8.28,
-    "num_ratings": 82
+    "rating": 8.3,
+    "num_ratings": 84
   },
   {
     "code": "6414",
@@ -489,8 +489,8 @@
     "professor_id": 44254,
     "first_name": "Maria del Carmen",
     "last_name": "Melo Díaz",
-    "rating": 6.908,
-    "num_ratings": 87
+    "rating": 6.8864,
+    "num_ratings": 88
   },
   {
     "code": "6414",

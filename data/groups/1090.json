@@ -5,11 +5,27 @@
     "professor": "VICTOR LEONARDO TEJA JUAREZ",
     "schedules": [
       {
-        "time": "09:00-10:00",
+        "time": "09:00-11:00",
         "days": [
-          5
+          1,
+          3
         ],
-        "classroom": "22"
+        "classroom": "20"
+      }
+    ]
+  },
+  {
+    "code": "1090",
+    "group": "2",
+    "professor": "RAMIRO GALVAN CASTRO",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "20"
       }
     ]
   },
@@ -19,18 +35,17 @@
     "professor": "SALVADOR HERNANDEZ IBAÑEZ",
     "schedules": [
       {
-        "time": "18:00-20:00",
+        "time": "18:00-19:00",
         "days": [
-          2,
-          4
+          5
         ],
-        "classroom": "22"
+        "classroom": "20"
       }
     ],
     "professor_id": 165489,
     "first_name": "Salvador",
     "last_name": "Hernández Ibañez",
-    "rating": 7.5,
-    "num_ratings": 6
+    "rating": 7.2857,
+    "num_ratings": 7
   }
 ]

@@ -142,7 +142,21 @@
     "professor": "FERMIN MAYA ROMERO",
     "schedules": [
       {
-        "time": "09:00-11:00",
+        "time": "17:00-19:00",
+        "days": [
+          2
+        ],
+        "classroom": "5"
+      }
+    ]
+  },
+  {
+    "code": "5462",
+    "group": "10",
+    "professor": "PROFESOR POR ASIGNAR",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
         "days": [
           2
         ],
@@ -237,6 +251,20 @@
     "schedules": [
       {
         "time": "09:00-11:00",
+        "days": [
+          4
+        ],
+        "classroom": "5"
+      }
+    ]
+  },
+  {
+    "code": "5462",
+    "group": "17",
+    "professor": "PROFESOR POR ASIGNAR",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
         "days": [
           4
         ],

@@ -1,6 +1,46 @@
 [
   {
     "code": "6225",
+    "group": "4",
+    "professor": "OSVALDO RUIZ CERVANTES",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "24"
+      }
+    ],
+    "professor_id": 90646,
+    "first_name": "Osvaldo",
+    "last_name": "Ruiz Cervantes",
+    "rating": 5.381,
+    "num_ratings": 21
+  },
+  {
+    "code": "6225",
+    "group": "6",
+    "professor": "ERIC ADRIAN TEJADA MALPICA",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "24"
+      }
+    ],
+    "professor_id": 113002,
+    "first_name": "Eric Adrián",
+    "last_name": "Tejada Malpica",
+    "rating": 7.3636,
+    "num_ratings": 22
+  },
+  {
+    "code": "6225",
     "group": "1",
     "professor": "JAVIER ISAAC HERNANDEZ PRADO",
     "schedules": [
@@ -56,26 +96,6 @@
   },
   {
     "code": "6225",
-    "group": "4",
-    "professor": "OSVALDO RUIZ CERVANTES",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "24"
-      }
-    ],
-    "professor_id": 90646,
-    "first_name": "Osvaldo",
-    "last_name": "Ruiz Cervantes",
-    "rating": 5.381,
-    "num_ratings": 21
-  },
-  {
-    "code": "6225",
     "group": "5",
     "professor": "JOSE LUIS ESPINOZA RAMIREZ",
     "schedules": [
@@ -96,26 +116,6 @@
   },
   {
     "code": "6225",
-    "group": "6",
-    "professor": "ERIC ADRIAN TEJADA MALPICA",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "24"
-      }
-    ],
-    "professor_id": 113002,
-    "first_name": "Eric Adrián",
-    "last_name": "Tejada Malpica",
-    "rating": 7.3636,
-    "num_ratings": 22
-  },
-  {
-    "code": "6225",
     "group": "7",
     "professor": "DAVID MARTINEZ HERNANDEZ",
     "schedules": [
@@ -131,8 +131,8 @@
     "professor_id": 101528,
     "first_name": "David",
     "last_name": "Martínez Hernández",
-    "rating": 8.0,
-    "num_ratings": 26
+    "rating": 7.8519,
+    "num_ratings": 27
   },
   {
     "code": "6225",

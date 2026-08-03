@@ -1,26 +1,6 @@
 [
   {
     "code": "1010",
-    "group": "1",
-    "professor": "SAUL DE LA ROSA NIEVES",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "15"
-      }
-    ],
-    "professor_id": 86735,
-    "first_name": "Saúl",
-    "last_name": "de la Rosa Nieves",
-    "rating": 8.8,
-    "num_ratings": 15
-  },
-  {
-    "code": "1010",
     "group": "2",
     "professor": "BEATRIZ ESLAVA ARELLANES",
     "schedules": [
@@ -38,5 +18,25 @@
     "last_name": "Eslava Arellanes",
     "rating": 7.0909,
     "num_ratings": 11
+  },
+  {
+    "code": "1010",
+    "group": "1",
+    "professor": "SAUL DE LA ROSA NIEVES",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "15"
+      }
+    ],
+    "professor_id": 86735,
+    "first_name": "Saúl",
+    "last_name": "de la Rosa Nieves",
+    "rating": 8.8,
+    "num_ratings": 15
   }
 ]

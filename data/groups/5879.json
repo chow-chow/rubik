@@ -1,6 +1,44 @@
 [
   {
     "code": "5879",
+    "group": "6",
+    "professor": "JOSE LUIS VILLEDAS MORALES",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1
+        ],
+        "classroom": "7"
+      }
+    ],
+    "professor_id": 99092,
+    "first_name": "JOSE LUIS",
+    "last_name": "VILLEDAS MORALES",
+    "rating": 7.2857,
+    "num_ratings": 7
+  },
+  {
+    "code": "5879",
+    "group": "14",
+    "professor": "JOSE LUIS VILLEDAS MORALES",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          3
+        ],
+        "classroom": "7"
+      }
+    ],
+    "professor_id": 99092,
+    "first_name": "JOSE LUIS",
+    "last_name": "VILLEDAS MORALES",
+    "rating": 7.2857,
+    "num_ratings": 7
+  },
+  {
+    "code": "5879",
     "group": "1",
     "professor": "MONICA LOPEZ COYOTE",
     "schedules": [
@@ -82,25 +120,6 @@
     "schedules": [
       {
         "time": "15:00-17:00",
-        "days": [
-          1
-        ],
-        "classroom": "7"
-      }
-    ],
-    "professor_id": 99092,
-    "first_name": "JOSE LUIS",
-    "last_name": "VILLEDAS MORALES",
-    "rating": 7.2857,
-    "num_ratings": 7
-  },
-  {
-    "code": "5879",
-    "group": "6",
-    "professor": "JOSE LUIS VILLEDAS MORALES",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
         "days": [
           1
         ],
@@ -238,25 +257,6 @@
   },
   {
     "code": "5879",
-    "group": "14",
-    "professor": "JOSE LUIS VILLEDAS MORALES",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          3
-        ],
-        "classroom": "7"
-      }
-    ],
-    "professor_id": 99092,
-    "first_name": "JOSE LUIS",
-    "last_name": "VILLEDAS MORALES",
-    "rating": 7.2857,
-    "num_ratings": 7
-  },
-  {
-    "code": "5879",
     "group": "15",
     "professor": "LUIS RAUL FLORES CORONEL",
     "schedules": [
@@ -290,8 +290,8 @@
     "professor_id": 141855,
     "first_name": "Norma",
     "last_name": "Reyes Cruz",
-    "rating": 8.3333,
-    "num_ratings": 6
+    "rating": 8.5714,
+    "num_ratings": 7
   },
   {
     "code": "5879",
@@ -309,8 +309,8 @@
     "professor_id": 141855,
     "first_name": "Norma",
     "last_name": "Reyes Cruz",
-    "rating": 8.3333,
-    "num_ratings": 6
+    "rating": 8.5714,
+    "num_ratings": 7
   },
   {
     "code": "5879",

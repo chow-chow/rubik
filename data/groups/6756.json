@@ -1,6 +1,20 @@
 [
   {
     "code": "6756",
+    "group": "10",
+    "professor": "PROFESOR POR ASIGNAR",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2
+        ],
+        "classroom": "5"
+      }
+    ]
+  },
+  {
+    "code": "6756",
     "group": "1",
     "professor": "ENRIQUE BERNAL MARTINEZ",
     "schedules": [
@@ -62,8 +76,8 @@
     "professor_id": 98730,
     "first_name": "Octavio Pastor",
     "last_name": "Reyes García",
-    "rating": 7.9474,
-    "num_ratings": 19
+    "rating": 7.95,
+    "num_ratings": 20
   },
   {
     "code": "6756",
@@ -203,8 +217,8 @@
     "professor_id": 70740,
     "first_name": "José Melesio",
     "last_name": "Sánchez Huerta",
-    "rating": 6.6842,
-    "num_ratings": 19
+    "rating": 6.7,
+    "num_ratings": 20
   },
   {
     "code": "6756",

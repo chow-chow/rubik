@@ -15,25 +15,6 @@
   },
   {
     "code": "6645",
-    "group": "2",
-    "professor": "NORMA ELVA CHAVEZ RODRIGUEZ",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          2
-        ],
-        "classroom": "40"
-      }
-    ],
-    "professor_id": 142387,
-    "first_name": "Norma",
-    "last_name": "Elva Chavez Rodriguez",
-    "rating": 8.6207,
-    "num_ratings": 29
-  },
-  {
-    "code": "6645",
     "group": "3",
     "professor": "DANIEL ALBERTO ARCOS SANTIAGO",
     "schedules": [
@@ -121,5 +102,24 @@
     "last_name": "NAVARRETE HERNANDEZ",
     "rating": 5.1724,
     "num_ratings": 58
+  },
+  {
+    "code": "6645",
+    "group": "2",
+    "professor": "NORMA ELVA CHAVEZ RODRIGUEZ",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2
+        ],
+        "classroom": "40"
+      }
+    ],
+    "professor_id": 142387,
+    "first_name": "Norma",
+    "last_name": "Elva Chavez Rodriguez",
+    "rating": 8.6207,
+    "num_ratings": 29
   }
 ]

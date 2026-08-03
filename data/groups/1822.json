@@ -1,6 +1,26 @@
 [
   {
     "code": "1822",
+    "group": "4",
+    "professor": "ELISEO DIAZ NACAR",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "30"
+      }
+    ],
+    "professor_id": 86746,
+    "first_name": "Eliseo",
+    "last_name": "Díaz Nacar",
+    "rating": 7.7895,
+    "num_ratings": 19
+  },
+  {
+    "code": "1822",
     "group": "1",
     "professor": "LAURO SANTIAGO CRUZ",
     "schedules": [
@@ -36,28 +56,8 @@
     "professor_id": 95201,
     "first_name": "Jesus",
     "last_name": "Alvarez Castillo (El chango)",
-    "rating": 4.8095,
-    "num_ratings": 21
-  },
-  {
-    "code": "1822",
-    "group": "4",
-    "professor": "ELISEO DIAZ NACAR",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "30"
-      }
-    ],
-    "professor_id": 86746,
-    "first_name": "Eliseo",
-    "last_name": "Díaz Nacar",
-    "rating": 7.7895,
-    "num_ratings": 19
+    "rating": 4.6818,
+    "num_ratings": 22
   },
   {
     "code": "1822",

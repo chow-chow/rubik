@@ -1,6 +1,44 @@
 [
   {
     "code": "6590",
+    "group": "10",
+    "professor": "LUIS SERGIO VALENCIA CASTRO",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          4
+        ],
+        "classroom": "16"
+      }
+    ],
+    "professor_id": 79254,
+    "first_name": "Luis Sergio",
+    "last_name": "Valencia Castro",
+    "rating": 5.9167,
+    "num_ratings": 48
+  },
+  {
+    "code": "6590",
+    "group": "11",
+    "professor": "LUIS SERGIO VALENCIA CASTRO",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          4
+        ],
+        "classroom": "16"
+      }
+    ],
+    "professor_id": 79254,
+    "first_name": "Luis Sergio",
+    "last_name": "Valencia Castro",
+    "rating": 5.9167,
+    "num_ratings": 48
+  },
+  {
+    "code": "6590",
     "group": "1",
     "professor": "ARTURO PEREZ DE LA CRUZ",
     "schedules": [
@@ -72,8 +110,8 @@
     "professor_id": 186878,
     "first_name": "Eden",
     "last_name": "Espinoza Urzúa",
-    "rating": 9.6667,
-    "num_ratings": 3
+    "rating": 9.5,
+    "num_ratings": 4
   },
   {
     "code": "6590",
@@ -148,8 +186,8 @@
     "professor_id": 113612,
     "first_name": "Carlos Aldair",
     "last_name": "Roman Balbuena",
-    "rating": 6.2549,
-    "num_ratings": 51
+    "rating": 6.1923,
+    "num_ratings": 52
   },
   {
     "code": "6590",
@@ -164,44 +202,6 @@
         "classroom": "16"
       }
     ]
-  },
-  {
-    "code": "6590",
-    "group": "10",
-    "professor": "LUIS SERGIO VALENCIA CASTRO",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          4
-        ],
-        "classroom": "16"
-      }
-    ],
-    "professor_id": 79254,
-    "first_name": "Luis Sergio",
-    "last_name": "Valencia Castro",
-    "rating": 5.9167,
-    "num_ratings": 48
-  },
-  {
-    "code": "6590",
-    "group": "11",
-    "professor": "LUIS SERGIO VALENCIA CASTRO",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          4
-        ],
-        "classroom": "16"
-      }
-    ],
-    "professor_id": 79254,
-    "first_name": "Luis Sergio",
-    "last_name": "Valencia Castro",
-    "rating": 5.9167,
-    "num_ratings": 48
   },
   {
     "code": "6590",

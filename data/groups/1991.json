@@ -1,6 +1,25 @@
 [
   {
     "code": "1991",
+    "group": "2",
+    "professor": "OSWALDO DAVID LOPEZ HERNANDEZ",
+    "schedules": [
+      {
+        "time": "07:00-11:00",
+        "days": [
+          6
+        ],
+        "classroom": "15"
+      }
+    ],
+    "professor_id": 133811,
+    "first_name": "Oswaldo David",
+    "last_name": "López Hernández",
+    "rating": 6.0,
+    "num_ratings": 2
+  },
+  {
+    "code": "1991",
     "group": "1",
     "professor": "JOSE ANGEL GOMEZ CABRERA",
     "schedules": [
@@ -18,25 +37,6 @@
     "last_name": "Gómez Cabrera",
     "rating": 3.375,
     "num_ratings": 8
-  },
-  {
-    "code": "1991",
-    "group": "2",
-    "professor": "OSWALDO DAVID LOPEZ HERNANDEZ",
-    "schedules": [
-      {
-        "time": "07:00-11:00",
-        "days": [
-          6
-        ],
-        "classroom": "15"
-      }
-    ],
-    "professor_id": 133811,
-    "first_name": "Oswaldo David",
-    "last_name": "López Hernández",
-    "rating": 6.0,
-    "num_ratings": 2
   },
   {
     "code": "1991",

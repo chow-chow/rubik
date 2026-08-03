@@ -1,26 +1,6 @@
 [
   {
     "code": "1320",
-    "group": "1",
-    "professor": "MARIA MARGARITA ZAYIL SALAZAR CAMPOS",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "15"
-      }
-    ],
-    "professor_id": 89958,
-    "first_name": "Zayil",
-    "last_name": "Salazar Campos",
-    "rating": 7.9697,
-    "num_ratings": 33
-  },
-  {
-    "code": "1320",
     "group": "2",
     "professor": "MIGUEL ALEJANDRO MALDONADO GORDILLO",
     "schedules": [
@@ -41,8 +21,28 @@
   },
   {
     "code": "1320",
+    "group": "1",
+    "professor": "MARIA MARGARITA ZAYIL SALAZAR CAMPOS",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "15"
+      }
+    ],
+    "professor_id": 89958,
+    "first_name": "Zayil",
+    "last_name": "Salazar Campos",
+    "rating": 7.9697,
+    "num_ratings": 33
+  },
+  {
+    "code": "1320",
     "group": "3",
-    "professor": "NORMA LILIA MORALES GARCIA",
+    "professor": "MARIA MARGARITA ZAYIL SALAZAR CAMPOS",
     "schedules": [
       {
         "time": "11:00-13:00",
@@ -52,6 +52,11 @@
         ],
         "classroom": "15"
       }
-    ]
+    ],
+    "professor_id": 89958,
+    "first_name": "Zayil",
+    "last_name": "Salazar Campos",
+    "rating": 7.9697,
+    "num_ratings": 33
   }
 ]

@@ -1,6 +1,40 @@
 [
   {
     "code": "1424",
+    "group": "2",
+    "professor": "DANIEL PEÑA MACIEL",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          5
+        ],
+        "classroom": "48"
+      }
+    ],
+    "professor_id": 84731,
+    "first_name": "Daniel",
+    "last_name": "Peña Maciel",
+    "rating": 7.0714,
+    "num_ratings": 28
+  },
+  {
+    "code": "1424",
+    "group": "8",
+    "professor": "PAVEL RAMOS MARTINEZ",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "35"
+      }
+    ]
+  },
+  {
+    "code": "1424",
     "group": "1",
     "professor": "SAUL LAZCANO SALAS",
     "schedules": [
@@ -16,27 +50,8 @@
     "professor_id": 149542,
     "first_name": "Saul",
     "last_name": "Lazcano Salas",
-    "rating": 8.375,
-    "num_ratings": 8
-  },
-  {
-    "code": "1424",
-    "group": "2",
-    "professor": "DANIEL PEÑA MACIEL",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          3
-        ],
-        "classroom": "48"
-      }
-    ],
-    "professor_id": 84731,
-    "first_name": "Daniel",
-    "last_name": "Peña Maciel",
-    "rating": 7.0714,
-    "num_ratings": 28
+    "rating": 8.5556,
+    "num_ratings": 9
   },
   {
     "code": "1424",
@@ -93,8 +108,23 @@
     "professor_id": 156721,
     "first_name": "Salvador Enrique",
     "last_name": "Villalobos Perez",
-    "rating": 5.1304,
-    "num_ratings": 23
+    "rating": 5.0417,
+    "num_ratings": 24
+  },
+  {
+    "code": "1424",
+    "group": "6",
+    "professor": "Grupo cancelado, contactar a la División.",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "0"
+      }
+    ]
   },
   {
     "code": "1424",
@@ -115,35 +145,5 @@
     "last_name": "Velazco Velasco",
     "rating": 7.2182,
     "num_ratings": 55
-  },
-  {
-    "code": "1424",
-    "group": "8",
-    "professor": "PAVEL RAMOS MARTINEZ",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "35"
-      }
-    ]
-  },
-  {
-    "code": "1424",
-    "group": "6",
-    "professor": "Grupo cancelado, contactar a la División.",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "0"
-      }
-    ]
   }
 ]

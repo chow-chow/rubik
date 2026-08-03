@@ -1,27 +1,6 @@
 [
   {
     "code": "2708",
-    "group": "1",
-    "professor": "JUAN PABLO AGUIRRE DIAZ",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          1,
-          3,
-          5
-        ],
-        "classroom": "15"
-      }
-    ],
-    "professor_id": 124070,
-    "first_name": "Juan Pablo",
-    "last_name": "Aguirre Díaz",
-    "rating": 9.5556,
-    "num_ratings": 9
-  },
-  {
-    "code": "2708",
     "group": "2",
     "professor": "JUAN CARLOS JIMENEZ VELAZQUEZ",
     "schedules": [
@@ -40,5 +19,26 @@
     "last_name": "Velazquez",
     "rating": 8.1667,
     "num_ratings": 6
+  },
+  {
+    "code": "2708",
+    "group": "1",
+    "professor": "JUAN PABLO AGUIRRE DIAZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "15"
+      }
+    ],
+    "professor_id": 124070,
+    "first_name": "Juan Pablo",
+    "last_name": "Aguirre Díaz",
+    "rating": 9.5556,
+    "num_ratings": 9
   }
 ]

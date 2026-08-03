@@ -1,6 +1,26 @@
 [
   {
     "code": "1059",
+    "group": "3",
+    "professor": "ENRIQUE ISRAEL MARQUEZ ANGELES",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "35"
+      }
+    ],
+    "professor_id": 181406,
+    "first_name": "ENRIQUE ISRAEL",
+    "last_name": "MARQUEZ ANGELES",
+    "rating": 8.0,
+    "num_ratings": 5
+  },
+  {
+    "code": "1059",
     "group": "1",
     "professor": "MARINA SERVIN CHAVEZ",
     "schedules": [
@@ -38,26 +58,6 @@
     "last_name": "Ayala Gomez",
     "rating": 8.4,
     "num_ratings": 10
-  },
-  {
-    "code": "1059",
-    "group": "3",
-    "professor": "ENRIQUE ISRAEL MARQUEZ ANGELES",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "35"
-      }
-    ],
-    "professor_id": 181406,
-    "first_name": "ENRIQUE ISRAEL",
-    "last_name": "MARQUEZ ANGELES",
-    "rating": 8.0,
-    "num_ratings": 5
   },
   {
     "code": "1059",

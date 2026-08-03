@@ -1,20 +1,6 @@
 [
   {
     "code": "2811",
-    "group": "1",
-    "professor": "JOSE DE JESUS AVILA MANRIQUEVer Nota 1",
-    "schedules": [
-      {
-        "time": "17:00-20:00",
-        "days": [
-          3
-        ],
-        "classroom": "30"
-      }
-    ]
-  },
-  {
-    "code": "2811",
     "group": "2",
     "professor": "JOSE OMAR CRUZ SANTIAGOVer Nota 1",
     "schedules": [
@@ -22,6 +8,20 @@
         "time": "07:00-08:30",
         "days": [
           2
+        ],
+        "classroom": "30"
+      }
+    ]
+  },
+  {
+    "code": "2811",
+    "group": "1",
+    "professor": "JOSE DE JESUS AVILA MANRIQUEVer Nota 1",
+    "schedules": [
+      {
+        "time": "17:00-20:00",
+        "days": [
+          3
         ],
         "classroom": "30"
       }

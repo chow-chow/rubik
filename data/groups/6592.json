@@ -1,6 +1,44 @@
 [
   {
     "code": "6592",
+    "group": "8",
+    "professor": "JULIA VAZQUEZ FUENTES",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          3
+        ],
+        "classroom": "14"
+      }
+    ],
+    "professor_id": 58672,
+    "first_name": "Julia",
+    "last_name": "Vazquez Fuentes",
+    "rating": 4.2128,
+    "num_ratings": 47
+  },
+  {
+    "code": "6592",
+    "group": "12",
+    "professor": "JUAN MANUEL VELASCO MIRANDA",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          4
+        ],
+        "classroom": "14"
+      }
+    ],
+    "professor_id": 95190,
+    "first_name": "Juan Manuel",
+    "last_name": "Velasco Miranda",
+    "rating": 8.8333,
+    "num_ratings": 12
+  },
+  {
+    "code": "6592",
     "group": "1",
     "professor": "MARTHA ISELA TORRES HERNANDEZ",
     "schedules": [
@@ -15,8 +53,8 @@
     "professor_id": 134274,
     "first_name": "Martha Isela",
     "last_name": "Torres Hernández",
-    "rating": 7.5,
-    "num_ratings": 22
+    "rating": 7.6087,
+    "num_ratings": 23
   },
   {
     "code": "6592",
@@ -34,8 +72,8 @@
     "professor_id": 58672,
     "first_name": "Julia",
     "last_name": "Vazquez Fuentes",
-    "rating": 4.2391,
-    "num_ratings": 46
+    "rating": 4.2128,
+    "num_ratings": 47
   },
   {
     "code": "6592",
@@ -72,8 +110,8 @@
     "professor_id": 134274,
     "first_name": "Martha Isela",
     "last_name": "Torres Hernández",
-    "rating": 7.5,
-    "num_ratings": 22
+    "rating": 7.6087,
+    "num_ratings": 23
   },
   {
     "code": "6592",
@@ -91,8 +129,8 @@
     "professor_id": 134274,
     "first_name": "Martha Isela",
     "last_name": "Torres Hernández",
-    "rating": 7.5,
-    "num_ratings": 22
+    "rating": 7.6087,
+    "num_ratings": 23
   },
   {
     "code": "6592",
@@ -110,8 +148,8 @@
     "professor_id": 58672,
     "first_name": "Julia",
     "last_name": "Vazquez Fuentes",
-    "rating": 4.2391,
-    "num_ratings": 46
+    "rating": 4.2128,
+    "num_ratings": 47
   },
   {
     "code": "6592",
@@ -129,25 +167,6 @@
   },
   {
     "code": "6592",
-    "group": "8",
-    "professor": "JULIA VAZQUEZ FUENTES",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          3
-        ],
-        "classroom": "14"
-      }
-    ],
-    "professor_id": 58672,
-    "first_name": "Julia",
-    "last_name": "Vazquez Fuentes",
-    "rating": 4.2391,
-    "num_ratings": 46
-  },
-  {
-    "code": "6592",
     "group": "9",
     "professor": "MARTHA ISELA TORRES HERNANDEZ",
     "schedules": [
@@ -162,8 +181,8 @@
     "professor_id": 134274,
     "first_name": "Martha Isela",
     "last_name": "Torres Hernández",
-    "rating": 7.5,
-    "num_ratings": 22
+    "rating": 7.6087,
+    "num_ratings": 23
   },
   {
     "code": "6592",
@@ -200,25 +219,6 @@
   },
   {
     "code": "6592",
-    "group": "12",
-    "professor": "JUAN MANUEL VELASCO MIRANDA",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          4
-        ],
-        "classroom": "14"
-      }
-    ],
-    "professor_id": 95190,
-    "first_name": "Juan Manuel",
-    "last_name": "Velasco Miranda",
-    "rating": 8.8333,
-    "num_ratings": 12
-  },
-  {
-    "code": "6592",
     "group": "13",
     "professor": "JULIA VAZQUEZ FUENTES",
     "schedules": [
@@ -233,8 +233,8 @@
     "professor_id": 58672,
     "first_name": "Julia",
     "last_name": "Vazquez Fuentes",
-    "rating": 4.2391,
-    "num_ratings": 46
+    "rating": 4.2128,
+    "num_ratings": 47
   },
   {
     "code": "6592",

@@ -1,26 +1,6 @@
 [
   {
     "code": "1955",
-    "group": "1",
-    "professor": "MARINA LOPEZ MERLOS",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "35"
-      }
-    ],
-    "professor_id": 181426,
-    "first_name": "ING. MARINA",
-    "last_name": "LOPEZ MERLOS",
-    "rating": 8.5,
-    "num_ratings": 2
-  },
-  {
-    "code": "1955",
     "group": "2",
     "professor": "ALEJANDRO GONZALEZ ELIZONDO",
     "schedules": [
@@ -58,6 +38,26 @@
     "last_name": "Mota Solorzano",
     "rating": 6.0,
     "num_ratings": 7
+  },
+  {
+    "code": "1955",
+    "group": "1",
+    "professor": "MARINA LOPEZ MERLOS",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "35"
+      }
+    ],
+    "professor_id": 181426,
+    "first_name": "ING. MARINA",
+    "last_name": "LOPEZ MERLOS",
+    "rating": 8.5,
+    "num_ratings": 2
   },
   {
     "code": "1955",
@@ -110,7 +110,7 @@
     "professor_id": 167153,
     "first_name": "cecilia guadalupe",
     "last_name": "morales juarez",
-    "rating": 7.1739,
-    "num_ratings": 23
+    "rating": 7.4,
+    "num_ratings": 25
   }
 ]

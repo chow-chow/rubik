@@ -1,25 +1,6 @@
 [
   {
     "code": "1780",
-    "group": "1",
-    "professor": "BEATRIZ EUGENIA HERNANDEZ RODRIGUEZ",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          3
-        ],
-        "classroom": "48"
-      }
-    ],
-    "professor_id": 105095,
-    "first_name": "Beatriz Eugenia",
-    "last_name": "Hernandez Rodriguez",
-    "rating": 7.4333,
-    "num_ratings": 30
-  },
-  {
-    "code": "1780",
     "group": "2",
     "professor": "LUIS ENRIQUE QUINTANAR CORTES",
     "schedules": [
@@ -40,6 +21,44 @@
   },
   {
     "code": "1780",
+    "group": "4",
+    "professor": "SALVADOR ENRIQUE VILLALOBOS PEREZ",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          3
+        ],
+        "classroom": "48"
+      }
+    ],
+    "professor_id": 156721,
+    "first_name": "Salvador Enrique",
+    "last_name": "Villalobos Perez",
+    "rating": 5.0417,
+    "num_ratings": 24
+  },
+  {
+    "code": "1780",
+    "group": "1",
+    "professor": "BEATRIZ EUGENIA HERNANDEZ RODRIGUEZ",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          3
+        ],
+        "classroom": "48"
+      }
+    ],
+    "professor_id": 105095,
+    "first_name": "Beatriz Eugenia",
+    "last_name": "Hernandez Rodriguez",
+    "rating": 7.4333,
+    "num_ratings": 30
+  },
+  {
+    "code": "1780",
     "group": "3",
     "professor": "FELIPE ARTURO MACHUCA TZILI",
     "schedules": [
@@ -57,24 +76,5 @@
     "last_name": "Machuca Tzili",
     "rating": 7.4,
     "num_ratings": 35
-  },
-  {
-    "code": "1780",
-    "group": "4",
-    "professor": "SALVADOR ENRIQUE VILLALOBOS PEREZ",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          1
-        ],
-        "classroom": "48"
-      }
-    ],
-    "professor_id": 156721,
-    "first_name": "Salvador Enrique",
-    "last_name": "Villalobos Perez",
-    "rating": 5.1304,
-    "num_ratings": 23
   }
 ]

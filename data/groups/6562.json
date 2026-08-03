@@ -1,6 +1,39 @@
 [
   {
     "code": "6562",
+    "group": "5",
+    "professor": "PATRICIA HONG CIRION",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          2
+        ],
+        "classroom": "14"
+      }
+    ],
+    "professor_id": 83076,
+    "first_name": "Patricia",
+    "last_name": "Hong Cirion",
+    "rating": 7.037,
+    "num_ratings": 27
+  },
+  {
+    "code": "6562",
+    "group": "6",
+    "professor": "EDUARDO HERNANDEZ ROMERO",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          3
+        ],
+        "classroom": "14"
+      }
+    ]
+  },
+  {
+    "code": "6562",
     "group": "1",
     "professor": "JULIA VAZQUEZ FUENTES",
     "schedules": [
@@ -15,8 +48,8 @@
     "professor_id": 58672,
     "first_name": "Julia",
     "last_name": "Vazquez Fuentes",
-    "rating": 4.2391,
-    "num_ratings": 46
+    "rating": 4.2128,
+    "num_ratings": 47
   },
   {
     "code": "6562",
@@ -72,46 +105,8 @@
     "professor_id": 99901,
     "first_name": "Edgar Baldemar",
     "last_name": "Aguado Cruz",
-    "rating": 8.3103,
-    "num_ratings": 29
-  },
-  {
-    "code": "6562",
-    "group": "5",
-    "professor": "PATRICIA HONG CIRION",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          2
-        ],
-        "classroom": "14"
-      }
-    ],
-    "professor_id": 83076,
-    "first_name": "Patricia",
-    "last_name": "Hong Cirion",
-    "rating": 7.037,
-    "num_ratings": 27
-  },
-  {
-    "code": "6562",
-    "group": "6",
-    "professor": "JUAN MANUEL VELASCO MIRANDA",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          3
-        ],
-        "classroom": "14"
-      }
-    ],
-    "professor_id": 95190,
-    "first_name": "Juan Manuel",
-    "last_name": "Velasco Miranda",
-    "rating": 8.8333,
-    "num_ratings": 12
+    "rating": 8.3667,
+    "num_ratings": 30
   },
   {
     "code": "6562",
@@ -219,8 +214,8 @@
     "professor_id": 99901,
     "first_name": "Edgar Baldemar",
     "last_name": "Aguado Cruz",
-    "rating": 8.3103,
-    "num_ratings": 29
+    "rating": 8.3667,
+    "num_ratings": 30
   },
   {
     "code": "6562",

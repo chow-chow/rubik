@@ -1,6 +1,21 @@
 [
   {
     "code": "2504",
+    "group": "2",
+    "professor": "NIBARDO ADRIAN CHAVEZ PATIÑO",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "15"
+      }
+    ]
+  },
+  {
+    "code": "2504",
     "group": "1",
     "professor": "ALBERTO CECILIANO HERNANDEZ",
     "schedules": [
@@ -18,20 +33,5 @@
     "last_name": "Ceciliano Hernandez",
     "rating": 10.0,
     "num_ratings": 8
-  },
-  {
-    "code": "2504",
-    "group": "2",
-    "professor": "NIBARDO ADRIAN CHAVEZ PATIÑO",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "15"
-      }
-    ]
   }
 ]

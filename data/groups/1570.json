@@ -1,6 +1,46 @@
 [
   {
     "code": "1570",
+    "group": "6",
+    "professor": "VICTOR HUGO JACOBO ARMENDARIZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "30"
+      }
+    ],
+    "professor_id": 109075,
+    "first_name": "Victor Hugo",
+    "last_name": "Jacobo Armendariz",
+    "rating": 3.3,
+    "num_ratings": 10
+  },
+  {
+    "code": "1570",
+    "group": "7",
+    "professor": "MIGUEL ANGEL HERNANDEZ GALLEGOS",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "30"
+      }
+    ],
+    "professor_id": 71869,
+    "first_name": "Miguel Ángel",
+    "last_name": "Hernández Gallegos",
+    "rating": 6.3333,
+    "num_ratings": 6
+  },
+  {
+    "code": "1570",
     "group": "1",
     "professor": "SANDRA MARCELA ROJAS MONTOYA",
     "schedules": [
@@ -91,53 +131,13 @@
   },
   {
     "code": "1570",
-    "group": "6",
-    "professor": "VICTOR HUGO JACOBO ARMENDARIZ",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "30"
-      }
-    ],
-    "professor_id": 109075,
-    "first_name": "Victor Hugo",
-    "last_name": "Jacobo Armendariz",
-    "rating": 3.3,
-    "num_ratings": 10
-  },
-  {
-    "code": "1570",
-    "group": "7",
-    "professor": "MIGUEL ANGEL HERNANDEZ GALLEGOS",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "30"
-      }
-    ],
-    "professor_id": 71869,
-    "first_name": "Miguel Ángel",
-    "last_name": "Hernández Gallegos",
-    "rating": 6.3333,
-    "num_ratings": 6
-  },
-  {
-    "code": "1570",
     "group": "8",
     "professor": "JULIO CESAR GONZALEZ SANCHEZ",
     "schedules": [
       {
         "time": "15:00-17:00",
         "days": [
-          3
+          5
         ],
         "classroom": "35"
       }
@@ -160,7 +160,7 @@
     "professor_id": 112892,
     "first_name": "Tatiana Lilia",
     "last_name": "Ávalos Rendón",
-    "rating": 7.25,
-    "num_ratings": 20
+    "rating": 7.2857,
+    "num_ratings": 21
   }
 ]

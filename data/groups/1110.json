@@ -1,7 +1,7 @@
 [
   {
     "code": "1110",
-    "group": "1",
+    "group": "5",
     "professor": "MARIO GUEVARA SALAZAR",
     "schedules": [
       {
@@ -9,7 +9,7 @@
         "days": [
           3
         ],
-        "classroom": "R029"
+        "classroom": "25"
       }
     ],
     "professor_id": 44322,

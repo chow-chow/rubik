@@ -16,8 +16,8 @@
     "professor_id": 75449,
     "first_name": "Miguel Ángel",
     "last_name": "López Carrillo",
-    "rating": 6.4648,
-    "num_ratings": 71
+    "rating": 6.4932,
+    "num_ratings": 73
   },
   {
     "code": "1982",
@@ -40,26 +40,6 @@
   },
   {
     "code": "1982",
-    "group": "3",
-    "professor": "TEODORO IVAN GUERRERO SARABIA",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "18"
-      }
-    ],
-    "professor_id": 78973,
-    "first_name": "Iván",
-    "last_name": "Guerrero Sarabia",
-    "rating": 6.1,
-    "num_ratings": 10
-  },
-  {
-    "code": "1982",
     "group": "4",
     "professor": "BERENICE ANELL MARTINEZ CABAÑAS",
     "schedules": [
@@ -77,5 +57,25 @@
     "last_name": "Martinez Cabañas",
     "rating": 7.4118,
     "num_ratings": 17
+  },
+  {
+    "code": "1982",
+    "group": "3",
+    "professor": "TEODORO IVAN GUERRERO SARABIA",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "18"
+      }
+    ],
+    "professor_id": 78973,
+    "first_name": "Iván",
+    "last_name": "Guerrero Sarabia",
+    "rating": 6.1,
+    "num_ratings": 10
   }
 ]

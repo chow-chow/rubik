@@ -1,6 +1,26 @@
 [
   {
     "code": "1858",
+    "group": "4",
+    "professor": "SAMUEL GANDARILLA PEREZ",
+    "schedules": [
+      {
+        "time": "15:00-16:30",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "40"
+      }
+    ],
+    "professor_id": 161506,
+    "first_name": "Samuel",
+    "last_name": "Gandarilla Pérez",
+    "rating": 6.5,
+    "num_ratings": 6
+  },
+  {
+    "code": "1858",
     "group": "1",
     "professor": "RUBEN ULISES SANDOVAL RODRIGUEZ",
     "schedules": [
@@ -12,7 +32,12 @@
         ],
         "classroom": "40"
       }
-    ]
+    ],
+    "professor_id": 194818,
+    "first_name": "RUBEN ULISES",
+    "last_name": "SANDOVAL RODRIGUEZ",
+    "rating": 7.5,
+    "num_ratings": 2
   },
   {
     "code": "1858",
@@ -31,8 +56,8 @@
     "professor_id": 51942,
     "first_name": "JOSÉ MAURICIO",
     "last_name": "MATAMOROS DE MARIA Y CAMPOS",
-    "rating": 6.0678,
-    "num_ratings": 59
+    "rating": 6.1333,
+    "num_ratings": 60
   },
   {
     "code": "1858",
@@ -48,26 +73,6 @@
         "classroom": "35"
       }
     ]
-  },
-  {
-    "code": "1858",
-    "group": "4",
-    "professor": "SAMUEL GANDARILLA PEREZ",
-    "schedules": [
-      {
-        "time": "15:00-16:30",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "40"
-      }
-    ],
-    "professor_id": 161506,
-    "first_name": "Samuel",
-    "last_name": "Gandarilla Pérez",
-    "rating": 6.5,
-    "num_ratings": 6
   },
   {
     "code": "1858",

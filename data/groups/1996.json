@@ -21,7 +21,7 @@
   {
     "code": "1996",
     "group": "2",
-    "professor": "ULISES MARTIN PEÑUELAS RIVAS",
+    "professor": "SERAFIN CASTAÑEDA CEDEÑO",
     "schedules": [
       {
         "time": "09:00-11:00",
@@ -32,16 +32,16 @@
         "classroom": "15"
       }
     ],
-    "professor_id": 124473,
-    "first_name": "ULISES MARTIN",
-    "last_name": "PEÑUELAS RIVAS",
-    "rating": 7.9231,
-    "num_ratings": 13
+    "professor_id": 109270,
+    "first_name": "Serafín",
+    "last_name": "Castañeda Cedeño",
+    "rating": 7.3333,
+    "num_ratings": 12
   },
   {
     "code": "1996",
     "group": "3",
-    "professor": "SERAFIN CASTAÑEDA CEDEÑO",
+    "professor": "ULISES MARTIN PEÑUELAS RIVAS",
     "schedules": [
       {
         "time": "11:00-13:00",
@@ -52,11 +52,11 @@
         "classroom": "20"
       }
     ],
-    "professor_id": 109270,
-    "first_name": "Serafín",
-    "last_name": "Castañeda Cedeño",
-    "rating": 7.3333,
-    "num_ratings": 12
+    "professor_id": 124473,
+    "first_name": "ULISES MARTIN",
+    "last_name": "PEÑUELAS RIVAS",
+    "rating": 7.9231,
+    "num_ratings": 13
   },
   {
     "code": "1996",
@@ -105,7 +105,7 @@
     "professor_id": 27938,
     "first_name": "Yukihiro",
     "last_name": "Minami",
-    "rating": 8.175,
-    "num_ratings": 40
+    "rating": 8.122,
+    "num_ratings": 41
   }
 ]

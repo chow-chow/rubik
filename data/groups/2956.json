@@ -21,21 +21,6 @@
   },
   {
     "code": "2956",
-    "group": "2",
-    "professor": "JIMENA OLVERES MONTIEL",
-    "schedules": [
-      {
-        "time": "09:30-11:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "12"
-      }
-    ]
-  },
-  {
-    "code": "2956",
     "group": "3",
     "professor": "JUAN CARLOS MUÑOZ TORRES",
     "schedules": [
@@ -44,6 +29,21 @@
         "days": [
           2,
           4
+        ],
+        "classroom": "12"
+      }
+    ]
+  },
+  {
+    "code": "2956",
+    "group": "2",
+    "professor": "JIMENA OLVERES MONTIEL",
+    "schedules": [
+      {
+        "time": "09:30-11:00",
+        "days": [
+          1,
+          3
         ],
         "classroom": "12"
       }
@@ -66,8 +66,8 @@
     "professor_id": 113612,
     "first_name": "Carlos Aldair",
     "last_name": "Roman Balbuena",
-    "rating": 6.2549,
-    "num_ratings": 51
+    "rating": 6.1923,
+    "num_ratings": 52
   },
   {
     "code": "2956",

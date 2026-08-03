@@ -1,21 +1,6 @@
 [
   {
     "code": "1666",
-    "group": "1",
-    "professor": "LUIS ALBERTO VAZQUEZ MAISON",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "23"
-      }
-    ]
-  },
-  {
-    "code": "1666",
     "group": "2",
     "professor": "MIRIAM SOSA DIAZ",
     "schedules": [
@@ -24,6 +9,21 @@
         "days": [
           1,
           3
+        ],
+        "classroom": "23"
+      }
+    ]
+  },
+  {
+    "code": "1666",
+    "group": "1",
+    "professor": "LUIS ALBERTO VAZQUEZ MAISON",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2,
+          4
         ],
         "classroom": "23"
       }

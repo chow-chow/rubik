@@ -1,21 +1,6 @@
 [
   {
     "code": "2714",
-    "group": "1",
-    "professor": "SALVADOR EMILIO SIERRA BENAVIDEZ",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "30"
-      }
-    ]
-  },
-  {
-    "code": "2714",
     "group": "2",
     "professor": "DOMINGO TEODORO MENDOZA ROSALES",
     "schedules": [
@@ -36,14 +21,14 @@
   },
   {
     "code": "2714",
-    "group": "3",
+    "group": "4",
     "professor": "JORGE PRADO MORALES",
     "schedules": [
       {
         "time": "13:00-15:00",
         "days": [
-          1,
-          3
+          2,
+          4
         ],
         "classroom": "30"
       }
@@ -56,14 +41,29 @@
   },
   {
     "code": "2714",
-    "group": "4",
+    "group": "1",
+    "professor": "SALVADOR EMILIO SIERRA BENAVIDEZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "30"
+      }
+    ]
+  },
+  {
+    "code": "2714",
+    "group": "3",
     "professor": "JORGE PRADO MORALES",
     "schedules": [
       {
         "time": "13:00-15:00",
         "days": [
-          2,
-          4
+          1,
+          3
         ],
         "classroom": "30"
       }

@@ -2,7 +2,7 @@
   {
     "code": "1121",
     "group": "16",
-    "professor": "PROFESOR POR ASIGNAR",
+    "professor": "KEVIN DAAN VAZQUEZ ROJAS",
     "schedules": [
       {
         "time": "07:00-09:00",
@@ -13,7 +13,12 @@
         ],
         "classroom": "48"
       }
-    ]
+    ],
+    "professor_id": 195678,
+    "first_name": "Kevin Daan",
+    "last_name": "Vázquez Rojas",
+    "rating": 8.0,
+    "num_ratings": 2
   },
   {
     "code": "1121",
@@ -34,6 +39,6 @@
     "first_name": "Adriana",
     "last_name": "Santiago Sobrevilla",
     "rating": 10.0,
-    "num_ratings": 9
+    "num_ratings": 10
   }
 ]

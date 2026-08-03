@@ -36,6 +36,21 @@
   },
   {
     "code": "2921",
+    "group": "4",
+    "professor": "ALEJANDRO NILA LUEVANO",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "30"
+      }
+    ]
+  },
+  {
+    "code": "2921",
     "group": "3",
     "professor": "ARMANDO MOISES PEREZ SILVA",
     "schedules": [
@@ -53,20 +68,5 @@
     "last_name": "Pérez Silva",
     "rating": 9.5556,
     "num_ratings": 9
-  },
-  {
-    "code": "2921",
-    "group": "4",
-    "professor": "ALEJANDRO NILA LUEVANO",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "30"
-      }
-    ]
   }
 ]

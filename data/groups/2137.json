@@ -1,6 +1,26 @@
 [
   {
     "code": "2137",
+    "group": "4",
+    "professor": "FLOR HERNANDEZ PADILLA",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "30"
+      }
+    ],
+    "professor_id": 94327,
+    "first_name": "Flor",
+    "last_name": "Hernández Padilla",
+    "rating": 5.65,
+    "num_ratings": 20
+  },
+  {
+    "code": "2137",
     "group": "1",
     "professor": "ALEJANDRA MEDINA AREVALO",
     "schedules": [
@@ -53,25 +73,5 @@
     "last_name": "Mendoza Campos",
     "rating": 9.6667,
     "num_ratings": 3
-  },
-  {
-    "code": "2137",
-    "group": "4",
-    "professor": "FLOR HERNANDEZ PADILLA",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "30"
-      }
-    ],
-    "professor_id": 94327,
-    "first_name": "Flor",
-    "last_name": "Hernández Padilla",
-    "rating": 5.65,
-    "num_ratings": 20
   }
 ]

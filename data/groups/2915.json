@@ -16,6 +16,21 @@
   },
   {
     "code": "2915",
+    "group": "5",
+    "professor": "MICHELLE ELIANE HERNANDEZ GARCIA",
+    "schedules": [
+      {
+        "time": "19:00-20:30",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "28"
+      }
+    ]
+  },
+  {
+    "code": "2915",
     "group": "2",
     "professor": "GUILLERMO LUIS LAURO ESQUIVEL CASTAÑEDA",
     "schedules": [
@@ -68,20 +83,5 @@
     "last_name": "LEO VARGAS",
     "rating": 4.8333,
     "num_ratings": 6
-  },
-  {
-    "code": "2915",
-    "group": "5",
-    "professor": "MICHELLE ELIANE HERNANDEZ GARCIA",
-    "schedules": [
-      {
-        "time": "19:00-20:30",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "28"
-      }
-    ]
   }
 ]

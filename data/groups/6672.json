@@ -1,6 +1,63 @@
 [
   {
     "code": "6672",
+    "group": "5",
+    "professor": "DIANA AURORA CRUZ HERNANDEZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          3
+        ],
+        "classroom": "15"
+      }
+    ],
+    "professor_id": 94396,
+    "first_name": "DIANA",
+    "last_name": "CRUZ HERNANDEZ",
+    "rating": 5.2,
+    "num_ratings": 10
+  },
+  {
+    "code": "6672",
+    "group": "7",
+    "professor": "LOURDES ANGELICA QUIÑONES JUAREZ",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          4
+        ],
+        "classroom": "15"
+      }
+    ],
+    "professor_id": 124037,
+    "first_name": "Lourdes Angelica",
+    "last_name": "Quiñones Juarez",
+    "rating": 8.1579,
+    "num_ratings": 19
+  },
+  {
+    "code": "6672",
+    "group": "9",
+    "professor": "ROMAN VICTORIANO OSORIO COMPARAN",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          5
+        ],
+        "classroom": "15"
+      }
+    ],
+    "professor_id": 108136,
+    "first_name": "Roman Victoriano",
+    "last_name": "Osorio Comparan",
+    "rating": 6.8095,
+    "num_ratings": 21
+  },
+  {
+    "code": "6672",
     "group": "1",
     "professor": "MOISES MELENDEZ REYES",
     "schedules": [
@@ -77,25 +134,6 @@
   },
   {
     "code": "6672",
-    "group": "5",
-    "professor": "DIANA AURORA CRUZ HERNANDEZ",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          3
-        ],
-        "classroom": "15"
-      }
-    ],
-    "professor_id": 94396,
-    "first_name": "DIANA",
-    "last_name": "CRUZ HERNANDEZ",
-    "rating": 5.2,
-    "num_ratings": 10
-  },
-  {
-    "code": "6672",
     "group": "6",
     "professor": "MOISES MELENDEZ REYES",
     "schedules": [
@@ -115,25 +153,6 @@
   },
   {
     "code": "6672",
-    "group": "7",
-    "professor": "LOURDES ANGELICA QUIÑONES JUAREZ",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          4
-        ],
-        "classroom": "15"
-      }
-    ],
-    "professor_id": 124037,
-    "first_name": "Lourdes Angelica",
-    "last_name": "Quiñones Juarez",
-    "rating": 8.1579,
-    "num_ratings": 19
-  },
-  {
-    "code": "6672",
     "group": "8",
     "professor": "RUBEN ANAYA GARCIA",
     "schedules": [
@@ -150,25 +169,6 @@
     "last_name": "ANAYA GARCIA",
     "rating": 8.3529,
     "num_ratings": 17
-  },
-  {
-    "code": "6672",
-    "group": "9",
-    "professor": "ROMAN VICTORIANO OSORIO COMPARAN",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          5
-        ],
-        "classroom": "15"
-      }
-    ],
-    "professor_id": 108136,
-    "first_name": "Roman Victoriano",
-    "last_name": "Osorio Comparan",
-    "rating": 6.8095,
-    "num_ratings": 21
   },
   {
     "code": "6672",

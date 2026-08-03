@@ -20,20 +20,6 @@
   },
   {
     "code": "1992",
-    "group": "2",
-    "professor": "RODULFO DE LA FUENTE PEREZ",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          2
-        ],
-        "classroom": "15"
-      }
-    ]
-  },
-  {
-    "code": "1992",
     "group": "3",
     "professor": "EMILIO SAMPAYO TRUJILLO",
     "schedules": [
@@ -41,6 +27,20 @@
         "time": "19:00-21:00",
         "days": [
           4
+        ],
+        "classroom": "15"
+      }
+    ]
+  },
+  {
+    "code": "1992",
+    "group": "2",
+    "professor": "RODULFO DE LA FUENTE PEREZ",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2
         ],
         "classroom": "15"
       }

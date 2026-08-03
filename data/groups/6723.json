@@ -1,6 +1,25 @@
 [
   {
     "code": "6723",
+    "group": "5",
+    "professor": "JUAN CARLOS ROA BEIZA",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          5
+        ],
+        "classroom": "20"
+      }
+    ],
+    "professor_id": 21291,
+    "first_name": "juan carlos",
+    "last_name": "roa beiza",
+    "rating": 6.3824,
+    "num_ratings": 68
+  },
+  {
+    "code": "6723",
     "group": "1",
     "professor": "DOMINGO TEODORO MENDOZA ROSALES",
     "schedules": [
@@ -72,27 +91,8 @@
     "professor_id": 89949,
     "first_name": "ISMAEL",
     "last_name": "ROMERO OCARANZA",
-    "rating": 6.4138,
-    "num_ratings": 29
-  },
-  {
-    "code": "6723",
-    "group": "5",
-    "professor": "JUAN CARLOS ROA BEIZA",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          5
-        ],
-        "classroom": "20"
-      }
-    ],
-    "professor_id": 21291,
-    "first_name": "juan carlos",
-    "last_name": "roa beiza",
-    "rating": 6.3824,
-    "num_ratings": 68
+    "rating": 6.2667,
+    "num_ratings": 30
   },
   {
     "code": "6723",

@@ -1,6 +1,21 @@
 [
   {
     "code": "1457",
+    "group": "2",
+    "professor": "JORGE PERALTA ENRIQUEZ",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "12"
+      }
+    ]
+  },
+  {
+    "code": "1457",
     "group": "1",
     "professor": "ROBERTO ASCENCIO VILLAGOMEZ",
     "schedules": [
@@ -18,20 +33,5 @@
     "last_name": "Ascencio Villagómez",
     "rating": 5.5,
     "num_ratings": 2
-  },
-  {
-    "code": "1457",
-    "group": "2",
-    "professor": "JORGE PERALTA ENRIQUEZ",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "12"
-      }
-    ]
   }
 ]

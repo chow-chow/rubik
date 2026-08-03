@@ -1,6 +1,46 @@
 [
   {
     "code": "2926",
+    "group": "4",
+    "professor": "AGUSTIN NIEVES SAAVEDRA",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "5"
+      }
+    ],
+    "professor_id": 63731,
+    "first_name": "Agustín",
+    "last_name": "Nieves Saavedra",
+    "rating": 2.8,
+    "num_ratings": 5
+  },
+  {
+    "code": "2926",
+    "group": "7",
+    "professor": "RAMON SANDOVAL PEÑA",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1,
+          5
+        ],
+        "classroom": "5"
+      }
+    ],
+    "professor_id": 134458,
+    "first_name": "Ramon",
+    "last_name": "Sandoval Peña",
+    "rating": 6.1,
+    "num_ratings": 10
+  },
+  {
+    "code": "2926",
     "group": "1",
     "professor": "VICENTE GUILLERMO LOPEZ FERNANDEZ",
     "schedules": [
@@ -51,26 +91,6 @@
   },
   {
     "code": "2926",
-    "group": "4",
-    "professor": "AGUSTIN NIEVES SAAVEDRA",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "5"
-      }
-    ],
-    "professor_id": 63731,
-    "first_name": "Agustín",
-    "last_name": "Nieves Saavedra",
-    "rating": 2.8,
-    "num_ratings": 5
-  },
-  {
-    "code": "2926",
     "group": "5",
     "professor": "EDUARDO LEMUS SOTO",
     "schedules": [
@@ -102,25 +122,5 @@
         "classroom": "5"
       }
     ]
-  },
-  {
-    "code": "2926",
-    "group": "7",
-    "professor": "RAMON SANDOVAL PEÑA",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          1,
-          5
-        ],
-        "classroom": "5"
-      }
-    ],
-    "professor_id": 134458,
-    "first_name": "Ramon",
-    "last_name": "Sandoval Peña",
-    "rating": 6.1,
-    "num_ratings": 10
   }
 ]

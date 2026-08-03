@@ -1,6 +1,26 @@
 [
   {
     "code": "1589",
+    "group": "3",
+    "professor": "LUIS DAVID LOERA BARONA",
+    "schedules": [
+      {
+        "time": "18:00-20:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "22"
+      }
+    ],
+    "professor_id": 159468,
+    "first_name": "Luis",
+    "last_name": "Loera",
+    "rating": 9.4848,
+    "num_ratings": 33
+  },
+  {
+    "code": "1589",
     "group": "1",
     "professor": "EFRAIN GARCIA ACEVEDO",
     "schedules": [
@@ -38,25 +58,5 @@
     "last_name": "Hernandez Prado",
     "rating": 7.25,
     "num_ratings": 12
-  },
-  {
-    "code": "1589",
-    "group": "3",
-    "professor": "LUIS DAVID LOERA BARONA",
-    "schedules": [
-      {
-        "time": "18:00-20:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "22"
-      }
-    ],
-    "professor_id": 159468,
-    "first_name": "Luis",
-    "last_name": "Loera",
-    "rating": 9.4848,
-    "num_ratings": 33
   }
 ]

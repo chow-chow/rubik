@@ -1,20 +1,6 @@
 [
   {
     "code": "5992",
-    "group": "1",
-    "professor": "DIANA PAULA VAZQUEZ LEZAMA",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          5
-        ],
-        "classroom": "20"
-      }
-    ]
-  },
-  {
-    "code": "5992",
     "group": "3",
     "professor": "DIANA PAULA VAZQUEZ LEZAMA",
     "schedules": [
@@ -45,5 +31,19 @@
     "last_name": "Castro Alarcón",
     "rating": 7.5,
     "num_ratings": 6
+  },
+  {
+    "code": "5992",
+    "group": "1",
+    "professor": "DIANA PAULA VAZQUEZ LEZAMA",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          5
+        ],
+        "classroom": "20"
+      }
+    ]
   }
 ]

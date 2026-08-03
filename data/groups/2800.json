@@ -1,21 +1,6 @@
 [
   {
     "code": "2800",
-    "group": "1",
-    "professor": "MARIO ALBERTO ARELLANO CECILIANO",
-    "schedules": [
-      {
-        "time": "10:00-11:30",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "30"
-      }
-    ]
-  },
-  {
-    "code": "2800",
     "group": "2",
     "professor": "VICENTE QUEZADA BELTRAN",
     "schedules": [
@@ -32,6 +17,26 @@
     "first_name": "VICENTE",
     "last_name": "QUEZADA BELTRAN",
     "rating": 5.0,
+    "num_ratings": 2
+  },
+  {
+    "code": "2800",
+    "group": "1",
+    "professor": "MARIO ALBERTO ARELLANO CECILIANO",
+    "schedules": [
+      {
+        "time": "10:00-11:30",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "30"
+      }
+    ],
+    "professor_id": 180234,
+    "first_name": "Mario Alberto",
+    "last_name": "Arellano Ceciliano",
+    "rating": 7.0,
     "num_ratings": 2
   },
   {

@@ -1,6 +1,34 @@
 [
   {
     "code": "6437",
+    "group": "12",
+    "professor": "LUIS ALBERTO HERRERA BONILLA",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2
+        ],
+        "classroom": "20"
+      }
+    ]
+  },
+  {
+    "code": "6437",
+    "group": "23",
+    "professor": "LUIS ALBERTO HERRERA BONILLA",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          4
+        ],
+        "classroom": "20"
+      }
+    ]
+  },
+  {
+    "code": "6437",
     "group": "1",
     "professor": "IVONNE BLANCAS SILVA",
     "schedules": [
@@ -72,8 +100,8 @@
     "professor_id": 113771,
     "first_name": "EDUARDO",
     "last_name": "PEREZ CONTRERAS",
-    "rating": 9.5294,
-    "num_ratings": 17
+    "rating": 9.4444,
+    "num_ratings": 18
   },
   {
     "code": "6437",
@@ -110,8 +138,8 @@
     "professor_id": 113771,
     "first_name": "EDUARDO",
     "last_name": "PEREZ CONTRERAS",
-    "rating": 9.5294,
-    "num_ratings": 17
+    "rating": 9.4444,
+    "num_ratings": 18
   },
   {
     "code": "6437",
@@ -202,20 +230,6 @@
     "last_name": "Macías",
     "rating": 10.0,
     "num_ratings": 6
-  },
-  {
-    "code": "6437",
-    "group": "12",
-    "professor": "LUIS ALBERTO HERRERA BONILLA",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          2
-        ],
-        "classroom": "20"
-      }
-    ]
   },
   {
     "code": "6437",
@@ -360,8 +374,8 @@
     "professor_id": 113771,
     "first_name": "EDUARDO",
     "last_name": "PEREZ CONTRERAS",
-    "rating": 9.5294,
-    "num_ratings": 17
+    "rating": 9.4444,
+    "num_ratings": 18
   },
   {
     "code": "6437",
@@ -379,22 +393,8 @@
     "professor_id": 113771,
     "first_name": "EDUARDO",
     "last_name": "PEREZ CONTRERAS",
-    "rating": 9.5294,
-    "num_ratings": 17
-  },
-  {
-    "code": "6437",
-    "group": "23",
-    "professor": "LUIS ALBERTO HERRERA BONILLA",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          4
-        ],
-        "classroom": "20"
-      }
-    ]
+    "rating": 9.4444,
+    "num_ratings": 18
   },
   {
     "code": "6437",

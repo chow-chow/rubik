@@ -1,6 +1,21 @@
 [
   {
     "code": "1138",
+    "group": "5",
+    "professor": "MAURICIO ALBERTO ORTEGA RUIZ",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "6"
+      }
+    ]
+  },
+  {
+    "code": "1138",
     "group": "1",
     "professor": "VALENTINA LUISA SOUZA RODRIGUEZ",
     "schedules": [
@@ -73,21 +88,6 @@
     "last_name": "Padilla Rojas",
     "rating": 9.75,
     "num_ratings": 4
-  },
-  {
-    "code": "1138",
-    "group": "5",
-    "professor": "MAURICIO ALBERTO ORTEGA RUIZ",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          3,
-          5
-        ],
-        "classroom": "6"
-      }
-    ]
   },
   {
     "code": "1138",

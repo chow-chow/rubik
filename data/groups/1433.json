@@ -1,6 +1,65 @@
 [
   {
     "code": "1433",
+    "group": "3",
+    "professor": "HUGO GERMAN SERRANO MIRANDA",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          4
+        ],
+        "classroom": "35"
+      }
+    ],
+    "professor_id": 84710,
+    "first_name": "Hugo German",
+    "last_name": "Serrano Miranda",
+    "rating": 5.0,
+    "num_ratings": 29
+  },
+  {
+    "code": "1433",
+    "group": "5",
+    "professor": "ROGELIO REGINO HERNANDEZ HERNANDEZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "48"
+      }
+    ],
+    "professor_id": 49293,
+    "first_name": "Regino Rogelio",
+    "last_name": "Hernandez Hernandez",
+    "rating": 3.913,
+    "num_ratings": 23
+  },
+  {
+    "code": "1433",
+    "group": "7",
+    "professor": "JAIME ALFONSO REYES CORTES",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1,
+          5
+        ],
+        "classroom": "35"
+      }
+    ],
+    "professor_id": 93529,
+    "first_name": "Alfonso",
+    "last_name": "Reyes",
+    "rating": 7.0667,
+    "num_ratings": 15
+  },
+  {
+    "code": "1433",
     "group": "1",
     "professor": "CARLOS ALBERTO ROSAS GUTIERREZ",
     "schedules": [
@@ -40,25 +99,6 @@
   },
   {
     "code": "1433",
-    "group": "3",
-    "professor": "HUGO GERMAN SERRANO MIRANDA",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          4
-        ],
-        "classroom": "35"
-      }
-    ],
-    "professor_id": 84710,
-    "first_name": "Hugo German",
-    "last_name": "Serrano Miranda",
-    "rating": 5.0,
-    "num_ratings": 29
-  },
-  {
-    "code": "1433",
     "group": "4",
     "professor": "MARITZA LILIANA ARGANIS JUAREZ",
     "schedules": [
@@ -78,26 +118,6 @@
   },
   {
     "code": "1433",
-    "group": "5",
-    "professor": "ROGELIO REGINO HERNANDEZ HERNANDEZ",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "48"
-      }
-    ],
-    "professor_id": 49293,
-    "first_name": "Regino Rogelio",
-    "last_name": "Hernandez Hernandez",
-    "rating": 3.913,
-    "num_ratings": 23
-  },
-  {
-    "code": "1433",
     "group": "6",
     "professor": "ANGEL BRITO SEGURA",
     "schedules": [
@@ -114,26 +134,6 @@
     "last_name": "Brito Segura",
     "rating": 9.8333,
     "num_ratings": 6
-  },
-  {
-    "code": "1433",
-    "group": "7",
-    "professor": "JAIME ALFONSO REYES CORTES",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          1,
-          5
-        ],
-        "classroom": "35"
-      }
-    ],
-    "professor_id": 93529,
-    "first_name": "Alfonso",
-    "last_name": "Reyes",
-    "rating": 7.0667,
-    "num_ratings": 15
   },
   {
     "code": "1433",
@@ -191,8 +191,8 @@
     "professor_id": 78565,
     "first_name": "Anahí",
     "last_name": "Flores Perez",
-    "rating": 7.8462,
-    "num_ratings": 65
+    "rating": 7.8806,
+    "num_ratings": 67
   },
   {
     "code": "1433",
@@ -245,8 +245,8 @@
     "professor_id": 62496,
     "first_name": "José Alejandro",
     "last_name": "Figueroa Paez",
-    "rating": 6.36,
-    "num_ratings": 50
+    "rating": 6.3725,
+    "num_ratings": 51
   },
   {
     "code": "1433",
@@ -304,8 +304,8 @@
     "professor_id": 62496,
     "first_name": "José Alejandro",
     "last_name": "Figueroa Paez",
-    "rating": 6.36,
-    "num_ratings": 50
+    "rating": 6.3725,
+    "num_ratings": 51
   },
   {
     "code": "1433",

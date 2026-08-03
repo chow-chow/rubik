@@ -1,26 +1,6 @@
 [
   {
     "code": "1443",
-    "group": "1",
-    "professor": "JOSE ANTONIO DE JESUS ARREDONDO GARZA",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "35"
-      }
-    ],
-    "professor_id": 83386,
-    "first_name": "José Antonio de Jesus",
-    "last_name": "Arredondo Garza",
-    "rating": 8.3333,
-    "num_ratings": 6
-  },
-  {
-    "code": "1443",
     "group": "2",
     "professor": "ABEL VILLANUEVA PEÑA",
     "schedules": [
@@ -58,6 +38,26 @@
     "last_name": "Alcantara Silva",
     "rating": 5.1429,
     "num_ratings": 21
+  },
+  {
+    "code": "1443",
+    "group": "1",
+    "professor": "JOSE ANTONIO DE JESUS ARREDONDO GARZA",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "35"
+      }
+    ],
+    "professor_id": 83386,
+    "first_name": "José Antonio de Jesus",
+    "last_name": "Arredondo Garza",
+    "rating": 8.3333,
+    "num_ratings": 6
   },
   {
     "code": "1443",

@@ -20,6 +20,21 @@
   },
   {
     "code": "2500",
+    "group": "9",
+    "professor": "PROFESOR POR ASIGNAR",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "25"
+      }
+    ]
+  },
+  {
+    "code": "2500",
     "group": "2",
     "professor": "ARTEMISA MAZON MARTINEZ",
     "schedules": [
@@ -50,8 +65,8 @@
     "professor_id": 79048,
     "first_name": "Rafael",
     "last_name": "Schouwenaars Franssens",
-    "rating": 7.7647,
-    "num_ratings": 17
+    "rating": 7.5556,
+    "num_ratings": 18
   },
   {
     "code": "2500",
@@ -144,7 +159,7 @@
     "professor_id": 112892,
     "first_name": "Tatiana Lilia",
     "last_name": "Ávalos Rendón",
-    "rating": 7.25,
-    "num_ratings": 20
+    "rating": 7.2857,
+    "num_ratings": 21
   }
 ]

@@ -16,6 +16,26 @@
   },
   {
     "code": "1122",
+    "group": "39",
+    "professor": "OSCAR RENE VALDEZ CASILLAS",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          3,
+          4
+        ],
+        "classroom": "30"
+      }
+    ],
+    "professor_id": 75090,
+    "first_name": "Oscar rene",
+    "last_name": "Valdez Casillas",
+    "rating": 4.24,
+    "num_ratings": 17
+  },
+  {
+    "code": "1122",
     "group": "32",
     "professor": "DULCE MONICA CASTILLO CORONA",
     "schedules": [
@@ -31,8 +51,8 @@
     "professor_id": 49563,
     "first_name": "Dulce Monica",
     "last_name": "Castillo Corona",
-    "rating": 7.09,
-    "num_ratings": 90
+    "rating": 7.12,
+    "num_ratings": 91
   },
   {
     "code": "1122",
@@ -126,28 +146,8 @@
     "professor_id": 114087,
     "first_name": "Hugo",
     "last_name": "Zúñiga Barragán",
-    "rating": 7.4737,
-    "num_ratings": 19
-  },
-  {
-    "code": "1122",
-    "group": "39",
-    "professor": "OSCAR RENE VALDEZ CASILLAS",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          3,
-          4
-        ],
-        "classroom": "30"
-      }
-    ],
-    "professor_id": 75090,
-    "first_name": "Oscar rene",
-    "last_name": "Valdez Casillas",
-    "rating": 4.24,
-    "num_ratings": 17
+    "rating": 7.55,
+    "num_ratings": 20
   },
   {
     "code": "1122",

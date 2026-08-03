@@ -1,6 +1,26 @@
 [
   {
     "code": "1594",
+    "group": "3",
+    "professor": "OSCAR JESUS RENDON GOMEZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "35"
+      }
+    ],
+    "professor_id": 114293,
+    "first_name": "Óscar Jesús",
+    "last_name": "Rendón Gómez",
+    "rating": 5.5,
+    "num_ratings": 4
+  },
+  {
+    "code": "1594",
     "group": "1",
     "professor": "FRANCISCO JAVIER MARTINEZ RODRIGUEZ",
     "schedules": [
@@ -38,26 +58,6 @@
     "last_name": "Moumtadi",
     "rating": 5.5741,
     "num_ratings": 54
-  },
-  {
-    "code": "1594",
-    "group": "3",
-    "professor": "OSCAR JESUS RENDON GOMEZ",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "35"
-      }
-    ],
-    "professor_id": 114293,
-    "first_name": "Óscar Jesús",
-    "last_name": "Rendón Gómez",
-    "rating": 5.5,
-    "num_ratings": 4
   },
   {
     "code": "1594",

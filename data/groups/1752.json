@@ -1,26 +1,6 @@
 [
   {
     "code": "1752",
-    "group": "1",
-    "professor": "LAURA OLIVIA ROSIQUE DE LA CRUZ",
-    "schedules": [
-      {
-        "time": "19:00-22:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "8"
-      }
-    ],
-    "professor_id": 165700,
-    "first_name": "Laura Olivia",
-    "last_name": "Rosique de la Cruz",
-    "rating": 8.0,
-    "num_ratings": 4
-  },
-  {
-    "code": "1752",
     "group": "2",
     "professor": "GRISELDA BERENICE HERNANDEZ CRUZ",
     "schedules": [
@@ -38,5 +18,25 @@
     "last_name": "Hernandez Cruz",
     "rating": 6.8182,
     "num_ratings": 11
+  },
+  {
+    "code": "1752",
+    "group": "1",
+    "professor": "LAURA OLIVIA ROSIQUE DE LA CRUZ",
+    "schedules": [
+      {
+        "time": "19:00-22:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "8"
+      }
+    ],
+    "professor_id": 165700,
+    "first_name": "Laura Olivia",
+    "last_name": "Rosique de la Cruz",
+    "rating": 8.0,
+    "num_ratings": 4
   }
 ]

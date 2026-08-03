@@ -1,6 +1,26 @@
 [
   {
     "code": "1727",
+    "group": "3",
+    "professor": "EMILIANO CAMPOS MADRIGAL",
+    "schedules": [
+      {
+        "time": "18:00-20:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "13"
+      }
+    ],
+    "professor_id": 33616,
+    "first_name": "Emiliano",
+    "last_name": "Campos Madrigal",
+    "rating": 8.2,
+    "num_ratings": 10
+  },
+  {
+    "code": "1727",
     "group": "1",
     "professor": "ISABEL DOMINGUEZ TREJO",
     "schedules": [
@@ -24,26 +44,6 @@
         "days": [
           1,
           3
-        ],
-        "classroom": "13"
-      }
-    ],
-    "professor_id": 33616,
-    "first_name": "Emiliano",
-    "last_name": "Campos Madrigal",
-    "rating": 8.2,
-    "num_ratings": 10
-  },
-  {
-    "code": "1727",
-    "group": "3",
-    "professor": "EMILIANO CAMPOS MADRIGAL",
-    "schedules": [
-      {
-        "time": "18:00-20:00",
-        "days": [
-          2,
-          4
         ],
         "classroom": "13"
       }

@@ -36,25 +36,6 @@
   },
   {
     "code": "1784",
-    "group": "3",
-    "professor": "TAREK HENAINE BRITO",
-    "schedules": [
-      {
-        "time": "09:00-13:00",
-        "days": [
-          6
-        ],
-        "classroom": "30"
-      }
-    ],
-    "professor_id": 191296,
-    "first_name": "Tarek",
-    "last_name": "Henaine Brito",
-    "rating": 9.6667,
-    "num_ratings": 3
-  },
-  {
-    "code": "1784",
     "group": "4",
     "professor": "ROBERTO CERVERA AGUILAR Y RUIZ DE CHAVEZ",
     "schedules": [
@@ -67,6 +48,26 @@
         "classroom": "30"
       }
     ]
+  },
+  {
+    "code": "1784",
+    "group": "3",
+    "professor": "TAREK HENAINE BRITO",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "30"
+      }
+    ],
+    "professor_id": 191296,
+    "first_name": "Tarek",
+    "last_name": "Henaine Brito",
+    "rating": 9.6667,
+    "num_ratings": 3
   },
   {
     "code": "1784",

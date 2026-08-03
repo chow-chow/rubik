@@ -17,7 +17,7 @@
   {
     "code": "1223",
     "group": "2",
-    "professor": "PEDRO STRUCK CANO",
+    "professor": "GERARDO JUAREZ CHAVEZ",
     "schedules": [
       {
         "time": "07:00-09:00",
@@ -27,12 +27,7 @@
         ],
         "classroom": "48"
       }
-    ],
-    "professor_id": 51489,
-    "first_name": "Pedro",
-    "last_name": "Struck Cano",
-    "rating": 6.4615,
-    "num_ratings": 52
+    ]
   },
   {
     "code": "1223",
@@ -70,8 +65,8 @@
     "professor_id": 22035,
     "first_name": "Juan",
     "last_name": "Ocáriz Castelazo",
-    "rating": 8.6316,
-    "num_ratings": 171
+    "rating": 8.6279,
+    "num_ratings": 172
   },
   {
     "code": "1223",
@@ -205,7 +200,7 @@
     "professor_id": 187228,
     "first_name": "Mario Alberto",
     "last_name": "Márquez Calderón",
-    "rating": 9.0,
-    "num_ratings": 3
+    "rating": 9.25,
+    "num_ratings": 4
   }
 ]

@@ -1,21 +1,6 @@
 [
   {
     "code": "1124",
-    "group": "8",
-    "professor": "MARIA DE LOS ANGELES KAIM BENASCO",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "28"
-      }
-    ]
-  },
-  {
-    "code": "1124",
     "group": "9",
     "professor": "ANDROMEDA MARTINEZ NEMECIO",
     "schedules": [
@@ -33,6 +18,21 @@
     "last_name": "Martinez Nemecio",
     "rating": 5.5059,
     "num_ratings": 85
+  },
+  {
+    "code": "1124",
+    "group": "8",
+    "professor": "MARIA DE LOS ANGELES KAIM BENASCO",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "28"
+      }
+    ]
   },
   {
     "code": "1124",
@@ -90,8 +90,8 @@
     "professor_id": 124468,
     "first_name": "Adriana",
     "last_name": "Contreras García",
-    "rating": 8.9286,
-    "num_ratings": 14
+    "rating": 8.9375,
+    "num_ratings": 16
   },
   {
     "code": "1124",

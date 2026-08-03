@@ -1,26 +1,6 @@
 [
   {
     "code": "1998",
-    "group": "1",
-    "professor": "ALEJANDRO BAEZ MUÑOZ",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "35"
-      }
-    ],
-    "professor_id": 118946,
-    "first_name": "Alejandro",
-    "last_name": "Baez Muñoz",
-    "rating": 6.5,
-    "num_ratings": 10
-  },
-  {
-    "code": "1998",
     "group": "2",
     "professor": "GONZALO SANDOVAL RODRIGUEZ",
     "schedules": [
@@ -38,6 +18,26 @@
     "last_name": "Sandoval Rodriguez",
     "rating": 5.0,
     "num_ratings": 14
+  },
+  {
+    "code": "1998",
+    "group": "1",
+    "professor": "ALEJANDRO BAEZ MUÑOZ",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "35"
+      }
+    ],
+    "professor_id": 118946,
+    "first_name": "Alejandro",
+    "last_name": "Baez Muñoz",
+    "rating": 6.5,
+    "num_ratings": 10
   },
   {
     "code": "1998",

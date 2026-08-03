@@ -1,6 +1,25 @@
 [
   {
     "code": "6618",
+    "group": "6",
+    "professor": "JAVIER LOPEZ VELAZQUEZ",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          3
+        ],
+        "classroom": "20"
+      }
+    ],
+    "professor_id": 94353,
+    "first_name": "JAVIER",
+    "last_name": "LOPEZ VELAZQUEZ",
+    "rating": 3.75,
+    "num_ratings": 12
+  },
+  {
+    "code": "6618",
     "group": "1",
     "professor": "JUAN CARLOS ROA BEIZA",
     "schedules": [
@@ -91,25 +110,6 @@
   },
   {
     "code": "6618",
-    "group": "6",
-    "professor": "JAVIER LOPEZ VELAZQUEZ",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          3
-        ],
-        "classroom": "20"
-      }
-    ],
-    "professor_id": 94353,
-    "first_name": "JAVIER",
-    "last_name": "LOPEZ VELAZQUEZ",
-    "rating": 3.75,
-    "num_ratings": 12
-  },
-  {
-    "code": "6618",
     "group": "7",
     "professor": "JOSE RODELMAR OCAMPO SANTILLAN",
     "schedules": [
@@ -143,7 +143,7 @@
     "professor_id": 80201,
     "first_name": "JESUS MARIA FRANCISCO",
     "last_name": "HERNANDEZ MORALES",
-    "rating": 6.0,
-    "num_ratings": 19
+    "rating": 6.1,
+    "num_ratings": 20
   }
 ]

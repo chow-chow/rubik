@@ -1,6 +1,21 @@
 [
   {
     "code": "2601",
+    "group": "4",
+    "professor": "RICARDO ORTIZ CONDE",
+    "schedules": [
+      {
+        "time": "07:00-08:30",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "25"
+      }
+    ]
+  },
+  {
+    "code": "2601",
     "group": "1",
     "professor": "CELIA ESPERANZA SANGINES FRANCO",
     "schedules": [
@@ -46,21 +61,6 @@
           3
         ],
         "classroom": "12"
-      }
-    ]
-  },
-  {
-    "code": "2601",
-    "group": "4",
-    "professor": "RICARDO ORTIZ CONDE",
-    "schedules": [
-      {
-        "time": "07:00-08:30",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "25"
       }
     ]
   }

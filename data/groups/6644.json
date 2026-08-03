@@ -39,63 +39,6 @@
   },
   {
     "code": "6644",
-    "group": "3",
-    "professor": "JUAN ANGEL CALVILLO PEREZ",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          2
-        ],
-        "classroom": "28"
-      }
-    ],
-    "professor_id": 135119,
-    "first_name": "Juan Ángel",
-    "last_name": "Calvillo Pérez",
-    "rating": 8.3333,
-    "num_ratings": 27
-  },
-  {
-    "code": "6644",
-    "group": "4",
-    "professor": "JUAN ANGEL CALVILLO PEREZ",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          2
-        ],
-        "classroom": "28"
-      }
-    ],
-    "professor_id": 135119,
-    "first_name": "Juan Ángel",
-    "last_name": "Calvillo Pérez",
-    "rating": 8.3333,
-    "num_ratings": 27
-  },
-  {
-    "code": "6644",
-    "group": "5",
-    "professor": "CZESLAW KRISTOFER LUGOWSKI RIVERO",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          4
-        ],
-        "classroom": "28"
-      }
-    ],
-    "professor_id": 105202,
-    "first_name": "Czeslaw Kristofer",
-    "last_name": "Lugowski Rivero",
-    "rating": 8.75,
-    "num_ratings": 20
-  },
-  {
-    "code": "6644",
     "group": "6",
     "professor": "JORGE ALBERTO RODRIGUEZ CAMPOS",
     "schedules": [
@@ -112,25 +55,6 @@
     "last_name": "Rodríguez Campos",
     "rating": 8.4828,
     "num_ratings": 58
-  },
-  {
-    "code": "6644",
-    "group": "7",
-    "professor": "MARTHA LOPEZ PELCASTRE",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          5
-        ],
-        "classroom": "28"
-      }
-    ],
-    "professor_id": 114128,
-    "first_name": "ING. MARTHA",
-    "last_name": "LOPEZ PELCASTRE",
-    "rating": 8.0435,
-    "num_ratings": 46
   },
   {
     "code": "6644",
@@ -186,7 +110,83 @@
     "professor_id": 64679,
     "first_name": "Jorge Luis",
     "last_name": "López García",
-    "rating": 8.507,
-    "num_ratings": 71
+    "rating": 8.4722,
+    "num_ratings": 72
+  },
+  {
+    "code": "6644",
+    "group": "3",
+    "professor": "JUAN ANGEL CALVILLO PEREZ",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2
+        ],
+        "classroom": "28"
+      }
+    ],
+    "professor_id": 135119,
+    "first_name": "Juan Ángel",
+    "last_name": "Calvillo Pérez",
+    "rating": 8.3333,
+    "num_ratings": 27
+  },
+  {
+    "code": "6644",
+    "group": "4",
+    "professor": "JUAN ANGEL CALVILLO PEREZ",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          2
+        ],
+        "classroom": "28"
+      }
+    ],
+    "professor_id": 135119,
+    "first_name": "Juan Ángel",
+    "last_name": "Calvillo Pérez",
+    "rating": 8.3333,
+    "num_ratings": 27
+  },
+  {
+    "code": "6644",
+    "group": "5",
+    "professor": "CZESLAW KRISTOFER LUGOWSKI RIVERO",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          4
+        ],
+        "classroom": "28"
+      }
+    ],
+    "professor_id": 105202,
+    "first_name": "Czeslaw Kristofer",
+    "last_name": "Lugowski Rivero",
+    "rating": 8.7143,
+    "num_ratings": 21
+  },
+  {
+    "code": "6644",
+    "group": "7",
+    "professor": "MARTHA LOPEZ PELCASTRE",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          5
+        ],
+        "classroom": "28"
+      }
+    ],
+    "professor_id": 114128,
+    "first_name": "ING. MARTHA",
+    "last_name": "LOPEZ PELCASTRE",
+    "rating": 8.0435,
+    "num_ratings": 46
   }
 ]

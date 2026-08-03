@@ -16,8 +16,23 @@
     "professor_id": 184451,
     "first_name": "Juana Julieta",
     "last_name": "Noguez Monroy",
-    "rating": 5.0,
-    "num_ratings": 2
+    "rating": 4.0,
+    "num_ratings": 3
+  },
+  {
+    "code": "1531",
+    "group": "3",
+    "professor": "ORLANDO ZALDIVAR ZAMORATEGUI",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "35"
+      }
+    ]
   },
   {
     "code": "1531",
@@ -38,21 +53,6 @@
     "last_name": "Muñoz Goncen",
     "rating": 7.7143,
     "num_ratings": 28
-  },
-  {
-    "code": "1531",
-    "group": "3",
-    "professor": "ORLANDO ZALDIVAR ZAMORATEGUIVer Nota 1",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "35"
-      }
-    ]
   },
   {
     "code": "1531",

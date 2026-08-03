@@ -21,6 +21,26 @@
   },
   {
     "code": "1618",
+    "group": "5",
+    "professor": "PABLO ROBERTO PEREZ ALCAZAR",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "30"
+      }
+    ],
+    "professor_id": 89952,
+    "first_name": "PABLO",
+    "last_name": "PEREZ ALCAZAR",
+    "rating": 6.125,
+    "num_ratings": 24
+  },
+  {
+    "code": "1618",
     "group": "2",
     "professor": "LOURDES MARTINEZ LOPEZ",
     "schedules": [
@@ -78,26 +98,6 @@
     "last_name": "Martinez Rodriguez",
     "rating": 5.0952,
     "num_ratings": 42
-  },
-  {
-    "code": "1618",
-    "group": "5",
-    "professor": "PABLO ROBERTO PEREZ ALCAZAR",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "30"
-      }
-    ],
-    "professor_id": 89952,
-    "first_name": "PABLO",
-    "last_name": "PEREZ ALCAZAR",
-    "rating": 6.125,
-    "num_ratings": 24
   },
   {
     "code": "1618",

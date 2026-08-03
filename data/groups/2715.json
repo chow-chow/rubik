@@ -1,21 +1,6 @@
 [
   {
     "code": "2715",
-    "group": "1",
-    "professor": "CESAR ABRAHAM LUNA ESTRADAVer Nota 1",
-    "schedules": [
-      {
-        "time": "19:00-20:30",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "30"
-      }
-    ]
-  },
-  {
-    "code": "2715",
     "group": "2",
     "professor": "JAVIER CORTES BENIGNOVer Nota 1",
     "schedules": [
@@ -48,6 +33,21 @@
     "last_name": "Yañez valdez",
     "rating": 3.2,
     "num_ratings": 15
+  },
+  {
+    "code": "2715",
+    "group": "1",
+    "professor": "CESAR ABRAHAM LUNA ESTRADAVer Nota 1",
+    "schedules": [
+      {
+        "time": "19:00-20:30",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "30"
+      }
+    ]
   },
   {
     "code": "2715",

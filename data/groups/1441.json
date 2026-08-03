@@ -1,6 +1,41 @@
 [
   {
     "code": "1441",
+    "group": "3",
+    "professor": "NESTOR DANIEL LUNA GONZALEZ",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "18"
+      }
+    ]
+  },
+  {
+    "code": "1441",
+    "group": "4",
+    "professor": "ISRAEL CASTRO HERRERA",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "18"
+      }
+    ],
+    "professor_id": 135134,
+    "first_name": "israel",
+    "last_name": "castro herrera",
+    "rating": 8.4286,
+    "num_ratings": 7
+  },
+  {
+    "code": "1441",
     "group": "1",
     "professor": "ALFONSO PALACIOS MUÑOZ",
     "schedules": [
@@ -38,40 +73,5 @@
     "last_name": "Palacios Muñoz",
     "rating": 9.1923,
     "num_ratings": 26
-  },
-  {
-    "code": "1441",
-    "group": "3",
-    "professor": "NESTOR DANIEL LUNA GONZALEZ",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "18"
-      }
-    ]
-  },
-  {
-    "code": "1441",
-    "group": "4",
-    "professor": "ISRAEL CASTRO HERRERA",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "18"
-      }
-    ],
-    "professor_id": 135134,
-    "first_name": "israel",
-    "last_name": "castro herrera",
-    "rating": 8.1667,
-    "num_ratings": 6
   }
 ]

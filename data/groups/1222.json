@@ -1,6 +1,58 @@
 [
   {
     "code": "1222",
+    "group": "9",
+    "professor": "ARELY HERNANDEZ VALVERDE",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          3
+        ],
+        "classroom": "28"
+      }
+    ],
+    "professor_id": 85363,
+    "first_name": "Arely",
+    "last_name": "Hernández Valverde",
+    "rating": 7.6364,
+    "num_ratings": 22
+  },
+  {
+    "code": "1222",
+    "group": "27",
+    "professor": "JORGE VELAZQUEZ RAMIREZ",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          3
+        ],
+        "classroom": "28"
+      }
+    ],
+    "professor_id": 74006,
+    "first_name": "Jorge",
+    "last_name": "Velazquez Ramirez",
+    "rating": 8.43,
+    "num_ratings": 30
+  },
+  {
+    "code": "1222",
+    "group": "28",
+    "professor": "GUSTAVO TORRES MARQUEZ",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          1
+        ],
+        "classroom": "28"
+      }
+    ]
+  },
+  {
+    "code": "1222",
     "group": "7",
     "professor": "MARIA MARGARITA ZAYIL SALAZAR CAMPOS",
     "schedules": [
@@ -36,25 +88,6 @@
     "last_name": "Salazar Campos",
     "rating": 7.9697,
     "num_ratings": 33
-  },
-  {
-    "code": "1222",
-    "group": "9",
-    "professor": "ARELY HERNANDEZ VALVERDE",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          3
-        ],
-        "classroom": "28"
-      }
-    ],
-    "professor_id": 85363,
-    "first_name": "Arely",
-    "last_name": "Hernández Valverde",
-    "rating": 7.6364,
-    "num_ratings": 22
   },
   {
     "code": "1222",
@@ -148,8 +181,8 @@
     "professor_id": 80225,
     "first_name": "Victoria",
     "last_name": "Ramiro Esteban",
-    "rating": 6.9762,
-    "num_ratings": 42
+    "rating": 6.9767,
+    "num_ratings": 43
   },
   {
     "code": "1222",
@@ -244,7 +277,7 @@
     "first_name": "Frida Yolanda",
     "last_name": "Teodosio Campos",
     "rating": 10.0,
-    "num_ratings": 11
+    "num_ratings": 12
   },
   {
     "code": "1222",
@@ -281,8 +314,8 @@
     "professor_id": 96788,
     "first_name": "AURELIO PEREZ GOMEZ",
     "last_name": "PEREZ GOMEZ",
-    "rating": 7.5641,
-    "num_ratings": 39
+    "rating": 7.5,
+    "num_ratings": 40
   },
   {
     "code": "1222",
@@ -319,8 +352,8 @@
     "professor_id": 90265,
     "first_name": "Hugo Ulises",
     "last_name": "Cruz",
-    "rating": 9.3333,
-    "num_ratings": 39
+    "rating": 9.3415,
+    "num_ratings": 41
   },
   {
     "code": "1222",
@@ -357,8 +390,8 @@
     "professor_id": 90265,
     "first_name": "Hugo Ulises",
     "last_name": "Cruz",
-    "rating": 9.3333,
-    "num_ratings": 39
+    "rating": 9.3415,
+    "num_ratings": 41
   },
   {
     "code": "1222",
@@ -378,38 +411,5 @@
     "last_name": "Angeles Mancilla",
     "rating": 9.2632,
     "num_ratings": 38
-  },
-  {
-    "code": "1222",
-    "group": "27",
-    "professor": "JORGE VELAZQUEZ RAMIREZ",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          3
-        ],
-        "classroom": "28"
-      }
-    ],
-    "professor_id": 74006,
-    "first_name": "Jorge",
-    "last_name": "Velazquez Ramirez",
-    "rating": 8.43,
-    "num_ratings": 30
-  },
-  {
-    "code": "1222",
-    "group": "28",
-    "professor": "GUSTAVO TORRES MARQUEZ",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          1
-        ],
-        "classroom": "28"
-      }
-    ]
   }
 ]

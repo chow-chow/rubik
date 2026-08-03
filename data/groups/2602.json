@@ -21,6 +21,26 @@
   },
   {
     "code": "2602",
+    "group": "4",
+    "professor": "FELIPE ROSALES MENDEZ",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "35"
+      }
+    ],
+    "professor_id": 77070,
+    "first_name": "FELIPE",
+    "last_name": "ROSALES MENDEZ",
+    "rating": 6.45,
+    "num_ratings": 20
+  },
+  {
+    "code": "2602",
     "group": "2",
     "professor": "DIANA ESTRADA ESTEVEZ",
     "schedules": [
@@ -58,25 +78,5 @@
     "last_name": "LOPEZ ROMERO",
     "rating": 9.0,
     "num_ratings": 8
-  },
-  {
-    "code": "2602",
-    "group": "4",
-    "professor": "FELIPE ROSALES MENDEZ",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "35"
-      }
-    ],
-    "professor_id": 77070,
-    "first_name": "FELIPE",
-    "last_name": "ROSALES MENDEZ",
-    "rating": 6.45,
-    "num_ratings": 20
   }
 ]
