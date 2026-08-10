@@ -20,6 +20,20 @@
   },
   {
     "code": "5558",
+    "group": "10",
+    "professor": "EDUARDO HERNANDEZ ROMERO",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2
+        ],
+        "classroom": "12"
+      }
+    ]
+  },
+  {
+    "code": "5558",
     "group": "1",
     "professor": "JAVIER GONZALEZ PRADO",
     "schedules": [

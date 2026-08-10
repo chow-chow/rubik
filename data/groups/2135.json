@@ -21,26 +21,6 @@
   },
   {
     "code": "2135",
-    "group": "4",
-    "professor": "PATRICIO MARTINEZ ZAMUDIO",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "25"
-      }
-    ],
-    "professor_id": 109269,
-    "first_name": "Patricio",
-    "last_name": "Martínez Zamudio",
-    "rating": 2.0,
-    "num_ratings": 5
-  },
-  {
-    "code": "2135",
     "group": "5",
     "professor": "JOSE ANTONIO SILVA RICO",
     "schedules": [

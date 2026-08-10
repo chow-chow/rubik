@@ -206,7 +206,7 @@
       {
         "time": "11:00-13:00",
         "days": [
-          1
+          5
         ],
         "classroom": "48"
       }
@@ -285,7 +285,7 @@
       {
         "time": "11:00-13:00",
         "days": [
-          3
+          5
         ],
         "classroom": "48"
       }
@@ -462,8 +462,8 @@
     "professor_id": 105237,
     "first_name": "ALEJANDRA MARIBEL",
     "last_name": "BARRAGAN MARTINEZ",
-    "rating": 7.3714,
-    "num_ratings": 35
+    "rating": 7.4444,
+    "num_ratings": 36
   },
   {
     "code": "1325",

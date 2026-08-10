@@ -1,6 +1,46 @@
 [
   {
     "code": "1807",
+    "group": "1",
+    "professor": "ARTURO RONQUILLO ARVIZU",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "35"
+      }
+    ],
+    "professor_id": 114508,
+    "first_name": "Arturo",
+    "last_name": "Ronquillo Arvizú",
+    "rating": 5.1818,
+    "num_ratings": 11
+  },
+  {
+    "code": "1807",
+    "group": "2",
+    "professor": "JOSE LUIS MENDOZA SOTO",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "35"
+      }
+    ],
+    "professor_id": 154073,
+    "first_name": "Jose Luis",
+    "last_name": "Mendoza Soto",
+    "rating": 8.8182,
+    "num_ratings": 11
+  },
+  {
+    "code": "1807",
     "group": "3",
     "professor": "JUAN MAURICIO ANGELES CERVANTES",
     "schedules": [
@@ -21,55 +61,15 @@
   },
   {
     "code": "1807",
-    "group": "1",
-    "professor": "ARTURO RONQUILLO ARVIZU",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "30"
-      }
-    ],
-    "professor_id": 114508,
-    "first_name": "Arturo",
-    "last_name": "Ronquillo Arvizú",
-    "rating": 5.1818,
-    "num_ratings": 11
-  },
-  {
-    "code": "1807",
-    "group": "2",
-    "professor": "JOSE LUIS MENDOZA SOTO",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "30"
-      }
-    ],
-    "professor_id": 154073,
-    "first_name": "Jose Luis",
-    "last_name": "Mendoza Soto",
-    "rating": 8.8182,
-    "num_ratings": 11
-  },
-  {
-    "code": "1807",
     "group": "4",
     "professor": "JUAN MAURICIO ANGELES CERVANTES",
     "schedules": [
       {
         "time": "09:00-11:00",
         "days": [
-          5
+          3
         ],
-        "classroom": "30"
+        "classroom": "35"
       }
     ],
     "professor_id": 132604,

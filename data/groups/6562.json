@@ -21,7 +21,7 @@
   {
     "code": "6562",
     "group": "6",
-    "professor": "EDUARDO HERNANDEZ ROMERO",
+    "professor": "JUAN MANUEL VELASCO MIRANDA",
     "schedules": [
       {
         "time": "09:00-11:00",
@@ -30,7 +30,12 @@
         ],
         "classroom": "14"
       }
-    ]
+    ],
+    "professor_id": 95190,
+    "first_name": "Juan Manuel",
+    "last_name": "Velasco Miranda",
+    "rating": 8.8333,
+    "num_ratings": 12
   },
   {
     "code": "6562",

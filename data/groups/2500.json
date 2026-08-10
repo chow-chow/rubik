@@ -7,7 +7,7 @@
       {
         "time": "07:00-09:00",
         "days": [
-          5
+          1
         ],
         "classroom": "30"
       }
@@ -125,8 +125,8 @@
     "professor_id": 149718,
     "first_name": "JESUS RAFAEL",
     "last_name": "GONZALEZ PARRA",
-    "rating": 6.1667,
-    "num_ratings": 12
+    "rating": 6.2308,
+    "num_ratings": 13
   },
   {
     "code": "2500",
@@ -136,7 +136,7 @@
       {
         "time": "13:00-15:00",
         "days": [
-          5
+          3
         ],
         "classroom": "30"
       }

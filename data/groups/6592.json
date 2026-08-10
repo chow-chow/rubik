@@ -39,6 +39,48 @@
   },
   {
     "code": "6592",
+    "group": "16",
+    "professor": "RUTH VALERIA ACERO MENDOZA",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1
+        ],
+        "classroom": "14"
+      }
+    ]
+  },
+  {
+    "code": "6592",
+    "group": "17",
+    "professor": "RUTH VALERIA ACERO MENDOZA",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          5
+        ],
+        "classroom": "14"
+      }
+    ]
+  },
+  {
+    "code": "6592",
+    "group": "18",
+    "professor": "EDUARDO HERNANDEZ ROMERO",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          4
+        ],
+        "classroom": "14"
+      }
+    ]
+  },
+  {
+    "code": "6592",
     "group": "1",
     "professor": "MARTHA ISELA TORRES HERNANDEZ",
     "schedules": [
@@ -239,7 +281,7 @@
   {
     "code": "6592",
     "group": "14",
-    "professor": "JUAN MANUEL VELASCO MIRANDA",
+    "professor": "Grupo cancelado, contactar a la División.",
     "schedules": [
       {
         "time": "15:00-17:00",
@@ -248,12 +290,7 @@
         ],
         "classroom": "14"
       }
-    ],
-    "professor_id": 95190,
-    "first_name": "Juan Manuel",
-    "last_name": "Velasco Miranda",
-    "rating": 8.8333,
-    "num_ratings": 12
+    ]
   },
   {
     "code": "6592",

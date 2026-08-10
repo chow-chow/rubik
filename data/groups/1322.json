@@ -10,7 +10,7 @@
           1,
           3
         ],
-        "classroom": "48"
+        "classroom": "51"
       }
     ],
     "professor_id": 49791,
@@ -30,7 +30,7 @@
           2,
           4
         ],
-        "classroom": "48"
+        "classroom": "51"
       }
     ],
     "professor_id": 82797,
@@ -50,7 +50,7 @@
           2,
           4
         ],
-        "classroom": "48"
+        "classroom": "51"
       }
     ],
     "professor_id": 70466,
@@ -70,7 +70,7 @@
           1,
           3
         ],
-        "classroom": "48"
+        "classroom": "51"
       }
     ],
     "professor_id": 84710,
@@ -90,7 +90,7 @@
           2,
           4
         ],
-        "classroom": "48"
+        "classroom": "51"
       }
     ],
     "professor_id": 82797,
@@ -109,7 +109,7 @@
         "days": [
           6
         ],
-        "classroom": "48"
+        "classroom": "51"
       }
     ],
     "professor_id": 115337,
@@ -129,7 +129,7 @@
           1,
           3
         ],
-        "classroom": "48"
+        "classroom": "51"
       }
     ],
     "professor_id": 114184,
@@ -146,9 +146,10 @@
       {
         "time": "11:00-13:00",
         "days": [
-          1
+          1,
+          5
         ],
-        "classroom": "35"
+        "classroom": "37"
       }
     ],
     "professor_id": 22035,
@@ -168,7 +169,7 @@
           2,
           4
         ],
-        "classroom": "35"
+        "classroom": "37"
       }
     ],
     "professor_id": 22843,
@@ -188,7 +189,7 @@
           1,
           3
         ],
-        "classroom": "48"
+        "classroom": "51"
       }
     ],
     "professor_id": 66464,
@@ -200,7 +201,7 @@
   {
     "code": "1322",
     "group": "11",
-    "professor": "GLORIA RAMIREZ ROMERO",
+    "professor": "RICARDO ARTURO PINZON AGUIRRE",
     "schedules": [
       {
         "time": "15:00-17:00",
@@ -208,14 +209,14 @@
           1,
           3
         ],
-        "classroom": "48"
+        "classroom": "51"
       }
     ],
-    "professor_id": 42880,
-    "first_name": "gloria",
-    "last_name": "ramirez romero",
-    "rating": 6.7426,
-    "num_ratings": 101
+    "professor_id": 105197,
+    "first_name": "RICARDO ARTURO",
+    "last_name": "PINZON AGUIRRE",
+    "rating": 9.0,
+    "num_ratings": 40
   },
   {
     "code": "1322",
@@ -228,7 +229,7 @@
           2,
           4
         ],
-        "classroom": "48"
+        "classroom": "51"
       }
     ],
     "professor_id": 95313,
@@ -248,7 +249,7 @@
           3,
           5
         ],
-        "classroom": "48"
+        "classroom": "51"
       }
     ]
   },
@@ -263,7 +264,7 @@
           2,
           4
         ],
-        "classroom": "48"
+        "classroom": "51"
       }
     ],
     "professor_id": 95313,
@@ -280,9 +281,9 @@
       {
         "time": "17:00-19:00",
         "days": [
-          5
+          3
         ],
-        "classroom": "48"
+        "classroom": "50"
       }
     ],
     "professor_id": 93946,
@@ -302,7 +303,7 @@
           1,
           3
         ],
-        "classroom": "50"
+        "classroom": "53"
       }
     ],
     "professor_id": 115337,
@@ -322,7 +323,7 @@
           3,
           5
         ],
-        "classroom": "48"
+        "classroom": "51"
       }
     ],
     "professor_id": 105197,

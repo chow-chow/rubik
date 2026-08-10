@@ -67,7 +67,7 @@
       {
         "time": "09:00-11:00",
         "days": [
-          5
+          3
         ],
         "classroom": "48"
       }
@@ -240,7 +240,7 @@
       {
         "time": "11:00-13:00",
         "days": [
-          1
+          3
         ],
         "classroom": "48"
       }
@@ -299,7 +299,7 @@
       {
         "time": "11:00-13:00",
         "days": [
-          5
+          3
         ],
         "classroom": "35"
       }
@@ -466,8 +466,8 @@
     "professor_id": 100507,
     "first_name": "Edgar",
     "last_name": "Almanza Ríos",
-    "rating": 7.7188,
-    "num_ratings": 32
+    "rating": 7.7879,
+    "num_ratings": 33
   },
   {
     "code": "1436",

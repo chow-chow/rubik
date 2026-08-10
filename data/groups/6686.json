@@ -1,6 +1,63 @@
 [
   {
     "code": "6686",
+    "group": "32",
+    "professor": "BENITO ESLAVA EVANGELISTA",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1
+        ],
+        "classroom": "8"
+      }
+    ],
+    "professor_id": 172902,
+    "first_name": "Benito",
+    "last_name": "Eslava Evangelista",
+    "rating": 9.6667,
+    "num_ratings": 3
+  },
+  {
+    "code": "6686",
+    "group": "33",
+    "professor": "JOSE LUIS VILLEDAS MORALES",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          3
+        ],
+        "classroom": "8"
+      }
+    ],
+    "professor_id": 99092,
+    "first_name": "JOSE LUIS",
+    "last_name": "VILLEDAS MORALES",
+    "rating": 7.2857,
+    "num_ratings": 7
+  },
+  {
+    "code": "6686",
+    "group": "34",
+    "professor": "FLORICEL RAMOS VARGAS",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          4
+        ],
+        "classroom": "8"
+      }
+    ],
+    "professor_id": 89946,
+    "first_name": "FLORICEL",
+    "last_name": "RAMOS VARGAS",
+    "rating": 5.8974,
+    "num_ratings": 39
+  },
+  {
+    "code": "6686",
     "group": "1",
     "professor": "BEATRIZ MELENDEZ VENANCIO",
     "schedules": [

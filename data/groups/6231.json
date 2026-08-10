@@ -2,20 +2,15 @@
   {
     "code": "6231",
     "group": "1",
-    "professor": "MAYRA LEON SANTIAGO",
+    "professor": "Grupo cancelado, contactar a la División.",
     "schedules": [
       {
         "time": "13:00-15:00",
         "days": [
           3
         ],
-        "classroom": "20"
+        "classroom": "0"
       }
-    ],
-    "professor_id": 176747,
-    "first_name": "Mayra",
-    "last_name": "León Santiago",
-    "rating": 9.25,
-    "num_ratings": 4
+    ]
   }
 ]

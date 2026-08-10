@@ -1,6 +1,53 @@
 [
   {
     "code": "6867",
+    "group": "4",
+    "professor": "DIANA KAREN PEREZ PEREZ",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          2
+        ],
+        "classroom": "30"
+      }
+    ]
+  },
+  {
+    "code": "6867",
+    "group": "6",
+    "professor": "DIANA KAREN PEREZ PEREZ",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          4
+        ],
+        "classroom": "30"
+      }
+    ]
+  },
+  {
+    "code": "6867",
+    "group": "9",
+    "professor": "YOVANNI ALVAREZ ULLOA",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          6
+        ],
+        "classroom": "35"
+      }
+    ],
+    "professor_id": 162200,
+    "first_name": "YOVANNI",
+    "last_name": "ALVAREZ ULLOA",
+    "rating": 9.2857,
+    "num_ratings": 21
+  },
+  {
+    "code": "6867",
     "group": "1",
     "professor": "ROSA ELENA LOBERA SANCHEZ",
     "schedules": [
@@ -58,20 +105,6 @@
   },
   {
     "code": "6867",
-    "group": "4",
-    "professor": "DIANA KAREN PEREZ PEREZ",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          2
-        ],
-        "classroom": "18"
-      }
-    ]
-  },
-  {
-    "code": "6867",
     "group": "5",
     "professor": "PEDRO IGNACIO RINCON GOMEZ",
     "schedules": [
@@ -88,20 +121,6 @@
     "last_name": "Rincon Gomez",
     "rating": 6.6,
     "num_ratings": 40
-  },
-  {
-    "code": "6867",
-    "group": "6",
-    "professor": "DIANA KAREN PEREZ PEREZ",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          4
-        ],
-        "classroom": "18"
-      }
-    ]
   },
   {
     "code": "6867",

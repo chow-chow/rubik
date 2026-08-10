@@ -1,20 +1,6 @@
 [
   {
     "code": "6598",
-    "group": "1",
-    "professor": "JOSE ANTONIO MACIAS GARCIA",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          1
-        ],
-        "classroom": "0"
-      }
-    ]
-  },
-  {
-    "code": "6598",
     "group": "2",
     "professor": "CINTIA QUEZADA REYES",
     "schedules": [
@@ -23,7 +9,7 @@
         "days": [
           2
         ],
-        "classroom": "18"
+        "classroom": "19"
       }
     ],
     "professor_id": 75919,
@@ -42,7 +28,7 @@
         "days": [
           2
         ],
-        "classroom": "18"
+        "classroom": "19"
       }
     ],
     "professor_id": 73106,
@@ -61,7 +47,7 @@
         "days": [
           3
         ],
-        "classroom": "18"
+        "classroom": "19"
       }
     ]
   },
@@ -75,7 +61,7 @@
         "days": [
           3
         ],
-        "classroom": "18"
+        "classroom": "19"
       }
     ]
   },
@@ -89,7 +75,7 @@
         "days": [
           3
         ],
-        "classroom": "18"
+        "classroom": "19"
       }
     ],
     "professor_id": 172881,
@@ -108,7 +94,7 @@
         "days": [
           4
         ],
-        "classroom": "18"
+        "classroom": "19"
       }
     ],
     "professor_id": 173568,
@@ -127,7 +113,7 @@
         "days": [
           4
         ],
-        "classroom": "18"
+        "classroom": "19"
       }
     ],
     "professor_id": 173568,
@@ -135,20 +121,6 @@
     "last_name": "Bautista González",
     "rating": 9.6,
     "num_ratings": 5
-  },
-  {
-    "code": "6598",
-    "group": "9",
-    "professor": "JOSE ANTONIO MACIAS GARCIA",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          5
-        ],
-        "classroom": "0"
-      }
-    ]
   },
   {
     "code": "6598",
@@ -160,7 +132,7 @@
         "days": [
           5
         ],
-        "classroom": "18"
+        "classroom": "19"
       }
     ],
     "professor_id": 173568,
@@ -179,7 +151,35 @@
         "days": [
           1
         ],
-        "classroom": "18"
+        "classroom": "19"
+      }
+    ]
+  },
+  {
+    "code": "6598",
+    "group": "1",
+    "professor": "JOSE ANTONIO MACIAS GARCIA",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1
+        ],
+        "classroom": "0"
+      }
+    ]
+  },
+  {
+    "code": "6598",
+    "group": "9",
+    "professor": "JOSE ANTONIO MACIAS GARCIA",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          5
+        ],
+        "classroom": "0"
       }
     ]
   }

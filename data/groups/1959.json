@@ -1,26 +1,6 @@
 [
   {
     "code": "1959",
-    "group": "4",
-    "professor": "CARMEN LUCIA BUSTILLO HERNANDEZ",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "40"
-      }
-    ],
-    "professor_id": 190196,
-    "first_name": "CARMEN LUCIA",
-    "last_name": "BUSTILLO HERNANDEZ",
-    "rating": 4.69,
-    "num_ratings": 13
-  },
-  {
-    "code": "1959",
     "group": "1",
     "professor": "JOSE ANTONIO AYALA BARBOSA",
     "schedules": [
@@ -30,7 +10,7 @@
           1,
           3
         ],
-        "classroom": "40"
+        "classroom": "42"
       }
     ],
     "professor_id": 110855,
@@ -49,7 +29,7 @@
         "days": [
           6
         ],
-        "classroom": "40"
+        "classroom": "43"
       }
     ]
   },
@@ -64,7 +44,7 @@
           1,
           5
         ],
-        "classroom": "40"
+        "classroom": "43"
       }
     ],
     "professor_id": 60935,
@@ -72,6 +52,26 @@
     "last_name": "Saenz García",
     "rating": 5.9048,
     "num_ratings": 63
+  },
+  {
+    "code": "1959",
+    "group": "4",
+    "professor": "CARMEN LUCIA BUSTILLO HERNANDEZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "43"
+      }
+    ],
+    "professor_id": 190196,
+    "first_name": "CARMEN LUCIA",
+    "last_name": "BUSTILLO HERNANDEZ",
+    "rating": 4.69,
+    "num_ratings": 13
   },
   {
     "code": "1959",
@@ -84,7 +84,7 @@
           2,
           4
         ],
-        "classroom": "40"
+        "classroom": "43"
       }
     ],
     "professor_id": 172879,

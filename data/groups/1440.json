@@ -10,7 +10,7 @@
           1,
           3
         ],
-        "classroom": "27"
+        "classroom": "23"
       }
     ],
     "professor_id": 64701,
@@ -18,25 +18,6 @@
     "last_name": "Canales García",
     "rating": 8.0513,
     "num_ratings": 39
-  },
-  {
-    "code": "1440",
-    "group": "3",
-    "professor": "ARNULFO SANCHEZ VALERIO",
-    "schedules": [
-      {
-        "time": "08:00-14:00",
-        "days": [
-          6
-        ],
-        "classroom": "27"
-      }
-    ],
-    "professor_id": 90860,
-    "first_name": "Arnulfo",
-    "last_name": "Sánchez Valerio",
-    "rating": 9.4091,
-    "num_ratings": 66
   },
   {
     "code": "1440",
@@ -58,5 +39,24 @@
     "last_name": "Sanchez Gonzalez",
     "rating": 9.1429,
     "num_ratings": 7
+  },
+  {
+    "code": "1440",
+    "group": "3",
+    "professor": "ARNULFO SANCHEZ VALERIO",
+    "schedules": [
+      {
+        "time": "08:00-14:00",
+        "days": [
+          6
+        ],
+        "classroom": "23"
+      }
+    ],
+    "professor_id": 90860,
+    "first_name": "Arnulfo",
+    "last_name": "Sánchez Valerio",
+    "rating": 9.4091,
+    "num_ratings": 66
   }
 ]

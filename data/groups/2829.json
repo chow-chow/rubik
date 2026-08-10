@@ -2,7 +2,7 @@
   {
     "code": "2829",
     "group": "1",
-    "professor": "GILBERTO FUENTES GARCIA",
+    "professor": "PROFESOR POR ASIGNAR",
     "schedules": [
       {
         "time": "11:30-13:00",
@@ -12,11 +12,6 @@
         ],
         "classroom": "20"
       }
-    ],
-    "professor_id": 186536,
-    "first_name": "Gilberto",
-    "last_name": "Fuentes García",
-    "rating": 5.0,
-    "num_ratings": 2
+    ]
   }
 ]

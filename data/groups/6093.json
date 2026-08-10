@@ -2,7 +2,7 @@
   {
     "code": "6093",
     "group": "1",
-    "professor": "JUAN JOSE LOPEZ SOLORZANO",
+    "professor": "EFREN HAZAEL RIVERA PEREZ",
     "schedules": [
       {
         "time": "15:00-17:00",
@@ -11,6 +11,11 @@
         ],
         "classroom": "10"
       }
-    ]
+    ],
+    "professor_id": 93875,
+    "first_name": "Efrén",
+    "last_name": "Pérez",
+    "rating": 6.0,
+    "num_ratings": 2
   }
 ]

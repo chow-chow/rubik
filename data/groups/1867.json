@@ -1,6 +1,25 @@
 [
   {
     "code": "1867",
+    "group": "6",
+    "professor": "CARLOS SAUCEDO MACIEL",
+    "schedules": [
+      {
+        "time": "10:00-13:00",
+        "days": [
+          6
+        ],
+        "classroom": "40"
+      }
+    ],
+    "professor_id": 99770,
+    "first_name": "Carlos",
+    "last_name": "Saucedo Maciel",
+    "rating": 8.05,
+    "num_ratings": 21
+  },
+  {
+    "code": "1867",
     "group": "1",
     "professor": "JOSE ANTONIO DE JESUS ARREDONDO GARZA",
     "schedules": [
@@ -16,8 +35,8 @@
     "professor_id": 83386,
     "first_name": "José Antonio de Jesus",
     "last_name": "Arredondo Garza",
-    "rating": 8.3333,
-    "num_ratings": 6
+    "rating": 7.5714,
+    "num_ratings": 7
   },
   {
     "code": "1867",

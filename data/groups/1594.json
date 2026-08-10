@@ -1,6 +1,46 @@
 [
   {
     "code": "1594",
+    "group": "1",
+    "professor": "FRANCISCO JAVIER MARTINEZ RODRIGUEZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "37"
+      }
+    ],
+    "professor_id": 99064,
+    "first_name": "Francisco Javier",
+    "last_name": "Martinez Rodriguez",
+    "rating": 5.0952,
+    "num_ratings": 42
+  },
+  {
+    "code": "1594",
+    "group": "2",
+    "professor": "FATIMA MOUMTADI",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "37"
+      }
+    ],
+    "professor_id": 60950,
+    "first_name": "Fátima",
+    "last_name": "Moumtadi",
+    "rating": 5.5741,
+    "num_ratings": 54
+  },
+  {
+    "code": "1594",
     "group": "3",
     "professor": "OSCAR JESUS RENDON GOMEZ",
     "schedules": [
@@ -21,46 +61,6 @@
   },
   {
     "code": "1594",
-    "group": "1",
-    "professor": "FRANCISCO JAVIER MARTINEZ RODRIGUEZ",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "35"
-      }
-    ],
-    "professor_id": 99064,
-    "first_name": "Francisco Javier",
-    "last_name": "Martinez Rodriguez",
-    "rating": 5.0952,
-    "num_ratings": 42
-  },
-  {
-    "code": "1594",
-    "group": "2",
-    "professor": "FATIMA MOUMTADI",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "35"
-      }
-    ],
-    "professor_id": 60950,
-    "first_name": "Fátima",
-    "last_name": "Moumtadi",
-    "rating": 5.5741,
-    "num_ratings": 54
-  },
-  {
-    "code": "1594",
     "group": "4",
     "professor": "HERIBERTO DE JESUS AGUILAR JUAREZ",
     "schedules": [
@@ -70,7 +70,7 @@
           3,
           5
         ],
-        "classroom": "35"
+        "classroom": "37"
       }
     ],
     "professor_id": 78508,

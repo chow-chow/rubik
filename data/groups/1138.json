@@ -1,21 +1,6 @@
 [
   {
     "code": "1138",
-    "group": "5",
-    "professor": "MAURICIO ALBERTO ORTEGA RUIZ",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          3,
-          5
-        ],
-        "classroom": "6"
-      }
-    ]
-  },
-  {
-    "code": "1138",
     "group": "1",
     "professor": "VALENTINA LUISA SOUZA RODRIGUEZ",
     "schedules": [
@@ -25,7 +10,7 @@
           1,
           3
         ],
-        "classroom": "6"
+        "classroom": "7"
       }
     ],
     "professor_id": 134945,
@@ -45,7 +30,7 @@
           2,
           4
         ],
-        "classroom": "6"
+        "classroom": "7"
       }
     ],
     "professor_id": 82975,
@@ -64,6 +49,21 @@
         "days": [
           2,
           4
+        ],
+        "classroom": "7"
+      }
+    ]
+  },
+  {
+    "code": "1138",
+    "group": "5",
+    "professor": "MAURICIO ALBERTO ORTEGA RUIZ",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          3,
+          5
         ],
         "classroom": "6"
       }

@@ -1,6 +1,96 @@
 [
   {
     "code": "6618",
+    "group": "1",
+    "professor": "JUAN CARLOS ROA BEIZA",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1
+        ],
+        "classroom": "21"
+      }
+    ],
+    "professor_id": 21291,
+    "first_name": "juan carlos",
+    "last_name": "roa beiza",
+    "rating": 6.3824,
+    "num_ratings": 68
+  },
+  {
+    "code": "6618",
+    "group": "2",
+    "professor": "SALVADOR EMILIO SIERRA BENAVIDEZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2
+        ],
+        "classroom": "21"
+      }
+    ]
+  },
+  {
+    "code": "6618",
+    "group": "3",
+    "professor": "JAVIER LOPEZ VELAZQUEZ",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          2
+        ],
+        "classroom": "21"
+      }
+    ],
+    "professor_id": 94353,
+    "first_name": "JAVIER",
+    "last_name": "LOPEZ VELAZQUEZ",
+    "rating": 3.75,
+    "num_ratings": 12
+  },
+  {
+    "code": "6618",
+    "group": "4",
+    "professor": "FRANCISCO JAVIER MARTINEZ RODRIGUEZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          3
+        ],
+        "classroom": "21"
+      }
+    ],
+    "professor_id": 99064,
+    "first_name": "Francisco Javier",
+    "last_name": "Martinez Rodriguez",
+    "rating": 5.0952,
+    "num_ratings": 42
+  },
+  {
+    "code": "6618",
+    "group": "5",
+    "professor": "DOMINGO TEODORO MENDOZA ROSALES",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          3
+        ],
+        "classroom": "21"
+      }
+    ],
+    "professor_id": 71346,
+    "first_name": "Domingo Teodoro",
+    "last_name": "Mendoza Rosales",
+    "rating": 6.9565,
+    "num_ratings": 69
+  },
+  {
+    "code": "6618",
     "group": "6",
     "professor": "JAVIER LOPEZ VELAZQUEZ",
     "schedules": [
@@ -20,96 +110,6 @@
   },
   {
     "code": "6618",
-    "group": "1",
-    "professor": "JUAN CARLOS ROA BEIZA",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          1
-        ],
-        "classroom": "20"
-      }
-    ],
-    "professor_id": 21291,
-    "first_name": "juan carlos",
-    "last_name": "roa beiza",
-    "rating": 6.3824,
-    "num_ratings": 68
-  },
-  {
-    "code": "6618",
-    "group": "2",
-    "professor": "SALVADOR EMILIO SIERRA BENAVIDEZ",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          2
-        ],
-        "classroom": "20"
-      }
-    ]
-  },
-  {
-    "code": "6618",
-    "group": "3",
-    "professor": "JAVIER LOPEZ VELAZQUEZ",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          2
-        ],
-        "classroom": "20"
-      }
-    ],
-    "professor_id": 94353,
-    "first_name": "JAVIER",
-    "last_name": "LOPEZ VELAZQUEZ",
-    "rating": 3.75,
-    "num_ratings": 12
-  },
-  {
-    "code": "6618",
-    "group": "4",
-    "professor": "FRANCISCO JAVIER MARTINEZ RODRIGUEZ",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          3
-        ],
-        "classroom": "20"
-      }
-    ],
-    "professor_id": 99064,
-    "first_name": "Francisco Javier",
-    "last_name": "Martinez Rodriguez",
-    "rating": 5.0952,
-    "num_ratings": 42
-  },
-  {
-    "code": "6618",
-    "group": "5",
-    "professor": "DOMINGO TEODORO MENDOZA ROSALES",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          3
-        ],
-        "classroom": "20"
-      }
-    ],
-    "professor_id": 71346,
-    "first_name": "Domingo Teodoro",
-    "last_name": "Mendoza Rosales",
-    "rating": 6.9565,
-    "num_ratings": 69
-  },
-  {
-    "code": "6618",
     "group": "7",
     "professor": "JOSE RODELMAR OCAMPO SANTILLAN",
     "schedules": [
@@ -118,7 +118,7 @@
         "days": [
           5
         ],
-        "classroom": "20"
+        "classroom": "21"
       }
     ],
     "professor_id": 124065,
@@ -137,7 +137,7 @@
         "days": [
           5
         ],
-        "classroom": "20"
+        "classroom": "21"
       }
     ],
     "professor_id": 80201,

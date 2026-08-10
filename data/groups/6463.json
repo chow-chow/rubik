@@ -20,6 +20,25 @@
   },
   {
     "code": "6463",
+    "group": "3",
+    "professor": "JUAN MANUEL VELASCO MIRANDA",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          4
+        ],
+        "classroom": "14"
+      }
+    ],
+    "professor_id": 95190,
+    "first_name": "Juan Manuel",
+    "last_name": "Velasco Miranda",
+    "rating": 8.8333,
+    "num_ratings": 12
+  },
+  {
+    "code": "6463",
     "group": "2",
     "professor": "JUAN MANUEL VELASCO MIRANDA",
     "schedules": [

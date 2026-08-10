@@ -9,21 +9,7 @@
         "days": [
           1
         ],
-        "classroom": "10"
-      }
-    ]
-  },
-  {
-    "code": "7909",
-    "group": "4",
-    "professor": "LUIS ALBERTO CANALES MEZA",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          5
-        ],
-        "classroom": "10"
+        "classroom": "12"
       }
     ]
   },
@@ -37,7 +23,7 @@
         "days": [
           2
         ],
-        "classroom": "10"
+        "classroom": "12"
       }
     ],
     "professor_id": 159593,
@@ -56,7 +42,21 @@
         "days": [
           3
         ],
-        "classroom": "10"
+        "classroom": "12"
+      }
+    ]
+  },
+  {
+    "code": "7909",
+    "group": "4",
+    "professor": "LUIS ALBERTO CANALES MEZA",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          5
+        ],
+        "classroom": "12"
       }
     ]
   }

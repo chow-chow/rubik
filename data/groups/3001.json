@@ -2,21 +2,21 @@
   {
     "code": "3001",
     "group": "1",
-    "professor": "JUAN MANUEL GOMEZ GONZALEZ",
+    "professor": "VICTOR RANGEL LICEA",
     "schedules": [
       {
-        "time": "11:00-12:30",
+        "time": "15:00-16:30",
         "days": [
           2,
           4
         ],
-        "classroom": "Q003"
+        "classroom": "1"
       }
     ],
-    "professor_id": 155677,
-    "first_name": "Juan Manuel",
-    "last_name": "Gómez González",
-    "rating": 7.6364,
-    "num_ratings": 11
+    "professor_id": 75591,
+    "first_name": "VICTOR",
+    "last_name": "RANGEL LICEA",
+    "rating": 5.3333,
+    "num_ratings": 3
   }
 ]

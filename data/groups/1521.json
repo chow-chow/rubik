@@ -10,9 +10,29 @@
           3,
           5
         ],
-        "classroom": "30"
+        "classroom": "35"
       }
     ]
+  },
+  {
+    "code": "1521",
+    "group": "3",
+    "professor": "RUBEN AVILA RODRIGUEZ",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "35"
+      }
+    ],
+    "professor_id": 74732,
+    "first_name": "Rubén",
+    "last_name": "Ávila Rodríguez",
+    "rating": 6.2414,
+    "num_ratings": 29
   },
   {
     "code": "1521",
@@ -33,26 +53,6 @@
     "last_name": "Ortiz Valera",
     "rating": 6.6053,
     "num_ratings": 38
-  },
-  {
-    "code": "1521",
-    "group": "3",
-    "professor": "RUBEN AVILA RODRIGUEZ",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "30"
-      }
-    ],
-    "professor_id": 74732,
-    "first_name": "Rubén",
-    "last_name": "Ávila Rodríguez",
-    "rating": 6.2414,
-    "num_ratings": 29
   },
   {
     "code": "1521",

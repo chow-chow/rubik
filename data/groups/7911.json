@@ -16,7 +16,7 @@
   {
     "code": "7911",
     "group": "1",
-    "professor": "ULISES ARTURO PEREZ VENTURA",
+    "professor": "JULIO CESAR FLORES DIAZ",
     "schedules": [
       {
         "time": "13:00-15:00",
@@ -25,17 +25,12 @@
         ],
         "classroom": "12"
       }
-    ],
-    "professor_id": 94779,
-    "first_name": "Ulises Arturo",
-    "last_name": "Perez Ventura",
-    "rating": 10.0,
-    "num_ratings": 2
+    ]
   },
   {
     "code": "7911",
     "group": "3",
-    "professor": "AGUSTIN SANCHEZ CONTRERAS",
+    "professor": "PROFESOR POR ASIGNAR",
     "schedules": [
       {
         "time": "09:00-11:00",

@@ -1,21 +1,6 @@
 [
   {
     "code": "2304",
-    "group": "1",
-    "professor": "SERGIY KHOTYAINTSEV",
-    "schedules": [
-      {
-        "time": "15:00-16:30",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "5"
-      }
-    ]
-  },
-  {
-    "code": "2304",
     "group": "2",
     "professor": "JUVENTINO CUELLAR GONZALEZ",
     "schedules": [

@@ -1,6 +1,63 @@
 [
   {
     "code": "6723",
+    "group": "2",
+    "professor": "FRANCISCO JAVIER MARTINEZ RODRIGUEZ",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2
+        ],
+        "classroom": "21"
+      }
+    ],
+    "professor_id": 99064,
+    "first_name": "Francisco Javier",
+    "last_name": "Martinez Rodriguez",
+    "rating": 5.0952,
+    "num_ratings": 42
+  },
+  {
+    "code": "6723",
+    "group": "3",
+    "professor": "DOMINGO TEODORO MENDOZA ROSALES",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          3
+        ],
+        "classroom": "21"
+      }
+    ],
+    "professor_id": 71346,
+    "first_name": "Domingo Teodoro",
+    "last_name": "Mendoza Rosales",
+    "rating": 6.9565,
+    "num_ratings": 69
+  },
+  {
+    "code": "6723",
+    "group": "4",
+    "professor": "ISMAEL ROMERO OCARANZA",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          4
+        ],
+        "classroom": "21"
+      }
+    ],
+    "professor_id": 89949,
+    "first_name": "ISMAEL",
+    "last_name": "ROMERO OCARANZA",
+    "rating": 6.2667,
+    "num_ratings": 30
+  },
+  {
+    "code": "6723",
     "group": "5",
     "professor": "JUAN CARLOS ROA BEIZA",
     "schedules": [
@@ -10,6 +67,25 @@
           5
         ],
         "classroom": "20"
+      }
+    ],
+    "professor_id": 21291,
+    "first_name": "juan carlos",
+    "last_name": "roa beiza",
+    "rating": 6.3824,
+    "num_ratings": 68
+  },
+  {
+    "code": "6723",
+    "group": "6",
+    "professor": "JUAN CARLOS ROA BEIZA",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          5
+        ],
+        "classroom": "21"
       }
     ],
     "professor_id": 21291,
@@ -36,81 +112,5 @@
     "last_name": "Mendoza Rosales",
     "rating": 6.9565,
     "num_ratings": 69
-  },
-  {
-    "code": "6723",
-    "group": "2",
-    "professor": "FRANCISCO JAVIER MARTINEZ RODRIGUEZ",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          2
-        ],
-        "classroom": "20"
-      }
-    ],
-    "professor_id": 99064,
-    "first_name": "Francisco Javier",
-    "last_name": "Martinez Rodriguez",
-    "rating": 5.0952,
-    "num_ratings": 42
-  },
-  {
-    "code": "6723",
-    "group": "3",
-    "professor": "DOMINGO TEODORO MENDOZA ROSALES",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          3
-        ],
-        "classroom": "20"
-      }
-    ],
-    "professor_id": 71346,
-    "first_name": "Domingo Teodoro",
-    "last_name": "Mendoza Rosales",
-    "rating": 6.9565,
-    "num_ratings": 69
-  },
-  {
-    "code": "6723",
-    "group": "4",
-    "professor": "ISMAEL ROMERO OCARANZA",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          4
-        ],
-        "classroom": "20"
-      }
-    ],
-    "professor_id": 89949,
-    "first_name": "ISMAEL",
-    "last_name": "ROMERO OCARANZA",
-    "rating": 6.2667,
-    "num_ratings": 30
-  },
-  {
-    "code": "6723",
-    "group": "6",
-    "professor": "JUAN CARLOS ROA BEIZA",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          5
-        ],
-        "classroom": "20"
-      }
-    ],
-    "professor_id": 21291,
-    "first_name": "juan carlos",
-    "last_name": "roa beiza",
-    "rating": 6.3824,
-    "num_ratings": 68
   }
 ]

@@ -1,20 +1,6 @@
 [
   {
     "code": "6998",
-    "group": "10",
-    "professor": "JOHAN RACIEL GRANADOS VILLEDA",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          2
-        ],
-        "classroom": "9"
-      }
-    ]
-  },
-  {
-    "code": "6998",
     "group": "1",
     "professor": "ALEJANDRO BAEZ MUÑOZ",
     "schedules": [
@@ -23,7 +9,7 @@
         "days": [
           5
         ],
-        "classroom": "9"
+        "classroom": "10"
       }
     ],
     "professor_id": 118946,
@@ -42,7 +28,7 @@
         "days": [
           1
         ],
-        "classroom": "9"
+        "classroom": "11"
       }
     ],
     "professor_id": 109197,
@@ -61,7 +47,7 @@
         "days": [
           2
         ],
-        "classroom": "9"
+        "classroom": "10"
       }
     ]
   },
@@ -75,7 +61,7 @@
         "days": [
           3
         ],
-        "classroom": "9"
+        "classroom": "11"
       }
     ],
     "professor_id": 99549,
@@ -94,7 +80,7 @@
         "days": [
           4
         ],
-        "classroom": "9"
+        "classroom": "11"
       }
     ],
     "professor_id": 99548,
@@ -113,7 +99,7 @@
         "days": [
           4
         ],
-        "classroom": "9"
+        "classroom": "10"
       }
     ],
     "professor_id": 99548,
@@ -132,7 +118,7 @@
         "days": [
           4
         ],
-        "classroom": "9"
+        "classroom": "10"
       }
     ],
     "professor_id": 99548,
@@ -151,7 +137,7 @@
         "days": [
           5
         ],
-        "classroom": "9"
+        "classroom": "11"
       }
     ],
     "professor_id": 99549,
@@ -159,6 +145,20 @@
     "last_name": "Urzua Rosas",
     "rating": 9.0909,
     "num_ratings": 11
+  },
+  {
+    "code": "6998",
+    "group": "10",
+    "professor": "JOHAN RACIEL GRANADOS VILLEDA",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2
+        ],
+        "classroom": "10"
+      }
+    ]
   },
   {
     "code": "6998",
@@ -170,7 +170,7 @@
         "days": [
           2
         ],
-        "classroom": "9"
+        "classroom": "11"
       }
     ],
     "professor_id": 172325,

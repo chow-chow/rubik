@@ -78,7 +78,7 @@
   {
     "code": "6443",
     "group": "12",
-    "professor": "ISRAEL RIVERA CONTRERAS",
+    "professor": "MIREYA OSORIO PALACIOS",
     "schedules": [
       {
         "time": "11:00-13:00",
@@ -120,7 +120,7 @@
   {
     "code": "6443",
     "group": "3",
-    "professor": "MIREYA OSORIO PALACIOS",
+    "professor": "MARIA LEONOR SALCEDO UBILLA",
     "schedules": [
       {
         "time": "13:00-15:00",
@@ -129,7 +129,12 @@
         ],
         "classroom": "10"
       }
-    ]
+    ],
+    "professor_id": 161143,
+    "first_name": "Maria Leonor",
+    "last_name": "Salcedo Ubilla",
+    "rating": 8.2,
+    "num_ratings": 5
   },
   {
     "code": "6443",
@@ -172,10 +177,24 @@
   {
     "code": "6443",
     "group": "7",
-    "professor": "MARIA LEONOR SALCEDO UBILLA",
+    "professor": "ISRAEL RIVERA CONTRERAS",
     "schedules": [
       {
         "time": "09:00-11:00",
+        "days": [
+          3
+        ],
+        "classroom": "10"
+      }
+    ]
+  },
+  {
+    "code": "6443",
+    "group": "8",
+    "professor": "MARIA LEONOR SALCEDO UBILLA",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
         "days": [
           3
         ],
@@ -187,20 +206,6 @@
     "last_name": "Salcedo Ubilla",
     "rating": 8.2,
     "num_ratings": 5
-  },
-  {
-    "code": "6443",
-    "group": "8",
-    "professor": "MIREYA OSORIO PALACIOS",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          3
-        ],
-        "classroom": "10"
-      }
-    ]
   },
   {
     "code": "6443",
