@@ -11,7 +11,7 @@
           3,
           5
         ],
-        "classroom": "25"
+        "classroom": "B402"
       }
     ],
     "professor_id": 125194,
@@ -32,7 +32,7 @@
           3,
           5
         ],
-        "classroom": "25"
+        "classroom": "Y205"
       }
     ],
     "professor_id": 79463,
@@ -53,7 +53,7 @@
           3,
           5
         ],
-        "classroom": "25"
+        "classroom": "A309"
       }
     ]
   },
@@ -69,7 +69,7 @@
           3,
           5
         ],
-        "classroom": "25"
+        "classroom": "A209"
       }
     ],
     "professor_id": 142326,
@@ -89,7 +89,7 @@
           2,
           4
         ],
-        "classroom": "25"
+        "classroom": "A207"
       }
     ],
     "professor_id": 125194,
@@ -109,7 +109,7 @@
           2,
           4
         ],
-        "classroom": "25"
+        "classroom": "Y205"
       }
     ],
     "professor_id": 79463,
@@ -121,7 +121,7 @@
   {
     "code": "1506",
     "group": "9",
-    "professor": "JL JIMENEZ MENDOZA",
+    "professor": "JOSE LUIS JIMENEZ MENDOZA",
     "schedules": [
       {
         "time": "11:30-13:45",
@@ -129,7 +129,7 @@
           2,
           4
         ],
-        "classroom": "25"
+        "classroom": "A304"
       }
     ]
   },
@@ -144,7 +144,7 @@
           2,
           4
         ],
-        "classroom": "25"
+        "classroom": "A309"
       }
     ],
     "professor_id": 153358,
@@ -156,7 +156,7 @@
   {
     "code": "1506",
     "group": "11",
-    "professor": "JL JIMENEZ MENDOZA",
+    "professor": "JOSE LUIS JIMENEZ MENDOZA",
     "schedules": [
       {
         "time": "16:00-18:15",
@@ -164,7 +164,7 @@
           2,
           4
         ],
-        "classroom": "25"
+        "classroom": "A212"
       }
     ]
   },
@@ -180,7 +180,7 @@
           3,
           5
         ],
-        "classroom": "20"
+        "classroom": "A208"
       }
     ]
   },
@@ -196,7 +196,7 @@
           3,
           5
         ],
-        "classroom": "25"
+        "classroom": "A309"
       }
     ]
   }

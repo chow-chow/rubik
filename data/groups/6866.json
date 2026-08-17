@@ -1,6 +1,20 @@
 [
   {
     "code": "6866",
+    "group": "1",
+    "professor": "PATRICIA NALLELY GOMEZ FLORES",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1
+        ],
+        "classroom": "Q208"
+      }
+    ]
+  },
+  {
+    "code": "6866",
     "group": "2",
     "professor": "SANDRA PLATA VELAZQUEZ",
     "schedules": [
@@ -9,7 +23,7 @@
         "days": [
           1
         ],
-        "classroom": "18"
+        "classroom": "Q208"
       }
     ],
     "professor_id": 181395,
@@ -28,21 +42,7 @@
         "days": [
           3
         ],
-        "classroom": "18"
-      }
-    ]
-  },
-  {
-    "code": "6866",
-    "group": "1",
-    "professor": "PATRICIA NALLELY GOMEZ FLORES",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          1
-        ],
-        "classroom": "18"
+        "classroom": "Q208"
       }
     ]
   }

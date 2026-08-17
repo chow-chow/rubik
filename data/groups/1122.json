@@ -10,7 +10,14 @@
           1,
           5
         ],
-        "classroom": "30"
+        "classroom": "Y001"
+      },
+      {
+        "time": "07:00-09:00",
+        "days": [
+          3
+        ],
+        "classroom": "Q007"
       }
     ]
   },
@@ -25,7 +32,14 @@
           3,
           4
         ],
-        "classroom": "30"
+        "classroom": "SIN"
+      },
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2
+        ],
+        "classroom": "SIN"
       }
     ],
     "professor_id": 75090,
@@ -45,7 +59,14 @@
           2,
           3
         ],
-        "classroom": "30"
+        "classroom": "Y002"
+      },
+      {
+        "time": "07:00-09:00",
+        "days": [
+          4
+        ],
+        "classroom": "Q007"
       }
     ],
     "professor_id": 49563,
@@ -65,7 +86,14 @@
           1,
           3
         ],
-        "classroom": "30"
+        "classroom": "A301"
+      },
+      {
+        "time": "09:00-11:00",
+        "days": [
+          5
+        ],
+        "classroom": "Q007"
       }
     ],
     "professor_id": 75919,
@@ -85,7 +113,14 @@
           2,
           5
         ],
-        "classroom": "30"
+        "classroom": "B404"
+      },
+      {
+        "time": "13:00-15:00",
+        "days": [
+          4
+        ],
+        "classroom": "P003"
       }
     ]
   },
@@ -100,7 +135,14 @@
           1,
           5
         ],
-        "classroom": "30"
+        "classroom": "Y002"
+      },
+      {
+        "time": "15:00-17:00",
+        "days": [
+          3
+        ],
+        "classroom": "P003"
       }
     ],
     "professor_id": 58750,
@@ -120,7 +162,14 @@
           1,
           3
         ],
-        "classroom": "30"
+        "classroom": "SIN"
+      },
+      {
+        "time": "15:00-17:00",
+        "days": [
+          5
+        ],
+        "classroom": "SIN"
       }
     ],
     "professor_id": 42046,
@@ -140,7 +189,14 @@
           1,
           3
         ],
-        "classroom": "30"
+        "classroom": "SIN"
+      },
+      {
+        "time": "17:00-19:00",
+        "days": [
+          4
+        ],
+        "classroom": "SIN"
       }
     ],
     "professor_id": 114087,
@@ -160,7 +216,14 @@
           2,
           4
         ],
-        "classroom": "30"
+        "classroom": "SIN"
+      },
+      {
+        "time": "19:00-21:00",
+        "days": [
+          3
+        ],
+        "classroom": "SIN"
       }
     ],
     "professor_id": 56349,

@@ -10,7 +10,15 @@
           2,
           4
         ],
-        "classroom": "15"
+        "classroom": "D006"
+      },
+      {
+        "time": "18:00-19:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "D006"
       }
     ]
   },
@@ -25,7 +33,15 @@
           3,
           5
         ],
-        "classroom": "15"
+        "classroom": "SIN"
+      },
+      {
+        "time": "19:00-20:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "SIN"
       }
     ]
   }

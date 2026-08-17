@@ -1,120 +1,6 @@
 [
   {
     "code": "1052",
-    "group": "3",
-    "professor": "ENRIQUE OCTAVIO DIAZ CERON",
-    "schedules": [
-      {
-        "time": "09:00-13:00",
-        "days": [
-          5
-        ],
-        "classroom": "37"
-      }
-    ],
-    "professor_id": 105051,
-    "first_name": "Enrique Octavio",
-    "last_name": "Diaz Ceron",
-    "rating": 5.6667,
-    "num_ratings": 9
-  },
-  {
-    "code": "1052",
-    "group": "5",
-    "professor": "MARTHA MANCILLA URREA",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "37"
-      }
-    ],
-    "professor_id": 98619,
-    "first_name": "Martha",
-    "last_name": "Mancilla Urrea",
-    "rating": 4.9444,
-    "num_ratings": 18
-  },
-  {
-    "code": "1052",
-    "group": "6",
-    "professor": "ALDO FERNANDO TRUJILLO PRIEGO",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "37"
-      }
-    ],
-    "professor_id": 98613,
-    "first_name": "Aldo Fernando",
-    "last_name": "Priego Trujillo",
-    "rating": 5.5,
-    "num_ratings": 10
-  },
-  {
-    "code": "1052",
-    "group": "10",
-    "professor": "MARTHA MANCILLA URREA",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "37"
-      }
-    ],
-    "professor_id": 98619,
-    "first_name": "Martha",
-    "last_name": "Mancilla Urrea",
-    "rating": 4.9444,
-    "num_ratings": 18
-  },
-  {
-    "code": "1052",
-    "group": "21",
-    "professor": "ANGELA RENATA GOMEZ GONZALEZ",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          3,
-          5
-        ],
-        "classroom": "37"
-      }
-    ],
-    "professor_id": 99011,
-    "first_name": "Angela Renata",
-    "last_name": "Gomez Gonzalez",
-    "rating": 6.5769,
-    "num_ratings": 26
-  },
-  {
-    "code": "1052",
-    "group": "25",
-    "professor": "MARIA DE LA LUZ GONZALEZ COVARRUBIAS",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "37"
-      }
-    ]
-  },
-  {
-    "code": "1052",
     "group": "1",
     "professor": "OLINCA SUAREZ MEJIA",
     "schedules": [
@@ -123,7 +9,7 @@
         "days": [
           6
         ],
-        "classroom": "37"
+        "classroom": "A103"
       }
     ],
     "professor_id": 67067,
@@ -143,9 +29,28 @@
           2,
           4
         ],
-        "classroom": "37"
+        "classroom": "A105"
       }
     ]
+  },
+  {
+    "code": "1052",
+    "group": "3",
+    "professor": "ENRIQUE OCTAVIO DIAZ CERON",
+    "schedules": [
+      {
+        "time": "09:00-13:00",
+        "days": [
+          5
+        ],
+        "classroom": "A202"
+      }
+    ],
+    "professor_id": 105051,
+    "first_name": "Enrique Octavio",
+    "last_name": "Diaz Ceron",
+    "rating": 5.6667,
+    "num_ratings": 9
   },
   {
     "code": "1052",
@@ -158,9 +63,49 @@
           3,
           5
         ],
-        "classroom": "37"
+        "classroom": "A102"
       }
     ]
+  },
+  {
+    "code": "1052",
+    "group": "5",
+    "professor": "MARTHA MANCILLA URREA",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "A104"
+      }
+    ],
+    "professor_id": 98619,
+    "first_name": "Martha",
+    "last_name": "Mancilla Urrea",
+    "rating": 4.8421,
+    "num_ratings": 19
+  },
+  {
+    "code": "1052",
+    "group": "6",
+    "professor": "ALDO FERNANDO TRUJILLO PRIEGO",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "A202"
+      }
+    ],
+    "professor_id": 98613,
+    "first_name": "Aldo Fernando",
+    "last_name": "Priego Trujillo",
+    "rating": 5.5,
+    "num_ratings": 10
   },
   {
     "code": "1052",
@@ -173,7 +118,7 @@
           2,
           4
         ],
-        "classroom": "37"
+        "classroom": "A103"
       }
     ],
     "professor_id": 36978,
@@ -193,7 +138,7 @@
           3,
           5
         ],
-        "classroom": "37"
+        "classroom": "A103"
       }
     ],
     "professor_id": 99011,
@@ -213,7 +158,7 @@
           1,
           3
         ],
-        "classroom": "37"
+        "classroom": "A202"
       }
     ],
     "professor_id": 71332,
@@ -221,6 +166,26 @@
     "last_name": "Álvarez Carrillo",
     "rating": 8.5833,
     "num_ratings": 48
+  },
+  {
+    "code": "1052",
+    "group": "10",
+    "professor": "MARTHA MANCILLA URREA",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "A104"
+      }
+    ],
+    "professor_id": 98619,
+    "first_name": "Martha",
+    "last_name": "Mancilla Urrea",
+    "rating": 4.8421,
+    "num_ratings": 19
   },
   {
     "code": "1052",
@@ -233,7 +198,7 @@
           1,
           5
         ],
-        "classroom": "37"
+        "classroom": "A105"
       }
     ]
   },
@@ -248,7 +213,7 @@
           2,
           4
         ],
-        "classroom": "37"
+        "classroom": "A108"
       }
     ],
     "professor_id": 98613,
@@ -267,7 +232,7 @@
         "days": [
           5
         ],
-        "classroom": "37"
+        "classroom": "A202"
       }
     ],
     "professor_id": 67067,
@@ -287,7 +252,7 @@
           2,
           4
         ],
-        "classroom": "37"
+        "classroom": "A104"
       }
     ],
     "professor_id": 171569,
@@ -306,7 +271,7 @@
         "days": [
           5
         ],
-        "classroom": "37"
+        "classroom": "B203"
       }
     ],
     "professor_id": 182424,
@@ -326,7 +291,7 @@
           3,
           5
         ],
-        "classroom": "37"
+        "classroom": "A103"
       }
     ],
     "professor_id": 99011,
@@ -346,7 +311,7 @@
           1,
           3
         ],
-        "classroom": "37"
+        "classroom": "A102"
       }
     ],
     "professor_id": 62947,
@@ -366,7 +331,7 @@
           1,
           3
         ],
-        "classroom": "37"
+        "classroom": "A105"
       }
     ]
   },
@@ -381,7 +346,7 @@
           2,
           4
         ],
-        "classroom": "37"
+        "classroom": "A104"
       }
     ],
     "professor_id": 171569,
@@ -401,7 +366,7 @@
           2,
           4
         ],
-        "classroom": "37"
+        "classroom": "A202"
       }
     ],
     "professor_id": 67067,
@@ -409,6 +374,26 @@
     "last_name": "Suárez Mejía",
     "rating": 7.5227,
     "num_ratings": 44
+  },
+  {
+    "code": "1052",
+    "group": "21",
+    "professor": "ANGELA RENATA GOMEZ GONZALEZ",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "A202"
+      }
+    ],
+    "professor_id": 99011,
+    "first_name": "Angela Renata",
+    "last_name": "Gomez Gonzalez",
+    "rating": 6.5769,
+    "num_ratings": 26
   },
   {
     "code": "1052",
@@ -421,7 +406,7 @@
           1,
           3
         ],
-        "classroom": "37"
+        "classroom": "B203"
       }
     ]
   },
@@ -436,7 +421,7 @@
           2,
           4
         ],
-        "classroom": "37"
+        "classroom": "A102"
       }
     ],
     "professor_id": 149430,
@@ -456,7 +441,7 @@
           2,
           4
         ],
-        "classroom": "37"
+        "classroom": "B203"
       }
     ],
     "professor_id": 90265,
@@ -464,6 +449,21 @@
     "last_name": "Cruz",
     "rating": 9.3415,
     "num_ratings": 41
+  },
+  {
+    "code": "1052",
+    "group": "25",
+    "professor": "MARIA DE LA LUZ GONZALEZ COVARRUBIAS",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "A103"
+      }
+    ]
   },
   {
     "code": "1052",
@@ -476,7 +476,7 @@
           3,
           5
         ],
-        "classroom": "37"
+        "classroom": "A202"
       }
     ]
   }

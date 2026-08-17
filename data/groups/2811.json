@@ -7,9 +7,16 @@
       {
         "time": "07:00-08:30",
         "days": [
+          2
+        ],
+        "classroom": "Y102"
+      },
+      {
+        "time": "07:00-08:30",
+        "days": [
           5
         ],
-        "classroom": "30"
+        "classroom": "B105"
       }
     ]
   },
@@ -23,7 +30,7 @@
         "days": [
           3
         ],
-        "classroom": "30"
+        "classroom": "EXTR"
       }
     ]
   }

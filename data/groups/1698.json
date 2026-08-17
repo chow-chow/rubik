@@ -10,7 +10,14 @@
           1,
           5
         ],
-        "classroom": "10"
+        "classroom": "O102"
+      },
+      {
+        "time": "09:00-11:00",
+        "days": [
+          3
+        ],
+        "classroom": "X101"
       }
     ]
   },
@@ -26,7 +33,7 @@
           3,
           5
         ],
-        "classroom": "10"
+        "classroom": "X101"
       }
     ]
   }

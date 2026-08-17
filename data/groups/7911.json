@@ -9,7 +9,7 @@
         "days": [
           2
         ],
-        "classroom": "12"
+        "classroom": "P113"
       }
     ]
   },
@@ -23,21 +23,21 @@
         "days": [
           1
         ],
-        "classroom": "12"
+        "classroom": "P113"
       }
     ]
   },
   {
     "code": "7911",
     "group": "3",
-    "professor": "PROFESOR POR ASIGNAR",
+    "professor": "JOSE SANTIAGO PEREZ RIZADA",
     "schedules": [
       {
         "time": "09:00-11:00",
         "days": [
           5
         ],
-        "classroom": "12"
+        "classroom": "P113"
       }
     ]
   }

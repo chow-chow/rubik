@@ -9,7 +9,7 @@
         "days": [
           5
         ],
-        "classroom": "35"
+        "classroom": "D001"
       }
     ],
     "professor_id": 109075,
@@ -28,7 +28,7 @@
         "days": [
           4
         ],
-        "classroom": "35"
+        "classroom": "B301"
       }
     ],
     "professor_id": 90646,
@@ -40,21 +40,21 @@
   {
     "code": "1225",
     "group": "12",
-    "professor": "OSVALDO RUIZ CERVANTES",
+    "professor": "PABLO EDUARDO LIRA VELAZQUEZ",
     "schedules": [
       {
         "time": "17:00-19:00",
         "days": [
           2
         ],
-        "classroom": "35"
+        "classroom": "EXTR"
       }
     ],
-    "professor_id": 90646,
-    "first_name": "Osvaldo",
-    "last_name": "Ruiz Cervantes",
-    "rating": 5.381,
-    "num_ratings": 21
+    "professor_id": 190647,
+    "first_name": "Pablo Eduardo",
+    "last_name": "Lira Velazquez",
+    "rating": 7.38,
+    "num_ratings": 16
   },
   {
     "code": "1225",
@@ -66,7 +66,7 @@
         "days": [
           2
         ],
-        "classroom": "35"
+        "classroom": "B302"
       }
     ],
     "professor_id": 113002,
@@ -85,7 +85,7 @@
         "days": [
           2
         ],
-        "classroom": "35"
+        "classroom": "D001"
       }
     ],
     "professor_id": 84383,
@@ -104,14 +104,14 @@
         "days": [
           1
         ],
-        "classroom": "35"
+        "classroom": "A311"
       }
     ],
     "professor_id": 87021,
     "first_name": "Jose Javier",
     "last_name": "Cervantes Cabello",
-    "rating": 5.2143,
-    "num_ratings": 28
+    "rating": 5.2069,
+    "num_ratings": 29
   },
   {
     "code": "1225",
@@ -123,14 +123,14 @@
         "days": [
           1
         ],
-        "classroom": "35"
+        "classroom": "B202"
       }
     ],
     "professor_id": 190647,
     "first_name": "Pablo Eduardo",
     "last_name": "Lira Velazquez",
-    "rating": 7.53,
-    "num_ratings": 15
+    "rating": 7.38,
+    "num_ratings": 16
   },
   {
     "code": "1225",
@@ -142,7 +142,7 @@
         "days": [
           1
         ],
-        "classroom": "35"
+        "classroom": "D001"
       }
     ],
     "professor_id": 84383,
@@ -161,7 +161,7 @@
         "days": [
           3
         ],
-        "classroom": "35"
+        "classroom": "D001"
       }
     ],
     "professor_id": 84383,
@@ -180,7 +180,7 @@
         "days": [
           3
         ],
-        "classroom": "35"
+        "classroom": "D008"
       }
     ],
     "professor_id": 95650,
@@ -199,7 +199,7 @@
         "days": [
           4
         ],
-        "classroom": "35"
+        "classroom": "B302"
       }
     ],
     "professor_id": 95650,
@@ -218,7 +218,7 @@
         "days": [
           5
         ],
-        "classroom": "35"
+        "classroom": "B303"
       }
     ],
     "professor_id": 142033,

@@ -7,9 +7,16 @@
       {
         "time": "09:00-11:00",
         "days": [
+          1
+        ],
+        "classroom": "J105"
+      },
+      {
+        "time": "09:00-11:00",
+        "days": [
           3
         ],
-        "classroom": "35"
+        "classroom": "J111"
       }
     ],
     "professor_id": 167784,

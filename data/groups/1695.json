@@ -11,7 +11,7 @@
           3,
           5
         ],
-        "classroom": "10"
+        "classroom": "X101"
       }
     ]
   },
@@ -26,7 +26,14 @@
           3,
           5
         ],
-        "classroom": "10"
+        "classroom": "EXTR"
+      },
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1
+        ],
+        "classroom": "X101"
       }
     ],
     "professor_id": 98813,

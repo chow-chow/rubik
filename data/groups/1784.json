@@ -10,7 +10,7 @@
           1,
           3
         ],
-        "classroom": "30"
+        "classroom": "Y003"
       }
     ]
   },
@@ -25,14 +25,14 @@
           1,
           3
         ],
-        "classroom": "32"
+        "classroom": "D008"
       }
     ],
     "professor_id": 56184,
     "first_name": "Liliana",
     "last_name": "Flores Garcia",
-    "rating": 8.2041,
-    "num_ratings": 49
+    "rating": 8.24,
+    "num_ratings": 50
   },
   {
     "code": "1784",
@@ -45,7 +45,7 @@
           2,
           4
         ],
-        "classroom": "30"
+        "classroom": "A310"
       }
     ]
   },
@@ -60,7 +60,7 @@
           2,
           4
         ],
-        "classroom": "30"
+        "classroom": "EXTR"
       }
     ],
     "professor_id": 191296,
@@ -80,7 +80,7 @@
           2,
           4
         ],
-        "classroom": "30"
+        "classroom": "Y004"
       }
     ],
     "professor_id": 99204,

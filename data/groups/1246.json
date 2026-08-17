@@ -10,7 +10,7 @@
           2,
           4
         ],
-        "classroom": "30"
+        "classroom": "D009"
       }
     ]
   },
@@ -22,9 +22,16 @@
       {
         "time": "09:00-10:30",
         "days": [
+          1
+        ],
+        "classroom": "C401"
+      },
+      {
+        "time": "09:00-10:30",
+        "days": [
           3
         ],
-        "classroom": "30"
+        "classroom": "SIN"
       }
     ]
   }

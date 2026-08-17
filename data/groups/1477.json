@@ -10,7 +10,7 @@
           1,
           3
         ],
-        "classroom": "30"
+        "classroom": "B409"
       }
     ],
     "professor_id": 172322,
@@ -30,7 +30,7 @@
           2,
           4
         ],
-        "classroom": "30"
+        "classroom": "B409"
       }
     ],
     "professor_id": 172322,
@@ -49,7 +49,7 @@
         "days": [
           5
         ],
-        "classroom": "30"
+        "classroom": "B409"
       }
     ],
     "professor_id": 191407,
@@ -66,9 +66,16 @@
       {
         "time": "13:30-15:00",
         "days": [
+          1
+        ],
+        "classroom": "Y101"
+      },
+      {
+        "time": "13:30-15:00",
+        "days": [
           4
         ],
-        "classroom": "30"
+        "classroom": "D007"
       }
     ],
     "professor_id": 191407,

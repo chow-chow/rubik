@@ -7,9 +7,16 @@
       {
         "time": "11:00-12:30",
         "days": [
+          1
+        ],
+        "classroom": "C202"
+      },
+      {
+        "time": "11:00-12:30",
+        "days": [
           3
         ],
-        "classroom": "30"
+        "classroom": "SIN"
       }
     ],
     "professor_id": 188457,
@@ -29,7 +36,7 @@
           2,
           4
         ],
-        "classroom": "30"
+        "classroom": "B409"
       }
     ]
   }

@@ -9,14 +9,14 @@
         "days": [
           2
         ],
-        "classroom": "35"
+        "classroom": "A103"
       }
     ],
     "professor_id": 95281,
     "first_name": "Gabriela",
     "last_name": "Camacho Villaseñor",
-    "rating": 9.4667,
-    "num_ratings": 15
+    "rating": 9.5,
+    "num_ratings": 16
   },
   {
     "code": "1795",
@@ -28,14 +28,14 @@
         "days": [
           5
         ],
-        "classroom": "35"
+        "classroom": "A103"
       }
     ],
     "professor_id": 95281,
     "first_name": "Gabriela",
     "last_name": "Camacho Villaseñor",
-    "rating": 9.4667,
-    "num_ratings": 15
+    "rating": 9.5,
+    "num_ratings": 16
   },
   {
     "code": "1795",
@@ -47,7 +47,7 @@
         "days": [
           5
         ],
-        "classroom": "35"
+        "classroom": "A108"
       }
     ],
     "professor_id": 51469,
@@ -66,7 +66,7 @@
         "days": [
           1
         ],
-        "classroom": "35"
+        "classroom": "A202"
       }
     ],
     "professor_id": 90265,
@@ -85,7 +85,7 @@
         "days": [
           4
         ],
-        "classroom": "35"
+        "classroom": "A104"
       }
     ]
   }

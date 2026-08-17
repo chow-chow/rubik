@@ -10,7 +10,7 @@
           2,
           4
         ],
-        "classroom": "34"
+        "classroom": "A311"
       }
     ],
     "professor_id": 101229,
@@ -30,7 +30,7 @@
           1,
           5
         ],
-        "classroom": "34"
+        "classroom": "EXTR"
       }
     ],
     "professor_id": 141771,
@@ -50,14 +50,14 @@
           1,
           3
         ],
-        "classroom": "34"
+        "classroom": "A109"
       }
     ],
     "professor_id": 78532,
     "first_name": "Elizabeth",
     "last_name": "Moreno Mavridis",
-    "rating": 6.4286,
-    "num_ratings": 49
+    "rating": 6.44,
+    "num_ratings": 50
   },
   {
     "code": "3021",
@@ -70,7 +70,7 @@
           1,
           3
         ],
-        "classroom": "34"
+        "classroom": "J106"
       }
     ],
     "professor_id": 47499,
@@ -90,13 +90,13 @@
           2,
           4
         ],
-        "classroom": "30"
+        "classroom": "XS01"
       }
     ],
     "professor_id": 49943,
     "first_name": "Miguel",
     "last_name": "Figueroa Bustos",
-    "rating": 9.5,
-    "num_ratings": 10
+    "rating": 9.5455,
+    "num_ratings": 11
   }
 ]

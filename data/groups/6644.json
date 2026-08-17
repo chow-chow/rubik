@@ -9,7 +9,7 @@
         "days": [
           1
         ],
-        "classroom": "28"
+        "classroom": "T101"
       }
     ],
     "professor_id": 114128,
@@ -17,6 +17,25 @@
     "last_name": "LOPEZ PELCASTRE",
     "rating": 8.0435,
     "num_ratings": 46
+  },
+  {
+    "code": "6644",
+    "group": "3",
+    "professor": "JUAN ANGEL CALVILLO PEREZ",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2
+        ],
+        "classroom": "T101"
+      }
+    ],
+    "professor_id": 135119,
+    "first_name": "Juan Ángel",
+    "last_name": "Calvillo Pérez",
+    "rating": 8.3333,
+    "num_ratings": 27
   },
   {
     "code": "6644",
@@ -28,7 +47,7 @@
         "days": [
           5
         ],
-        "classroom": "28"
+        "classroom": "T101"
       }
     ],
     "professor_id": 108516,
@@ -47,7 +66,7 @@
         "days": [
           6
         ],
-        "classroom": "28"
+        "classroom": "T101"
       }
     ],
     "professor_id": 114128,
@@ -66,7 +85,7 @@
         "days": [
           3
         ],
-        "classroom": "28"
+        "classroom": "T101"
       }
     ],
     "professor_id": 173728,
@@ -85,7 +104,7 @@
         "days": [
           1
         ],
-        "classroom": "28"
+        "classroom": "T101"
       }
     ],
     "professor_id": 64679,
@@ -93,25 +112,6 @@
     "last_name": "López García",
     "rating": 8.4722,
     "num_ratings": 72
-  },
-  {
-    "code": "6644",
-    "group": "3",
-    "professor": "JUAN ANGEL CALVILLO PEREZ",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          2
-        ],
-        "classroom": "28"
-      }
-    ],
-    "professor_id": 135119,
-    "first_name": "Juan Ángel",
-    "last_name": "Calvillo Pérez",
-    "rating": 8.3333,
-    "num_ratings": 27
   },
   {
     "code": "6644",
@@ -123,7 +123,7 @@
         "days": [
           2
         ],
-        "classroom": "28"
+        "classroom": "T101"
       }
     ],
     "professor_id": 135119,
@@ -142,7 +142,7 @@
         "days": [
           4
         ],
-        "classroom": "28"
+        "classroom": "T101"
       }
     ],
     "professor_id": 105202,
@@ -161,7 +161,7 @@
         "days": [
           5
         ],
-        "classroom": "28"
+        "classroom": "T101"
       }
     ],
     "professor_id": 114128,

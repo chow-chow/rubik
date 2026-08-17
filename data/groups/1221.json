@@ -10,7 +10,7 @@
           3,
           5
         ],
-        "classroom": "48"
+        "classroom": "J110"
       }
     ],
     "professor_id": 46395,
@@ -30,7 +30,7 @@
           3,
           5
         ],
-        "classroom": "48"
+        "classroom": "J107"
       }
     ],
     "professor_id": 82287,
@@ -50,7 +50,7 @@
           1,
           3
         ],
-        "classroom": "48"
+        "classroom": "J210"
       }
     ],
     "professor_id": 43499,
@@ -70,7 +70,7 @@
           1,
           5
         ],
-        "classroom": "48"
+        "classroom": "I306"
       }
     ],
     "professor_id": 133523,
@@ -90,7 +90,7 @@
           2,
           4
         ],
-        "classroom": "35"
+        "classroom": "J201"
       }
     ],
     "professor_id": 71883,
@@ -102,14 +102,21 @@
   {
     "code": "1221",
     "group": "3",
-    "professor": "PROFESOR POR ASIGNAR",
+    "professor": "VÍCTOR HUGO CALVO JIMÉNEZ",
     "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          3
+        ],
+        "classroom": "J107"
+      },
       {
         "time": "09:00-11:00",
         "days": [
           1
         ],
-        "classroom": "48"
+        "classroom": "J110"
       }
     ]
   },
@@ -124,7 +131,7 @@
           2,
           4
         ],
-        "classroom": "48"
+        "classroom": "I306"
       }
     ]
   },
@@ -139,7 +146,7 @@
           3,
           5
         ],
-        "classroom": "35"
+        "classroom": "J202"
       }
     ],
     "professor_id": 56186,
@@ -156,16 +163,23 @@
       {
         "time": "11:00-13:00",
         "days": [
+          1
+        ],
+        "classroom": "Y003"
+      },
+      {
+        "time": "11:00-13:00",
+        "days": [
           3
         ],
-        "classroom": "35"
+        "classroom": "J108"
       }
     ],
     "professor_id": 32932,
     "first_name": "Margarita",
     "last_name": "Ramírez Galindo",
-    "rating": 8.0132,
-    "num_ratings": 76
+    "rating": 8.039,
+    "num_ratings": 77
   },
   {
     "code": "1221",
@@ -178,7 +192,7 @@
           2,
           4
         ],
-        "classroom": "48"
+        "classroom": "J104"
       }
     ],
     "professor_id": 78817,
@@ -198,7 +212,7 @@
           3,
           5
         ],
-        "classroom": "48"
+        "classroom": "J206"
       }
     ],
     "professor_id": 135641,
@@ -215,9 +229,16 @@
       {
         "time": "11:00-13:00",
         "days": [
+          5
+        ],
+        "classroom": "J210"
+      },
+      {
+        "time": "11:00-13:00",
+        "days": [
           1
         ],
-        "classroom": "48"
+        "classroom": "J211"
       }
     ],
     "professor_id": 84414,
@@ -237,7 +258,7 @@
           1,
           3
         ],
-        "classroom": "48"
+        "classroom": "I301"
       }
     ],
     "professor_id": 55921,
@@ -257,7 +278,7 @@
           1,
           5
         ],
-        "classroom": "48"
+        "classroom": "Y204"
       }
     ],
     "professor_id": 93403,
@@ -277,14 +298,14 @@
           1,
           5
         ],
-        "classroom": "48"
+        "classroom": "J210"
       }
     ],
     "professor_id": 95169,
     "first_name": "VERONICA ING",
     "last_name": "GONZALEZ PACHECO",
-    "rating": 8.58,
-    "num_ratings": 69
+    "rating": 8.6,
+    "num_ratings": 70
   },
   {
     "code": "1221",
@@ -297,7 +318,7 @@
           2,
           4
         ],
-        "classroom": "48"
+        "classroom": "I206"
       }
     ]
   },
@@ -312,7 +333,7 @@
           2,
           4
         ],
-        "classroom": "48"
+        "classroom": "I305"
       }
     ],
     "professor_id": 70180,
@@ -332,7 +353,7 @@
           1,
           5
         ],
-        "classroom": "48"
+        "classroom": "Y101"
       }
     ],
     "professor_id": 123084,
@@ -352,7 +373,7 @@
           2,
           4
         ],
-        "classroom": "48"
+        "classroom": "J107"
       }
     ],
     "professor_id": 114209,
@@ -372,7 +393,7 @@
           1,
           3
         ],
-        "classroom": "48"
+        "classroom": "J208"
       }
     ],
     "professor_id": 51786,
@@ -392,7 +413,7 @@
           2,
           4
         ],
-        "classroom": "48"
+        "classroom": "J111"
       }
     ],
     "professor_id": 22932,
@@ -412,7 +433,7 @@
           2,
           4
         ],
-        "classroom": "35"
+        "classroom": "J201"
       }
     ]
   },
@@ -427,7 +448,7 @@
           2,
           4
         ],
-        "classroom": "48"
+        "classroom": "J107"
       }
     ],
     "professor_id": 134293,

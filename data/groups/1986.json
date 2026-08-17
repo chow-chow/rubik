@@ -9,7 +9,15 @@
         "days": [
           2
         ],
-        "classroom": "30"
+        "classroom": "D008"
+      },
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "D006"
       }
     ],
     "professor_id": 153583,
@@ -29,7 +37,7 @@
           2,
           4
         ],
-        "classroom": "30"
+        "classroom": "SIN"
       }
     ]
   }

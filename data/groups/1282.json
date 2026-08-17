@@ -2,14 +2,21 @@
   {
     "code": "1282",
     "group": "1",
-    "professor": "HOMERO LUIS MALAGON CARTASVer Nota 1",
+    "professor": "Grupo cancelado, contactar a la División.",
     "schedules": [
       {
         "time": "13:00-14:30",
         "days": [
           4
         ],
-        "classroom": "15"
+        "classroom": "J109"
+      },
+      {
+        "time": "13:00-14:30",
+        "days": [
+          1
+        ],
+        "classroom": "A402"
       }
     ]
   }

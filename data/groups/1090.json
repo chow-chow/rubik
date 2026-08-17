@@ -10,7 +10,14 @@
           1,
           3
         ],
-        "classroom": "20"
+        "classroom": "Y103"
+      },
+      {
+        "time": "09:00-10:00",
+        "days": [
+          5
+        ],
+        "classroom": "Y103"
       }
     ]
   },
@@ -20,12 +27,19 @@
     "professor": "RAMIRO GALVAN CASTRO",
     "schedules": [
       {
+        "time": "07:00-08:00",
+        "days": [
+          5
+        ],
+        "classroom": "SIN"
+      },
+      {
         "time": "07:00-09:00",
         "days": [
           1,
           3
         ],
-        "classroom": "20"
+        "classroom": "SIN"
       }
     ]
   },
@@ -39,7 +53,15 @@
         "days": [
           5
         ],
-        "classroom": "20"
+        "classroom": "D006"
+      },
+      {
+        "time": "18:00-20:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "Y103"
       }
     ],
     "professor_id": 165489,

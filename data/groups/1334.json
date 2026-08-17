@@ -11,7 +11,14 @@
           3,
           5
         ],
-        "classroom": "8"
+        "classroom": "SIN"
+      },
+      {
+        "time": "09:00-12:00",
+        "days": [
+          6
+        ],
+        "classroom": "R032"
       }
     ]
   },
@@ -27,7 +34,14 @@
           3,
           5
         ],
-        "classroom": "8"
+        "classroom": "SIN"
+      },
+      {
+        "time": "12:00-15:00",
+        "days": [
+          6
+        ],
+        "classroom": "R032"
       }
     ]
   },
@@ -42,7 +56,14 @@
           2,
           4
         ],
-        "classroom": "8"
+        "classroom": "R031"
+      },
+      {
+        "time": "07:00-10:00",
+        "days": [
+          5
+        ],
+        "classroom": "R032"
       }
     ],
     "professor_id": 99543,
@@ -62,7 +83,14 @@
           2,
           4
         ],
-        "classroom": "8"
+        "classroom": "R031"
+      },
+      {
+        "time": "07:00-10:00",
+        "days": [
+          3
+        ],
+        "classroom": "R032"
       }
     ],
     "professor_id": 99543,

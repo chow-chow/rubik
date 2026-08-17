@@ -1,105 +1,6 @@
 [
   {
     "code": "2080",
-    "group": "4",
-    "professor": "ALEJANDRA LIDIA MEDINA ARZATE",
-    "schedules": [
-      {
-        "time": "07:00-11:00",
-        "days": [
-          5
-        ],
-        "classroom": "38"
-      }
-    ],
-    "professor_id": 148066,
-    "first_name": "Alejandra Lidia",
-    "last_name": "Medina Arzate",
-    "rating": 5.8261,
-    "num_ratings": 23
-  },
-  {
-    "code": "2080",
-    "group": "19",
-    "professor": "SERGIO EDUARDO ZERECERO GALICIA",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "38"
-      }
-    ],
-    "professor_id": 114257,
-    "first_name": "Sergio Eduardo",
-    "last_name": "Zerecero Galicia",
-    "rating": 4.5,
-    "num_ratings": 2
-  },
-  {
-    "code": "2080",
-    "group": "20",
-    "professor": "SERGIO EDUARDO ZERECERO GALICIA",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "38"
-      }
-    ],
-    "professor_id": 114257,
-    "first_name": "Sergio Eduardo",
-    "last_name": "Zerecero Galicia",
-    "rating": 4.5,
-    "num_ratings": 2
-  },
-  {
-    "code": "2080",
-    "group": "21",
-    "professor": "HECTOR GERARDO GONZALEZ REZA",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "38"
-      }
-    ],
-    "professor_id": 105047,
-    "first_name": "Hector Gerardo",
-    "last_name": "Gonzalez Reza",
-    "rating": 7.0,
-    "num_ratings": 10
-  },
-  {
-    "code": "2080",
-    "group": "24",
-    "professor": "HECTOR GERARDO GONZALEZ REZA",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "38"
-      }
-    ],
-    "professor_id": 105047,
-    "first_name": "Hector Gerardo",
-    "last_name": "Gonzalez Reza",
-    "rating": 7.0,
-    "num_ratings": 10
-  },
-  {
-    "code": "2080",
     "group": "2",
     "professor": "JAIME DE JESUS PAREDES CAMACHO",
     "schedules": [
@@ -109,7 +10,7 @@
           2,
           4
         ],
-        "classroom": "38"
+        "classroom": "A105"
       }
     ],
     "professor_id": 107673,
@@ -129,7 +30,7 @@
           2,
           4
         ],
-        "classroom": "38"
+        "classroom": "B203"
       }
     ],
     "professor_id": 123995,
@@ -137,6 +38,25 @@
     "last_name": "Ramón González",
     "rating": 8.8636,
     "num_ratings": 22
+  },
+  {
+    "code": "2080",
+    "group": "4",
+    "professor": "ALEJANDRA LIDIA MEDINA ARZATE",
+    "schedules": [
+      {
+        "time": "07:00-11:00",
+        "days": [
+          5
+        ],
+        "classroom": "A104"
+      }
+    ],
+    "professor_id": 148066,
+    "first_name": "Alejandra Lidia",
+    "last_name": "Medina Arzate",
+    "rating": 5.8261,
+    "num_ratings": 23
   },
   {
     "code": "2080",
@@ -148,7 +68,7 @@
         "days": [
           6
         ],
-        "classroom": "38"
+        "classroom": "A105"
       }
     ],
     "professor_id": 117562,
@@ -168,7 +88,7 @@
           1,
           3
         ],
-        "classroom": "38"
+        "classroom": "A105"
       }
     ]
   },
@@ -183,7 +103,7 @@
           2,
           4
         ],
-        "classroom": "38"
+        "classroom": "B203"
       }
     ],
     "professor_id": 123995,
@@ -203,7 +123,7 @@
           2,
           4
         ],
-        "classroom": "38"
+        "classroom": "A101"
       }
     ],
     "professor_id": 105044,
@@ -223,7 +143,7 @@
           2,
           4
         ],
-        "classroom": "38"
+        "classroom": "A104"
       }
     ],
     "professor_id": 105042,
@@ -243,7 +163,7 @@
           1,
           3
         ],
-        "classroom": "38"
+        "classroom": "A105"
       }
     ],
     "professor_id": 62567,
@@ -263,7 +183,7 @@
           2,
           4
         ],
-        "classroom": "38"
+        "classroom": "A101"
       }
     ],
     "professor_id": 55170,
@@ -283,7 +203,7 @@
           2,
           4
         ],
-        "classroom": "38"
+        "classroom": "B203"
       }
     ],
     "professor_id": 123995,
@@ -291,26 +211,6 @@
     "last_name": "Ramón González",
     "rating": 8.8636,
     "num_ratings": 22
-  },
-  {
-    "code": "2080",
-    "group": "13",
-    "professor": "GUADALUPE DALIA GARCIA GALVEZ",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "35"
-      }
-    ],
-    "professor_id": 99083,
-    "first_name": "GUADALUPE DALIA",
-    "last_name": "GARCIA GALVEZ",
-    "rating": 9.0,
-    "num_ratings": 8
   },
   {
     "code": "2080",
@@ -322,7 +222,7 @@
         "days": [
           5
         ],
-        "classroom": "38"
+        "classroom": "A104"
       }
     ],
     "professor_id": 185280,
@@ -342,7 +242,7 @@
           1,
           3
         ],
-        "classroom": "38"
+        "classroom": "B203"
       }
     ],
     "professor_id": 95202,
@@ -362,7 +262,7 @@
           1,
           3
         ],
-        "classroom": "38"
+        "classroom": "A103"
       }
     ],
     "professor_id": 141299,
@@ -382,7 +282,7 @@
           3,
           5
         ],
-        "classroom": "38"
+        "classroom": "A108"
       }
     ]
   },
@@ -397,7 +297,7 @@
           2,
           4
         ],
-        "classroom": "38"
+        "classroom": "A101"
       }
     ],
     "professor_id": 55170,
@@ -405,6 +305,66 @@
     "last_name": "Tirado Ledesma",
     "rating": 9.2,
     "num_ratings": 15
+  },
+  {
+    "code": "2080",
+    "group": "19",
+    "professor": "SERGIO EDUARDO ZERECERO GALICIA",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "B203"
+      }
+    ],
+    "professor_id": 114257,
+    "first_name": "Sergio Eduardo",
+    "last_name": "Zerecero Galicia",
+    "rating": 4.5,
+    "num_ratings": 2
+  },
+  {
+    "code": "2080",
+    "group": "20",
+    "professor": "SERGIO EDUARDO ZERECERO GALICIA",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "B203"
+      }
+    ],
+    "professor_id": 114257,
+    "first_name": "Sergio Eduardo",
+    "last_name": "Zerecero Galicia",
+    "rating": 4.5,
+    "num_ratings": 2
+  },
+  {
+    "code": "2080",
+    "group": "21",
+    "professor": "HECTOR GERARDO GONZALEZ REZA",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "A101"
+      }
+    ],
+    "professor_id": 105047,
+    "first_name": "Hector Gerardo",
+    "last_name": "Gonzalez Reza",
+    "rating": 7.0,
+    "num_ratings": 10
   },
   {
     "code": "2080",
@@ -417,7 +377,7 @@
           2,
           4
         ],
-        "classroom": "38"
+        "classroom": "A103"
       }
     ],
     "professor_id": 105044,
@@ -436,7 +396,7 @@
         "days": [
           5
         ],
-        "classroom": "38"
+        "classroom": "A101"
       }
     ],
     "professor_id": 72178,
@@ -444,6 +404,26 @@
     "last_name": "Acosta Robledo",
     "rating": 7.7692,
     "num_ratings": 13
+  },
+  {
+    "code": "2080",
+    "group": "24",
+    "professor": "HECTOR GERARDO GONZALEZ REZA",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "A102"
+      }
+    ],
+    "professor_id": 105047,
+    "first_name": "Hector Gerardo",
+    "last_name": "Gonzalez Reza",
+    "rating": 7.0,
+    "num_ratings": 10
   },
   {
     "code": "2080",
@@ -456,7 +436,7 @@
           2,
           4
         ],
-        "classroom": "38"
+        "classroom": "A105"
       }
     ],
     "professor_id": 105044,
@@ -476,7 +456,7 @@
           2,
           4
         ],
-        "classroom": "38"
+        "classroom": "A202"
       }
     ],
     "professor_id": 95202,
@@ -484,5 +464,25 @@
     "last_name": "Carranza Torres",
     "rating": 8.0741,
     "num_ratings": 27
+  },
+  {
+    "code": "2080",
+    "group": "13",
+    "professor": "GUADALUPE DALIA GARCIA GALVEZ",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A102"
+      }
+    ],
+    "professor_id": 99083,
+    "first_name": "GUADALUPE DALIA",
+    "last_name": "GARCIA GALVEZ",
+    "rating": 9.0,
+    "num_ratings": 8
   }
 ]

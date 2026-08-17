@@ -1,58 +1,6 @@
 [
   {
     "code": "1222",
-    "group": "9",
-    "professor": "ARELY HERNANDEZ VALVERDE",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          3
-        ],
-        "classroom": "28"
-      }
-    ],
-    "professor_id": 85363,
-    "first_name": "Arely",
-    "last_name": "Hernández Valverde",
-    "rating": 7.6364,
-    "num_ratings": 22
-  },
-  {
-    "code": "1222",
-    "group": "27",
-    "professor": "JORGE VELAZQUEZ RAMIREZ",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          3
-        ],
-        "classroom": "28"
-      }
-    ],
-    "professor_id": 74006,
-    "first_name": "Jorge",
-    "last_name": "Velazquez Ramirez",
-    "rating": 8.43,
-    "num_ratings": 30
-  },
-  {
-    "code": "1222",
-    "group": "28",
-    "professor": "GUSTAVO TORRES MARQUEZ",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          1
-        ],
-        "classroom": "28"
-      }
-    ]
-  },
-  {
-    "code": "1222",
     "group": "7",
     "professor": "MARIA MARGARITA ZAYIL SALAZAR CAMPOS",
     "schedules": [
@@ -61,7 +9,7 @@
         "days": [
           1
         ],
-        "classroom": "28"
+        "classroom": "A105"
       }
     ],
     "professor_id": 89958,
@@ -80,7 +28,7 @@
         "days": [
           3
         ],
-        "classroom": "28"
+        "classroom": "A105"
       }
     ],
     "professor_id": 89958,
@@ -88,6 +36,25 @@
     "last_name": "Salazar Campos",
     "rating": 7.9697,
     "num_ratings": 33
+  },
+  {
+    "code": "1222",
+    "group": "9",
+    "professor": "ARELY HERNANDEZ VALVERDE",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          3
+        ],
+        "classroom": "A102"
+      }
+    ],
+    "professor_id": 85363,
+    "first_name": "Arely",
+    "last_name": "Hernández Valverde",
+    "rating": 7.6364,
+    "num_ratings": 22
   },
   {
     "code": "1222",
@@ -99,7 +66,7 @@
         "days": [
           5
         ],
-        "classroom": "28"
+        "classroom": "A108"
       }
     ],
     "professor_id": 68080,
@@ -118,7 +85,7 @@
         "days": [
           5
         ],
-        "classroom": "28"
+        "classroom": "A103"
       }
     ],
     "professor_id": 74006,
@@ -137,7 +104,7 @@
         "days": [
           1
         ],
-        "classroom": "28"
+        "classroom": "A102"
       }
     ],
     "professor_id": 89958,
@@ -156,7 +123,7 @@
         "days": [
           5
         ],
-        "classroom": "28"
+        "classroom": "B203"
       }
     ],
     "professor_id": 141299,
@@ -175,7 +142,7 @@
         "days": [
           6
         ],
-        "classroom": "28"
+        "classroom": "A102"
       }
     ],
     "professor_id": 80225,
@@ -194,7 +161,7 @@
         "days": [
           5
         ],
-        "classroom": "28"
+        "classroom": "B203"
       }
     ],
     "professor_id": 61268,
@@ -213,7 +180,7 @@
         "days": [
           5
         ],
-        "classroom": "28"
+        "classroom": "A105"
       }
     ],
     "professor_id": 141299,
@@ -232,7 +199,7 @@
         "days": [
           1
         ],
-        "classroom": "28"
+        "classroom": "B203"
       }
     ],
     "professor_id": 78442,
@@ -251,7 +218,7 @@
         "days": [
           1
         ],
-        "classroom": "28"
+        "classroom": "A105"
       }
     ],
     "professor_id": 60167,
@@ -270,7 +237,7 @@
         "days": [
           4
         ],
-        "classroom": "28"
+        "classroom": "A105"
       }
     ],
     "professor_id": 185027,
@@ -289,7 +256,7 @@
         "days": [
           5
         ],
-        "classroom": "28"
+        "classroom": "A103"
       }
     ],
     "professor_id": 78442,
@@ -308,7 +275,7 @@
         "days": [
           5
         ],
-        "classroom": "28"
+        "classroom": "A105"
       }
     ],
     "professor_id": 96788,
@@ -327,7 +294,7 @@
         "days": [
           1
         ],
-        "classroom": "28"
+        "classroom": "A104"
       }
     ],
     "professor_id": 89957,
@@ -346,7 +313,7 @@
         "days": [
           3
         ],
-        "classroom": "28"
+        "classroom": "A105"
       }
     ],
     "professor_id": 90265,
@@ -365,14 +332,14 @@
         "days": [
           3
         ],
-        "classroom": "28"
+        "classroom": "A101"
       }
     ],
     "professor_id": 49943,
     "first_name": "Miguel",
     "last_name": "Figueroa Bustos",
-    "rating": 9.5,
-    "num_ratings": 10
+    "rating": 9.5455,
+    "num_ratings": 11
   },
   {
     "code": "1222",
@@ -384,7 +351,7 @@
         "days": [
           4
         ],
-        "classroom": "28"
+        "classroom": "A105"
       }
     ],
     "professor_id": 90265,
@@ -403,13 +370,46 @@
         "days": [
           5
         ],
-        "classroom": "28"
+        "classroom": "A101"
       }
     ],
     "professor_id": 58748,
     "first_name": "Arturo",
     "last_name": "Angeles Mancilla",
-    "rating": 9.2632,
-    "num_ratings": 38
+    "rating": 9.2821,
+    "num_ratings": 39
+  },
+  {
+    "code": "1222",
+    "group": "27",
+    "professor": "JORGE VELAZQUEZ RAMIREZ",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          3
+        ],
+        "classroom": "A101"
+      }
+    ],
+    "professor_id": 74006,
+    "first_name": "Jorge",
+    "last_name": "Velazquez Ramirez",
+    "rating": 8.43,
+    "num_ratings": 30
+  },
+  {
+    "code": "1222",
+    "group": "28",
+    "professor": "GUSTAVO TORRES MARQUEZ",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          1
+        ],
+        "classroom": "A101"
+      }
+    ]
   }
 ]

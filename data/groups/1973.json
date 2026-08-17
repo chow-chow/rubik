@@ -9,7 +9,14 @@
         "days": [
           3
         ],
-        "classroom": "22"
+        "classroom": "B105"
+      },
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1
+        ],
+        "classroom": "O007"
       }
     ],
     "professor_id": 93473,
@@ -28,7 +35,14 @@
         "days": [
           4
         ],
-        "classroom": "22"
+        "classroom": "O102"
+      },
+      {
+        "time": "19:00-21:00",
+        "days": [
+          2
+        ],
+        "classroom": "O007"
       }
     ],
     "professor_id": 135354,
@@ -47,7 +61,14 @@
         "days": [
           3
         ],
-        "classroom": "22"
+        "classroom": "O007"
+      },
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1
+        ],
+        "classroom": "B406"
       }
     ],
     "professor_id": 167496,

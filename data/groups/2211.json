@@ -9,7 +9,21 @@
         "days": [
           3
         ],
-        "classroom": "36"
+        "classroom": "I101"
+      },
+      {
+        "time": "09:00-11:00",
+        "days": [
+          5
+        ],
+        "classroom": "I304"
+      },
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1
+        ],
+        "classroom": "H001"
       }
     ],
     "professor_id": 78275,
@@ -29,7 +43,14 @@
           3,
           5
         ],
-        "classroom": "36"
+        "classroom": "I203"
+      },
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1
+        ],
+        "classroom": "H002"
       }
     ],
     "professor_id": 60632,

@@ -5,11 +5,18 @@
     "professor": "NESTOR DANIEL LUNA GONZALEZ",
     "schedules": [
       {
+        "time": "19:00-21:00",
+        "days": [
+          2
+        ],
+        "classroom": "EXTR"
+      },
+      {
         "time": "07:00-09:00",
         "days": [
           6
         ],
-        "classroom": "10"
+        "classroom": "EXTR"
       }
     ]
   },
@@ -24,7 +31,7 @@
           2,
           4
         ],
-        "classroom": "10"
+        "classroom": "EXTR"
       }
     ],
     "professor_id": 149445,
@@ -44,7 +51,7 @@
           2,
           4
         ],
-        "classroom": "10"
+        "classroom": "EXTR"
       }
     ]
   },
@@ -58,7 +65,7 @@
         "days": [
           6
         ],
-        "classroom": "10"
+        "classroom": "EXTR"
       }
     ]
   },
@@ -73,7 +80,7 @@
           2,
           4
         ],
-        "classroom": "10"
+        "classroom": "EXTR"
       }
     ]
   },
@@ -87,7 +94,7 @@
         "days": [
           6
         ],
-        "classroom": "10"
+        "classroom": "EXTR"
       }
     ]
   }

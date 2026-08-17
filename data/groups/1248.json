@@ -7,9 +7,16 @@
       {
         "time": "11:00-13:00",
         "days": [
+          3
+        ],
+        "classroom": "I203"
+      },
+      {
+        "time": "11:00-13:00",
+        "days": [
           1
         ],
-        "classroom": "30"
+        "classroom": "B409"
       }
     ]
   },
@@ -24,13 +31,13 @@
           1,
           3
         ],
-        "classroom": "30"
+        "classroom": "I305"
       }
     ],
     "professor_id": 96627,
     "first_name": "David Israel",
     "last_name": "Posadas Navarro",
-    "rating": 9.6429,
-    "num_ratings": 14
+    "rating": 9.6667,
+    "num_ratings": 15
   }
 ]

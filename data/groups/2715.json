@@ -10,7 +10,7 @@
           1,
           3
         ],
-        "classroom": "30"
+        "classroom": "B409"
       }
     ]
   },
@@ -25,14 +25,14 @@
           2,
           4
         ],
-        "classroom": "30"
+        "classroom": "A401"
       }
     ],
     "professor_id": 105090,
     "first_name": "Ricardo",
     "last_name": "Yañez valdez",
-    "rating": 3.2,
-    "num_ratings": 15
+    "rating": 3.125,
+    "num_ratings": 16
   },
   {
     "code": "2715",
@@ -45,7 +45,7 @@
           2,
           4
         ],
-        "classroom": "30"
+        "classroom": "B409"
       }
     ]
   },
@@ -60,7 +60,7 @@
           1,
           3
         ],
-        "classroom": "30"
+        "classroom": "EXTR"
       }
     ]
   }

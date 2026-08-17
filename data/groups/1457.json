@@ -10,7 +10,14 @@
           2,
           4
         ],
-        "classroom": "12"
+        "classroom": "C106"
+      },
+      {
+        "time": "09:00-12:00",
+        "days": [
+          6
+        ],
+        "classroom": "SIN"
       }
     ]
   },
@@ -25,7 +32,14 @@
           2,
           4
         ],
-        "classroom": "12"
+        "classroom": "C202"
+      },
+      {
+        "time": "12:00-15:00",
+        "days": [
+          5
+        ],
+        "classroom": "SIN"
       }
     ],
     "professor_id": 141820,

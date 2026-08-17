@@ -9,7 +9,7 @@
         "days": [
           1
         ],
-        "classroom": "11"
+        "classroom": "O009"
       }
     ]
   },
@@ -23,7 +23,7 @@
         "days": [
           1
         ],
-        "classroom": "11"
+        "classroom": "O009"
       }
     ],
     "professor_id": 74730,
@@ -42,7 +42,7 @@
         "days": [
           3
         ],
-        "classroom": "11"
+        "classroom": "O009"
       }
     ],
     "professor_id": 74730,
@@ -61,14 +61,14 @@
         "days": [
           1
         ],
-        "classroom": "11"
+        "classroom": "O009"
       }
     ],
     "professor_id": 190647,
     "first_name": "Pablo Eduardo",
     "last_name": "Lira Velazquez",
-    "rating": 7.53,
-    "num_ratings": 15
+    "rating": 7.38,
+    "num_ratings": 16
   },
   {
     "code": "7603",
@@ -80,7 +80,7 @@
         "days": [
           2
         ],
-        "classroom": "11"
+        "classroom": "O009"
       }
     ],
     "professor_id": 112014,
@@ -99,33 +99,28 @@
         "days": [
           3
         ],
-        "classroom": "11"
+        "classroom": "O009"
       }
     ],
     "professor_id": 190647,
     "first_name": "Pablo Eduardo",
     "last_name": "Lira Velazquez",
-    "rating": 7.53,
-    "num_ratings": 15
+    "rating": 7.38,
+    "num_ratings": 16
   },
   {
     "code": "7603",
     "group": "10",
-    "professor": "OSVALDO RUIZ CERVANTES",
+    "professor": "Grupo cancelado, contactar a la División.",
     "schedules": [
       {
         "time": "19:00-21:00",
         "days": [
           2
         ],
-        "classroom": "11"
+        "classroom": "O009"
       }
-    ],
-    "professor_id": 90646,
-    "first_name": "Osvaldo",
-    "last_name": "Ruiz Cervantes",
-    "rating": 5.381,
-    "num_ratings": 21
+    ]
   },
   {
     "code": "7603",
@@ -137,7 +132,7 @@
         "days": [
           3
         ],
-        "classroom": "11"
+        "classroom": "O009"
       }
     ],
     "professor_id": 124462,
@@ -156,7 +151,7 @@
         "days": [
           1
         ],
-        "classroom": "11"
+        "classroom": "O009"
       }
     ],
     "professor_id": 102330,
@@ -175,13 +170,13 @@
         "days": [
           4
         ],
-        "classroom": "11"
+        "classroom": "O009"
       }
     ],
     "professor_id": 190647,
     "first_name": "Pablo Eduardo",
     "last_name": "Lira Velazquez",
-    "rating": 7.53,
-    "num_ratings": 15
+    "rating": 7.38,
+    "num_ratings": 16
   }
 ]

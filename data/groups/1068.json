@@ -9,7 +9,7 @@
         "days": [
           1
         ],
-        "classroom": "15"
+        "classroom": "C205"
       }
     ]
   },
@@ -24,7 +24,7 @@
           3,
           5
         ],
-        "classroom": "15"
+        "classroom": "A402"
       }
     ],
     "professor_id": 82781,
@@ -44,7 +44,7 @@
           2,
           4
         ],
-        "classroom": "15"
+        "classroom": "A205"
       }
     ]
   },
@@ -59,7 +59,14 @@
           2,
           4
         ],
-        "classroom": "15"
+        "classroom": "C402"
+      },
+      {
+        "time": "12:00-14:00",
+        "days": [
+          4
+        ],
+        "classroom": "C205"
       }
     ],
     "professor_id": 149603,

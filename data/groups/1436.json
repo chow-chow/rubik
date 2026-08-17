@@ -10,7 +10,7 @@
           2,
           4
         ],
-        "classroom": "48"
+        "classroom": "J111"
       }
     ],
     "professor_id": 51062,
@@ -30,7 +30,7 @@
           3,
           5
         ],
-        "classroom": "48"
+        "classroom": "Y204"
       }
     ],
     "professor_id": 194052,
@@ -50,7 +50,7 @@
           2,
           4
         ],
-        "classroom": "48"
+        "classroom": "I101"
       }
     ],
     "professor_id": 95279,
@@ -67,9 +67,16 @@
       {
         "time": "09:00-11:00",
         "days": [
+          5
+        ],
+        "classroom": "J104"
+      },
+      {
+        "time": "09:00-11:00",
+        "days": [
           3
         ],
-        "classroom": "48"
+        "classroom": "J102"
       }
     ],
     "professor_id": 99111,
@@ -89,7 +96,7 @@
           1,
           3
         ],
-        "classroom": "35"
+        "classroom": "J205"
       }
     ],
     "professor_id": 176748,
@@ -109,7 +116,7 @@
           2,
           4
         ],
-        "classroom": "48"
+        "classroom": "Y101"
       }
     ],
     "professor_id": 70520,
@@ -129,7 +136,7 @@
           3,
           5
         ],
-        "classroom": "48"
+        "classroom": "J107"
       }
     ],
     "professor_id": 22143,
@@ -149,7 +156,7 @@
           1,
           3
         ],
-        "classroom": "48"
+        "classroom": "I306"
       }
     ]
   },
@@ -164,7 +171,7 @@
           1,
           3
         ],
-        "classroom": "48"
+        "classroom": "J104"
       }
     ],
     "professor_id": 70517,
@@ -176,7 +183,7 @@
   {
     "code": "1436",
     "group": "6",
-    "professor": "AURELIO SANCHEZ VACA",
+    "professor": "JUANITA ELIZABETH SOTELO MORALES",
     "schedules": [
       {
         "time": "09:00-11:00",
@@ -184,14 +191,9 @@
           1,
           5
         ],
-        "classroom": "48"
+        "classroom": "Y102"
       }
-    ],
-    "professor_id": 58750,
-    "first_name": "Aurelio",
-    "last_name": "Sanchez Vaca",
-    "rating": 6.1667,
-    "num_ratings": 18
+    ]
   },
   {
     "code": "1436",
@@ -204,7 +206,7 @@
           3,
           5
         ],
-        "classroom": "48"
+        "classroom": "Y204"
       }
     ],
     "professor_id": 87593,
@@ -223,7 +225,7 @@
         "days": [
           6
         ],
-        "classroom": "48"
+        "classroom": "Y202"
       }
     ],
     "professor_id": 95309,
@@ -242,7 +244,14 @@
         "days": [
           3
         ],
-        "classroom": "48"
+        "classroom": "I104"
+      },
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1
+        ],
+        "classroom": "Y104"
       }
     ],
     "professor_id": 21806,
@@ -262,7 +271,7 @@
           1,
           5
         ],
-        "classroom": "48"
+        "classroom": "Y202"
       }
     ],
     "professor_id": 118842,
@@ -279,10 +288,16 @@
       {
         "time": "11:00-13:00",
         "days": [
-          2,
+          2
+        ],
+        "classroom": "J205"
+      },
+      {
+        "time": "11:00-13:00",
+        "days": [
           4
         ],
-        "classroom": "35"
+        "classroom": "J204"
       }
     ],
     "professor_id": 76408,
@@ -299,9 +314,16 @@
       {
         "time": "11:00-13:00",
         "days": [
+          5
+        ],
+        "classroom": "J205"
+      },
+      {
+        "time": "11:00-13:00",
+        "days": [
           3
         ],
-        "classroom": "35"
+        "classroom": "Y202"
       }
     ],
     "professor_id": 66375,
@@ -321,7 +343,7 @@
           3,
           5
         ],
-        "classroom": "48"
+        "classroom": "I206"
       }
     ],
     "professor_id": 32484,
@@ -341,7 +363,7 @@
           1,
           3
         ],
-        "classroom": "48"
+        "classroom": "Y104"
       }
     ],
     "professor_id": 36975,
@@ -361,7 +383,7 @@
           1,
           3
         ],
-        "classroom": "35"
+        "classroom": "J201"
       }
     ],
     "professor_id": 46460,
@@ -381,7 +403,7 @@
           2,
           4
         ],
-        "classroom": "48"
+        "classroom": "I204"
       }
     ],
     "professor_id": 66375,
@@ -401,7 +423,7 @@
           3,
           5
         ],
-        "classroom": "48"
+        "classroom": "I306"
       }
     ],
     "professor_id": 133428,
@@ -421,7 +443,7 @@
           2,
           4
         ],
-        "classroom": "48"
+        "classroom": "J207"
       }
     ],
     "professor_id": 100430,
@@ -441,7 +463,7 @@
           1,
           3
         ],
-        "classroom": "48"
+        "classroom": "J110"
       }
     ],
     "professor_id": 63727,
@@ -460,7 +482,14 @@
         "days": [
           1
         ],
-        "classroom": "48"
+        "classroom": "J207"
+      },
+      {
+        "time": "17:00-19:00",
+        "days": [
+          5
+        ],
+        "classroom": "J209"
       }
     ],
     "professor_id": 100507,
@@ -480,7 +509,7 @@
           2,
           4
         ],
-        "classroom": "48"
+        "classroom": "J109"
       }
     ]
   },
@@ -495,7 +524,7 @@
           1,
           3
         ],
-        "classroom": "48"
+        "classroom": "I302"
       }
     ],
     "professor_id": 103042,
@@ -515,14 +544,14 @@
           2,
           4
         ],
-        "classroom": "50"
+        "classroom": "EXTR"
       }
     ],
     "professor_id": 84849,
     "first_name": "Elia Inés",
     "last_name": "Luna Ceballos",
-    "rating": 8.4318,
-    "num_ratings": 88
+    "rating": 8.4382,
+    "num_ratings": 89
   },
   {
     "code": "1436",
@@ -535,7 +564,7 @@
           2,
           4
         ],
-        "classroom": "48"
+        "classroom": "I305"
       }
     ]
   }

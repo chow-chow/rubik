@@ -9,7 +9,7 @@
         "days": [
           1
         ],
-        "classroom": "35"
+        "classroom": "A102"
       }
     ],
     "professor_id": 90128,
@@ -28,7 +28,7 @@
         "days": [
           3
         ],
-        "classroom": "35"
+        "classroom": "A103"
       }
     ],
     "professor_id": 180374,
@@ -47,7 +47,7 @@
         "days": [
           1
         ],
-        "classroom": "35"
+        "classroom": "A101"
       }
     ],
     "professor_id": 90128,
@@ -55,25 +55,6 @@
     "last_name": "Ledesma Solano",
     "rating": 9.5652,
     "num_ratings": 207
-  },
-  {
-    "code": "1796",
-    "group": "4",
-    "professor": "GUILLERMINA PEREZ DURAN",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          3
-        ],
-        "classroom": "35"
-      }
-    ],
-    "professor_id": 104858,
-    "first_name": "Ing. Guillermina",
-    "last_name": "Perez Duran",
-    "rating": 8.7778,
-    "num_ratings": 27
   },
   {
     "code": "1796",
@@ -85,7 +66,7 @@
         "days": [
           4
         ],
-        "classroom": "35"
+        "classroom": "A103"
       }
     ]
   },
@@ -99,7 +80,7 @@
         "days": [
           3
         ],
-        "classroom": "35"
+        "classroom": "A104"
       }
     ],
     "professor_id": 156753,
@@ -118,7 +99,7 @@
         "days": [
           5
         ],
-        "classroom": "35"
+        "classroom": "A108"
       }
     ],
     "professor_id": 140654,
@@ -137,7 +118,7 @@
         "days": [
           1
         ],
-        "classroom": "35"
+        "classroom": "A108"
       }
     ]
   },
@@ -151,8 +132,27 @@
         "days": [
           1
         ],
-        "classroom": "35"
+        "classroom": "A202"
       }
     ]
+  },
+  {
+    "code": "1796",
+    "group": "4",
+    "professor": "GUILLERMINA PEREZ DURAN",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          3
+        ],
+        "classroom": "A101"
+      }
+    ],
+    "professor_id": 104858,
+    "first_name": "Ing. Guillermina",
+    "last_name": "Perez Duran",
+    "rating": 8.7778,
+    "num_ratings": 27
   }
 ]

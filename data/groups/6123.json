@@ -2,16 +2,21 @@
   {
     "code": "6123",
     "group": "13",
-    "professor": "MARIA FERNANDA HEIMPEL COVARRUBIAS",
+    "professor": "GEORGINA NIETO CASTAÑEDA",
     "schedules": [
       {
         "time": "09:00-11:00",
         "days": [
           1
         ],
-        "classroom": "20"
+        "classroom": "H003"
       }
-    ]
+    ],
+    "professor_id": 142352,
+    "first_name": "Georgina",
+    "last_name": "Nieto Castañeda",
+    "rating": 7.0,
+    "num_ratings": 2
   },
   {
     "code": "6123",
@@ -23,7 +28,7 @@
         "days": [
           2
         ],
-        "classroom": "20"
+        "classroom": "H003"
       }
     ],
     "professor_id": 85360,
@@ -42,7 +47,7 @@
         "days": [
           5
         ],
-        "classroom": "20"
+        "classroom": "H003"
       }
     ]
   },
@@ -56,7 +61,7 @@
         "days": [
           1
         ],
-        "classroom": "20"
+        "classroom": "H003"
       }
     ]
   }

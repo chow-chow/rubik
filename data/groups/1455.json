@@ -9,7 +9,21 @@
         "days": [
           3
         ],
-        "classroom": "20"
+        "classroom": "SIN"
+      },
+      {
+        "time": "11:00-12:00",
+        "days": [
+          3
+        ],
+        "classroom": "SIN"
+      },
+      {
+        "time": "09:00-12:00",
+        "days": [
+          5
+        ],
+        "classroom": "SIN"
       }
     ],
     "professor_id": 141818,

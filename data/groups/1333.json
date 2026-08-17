@@ -10,7 +10,7 @@
           2,
           4
         ],
-        "classroom": "48"
+        "classroom": "I303"
       }
     ],
     "professor_id": 55067,
@@ -30,7 +30,7 @@
           2,
           4
         ],
-        "classroom": "48"
+        "classroom": "J208"
       }
     ],
     "professor_id": 54985,
@@ -49,7 +49,14 @@
         "days": [
           5
         ],
-        "classroom": "48"
+        "classroom": "J210"
+      },
+      {
+        "time": "07:00-09:00",
+        "days": [
+          1
+        ],
+        "classroom": "J211"
       }
     ],
     "professor_id": 30167,
@@ -69,7 +76,7 @@
           2,
           4
         ],
-        "classroom": "48"
+        "classroom": "J103"
       }
     ],
     "professor_id": 30167,
@@ -89,14 +96,14 @@
           1,
           3
         ],
-        "classroom": "48"
+        "classroom": "Y104"
       }
     ],
     "professor_id": 23476,
     "first_name": "martin",
     "last_name": "barcenas escobar",
-    "rating": 6.3793,
-    "num_ratings": 29
+    "rating": 6.2667,
+    "num_ratings": 30
   },
   {
     "code": "1333",
@@ -109,7 +116,7 @@
           3,
           5
         ],
-        "classroom": "35"
+        "classroom": "J204"
       }
     ],
     "professor_id": 44254,
@@ -129,7 +136,7 @@
           2,
           4
         ],
-        "classroom": "48"
+        "classroom": "Y204"
       }
     ],
     "professor_id": 49393,

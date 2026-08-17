@@ -11,7 +11,14 @@
           3,
           5
         ],
-        "classroom": "12"
+        "classroom": "R004"
+      },
+      {
+        "time": "08:00-11:00",
+        "days": [
+          5
+        ],
+        "classroom": "R029"
       }
     ]
   },
@@ -26,7 +33,14 @@
           2,
           4
         ],
-        "classroom": "12"
+        "classroom": "A209"
+      },
+      {
+        "time": "13:00-16:00",
+        "days": [
+          1
+        ],
+        "classroom": "R029"
       }
     ],
     "professor_id": 148143,
@@ -46,7 +60,7 @@
           2,
           4
         ],
-        "classroom": "15"
+        "classroom": "SIN"
       }
     ]
   },
@@ -60,7 +74,7 @@
         "days": [
           5
         ],
-        "classroom": "15"
+        "classroom": "SIN"
       }
     ]
   }

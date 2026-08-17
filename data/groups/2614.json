@@ -9,7 +9,14 @@
         "days": [
           5
         ],
-        "classroom": "30"
+        "classroom": "B409"
+      },
+      {
+        "time": "17:00-19:00",
+        "days": [
+          3
+        ],
+        "classroom": "A402"
       }
     ]
   },
@@ -24,7 +31,7 @@
           2,
           4
         ],
-        "classroom": "30"
+        "classroom": "B409"
       }
     ]
   }

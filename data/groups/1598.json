@@ -11,7 +11,7 @@
           2,
           5
         ],
-        "classroom": "20"
+        "classroom": "B407"
       }
     ]
   },
@@ -27,7 +27,7 @@
           3,
           4
         ],
-        "classroom": "40"
+        "classroom": "Y002"
       }
     ],
     "professor_id": 66382,
@@ -48,7 +48,7 @@
           2,
           5
         ],
-        "classroom": "20"
+        "classroom": "A302"
       }
     ],
     "professor_id": 173568,
@@ -69,7 +69,7 @@
           3,
           5
         ],
-        "classroom": "20"
+        "classroom": "A107"
       }
     ],
     "professor_id": 75919,
@@ -90,7 +90,7 @@
           2,
           4
         ],
-        "classroom": "0"
+        "classroom": "Q208"
       }
     ]
   },
@@ -106,7 +106,7 @@
           2,
           4
         ],
-        "classroom": "20"
+        "classroom": "A306"
       }
     ]
   },
@@ -122,7 +122,7 @@
           3,
           4
         ],
-        "classroom": "20"
+        "classroom": "DS10"
       }
     ]
   },
@@ -138,7 +138,7 @@
           3,
           4
         ],
-        "classroom": "20"
+        "classroom": "A201"
       }
     ],
     "professor_id": 73106,
@@ -157,7 +157,7 @@
         "days": [
           5
         ],
-        "classroom": "0"
+        "classroom": "Q208"
       }
     ]
   },
@@ -167,11 +167,18 @@
     "professor": "MARIA ALEJANDRA ZUÑIGA MEDEL",
     "schedules": [
       {
+        "time": "15:00-19:00",
+        "days": [
+          5
+        ],
+        "classroom": "A206"
+      },
+      {
         "time": "17:00-19:00",
         "days": [
           4
         ],
-        "classroom": "40"
+        "classroom": "A206"
       }
     ]
   }
