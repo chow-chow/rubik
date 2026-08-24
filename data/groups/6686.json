@@ -1,60 +1,22 @@
 [
   {
     "code": "6686",
-    "group": "32",
-    "professor": "BENITO ESLAVA EVANGELISTA",
+    "group": "30",
+    "professor": "CLAUDIA ESPINOSA VILLAGRAN",
     "schedules": [
       {
-        "time": "17:00-19:00",
+        "time": "09:00-11:00",
         "days": [
-          1
-        ],
-        "classroom": "Q316"
-      }
-    ],
-    "professor_id": 172902,
-    "first_name": "Benito",
-    "last_name": "Eslava Evangelista",
-    "rating": 9.6667,
-    "num_ratings": 3
-  },
-  {
-    "code": "6686",
-    "group": "33",
-    "professor": "JOSE LUIS VILLEDAS MORALES",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          3
-        ],
-        "classroom": "Q316"
-      }
-    ],
-    "professor_id": 99092,
-    "first_name": "JOSE LUIS",
-    "last_name": "VILLEDAS MORALES",
-    "rating": 7.2857,
-    "num_ratings": 7
-  },
-  {
-    "code": "6686",
-    "group": "34",
-    "professor": "FLORICEL RAMOS VARGAS",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          4
+          6
         ],
         "classroom": "Q314"
       }
     ],
-    "professor_id": 89946,
-    "first_name": "FLORICEL",
-    "last_name": "RAMOS VARGAS",
-    "rating": 5.8974,
-    "num_ratings": 39
+    "professor_id": 153250,
+    "first_name": "Claudia",
+    "last_name": "Espinosa Villagran",
+    "rating": 7.0,
+    "num_ratings": 2
   },
   {
     "code": "6686",
@@ -285,8 +247,8 @@
     "professor_id": 89950,
     "first_name": "Jorge Antonio",
     "last_name": "Monroy Juarez",
-    "rating": 5.8947,
-    "num_ratings": 19
+    "rating": 5.95,
+    "num_ratings": 20
   },
   {
     "code": "6686",
@@ -318,8 +280,8 @@
     "professor_id": 89950,
     "first_name": "Jorge Antonio",
     "last_name": "Monroy Juarez",
-    "rating": 5.8947,
-    "num_ratings": 19
+    "rating": 5.95,
+    "num_ratings": 20
   },
   {
     "code": "6686",
@@ -569,27 +531,8 @@
     "professor_id": 89949,
     "first_name": "ISMAEL",
     "last_name": "ROMERO OCARANZA",
-    "rating": 6.2667,
-    "num_ratings": 30
-  },
-  {
-    "code": "6686",
-    "group": "30",
-    "professor": "CLAUDIA ESPINOSA VILLAGRAN",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          6
-        ],
-        "classroom": "Q314"
-      }
-    ],
-    "professor_id": 153250,
-    "first_name": "Claudia",
-    "last_name": "Espinosa Villagran",
-    "rating": 7.0,
-    "num_ratings": 2
+    "rating": 6.1613,
+    "num_ratings": 31
   },
   {
     "code": "6686",
@@ -609,5 +552,62 @@
     "last_name": "Espinosa Villagran",
     "rating": 7.0,
     "num_ratings": 2
+  },
+  {
+    "code": "6686",
+    "group": "32",
+    "professor": "BENITO ESLAVA EVANGELISTA",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1
+        ],
+        "classroom": "Q316"
+      }
+    ],
+    "professor_id": 172902,
+    "first_name": "Benito",
+    "last_name": "Eslava Evangelista",
+    "rating": 9.6667,
+    "num_ratings": 3
+  },
+  {
+    "code": "6686",
+    "group": "33",
+    "professor": "JOSE LUIS VILLEDAS MORALES",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          3
+        ],
+        "classroom": "Q316"
+      }
+    ],
+    "professor_id": 99092,
+    "first_name": "JOSE LUIS",
+    "last_name": "VILLEDAS MORALES",
+    "rating": 7.2857,
+    "num_ratings": 7
+  },
+  {
+    "code": "6686",
+    "group": "34",
+    "professor": "FLORICEL RAMOS VARGAS",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          4
+        ],
+        "classroom": "Q314"
+      }
+    ],
+    "professor_id": 89946,
+    "first_name": "FLORICEL",
+    "last_name": "RAMOS VARGAS",
+    "rating": 5.8974,
+    "num_ratings": 39
   }
 ]

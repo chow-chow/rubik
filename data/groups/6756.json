@@ -1,6 +1,20 @@
 [
   {
     "code": "6756",
+    "group": "8",
+    "professor": "ALEJANDRO CORTES ESLAVA",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          2
+        ],
+        "classroom": "N005"
+      }
+    ]
+  },
+  {
+    "code": "6756",
     "group": "10",
     "professor": "PROFESOR POR ASIGNAR",
     "schedules": [
@@ -130,20 +144,6 @@
     "last_name": "García Aranda",
     "rating": 6.5,
     "num_ratings": 2
-  },
-  {
-    "code": "6756",
-    "group": "8",
-    "professor": "ALEJANDRO CORTES ESLAVA",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          2
-        ],
-        "classroom": "N005"
-      }
-    ]
   },
   {
     "code": "6756",

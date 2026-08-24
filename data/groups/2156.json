@@ -15,6 +15,40 @@
   },
   {
     "code": "2156",
+    "group": "4",
+    "professor": "ALEJANDRO MORALES RAMIREZ",
+    "schedules": [
+      {
+        "time": "19:00-20:30",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A106"
+      }
+    ]
+  },
+  {
+    "code": "2156",
+    "group": "5",
+    "professor": "ANDRES MOTA SOLORZANO",
+    "schedules": [
+      {
+        "time": "07:00-10:00",
+        "days": [
+          5
+        ],
+        "classroom": "A203"
+      }
+    ],
+    "professor_id": 86529,
+    "first_name": "Andrés",
+    "last_name": "Mota Solorzano",
+    "rating": 6.0,
+    "num_ratings": 7
+  },
+  {
+    "code": "2156",
     "group": "2",
     "professor": "ESTEBAN DE JESUS FIGUEROA PALACIOS",
     "schedules": [
@@ -52,39 +86,5 @@
     "last_name": "morales flores",
     "rating": 7.3333,
     "num_ratings": 3
-  },
-  {
-    "code": "2156",
-    "group": "4",
-    "professor": "ALEJANDRO MORALES RAMIREZ",
-    "schedules": [
-      {
-        "time": "19:00-20:30",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "A106"
-      }
-    ]
-  },
-  {
-    "code": "2156",
-    "group": "5",
-    "professor": "ANDRES MOTA SOLORZANO",
-    "schedules": [
-      {
-        "time": "07:00-10:00",
-        "days": [
-          5
-        ],
-        "classroom": "A203"
-      }
-    ],
-    "professor_id": 86529,
-    "first_name": "Andrés",
-    "last_name": "Mota Solorzano",
-    "rating": 6.0,
-    "num_ratings": 7
   }
 ]

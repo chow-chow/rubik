@@ -18,5 +18,50 @@
     "last_name": "Serrano Reyes",
     "rating": 9.3158,
     "num_ratings": 19
+  },
+  {
+    "code": "1898",
+    "group": "2",
+    "professor": "EDGAR ANTONIO HERNANDEZ TIRADO",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "DS11"
+      }
+    ]
+  },
+  {
+    "code": "1898",
+    "group": "3",
+    "professor": "JESUS ESTEBAN PEREZ ORTEGA",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "DS11"
+      }
+    ]
+  },
+  {
+    "code": "1898",
+    "group": "4",
+    "professor": "BRUNO ELOY MENDEZ AMBROSIO",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "X101"
+      }
+    ]
   }
 ]

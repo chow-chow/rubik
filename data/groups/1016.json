@@ -1,6 +1,21 @@
 [
   {
     "code": "1016",
+    "group": "2",
+    "professor": "ERICK VERGARA RIVAS",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "B206"
+      }
+    ]
+  },
+  {
+    "code": "1016",
     "group": "1",
     "professor": "GERARDO LOREDO LOPEZ",
     "schedules": [
@@ -18,21 +33,6 @@
     "last_name": "Loredo López",
     "rating": 8.0,
     "num_ratings": 5
-  },
-  {
-    "code": "1016",
-    "group": "2",
-    "professor": "PROFESOR POR ASIGNAR",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "B206"
-      }
-    ]
   },
   {
     "code": "1016",

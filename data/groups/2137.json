@@ -1,6 +1,21 @@
 [
   {
     "code": "2137",
+    "group": "2",
+    "professor": "JUANA ITZCHEL NIETO RUIZ",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          5,
+          6
+        ],
+        "classroom": "EXTR"
+      }
+    ]
+  },
+  {
+    "code": "2137",
     "group": "4",
     "professor": "FLOR HERNANDEZ PADILLA",
     "schedules": [
@@ -38,21 +53,6 @@
     "last_name": "Medina Arévalo",
     "rating": 7.2,
     "num_ratings": 5
-  },
-  {
-    "code": "2137",
-    "group": "2",
-    "professor": "JUANA ITZCHEL NIETO RUIZ",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          5,
-          6
-        ],
-        "classroom": "EXTR"
-      }
-    ]
   },
   {
     "code": "2137",

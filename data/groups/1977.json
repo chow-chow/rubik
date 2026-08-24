@@ -37,8 +37,8 @@
       {
         "time": "09:00-11:00",
         "days": [
-          2,
-          4
+          1,
+          3
         ],
         "classroom": "EXTR"
       }
@@ -127,6 +127,21 @@
     "code": "1977",
     "group": "13",
     "professor": "GRACIELA VELASCO HERRERA",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "EXTR"
+      }
+    ]
+  },
+  {
+    "code": "1977",
+    "group": "14",
+    "professor": "JOSE FEDERICO HERNANDEZ SANCHEZ",
     "schedules": [
       {
         "time": "09:00-11:00",

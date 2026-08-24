@@ -1,25 +1,6 @@
 [
   {
     "code": "6443",
-    "group": "1",
-    "professor": "MARIA LEONOR SALCEDO UBILLA",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          1
-        ],
-        "classroom": "P109"
-      }
-    ],
-    "professor_id": 161143,
-    "first_name": "Maria Leonor",
-    "last_name": "Salcedo Ubilla",
-    "rating": 8.2,
-    "num_ratings": 5
-  },
-  {
-    "code": "6443",
     "group": "6",
     "professor": "ALBERTO RAMIRO GARIBAY MARTINEZ",
     "schedules": [
@@ -102,6 +83,25 @@
         "classroom": "P109"
       }
     ]
+  },
+  {
+    "code": "6443",
+    "group": "1",
+    "professor": "MARIA LEONOR SALCEDO UBILLA",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          1
+        ],
+        "classroom": "P109"
+      }
+    ],
+    "professor_id": 161143,
+    "first_name": "Maria Leonor",
+    "last_name": "Salcedo Ubilla",
+    "rating": 8.2,
+    "num_ratings": 5
   },
   {
     "code": "6443",

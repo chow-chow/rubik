@@ -1,21 +1,6 @@
 [
   {
     "code": "2967",
-    "group": "1",
-    "professor": "JOSE LUIS SALAS CORRALES",
-    "schedules": [
-      {
-        "time": "18:00-21:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "C402"
-      }
-    ]
-  },
-  {
-    "code": "2967",
     "group": "2",
     "professor": "CLAUDIA ARANGO GALVAN",
     "schedules": [
@@ -27,6 +12,21 @@
           5
         ],
         "classroom": "B403"
+      }
+    ]
+  },
+  {
+    "code": "2967",
+    "group": "1",
+    "professor": "JOSE LUIS SALAS CORRALES",
+    "schedules": [
+      {
+        "time": "18:00-21:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "C402"
       }
     ]
   }

@@ -1,26 +1,6 @@
 [
   {
     "code": "2800",
-    "group": "2",
-    "professor": "VICENTE QUEZADA BELTRAN",
-    "schedules": [
-      {
-        "time": "07:00-08:30",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "SIN"
-      }
-    ],
-    "professor_id": 146710,
-    "first_name": "VICENTE",
-    "last_name": "QUEZADA BELTRAN",
-    "rating": 5.0,
-    "num_ratings": 2
-  },
-  {
-    "code": "2800",
     "group": "1",
     "professor": "MARIO ALBERTO ARELLANO CECILIANO",
     "schedules": [
@@ -37,6 +17,26 @@
     "first_name": "Mario Alberto",
     "last_name": "Arellano Ceciliano",
     "rating": 7.0,
+    "num_ratings": 2
+  },
+  {
+    "code": "2800",
+    "group": "2",
+    "professor": "VICENTE QUEZADA BELTRAN",
+    "schedules": [
+      {
+        "time": "07:00-08:30",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "SIN"
+      }
+    ],
+    "professor_id": 146710,
+    "first_name": "VICENTE",
+    "last_name": "QUEZADA BELTRAN",
+    "rating": 5.0,
     "num_ratings": 2
   },
   {

@@ -41,6 +41,26 @@
   },
   {
     "code": "6225",
+    "group": "14",
+    "professor": "JOSE LUIS ESPINOZA RAMIREZ",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "O009"
+      }
+    ],
+    "professor_id": 75503,
+    "first_name": "Jose Luis",
+    "last_name": "Espinoza",
+    "rating": 9.25,
+    "num_ratings": 12
+  },
+  {
+    "code": "6225",
     "group": "1",
     "professor": "JAVIER ISAAC HERNANDEZ PRADO",
     "schedules": [
@@ -253,26 +273,6 @@
     "last_name": "Valdez Navarro",
     "rating": 7.6071,
     "num_ratings": 28
-  },
-  {
-    "code": "6225",
-    "group": "14",
-    "professor": "JOSE LUIS ESPINOZA RAMIREZ",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "O009"
-      }
-    ],
-    "professor_id": 75503,
-    "first_name": "Jose Luis",
-    "last_name": "Espinoza",
-    "rating": 9.25,
-    "num_ratings": 12
   },
   {
     "code": "6225",

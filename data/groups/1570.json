@@ -1,6 +1,21 @@
 [
   {
     "code": "1570",
+    "group": "5",
+    "professor": "DAVID EDUARDO ABAD CONTRERAS",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "B201"
+      }
+    ]
+  },
+  {
+    "code": "1570",
     "group": "6",
     "professor": "VICTOR HUGO JACOBO ARMENDARIZ",
     "schedules": [
@@ -72,7 +87,12 @@
         ],
         "classroom": "B104"
       }
-    ]
+    ],
+    "professor_id": 186034,
+    "first_name": "Artemisa",
+    "last_name": "Mazón Martínez",
+    "rating": 9.5,
+    "num_ratings": 2
   },
   {
     "code": "1570",
@@ -113,21 +133,6 @@
     "last_name": "GONZALEZ PARRA",
     "rating": 6.2308,
     "num_ratings": 13
-  },
-  {
-    "code": "1570",
-    "group": "5",
-    "professor": "DAVID EDUARDO ABAD CONTRERAS",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "B201"
-      }
-    ]
   },
   {
     "code": "1570",

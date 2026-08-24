@@ -1,19 +1,24 @@
 [
   {
     "code": "1703",
-    "group": "1",
-    "professor": "FIDEL MORA GONZALEZ",
+    "group": "2",
+    "professor": "OCTAVIO GARCIA DOMINGUEZ",
     "schedules": [
       {
-        "time": "07:00-08:30",
+        "time": "08:30-10:00",
         "days": [
           1,
           3,
           5
         ],
-        "classroom": "A209"
+        "classroom": "A204"
       }
-    ]
+    ],
+    "professor_id": 164908,
+    "first_name": "Octavio",
+    "last_name": "García Domínguez",
+    "rating": 7.3333,
+    "num_ratings": 3
   },
   {
     "code": "1703",
@@ -33,8 +38,8 @@
     "professor_id": 112306,
     "first_name": "Roberto",
     "last_name": "Stark Feldman",
-    "rating": 4.75,
-    "num_ratings": 4
+    "rating": 4.2,
+    "num_ratings": 5
   },
   {
     "code": "1703",
@@ -54,24 +59,19 @@
   },
   {
     "code": "1703",
-    "group": "2",
-    "professor": "OCTAVIO GARCIA DOMINGUEZ",
+    "group": "1",
+    "professor": "FIDEL MORA GONZALEZ",
     "schedules": [
       {
-        "time": "08:30-10:00",
+        "time": "07:00-08:30",
         "days": [
           1,
           3,
           5
         ],
-        "classroom": "A204"
+        "classroom": "A209"
       }
-    ],
-    "professor_id": 164908,
-    "first_name": "Octavio",
-    "last_name": "García Domínguez",
-    "rating": 7.3333,
-    "num_ratings": 3
+    ]
   },
   {
     "code": "1703",

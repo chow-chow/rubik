@@ -15,6 +15,44 @@
   },
   {
     "code": "1450",
+    "group": "5",
+    "professor": "BRENDA NATALY SANCHEZ EGUIA",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1
+        ],
+        "classroom": "I306"
+      }
+    ],
+    "professor_id": 176745,
+    "first_name": "Brenda Nataly",
+    "last_name": "Sánchez Eguía",
+    "rating": 8.0,
+    "num_ratings": 8
+  },
+  {
+    "code": "1450",
+    "group": "6",
+    "professor": "SUSANA ABURTO MEJIA",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          3
+        ],
+        "classroom": "J106"
+      }
+    ],
+    "professor_id": 181455,
+    "first_name": "Susana",
+    "last_name": "Aburto Mejía",
+    "rating": 10.0,
+    "num_ratings": 7
+  },
+  {
+    "code": "1450",
     "group": "1",
     "professor": "ANTONIA DEL CARMEN PEREZ LEON",
     "schedules": [
@@ -59,43 +97,5 @@
         "classroom": "J107"
       }
     ]
-  },
-  {
-    "code": "1450",
-    "group": "5",
-    "professor": "BRENDA NATALY SANCHEZ EGUIA",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          1
-        ],
-        "classroom": "I306"
-      }
-    ],
-    "professor_id": 176745,
-    "first_name": "Brenda Nataly",
-    "last_name": "Sánchez Eguía",
-    "rating": 8.0,
-    "num_ratings": 8
-  },
-  {
-    "code": "1450",
-    "group": "6",
-    "professor": "SUSANA ABURTO MEJIA",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          3
-        ],
-        "classroom": "J106"
-      }
-    ],
-    "professor_id": 181455,
-    "first_name": "Susana",
-    "last_name": "Aburto Mejía",
-    "rating": 10.0,
-    "num_ratings": 7
   }
 ]

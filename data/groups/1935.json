@@ -22,6 +22,27 @@
   },
   {
     "code": "1935",
+    "group": "5",
+    "professor": "LUIS ANTONIO GARCIA VILLANUEVA",
+    "schedules": [
+      {
+        "time": "16:00-17:30",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "A211"
+      }
+    ],
+    "professor_id": 79610,
+    "first_name": "Luis Antonio",
+    "last_name": "Garcia Villanueva",
+    "rating": 8.0,
+    "num_ratings": 2
+  },
+  {
+    "code": "1935",
     "group": "2",
     "professor": "DULCE MARIA CISNEROS PERALTA",
     "schedules": [
@@ -72,27 +93,6 @@
         "classroom": "A308"
       }
     ]
-  },
-  {
-    "code": "1935",
-    "group": "5",
-    "professor": "LUIS ANTONIO GARCIA VILLANUEVA",
-    "schedules": [
-      {
-        "time": "16:00-17:30",
-        "days": [
-          1,
-          3,
-          5
-        ],
-        "classroom": "A211"
-      }
-    ],
-    "professor_id": 79610,
-    "first_name": "Luis Antonio",
-    "last_name": "Garcia Villanueva",
-    "rating": 8.0,
-    "num_ratings": 2
   },
   {
     "code": "1935",

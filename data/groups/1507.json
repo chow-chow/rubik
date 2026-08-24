@@ -1,43 +1,6 @@
 [
   {
     "code": "1507",
-    "group": "4",
-    "professor": "JESUS GALLEGOS SILVA",
-    "schedules": [
-      {
-        "time": "11:30-13:00",
-        "days": [
-          1,
-          3,
-          5
-        ],
-        "classroom": "A307"
-      }
-    ],
-    "professor_id": 135259,
-    "first_name": "Jesús",
-    "last_name": "Gallegos Silva",
-    "rating": 7.1667,
-    "num_ratings": 6
-  },
-  {
-    "code": "1507",
-    "group": "1",
-    "professor": "VICTOR MANUEL PALMA VALDERRAMA",
-    "schedules": [
-      {
-        "time": "07:00-08:30",
-        "days": [
-          1,
-          3,
-          5
-        ],
-        "classroom": "A308"
-      }
-    ]
-  },
-  {
-    "code": "1507",
     "group": "2",
     "professor": "AMADO ABEL JIMENEZ CASTAÑEDA",
     "schedules": [
@@ -59,19 +22,24 @@
   },
   {
     "code": "1507",
-    "group": "3",
-    "professor": "SEBASTIAN HERNANDEZ CAIRE",
+    "group": "4",
+    "professor": "JESUS GALLEGOS SILVA",
     "schedules": [
       {
-        "time": "10:00-11:30",
+        "time": "11:30-13:00",
         "days": [
           1,
           3,
           5
         ],
-        "classroom": "A212"
+        "classroom": "A307"
       }
-    ]
+    ],
+    "professor_id": 135259,
+    "first_name": "Jesús",
+    "last_name": "Gallegos Silva",
+    "rating": 7.1667,
+    "num_ratings": 6
   },
   {
     "code": "1507",
@@ -108,6 +76,38 @@
     "last_name": "Maya Franco",
     "rating": 8.0,
     "num_ratings": 4
+  },
+  {
+    "code": "1507",
+    "group": "1",
+    "professor": "VICTOR MANUEL PALMA VALDERRAMA",
+    "schedules": [
+      {
+        "time": "07:00-08:30",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "A308"
+      }
+    ]
+  },
+  {
+    "code": "1507",
+    "group": "3",
+    "professor": "SEBASTIAN HERNANDEZ CAIRE",
+    "schedules": [
+      {
+        "time": "10:00-11:30",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "A212"
+      }
+    ]
   },
   {
     "code": "1507",

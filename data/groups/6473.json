@@ -1,6 +1,25 @@
 [
   {
     "code": "6473",
+    "group": "9",
+    "professor": "MICHAEL JOSSUE ROJAS GARCIA",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2
+        ],
+        "classroom": "P114"
+      }
+    ],
+    "professor_id": 124068,
+    "first_name": "M.I. MICHAEL JOSSUE",
+    "last_name": "ROJAS GARCIA",
+    "rating": 9.2917,
+    "num_ratings": 24
+  },
+  {
+    "code": "6473",
     "group": "12",
     "professor": "MIREYA OSORIO PALACIOS",
     "schedules": [
@@ -192,25 +211,6 @@
         "classroom": "P114"
       }
     ]
-  },
-  {
-    "code": "6473",
-    "group": "9",
-    "professor": "MICHAEL JOSSUE ROJAS GARCIA",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          2
-        ],
-        "classroom": "P114"
-      }
-    ],
-    "professor_id": 124068,
-    "first_name": "M.I. MICHAEL JOSSUE",
-    "last_name": "ROJAS GARCIA",
-    "rating": 9.2917,
-    "num_ratings": 24
   },
   {
     "code": "6473",

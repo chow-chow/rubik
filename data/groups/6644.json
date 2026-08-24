@@ -39,6 +39,25 @@
   },
   {
     "code": "6644",
+    "group": "4",
+    "professor": "JUAN ANGEL CALVILLO PEREZ",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          2
+        ],
+        "classroom": "T101"
+      }
+    ],
+    "professor_id": 135119,
+    "first_name": "Juan Ángel",
+    "last_name": "Calvillo Pérez",
+    "rating": 8.3333,
+    "num_ratings": 27
+  },
+  {
+    "code": "6644",
     "group": "6",
     "professor": "JORGE ALBERTO RODRIGUEZ CAMPOS",
     "schedules": [
@@ -55,6 +74,25 @@
     "last_name": "Rodríguez Campos",
     "rating": 8.4828,
     "num_ratings": 58
+  },
+  {
+    "code": "6644",
+    "group": "7",
+    "professor": "MARTHA LOPEZ PELCASTRE",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          5
+        ],
+        "classroom": "T101"
+      }
+    ],
+    "professor_id": 114128,
+    "first_name": "ING. MARTHA",
+    "last_name": "LOPEZ PELCASTRE",
+    "rating": 8.0435,
+    "num_ratings": 46
   },
   {
     "code": "6644",
@@ -115,25 +153,6 @@
   },
   {
     "code": "6644",
-    "group": "4",
-    "professor": "JUAN ANGEL CALVILLO PEREZ",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          2
-        ],
-        "classroom": "T101"
-      }
-    ],
-    "professor_id": 135119,
-    "first_name": "Juan Ángel",
-    "last_name": "Calvillo Pérez",
-    "rating": 8.3333,
-    "num_ratings": 27
-  },
-  {
-    "code": "6644",
     "group": "5",
     "professor": "CZESLAW KRISTOFER LUGOWSKI RIVERO",
     "schedules": [
@@ -150,24 +169,5 @@
     "last_name": "Lugowski Rivero",
     "rating": 8.7143,
     "num_ratings": 21
-  },
-  {
-    "code": "6644",
-    "group": "7",
-    "professor": "MARTHA LOPEZ PELCASTRE",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          5
-        ],
-        "classroom": "T101"
-      }
-    ],
-    "professor_id": 114128,
-    "first_name": "ING. MARTHA",
-    "last_name": "LOPEZ PELCASTRE",
-    "rating": 8.0435,
-    "num_ratings": 46
   }
 ]

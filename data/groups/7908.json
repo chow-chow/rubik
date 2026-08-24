@@ -1,25 +1,6 @@
 [
   {
     "code": "7908",
-    "group": "1",
-    "professor": "SERGIO CORTES LOPEZ",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          3
-        ],
-        "classroom": "S201"
-      }
-    ],
-    "professor_id": 109198,
-    "first_name": "Sergio",
-    "last_name": "Cortes Lopez",
-    "rating": 2.5,
-    "num_ratings": 2
-  },
-  {
-    "code": "7908",
     "group": "2",
     "professor": "LUIS MIGUEL CASTRO GONZALEZ",
     "schedules": [
@@ -36,5 +17,24 @@
     "last_name": "Castro González",
     "rating": 7.0,
     "num_ratings": 17
+  },
+  {
+    "code": "7908",
+    "group": "1",
+    "professor": "SERGIO CORTES LOPEZ",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          3
+        ],
+        "classroom": "S201"
+      }
+    ],
+    "professor_id": 109198,
+    "first_name": "Sergio",
+    "last_name": "Cortes Lopez",
+    "rating": 2.5,
+    "num_ratings": 2
   }
 ]

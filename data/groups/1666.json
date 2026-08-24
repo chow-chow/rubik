@@ -1,21 +1,6 @@
 [
   {
     "code": "1666",
-    "group": "2",
-    "professor": "MIRIAM SOSA DIAZ",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "C402"
-      }
-    ]
-  },
-  {
-    "code": "1666",
     "group": "1",
     "professor": "LUIS ALBERTO VAZQUEZ MAISON",
     "schedules": [
@@ -26,6 +11,21 @@
           4
         ],
         "classroom": "D009"
+      }
+    ]
+  },
+  {
+    "code": "1666",
+    "group": "2",
+    "professor": "MIRIAM SOSA DIAZ",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "C402"
       }
     ]
   },

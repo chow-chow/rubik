@@ -1,25 +1,6 @@
 [
   {
     "code": "5879",
-    "group": "6",
-    "professor": "JOSE LUIS VILLEDAS MORALES",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          1
-        ],
-        "classroom": "Q303"
-      }
-    ],
-    "professor_id": 99092,
-    "first_name": "JOSE LUIS",
-    "last_name": "VILLEDAS MORALES",
-    "rating": 7.2857,
-    "num_ratings": 7
-  },
-  {
-    "code": "5879",
     "group": "1",
     "professor": "MONICA LOPEZ COYOTE",
     "schedules": [
@@ -101,6 +82,25 @@
     "schedules": [
       {
         "time": "15:00-17:00",
+        "days": [
+          1
+        ],
+        "classroom": "Q303"
+      }
+    ],
+    "professor_id": 99092,
+    "first_name": "JOSE LUIS",
+    "last_name": "VILLEDAS MORALES",
+    "rating": 7.2857,
+    "num_ratings": 7
+  },
+  {
+    "code": "5879",
+    "group": "6",
+    "professor": "JOSE LUIS VILLEDAS MORALES",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
         "days": [
           1
         ],

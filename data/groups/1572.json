@@ -1,26 +1,6 @@
 [
   {
     "code": "1572",
-    "group": "2",
-    "professor": "RICARDO JOSE PADILLA Y SANCHEZ",
-    "schedules": [
-      {
-        "time": "16:00-18:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "C302"
-      }
-    ],
-    "professor_id": 104921,
-    "first_name": "Ricardo Jose",
-    "last_name": "Padilla y Sanchez",
-    "rating": 8.2,
-    "num_ratings": 5
-  },
-  {
-    "code": "1572",
     "group": "1",
     "professor": "JAVIER ARELLANO GIL",
     "schedules": [
@@ -38,6 +18,26 @@
     "last_name": "arellano",
     "rating": 7.0,
     "num_ratings": 3
+  },
+  {
+    "code": "1572",
+    "group": "2",
+    "professor": "RICARDO JOSE PADILLA Y SANCHEZ",
+    "schedules": [
+      {
+        "time": "16:00-18:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "C302"
+      }
+    ],
+    "professor_id": 104921,
+    "first_name": "Ricardo Jose",
+    "last_name": "Padilla y Sanchez",
+    "rating": 8.2,
+    "num_ratings": 5
   },
   {
     "code": "1572",

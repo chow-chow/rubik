@@ -21,6 +21,26 @@
   },
   {
     "code": "1659",
+    "group": "5",
+    "professor": "EPIFANIO VARGAS ALCARAZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "B303"
+      }
+    ],
+    "professor_id": 95428,
+    "first_name": "Epifanio",
+    "last_name": "Vargas Alcaraz",
+    "rating": 7.2143,
+    "num_ratings": 28
+  },
+  {
+    "code": "1659",
     "group": "6",
     "professor": "JOSE ROGELIO VALDES HERRERA",
     "schedules": [
@@ -98,25 +118,5 @@
     "last_name": "GUTIERREZ",
     "rating": 5.0,
     "num_ratings": 22
-  },
-  {
-    "code": "1659",
-    "group": "5",
-    "professor": "EPIFANIO VARGAS ALCARAZ",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "B303"
-      }
-    ],
-    "professor_id": 95428,
-    "first_name": "Epifanio",
-    "last_name": "Vargas Alcaraz",
-    "rating": 7.2143,
-    "num_ratings": 28
   }
 ]

@@ -1,21 +1,6 @@
 [
   {
     "code": "2827",
-    "group": "1",
-    "professor": "IRIS VIOLETA CUREÑO GONZALEZ",
-    "schedules": [
-      {
-        "time": "14:30-16:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "A212"
-      }
-    ]
-  },
-  {
-    "code": "2827",
     "group": "2",
     "professor": "ALEJANDRA MEDINA AREVALO",
     "schedules": [
@@ -33,5 +18,20 @@
     "last_name": "Medina Arévalo",
     "rating": 7.2,
     "num_ratings": 5
+  },
+  {
+    "code": "2827",
+    "group": "1",
+    "professor": "IRIS VIOLETA CUREÑO GONZALEZ",
+    "schedules": [
+      {
+        "time": "14:30-16:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "A212"
+      }
+    ]
   }
 ]

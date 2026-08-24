@@ -1,6 +1,52 @@
 [
   {
     "code": "1807",
+    "group": "3",
+    "professor": "JUAN MAURICIO ANGELES CERVANTES",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "D003"
+      }
+    ],
+    "professor_id": 132604,
+    "first_name": "Juan Mauricio",
+    "last_name": "Angeles Cervantes",
+    "rating": 4.75,
+    "num_ratings": 8
+  },
+  {
+    "code": "1807",
+    "group": "4",
+    "professor": "JUAN MAURICIO ANGELES CERVANTES",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          3
+        ],
+        "classroom": "Y004"
+      },
+      {
+        "time": "09:00-11:00",
+        "days": [
+          5
+        ],
+        "classroom": "O101"
+      }
+    ],
+    "professor_id": 132604,
+    "first_name": "Juan Mauricio",
+    "last_name": "Angeles Cervantes",
+    "rating": 4.75,
+    "num_ratings": 8
+  },
+  {
+    "code": "1807",
     "group": "1",
     "professor": "ARTURO RONQUILLO ARVIZU",
     "schedules": [
@@ -38,51 +84,5 @@
     "last_name": "Mendoza Soto",
     "rating": 8.8182,
     "num_ratings": 11
-  },
-  {
-    "code": "1807",
-    "group": "3",
-    "professor": "JUAN MAURICIO ANGELES CERVANTES",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "D003"
-      }
-    ],
-    "professor_id": 132604,
-    "first_name": "Juan Mauricio",
-    "last_name": "Angeles Cervantes",
-    "rating": 4.75,
-    "num_ratings": 8
-  },
-  {
-    "code": "1807",
-    "group": "4",
-    "professor": "JUAN MAURICIO ANGELES CERVANTES",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          5
-        ],
-        "classroom": "O101"
-      },
-      {
-        "time": "09:00-11:00",
-        "days": [
-          3
-        ],
-        "classroom": "Y004"
-      }
-    ],
-    "professor_id": 132604,
-    "first_name": "Juan Mauricio",
-    "last_name": "Angeles Cervantes",
-    "rating": 4.75,
-    "num_ratings": 8
   }
 ]

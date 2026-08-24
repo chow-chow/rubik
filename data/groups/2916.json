@@ -1,6 +1,26 @@
 [
   {
     "code": "2916",
+    "group": "3",
+    "professor": "JESUS ANTONIO CONTRERAS RAMIREZ",
+    "schedules": [
+      {
+        "time": "10:00-11:30",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A309"
+      }
+    ],
+    "professor_id": 118842,
+    "first_name": "Jesús Antonio",
+    "last_name": "Contreras Ramírez",
+    "rating": 6.2,
+    "num_ratings": 40
+  },
+  {
+    "code": "2916",
     "group": "1",
     "professor": "FRANCISCO LOPEZ RIVAS",
     "schedules": [
@@ -28,26 +48,6 @@
         "classroom": "A106"
       }
     ]
-  },
-  {
-    "code": "2916",
-    "group": "3",
-    "professor": "JESUS ANTONIO CONTRERAS RAMIREZ",
-    "schedules": [
-      {
-        "time": "10:00-11:30",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "A309"
-      }
-    ],
-    "professor_id": 118842,
-    "first_name": "Jesús Antonio",
-    "last_name": "Contreras Ramírez",
-    "rating": 6.2,
-    "num_ratings": 40
   },
   {
     "code": "2916",

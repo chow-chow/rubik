@@ -36,6 +36,25 @@
   },
   {
     "code": "1531",
+    "group": "6",
+    "professor": "MARCO ANTONIO DELGADO GONZALEZ",
+    "schedules": [
+      {
+        "time": "08:00-12:00",
+        "days": [
+          6
+        ],
+        "classroom": "B306"
+      }
+    ],
+    "professor_id": 149662,
+    "first_name": "Marco Antonio",
+    "last_name": "Delgado González",
+    "rating": 8.0476,
+    "num_ratings": 21
+  },
+  {
+    "code": "1531",
     "group": "2",
     "professor": "MARGARITA MUÑOZ GONCEN",
     "schedules": [
@@ -93,24 +112,5 @@
     "last_name": "Zaldivar Esquivel",
     "rating": 9.175,
     "num_ratings": 40
-  },
-  {
-    "code": "1531",
-    "group": "6",
-    "professor": "MARCO ANTONIO DELGADO GONZALEZ",
-    "schedules": [
-      {
-        "time": "08:00-12:00",
-        "days": [
-          6
-        ],
-        "classroom": "B306"
-      }
-    ],
-    "professor_id": 149662,
-    "first_name": "Marco Antonio",
-    "last_name": "Delgado González",
-    "rating": 8.0476,
-    "num_ratings": 21
   }
 ]

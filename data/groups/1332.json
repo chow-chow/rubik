@@ -22,8 +22,60 @@
   },
   {
     "code": "1332",
+    "group": "4",
+    "professor": "PATRICIA DEL VALLE MORALES",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2
+        ],
+        "classroom": "A206"
+      },
+      {
+        "time": "11:00-13:00",
+        "days": [
+          4
+        ],
+        "classroom": "P003"
+      }
+    ],
+    "professor_id": 36976,
+    "first_name": "Patricia",
+    "last_name": "Del Valle Morales",
+    "rating": 7.3646,
+    "num_ratings": 96
+  },
+  {
+    "code": "1332",
+    "group": "5",
+    "professor": "JESSICA ROJAS SERRANO",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          3
+        ],
+        "classroom": "B205"
+      },
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1
+        ],
+        "classroom": "P003"
+      }
+    ],
+    "professor_id": 187681,
+    "first_name": "ING. JESSICA",
+    "last_name": "ROJAS SERRANO",
+    "rating": 9.3333,
+    "num_ratings": 12
+  },
+  {
+    "code": "1332",
     "group": "6",
-    "professor": "OSCAR MANUEL RUIZ USCARDO",
+    "professor": "OSCAR MANUEL RUIZ HURTADO",
     "schedules": [
       {
         "time": "15:00-17:00",
@@ -44,7 +96,7 @@
   {
     "code": "1332",
     "group": "7",
-    "professor": "ALDO HERNENDEZ FONTES",
+    "professor": "ALDO HERNANDEZ FONTES",
     "schedules": [
       {
         "time": "17:00-19:00",
@@ -108,57 +160,5 @@
     "last_name": "López García",
     "rating": 8.4722,
     "num_ratings": 72
-  },
-  {
-    "code": "1332",
-    "group": "4",
-    "professor": "PATRICIA DEL VALLE MORALES",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          2
-        ],
-        "classroom": "A206"
-      },
-      {
-        "time": "11:00-13:00",
-        "days": [
-          4
-        ],
-        "classroom": "P003"
-      }
-    ],
-    "professor_id": 36976,
-    "first_name": "Patricia",
-    "last_name": "Del Valle Morales",
-    "rating": 7.3646,
-    "num_ratings": 96
-  },
-  {
-    "code": "1332",
-    "group": "5",
-    "professor": "JESSICA ROJAS SERRANO",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          3
-        ],
-        "classroom": "B205"
-      },
-      {
-        "time": "13:00-15:00",
-        "days": [
-          1
-        ],
-        "classroom": "P003"
-      }
-    ],
-    "professor_id": 187681,
-    "first_name": "ING. JESSICA",
-    "last_name": "ROJAS SERRANO",
-    "rating": 9.3333,
-    "num_ratings": 12
   }
 ]

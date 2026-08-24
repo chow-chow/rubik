@@ -1,6 +1,20 @@
 [
   {
     "code": "5558",
+    "group": "3",
+    "professor": "EDUARDO HERNANDEZ ROMERO",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          3
+        ],
+        "classroom": "P217"
+      }
+    ]
+  },
+  {
+    "code": "5558",
     "group": "5",
     "professor": "JUAN MANUEL BARBOSA CASTILLO",
     "schedules": [
@@ -60,20 +74,6 @@
         "time": "13:00-15:00",
         "days": [
           2
-        ],
-        "classroom": "P217"
-      }
-    ]
-  },
-  {
-    "code": "5558",
-    "group": "3",
-    "professor": "EDUARDO HERNANDEZ ROMERO",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          3
         ],
         "classroom": "P217"
       }
@@ -152,8 +152,8 @@
     "professor_id": 60921,
     "first_name": "ABEL",
     "last_name": "VILLANUEVA PEÑA",
-    "rating": 4.8857,
-    "num_ratings": 35
+    "rating": 4.8889,
+    "num_ratings": 36
   },
   {
     "code": "5558",

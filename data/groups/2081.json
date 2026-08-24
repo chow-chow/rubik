@@ -1,6 +1,41 @@
 [
   {
     "code": "2081",
+    "group": "3",
+    "professor": "LUIS GUILLERMO UCHA GOMEZ",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2,
+          3
+        ],
+        "classroom": "D008"
+      }
+    ],
+    "professor_id": 134930,
+    "first_name": "Luis Guillermo",
+    "last_name": "Ucha Gomez",
+    "rating": 8.1667,
+    "num_ratings": 6
+  },
+  {
+    "code": "2081",
+    "group": "4",
+    "professor": "LEONARDO CRUZ ESPINOZA",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "C106"
+      }
+    ]
+  },
+  {
+    "code": "2081",
     "group": "1",
     "professor": "MARCOS AVALOS GARCIA",
     "schedules": [
@@ -28,25 +63,5 @@
         "classroom": "D009"
       }
     ]
-  },
-  {
-    "code": "2081",
-    "group": "3",
-    "professor": "LUIS GUILLERMO UCHA GOMEZ",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          2,
-          3
-        ],
-        "classroom": "D008"
-      }
-    ],
-    "professor_id": 134930,
-    "first_name": "Luis Guillermo",
-    "last_name": "Ucha Gomez",
-    "rating": 8.1667,
-    "num_ratings": 6
   }
 ]

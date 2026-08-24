@@ -39,48 +39,6 @@
   },
   {
     "code": "6592",
-    "group": "16",
-    "professor": "RUTH VALERIA ACERO MENDOZA",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          1
-        ],
-        "classroom": "P215"
-      }
-    ]
-  },
-  {
-    "code": "6592",
-    "group": "17",
-    "professor": "RUTH VALERIA ACERO MENDOZA",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          5
-        ],
-        "classroom": "P215"
-      }
-    ]
-  },
-  {
-    "code": "6592",
-    "group": "18",
-    "professor": "EDUARDO HERNANDEZ ROMERO",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          4
-        ],
-        "classroom": "P215"
-      }
-    ]
-  },
-  {
-    "code": "6592",
     "group": "1",
     "professor": "MARTHA ISELA TORRES HERNANDEZ",
     "schedules": [
@@ -310,5 +268,47 @@
     "last_name": "SERRANO VILLEGAS",
     "rating": 9.0,
     "num_ratings": 19
+  },
+  {
+    "code": "6592",
+    "group": "16",
+    "professor": "RUTH VALERIA ACERO MENDOZA",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1
+        ],
+        "classroom": "P215"
+      }
+    ]
+  },
+  {
+    "code": "6592",
+    "group": "17",
+    "professor": "RUTH VALERIA ACERO MENDOZA",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          5
+        ],
+        "classroom": "P215"
+      }
+    ]
+  },
+  {
+    "code": "6592",
+    "group": "18",
+    "professor": "EDUARDO HERNANDEZ ROMERO",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          4
+        ],
+        "classroom": "P215"
+      }
+    ]
   }
 ]

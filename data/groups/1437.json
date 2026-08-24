@@ -21,6 +21,26 @@
   },
   {
     "code": "1437",
+    "group": "3",
+    "professor": "ABRAHAM LAURENCIO MARTINEZ BAUTISTA",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "J110"
+      }
+    ],
+    "professor_id": 55067,
+    "first_name": "Abraham Laurencio",
+    "last_name": "Martinez  Bautista",
+    "rating": 4.7292,
+    "num_ratings": 48
+  },
+  {
+    "code": "1437",
     "group": "14",
     "professor": "RICARDO CABRERA POSADA",
     "schedules": [
@@ -56,42 +76,22 @@
   },
   {
     "code": "1437",
-    "group": "3",
-    "professor": "ABRAHAM LAURENCIO MARTINEZ BAUTISTA",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "J110"
-      }
-    ],
-    "professor_id": 55067,
-    "first_name": "Abraham Laurencio",
-    "last_name": "Martinez  Bautista",
-    "rating": 4.7292,
-    "num_ratings": 48
-  },
-  {
-    "code": "1437",
     "group": "4",
     "professor": "MARIA DEL PILAR AGUILAR DEL VALLE",
     "schedules": [
       {
         "time": "09:00-11:00",
         "days": [
-          5
+          3
         ],
-        "classroom": "J210"
+        "classroom": "J211"
       },
       {
         "time": "09:00-11:00",
         "days": [
-          3
+          5
         ],
-        "classroom": "J211"
+        "classroom": "J210"
       }
     ]
   },

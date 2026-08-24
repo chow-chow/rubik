@@ -28,5 +28,20 @@
         "classroom": "X101"
       }
     ]
+  },
+  {
+    "code": "1799",
+    "group": "3",
+    "professor": "FERNANDO PEREZ ESCAMIROSA",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "EXTR"
+      }
+    ]
   }
 ]

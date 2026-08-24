@@ -1,13 +1,51 @@
 [
   {
     "code": "6437",
-    "group": "12",
-    "professor": "LUIS ALBERTO HERRERA BONILLA",
+    "group": "3",
+    "professor": "EHECATL LUIS DAVID PALEO GONZALEZ",
     "schedules": [
       {
-        "time": "17:00-19:00",
+        "time": "11:00-13:00",
+        "days": [
+          1
+        ],
+        "classroom": "G001"
+      }
+    ],
+    "professor_id": 84416,
+    "first_name": "Ehecatl Luis",
+    "last_name": "Paleo González",
+    "rating": 6.5313,
+    "num_ratings": 32
+  },
+  {
+    "code": "6437",
+    "group": "10",
+    "professor": "CLAUDIA ELISA SANCHEZ NAVARRO",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
         "days": [
           2
+        ],
+        "classroom": "G001"
+      }
+    ],
+    "professor_id": 68129,
+    "first_name": "Claudia Elisa",
+    "last_name": "Sanchez Navarro",
+    "rating": 4.7727,
+    "num_ratings": 22
+  },
+  {
+    "code": "6437",
+    "group": "13",
+    "professor": "DANIEL PAREDES GARCIA",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          3
         ],
         "classroom": "G001"
       }
@@ -25,7 +63,31 @@
         ],
         "classroom": "G001"
       }
-    ]
+    ],
+    "professor_id": 192274,
+    "first_name": "Luis Alberto",
+    "last_name": "Herrera Bonilla",
+    "rating": 9.0,
+    "num_ratings": 3
+  },
+  {
+    "code": "6437",
+    "group": "28",
+    "professor": "EHECATL LUIS DAVID PALEO GONZALEZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          5
+        ],
+        "classroom": "G001"
+      }
+    ],
+    "professor_id": 84416,
+    "first_name": "Ehecatl Luis",
+    "last_name": "Paleo González",
+    "rating": 6.5313,
+    "num_ratings": 32
   },
   {
     "code": "6437",
@@ -64,25 +126,6 @@
     "last_name": "Zaragoza Zuñiga",
     "rating": 9.15,
     "num_ratings": 20
-  },
-  {
-    "code": "6437",
-    "group": "3",
-    "professor": "EHECATL LUIS DAVID PALEO GONZALEZ",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          1
-        ],
-        "classroom": "G001"
-      }
-    ],
-    "professor_id": 84416,
-    "first_name": "Ehecatl Luis",
-    "last_name": "Paleo González",
-    "rating": 6.5313,
-    "num_ratings": 32
   },
   {
     "code": "6437",
@@ -195,25 +238,6 @@
   },
   {
     "code": "6437",
-    "group": "10",
-    "professor": "CLAUDIA ELISA SANCHEZ NAVARRO",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          2
-        ],
-        "classroom": "G001"
-      }
-    ],
-    "professor_id": 68129,
-    "first_name": "Claudia Elisa",
-    "last_name": "Sanchez Navarro",
-    "rating": 4.7727,
-    "num_ratings": 22
-  },
-  {
-    "code": "6437",
     "group": "11",
     "professor": "GABRIELA MACIAS ESQUIVEL",
     "schedules": [
@@ -233,17 +257,22 @@
   },
   {
     "code": "6437",
-    "group": "13",
-    "professor": "DANIEL PAREDES GARCIA",
+    "group": "12",
+    "professor": "LUIS ALBERTO HERRERA BONILLA",
     "schedules": [
       {
-        "time": "07:00-09:00",
+        "time": "17:00-19:00",
         "days": [
-          3
+          2
         ],
         "classroom": "G001"
       }
-    ]
+    ],
+    "professor_id": 192274,
+    "first_name": "Luis Alberto",
+    "last_name": "Herrera Bonilla",
+    "rating": 9.0,
+    "num_ratings": 3
   },
   {
     "code": "6437",
@@ -461,24 +490,5 @@
     "last_name": "Franco García",
     "rating": 7.1,
     "num_ratings": 20
-  },
-  {
-    "code": "6437",
-    "group": "28",
-    "professor": "EHECATL LUIS DAVID PALEO GONZALEZ",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          5
-        ],
-        "classroom": "G001"
-      }
-    ],
-    "professor_id": 84416,
-    "first_name": "Ehecatl Luis",
-    "last_name": "Paleo González",
-    "rating": 6.5313,
-    "num_ratings": 32
   }
 ]

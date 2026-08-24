@@ -47,23 +47,23 @@
       {
         "time": "07:00-09:00",
         "days": [
-          5
+          1
         ],
-        "classroom": "J210"
+        "classroom": "J211"
       },
       {
         "time": "07:00-09:00",
         "days": [
-          1
+          5
         ],
-        "classroom": "J211"
+        "classroom": "J210"
       }
     ],
     "professor_id": 30167,
     "first_name": "Alicia",
     "last_name": "Esponda Cascajares",
-    "rating": 8.0556,
-    "num_ratings": 54
+    "rating": 8.0909,
+    "num_ratings": 55
   },
   {
     "code": "1333",
@@ -82,8 +82,8 @@
     "professor_id": 30167,
     "first_name": "Alicia",
     "last_name": "Esponda Cascajares",
-    "rating": 8.0556,
-    "num_ratings": 54
+    "rating": 8.0909,
+    "num_ratings": 55
   },
   {
     "code": "1333",

@@ -1,22 +1,46 @@
 [
   {
     "code": "2917",
-    "group": "8",
-    "professor": "FLOR HERNANDEZ PADILLA",
+    "group": "4",
+    "professor": "OCTAVIO ESTRADA CASTILLO",
     "schedules": [
       {
         "time": "11:00-13:00",
         "days": [
+          1
+        ],
+        "classroom": "EXTR"
+      }
+    ]
+  },
+  {
+    "code": "2917",
+    "group": "6",
+    "professor": "JENARO NOSEDAL SANCHEZ",
+    "schedules": [
+      {
+        "time": "20:00-22:00",
+        "days": [
+          4,
           5
         ],
         "classroom": "EXTR"
       }
-    ],
-    "professor_id": 94327,
-    "first_name": "Flor",
-    "last_name": "Hernández Padilla",
-    "rating": 5.65,
-    "num_ratings": 20
+    ]
+  },
+  {
+    "code": "2917",
+    "group": "10",
+    "professor": "EDGAR URIBE GARCIA",
+    "schedules": [
+      {
+        "time": "17:00-21:00",
+        "days": [
+          4
+        ],
+        "classroom": "EXTR"
+      }
+    ]
   },
   {
     "code": "2917",
@@ -96,41 +120,12 @@
   },
   {
     "code": "2917",
-    "group": "4",
-    "professor": "OCTAVIO ESTRADA CASTILLO",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          1
-        ],
-        "classroom": "EXTR"
-      }
-    ]
-  },
-  {
-    "code": "2917",
     "group": "5",
     "professor": "HILDA REYNA SOLIS VIVANCO",
     "schedules": [
       {
         "time": "11:00-15:00",
         "days": [
-          5
-        ],
-        "classroom": "EXTR"
-      }
-    ]
-  },
-  {
-    "code": "2917",
-    "group": "6",
-    "professor": "JENARO NOSEDAL SANCHEZ",
-    "schedules": [
-      {
-        "time": "20:00-22:00",
-        "days": [
-          4,
           5
         ],
         "classroom": "EXTR"
@@ -158,6 +153,25 @@
   },
   {
     "code": "2917",
+    "group": "8",
+    "professor": "FLOR HERNANDEZ PADILLA",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          5
+        ],
+        "classroom": "EXTR"
+      }
+    ],
+    "professor_id": 94327,
+    "first_name": "Flor",
+    "last_name": "Hernández Padilla",
+    "rating": 5.65,
+    "num_ratings": 20
+  },
+  {
+    "code": "2917",
     "group": "9",
     "professor": "DIEGO ALBERTO NIETO FIERRO",
     "schedules": [
@@ -174,20 +188,6 @@
     "last_name": "Nieto Fierro",
     "rating": 9.8333,
     "num_ratings": 6
-  },
-  {
-    "code": "2917",
-    "group": "10",
-    "professor": "EDGAR URIBE GARCIA",
-    "schedules": [
-      {
-        "time": "17:00-21:00",
-        "days": [
-          4
-        ],
-        "classroom": "EXTR"
-      }
-    ]
   },
   {
     "code": "2917",
@@ -224,8 +224,8 @@
     "professor_id": 98611,
     "first_name": "Silvina",
     "last_name": "Hernández García",
-    "rating": 6.7143,
-    "num_ratings": 7
+    "rating": 6.625,
+    "num_ratings": 8
   },
   {
     "code": "2917",

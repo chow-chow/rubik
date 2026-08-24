@@ -110,6 +110,25 @@
   },
   {
     "code": "7603",
+    "group": "9",
+    "professor": "PABLO EDUARDO LIRA VELAZQUEZ",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          4
+        ],
+        "classroom": "O009"
+      }
+    ],
+    "professor_id": 190647,
+    "first_name": "Pablo Eduardo",
+    "last_name": "Lira Velazquez",
+    "rating": 7.38,
+    "num_ratings": 16
+  },
+  {
+    "code": "7603",
     "group": "10",
     "professor": "Grupo cancelado, contactar a la División.",
     "schedules": [
@@ -159,24 +178,5 @@
     "last_name": "Garduño Garcia",
     "rating": 7.2857,
     "num_ratings": 14
-  },
-  {
-    "code": "7603",
-    "group": "9",
-    "professor": "PABLO EDUARDO LIRA VELAZQUEZ",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          4
-        ],
-        "classroom": "O009"
-      }
-    ],
-    "professor_id": 190647,
-    "first_name": "Pablo Eduardo",
-    "last_name": "Lira Velazquez",
-    "rating": 7.38,
-    "num_ratings": 16
   }
 ]

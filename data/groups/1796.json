@@ -39,25 +39,6 @@
   },
   {
     "code": "1796",
-    "group": "3",
-    "professor": "LUIS EDUARDO LEDESMA SOLANO",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          1
-        ],
-        "classroom": "A101"
-      }
-    ],
-    "professor_id": 90128,
-    "first_name": "Luis Eduardo",
-    "last_name": "Ledesma Solano",
-    "rating": 9.5652,
-    "num_ratings": 207
-  },
-  {
-    "code": "1796",
     "group": "5",
     "professor": "JOSE FRANCISCO ALBARRAN NUÑEZ",
     "schedules": [
@@ -69,25 +50,6 @@
         "classroom": "A103"
       }
     ]
-  },
-  {
-    "code": "1796",
-    "group": "6",
-    "professor": "DIEGO JAVIER SANTAMARIA NAJERA",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          3
-        ],
-        "classroom": "A104"
-      }
-    ],
-    "professor_id": 156753,
-    "first_name": "Diego Javier",
-    "last_name": "Santamaría Nájera",
-    "rating": 9.8571,
-    "num_ratings": 7
   },
   {
     "code": "1796",
@@ -138,6 +100,25 @@
   },
   {
     "code": "1796",
+    "group": "3",
+    "professor": "LUIS EDUARDO LEDESMA SOLANO",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1
+        ],
+        "classroom": "A101"
+      }
+    ],
+    "professor_id": 90128,
+    "first_name": "Luis Eduardo",
+    "last_name": "Ledesma Solano",
+    "rating": 9.5652,
+    "num_ratings": 207
+  },
+  {
+    "code": "1796",
     "group": "4",
     "professor": "GUILLERMINA PEREZ DURAN",
     "schedules": [
@@ -154,5 +135,24 @@
     "last_name": "Perez Duran",
     "rating": 8.7778,
     "num_ratings": 27
+  },
+  {
+    "code": "1796",
+    "group": "6",
+    "professor": "DIEGO JAVIER SANTAMARIA NAJERA",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          3
+        ],
+        "classroom": "A104"
+      }
+    ],
+    "professor_id": 156753,
+    "first_name": "Diego Javier",
+    "last_name": "Santamaría Nájera",
+    "rating": 9.8571,
+    "num_ratings": 7
   }
 ]

@@ -21,6 +21,25 @@
   },
   {
     "code": "1590",
+    "group": "7",
+    "professor": "JOSE ROQUE ROMAN GUADARRAMA",
+    "schedules": [
+      {
+        "time": "11:00-15:00",
+        "days": [
+          5
+        ],
+        "classroom": "A201"
+      }
+    ],
+    "professor_id": 95712,
+    "first_name": "José Roque",
+    "last_name": "Román Guadarrama",
+    "rating": 7.4103,
+    "num_ratings": 39
+  },
+  {
+    "code": "1590",
     "group": "1",
     "professor": "ARTURO PEREZ DE LA CRUZ",
     "schedules": [
@@ -36,8 +55,8 @@
     "professor_id": 95352,
     "first_name": "Arturo",
     "last_name": "Pérez De la Cruz",
-    "rating": 5.2857,
-    "num_ratings": 28
+    "rating": 5.2414,
+    "num_ratings": 29
   },
   {
     "code": "1590",
@@ -118,24 +137,5 @@
     "last_name": "Roman Balbuena",
     "rating": 6.1923,
     "num_ratings": 52
-  },
-  {
-    "code": "1590",
-    "group": "7",
-    "professor": "JOSE ROQUE ROMAN GUADARRAMA",
-    "schedules": [
-      {
-        "time": "11:00-15:00",
-        "days": [
-          5
-        ],
-        "classroom": "A201"
-      }
-    ],
-    "professor_id": 95712,
-    "first_name": "José Roque",
-    "last_name": "Román Guadarrama",
-    "rating": 7.4103,
-    "num_ratings": 39
   }
 ]

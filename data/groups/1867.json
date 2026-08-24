@@ -1,6 +1,40 @@
 [
   {
     "code": "1867",
+    "group": "4",
+    "professor": "RICARDO DANIEL VEGA GUTIERREZ",
+    "schedules": [
+      {
+        "time": "13:00-14:30",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A305"
+      }
+    ]
+  },
+  {
+    "code": "1867",
+    "group": "5",
+    "professor": "JOSE LUIS CRUZ MORA",
+    "schedules": [
+      {
+        "time": "10:00-13:00",
+        "days": [
+          6
+        ],
+        "classroom": "B206"
+      }
+    ],
+    "professor_id": 83173,
+    "first_name": "José Luis",
+    "last_name": "Cruz Mora",
+    "rating": 7.7368,
+    "num_ratings": 19
+  },
+  {
+    "code": "1867",
     "group": "6",
     "professor": "CARLOS SAUCEDO MACIEL",
     "schedules": [
@@ -77,39 +111,5 @@
     "last_name": "Cruz Estrada",
     "rating": 8.8182,
     "num_ratings": 11
-  },
-  {
-    "code": "1867",
-    "group": "4",
-    "professor": "RICARDO DANIEL VEGA GUTIERREZ",
-    "schedules": [
-      {
-        "time": "13:00-14:30",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "A305"
-      }
-    ]
-  },
-  {
-    "code": "1867",
-    "group": "5",
-    "professor": "JOSE LUIS CRUZ MORA",
-    "schedules": [
-      {
-        "time": "10:00-13:00",
-        "days": [
-          6
-        ],
-        "classroom": "B206"
-      }
-    ],
-    "professor_id": 83173,
-    "first_name": "José Luis",
-    "last_name": "Cruz Mora",
-    "rating": 7.7368,
-    "num_ratings": 19
   }
 ]

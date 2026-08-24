@@ -31,6 +31,26 @@
   },
   {
     "code": "2920",
+    "group": "4",
+    "professor": "RICARDO FERAT DURAN",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "EXTR"
+      }
+    ],
+    "professor_id": 124092,
+    "first_name": "Ricardo",
+    "last_name": "Ferat Duran",
+    "rating": 5.3333,
+    "num_ratings": 3
+  },
+  {
+    "code": "2920",
     "group": "5",
     "professor": "MANUEL ESPINOSA GARRIDO",
     "schedules": [
@@ -82,25 +102,5 @@
     "last_name": "Torres Aguilar",
     "rating": 6.6667,
     "num_ratings": 15
-  },
-  {
-    "code": "2920",
-    "group": "4",
-    "professor": "RICARDO FERAT DURAN",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "EXTR"
-      }
-    ],
-    "professor_id": 124092,
-    "first_name": "Ricardo",
-    "last_name": "Ferat Duran",
-    "rating": 5.3333,
-    "num_ratings": 3
   }
 ]

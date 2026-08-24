@@ -1,6 +1,25 @@
 [
   {
     "code": "1918",
+    "group": "1",
+    "professor": "CLAUDIO MELENDEZ GONZALEZ",
+    "schedules": [
+      {
+        "time": "08:00-12:00",
+        "days": [
+          6
+        ],
+        "classroom": "D001"
+      }
+    ],
+    "professor_id": 161845,
+    "first_name": "CLAUDIO",
+    "last_name": "MELENDEZ GONZALEZ",
+    "rating": 9.25,
+    "num_ratings": 4
+  },
+  {
+    "code": "1918",
     "group": "2",
     "professor": "ADRIANA GAVIRA DURON",
     "schedules": [
@@ -38,25 +57,6 @@
     "last_name": "Hernández Padilla",
     "rating": 5.65,
     "num_ratings": 20
-  },
-  {
-    "code": "1918",
-    "group": "1",
-    "professor": "CLAUDIO MELENDEZ GONZALEZ",
-    "schedules": [
-      {
-        "time": "08:00-12:00",
-        "days": [
-          6
-        ],
-        "classroom": "D001"
-      }
-    ],
-    "professor_id": 161845,
-    "first_name": "CLAUDIO",
-    "last_name": "MELENDEZ GONZALEZ",
-    "rating": 9.25,
-    "num_ratings": 4
   },
   {
     "code": "1918",

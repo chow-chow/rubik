@@ -1,34 +1,6 @@
 [
   {
     "code": "6617",
-    "group": "1",
-    "professor": "ADOLFO ROJAS JUAREZ",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          1
-        ],
-        "classroom": "Q101"
-      }
-    ]
-  },
-  {
-    "code": "6617",
-    "group": "3",
-    "professor": "ARMANDO ROJAS ASCENCIO",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          1
-        ],
-        "classroom": "Q101"
-      }
-    ]
-  },
-  {
-    "code": "6617",
     "group": "4",
     "professor": "MARIA DEL SOCORRO GUEVARA RODRIGUEZ",
     "schedules": [
@@ -45,6 +17,72 @@
     "last_name": "Guevara Rodriguez",
     "rating": 5.9189,
     "num_ratings": 37
+  },
+  {
+    "code": "6617",
+    "group": "11",
+    "professor": "JAIME HECTOR MURILLO QUINTERO",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          5
+        ],
+        "classroom": "Q101"
+      }
+    ],
+    "professor_id": 94156,
+    "first_name": "Jaime Hector",
+    "last_name": "Murillo Quintero",
+    "rating": 4.7273,
+    "num_ratings": 22
+  },
+  {
+    "code": "6617",
+    "group": "1",
+    "professor": "ADOLFO ROJAS JUAREZ",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1
+        ],
+        "classroom": "Q101"
+      }
+    ]
+  },
+  {
+    "code": "6617",
+    "group": "2",
+    "professor": "JAIME HECTOR MURILLO QUINTERO",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1
+        ],
+        "classroom": "Q106"
+      }
+    ],
+    "professor_id": 94156,
+    "first_name": "Jaime Hector",
+    "last_name": "Murillo Quintero",
+    "rating": 4.7273,
+    "num_ratings": 22
+  },
+  {
+    "code": "6617",
+    "group": "3",
+    "professor": "ARMANDO ROJAS ASCENCIO",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1
+        ],
+        "classroom": "Q101"
+      }
+    ]
   },
   {
     "code": "6617",
@@ -133,8 +171,8 @@
     "professor_id": 161304,
     "first_name": "Omar Edsiel",
     "last_name": "Abrego Blancas",
-    "rating": 9.7,
-    "num_ratings": 10
+    "rating": 9.7273,
+    "num_ratings": 11
   },
   {
     "code": "6617",
@@ -152,27 +190,8 @@
     "professor_id": 161304,
     "first_name": "Omar Edsiel",
     "last_name": "Abrego Blancas",
-    "rating": 9.7,
-    "num_ratings": 10
-  },
-  {
-    "code": "6617",
-    "group": "11",
-    "professor": "JAIME HECTOR MURILLO QUINTERO",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          5
-        ],
-        "classroom": "Q101"
-      }
-    ],
-    "professor_id": 94156,
-    "first_name": "Jaime Hector",
-    "last_name": "Murillo Quintero",
-    "rating": 4.7273,
-    "num_ratings": 22
+    "rating": 9.7273,
+    "num_ratings": 11
   },
   {
     "code": "6617",
@@ -190,26 +209,7 @@
     "professor_id": 161304,
     "first_name": "Omar Edsiel",
     "last_name": "Abrego Blancas",
-    "rating": 9.7,
-    "num_ratings": 10
-  },
-  {
-    "code": "6617",
-    "group": "2",
-    "professor": "JAIME HECTOR MURILLO QUINTERO",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          1
-        ],
-        "classroom": "Q106"
-      }
-    ],
-    "professor_id": 94156,
-    "first_name": "Jaime Hector",
-    "last_name": "Murillo Quintero",
-    "rating": 4.7273,
-    "num_ratings": 22
+    "rating": 9.7273,
+    "num_ratings": 11
   }
 ]

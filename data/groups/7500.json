@@ -20,6 +20,25 @@
   },
   {
     "code": "7500",
+    "group": "16",
+    "professor": "DAVID MARTINEZ HERNANDEZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          3
+        ],
+        "classroom": "O002"
+      }
+    ],
+    "professor_id": 101528,
+    "first_name": "David",
+    "last_name": "Martínez Hernández",
+    "rating": 7.8519,
+    "num_ratings": 27
+  },
+  {
+    "code": "7500",
     "group": "18",
     "professor": "MARTIN REYES FARIAS",
     "schedules": [
@@ -312,25 +331,6 @@
         "time": "15:00-17:00",
         "days": [
           2
-        ],
-        "classroom": "O002"
-      }
-    ],
-    "professor_id": 101528,
-    "first_name": "David",
-    "last_name": "Martínez Hernández",
-    "rating": 7.8519,
-    "num_ratings": 27
-  },
-  {
-    "code": "7500",
-    "group": "16",
-    "professor": "DAVID MARTINEZ HERNANDEZ",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          3
         ],
         "classroom": "O002"
       }

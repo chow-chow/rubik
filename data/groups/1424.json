@@ -1,47 +1,6 @@
 [
   {
     "code": "1424",
-    "group": "2",
-    "professor": "DANIEL PEÑA MACIEL",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          3
-        ],
-        "classroom": "Y101"
-      },
-      {
-        "time": "09:00-11:00",
-        "days": [
-          5
-        ],
-        "classroom": "I301"
-      }
-    ],
-    "professor_id": 84731,
-    "first_name": "Daniel",
-    "last_name": "Peña Maciel",
-    "rating": 7.0714,
-    "num_ratings": 28
-  },
-  {
-    "code": "1424",
-    "group": "8",
-    "professor": "PAVEL RAMOS MARTINEZ",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "J201"
-      }
-    ]
-  },
-  {
-    "code": "1424",
     "group": "1",
     "professor": "SAUL LAZCANO SALAS",
     "schedules": [
@@ -57,8 +16,34 @@
     "professor_id": 149542,
     "first_name": "Saul",
     "last_name": "Lazcano Salas",
-    "rating": 8.5556,
-    "num_ratings": 9
+    "rating": 8.7,
+    "num_ratings": 10
+  },
+  {
+    "code": "1424",
+    "group": "2",
+    "professor": "DANIEL PEÑA MACIEL",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          5
+        ],
+        "classroom": "I301"
+      },
+      {
+        "time": "09:00-11:00",
+        "days": [
+          3
+        ],
+        "classroom": "Y101"
+      }
+    ],
+    "professor_id": 84731,
+    "first_name": "Daniel",
+    "last_name": "Peña Maciel",
+    "rating": 7.0714,
+    "num_ratings": 28
   },
   {
     "code": "1424",
@@ -82,22 +67,57 @@
   },
   {
     "code": "1424",
+    "group": "7",
+    "professor": "CYNTHIA LISSETH VELAZCO VELASCO",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "J209"
+      }
+    ],
+    "professor_id": 86508,
+    "first_name": "Cynthia Lisseth",
+    "last_name": "Velazco Velasco",
+    "rating": 7.2182,
+    "num_ratings": 55
+  },
+  {
+    "code": "1424",
+    "group": "8",
+    "professor": "PAVEL RAMOS MARTINEZ",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "J201"
+      }
+    ]
+  },
+  {
+    "code": "1424",
     "group": "4",
     "professor": "HERIBERTO DE JESUS AGUILAR JUAREZ",
     "schedules": [
       {
         "time": "13:00-15:00",
         "days": [
-          3
+          5
         ],
-        "classroom": "I102"
+        "classroom": "I103"
       },
       {
         "time": "13:00-15:00",
         "days": [
-          5
+          3
         ],
-        "classroom": "I103"
+        "classroom": "I102"
       }
     ],
     "professor_id": 78508,
@@ -114,16 +134,16 @@
       {
         "time": "15:00-17:00",
         "days": [
-          1
+          3
         ],
-        "classroom": "Y202"
+        "classroom": "Y204"
       },
       {
         "time": "15:00-17:00",
         "days": [
-          3
+          1
         ],
-        "classroom": "Y204"
+        "classroom": "Y202"
       }
     ],
     "professor_id": 156721,
@@ -146,25 +166,5 @@
         "classroom": "Y101"
       }
     ]
-  },
-  {
-    "code": "1424",
-    "group": "7",
-    "professor": "CYNTHIA LISSETH VELAZCO VELASCO",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "J209"
-      }
-    ],
-    "professor_id": 86508,
-    "first_name": "Cynthia Lisseth",
-    "last_name": "Velazco Velasco",
-    "rating": 7.2182,
-    "num_ratings": 55
   }
 ]

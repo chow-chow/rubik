@@ -1,8 +1,23 @@
 [
   {
     "code": "2963",
-    "group": "1",
+    "group": "2",
     "professor": "AIDA HUERTA BARRIENTOS",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          4,
+          5
+        ],
+        "classroom": "Q308"
+      }
+    ]
+  },
+  {
+    "code": "2963",
+    "group": "1",
+    "professor": "Grupo cancelado, contactar a la División.",
     "schedules": [
       {
         "time": "11:00-13:00",

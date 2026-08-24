@@ -1,6 +1,21 @@
 [
   {
     "code": "2103",
+    "group": "1",
+    "professor": "OCTAVIO ESTRADA CASTILLO",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "XS01"
+      }
+    ]
+  },
+  {
+    "code": "2103",
     "group": "2",
     "professor": "MARIA GUADALUPE DURAN ROJAS",
     "schedules": [
@@ -17,41 +32,6 @@
     "last_name": "Durán Rojas",
     "rating": 5.4286,
     "num_ratings": 7
-  },
-  {
-    "code": "2103",
-    "group": "6",
-    "professor": "GUMERSINDO ALEJANDRO OYARZABAL CAMACHO",
-    "schedules": [
-      {
-        "time": "20:00-22:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "D003"
-      }
-    ],
-    "professor_id": 101230,
-    "first_name": "GUMERSINDO ALEJANDRO",
-    "last_name": "OYARZABAL CAMACHO",
-    "rating": 7.5,
-    "num_ratings": 8
-  },
-  {
-    "code": "2103",
-    "group": "1",
-    "professor": "OCTAVIO ESTRADA CASTILLO",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "XS01"
-      }
-    ]
   },
   {
     "code": "2103",
@@ -72,6 +52,26 @@
     "last_name": "Pérez Juárez",
     "rating": 6.0,
     "num_ratings": 39
+  },
+  {
+    "code": "2103",
+    "group": "6",
+    "professor": "GUMERSINDO ALEJANDRO OYARZABAL CAMACHO",
+    "schedules": [
+      {
+        "time": "20:00-22:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "D003"
+      }
+    ],
+    "professor_id": 101230,
+    "first_name": "GUMERSINDO ALEJANDRO",
+    "last_name": "OYARZABAL CAMACHO",
+    "rating": 7.5,
+    "num_ratings": 8
   },
   {
     "code": "2103",

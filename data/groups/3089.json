@@ -76,14 +76,14 @@
   },
   {
     "code": "3089",
-    "group": "6",
-    "professor": "MAURICIO MORALES RODRIGUEZ",
+    "group": "5",
+    "professor": "CARLOS OMAR CALIECA ROMERO",
     "schedules": [
       {
         "time": "19:00-21:00",
         "days": [
-          1,
-          3
+          2,
+          4
         ],
         "classroom": "EXTR"
       }
@@ -176,14 +176,14 @@
   },
   {
     "code": "3089",
-    "group": "5",
-    "professor": "CARLOS OMAR CALIECA ROMERO",
+    "group": "6",
+    "professor": "MAURICIO MORALES RODRIGUEZ",
     "schedules": [
       {
         "time": "19:00-21:00",
         "days": [
-          2,
-          4
+          1,
+          3
         ],
         "classroom": "EXTR"
       }

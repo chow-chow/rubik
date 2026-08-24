@@ -16,8 +16,8 @@
     "professor_id": 60921,
     "first_name": "ABEL",
     "last_name": "VILLANUEVA PEÑA",
-    "rating": 4.8857,
-    "num_ratings": 35
+    "rating": 4.8889,
+    "num_ratings": 36
   },
   {
     "code": "1443",
@@ -36,8 +36,28 @@
     "professor_id": 90676,
     "first_name": "Rogelio",
     "last_name": "Alcantara Silva",
-    "rating": 5.1429,
-    "num_ratings": 21
+    "rating": 5.2273,
+    "num_ratings": 22
+  },
+  {
+    "code": "1443",
+    "group": "5",
+    "professor": "JUAN MANUEL GOMEZ GONZALEZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "B106"
+      }
+    ],
+    "professor_id": 155677,
+    "first_name": "Juan Manuel",
+    "last_name": "Gómez González",
+    "rating": 7.2667,
+    "num_ratings": 15
   },
   {
     "code": "1443",
@@ -73,25 +93,5 @@
         "classroom": "B206"
       }
     ]
-  },
-  {
-    "code": "1443",
-    "group": "5",
-    "professor": "JUAN MANUEL GOMEZ GONZALEZ",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "B106"
-      }
-    ],
-    "professor_id": 155677,
-    "first_name": "Juan Manuel",
-    "last_name": "Gómez González",
-    "rating": 7.2667,
-    "num_ratings": 15
   }
 ]

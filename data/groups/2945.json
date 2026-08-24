@@ -1,26 +1,6 @@
 [
   {
     "code": "2945",
-    "group": "1",
-    "professor": "JESUS VALLEJO GONZALEZ",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "A201"
-      }
-    ],
-    "professor_id": 89731,
-    "first_name": "Jesús",
-    "last_name": "Vallejo González",
-    "rating": 6.4,
-    "num_ratings": 15
-  },
-  {
-    "code": "2945",
     "group": "2",
     "professor": "JUAN ANGEL CALVILLO PEREZ",
     "schedules": [
@@ -38,6 +18,26 @@
     "last_name": "Calvillo Pérez",
     "rating": 8.3333,
     "num_ratings": 27
+  },
+  {
+    "code": "2945",
+    "group": "1",
+    "professor": "JESUS VALLEJO GONZALEZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "A201"
+      }
+    ],
+    "professor_id": 89731,
+    "first_name": "Jesús",
+    "last_name": "Vallejo González",
+    "rating": 6.4,
+    "num_ratings": 15
   },
   {
     "code": "2945",

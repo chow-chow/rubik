@@ -81,6 +81,25 @@
   },
   {
     "code": "5507",
+    "group": "11",
+    "professor": "ISRAEL GARDUÑO GARCIA",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          3
+        ],
+        "classroom": "O005"
+      }
+    ],
+    "professor_id": 102330,
+    "first_name": "Israel",
+    "last_name": "Garduño Garcia",
+    "rating": 7.2857,
+    "num_ratings": 14
+  },
+  {
+    "code": "5507",
     "group": "14",
     "professor": "JOSE LUIS ESPINOZA RAMIREZ",
     "schedules": [
@@ -164,25 +183,6 @@
         "time": "15:00-17:00",
         "days": [
           1
-        ],
-        "classroom": "O005"
-      }
-    ],
-    "professor_id": 102330,
-    "first_name": "Israel",
-    "last_name": "Garduño Garcia",
-    "rating": 7.2857,
-    "num_ratings": 14
-  },
-  {
-    "code": "5507",
-    "group": "11",
-    "professor": "ISRAEL GARDUÑO GARCIA",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          3
         ],
         "classroom": "O005"
       }

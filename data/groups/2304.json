@@ -18,5 +18,20 @@
     "last_name": "Cuellar Gonzalez",
     "rating": 8.0,
     "num_ratings": 5
+  },
+  {
+    "code": "2304",
+    "group": "4",
+    "professor": "SERGIY KHOTYAINTSEV",
+    "schedules": [
+      {
+        "time": "17:00-18:30",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "B408"
+      }
+    ]
   }
 ]

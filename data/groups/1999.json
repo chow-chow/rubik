@@ -1,6 +1,26 @@
 [
   {
     "code": "1999",
+    "group": "4",
+    "professor": "FLORICEL RAMOS VARGAS",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A301"
+      }
+    ],
+    "professor_id": 89946,
+    "first_name": "FLORICEL",
+    "last_name": "RAMOS VARGAS",
+    "rating": 5.8974,
+    "num_ratings": 39
+  },
+  {
+    "code": "1999",
     "group": "1",
     "professor": "MARIO ALFREDO IBARRA CARRILLO",
     "schedules": [
@@ -46,26 +66,6 @@
     "schedules": [
       {
         "time": "15:00-17:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "A301"
-      }
-    ],
-    "professor_id": 89946,
-    "first_name": "FLORICEL",
-    "last_name": "RAMOS VARGAS",
-    "rating": 5.8974,
-    "num_ratings": 39
-  },
-  {
-    "code": "1999",
-    "group": "4",
-    "professor": "FLORICEL RAMOS VARGAS",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
         "days": [
           2,
           4

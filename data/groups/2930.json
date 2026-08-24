@@ -1,6 +1,21 @@
 [
   {
     "code": "2930",
+    "group": "4",
+    "professor": "ROCIO ALEJANDRA ALDECO PEREZVer Nota 2",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "Q218"
+      }
+    ]
+  },
+  {
+    "code": "2930",
     "group": "1",
     "professor": "ALEJANDRO PADRON GODINEZ",
     "schedules": [
@@ -46,21 +61,6 @@
           4
         ],
         "classroom": "A301"
-      }
-    ]
-  },
-  {
-    "code": "2930",
-    "group": "4",
-    "professor": "ROCIO ALEJANDRA ALDECO PEREZVer Nota 2",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "Q218"
       }
     ]
   }

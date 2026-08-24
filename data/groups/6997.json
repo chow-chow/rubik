@@ -1,20 +1,6 @@
 [
   {
     "code": "6997",
-    "group": "1",
-    "professor": "LUIS EDUARDO SILVA FRANCO",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          1
-        ],
-        "classroom": "P114"
-      }
-    ]
-  },
-  {
-    "code": "6997",
     "group": "4",
     "professor": "MINERVA RUTH HERRERA RODRIGUEZ",
     "schedules": [
@@ -53,25 +39,6 @@
   },
   {
     "code": "6997",
-    "group": "7",
-    "professor": "JESUS YAÑEZ GUTIERREZ",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          4
-        ],
-        "classroom": "P114"
-      }
-    ],
-    "professor_id": 156041,
-    "first_name": "Jesús",
-    "last_name": "Yañez Gutiérrez",
-    "rating": 9.3333,
-    "num_ratings": 3
-  },
-  {
-    "code": "6997",
     "group": "8",
     "professor": "GUSTAVO GARCIA SANCHEZ",
     "schedules": [
@@ -102,6 +69,20 @@
     "last_name": "Martínez Gutierrez",
     "rating": 6.2105,
     "num_ratings": 19
+  },
+  {
+    "code": "6997",
+    "group": "1",
+    "professor": "LUIS EDUARDO SILVA FRANCO",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1
+        ],
+        "classroom": "P114"
+      }
+    ]
   },
   {
     "code": "6997",
@@ -159,6 +140,25 @@
     "last_name": "Chavira Diaz",
     "rating": 9.3158,
     "num_ratings": 19
+  },
+  {
+    "code": "6997",
+    "group": "7",
+    "professor": "JESUS YAÑEZ GUTIERREZ",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          4
+        ],
+        "classroom": "P114"
+      }
+    ],
+    "professor_id": 156041,
+    "first_name": "Jesús",
+    "last_name": "Yañez Gutiérrez",
+    "rating": 9.3333,
+    "num_ratings": 3
   },
   {
     "code": "6997",

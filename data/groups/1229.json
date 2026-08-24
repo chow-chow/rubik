@@ -82,33 +82,6 @@
   },
   {
     "code": "1229",
-    "group": "4",
-    "professor": "ROBERTO ASCENCIO VILLAGOMEZ",
-    "schedules": [
-      {
-        "time": "11:30-13:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "A405"
-      },
-      {
-        "time": "14:30-17:30",
-        "days": [
-          1
-        ],
-        "classroom": "R029"
-      }
-    ],
-    "professor_id": 141820,
-    "first_name": "Roberto",
-    "last_name": "Ascencio Villagómez",
-    "rating": 5.5,
-    "num_ratings": 2
-  },
-  {
-    "code": "1229",
     "group": "6",
     "professor": "IVONNE ALVARADO BEATRIZ",
     "schedules": [
@@ -160,6 +133,33 @@
     "last_name": "Avila Mendoza",
     "rating": 7.1724,
     "num_ratings": 29
+  },
+  {
+    "code": "1229",
+    "group": "4",
+    "professor": "ROBERTO ASCENCIO VILLAGOMEZ",
+    "schedules": [
+      {
+        "time": "11:30-13:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "A405"
+      },
+      {
+        "time": "14:30-17:30",
+        "days": [
+          1
+        ],
+        "classroom": "R029"
+      }
+    ],
+    "professor_id": 141820,
+    "first_name": "Roberto",
+    "last_name": "Ascencio Villagómez",
+    "rating": 5.5,
+    "num_ratings": 2
   },
   {
     "code": "1229",

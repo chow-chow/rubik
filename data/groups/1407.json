@@ -36,6 +36,36 @@
   },
   {
     "code": "1407",
+    "group": "4",
+    "professor": "JUAN JOSE ARRIAGA OCAÑA",
+    "schedules": [
+      {
+        "time": "17:30-19:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A304"
+      }
+    ]
+  },
+  {
+    "code": "1407",
+    "group": "6",
+    "professor": "JOSE ALONSO ALANIS ROJAS",
+    "schedules": [
+      {
+        "time": "17:30-19:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "A304"
+      }
+    ]
+  },
+  {
+    "code": "1407",
     "group": "3",
     "professor": "MARCOS TREJO HERNANDEZ",
     "schedules": [
@@ -56,41 +86,11 @@
   },
   {
     "code": "1407",
-    "group": "4",
-    "professor": "JUAN JOSE ARRIAGA OCAÑA",
-    "schedules": [
-      {
-        "time": "17:30-19:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "A304"
-      }
-    ]
-  },
-  {
-    "code": "1407",
     "group": "5",
     "professor": "JOSE ALONSO ALANIS ROJAS",
     "schedules": [
       {
         "time": "16:00-17:30",
-        "days": [
-          3,
-          5
-        ],
-        "classroom": "A304"
-      }
-    ]
-  },
-  {
-    "code": "1407",
-    "group": "6",
-    "professor": "JOSE ALONSO ALANIS ROJAS",
-    "schedules": [
-      {
-        "time": "17:30-19:00",
         "days": [
           3,
           5

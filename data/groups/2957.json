@@ -39,25 +39,6 @@
   },
   {
     "code": "2957",
-    "group": "4",
-    "professor": "HEIDDY ALEJANDRA PASTEN LUGO",
-    "schedules": [
-      {
-        "time": "07:00-10:00",
-        "days": [
-          6
-        ],
-        "classroom": "B305"
-      }
-    ],
-    "professor_id": 109156,
-    "first_name": "Heiddy Alejandra",
-    "last_name": "Pasten Lugo",
-    "rating": 8.6552,
-    "num_ratings": 29
-  },
-  {
-    "code": "2957",
     "group": "5",
     "professor": "VIRGINIA CECILIA DIAZ GARCIA",
     "schedules": [
@@ -78,17 +59,36 @@
       {
         "time": "13:00-14:30",
         "days": [
-          4
+          2
         ],
-        "classroom": "Q208"
+        "classroom": "T102"
       },
       {
         "time": "13:00-14:30",
         "days": [
-          2
+          4
         ],
-        "classroom": "T102"
+        "classroom": "Q208"
       }
     ]
+  },
+  {
+    "code": "2957",
+    "group": "4",
+    "professor": "HEIDDY ALEJANDRA PASTEN LUGO",
+    "schedules": [
+      {
+        "time": "07:00-10:00",
+        "days": [
+          6
+        ],
+        "classroom": "B305"
+      }
+    ],
+    "professor_id": 109156,
+    "first_name": "Heiddy Alejandra",
+    "last_name": "Pasten Lugo",
+    "rating": 8.6552,
+    "num_ratings": 29
   }
 ]

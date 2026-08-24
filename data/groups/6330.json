@@ -20,6 +20,25 @@
   },
   {
     "code": "6330",
+    "group": "2",
+    "professor": "DIANA ZARAGOZA ZUÑIGA",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1
+        ],
+        "classroom": "G002"
+      }
+    ],
+    "professor_id": 90126,
+    "first_name": "Diana",
+    "last_name": "Zaragoza Zuñiga",
+    "rating": 9.15,
+    "num_ratings": 20
+  },
+  {
+    "code": "6330",
     "group": "3",
     "professor": "LUCIA YAZMIN JUAREZ DE LA MORA",
     "schedules": [
@@ -53,8 +72,27 @@
     "professor_id": 71883,
     "first_name": "Maria Elizabeth",
     "last_name": "Esquivel Rodriguez",
-    "rating": 7.5161,
-    "num_ratings": 31
+    "rating": 7.5625,
+    "num_ratings": 32
+  },
+  {
+    "code": "6330",
+    "group": "7",
+    "professor": "ALFONSO PALACIOS MUÑOZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          4
+        ],
+        "classroom": "G002"
+      }
+    ],
+    "professor_id": 101486,
+    "first_name": "Alfonso",
+    "last_name": "Palacios Muñoz",
+    "rating": 9.2222,
+    "num_ratings": 27
   },
   {
     "code": "6330",
@@ -96,25 +134,6 @@
   },
   {
     "code": "6330",
-    "group": "2",
-    "professor": "DIANA ZARAGOZA ZUÑIGA",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          1
-        ],
-        "classroom": "G002"
-      }
-    ],
-    "professor_id": 90126,
-    "first_name": "Diana",
-    "last_name": "Zaragoza Zuñiga",
-    "rating": 9.15,
-    "num_ratings": 20
-  },
-  {
-    "code": "6330",
     "group": "4",
     "professor": "ALFONSO PALACIOS MUÑOZ",
     "schedules": [
@@ -150,25 +169,6 @@
     "last_name": "Zaragoza Zuñiga",
     "rating": 9.15,
     "num_ratings": 20
-  },
-  {
-    "code": "6330",
-    "group": "7",
-    "professor": "ALFONSO PALACIOS MUÑOZ",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          4
-        ],
-        "classroom": "G002"
-      }
-    ],
-    "professor_id": 101486,
-    "first_name": "Alfonso",
-    "last_name": "Palacios Muñoz",
-    "rating": 9.2222,
-    "num_ratings": 27
   },
   {
     "code": "6330",

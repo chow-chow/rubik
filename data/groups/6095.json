@@ -1,17 +1,22 @@
 [
   {
     "code": "6095",
-    "group": "3",
-    "professor": "DAVID QUINTANAR VILLALBA",
+    "group": "2",
+    "professor": "GLORIA CORREA PALACIOS",
     "schedules": [
       {
-        "time": "11:00-13:00",
+        "time": "07:00-09:00",
         "days": [
-          6
+          5
         ],
         "classroom": "P001"
       }
-    ]
+    ],
+    "professor_id": 112607,
+    "first_name": "Gloria",
+    "last_name": "Correa Palacios",
+    "rating": 5.8261,
+    "num_ratings": 23
   },
   {
     "code": "6095",
@@ -34,21 +39,16 @@
   },
   {
     "code": "6095",
-    "group": "2",
-    "professor": "GLORIA CORREA PALACIOS",
+    "group": "3",
+    "professor": "DAVID QUINTANAR VILLALBA",
     "schedules": [
       {
-        "time": "07:00-09:00",
+        "time": "11:00-13:00",
         "days": [
-          5
+          6
         ],
         "classroom": "P001"
       }
-    ],
-    "professor_id": 112607,
-    "first_name": "Gloria",
-    "last_name": "Correa Palacios",
-    "rating": 5.8261,
-    "num_ratings": 23
+    ]
   }
 ]

@@ -21,6 +21,46 @@
   },
   {
     "code": "1322",
+    "group": "4",
+    "professor": "HUGO GERMAN SERRANO MIRANDA",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "J209"
+      }
+    ],
+    "professor_id": 84710,
+    "first_name": "Hugo German",
+    "last_name": "Serrano Miranda",
+    "rating": 5.0,
+    "num_ratings": 29
+  },
+  {
+    "code": "1322",
+    "group": "8",
+    "professor": "JUAN MARIA DE LA SALUD OCARIZ CASTELAZO",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1,
+          5
+        ],
+        "classroom": "J201"
+      }
+    ],
+    "professor_id": 22035,
+    "first_name": "Juan",
+    "last_name": "Ocáriz Castelazo",
+    "rating": 8.6012,
+    "num_ratings": 173
+  },
+  {
+    "code": "1322",
     "group": "2",
     "professor": "NICOLAS RODRIGUEZ CARREON",
     "schedules": [
@@ -58,26 +98,6 @@
     "last_name": "Carballar López",
     "rating": 7.381,
     "num_ratings": 42
-  },
-  {
-    "code": "1322",
-    "group": "4",
-    "professor": "HUGO GERMAN SERRANO MIRANDA",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "J209"
-      }
-    ],
-    "professor_id": 84710,
-    "first_name": "Hugo German",
-    "last_name": "Serrano Miranda",
-    "rating": 5.0,
-    "num_ratings": 29
   },
   {
     "code": "1322",
@@ -140,26 +160,6 @@
   },
   {
     "code": "1322",
-    "group": "8",
-    "professor": "JUAN MARIA DE LA SALUD OCARIZ CASTELAZO",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          1,
-          5
-        ],
-        "classroom": "J201"
-      }
-    ],
-    "professor_id": 22035,
-    "first_name": "Juan",
-    "last_name": "Ocáriz Castelazo",
-    "rating": 8.6279,
-    "num_ratings": 172
-  },
-  {
-    "code": "1322",
     "group": "9",
     "professor": "ALFREDO ARENAS GONZALEZ",
     "schedules": [
@@ -175,8 +175,8 @@
     "professor_id": 22843,
     "first_name": "Alfredo",
     "last_name": "Arenas",
-    "rating": 7.24,
-    "num_ratings": 82
+    "rating": 7.23,
+    "num_ratings": 84
   },
   {
     "code": "1322",
@@ -281,16 +281,16 @@
       {
         "time": "17:00-19:00",
         "days": [
-          5
+          3
         ],
-        "classroom": "J110"
+        "classroom": "I102"
       },
       {
         "time": "17:00-19:00",
         "days": [
-          3
+          5
         ],
-        "classroom": "I102"
+        "classroom": "J110"
       }
     ],
     "professor_id": 93946,

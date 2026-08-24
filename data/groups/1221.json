@@ -21,6 +21,46 @@
   },
   {
     "code": "1221",
+    "group": "7",
+    "professor": "LUIS HERNANDEZ MORENO",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "J104"
+      }
+    ],
+    "professor_id": 78817,
+    "first_name": "Luis",
+    "last_name": "Hernandez Moreno",
+    "rating": 7.3889,
+    "num_ratings": 18
+  },
+  {
+    "code": "1221",
+    "group": "17",
+    "professor": "JAVIER GUTIERREZ SORIA",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "J208"
+      }
+    ],
+    "professor_id": 51786,
+    "first_name": "JAVIER",
+    "last_name": "GUTIERREZ SORIA",
+    "rating": 5.1429,
+    "num_ratings": 35
+  },
+  {
+    "code": "1221",
     "group": "20",
     "professor": "HIPOLITO LORENZO MORALES RODRIGUEZ",
     "schedules": [
@@ -61,26 +101,6 @@
   },
   {
     "code": "1221",
-    "group": "22",
-    "professor": "JULIO ROJAS BLAS",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          1,
-          5
-        ],
-        "classroom": "I306"
-      }
-    ],
-    "professor_id": 133523,
-    "first_name": "Julio",
-    "last_name": "Rojas Blas",
-    "rating": 7.3913,
-    "num_ratings": 23
-  },
-  {
-    "code": "1221",
     "group": "1",
     "professor": "MARIA ELIZABETH ESQUIVEL RODRIGUEZ",
     "schedules": [
@@ -96,8 +116,8 @@
     "professor_id": 71883,
     "first_name": "Maria Elizabeth",
     "last_name": "Esquivel Rodriguez",
-    "rating": 7.5161,
-    "num_ratings": 31
+    "rating": 7.5625,
+    "num_ratings": 32
   },
   {
     "code": "1221",
@@ -163,43 +183,23 @@
       {
         "time": "11:00-13:00",
         "days": [
-          1
+          3
         ],
-        "classroom": "Y003"
+        "classroom": "J108"
       },
       {
         "time": "11:00-13:00",
         "days": [
-          3
+          1
         ],
-        "classroom": "J108"
+        "classroom": "Y003"
       }
     ],
     "professor_id": 32932,
     "first_name": "Margarita",
     "last_name": "Ramírez Galindo",
-    "rating": 8.039,
-    "num_ratings": 77
-  },
-  {
-    "code": "1221",
-    "group": "7",
-    "professor": "LUIS HERNANDEZ MORENO",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "J104"
-      }
-    ],
-    "professor_id": 78817,
-    "first_name": "Luis",
-    "last_name": "Hernandez Moreno",
-    "rating": 7.3889,
-    "num_ratings": 18
+    "rating": 8.0513,
+    "num_ratings": 78
   },
   {
     "code": "1221",
@@ -209,10 +209,16 @@
       {
         "time": "11:00-13:00",
         "days": [
-          3,
+          3
+        ],
+        "classroom": "I203"
+      },
+      {
+        "time": "11:00-13:00",
+        "days": [
           5
         ],
-        "classroom": "J206"
+        "classroom": "I202"
       }
     ],
     "professor_id": 135641,
@@ -384,26 +390,6 @@
   },
   {
     "code": "1221",
-    "group": "17",
-    "professor": "JAVIER GUTIERREZ SORIA",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "J208"
-      }
-    ],
-    "professor_id": 51786,
-    "first_name": "JAVIER",
-    "last_name": "GUTIERREZ SORIA",
-    "rating": 5.1429,
-    "num_ratings": 35
-  },
-  {
-    "code": "1221",
     "group": "18",
     "professor": "SERGIO CARLOS CRAIL CORZAS",
     "schedules": [
@@ -436,6 +422,26 @@
         "classroom": "J201"
       }
     ]
+  },
+  {
+    "code": "1221",
+    "group": "22",
+    "professor": "JULIO ROJAS BLAS",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          1,
+          5
+        ],
+        "classroom": "I306"
+      }
+    ],
+    "professor_id": 133523,
+    "first_name": "Julio",
+    "last_name": "Rojas Blas",
+    "rating": 7.3913,
+    "num_ratings": 23
   },
   {
     "code": "1221",

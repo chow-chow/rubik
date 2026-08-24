@@ -5,16 +5,31 @@
     "professor": "NESTOR DANIEL LUNA GONZALEZ",
     "schedules": [
       {
+        "time": "19:00-21:00",
+        "days": [
+          2
+        ],
+        "classroom": "EXTR"
+      },
+      {
         "time": "07:00-09:00",
         "days": [
           6
         ],
         "classroom": "EXTR"
-      },
+      }
+    ]
+  },
+  {
+    "code": "2077",
+    "group": "2",
+    "professor": "JOSE LUIS FERNANDEZ ZAYAS",
+    "schedules": [
       {
-        "time": "19:00-21:00",
+        "time": "15:00-17:00",
         "days": [
-          2
+          2,
+          4
         ],
         "classroom": "EXTR"
       }
@@ -42,14 +57,13 @@
   },
   {
     "code": "2077",
-    "group": "2",
-    "professor": "JOSE LUIS FERNANDEZ ZAYAS",
+    "group": "6",
+    "professor": "SANTIAGO VALENCIA CAÑOLA",
     "schedules": [
       {
-        "time": "15:00-17:00",
+        "time": "07:00-11:00",
         "days": [
-          2,
-          4
+          6
         ],
         "classroom": "EXTR"
       }
@@ -79,20 +93,6 @@
         "days": [
           2,
           4
-        ],
-        "classroom": "EXTR"
-      }
-    ]
-  },
-  {
-    "code": "2077",
-    "group": "6",
-    "professor": "SANTIAGO VALENCIA CAÑOLA",
-    "schedules": [
-      {
-        "time": "07:00-11:00",
-        "days": [
-          6
         ],
         "classroom": "EXTR"
       }

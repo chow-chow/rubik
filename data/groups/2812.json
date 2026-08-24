@@ -5,19 +5,19 @@
     "professor": "ALMA ELIA VERA MORALESVer Nota 1",
     "schedules": [
       {
+        "time": "07:00-09:00",
+        "days": [
+          5
+        ],
+        "classroom": "A301"
+      },
+      {
         "time": "09:00-10:30",
         "days": [
           1,
           3
         ],
         "classroom": "D007"
-      },
-      {
-        "time": "07:00-09:00",
-        "days": [
-          5
-        ],
-        "classroom": "A301"
       }
     ]
   },
@@ -27,17 +27,17 @@
     "professor": "LINA BEATRIZ LARA HERNANDEZ",
     "schedules": [
       {
-        "time": "19:00-21:00",
-        "days": [
-          2
-        ],
-        "classroom": "EXTR"
-      },
-      {
         "time": "19:00-20:30",
         "days": [
           4,
           5
+        ],
+        "classroom": "EXTR"
+      },
+      {
+        "time": "19:00-21:00",
+        "days": [
+          2
         ],
         "classroom": "EXTR"
       }

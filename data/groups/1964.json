@@ -1,26 +1,6 @@
 [
   {
     "code": "1964",
-    "group": "1",
-    "professor": "RICARDO FERNANDO ABELA POSADA",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "O006"
-      }
-    ],
-    "professor_id": 104481,
-    "first_name": "RICARDO FERNANDO",
-    "last_name": "ABELA POSADA",
-    "rating": 8.8846,
-    "num_ratings": 26
-  },
-  {
-    "code": "1964",
     "group": "5",
     "professor": "EMILIANO NAVA MORALES",
     "schedules": [
@@ -38,6 +18,26 @@
     "last_name": "Nava Morales",
     "rating": 5.0,
     "num_ratings": 2
+  },
+  {
+    "code": "1964",
+    "group": "1",
+    "professor": "RICARDO FERNANDO ABELA POSADA",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "O006"
+      }
+    ],
+    "professor_id": 104481,
+    "first_name": "RICARDO FERNANDO",
+    "last_name": "ABELA POSADA",
+    "rating": 8.8846,
+    "num_ratings": 26
   },
   {
     "code": "1964",

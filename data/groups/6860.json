@@ -1,6 +1,20 @@
 [
   {
     "code": "6860",
+    "group": "1",
+    "professor": "LUIS ARTURO NAVARRO BAENA",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          1
+        ],
+        "classroom": "N005"
+      }
+    ]
+  },
+  {
+    "code": "6860",
     "group": "4",
     "professor": "DANIEL ESQUIVEL VELAZQUEZ",
     "schedules": [
@@ -59,6 +73,20 @@
     "last_name": "García Aranda",
     "rating": 6.5,
     "num_ratings": 2
+  },
+  {
+    "code": "6860",
+    "group": "13",
+    "professor": "MIGUEL ANGEL PEREZ HERNANDEZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2
+        ],
+        "classroom": "N005"
+      }
+    ]
   },
   {
     "code": "6860",
@@ -123,20 +151,6 @@
   },
   {
     "code": "6860",
-    "group": "24",
-    "professor": "MOISES GUILLERMO QUINTANILLA DURAN",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          4
-        ],
-        "classroom": "N005"
-      }
-    ]
-  },
-  {
-    "code": "6860",
     "group": "29",
     "professor": "MIGUEL ANGEL PEREZ HERNANDEZ",
     "schedules": [
@@ -144,20 +158,6 @@
         "time": "17:00-19:00",
         "days": [
           5
-        ],
-        "classroom": "N005"
-      }
-    ]
-  },
-  {
-    "code": "6860",
-    "group": "1",
-    "professor": "LUIS ARTURO NAVARRO BAENA",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          1
         ],
         "classroom": "N005"
       }
@@ -278,20 +278,6 @@
   },
   {
     "code": "6860",
-    "group": "13",
-    "professor": "MIGUEL ANGEL PEREZ HERNANDEZ",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          2
-        ],
-        "classroom": "N005"
-      }
-    ]
-  },
-  {
-    "code": "6860",
     "group": "14",
     "professor": "MIGUEL ANGEL PEREZ HERNANDEZ",
     "schedules": [
@@ -377,6 +363,20 @@
     "schedules": [
       {
         "time": "15:00-17:00",
+        "days": [
+          4
+        ],
+        "classroom": "N005"
+      }
+    ]
+  },
+  {
+    "code": "6860",
+    "group": "24",
+    "professor": "MOISES GUILLERMO QUINTANILLA DURAN",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
         "days": [
           4
         ],

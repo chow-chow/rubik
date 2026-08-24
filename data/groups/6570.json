@@ -134,6 +134,25 @@
   },
   {
     "code": "6570",
+    "group": "10",
+    "professor": "ISRAEL GARDUÑO GARCIA",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2
+        ],
+        "classroom": "O001"
+      }
+    ],
+    "professor_id": 102330,
+    "first_name": "Israel",
+    "last_name": "Garduño Garcia",
+    "rating": 7.2857,
+    "num_ratings": 14
+  },
+  {
+    "code": "6570",
     "group": "12",
     "professor": "JULIO CESAR GONZALEZ SANCHEZ",
     "schedules": [
@@ -301,25 +320,6 @@
     "last_name": "Altamirano Meza",
     "rating": 8.1111,
     "num_ratings": 9
-  },
-  {
-    "code": "6570",
-    "group": "10",
-    "professor": "ISRAEL GARDUÑO GARCIA",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          2
-        ],
-        "classroom": "O001"
-      }
-    ],
-    "professor_id": 102330,
-    "first_name": "Israel",
-    "last_name": "Garduño Garcia",
-    "rating": 7.2857,
-    "num_ratings": 14
   },
   {
     "code": "6570",

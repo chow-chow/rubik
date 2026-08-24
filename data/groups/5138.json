@@ -1,6 +1,44 @@
 [
   {
     "code": "5138",
+    "group": "3",
+    "professor": "JAIME HECTOR MURILLO QUINTERO",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          2
+        ],
+        "classroom": "Q109"
+      }
+    ],
+    "professor_id": 94156,
+    "first_name": "Jaime Hector",
+    "last_name": "Murillo Quintero",
+    "rating": 4.7273,
+    "num_ratings": 22
+  },
+  {
+    "code": "5138",
+    "group": "9",
+    "professor": "JAIME HECTOR MURILLO QUINTERO",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          4
+        ],
+        "classroom": "Q108"
+      }
+    ],
+    "professor_id": 94156,
+    "first_name": "Jaime Hector",
+    "last_name": "Murillo Quintero",
+    "rating": 4.7273,
+    "num_ratings": 22
+  },
+  {
+    "code": "5138",
     "group": "1",
     "professor": "FRANCISCO JAVIER MARTINEZ RODRIGUEZ",
     "schedules": [
@@ -36,25 +74,6 @@
     "last_name": "Mendoza Rosales",
     "rating": 6.9565,
     "num_ratings": 69
-  },
-  {
-    "code": "5138",
-    "group": "3",
-    "professor": "JAIME HECTOR MURILLO QUINTERO",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          2
-        ],
-        "classroom": "Q109"
-      }
-    ],
-    "professor_id": 94156,
-    "first_name": "Jaime Hector",
-    "last_name": "Murillo Quintero",
-    "rating": 4.7273,
-    "num_ratings": 22
   },
   {
     "code": "5138",
@@ -124,8 +143,8 @@
     "professor_id": 89949,
     "first_name": "ISMAEL",
     "last_name": "ROMERO OCARANZA",
-    "rating": 6.2667,
-    "num_ratings": 30
+    "rating": 6.1613,
+    "num_ratings": 31
   },
   {
     "code": "5138",
@@ -140,25 +159,6 @@
         "classroom": "Q109"
       }
     ]
-  },
-  {
-    "code": "5138",
-    "group": "9",
-    "professor": "JAIME HECTOR MURILLO QUINTERO",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          4
-        ],
-        "classroom": "Q108"
-      }
-    ],
-    "professor_id": 94156,
-    "first_name": "Jaime Hector",
-    "last_name": "Murillo Quintero",
-    "rating": 4.7273,
-    "num_ratings": 22
   },
   {
     "code": "5138",
@@ -195,8 +195,8 @@
     "professor_id": 89949,
     "first_name": "ISMAEL",
     "last_name": "ROMERO OCARANZA",
-    "rating": 6.2667,
-    "num_ratings": 30
+    "rating": 6.1613,
+    "num_ratings": 31
   },
   {
     "code": "5138",

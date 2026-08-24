@@ -39,6 +39,44 @@
   },
   {
     "code": "7806",
+    "group": "6",
+    "professor": "MARIO SANDOVAL MURCIA",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          2
+        ],
+        "classroom": "O012"
+      }
+    ],
+    "professor_id": 42389,
+    "first_name": "Mario",
+    "last_name": "Sandoval Murcia",
+    "rating": 9.2727,
+    "num_ratings": 11
+  },
+  {
+    "code": "7806",
+    "group": "9",
+    "professor": "ROGELIO DARIO GUTIERREZ CARRILLO",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          5
+        ],
+        "classroom": "O012"
+      }
+    ],
+    "professor_id": 124462,
+    "first_name": "ROGELIO DARIO",
+    "last_name": "GUTIERREZ",
+    "rating": 5.0,
+    "num_ratings": 22
+  },
+  {
+    "code": "7806",
     "group": "3",
     "professor": "MARIO SANDOVAL MURCIA",
     "schedules": [
@@ -96,25 +134,6 @@
   },
   {
     "code": "7806",
-    "group": "6",
-    "professor": "MARIO SANDOVAL MURCIA",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          2
-        ],
-        "classroom": "O012"
-      }
-    ],
-    "professor_id": 42389,
-    "first_name": "Mario",
-    "last_name": "Sandoval Murcia",
-    "rating": 9.2727,
-    "num_ratings": 11
-  },
-  {
-    "code": "7806",
     "group": "7",
     "professor": "MARIO SANDOVAL MURCIA",
     "schedules": [
@@ -150,25 +169,6 @@
     "last_name": "Sandoval Murcia",
     "rating": 9.2727,
     "num_ratings": 11
-  },
-  {
-    "code": "7806",
-    "group": "9",
-    "professor": "ROGELIO DARIO GUTIERREZ CARRILLO",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          5
-        ],
-        "classroom": "O012"
-      }
-    ],
-    "professor_id": 124462,
-    "first_name": "ROGELIO DARIO",
-    "last_name": "GUTIERREZ",
-    "rating": 5.0,
-    "num_ratings": 22
   },
   {
     "code": "7806",

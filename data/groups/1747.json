@@ -21,26 +21,6 @@
   },
   {
     "code": "1747",
-    "group": "2",
-    "professor": "ARMANDO MOISES PEREZ SILVA",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "XS01"
-      }
-    ],
-    "professor_id": 133428,
-    "first_name": "Armando Moisés",
-    "last_name": "Pérez Silva",
-    "rating": 9.5556,
-    "num_ratings": 9
-  },
-  {
-    "code": "1747",
     "group": "3",
     "professor": "DAMIAN CANALES SANCHEZ",
     "schedules": [
@@ -58,6 +38,26 @@
     "last_name": "Canales Sanchez",
     "rating": 9.0,
     "num_ratings": 11
+  },
+  {
+    "code": "1747",
+    "group": "2",
+    "professor": "ARMANDO MOISES PEREZ SILVA",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "XS01"
+      }
+    ],
+    "professor_id": 133428,
+    "first_name": "Armando Moisés",
+    "last_name": "Pérez Silva",
+    "rating": 9.5556,
+    "num_ratings": 9
   },
   {
     "code": "1747",

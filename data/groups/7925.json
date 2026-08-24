@@ -1,13 +1,13 @@
 [
   {
     "code": "7925",
-    "group": "2",
+    "group": "1",
     "professor": "JOSE LUIS ALMARAZ MORENO",
     "schedules": [
       {
         "time": "17:00-19:00",
         "days": [
-          4
+          2
         ],
         "classroom": "O002"
       }
@@ -20,13 +20,13 @@
   },
   {
     "code": "7925",
-    "group": "1",
+    "group": "2",
     "professor": "JOSE LUIS ALMARAZ MORENO",
     "schedules": [
       {
         "time": "17:00-19:00",
         "days": [
-          2
+          4
         ],
         "classroom": "O002"
       }

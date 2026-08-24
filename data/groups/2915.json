@@ -16,6 +16,26 @@
   },
   {
     "code": "2915",
+    "group": "4",
+    "professor": "ALEJANDRO JOSE LEO VARGAS",
+    "schedules": [
+      {
+        "time": "17:30-19:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A307"
+      }
+    ],
+    "professor_id": 146711,
+    "first_name": "ALEJANDRO JOSE",
+    "last_name": "LEO VARGAS",
+    "rating": 4.8333,
+    "num_ratings": 6
+  },
+  {
+    "code": "2915",
     "group": "5",
     "professor": "MICHELLE ELIANE HERNANDEZ GARCIA",
     "schedules": [
@@ -60,28 +80,8 @@
           2,
           4
         ],
-        "classroom": "Y203"
+        "classroom": "A404"
       }
     ]
-  },
-  {
-    "code": "2915",
-    "group": "4",
-    "professor": "ALEJANDRO JOSE LEO VARGAS",
-    "schedules": [
-      {
-        "time": "17:30-19:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "A307"
-      }
-    ],
-    "professor_id": 146711,
-    "first_name": "ALEJANDRO JOSE",
-    "last_name": "LEO VARGAS",
-    "rating": 4.8333,
-    "num_ratings": 6
   }
 ]

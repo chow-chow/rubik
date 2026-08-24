@@ -48,25 +48,6 @@
   },
   {
     "code": "7714",
-    "group": "10",
-    "professor": "JORGE PRADO MORALES",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          4
-        ],
-        "classroom": "Y201"
-      }
-    ],
-    "professor_id": 175543,
-    "first_name": "Jorge",
-    "last_name": "Prado Morales",
-    "rating": 7.5,
-    "num_ratings": 8
-  },
-  {
-    "code": "7714",
     "group": "1",
     "professor": "JULIO SERRANO VILLEGAS",
     "schedules": [
@@ -159,6 +140,25 @@
         "time": "17:00-19:00",
         "days": [
           2
+        ],
+        "classroom": "Y201"
+      }
+    ],
+    "professor_id": 175543,
+    "first_name": "Jorge",
+    "last_name": "Prado Morales",
+    "rating": 7.5,
+    "num_ratings": 8
+  },
+  {
+    "code": "7714",
+    "group": "10",
+    "professor": "JORGE PRADO MORALES",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          4
         ],
         "classroom": "Y201"
       }

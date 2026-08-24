@@ -1,6 +1,46 @@
 [
   {
     "code": "1643",
+    "group": "3",
+    "professor": "CLAUDIA ANGELICA CORDERO HIDALGO",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "DS01"
+      }
+    ],
+    "professor_id": 114130,
+    "first_name": "ING. CLAUDIA ANGELICA",
+    "last_name": "CORDERO HIDALGO",
+    "rating": 7.2381,
+    "num_ratings": 21
+  },
+  {
+    "code": "1643",
+    "group": "4",
+    "professor": "JOSE ALEJANDRO ESPINOSA GAZANO",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A201"
+      }
+    ],
+    "professor_id": 186085,
+    "first_name": "Jose Alejandro",
+    "last_name": "Espinosa Gazano",
+    "rating": 10.0,
+    "num_ratings": 2
+  },
+  {
+    "code": "1643",
     "group": "5",
     "professor": "JOSE ULISES VARGAS GARCIA",
     "schedules": [
@@ -62,46 +102,6 @@
         "classroom": "Y001"
       }
     ]
-  },
-  {
-    "code": "1643",
-    "group": "3",
-    "professor": "CLAUDIA ANGELICA CORDERO HIDALGO",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "DS01"
-      }
-    ],
-    "professor_id": 114130,
-    "first_name": "ING. CLAUDIA ANGELICA",
-    "last_name": "CORDERO HIDALGO",
-    "rating": 7.2381,
-    "num_ratings": 21
-  },
-  {
-    "code": "1643",
-    "group": "4",
-    "professor": "JOSE ALEJANDRO ESPINOSA GAZANO",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "A201"
-      }
-    ],
-    "professor_id": 186085,
-    "first_name": "Jose Alejandro",
-    "last_name": "Espinosa Gazano",
-    "rating": 10.0,
-    "num_ratings": 2
   },
   {
     "code": "1643",

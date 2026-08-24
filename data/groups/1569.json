@@ -61,6 +61,41 @@
   },
   {
     "code": "1569",
+    "group": "7",
+    "professor": "MARIA DE LOURDES BARBOSA SALDAÑA",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "J207"
+      }
+    ]
+  },
+  {
+    "code": "1569",
+    "group": "13",
+    "professor": "ELIA INES LUNA CEBALLOS",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "Y101"
+      }
+    ],
+    "professor_id": 84849,
+    "first_name": "Elia Inés",
+    "last_name": "Luna Ceballos",
+    "rating": 8.4382,
+    "num_ratings": 89
+  },
+  {
+    "code": "1569",
     "group": "1",
     "professor": "HECTOR CIRO BARBOSA MONTES",
     "schedules": [
@@ -111,21 +146,6 @@
           5
         ],
         "classroom": "J205"
-      }
-    ]
-  },
-  {
-    "code": "1569",
-    "group": "7",
-    "professor": "MARIA DE LOURDES BARBOSA SALDAÑA",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "J207"
       }
     ]
   },
@@ -218,25 +238,5 @@
         "classroom": "Y202"
       }
     ]
-  },
-  {
-    "code": "1569",
-    "group": "13",
-    "professor": "ELIA INES LUNA CEBALLOS",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "Y101"
-      }
-    ],
-    "professor_id": 84849,
-    "first_name": "Elia Inés",
-    "last_name": "Luna Ceballos",
-    "rating": 8.4382,
-    "num_ratings": 89
   }
 ]

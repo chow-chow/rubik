@@ -38,6 +38,22 @@
   },
   {
     "code": "1598",
+    "group": "7",
+    "professor": "PATRICIA NALLELY GOMEZ FLORES",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2,
+          3,
+          4
+        ],
+        "classroom": "DS10"
+      }
+    ]
+  },
+  {
+    "code": "1598",
     "group": "2",
     "professor": "MARIA EUGENIA BAUTISTA GONZALEZ",
     "schedules": [
@@ -112,22 +128,6 @@
   },
   {
     "code": "1598",
-    "group": "7",
-    "professor": "PATRICIA NALLELY GOMEZ FLORES",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          2,
-          3,
-          4
-        ],
-        "classroom": "DS10"
-      }
-    ]
-  },
-  {
-    "code": "1598",
     "group": "8",
     "professor": "EDGAR MARTINEZ MEZA",
     "schedules": [
@@ -167,16 +167,16 @@
     "professor": "MARIA ALEJANDRA ZUÑIGA MEDEL",
     "schedules": [
       {
-        "time": "15:00-19:00",
+        "time": "17:00-19:00",
         "days": [
-          5
+          4
         ],
         "classroom": "A206"
       },
       {
-        "time": "17:00-19:00",
+        "time": "15:00-19:00",
         "days": [
-          4
+          5
         ],
         "classroom": "A206"
       }

@@ -57,6 +57,26 @@
   },
   {
     "code": "1731",
+    "group": "6",
+    "professor": "JESUS ULISES ACOSTA ROBLEDO",
+    "schedules": [
+      {
+        "time": "16:00-18:15",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A309"
+      }
+    ],
+    "professor_id": 72178,
+    "first_name": "Jesús Ulises",
+    "last_name": "Acosta Robledo",
+    "rating": 7.7692,
+    "num_ratings": 13
+  },
+  {
+    "code": "1731",
     "group": "1",
     "professor": "MICHIKO AMEMIYA RAMIREZ",
     "schedules": [
@@ -96,25 +116,5 @@
     "last_name": "Amemiya Ramirez",
     "rating": 9.5,
     "num_ratings": 2
-  },
-  {
-    "code": "1731",
-    "group": "6",
-    "professor": "JESUS ULISES ACOSTA ROBLEDO",
-    "schedules": [
-      {
-        "time": "16:00-18:15",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "A309"
-      }
-    ],
-    "professor_id": 72178,
-    "first_name": "Jesús Ulises",
-    "last_name": "Acosta Robledo",
-    "rating": 7.7692,
-    "num_ratings": 13
   }
 ]

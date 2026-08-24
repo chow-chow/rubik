@@ -1,41 +1,6 @@
 [
   {
     "code": "1562",
-    "group": "2",
-    "professor": "JORGE ALBERTO UC MARTIN",
-    "schedules": [
-      {
-        "time": "15:00-16:30",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "B101"
-      }
-    ]
-  },
-  {
-    "code": "1562",
-    "group": "3",
-    "professor": "PATRICIA HONG CIRION",
-    "schedules": [
-      {
-        "time": "17:00-18:30",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "B106"
-      }
-    ],
-    "professor_id": 83076,
-    "first_name": "Patricia",
-    "last_name": "Hong Cirion",
-    "rating": 7.037,
-    "num_ratings": 27
-  },
-  {
-    "code": "1562",
     "group": "4",
     "professor": "IVAN MARTINEZ PEREZ",
     "schedules": [
@@ -76,25 +41,6 @@
   },
   {
     "code": "1562",
-    "group": "6",
-    "professor": "MARTHA ISELA TORRES HERNANDEZ",
-    "schedules": [
-      {
-        "time": "09:00-12:00",
-        "days": [
-          6
-        ],
-        "classroom": "B404"
-      }
-    ],
-    "professor_id": 134274,
-    "first_name": "Martha Isela",
-    "last_name": "Torres Hernández",
-    "rating": 7.6087,
-    "num_ratings": 23
-  },
-  {
-    "code": "1562",
     "group": "1",
     "professor": "LUIS ANTONIO ALTAMIRANO YEPEZ",
     "schedules": [
@@ -112,5 +58,59 @@
     "last_name": "Altamirano Yepez",
     "rating": 6.1667,
     "num_ratings": 6
+  },
+  {
+    "code": "1562",
+    "group": "2",
+    "professor": "JORGE ALBERTO UC MARTIN",
+    "schedules": [
+      {
+        "time": "15:00-16:30",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "B101"
+      }
+    ]
+  },
+  {
+    "code": "1562",
+    "group": "3",
+    "professor": "PATRICIA HONG CIRION",
+    "schedules": [
+      {
+        "time": "17:00-18:30",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "B106"
+      }
+    ],
+    "professor_id": 83076,
+    "first_name": "Patricia",
+    "last_name": "Hong Cirion",
+    "rating": 7.037,
+    "num_ratings": 27
+  },
+  {
+    "code": "1562",
+    "group": "6",
+    "professor": "MARTHA ISELA TORRES HERNANDEZ",
+    "schedules": [
+      {
+        "time": "09:00-12:00",
+        "days": [
+          6
+        ],
+        "classroom": "B404"
+      }
+    ],
+    "professor_id": 134274,
+    "first_name": "Martha Isela",
+    "last_name": "Torres Hernández",
+    "rating": 7.6087,
+    "num_ratings": 23
   }
 ]

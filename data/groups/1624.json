@@ -61,6 +61,25 @@
   },
   {
     "code": "1624",
+    "group": "4",
+    "professor": "MARCO ANTONIO POLO LABARRIOS",
+    "schedules": [
+      {
+        "time": "07:00-11:00",
+        "days": [
+          6
+        ],
+        "classroom": "D004"
+      }
+    ],
+    "professor_id": 147325,
+    "first_name": "Marco Antonio",
+    "last_name": "Polo Labarrios",
+    "rating": 8.1429,
+    "num_ratings": 7
+  },
+  {
+    "code": "1624",
     "group": "5",
     "professor": "ALEJANDRA CASTRO GONZALEZ",
     "schedules": [
@@ -78,24 +97,5 @@
     "last_name": "Castro gonzalez",
     "rating": 5.3333,
     "num_ratings": 9
-  },
-  {
-    "code": "1624",
-    "group": "4",
-    "professor": "MARCO ANTONIO POLO LABARRIOS",
-    "schedules": [
-      {
-        "time": "07:00-11:00",
-        "days": [
-          6
-        ],
-        "classroom": "D004"
-      }
-    ],
-    "professor_id": 147325,
-    "first_name": "Marco Antonio",
-    "last_name": "Polo Labarrios",
-    "rating": 8.1429,
-    "num_ratings": 7
   }
 ]

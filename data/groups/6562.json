@@ -20,22 +20,31 @@
   },
   {
     "code": "6562",
-    "group": "6",
-    "professor": "JUAN MANUEL VELASCO MIRANDA",
+    "group": "8",
+    "professor": "JORGE ALBERTO UC MARTIN",
     "schedules": [
       {
-        "time": "09:00-11:00",
+        "time": "07:00-09:00",
         "days": [
-          3
+          4
         ],
         "classroom": "P215"
       }
-    ],
-    "professor_id": 95190,
-    "first_name": "Juan Manuel",
-    "last_name": "Velasco Miranda",
-    "rating": 8.8333,
-    "num_ratings": 12
+    ]
+  },
+  {
+    "code": "6562",
+    "group": "14",
+    "professor": "FERNANDO RIVERA PEREZ",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          5
+        ],
+        "classroom": "P215"
+      }
+    ]
   },
   {
     "code": "6562",
@@ -115,6 +124,25 @@
   },
   {
     "code": "6562",
+    "group": "6",
+    "professor": "JUAN MANUEL VELASCO MIRANDA",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          3
+        ],
+        "classroom": "P215"
+      }
+    ],
+    "professor_id": 95190,
+    "first_name": "Juan Manuel",
+    "last_name": "Velasco Miranda",
+    "rating": 8.8333,
+    "num_ratings": 12
+  },
+  {
+    "code": "6562",
     "group": "7",
     "professor": "JULIO SERRANO VILLEGAS",
     "schedules": [
@@ -131,20 +159,6 @@
     "last_name": "SERRANO VILLEGAS",
     "rating": 9.0,
     "num_ratings": 19
-  },
-  {
-    "code": "6562",
-    "group": "8",
-    "professor": "PROFESOR POR ASIGNAR",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          4
-        ],
-        "classroom": "P215"
-      }
-    ]
   },
   {
     "code": "6562",
@@ -229,20 +243,6 @@
     "schedules": [
       {
         "time": "17:00-19:00",
-        "days": [
-          5
-        ],
-        "classroom": "P215"
-      }
-    ]
-  },
-  {
-    "code": "6562",
-    "group": "14",
-    "professor": "FERNANDO RIVERA PEREZ",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
         "days": [
           5
         ],

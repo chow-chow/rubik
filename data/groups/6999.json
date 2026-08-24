@@ -1,6 +1,34 @@
 [
   {
     "code": "6999",
+    "group": "1",
+    "professor": "MANUEL ALEJANDRO CORDOBA MALDONADO",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          1
+        ],
+        "classroom": "Q314"
+      }
+    ]
+  },
+  {
+    "code": "6999",
+    "group": "7",
+    "professor": "LEONEL PEREZ BAUTISTA",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2
+        ],
+        "classroom": "Q316"
+      }
+    ]
+  },
+  {
+    "code": "6999",
     "group": "2",
     "professor": "NORMA REYES CRUZ",
     "schedules": [
@@ -17,110 +45,6 @@
     "last_name": "Reyes Cruz",
     "rating": 8.5714,
     "num_ratings": 7
-  },
-  {
-    "code": "6999",
-    "group": "4",
-    "professor": "ANDREA ZENTELLA LEON",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          2
-        ],
-        "classroom": "Q316"
-      }
-    ],
-    "professor_id": 142432,
-    "first_name": "Andrea",
-    "last_name": "Zentella León",
-    "rating": 9.5,
-    "num_ratings": 2
-  },
-  {
-    "code": "6999",
-    "group": "6",
-    "professor": "ISMAEL ROMERO OCARANZA",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          2
-        ],
-        "classroom": "Q314"
-      }
-    ],
-    "professor_id": 89949,
-    "first_name": "ISMAEL",
-    "last_name": "ROMERO OCARANZA",
-    "rating": 6.2667,
-    "num_ratings": 30
-  },
-  {
-    "code": "6999",
-    "group": "8",
-    "professor": "ESPERANZA GUERRA ZAMORA",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          2
-        ],
-        "classroom": "Q314"
-      }
-    ]
-  },
-  {
-    "code": "6999",
-    "group": "10",
-    "professor": "FLORICEL RAMOS VARGAS",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          3
-        ],
-        "classroom": "Q316"
-      }
-    ],
-    "professor_id": 89946,
-    "first_name": "FLORICEL",
-    "last_name": "RAMOS VARGAS",
-    "rating": 5.8974,
-    "num_ratings": 39
-  },
-  {
-    "code": "6999",
-    "group": "12",
-    "professor": "ISMAEL ROMERO OCARANZA",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          4
-        ],
-        "classroom": "Q314"
-      }
-    ],
-    "professor_id": 89949,
-    "first_name": "ISMAEL",
-    "last_name": "ROMERO OCARANZA",
-    "rating": 6.2667,
-    "num_ratings": 30
-  },
-  {
-    "code": "6999",
-    "group": "1",
-    "professor": "MANUEL ALEJANDRO CORDOBA MALDONADO",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          1
-        ],
-        "classroom": "Q314"
-      }
-    ]
   },
   {
     "code": "6999",
@@ -143,6 +67,25 @@
   },
   {
     "code": "6999",
+    "group": "4",
+    "professor": "ANDREA ZENTELLA LEON",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2
+        ],
+        "classroom": "Q316"
+      }
+    ],
+    "professor_id": 142432,
+    "first_name": "Andrea",
+    "last_name": "Zentella León",
+    "rating": 9.5,
+    "num_ratings": 2
+  },
+  {
+    "code": "6999",
     "group": "5",
     "professor": "JOSE ALBERTO LOPEZ CERVANTES",
     "schedules": [
@@ -162,15 +105,34 @@
   },
   {
     "code": "6999",
-    "group": "7",
-    "professor": "LEONEL PEREZ BAUTISTA",
+    "group": "6",
+    "professor": "ISMAEL ROMERO OCARANZA",
     "schedules": [
       {
-        "time": "17:00-19:00",
+        "time": "15:00-17:00",
         "days": [
           2
         ],
-        "classroom": "Q316"
+        "classroom": "Q314"
+      }
+    ],
+    "professor_id": 89949,
+    "first_name": "ISMAEL",
+    "last_name": "ROMERO OCARANZA",
+    "rating": 6.1613,
+    "num_ratings": 31
+  },
+  {
+    "code": "6999",
+    "group": "8",
+    "professor": "ESPERANZA GUERRA ZAMORA",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          2
+        ],
+        "classroom": "Q314"
       }
     ]
   },
@@ -195,6 +157,25 @@
   },
   {
     "code": "6999",
+    "group": "10",
+    "professor": "FLORICEL RAMOS VARGAS",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          3
+        ],
+        "classroom": "Q316"
+      }
+    ],
+    "professor_id": 89946,
+    "first_name": "FLORICEL",
+    "last_name": "RAMOS VARGAS",
+    "rating": 5.8974,
+    "num_ratings": 39
+  },
+  {
+    "code": "6999",
     "group": "11",
     "professor": "MARIO ALBERTO HERNANDEZ ROMAN",
     "schedules": [
@@ -206,6 +187,25 @@
         "classroom": "Q314"
       }
     ]
+  },
+  {
+    "code": "6999",
+    "group": "12",
+    "professor": "ISMAEL ROMERO OCARANZA",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          4
+        ],
+        "classroom": "Q314"
+      }
+    ],
+    "professor_id": 89949,
+    "first_name": "ISMAEL",
+    "last_name": "ROMERO OCARANZA",
+    "rating": 6.1613,
+    "num_ratings": 31
   },
   {
     "code": "6999",

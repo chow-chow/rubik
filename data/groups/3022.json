@@ -1,41 +1,6 @@
 [
   {
     "code": "3022",
-    "group": "4",
-    "professor": "JAVIER GOMEZ RODRIGUEZ",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          3,
-          5
-        ],
-        "classroom": "A311"
-      }
-    ],
-    "professor_id": 108909,
-    "first_name": "Lic. Javier",
-    "last_name": "Gómez Rodríguez",
-    "rating": 7.0,
-    "num_ratings": 3
-  },
-  {
-    "code": "3022",
-    "group": "6",
-    "professor": "LINA BEATRIZ LARA HERNANDEZ",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "D001"
-      }
-    ]
-  },
-  {
-    "code": "3022",
     "group": "1",
     "professor": "GUILLERMINA PEREZ DURAN",
     "schedules": [
@@ -52,26 +17,6 @@
           1
         ],
         "classroom": "B201"
-      }
-    ],
-    "professor_id": 104858,
-    "first_name": "Ing. Guillermina",
-    "last_name": "Perez Duran",
-    "rating": 8.7778,
-    "num_ratings": 27
-  },
-  {
-    "code": "3022",
-    "group": "2",
-    "professor": "GUILLERMINA PEREZ DURAN",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "C403"
       }
     ],
     "professor_id": 104858,
@@ -102,6 +47,26 @@
   },
   {
     "code": "3022",
+    "group": "4",
+    "professor": "JAVIER GOMEZ RODRIGUEZ",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "A311"
+      }
+    ],
+    "professor_id": 108909,
+    "first_name": "Lic. Javier",
+    "last_name": "Gómez Rodríguez",
+    "rating": 7.0,
+    "num_ratings": 3
+  },
+  {
+    "code": "3022",
     "group": "5",
     "professor": "ROGELIO ARCE MACEDO",
     "schedules": [
@@ -119,5 +84,40 @@
     "last_name": "Arce Macedo",
     "rating": 9.8333,
     "num_ratings": 6
+  },
+  {
+    "code": "3022",
+    "group": "6",
+    "professor": "LINA BEATRIZ LARA HERNANDEZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "D001"
+      }
+    ]
+  },
+  {
+    "code": "3022",
+    "group": "2",
+    "professor": "GUILLERMINA PEREZ DURAN",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "C403"
+      }
+    ],
+    "professor_id": 104858,
+    "first_name": "Ing. Guillermina",
+    "last_name": "Perez Duran",
+    "rating": 8.7778,
+    "num_ratings": 27
   }
 ]

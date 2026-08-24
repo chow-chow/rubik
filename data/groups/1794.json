@@ -1,25 +1,6 @@
 [
   {
     "code": "1794",
-    "group": "1",
-    "professor": "JUAN MANUEL BUENO SORIA",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          3
-        ],
-        "classroom": "A202"
-      }
-    ],
-    "professor_id": 105044,
-    "first_name": "Juan Manuel",
-    "last_name": "Bueno Soria",
-    "rating": 6.4444,
-    "num_ratings": 27
-  },
-  {
-    "code": "1794",
     "group": "2",
     "professor": "SERGIO EDUARDO ZERECERO GALICIA",
     "schedules": [
@@ -36,6 +17,25 @@
     "last_name": "Zerecero Galicia",
     "rating": 4.5,
     "num_ratings": 2
+  },
+  {
+    "code": "1794",
+    "group": "1",
+    "professor": "JUAN MANUEL BUENO SORIA",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          3
+        ],
+        "classroom": "A202"
+      }
+    ],
+    "professor_id": 105044,
+    "first_name": "Juan Manuel",
+    "last_name": "Bueno Soria",
+    "rating": 6.4444,
+    "num_ratings": 27
   },
   {
     "code": "1794",

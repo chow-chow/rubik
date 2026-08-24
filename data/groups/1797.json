@@ -32,5 +32,35 @@
         "classroom": "X101"
       }
     ]
+  },
+  {
+    "code": "1797",
+    "group": "3",
+    "professor": "GRACIELA VELASCO HERRERA",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "EXTR"
+      }
+    ]
+  },
+  {
+    "code": "1797",
+    "group": "4",
+    "professor": "GRACIELA VELASCO HERRERA",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "EXTR"
+      }
+    ]
   }
 ]

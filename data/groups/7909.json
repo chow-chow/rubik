@@ -15,25 +15,6 @@
   },
   {
     "code": "7909",
-    "group": "2",
-    "professor": "FERNANDA RAMOS GARCIA",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          2
-        ],
-        "classroom": "P113"
-      }
-    ],
-    "professor_id": 159593,
-    "first_name": "Fernanda",
-    "last_name": "Ramos",
-    "rating": 8.3333,
-    "num_ratings": 3
-  },
-  {
-    "code": "7909",
     "group": "3",
     "professor": "LUIS ALBERTO CANALES MEZA",
     "schedules": [
@@ -59,5 +40,24 @@
         "classroom": "P113"
       }
     ]
+  },
+  {
+    "code": "7909",
+    "group": "2",
+    "professor": "FERNANDA RAMOS GARCIA",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2
+        ],
+        "classroom": "P113"
+      }
+    ],
+    "professor_id": 159593,
+    "first_name": "Fernanda",
+    "last_name": "Ramos",
+    "rating": 8.3333,
+    "num_ratings": 3
   }
 ]

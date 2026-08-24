@@ -1,22 +1,17 @@
 [
   {
     "code": "5021",
-    "group": "2",
-    "professor": "SONIA LUISA ELENA LOPEZ MALDONADO",
+    "group": "1",
+    "professor": "VICENTE GUILLERMO LOPEZ FERNANDEZ",
     "schedules": [
       {
-        "time": "09:00-11:00",
+        "time": "07:00-09:00",
         "days": [
           6
         ],
         "classroom": "DS07"
       }
-    ],
-    "professor_id": 134971,
-    "first_name": "Sonia Luisa",
-    "last_name": "López Maldonado",
-    "rating": 4.5,
-    "num_ratings": 8
+    ]
   },
   {
     "code": "5021",
@@ -39,17 +34,22 @@
   },
   {
     "code": "5021",
-    "group": "1",
-    "professor": "VICENTE GUILLERMO LOPEZ FERNANDEZ",
+    "group": "2",
+    "professor": "SONIA LUISA ELENA LOPEZ MALDONADO",
     "schedules": [
       {
-        "time": "07:00-09:00",
+        "time": "09:00-11:00",
         "days": [
           6
         ],
         "classroom": "DS07"
       }
-    ]
+    ],
+    "professor_id": 134971,
+    "first_name": "Sonia Luisa",
+    "last_name": "López Maldonado",
+    "rating": 4.5,
+    "num_ratings": 8
   },
   {
     "code": "5021",

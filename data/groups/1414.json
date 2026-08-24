@@ -1,6 +1,52 @@
 [
   {
     "code": "1414",
+    "group": "6",
+    "professor": "MAYVERENA JURADO PINEDA",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1
+        ],
+        "classroom": "Y102"
+      },
+      {
+        "time": "11:00-13:00",
+        "days": [
+          3
+        ],
+        "classroom": "J208"
+      }
+    ],
+    "professor_id": 20657,
+    "first_name": "Mayverena",
+    "last_name": "Jurado Pineda",
+    "rating": 8.124,
+    "num_ratings": 129
+  },
+  {
+    "code": "1414",
+    "group": "7",
+    "professor": "GABRIEL ALEJANDRO JARAMILLO MORALES",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "J108"
+      }
+    ],
+    "professor_id": 32242,
+    "first_name": "Gabriel Alejandro",
+    "last_name": "Jaramillo Morales",
+    "rating": 7.8,
+    "num_ratings": 70
+  },
+  {
+    "code": "1414",
     "group": "12",
     "professor": "JORGE ENRIQUE URIBE JUAREZ",
     "schedules": [
@@ -133,52 +179,6 @@
     "last_name": "López Molina",
     "rating": 8.32,
     "num_ratings": 85
-  },
-  {
-    "code": "1414",
-    "group": "6",
-    "professor": "MAYVERENA JURADO PINEDA",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          3
-        ],
-        "classroom": "J208"
-      },
-      {
-        "time": "11:00-13:00",
-        "days": [
-          1
-        ],
-        "classroom": "Y102"
-      }
-    ],
-    "professor_id": 20657,
-    "first_name": "Mayverena",
-    "last_name": "Jurado Pineda",
-    "rating": 8.1094,
-    "num_ratings": 128
-  },
-  {
-    "code": "1414",
-    "group": "7",
-    "professor": "GABRIEL ALEJANDRO JARAMILLO MORALES",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "J108"
-      }
-    ],
-    "professor_id": 32242,
-    "first_name": "Gabriel Alejandro",
-    "last_name": "Jaramillo Morales",
-    "rating": 7.8,
-    "num_ratings": 70
   },
   {
     "code": "1414",

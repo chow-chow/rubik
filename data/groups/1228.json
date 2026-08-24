@@ -1,6 +1,33 @@
 [
   {
     "code": "1228",
+    "group": "2",
+    "professor": "RIGOBERTO LEDESMA RIVERA",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "I304"
+      },
+      {
+        "time": "07:00-09:00",
+        "days": [
+          3
+        ],
+        "classroom": "Y101"
+      }
+    ],
+    "professor_id": 108359,
+    "first_name": "Rigoberto",
+    "last_name": "Ledesma Rivera",
+    "rating": 7.5,
+    "num_ratings": 6
+  },
+  {
+    "code": "1228",
     "group": "11",
     "professor": "GREGORIO PEREZ MIGUEL",
     "schedules": [
@@ -22,6 +49,27 @@
   },
   {
     "code": "1228",
+    "group": "12",
+    "professor": "JUAN MARIA DE LA SALUD OCARIZ CASTELAZO",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2,
+          3,
+          4
+        ],
+        "classroom": "J202"
+      }
+    ],
+    "professor_id": 22035,
+    "first_name": "Juan",
+    "last_name": "Ocáriz Castelazo",
+    "rating": 8.6012,
+    "num_ratings": 173
+  },
+  {
+    "code": "1228",
     "group": "1",
     "professor": "EDUARDO FLORES RIVAS",
     "schedules": [
@@ -35,33 +83,6 @@
         "classroom": "I105"
       }
     ]
-  },
-  {
-    "code": "1228",
-    "group": "2",
-    "professor": "RIGOBERTO LEDESMA RIVERA",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          3
-        ],
-        "classroom": "Y101"
-      },
-      {
-        "time": "07:00-09:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "I304"
-      }
-    ],
-    "professor_id": 108359,
-    "first_name": "Rigoberto",
-    "last_name": "Ledesma Rivera",
-    "rating": 7.5,
-    "num_ratings": 6
   },
   {
     "code": "1228",
@@ -209,8 +230,8 @@
     "professor_id": 187334,
     "first_name": "Adriana",
     "last_name": "López Zazueta",
-    "rating": 6.3333,
-    "num_ratings": 6
+    "rating": 6.8571,
+    "num_ratings": 7
   },
   {
     "code": "1228",
@@ -232,26 +253,5 @@
     "last_name": "PINZON AGUIRRE",
     "rating": 9.0,
     "num_ratings": 40
-  },
-  {
-    "code": "1228",
-    "group": "12",
-    "professor": "JUAN MARIA DE LA SALUD OCARIZ CASTELAZO",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          2,
-          3,
-          4
-        ],
-        "classroom": "J202"
-      }
-    ],
-    "professor_id": 22035,
-    "first_name": "Juan",
-    "last_name": "Ocáriz Castelazo",
-    "rating": 8.6279,
-    "num_ratings": 172
   }
 ]

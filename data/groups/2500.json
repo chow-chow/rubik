@@ -27,6 +27,27 @@
   },
   {
     "code": "2500",
+    "group": "7",
+    "professor": "JULIO CESAR GONZALEZ SANCHEZ",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          3
+        ],
+        "classroom": "D002"
+      },
+      {
+        "time": "13:00-15:00",
+        "days": [
+          5
+        ],
+        "classroom": "D001"
+      }
+    ]
+  },
+  {
+    "code": "2500",
     "group": "9",
     "professor": "PROFESOR POR ASIGNAR",
     "schedules": [
@@ -53,7 +74,12 @@
         ],
         "classroom": "A311"
       }
-    ]
+    ],
+    "professor_id": 186034,
+    "first_name": "Artemisa",
+    "last_name": "Mazón Martínez",
+    "rating": 9.5,
+    "num_ratings": 2
   },
   {
     "code": "2500",
@@ -134,27 +160,6 @@
     "last_name": "GONZALEZ PARRA",
     "rating": 6.2308,
     "num_ratings": 13
-  },
-  {
-    "code": "2500",
-    "group": "7",
-    "professor": "JULIO CESAR GONZALEZ SANCHEZ",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          5
-        ],
-        "classroom": "D001"
-      },
-      {
-        "time": "13:00-15:00",
-        "days": [
-          3
-        ],
-        "classroom": "D002"
-      }
-    ]
   },
   {
     "code": "2500",

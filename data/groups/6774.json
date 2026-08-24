@@ -2,7 +2,7 @@
   {
     "code": "6774",
     "group": "2",
-    "professor": "OLEKSANDR MARTYNYUK",
+    "professor": "JESUS CASTELAN MARTINEZ",
     "schedules": [
       {
         "time": "09:00-11:00",
@@ -11,17 +11,12 @@
         ],
         "classroom": "P002"
       }
-    ],
-    "professor_id": 161583,
-    "first_name": "Oleksandr",
-    "last_name": "Martynyuk",
-    "rating": 10.0,
-    "num_ratings": 7
+    ]
   },
   {
     "code": "6774",
     "group": "3",
-    "professor": "OLEKSANDR MARTYNYUK",
+    "professor": "JESUS CASTELAN MARTINEZ",
     "schedules": [
       {
         "time": "11:00-13:00",
@@ -30,11 +25,6 @@
         ],
         "classroom": "P002"
       }
-    ],
-    "professor_id": 161583,
-    "first_name": "Oleksandr",
-    "last_name": "Martynyuk",
-    "rating": 10.0,
-    "num_ratings": 7
+    ]
   }
 ]

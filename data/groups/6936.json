@@ -53,6 +53,25 @@
   },
   {
     "code": "6936",
+    "group": "9",
+    "professor": "GERARDO LOREDO LOPEZ",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          3
+        ],
+        "classroom": "DS06"
+      }
+    ],
+    "professor_id": 172325,
+    "first_name": "Gerardo",
+    "last_name": "Loredo López",
+    "rating": 8.0,
+    "num_ratings": 5
+  },
+  {
+    "code": "6936",
     "group": "1",
     "professor": "MANUEL ANTONIO CORONA SANCHEZ",
     "schedules": [
@@ -131,25 +150,6 @@
         "time": "19:00-21:00",
         "days": [
           1
-        ],
-        "classroom": "DS06"
-      }
-    ],
-    "professor_id": 172325,
-    "first_name": "Gerardo",
-    "last_name": "Loredo López",
-    "rating": 8.0,
-    "num_ratings": 5
-  },
-  {
-    "code": "6936",
-    "group": "9",
-    "professor": "GERARDO LOREDO LOPEZ",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          3
         ],
         "classroom": "DS06"
       }

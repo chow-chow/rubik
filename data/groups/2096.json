@@ -1,6 +1,26 @@
 [
   {
     "code": "2096",
+    "group": "1",
+    "professor": "ARMANDO ERNESTO ALATORRE CAMPOS",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "C303"
+      }
+    ],
+    "professor_id": 90935,
+    "first_name": "Armando Ernesto",
+    "last_name": "Alatorre Campos",
+    "rating": 10.0,
+    "num_ratings": 6
+  },
+  {
+    "code": "2096",
     "group": "2",
     "professor": "KAREN ITZEL REYES AYALA",
     "schedules": [
@@ -27,25 +47,5 @@
         "classroom": "EXTR"
       }
     ]
-  },
-  {
-    "code": "2096",
-    "group": "1",
-    "professor": "ARMANDO ERNESTO ALATORRE CAMPOS",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "C303"
-      }
-    ],
-    "professor_id": 90935,
-    "first_name": "Armando Ernesto",
-    "last_name": "Alatorre Campos",
-    "rating": 10.0,
-    "num_ratings": 6
   }
 ]

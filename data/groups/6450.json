@@ -15,6 +15,34 @@
   },
   {
     "code": "6450",
+    "group": "4",
+    "professor": "ROXANA ISELA NORIEGA NAVARRO",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          3
+        ],
+        "classroom": "H004"
+      }
+    ]
+  },
+  {
+    "code": "6450",
+    "group": "5",
+    "professor": "LUIS EDGARDO VIGUERAS RUEDA",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          4
+        ],
+        "classroom": "H004"
+      }
+    ]
+  },
+  {
+    "code": "6450",
     "group": "1",
     "professor": "MAYRA LEON SANTIAGO",
     "schedules": [
@@ -50,34 +78,6 @@
     "last_name": "Vega García",
     "rating": 10.0,
     "num_ratings": 2
-  },
-  {
-    "code": "6450",
-    "group": "4",
-    "professor": "ROXANA ISELA NORIEGA NAVARRO",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          3
-        ],
-        "classroom": "H004"
-      }
-    ]
-  },
-  {
-    "code": "6450",
-    "group": "5",
-    "professor": "LUIS EDGARDO VIGUERAS RUEDA",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          4
-        ],
-        "classroom": "H004"
-      }
-    ]
   },
   {
     "code": "6450",

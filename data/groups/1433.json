@@ -7,16 +7,16 @@
       {
         "time": "07:00-09:00",
         "days": [
-          2
+          4
         ],
-        "classroom": "J205"
+        "classroom": "J207"
       },
       {
         "time": "07:00-09:00",
         "days": [
-          4
+          2
         ],
-        "classroom": "J207"
+        "classroom": "J205"
       }
     ],
     "professor_id": 84710,
@@ -88,8 +88,8 @@
     "professor_id": 68042,
     "first_name": "carlos alberto",
     "last_name": "rosas gutierrez",
-    "rating": 6.9474,
-    "num_ratings": 19
+    "rating": 6.9,
+    "num_ratings": 20
   },
   {
     "code": "1433",
@@ -390,23 +390,23 @@
       {
         "time": "19:00-21:00",
         "days": [
-          2
+          4
         ],
-        "classroom": "J205"
+        "classroom": "J110"
       },
       {
         "time": "19:00-21:00",
         "days": [
-          4
+          2
         ],
-        "classroom": "J110"
+        "classroom": "J205"
       }
     ],
     "professor_id": 187334,
     "first_name": "Adriana",
     "last_name": "López Zazueta",
-    "rating": 6.3333,
-    "num_ratings": 6
+    "rating": 6.8571,
+    "num_ratings": 7
   },
   {
     "code": "1433",

@@ -56,21 +56,6 @@
   },
   {
     "code": "3077",
-    "group": "5",
-    "professor": "BENITO SANCHEZ LARA",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "EXTR"
-      }
-    ]
-  },
-  {
-    "code": "3077",
     "group": "4",
     "professor": "SAUL ARMANDO SANDOVAL TAMAYO",
     "schedules": [
@@ -79,6 +64,21 @@
         "days": [
           3,
           5
+        ],
+        "classroom": "EXTR"
+      }
+    ]
+  },
+  {
+    "code": "3077",
+    "group": "5",
+    "professor": "BENITO SANCHEZ LARA",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2,
+          4
         ],
         "classroom": "EXTR"
       }

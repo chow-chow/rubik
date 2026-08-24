@@ -1,6 +1,21 @@
 [
   {
     "code": "1782",
+    "group": "6",
+    "professor": "HUGO ELIOT MARTINEZ ZEPEDA",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A311"
+      }
+    ]
+  },
+  {
+    "code": "1782",
     "group": "7",
     "professor": "EMILIANO ANGUIANO ROJAS",
     "schedules": [
@@ -16,8 +31,8 @@
     "professor_id": 42619,
     "first_name": "Emiliano",
     "last_name": "Anguiano Rojas",
-    "rating": 4.1081,
-    "num_ratings": 37
+    "rating": 4.0789,
+    "num_ratings": 38
   },
   {
     "code": "1782",
@@ -78,21 +93,6 @@
     "last_name": "Rojas Coca",
     "rating": 6.0,
     "num_ratings": 29
-  },
-  {
-    "code": "1782",
-    "group": "6",
-    "professor": "HUGO ELIOT MARTINEZ ZEPEDA",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "A311"
-      }
-    ]
   },
   {
     "code": "1782",

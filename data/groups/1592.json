@@ -56,6 +56,26 @@
   },
   {
     "code": "1592",
+    "group": "5",
+    "professor": "GLORIA MATA HERNANDEZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "B102"
+      }
+    ],
+    "professor_id": 189468,
+    "first_name": "Gloria",
+    "last_name": "Mata Hernández",
+    "rating": 6.0,
+    "num_ratings": 2
+  },
+  {
+    "code": "1592",
     "group": "6",
     "professor": "HUGO CESAR GARZA MAGALLON",
     "schedules": [
@@ -93,25 +113,5 @@
     "last_name": "Aguado Cruz",
     "rating": 8.3667,
     "num_ratings": 30
-  },
-  {
-    "code": "1592",
-    "group": "5",
-    "professor": "GLORIA MATA HERNANDEZ",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "B102"
-      }
-    ],
-    "professor_id": 189468,
-    "first_name": "Gloria",
-    "last_name": "Mata Hernández",
-    "rating": 6.0,
-    "num_ratings": 2
   }
 ]

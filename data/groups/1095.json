@@ -1,20 +1,6 @@
 [
   {
     "code": "1095",
-    "group": "3",
-    "professor": "DAVID QUINTANAR VILLALBA",
-    "schedules": [
-      {
-        "time": "08:00-11:00",
-        "days": [
-          6
-        ],
-        "classroom": "P001"
-      }
-    ]
-  },
-  {
-    "code": "1095",
     "group": "1",
     "professor": "GLORIA CORREA PALACIOS",
     "schedules": [
@@ -50,5 +36,19 @@
     "last_name": "Mujica Ortega",
     "rating": 6.9412,
     "num_ratings": 17
+  },
+  {
+    "code": "1095",
+    "group": "3",
+    "professor": "DAVID QUINTANAR VILLALBA",
+    "schedules": [
+      {
+        "time": "08:00-11:00",
+        "days": [
+          6
+        ],
+        "classroom": "P001"
+      }
+    ]
   }
 ]

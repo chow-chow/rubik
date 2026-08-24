@@ -20,82 +20,6 @@
   },
   {
     "code": "1789",
-    "group": "2",
-    "professor": "CAROLINA GARRIDO MORELOS",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          1
-        ],
-        "classroom": "A202"
-      }
-    ],
-    "professor_id": 76048,
-    "first_name": "Carolina",
-    "last_name": "Garrido Morelos",
-    "rating": 9.8571,
-    "num_ratings": 14
-  },
-  {
-    "code": "1789",
-    "group": "3",
-    "professor": "ANA LUISA SELENE ALVAREZ CARRILLO",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          1
-        ],
-        "classroom": "A103"
-      }
-    ],
-    "professor_id": 71332,
-    "first_name": "Ana Luisa Selene",
-    "last_name": "Álvarez Carrillo",
-    "rating": 8.5833,
-    "num_ratings": 48
-  },
-  {
-    "code": "1789",
-    "group": "4",
-    "professor": "ANA LUISA SELENE ALVAREZ CARRILLO",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          3
-        ],
-        "classroom": "B203"
-      }
-    ],
-    "professor_id": 71332,
-    "first_name": "Ana Luisa Selene",
-    "last_name": "Álvarez Carrillo",
-    "rating": 8.5833,
-    "num_ratings": 48
-  },
-  {
-    "code": "1789",
-    "group": "5",
-    "professor": "ALDO FERNANDO TRUJILLO PRIEGO",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          5
-        ],
-        "classroom": "A101"
-      }
-    ],
-    "professor_id": 98613,
-    "first_name": "Aldo Fernando",
-    "last_name": "Priego Trujillo",
-    "rating": 5.5,
-    "num_ratings": 10
-  },
-  {
-    "code": "1789",
     "group": "6",
     "professor": "HUGO GERMAN SERRANO MIRANDA",
     "schedules": [
@@ -221,6 +145,82 @@
     "last_name": "Hernández Espinosa",
     "rating": 5.4444,
     "num_ratings": 9
+  },
+  {
+    "code": "1789",
+    "group": "2",
+    "professor": "CAROLINA GARRIDO MORELOS",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1
+        ],
+        "classroom": "A202"
+      }
+    ],
+    "professor_id": 76048,
+    "first_name": "Carolina",
+    "last_name": "Garrido Morelos",
+    "rating": 9.8571,
+    "num_ratings": 14
+  },
+  {
+    "code": "1789",
+    "group": "3",
+    "professor": "ANA LUISA SELENE ALVAREZ CARRILLO",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1
+        ],
+        "classroom": "A103"
+      }
+    ],
+    "professor_id": 71332,
+    "first_name": "Ana Luisa Selene",
+    "last_name": "Álvarez Carrillo",
+    "rating": 8.5833,
+    "num_ratings": 48
+  },
+  {
+    "code": "1789",
+    "group": "4",
+    "professor": "ANA LUISA SELENE ALVAREZ CARRILLO",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          3
+        ],
+        "classroom": "B203"
+      }
+    ],
+    "professor_id": 71332,
+    "first_name": "Ana Luisa Selene",
+    "last_name": "Álvarez Carrillo",
+    "rating": 8.5833,
+    "num_ratings": 48
+  },
+  {
+    "code": "1789",
+    "group": "5",
+    "professor": "ALDO FERNANDO TRUJILLO PRIEGO",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          5
+        ],
+        "classroom": "A101"
+      }
+    ],
+    "professor_id": 98613,
+    "first_name": "Aldo Fernando",
+    "last_name": "Priego Trujillo",
+    "rating": 5.5,
+    "num_ratings": 10
   },
   {
     "code": "1789",

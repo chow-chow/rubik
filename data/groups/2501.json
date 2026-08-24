@@ -1,6 +1,63 @@
 [
   {
     "code": "2501",
+    "group": "13",
+    "professor": "AGUSTIN NIEVES SAAVEDRA",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          4
+        ],
+        "classroom": "DS07"
+      }
+    ],
+    "professor_id": 63731,
+    "first_name": "Agustín",
+    "last_name": "Nieves Saavedra",
+    "rating": 2.8,
+    "num_ratings": 5
+  },
+  {
+    "code": "2501",
+    "group": "18",
+    "professor": "SONIA LUISA ELENA LOPEZ MALDONADO",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          4
+        ],
+        "classroom": "DS07"
+      }
+    ],
+    "professor_id": 134971,
+    "first_name": "Sonia Luisa",
+    "last_name": "López Maldonado",
+    "rating": 4.5,
+    "num_ratings": 8
+  },
+  {
+    "code": "2501",
+    "group": "19",
+    "professor": "AGUSTIN NIEVES SAAVEDRA",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          4
+        ],
+        "classroom": "DS07"
+      }
+    ],
+    "professor_id": 63731,
+    "first_name": "Agustín",
+    "last_name": "Nieves Saavedra",
+    "rating": 2.8,
+    "num_ratings": 5
+  },
+  {
+    "code": "2501",
     "group": "1",
     "professor": "ISRAEL JAUREGUI NARES",
     "schedules": [
@@ -36,72 +93,6 @@
     "last_name": "Nieves Saavedra",
     "rating": 2.8,
     "num_ratings": 5
-  },
-  {
-    "code": "2501",
-    "group": "13",
-    "professor": "AGUSTIN NIEVES SAAVEDRA",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          4
-        ],
-        "classroom": "DS07"
-      }
-    ],
-    "professor_id": 63731,
-    "first_name": "Agustín",
-    "last_name": "Nieves Saavedra",
-    "rating": 2.8,
-    "num_ratings": 5
-  },
-  {
-    "code": "2501",
-    "group": "19",
-    "professor": "AGUSTIN NIEVES SAAVEDRA",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          4
-        ],
-        "classroom": "DS07"
-      }
-    ],
-    "professor_id": 63731,
-    "first_name": "Agustín",
-    "last_name": "Nieves Saavedra",
-    "rating": 2.8,
-    "num_ratings": 5
-  },
-  {
-    "code": "2501",
-    "group": "26",
-    "professor": "MARIA DE LOS ANGELES GRIMALDO ORTIZ",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          6
-        ],
-        "classroom": "DS07"
-      }
-    ]
-  },
-  {
-    "code": "2501",
-    "group": "27",
-    "professor": "FRANCISCO JAVIER GARCIA OSORIO",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          6
-        ],
-        "classroom": "DS07"
-      }
-    ]
   },
   {
     "code": "2501",
@@ -371,25 +362,6 @@
   },
   {
     "code": "2501",
-    "group": "18",
-    "professor": "SONIA LUISA ELENA LOPEZ MALDONADO",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          4
-        ],
-        "classroom": "DS07"
-      }
-    ],
-    "professor_id": 134971,
-    "first_name": "Sonia Luisa",
-    "last_name": "López Maldonado",
-    "rating": 4.5,
-    "num_ratings": 8
-  },
-  {
-    "code": "2501",
     "group": "20",
     "professor": "SONIA LUISA ELENA LOPEZ MALDONADO",
     "schedules": [
@@ -501,5 +473,33 @@
     "last_name": "Anaya Tellez",
     "rating": 7.1667,
     "num_ratings": 6
+  },
+  {
+    "code": "2501",
+    "group": "26",
+    "professor": "MARIA DE LOS ANGELES GRIMALDO ORTIZ",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          6
+        ],
+        "classroom": "DS07"
+      }
+    ]
+  },
+  {
+    "code": "2501",
+    "group": "27",
+    "professor": "FRANCISCO JAVIER GARCIA OSORIO",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          6
+        ],
+        "classroom": "DS07"
+      }
+    ]
   }
 ]

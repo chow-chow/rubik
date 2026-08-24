@@ -22,10 +22,16 @@
       {
         "time": "09:00-11:00",
         "days": [
-          1,
+          1
+        ],
+        "classroom": "C103"
+      },
+      {
+        "time": "09:00-11:00",
+        "days": [
           3
         ],
-        "classroom": "EXTR"
+        "classroom": "SIN"
       }
     ]
   },
