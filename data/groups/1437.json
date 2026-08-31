@@ -21,41 +21,6 @@
   },
   {
     "code": "1437",
-    "group": "3",
-    "professor": "ABRAHAM LAURENCIO MARTINEZ BAUTISTA",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "J110"
-      }
-    ],
-    "professor_id": 55067,
-    "first_name": "Abraham Laurencio",
-    "last_name": "Martinez  Bautista",
-    "rating": 4.7292,
-    "num_ratings": 48
-  },
-  {
-    "code": "1437",
-    "group": "14",
-    "professor": "RICARDO CABRERA POSADA",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "Y104"
-      }
-    ]
-  },
-  {
-    "code": "1437",
     "group": "2",
     "professor": "ADAN TONATIUH LOPEZ RODRIGUEZ",
     "schedules": [
@@ -73,6 +38,26 @@
     "last_name": "López Rodríguez",
     "rating": 8.1429,
     "num_ratings": 28
+  },
+  {
+    "code": "1437",
+    "group": "3",
+    "professor": "ABRAHAM LAURENCIO MARTINEZ BAUTISTA",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "J110"
+      }
+    ],
+    "professor_id": 55067,
+    "first_name": "Abraham Laurencio",
+    "last_name": "Martinez  Bautista",
+    "rating": 4.7292,
+    "num_ratings": 48
   },
   {
     "code": "1437",
@@ -270,6 +255,21 @@
     "last_name": "Rogelio",
     "rating": 8.6607,
     "num_ratings": 56
+  },
+  {
+    "code": "1437",
+    "group": "14",
+    "professor": "RICARDO CABRERA POSADA",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "Y104"
+      }
+    ]
   },
   {
     "code": "1437",

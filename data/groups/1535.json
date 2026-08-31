@@ -1,27 +1,6 @@
 [
   {
     "code": "1535",
-    "group": "5",
-    "professor": "RICARDO ALBERTO SOLIS ESTRADA",
-    "schedules": [
-      {
-        "time": "09:00-12:00",
-        "days": [
-          5
-        ],
-        "classroom": "B204"
-      },
-      {
-        "time": "13:00-15:00",
-        "days": [
-          3
-        ],
-        "classroom": "T101"
-      }
-    ]
-  },
-  {
-    "code": "1535",
     "group": "1",
     "professor": "ABRAHAM PEREZ ALONZO",
     "schedules": [
@@ -127,6 +106,27 @@
     "last_name": "Prieto Meléndez",
     "rating": 7.625,
     "num_ratings": 16
+  },
+  {
+    "code": "1535",
+    "group": "5",
+    "professor": "RICARDO ALBERTO SOLIS ESTRADA",
+    "schedules": [
+      {
+        "time": "09:00-12:00",
+        "days": [
+          5
+        ],
+        "classroom": "B204"
+      },
+      {
+        "time": "13:00-15:00",
+        "days": [
+          3
+        ],
+        "classroom": "T101"
+      }
+    ]
   },
   {
     "code": "1535",

@@ -1,6 +1,25 @@
 [
   {
     "code": "6450",
+    "group": "1",
+    "professor": "MAYRA LEON SANTIAGO",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1
+        ],
+        "classroom": "H004"
+      }
+    ],
+    "professor_id": 176747,
+    "first_name": "Mayra",
+    "last_name": "León Santiago",
+    "rating": 9.25,
+    "num_ratings": 4
+  },
+  {
+    "code": "6450",
     "group": "2",
     "professor": "MONSERRAT AGUILAR PICHARDO",
     "schedules": [
@@ -12,6 +31,25 @@
         "classroom": "H004"
       }
     ]
+  },
+  {
+    "code": "6450",
+    "group": "3",
+    "professor": "FABIOLA VEGA GARCIA",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          2
+        ],
+        "classroom": "H004"
+      }
+    ],
+    "professor_id": 177118,
+    "first_name": "Fabiola",
+    "last_name": "Vega García",
+    "rating": 10.0,
+    "num_ratings": 2
   },
   {
     "code": "6450",
@@ -40,44 +78,6 @@
         "classroom": "H004"
       }
     ]
-  },
-  {
-    "code": "6450",
-    "group": "1",
-    "professor": "MAYRA LEON SANTIAGO",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          1
-        ],
-        "classroom": "H004"
-      }
-    ],
-    "professor_id": 176747,
-    "first_name": "Mayra",
-    "last_name": "León Santiago",
-    "rating": 9.25,
-    "num_ratings": 4
-  },
-  {
-    "code": "6450",
-    "group": "3",
-    "professor": "FABIOLA VEGA GARCIA",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          2
-        ],
-        "classroom": "H004"
-      }
-    ],
-    "professor_id": 177118,
-    "first_name": "Fabiola",
-    "last_name": "Vega García",
-    "rating": 10.0,
-    "num_ratings": 2
   },
   {
     "code": "6450",

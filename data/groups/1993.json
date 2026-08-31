@@ -1,6 +1,21 @@
 [
   {
     "code": "1993",
+    "group": "1",
+    "professor": "ERNESTINA POMBO HERNANDEZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "Y103"
+      }
+    ]
+  },
+  {
+    "code": "1993",
     "group": "2",
     "professor": "EDSON OMAR BARRIOS BERNAL",
     "schedules": [
@@ -33,20 +48,5 @@
     "last_name": "Bernal Esponda",
     "rating": 8.4615,
     "num_ratings": 26
-  },
-  {
-    "code": "1993",
-    "group": "1",
-    "professor": "ERNESTINA POMBO HERNANDEZ",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "Y103"
-      }
-    ]
   }
 ]

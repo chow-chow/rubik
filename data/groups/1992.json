@@ -2,7 +2,7 @@
   {
     "code": "1992",
     "group": "1",
-    "professor": "NOE JESUS JUAREZ DOMINGUEZ",
+    "professor": "Grupo cancelado, contactar a la División.",
     "schedules": [
       {
         "time": "07:00-09:00",
@@ -10,25 +10,6 @@
           2
         ],
         "classroom": "B406"
-      }
-    ],
-    "professor_id": 171807,
-    "first_name": "Noe Jesus Juarez Domiguez",
-    "last_name": "Juárez Domínguez",
-    "rating": 6.0,
-    "num_ratings": 2
-  },
-  {
-    "code": "1992",
-    "group": "3",
-    "professor": "EMILIO SAMPAYO TRUJILLO",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          4
-        ],
-        "classroom": "D008"
       }
     ]
   },
@@ -43,6 +24,20 @@
           2
         ],
         "classroom": "A401"
+      }
+    ]
+  },
+  {
+    "code": "1992",
+    "group": "3",
+    "professor": "EMILIO SAMPAYO TRUJILLO",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          4
+        ],
+        "classroom": "D008"
       }
     ]
   },

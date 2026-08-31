@@ -21,46 +21,6 @@
   },
   {
     "code": "1322",
-    "group": "4",
-    "professor": "HUGO GERMAN SERRANO MIRANDA",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "J209"
-      }
-    ],
-    "professor_id": 84710,
-    "first_name": "Hugo German",
-    "last_name": "Serrano Miranda",
-    "rating": 5.0,
-    "num_ratings": 29
-  },
-  {
-    "code": "1322",
-    "group": "8",
-    "professor": "JUAN MARIA DE LA SALUD OCARIZ CASTELAZO",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          1,
-          5
-        ],
-        "classroom": "J201"
-      }
-    ],
-    "professor_id": 22035,
-    "first_name": "Juan",
-    "last_name": "Ocáriz Castelazo",
-    "rating": 8.6012,
-    "num_ratings": 173
-  },
-  {
-    "code": "1322",
     "group": "2",
     "professor": "NICOLAS RODRIGUEZ CARREON",
     "schedules": [
@@ -98,6 +58,26 @@
     "last_name": "Carballar López",
     "rating": 7.381,
     "num_ratings": 42
+  },
+  {
+    "code": "1322",
+    "group": "4",
+    "professor": "HUGO GERMAN SERRANO MIRANDA",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "J209"
+      }
+    ],
+    "professor_id": 84710,
+    "first_name": "Hugo German",
+    "last_name": "Serrano Miranda",
+    "rating": 5.0,
+    "num_ratings": 29
   },
   {
     "code": "1322",
@@ -157,6 +137,26 @@
     "last_name": "Sanchez Rodriguez",
     "rating": 5.3333,
     "num_ratings": 33
+  },
+  {
+    "code": "1322",
+    "group": "8",
+    "professor": "JUAN MARIA DE LA SALUD OCARIZ CASTELAZO",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1,
+          5
+        ],
+        "classroom": "J201"
+      }
+    ],
+    "professor_id": 22035,
+    "first_name": "Juan",
+    "last_name": "Ocáriz Castelazo",
+    "rating": 8.6012,
+    "num_ratings": 173
   },
   {
     "code": "1322",

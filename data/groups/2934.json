@@ -21,25 +21,6 @@
   },
   {
     "code": "2934",
-    "group": "4",
-    "professor": "DEMIAN ROBERTO GARCIA VELAZQUEZ",
-    "schedules": [
-      {
-        "time": "09:00-13:00",
-        "days": [
-          6
-        ],
-        "classroom": "B106"
-      }
-    ],
-    "professor_id": 161303,
-    "first_name": "Demian",
-    "last_name": "Garcia Velazquez",
-    "rating": 6.2222,
-    "num_ratings": 18
-  },
-  {
-    "code": "2934",
     "group": "2",
     "professor": "CINTIA QUEZADA REYES",
     "schedules": [
@@ -77,5 +58,24 @@
     "last_name": "Campos del Razo",
     "rating": 9.3333,
     "num_ratings": 3
+  },
+  {
+    "code": "2934",
+    "group": "4",
+    "professor": "DEMIAN ROBERTO GARCIA VELAZQUEZ",
+    "schedules": [
+      {
+        "time": "09:00-13:00",
+        "days": [
+          6
+        ],
+        "classroom": "B106"
+      }
+    ],
+    "professor_id": 161303,
+    "first_name": "Demian",
+    "last_name": "Garcia Velazquez",
+    "rating": 6.2222,
+    "num_ratings": 18
   }
 ]

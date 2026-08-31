@@ -1,21 +1,6 @@
 [
   {
     "code": "2824",
-    "group": "2",
-    "professor": "GEORGINA GUZMAN RANGEL",
-    "schedules": [
-      {
-        "time": "11:30-13:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "R206"
-      }
-    ]
-  },
-  {
-    "code": "2824",
     "group": "1",
     "professor": "FABIOLA GUIDO GARCIA",
     "schedules": [
@@ -26,6 +11,21 @@
           3
         ],
         "classroom": "SIN"
+      }
+    ]
+  },
+  {
+    "code": "2824",
+    "group": "2",
+    "professor": "GEORGINA GUZMAN RANGEL",
+    "schedules": [
+      {
+        "time": "11:30-13:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "R206"
       }
     ]
   }

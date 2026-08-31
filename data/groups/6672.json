@@ -1,63 +1,6 @@
 [
   {
     "code": "6672",
-    "group": "9",
-    "professor": "ROMAN VICTORIANO OSORIO COMPARAN",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          5
-        ],
-        "classroom": "Q209"
-      }
-    ],
-    "professor_id": 108136,
-    "first_name": "Roman Victoriano",
-    "last_name": "Osorio Comparan",
-    "rating": 6.8095,
-    "num_ratings": 21
-  },
-  {
-    "code": "6672",
-    "group": "11",
-    "professor": "ABRAHAM PEREZ ALONZO",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          5
-        ],
-        "classroom": "Q209"
-      }
-    ],
-    "professor_id": 186596,
-    "first_name": "Abraham",
-    "last_name": "Perez Alonzo",
-    "rating": 7.8,
-    "num_ratings": 5
-  },
-  {
-    "code": "6672",
-    "group": "12",
-    "professor": "ABRAHAM PEREZ ALONZO",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          5
-        ],
-        "classroom": "Q209"
-      }
-    ],
-    "professor_id": 186596,
-    "first_name": "Abraham",
-    "last_name": "Perez Alonzo",
-    "rating": 7.8,
-    "num_ratings": 5
-  },
-  {
-    "code": "6672",
     "group": "1",
     "professor": "MOISES MELENDEZ REYES",
     "schedules": [
@@ -210,6 +153,25 @@
   },
   {
     "code": "6672",
+    "group": "9",
+    "professor": "ROMAN VICTORIANO OSORIO COMPARAN",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          5
+        ],
+        "classroom": "Q209"
+      }
+    ],
+    "professor_id": 108136,
+    "first_name": "Roman Victoriano",
+    "last_name": "Osorio Comparan",
+    "rating": 6.8095,
+    "num_ratings": 21
+  },
+  {
+    "code": "6672",
     "group": "10",
     "professor": "ROMAN VICTORIANO OSORIO COMPARAN",
     "schedules": [
@@ -226,5 +188,43 @@
     "last_name": "Osorio Comparan",
     "rating": 6.8095,
     "num_ratings": 21
+  },
+  {
+    "code": "6672",
+    "group": "11",
+    "professor": "ABRAHAM PEREZ ALONZO",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          5
+        ],
+        "classroom": "Q209"
+      }
+    ],
+    "professor_id": 186596,
+    "first_name": "Abraham",
+    "last_name": "Perez Alonzo",
+    "rating": 7.8,
+    "num_ratings": 5
+  },
+  {
+    "code": "6672",
+    "group": "12",
+    "professor": "ABRAHAM PEREZ ALONZO",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          5
+        ],
+        "classroom": "Q209"
+      }
+    ],
+    "professor_id": 186596,
+    "first_name": "Abraham",
+    "last_name": "Perez Alonzo",
+    "rating": 7.8,
+    "num_ratings": 5
   }
 ]

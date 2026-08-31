@@ -1,21 +1,6 @@
 [
   {
     "code": "1850",
-    "group": "2",
-    "professor": "SILJA AGUILAR AUSTRIA",
-    "schedules": [
-      {
-        "time": "08:00-11:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "C301"
-      }
-    ]
-  },
-  {
-    "code": "1850",
     "group": "1",
     "professor": "ALDO RAMOS ROSIQUE",
     "schedules": [
@@ -34,5 +19,20 @@
     "last_name": "Ramos Rosique",
     "rating": 7.36,
     "num_ratings": 25
+  },
+  {
+    "code": "1850",
+    "group": "2",
+    "professor": "SILJA AGUILAR AUSTRIA",
+    "schedules": [
+      {
+        "time": "08:00-11:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "C301"
+      }
+    ]
   }
 ]

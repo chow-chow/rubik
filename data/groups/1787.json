@@ -1,11 +1,11 @@
 [
   {
     "code": "1787",
-    "group": "2",
-    "professor": "EFRAIN ALBOR RAMIREZ",
+    "group": "1",
+    "professor": "DIDIER TORRES GUZMAN",
     "schedules": [
       {
-        "time": "07:00-09:00",
+        "time": "15:00-17:00",
         "days": [
           1,
           3,
@@ -17,11 +17,11 @@
   },
   {
     "code": "1787",
-    "group": "1",
-    "professor": "DIDIER TORRES GUZMAN",
+    "group": "2",
+    "professor": "EFRAIN ALBOR RAMIREZ",
     "schedules": [
       {
-        "time": "15:00-17:00",
+        "time": "07:00-09:00",
         "days": [
           1,
           3,

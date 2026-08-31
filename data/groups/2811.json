@@ -1,27 +1,6 @@
 [
   {
     "code": "2811",
-    "group": "2",
-    "professor": "JOSE OMAR CRUZ SANTIAGOVer Nota 1",
-    "schedules": [
-      {
-        "time": "07:00-08:30",
-        "days": [
-          5
-        ],
-        "classroom": "B105"
-      },
-      {
-        "time": "07:00-08:30",
-        "days": [
-          2
-        ],
-        "classroom": "Y102"
-      }
-    ]
-  },
-  {
-    "code": "2811",
     "group": "1",
     "professor": "JOSE DE JESUS AVILA MANRIQUEVer Nota 1",
     "schedules": [
@@ -31,6 +10,27 @@
           3
         ],
         "classroom": "EXTR"
+      }
+    ]
+  },
+  {
+    "code": "2811",
+    "group": "2",
+    "professor": "JOSE OMAR CRUZ SANTIAGOVer Nota 1",
+    "schedules": [
+      {
+        "time": "07:00-08:30",
+        "days": [
+          2
+        ],
+        "classroom": "Y102"
+      },
+      {
+        "time": "07:00-08:30",
+        "days": [
+          5
+        ],
+        "classroom": "B105"
       }
     ]
   }

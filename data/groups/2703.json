@@ -1,21 +1,6 @@
 [
   {
     "code": "2703",
-    "group": "2",
-    "professor": "MIGUEL MARQUEZ MARTINEZ",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "B406"
-      }
-    ]
-  },
-  {
-    "code": "2703",
     "group": "1",
     "professor": "JOSE DE JESUS HUEZO CASILLAS",
     "schedules": [
@@ -33,5 +18,20 @@
     "last_name": "Huezo Casillas",
     "rating": 8.0,
     "num_ratings": 2
+  },
+  {
+    "code": "2703",
+    "group": "2",
+    "professor": "MIGUEL MARQUEZ MARTINEZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "B406"
+      }
+    ]
   }
 ]

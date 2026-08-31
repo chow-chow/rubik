@@ -1,6 +1,27 @@
 [
   {
     "code": "2957",
+    "group": "1",
+    "professor": "JOSE ANTONIO MACIAS GARCIA",
+    "schedules": [
+      {
+        "time": "13:00-14:30",
+        "days": [
+          4
+        ],
+        "classroom": "Q208"
+      },
+      {
+        "time": "13:00-14:30",
+        "days": [
+          2
+        ],
+        "classroom": "T102"
+      }
+    ]
+  },
+  {
+    "code": "2957",
     "group": "2",
     "professor": "EDUARDO DANIEL GUERRERO RAMIREZ",
     "schedules": [
@@ -39,41 +60,6 @@
   },
   {
     "code": "2957",
-    "group": "5",
-    "professor": "VIRGINIA CECILIA DIAZ GARCIA",
-    "schedules": [
-      {
-        "time": "08:00-11:00",
-        "days": [
-          6
-        ],
-        "classroom": "B102"
-      }
-    ]
-  },
-  {
-    "code": "2957",
-    "group": "1",
-    "professor": "JOSE ANTONIO MACIAS GARCIA",
-    "schedules": [
-      {
-        "time": "13:00-14:30",
-        "days": [
-          2
-        ],
-        "classroom": "T102"
-      },
-      {
-        "time": "13:00-14:30",
-        "days": [
-          4
-        ],
-        "classroom": "Q208"
-      }
-    ]
-  },
-  {
-    "code": "2957",
     "group": "4",
     "professor": "HEIDDY ALEJANDRA PASTEN LUGO",
     "schedules": [
@@ -90,5 +76,19 @@
     "last_name": "Pasten Lugo",
     "rating": 8.6552,
     "num_ratings": 29
+  },
+  {
+    "code": "2957",
+    "group": "5",
+    "professor": "VIRGINIA CECILIA DIAZ GARCIA",
+    "schedules": [
+      {
+        "time": "08:00-11:00",
+        "days": [
+          6
+        ],
+        "classroom": "B102"
+      }
+    ]
   }
 ]

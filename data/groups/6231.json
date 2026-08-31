@@ -12,5 +12,19 @@
         "classroom": "H003"
       }
     ]
+  },
+  {
+    "code": "6231",
+    "group": "5",
+    "professor": "LUIS EDGARDO VIGUERAS RUEDA",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          4
+        ],
+        "classroom": "H004"
+      }
+    ]
   }
 ]

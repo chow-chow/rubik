@@ -1,6 +1,131 @@
 [
   {
     "code": "1124",
+    "group": "1",
+    "professor": "RAFAEL RODRIGUEZ VICTORIA",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "I106"
+      }
+    ],
+    "professor_id": 119459,
+    "first_name": "Rafael",
+    "last_name": "Rodríguez Victoria",
+    "rating": 9.1111,
+    "num_ratings": 18
+  },
+  {
+    "code": "1124",
+    "group": "2",
+    "professor": "ANA YANTZIN PEREZ CORTES",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "J209"
+      }
+    ]
+  },
+  {
+    "code": "1124",
+    "group": "3",
+    "professor": "PAULINA LANDEROS ALVARADO",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1,
+          5
+        ],
+        "classroom": "J108"
+      }
+    ]
+  },
+  {
+    "code": "1124",
+    "group": "4",
+    "professor": "ROSALBA OVANDO TREJO",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1,
+          5
+        ],
+        "classroom": "J105"
+      }
+    ],
+    "professor_id": 68080,
+    "first_name": "Rosalba",
+    "last_name": "Ovando Trejo",
+    "rating": 6.88,
+    "num_ratings": 25
+  },
+  {
+    "code": "1124",
+    "group": "5",
+    "professor": "SOFIA LUCIO TEJEDA",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "I103"
+      }
+    ],
+    "professor_id": 186713,
+    "first_name": "Sofía",
+    "last_name": "Lucio Tejeda",
+    "rating": 7.3333,
+    "num_ratings": 3
+  },
+  {
+    "code": "1124",
+    "group": "6",
+    "professor": "ANTONIO DE JESUS CASTRO RANGEL",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "Y101"
+      }
+    ],
+    "professor_id": 87088,
+    "first_name": "Antonio",
+    "last_name": "Castro Rangel",
+    "rating": 7.9737,
+    "num_ratings": 38
+  },
+  {
+    "code": "1124",
+    "group": "7",
+    "professor": "SHEREZADA LEYVA TELLEZ",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "I104"
+      }
+    ]
+  },
+  {
+    "code": "1124",
     "group": "8",
     "professor": "MARIA DE LOS ANGELES KAIM BENASCO",
     "schedules": [

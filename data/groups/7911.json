@@ -1,20 +1,6 @@
 [
   {
     "code": "7911",
-    "group": "2",
-    "professor": "EDUARDO PEREZ CAMACHO",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          2
-        ],
-        "classroom": "P113"
-      }
-    ]
-  },
-  {
-    "code": "7911",
     "group": "1",
     "professor": "JULIO CESAR FLORES DIAZ",
     "schedules": [
@@ -22,6 +8,20 @@
         "time": "13:00-15:00",
         "days": [
           1
+        ],
+        "classroom": "P113"
+      }
+    ]
+  },
+  {
+    "code": "7911",
+    "group": "2",
+    "professor": "EDUARDO PEREZ CAMACHO",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2
         ],
         "classroom": "P113"
       }

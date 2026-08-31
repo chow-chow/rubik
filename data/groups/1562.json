@@ -1,46 +1,6 @@
 [
   {
     "code": "1562",
-    "group": "4",
-    "professor": "IVAN MARTINEZ PEREZ",
-    "schedules": [
-      {
-        "time": "19:30-21:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "B101"
-      }
-    ],
-    "professor_id": 135120,
-    "first_name": "Iván",
-    "last_name": "Martínez Pérez",
-    "rating": 4.963,
-    "num_ratings": 27
-  },
-  {
-    "code": "1562",
-    "group": "5",
-    "professor": "JULIA VAZQUEZ FUENTES",
-    "schedules": [
-      {
-        "time": "09:00-10:30",
-        "days": [
-          3,
-          5
-        ],
-        "classroom": "B305"
-      }
-    ],
-    "professor_id": 58672,
-    "first_name": "Julia",
-    "last_name": "Vazquez Fuentes",
-    "rating": 4.2128,
-    "num_ratings": 47
-  },
-  {
-    "code": "1562",
     "group": "1",
     "professor": "LUIS ANTONIO ALTAMIRANO YEPEZ",
     "schedules": [
@@ -96,6 +56,46 @@
   },
   {
     "code": "1562",
+    "group": "4",
+    "professor": "IVAN MARTINEZ PEREZ",
+    "schedules": [
+      {
+        "time": "19:30-21:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "B101"
+      }
+    ],
+    "professor_id": 135120,
+    "first_name": "Iván",
+    "last_name": "Martínez Pérez",
+    "rating": 4.963,
+    "num_ratings": 27
+  },
+  {
+    "code": "1562",
+    "group": "5",
+    "professor": "JULIA VAZQUEZ FUENTES",
+    "schedules": [
+      {
+        "time": "09:00-10:30",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "B305"
+      }
+    ],
+    "professor_id": 58672,
+    "first_name": "Julia",
+    "last_name": "Vazquez Fuentes",
+    "rating": 4.2128,
+    "num_ratings": 47
+  },
+  {
+    "code": "1562",
     "group": "6",
     "professor": "MARTHA ISELA TORRES HERNANDEZ",
     "schedules": [
@@ -104,7 +104,7 @@
         "days": [
           6
         ],
-        "classroom": "B404"
+        "classroom": "DS01"
       }
     ],
     "professor_id": 134274,

@@ -5,16 +5,31 @@
     "professor": "NESTOR DANIEL LUNA GONZALEZ",
     "schedules": [
       {
+        "time": "07:00-09:00",
+        "days": [
+          6
+        ],
+        "classroom": "EXTR"
+      },
+      {
         "time": "19:00-21:00",
         "days": [
           2
         ],
         "classroom": "EXTR"
-      },
+      }
+    ]
+  },
+  {
+    "code": "2078",
+    "group": "2",
+    "professor": "JOSE LUIS FERNANDEZ ZAYAS",
+    "schedules": [
       {
-        "time": "07:00-09:00",
+        "time": "15:00-17:00",
         "days": [
-          6
+          2,
+          4
         ],
         "classroom": "EXTR"
       }
@@ -42,6 +57,20 @@
   },
   {
     "code": "2078",
+    "group": "4",
+    "professor": "VALAUR EKBALAM MARQUEZ BAÑOS",
+    "schedules": [
+      {
+        "time": "07:00-11:00",
+        "days": [
+          6
+        ],
+        "classroom": "EXTR"
+      }
+    ]
+  },
+  {
+    "code": "2078",
     "group": "5",
     "professor": "DAVID ABRAHAM BARRERA GARCIA",
     "schedules": [
@@ -59,35 +88,6 @@
     "code": "2078",
     "group": "6",
     "professor": "SANTIAGO VALENCIA CAÑOLA",
-    "schedules": [
-      {
-        "time": "07:00-11:00",
-        "days": [
-          6
-        ],
-        "classroom": "EXTR"
-      }
-    ]
-  },
-  {
-    "code": "2078",
-    "group": "2",
-    "professor": "JOSE LUIS FERNANDEZ ZAYAS",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "EXTR"
-      }
-    ]
-  },
-  {
-    "code": "2078",
-    "group": "4",
-    "professor": "VALAUR EKBALAM MARQUEZ BAÑOS",
     "schedules": [
       {
         "time": "07:00-11:00",

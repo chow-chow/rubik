@@ -96,6 +96,25 @@
   },
   {
     "code": "6570",
+    "group": "6",
+    "professor": "AURORA GUTIERREZ MORALES",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          3
+        ],
+        "classroom": "O001"
+      }
+    ],
+    "professor_id": 151773,
+    "first_name": "Aurora",
+    "last_name": "Gutierrez Morales",
+    "rating": 9.125,
+    "num_ratings": 8
+  },
+  {
+    "code": "6570",
     "group": "7",
     "professor": "JOSE LUIS ALMARAZ MORENO",
     "schedules": [
@@ -134,176 +153,6 @@
   },
   {
     "code": "6570",
-    "group": "10",
-    "professor": "ISRAEL GARDUÑO GARCIA",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          2
-        ],
-        "classroom": "O001"
-      }
-    ],
-    "professor_id": 102330,
-    "first_name": "Israel",
-    "last_name": "Garduño Garcia",
-    "rating": 7.2857,
-    "num_ratings": 14
-  },
-  {
-    "code": "6570",
-    "group": "12",
-    "professor": "JULIO CESAR GONZALEZ SANCHEZ",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          4
-        ],
-        "classroom": "O001"
-      }
-    ]
-  },
-  {
-    "code": "6570",
-    "group": "19",
-    "professor": "HUGO ZAMORA RUIZ",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          2
-        ],
-        "classroom": "O001"
-      }
-    ]
-  },
-  {
-    "code": "6570",
-    "group": "21",
-    "professor": "JESUS RAFAEL GONZALEZ PARRA",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          4
-        ],
-        "classroom": "O001"
-      }
-    ],
-    "professor_id": 149718,
-    "first_name": "JESUS RAFAEL",
-    "last_name": "GONZALEZ PARRA",
-    "rating": 6.2308,
-    "num_ratings": 13
-  },
-  {
-    "code": "6570",
-    "group": "23",
-    "professor": "PROFESOR POR ASIGNAR",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          4
-        ],
-        "classroom": "O001"
-      }
-    ]
-  },
-  {
-    "code": "6570",
-    "group": "24",
-    "professor": "JESUS FRUTIS GODINEZ",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          2
-        ],
-        "classroom": "O001"
-      }
-    ],
-    "professor_id": 74595,
-    "first_name": "Jesús",
-    "last_name": "Frutis Godínez",
-    "rating": 9.0,
-    "num_ratings": 7
-  },
-  {
-    "code": "6570",
-    "group": "25",
-    "professor": "JESUS FRUTIS GODINEZ",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          4
-        ],
-        "classroom": "O001"
-      }
-    ],
-    "professor_id": 74595,
-    "first_name": "Jesús",
-    "last_name": "Frutis Godínez",
-    "rating": 9.0,
-    "num_ratings": 7
-  },
-  {
-    "code": "6570",
-    "group": "26",
-    "professor": "FELIPE ALBERTO VARGAS DE JESUS",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          1
-        ],
-        "classroom": "O002"
-      }
-    ],
-    "professor_id": 190810,
-    "first_name": "Felipe Alberto",
-    "last_name": "Vargas de Jesús",
-    "rating": 9.6667,
-    "num_ratings": 3
-  },
-  {
-    "code": "6570",
-    "group": "27",
-    "professor": "HUGO ZAMORA RUIZ",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          2
-        ],
-        "classroom": "O001"
-      }
-    ]
-  },
-  {
-    "code": "6570",
-    "group": "6",
-    "professor": "AURORA GUTIERREZ MORALES",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          3
-        ],
-        "classroom": "O001"
-      }
-    ],
-    "professor_id": 151773,
-    "first_name": "Aurora",
-    "last_name": "Gutierrez Morales",
-    "rating": 9.125,
-    "num_ratings": 8
-  },
-  {
-    "code": "6570",
     "group": "9",
     "professor": "ADOLFO ALTAMIRANO MEZA",
     "schedules": [
@@ -323,6 +172,25 @@
   },
   {
     "code": "6570",
+    "group": "10",
+    "professor": "ISRAEL GARDUÑO GARCIA",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2
+        ],
+        "classroom": "O001"
+      }
+    ],
+    "professor_id": 102330,
+    "first_name": "Israel",
+    "last_name": "Garduño Garcia",
+    "rating": 7.2857,
+    "num_ratings": 14
+  },
+  {
+    "code": "6570",
     "group": "11",
     "professor": "DAVID MARTINEZ HERNANDEZ",
     "schedules": [
@@ -339,6 +207,20 @@
     "last_name": "Martínez Hernández",
     "rating": 7.8519,
     "num_ratings": 27
+  },
+  {
+    "code": "6570",
+    "group": "12",
+    "professor": "JULIO CESAR GONZALEZ SANCHEZ",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          4
+        ],
+        "classroom": "O001"
+      }
+    ]
   },
   {
     "code": "6570",
@@ -456,6 +338,20 @@
   },
   {
     "code": "6570",
+    "group": "19",
+    "professor": "HUGO ZAMORA RUIZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2
+        ],
+        "classroom": "O001"
+      }
+    ]
+  },
+  {
+    "code": "6570",
     "group": "20",
     "professor": "ADRIAN MANCILLA VELASCO",
     "schedules": [
@@ -475,6 +371,25 @@
   },
   {
     "code": "6570",
+    "group": "21",
+    "professor": "JESUS RAFAEL GONZALEZ PARRA",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          4
+        ],
+        "classroom": "O001"
+      }
+    ],
+    "professor_id": 149718,
+    "first_name": "JESUS RAFAEL",
+    "last_name": "GONZALEZ PARRA",
+    "rating": 6.2308,
+    "num_ratings": 13
+  },
+  {
+    "code": "6570",
     "group": "22",
     "professor": "MARTIN REYES FARIAS",
     "schedules": [
@@ -491,5 +406,90 @@
     "last_name": "Reyes Farias",
     "rating": 5.6944,
     "num_ratings": 36
+  },
+  {
+    "code": "6570",
+    "group": "23",
+    "professor": "PROFESOR POR ASIGNAR",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          4
+        ],
+        "classroom": "O001"
+      }
+    ]
+  },
+  {
+    "code": "6570",
+    "group": "24",
+    "professor": "JESUS FRUTIS GODINEZ",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          2
+        ],
+        "classroom": "O001"
+      }
+    ],
+    "professor_id": 74595,
+    "first_name": "Jesús",
+    "last_name": "Frutis Godínez",
+    "rating": 9.0,
+    "num_ratings": 7
+  },
+  {
+    "code": "6570",
+    "group": "25",
+    "professor": "JESUS FRUTIS GODINEZ",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          4
+        ],
+        "classroom": "O001"
+      }
+    ],
+    "professor_id": 74595,
+    "first_name": "Jesús",
+    "last_name": "Frutis Godínez",
+    "rating": 9.0,
+    "num_ratings": 7
+  },
+  {
+    "code": "6570",
+    "group": "26",
+    "professor": "FELIPE ALBERTO VARGAS DE JESUS",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1
+        ],
+        "classroom": "O002"
+      }
+    ],
+    "professor_id": 190810,
+    "first_name": "Felipe Alberto",
+    "last_name": "Vargas de Jesús",
+    "rating": 9.6667,
+    "num_ratings": 3
+  },
+  {
+    "code": "6570",
+    "group": "27",
+    "professor": "HUGO ZAMORA RUIZ",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2
+        ],
+        "classroom": "O001"
+      }
+    ]
   }
 ]

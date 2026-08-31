@@ -16,6 +16,46 @@
   },
   {
     "code": "1330",
+    "group": "2",
+    "professor": "GABRIEL ALEJANDRO JARAMILLO MORALES",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "J106"
+      }
+    ],
+    "professor_id": 32242,
+    "first_name": "Gabriel Alejandro",
+    "last_name": "Jaramillo Morales",
+    "rating": 7.8,
+    "num_ratings": 70
+  },
+  {
+    "code": "1330",
+    "group": "3",
+    "professor": "EDUARDO LOPEZ MOLINA",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "I203"
+      }
+    ],
+    "professor_id": 78455,
+    "first_name": "Eduardo",
+    "last_name": "López Molina",
+    "rating": 8.32,
+    "num_ratings": 85
+  },
+  {
+    "code": "1330",
     "group": "4",
     "professor": "HORTENCIA CABALLERO LOPEZ",
     "schedules": [
@@ -55,7 +95,7 @@
           2,
           4
         ],
-        "classroom": "J206"
+        "classroom": "Y204"
       }
     ],
     "professor_id": 49393,
@@ -63,45 +103,5 @@
     "last_name": "Isunza Hernández",
     "rating": 4.6429,
     "num_ratings": 14
-  },
-  {
-    "code": "1330",
-    "group": "2",
-    "professor": "GABRIEL ALEJANDRO JARAMILLO MORALES",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "J106"
-      }
-    ],
-    "professor_id": 32242,
-    "first_name": "Gabriel Alejandro",
-    "last_name": "Jaramillo Morales",
-    "rating": 7.8,
-    "num_ratings": 70
-  },
-  {
-    "code": "1330",
-    "group": "3",
-    "professor": "EDUARDO LOPEZ MOLINA",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "I203"
-      }
-    ],
-    "professor_id": 78455,
-    "first_name": "Eduardo",
-    "last_name": "López Molina",
-    "rating": 8.32,
-    "num_ratings": 85
   }
 ]

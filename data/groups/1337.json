@@ -21,26 +21,6 @@
   },
   {
     "code": "1337",
-    "group": "3",
-    "professor": "DIANA SORIANO FERNANDEZ",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "J103"
-      }
-    ],
-    "professor_id": 162444,
-    "first_name": "Diana",
-    "last_name": "Soriano Fernández",
-    "rating": 7.5263,
-    "num_ratings": 19
-  },
-  {
-    "code": "1337",
     "group": "2",
     "professor": "DIANA SORIANO FERNANDEZ",
     "schedules": [
@@ -51,6 +31,26 @@
           5
         ],
         "classroom": "I104"
+      }
+    ],
+    "professor_id": 162444,
+    "first_name": "Diana",
+    "last_name": "Soriano Fernández",
+    "rating": 7.5263,
+    "num_ratings": 19
+  },
+  {
+    "code": "1337",
+    "group": "3",
+    "professor": "DIANA SORIANO FERNANDEZ",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "J103"
       }
     ],
     "professor_id": 162444,

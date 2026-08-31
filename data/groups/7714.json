@@ -1,53 +1,6 @@
 [
   {
     "code": "7714",
-    "group": "4",
-    "professor": "EDUARDO ROSAS LIRA",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          4
-        ],
-        "classroom": "Y201"
-      }
-    ],
-    "professor_id": 79607,
-    "first_name": "Eduardo",
-    "last_name": "Rosas Lira",
-    "rating": 6.1053,
-    "num_ratings": 19
-  },
-  {
-    "code": "7714",
-    "group": "5",
-    "professor": "SALVADOR EMILIO SIERRA BENAVIDEZ",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          5
-        ],
-        "classroom": "Y201"
-      }
-    ]
-  },
-  {
-    "code": "7714",
-    "group": "7",
-    "professor": "SALVADOR EMILIO SIERRA BENAVIDEZ",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          5
-        ],
-        "classroom": "Y201"
-      }
-    ]
-  },
-  {
-    "code": "7714",
     "group": "1",
     "professor": "JULIO SERRANO VILLEGAS",
     "schedules": [
@@ -100,6 +53,39 @@
   },
   {
     "code": "7714",
+    "group": "4",
+    "professor": "EDUARDO ROSAS LIRA",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          4
+        ],
+        "classroom": "Y201"
+      }
+    ],
+    "professor_id": 79607,
+    "first_name": "Eduardo",
+    "last_name": "Rosas Lira",
+    "rating": 6.1053,
+    "num_ratings": 19
+  },
+  {
+    "code": "7714",
+    "group": "5",
+    "professor": "SALVADOR EMILIO SIERRA BENAVIDEZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          5
+        ],
+        "classroom": "Y201"
+      }
+    ]
+  },
+  {
+    "code": "7714",
     "group": "6",
     "professor": "SALVADOR EMILIO SIERRA BENAVIDEZ",
     "schedules": [
@@ -107,6 +93,20 @@
         "time": "11:00-13:00",
         "days": [
           2
+        ],
+        "classroom": "Y201"
+      }
+    ]
+  },
+  {
+    "code": "7714",
+    "group": "7",
+    "professor": "SALVADOR EMILIO SIERRA BENAVIDEZ",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          5
         ],
         "classroom": "Y201"
       }

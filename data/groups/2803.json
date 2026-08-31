@@ -1,41 +1,6 @@
 [
   {
     "code": "2803",
-    "group": "2",
-    "professor": "ADRIAN SOLANO BAZAN",
-    "schedules": [
-      {
-        "time": "19:00-20:30",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "A304"
-      }
-    ]
-  },
-  {
-    "code": "2803",
-    "group": "5",
-    "professor": "ALEJANDRO JOSE LEO VARGAS",
-    "schedules": [
-      {
-        "time": "19:00-20:30",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "A307"
-      }
-    ],
-    "professor_id": 146711,
-    "first_name": "ALEJANDRO JOSE",
-    "last_name": "LEO VARGAS",
-    "rating": 4.8333,
-    "num_ratings": 6
-  },
-  {
-    "code": "2803",
     "group": "1",
     "professor": "GUILLERMO LUIS LAURO ESQUIVEL CASTAÑEDA",
     "schedules": [
@@ -53,6 +18,21 @@
     "last_name": "Esquivel Castañeda",
     "rating": 5.3333,
     "num_ratings": 3
+  },
+  {
+    "code": "2803",
+    "group": "2",
+    "professor": "ADRIAN SOLANO BAZAN",
+    "schedules": [
+      {
+        "time": "19:00-20:30",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "A304"
+      }
+    ]
   },
   {
     "code": "2803",
@@ -83,5 +63,25 @@
         "classroom": "A404"
       }
     ]
+  },
+  {
+    "code": "2803",
+    "group": "5",
+    "professor": "ALEJANDRO JOSE LEO VARGAS",
+    "schedules": [
+      {
+        "time": "19:00-20:30",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A307"
+      }
+    ],
+    "professor_id": 146711,
+    "first_name": "ALEJANDRO JOSE",
+    "last_name": "LEO VARGAS",
+    "rating": 4.8333,
+    "num_ratings": 6
   }
 ]

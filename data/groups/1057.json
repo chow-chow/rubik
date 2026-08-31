@@ -21,6 +21,26 @@
   },
   {
     "code": "1057",
+    "group": "2",
+    "professor": "JAIME ESCAMILLA RIVERA",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "Y003"
+      }
+    ],
+    "professor_id": 172914,
+    "first_name": "Jaime",
+    "last_name": "Escamilla Rivera",
+    "rating": 10.0,
+    "num_ratings": 2
+  },
+  {
+    "code": "1057",
     "group": "3",
     "professor": "LUIS EDUARDO LEDESMA SOLANO",
     "schedules": [
@@ -57,26 +77,6 @@
     "last_name": "NAVARRETE SEVILLA",
     "rating": 5.6667,
     "num_ratings": 6
-  },
-  {
-    "code": "1057",
-    "group": "2",
-    "professor": "JAIME ESCAMILLA RIVERA",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "Y003"
-      }
-    ],
-    "professor_id": 172914,
-    "first_name": "Jaime",
-    "last_name": "Escamilla Rivera",
-    "rating": 10.0,
-    "num_ratings": 2
   },
   {
     "code": "1057",

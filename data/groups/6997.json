@@ -1,77 +1,6 @@
 [
   {
     "code": "6997",
-    "group": "4",
-    "professor": "MINERVA RUTH HERRERA RODRIGUEZ",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          2
-        ],
-        "classroom": "P114"
-      }
-    ],
-    "professor_id": 104932,
-    "first_name": "MINERVA RUTH",
-    "last_name": "HERRERA RODRIGUEZ",
-    "rating": 4.5556,
-    "num_ratings": 9
-  },
-  {
-    "code": "6997",
-    "group": "5",
-    "professor": "MARIA LEONOR SALCEDO UBILLA",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          3
-        ],
-        "classroom": "P114"
-      }
-    ],
-    "professor_id": 161143,
-    "first_name": "Maria Leonor",
-    "last_name": "Salcedo Ubilla",
-    "rating": 8.2,
-    "num_ratings": 5
-  },
-  {
-    "code": "6997",
-    "group": "8",
-    "professor": "GUSTAVO GARCIA SANCHEZ",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          5
-        ],
-        "classroom": "P109"
-      }
-    ]
-  },
-  {
-    "code": "6997",
-    "group": "11",
-    "professor": "DANIEL MARTINEZ GUTIERREZ",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          5
-        ],
-        "classroom": "P114"
-      }
-    ],
-    "professor_id": 87594,
-    "first_name": "Daniel",
-    "last_name": "Martínez Gutierrez",
-    "rating": 6.2105,
-    "num_ratings": 19
-  },
-  {
-    "code": "6997",
     "group": "1",
     "professor": "LUIS EDUARDO SILVA FRANCO",
     "schedules": [
@@ -124,6 +53,44 @@
   },
   {
     "code": "6997",
+    "group": "4",
+    "professor": "MINERVA RUTH HERRERA RODRIGUEZ",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2
+        ],
+        "classroom": "P114"
+      }
+    ],
+    "professor_id": 104932,
+    "first_name": "MINERVA RUTH",
+    "last_name": "HERRERA RODRIGUEZ",
+    "rating": 4.5556,
+    "num_ratings": 9
+  },
+  {
+    "code": "6997",
+    "group": "5",
+    "professor": "MARIA LEONOR SALCEDO UBILLA",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          3
+        ],
+        "classroom": "P114"
+      }
+    ],
+    "professor_id": 161143,
+    "first_name": "Maria Leonor",
+    "last_name": "Salcedo Ubilla",
+    "rating": 8.2,
+    "num_ratings": 5
+  },
+  {
+    "code": "6997",
     "group": "6",
     "professor": "ADRIANA EUGENIA CHAVIRA DIAZ",
     "schedules": [
@@ -162,6 +129,20 @@
   },
   {
     "code": "6997",
+    "group": "8",
+    "professor": "GUSTAVO GARCIA SANCHEZ",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          5
+        ],
+        "classroom": "P109"
+      }
+    ]
+  },
+  {
+    "code": "6997",
     "group": "9",
     "professor": "ADRIANA EUGENIA CHAVIRA DIAZ",
     "schedules": [
@@ -197,5 +178,24 @@
     "last_name": "Ramos",
     "rating": 8.3333,
     "num_ratings": 3
+  },
+  {
+    "code": "6997",
+    "group": "11",
+    "professor": "DANIEL MARTINEZ GUTIERREZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          5
+        ],
+        "classroom": "P114"
+      }
+    ],
+    "professor_id": 87594,
+    "first_name": "Daniel",
+    "last_name": "Martínez Gutierrez",
+    "rating": 6.2105,
+    "num_ratings": 19
   }
 ]

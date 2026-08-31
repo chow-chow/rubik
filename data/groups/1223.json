@@ -51,26 +51,6 @@
   },
   {
     "code": "1223",
-    "group": "7",
-    "professor": "EDGAR RAYMUNDO LOPEZ TELLEZ",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "J207"
-      }
-    ],
-    "professor_id": 58547,
-    "first_name": "Edgar Raymundo",
-    "last_name": "López Tellez",
-    "rating": 7.0,
-    "num_ratings": 72
-  },
-  {
-    "code": "1223",
     "group": "4",
     "professor": "JUAN MARIA DE LA SALUD OCARIZ CASTELAZO",
     "schedules": [
@@ -129,6 +109,26 @@
         "classroom": "J109"
       }
     ]
+  },
+  {
+    "code": "1223",
+    "group": "7",
+    "professor": "EDGAR RAYMUNDO LOPEZ TELLEZ",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "J207"
+      }
+    ],
+    "professor_id": 58547,
+    "first_name": "Edgar Raymundo",
+    "last_name": "López Tellez",
+    "rating": 7.0,
+    "num_ratings": 72
   },
   {
     "code": "1223",

@@ -61,6 +61,21 @@
   },
   {
     "code": "1977",
+    "group": "5",
+    "professor": "EDGAR ANTONIO HERNANDEZ TIRADO",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "EXTR"
+      }
+    ]
+  },
+  {
+    "code": "1977",
     "group": "6",
     "professor": "EDGAR ANTONIO HERNANDEZ TIRADO",
     "schedules": [
@@ -145,21 +160,6 @@
     "schedules": [
       {
         "time": "09:00-11:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "EXTR"
-      }
-    ]
-  },
-  {
-    "code": "1977",
-    "group": "5",
-    "professor": "EDGAR ANTONIO HERNANDEZ TIRADO",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
         "days": [
           2,
           4

@@ -22,6 +22,53 @@
   },
   {
     "code": "1332",
+    "group": "2",
+    "professor": "LUIS ADRIAN GARCIA ACOSTA",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          3
+        ],
+        "classroom": "B408"
+      },
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1
+        ],
+        "classroom": "P003"
+      }
+    ]
+  },
+  {
+    "code": "1332",
+    "group": "3",
+    "professor": "JORGE LUIS LOPEZ GARCIA",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2
+        ],
+        "classroom": "P003"
+      },
+      {
+        "time": "07:00-09:00",
+        "days": [
+          4
+        ],
+        "classroom": "P003"
+      }
+    ],
+    "professor_id": 64679,
+    "first_name": "Jorge Luis",
+    "last_name": "López García",
+    "rating": 8.4722,
+    "num_ratings": 72
+  },
+  {
+    "code": "1332",
     "group": "4",
     "professor": "PATRICIA DEL VALLE MORALES",
     "schedules": [
@@ -69,8 +116,8 @@
     "professor_id": 187681,
     "first_name": "ING. JESSICA",
     "last_name": "ROJAS SERRANO",
-    "rating": 9.3333,
-    "num_ratings": 12
+    "rating": 9.3846,
+    "num_ratings": 13
   },
   {
     "code": "1332",
@@ -113,52 +160,5 @@
         "classroom": "Q008"
       }
     ]
-  },
-  {
-    "code": "1332",
-    "group": "2",
-    "professor": "LUIS ADRIAN GARCIA ACOSTA",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          3
-        ],
-        "classroom": "B408"
-      },
-      {
-        "time": "09:00-11:00",
-        "days": [
-          1
-        ],
-        "classroom": "P003"
-      }
-    ]
-  },
-  {
-    "code": "1332",
-    "group": "3",
-    "professor": "JORGE LUIS LOPEZ GARCIA",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          2
-        ],
-        "classroom": "P003"
-      },
-      {
-        "time": "07:00-09:00",
-        "days": [
-          4
-        ],
-        "classroom": "P003"
-      }
-    ],
-    "professor_id": 64679,
-    "first_name": "Jorge Luis",
-    "last_name": "López García",
-    "rating": 8.4722,
-    "num_ratings": 72
   }
 ]

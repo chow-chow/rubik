@@ -62,5 +62,20 @@
         "classroom": "EXTR"
       }
     ]
+  },
+  {
+    "code": "1797",
+    "group": "5",
+    "professor": "PROFESOR POR ASIGNAR",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "A311"
+      }
+    ]
   }
 ]

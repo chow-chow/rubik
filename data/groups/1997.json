@@ -76,26 +76,6 @@
   },
   {
     "code": "1997",
-    "group": "5",
-    "professor": "OCTAVIO ALEJANDRO IRIS AGUILAR",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "A107"
-      }
-    ],
-    "professor_id": 79245,
-    "first_name": "Octavio",
-    "last_name": "Iris aguilar",
-    "rating": 6.0,
-    "num_ratings": 10
-  },
-  {
-    "code": "1997",
     "group": "6",
     "professor": "MICHAEL JOSSUE ROJAS GARCIA",
     "schedules": [

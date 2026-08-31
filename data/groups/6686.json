@@ -1,25 +1,6 @@
 [
   {
     "code": "6686",
-    "group": "30",
-    "professor": "CLAUDIA ESPINOSA VILLAGRAN",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          6
-        ],
-        "classroom": "Q314"
-      }
-    ],
-    "professor_id": 153250,
-    "first_name": "Claudia",
-    "last_name": "Espinosa Villagran",
-    "rating": 7.0,
-    "num_ratings": 2
-  },
-  {
-    "code": "6686",
     "group": "1",
     "professor": "BEATRIZ MELENDEZ VENANCIO",
     "schedules": [
@@ -533,6 +514,25 @@
     "last_name": "ROMERO OCARANZA",
     "rating": 6.1613,
     "num_ratings": 31
+  },
+  {
+    "code": "6686",
+    "group": "30",
+    "professor": "CLAUDIA ESPINOSA VILLAGRAN",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          6
+        ],
+        "classroom": "Q314"
+      }
+    ],
+    "professor_id": 153250,
+    "first_name": "Claudia",
+    "last_name": "Espinosa Villagran",
+    "rating": 7.0,
+    "num_ratings": 2
   },
   {
     "code": "6686",

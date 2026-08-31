@@ -1,6 +1,27 @@
 [
   {
     "code": "1731",
+    "group": "1",
+    "professor": "MICHIKO AMEMIYA RAMIREZ",
+    "schedules": [
+      {
+        "time": "07:00-08:30",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "A210"
+      }
+    ],
+    "professor_id": 154735,
+    "first_name": "Michiko",
+    "last_name": "Amemiya Ramirez",
+    "rating": 9.5,
+    "num_ratings": 2
+  },
+  {
+    "code": "1731",
     "group": "2",
     "professor": "LEON MANUEL GARAY ACEVEDO",
     "schedules": [
@@ -19,6 +40,27 @@
     "last_name": "GARAY ACEVEDO",
     "rating": 7.6667,
     "num_ratings": 3
+  },
+  {
+    "code": "1731",
+    "group": "3",
+    "professor": "MICHIKO AMEMIYA RAMIREZ",
+    "schedules": [
+      {
+        "time": "08:30-10:00",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "A303"
+      }
+    ],
+    "professor_id": 154735,
+    "first_name": "Michiko",
+    "last_name": "Amemiya Ramirez",
+    "rating": 9.5,
+    "num_ratings": 2
   },
   {
     "code": "1731",
@@ -74,47 +116,5 @@
     "last_name": "Acosta Robledo",
     "rating": 7.7692,
     "num_ratings": 13
-  },
-  {
-    "code": "1731",
-    "group": "1",
-    "professor": "MICHIKO AMEMIYA RAMIREZ",
-    "schedules": [
-      {
-        "time": "07:00-08:30",
-        "days": [
-          1,
-          3,
-          5
-        ],
-        "classroom": "A210"
-      }
-    ],
-    "professor_id": 154735,
-    "first_name": "Michiko",
-    "last_name": "Amemiya Ramirez",
-    "rating": 9.5,
-    "num_ratings": 2
-  },
-  {
-    "code": "1731",
-    "group": "3",
-    "professor": "MICHIKO AMEMIYA RAMIREZ",
-    "schedules": [
-      {
-        "time": "08:30-10:00",
-        "days": [
-          1,
-          3,
-          5
-        ],
-        "classroom": "A303"
-      }
-    ],
-    "professor_id": 154735,
-    "first_name": "Michiko",
-    "last_name": "Amemiya Ramirez",
-    "rating": 9.5,
-    "num_ratings": 2
   }
 ]

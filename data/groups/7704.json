@@ -12,5 +12,24 @@
         "classroom": "Q307"
       }
     ]
+  },
+  {
+    "code": "7704",
+    "group": "2",
+    "professor": "MARIO ALFREDO IBARRA CARRILLO",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          5
+        ],
+        "classroom": "Q307"
+      }
+    ],
+    "professor_id": 99010,
+    "first_name": "Mario Alfredo",
+    "last_name": "Ibarra Carrillo",
+    "rating": 7.2727,
+    "num_ratings": 11
   }
 ]

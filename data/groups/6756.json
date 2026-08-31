@@ -1,34 +1,6 @@
 [
   {
     "code": "6756",
-    "group": "8",
-    "professor": "ALEJANDRO CORTES ESLAVA",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          2
-        ],
-        "classroom": "N005"
-      }
-    ]
-  },
-  {
-    "code": "6756",
-    "group": "10",
-    "professor": "PROFESOR POR ASIGNAR",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          2
-        ],
-        "classroom": "N005"
-      }
-    ]
-  },
-  {
-    "code": "6756",
     "group": "1",
     "professor": "ENRIQUE BERNAL MARTINEZ",
     "schedules": [
@@ -147,8 +119,36 @@
   },
   {
     "code": "6756",
+    "group": "8",
+    "professor": "ALEJANDRO CORTES ESLAVA",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          2
+        ],
+        "classroom": "N005"
+      }
+    ]
+  },
+  {
+    "code": "6756",
     "group": "9",
     "professor": "SERVANDO RUIZ RODRIGUEZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2
+        ],
+        "classroom": "N005"
+      }
+    ]
+  },
+  {
+    "code": "6756",
+    "group": "10",
+    "professor": "PROFESOR POR ASIGNAR",
     "schedules": [
       {
         "time": "15:00-17:00",

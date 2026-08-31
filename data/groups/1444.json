@@ -21,6 +21,26 @@
   },
   {
     "code": "1444",
+    "group": "2",
+    "professor": "ALEJANDRO PONCE SERRANO",
+    "schedules": [
+      {
+        "time": "11:30-13:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A210"
+      }
+    ],
+    "professor_id": 172599,
+    "first_name": "ALEJANDRO",
+    "last_name": "PONCE SERRANO",
+    "rating": 2.6,
+    "num_ratings": 5
+  },
+  {
+    "code": "1444",
     "group": "3",
     "professor": "GUILLERMO LLANOS BONILLA",
     "schedules": [
@@ -67,25 +87,5 @@
         "classroom": "A212"
       }
     ]
-  },
-  {
-    "code": "1444",
-    "group": "2",
-    "professor": "ALEJANDRO PONCE SERRANO",
-    "schedules": [
-      {
-        "time": "11:30-13:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "A210"
-      }
-    ],
-    "professor_id": 172599,
-    "first_name": "ALEJANDRO",
-    "last_name": "PONCE SERRANO",
-    "rating": 2.6,
-    "num_ratings": 5
   }
 ]

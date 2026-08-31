@@ -1,6 +1,22 @@
 [
   {
     "code": "1730",
+    "group": "1",
+    "professor": "ALEJANDRO SANCHEZ HUERTA",
+    "schedules": [
+      {
+        "time": "08:30-10:00",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "A210"
+      }
+    ]
+  },
+  {
+    "code": "1730",
     "group": "2",
     "professor": "AMALIA ADRIANA CAFAGGI FELIX",
     "schedules": [
@@ -19,42 +35,6 @@
     "last_name": "CAFAGGI FELIX",
     "rating": 8.25,
     "num_ratings": 8
-  },
-  {
-    "code": "1730",
-    "group": "5",
-    "professor": "MIGUEL ANGEL VICENTE LOPEZ",
-    "schedules": [
-      {
-        "time": "18:15-20:30",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "A212"
-      }
-    ],
-    "professor_id": 194060,
-    "first_name": "Miguel Angel",
-    "last_name": "Vicente Lopez",
-    "rating": 10.0,
-    "num_ratings": 2
-  },
-  {
-    "code": "1730",
-    "group": "1",
-    "professor": "ALEJANDRO SANCHEZ HUERTA",
-    "schedules": [
-      {
-        "time": "08:30-10:00",
-        "days": [
-          1,
-          3,
-          5
-        ],
-        "classroom": "A210"
-      }
-    ]
   },
   {
     "code": "1730",
@@ -91,5 +71,25 @@
     "last_name": "AGUILAR YAÑEZ",
     "rating": 9.4,
     "num_ratings": 5
+  },
+  {
+    "code": "1730",
+    "group": "5",
+    "professor": "MIGUEL ANGEL VICENTE LOPEZ",
+    "schedules": [
+      {
+        "time": "18:15-20:30",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A212"
+      }
+    ],
+    "professor_id": 194060,
+    "first_name": "Miguel Angel",
+    "last_name": "Vicente Lopez",
+    "rating": 10.0,
+    "num_ratings": 2
   }
 ]

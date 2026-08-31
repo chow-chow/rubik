@@ -67,57 +67,22 @@
   },
   {
     "code": "1424",
-    "group": "7",
-    "professor": "CYNTHIA LISSETH VELAZCO VELASCO",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "J209"
-      }
-    ],
-    "professor_id": 86508,
-    "first_name": "Cynthia Lisseth",
-    "last_name": "Velazco Velasco",
-    "rating": 7.2182,
-    "num_ratings": 55
-  },
-  {
-    "code": "1424",
-    "group": "8",
-    "professor": "PAVEL RAMOS MARTINEZ",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "J201"
-      }
-    ]
-  },
-  {
-    "code": "1424",
     "group": "4",
     "professor": "HERIBERTO DE JESUS AGUILAR JUAREZ",
     "schedules": [
       {
         "time": "13:00-15:00",
         "days": [
-          5
+          3
         ],
-        "classroom": "I103"
+        "classroom": "I102"
       },
       {
         "time": "13:00-15:00",
         "days": [
-          3
+          5
         ],
-        "classroom": "I102"
+        "classroom": "I103"
       }
     ],
     "professor_id": 78508,
@@ -164,6 +129,41 @@
           3
         ],
         "classroom": "Y101"
+      }
+    ]
+  },
+  {
+    "code": "1424",
+    "group": "7",
+    "professor": "CYNTHIA LISSETH VELAZCO VELASCO",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "J209"
+      }
+    ],
+    "professor_id": 86508,
+    "first_name": "Cynthia Lisseth",
+    "last_name": "Velazco Velasco",
+    "rating": 7.2182,
+    "num_ratings": 55
+  },
+  {
+    "code": "1424",
+    "group": "8",
+    "professor": "PAVEL RAMOS MARTINEZ",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "J201"
       }
     ]
   }

@@ -1,26 +1,6 @@
 [
   {
     "code": "1756",
-    "group": "2",
-    "professor": "MARCO ANTONIO REYES HUESCA",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "B301"
-      }
-    ],
-    "professor_id": 62499,
-    "first_name": "Marco Antonio",
-    "last_name": "Reyes Huesca",
-    "rating": 7.6389,
-    "num_ratings": 36
-  },
-  {
-    "code": "1756",
     "group": "1",
     "professor": "RUBEN AVILA RODRIGUEZ",
     "schedules": [
@@ -38,6 +18,26 @@
     "last_name": "Ávila Rodríguez",
     "rating": 6.2414,
     "num_ratings": 29
+  },
+  {
+    "code": "1756",
+    "group": "2",
+    "professor": "MARCO ANTONIO REYES HUESCA",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "B301"
+      }
+    ],
+    "professor_id": 62499,
+    "first_name": "Marco Antonio",
+    "last_name": "Reyes Huesca",
+    "rating": 7.6389,
+    "num_ratings": 36
   },
   {
     "code": "1756",

@@ -48,6 +48,25 @@
   },
   {
     "code": "5507",
+    "group": "6",
+    "professor": "JORGE ALBERTO NAJERA CASTREJON",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2
+        ],
+        "classroom": "O005"
+      }
+    ],
+    "professor_id": 112014,
+    "first_name": "JORGE ALBERTO",
+    "last_name": "NAJERA CASTREJON",
+    "rating": 7.9091,
+    "num_ratings": 11
+  },
+  {
+    "code": "5507",
     "group": "7",
     "professor": "CAROLINA CITLALLI MEDINA ALVAREZ",
     "schedules": [
@@ -69,82 +88,6 @@
         "time": "11:00-13:00",
         "days": [
           4
-        ],
-        "classroom": "O005"
-      }
-    ],
-    "professor_id": 112014,
-    "first_name": "JORGE ALBERTO",
-    "last_name": "NAJERA CASTREJON",
-    "rating": 7.9091,
-    "num_ratings": 11
-  },
-  {
-    "code": "5507",
-    "group": "11",
-    "professor": "ISRAEL GARDUÑO GARCIA",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          3
-        ],
-        "classroom": "O005"
-      }
-    ],
-    "professor_id": 102330,
-    "first_name": "Israel",
-    "last_name": "Garduño Garcia",
-    "rating": 7.2857,
-    "num_ratings": 14
-  },
-  {
-    "code": "5507",
-    "group": "14",
-    "professor": "JOSE LUIS ESPINOZA RAMIREZ",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          1
-        ],
-        "classroom": "O005"
-      }
-    ],
-    "professor_id": 75503,
-    "first_name": "Jose Luis",
-    "last_name": "Espinoza",
-    "rating": 9.25,
-    "num_ratings": 12
-  },
-  {
-    "code": "5507",
-    "group": "15",
-    "professor": "ISRAEL GARDUÑO GARCIA",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          2
-        ],
-        "classroom": "O005"
-      }
-    ],
-    "professor_id": 102330,
-    "first_name": "Israel",
-    "last_name": "Garduño Garcia",
-    "rating": 7.2857,
-    "num_ratings": 14
-  },
-  {
-    "code": "5507",
-    "group": "6",
-    "professor": "JORGE ALBERTO NAJERA CASTREJON",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          2
         ],
         "classroom": "O005"
       }
@@ -195,6 +138,25 @@
   },
   {
     "code": "5507",
+    "group": "11",
+    "professor": "ISRAEL GARDUÑO GARCIA",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          3
+        ],
+        "classroom": "O005"
+      }
+    ],
+    "professor_id": 102330,
+    "first_name": "Israel",
+    "last_name": "Garduño Garcia",
+    "rating": 7.2857,
+    "num_ratings": 14
+  },
+  {
+    "code": "5507",
     "group": "13",
     "professor": "JOSE LUIS ESPINOZA RAMIREZ",
     "schedules": [
@@ -211,5 +173,43 @@
     "last_name": "Espinoza",
     "rating": 9.25,
     "num_ratings": 12
+  },
+  {
+    "code": "5507",
+    "group": "14",
+    "professor": "JOSE LUIS ESPINOZA RAMIREZ",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          1
+        ],
+        "classroom": "O005"
+      }
+    ],
+    "professor_id": 75503,
+    "first_name": "Jose Luis",
+    "last_name": "Espinoza",
+    "rating": 9.25,
+    "num_ratings": 12
+  },
+  {
+    "code": "5507",
+    "group": "15",
+    "professor": "ISRAEL GARDUÑO GARCIA",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          2
+        ],
+        "classroom": "O005"
+      }
+    ],
+    "professor_id": 102330,
+    "first_name": "Israel",
+    "last_name": "Garduño Garcia",
+    "rating": 7.2857,
+    "num_ratings": 14
   }
 ]

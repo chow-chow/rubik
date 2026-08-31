@@ -1,36 +1,6 @@
 [
   {
     "code": "1469",
-    "group": "1",
-    "professor": "Grupo cancelado, contactar a la División.",
-    "schedules": [
-      {
-        "time": "07:00-08:30",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "DS10"
-      }
-    ]
-  },
-  {
-    "code": "1469",
-    "group": "2",
-    "professor": "Grupo cancelado, contactar a la División.",
-    "schedules": [
-      {
-        "time": "09:00-10:30",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "Q309"
-      }
-    ]
-  },
-  {
-    "code": "1469",
     "group": "3",
     "professor": "MARIO ALFREDO IBARRA CARRILLO",
     "schedules": [

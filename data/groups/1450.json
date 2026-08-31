@@ -1,6 +1,39 @@
 [
   {
     "code": "1450",
+    "group": "1",
+    "professor": "ANTONIA DEL CARMEN PEREZ LEON",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2
+        ],
+        "classroom": "J106"
+      }
+    ],
+    "professor_id": 58911,
+    "first_name": "Antonia del Carmen",
+    "last_name": "Perez Leon",
+    "rating": 9.4082,
+    "num_ratings": 49
+  },
+  {
+    "code": "1450",
+    "group": "2",
+    "professor": "EMMA MARTINEZ LUNA",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1
+        ],
+        "classroom": "J107"
+      }
+    ]
+  },
+  {
+    "code": "1450",
     "group": "3",
     "professor": "ANDRES NORIEGA USI",
     "schedules": [
@@ -10,6 +43,20 @@
           4
         ],
         "classroom": "J201"
+      }
+    ]
+  },
+  {
+    "code": "1450",
+    "group": "4",
+    "professor": "ANDRES NORIEGA USI",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          5
+        ],
+        "classroom": "J107"
       }
     ]
   },
@@ -50,52 +97,5 @@
     "last_name": "Aburto Mejía",
     "rating": 10.0,
     "num_ratings": 7
-  },
-  {
-    "code": "1450",
-    "group": "1",
-    "professor": "ANTONIA DEL CARMEN PEREZ LEON",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          2
-        ],
-        "classroom": "J106"
-      }
-    ],
-    "professor_id": 58911,
-    "first_name": "Antonia del Carmen",
-    "last_name": "Perez Leon",
-    "rating": 9.4082,
-    "num_ratings": 49
-  },
-  {
-    "code": "1450",
-    "group": "2",
-    "professor": "EMMA MARTINEZ LUNA",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          1
-        ],
-        "classroom": "J107"
-      }
-    ]
-  },
-  {
-    "code": "1450",
-    "group": "4",
-    "professor": "ANDRES NORIEGA USI",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          5
-        ],
-        "classroom": "J107"
-      }
-    ]
   }
 ]

@@ -1,146 +1,6 @@
 [
   {
     "code": "1325",
-    "group": "10",
-    "professor": "ROGELIO REGINO HERNANDEZ HERNANDEZ",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "Y102"
-      }
-    ],
-    "professor_id": 49293,
-    "first_name": "Regino Rogelio",
-    "last_name": "Hernandez Hernandez",
-    "rating": 3.913,
-    "num_ratings": 23
-  },
-  {
-    "code": "1325",
-    "group": "15",
-    "professor": "DANIEL PEÑA MACIEL",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          3,
-          5
-        ],
-        "classroom": "Y101"
-      }
-    ],
-    "professor_id": 84731,
-    "first_name": "Daniel",
-    "last_name": "Peña Maciel",
-    "rating": 7.0714,
-    "num_ratings": 28
-  },
-  {
-    "code": "1325",
-    "group": "19",
-    "professor": "LUIS HERNANDEZ MORENO",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "I106"
-      }
-    ],
-    "professor_id": 78817,
-    "first_name": "Luis",
-    "last_name": "Hernandez Moreno",
-    "rating": 7.3889,
-    "num_ratings": 18
-  },
-  {
-    "code": "1325",
-    "group": "23",
-    "professor": "ANDRES BASILIO RAMIREZ Y VILLA",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "J110"
-      }
-    ],
-    "professor_id": 63727,
-    "first_name": "Andres Basilio",
-    "last_name": "Ramirez y Villa",
-    "rating": 6.3,
-    "num_ratings": 40
-  },
-  {
-    "code": "1325",
-    "group": "25",
-    "professor": "DANIEL PEÑA MACIEL",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          3,
-          5
-        ],
-        "classroom": "I305"
-      }
-    ],
-    "professor_id": 84731,
-    "first_name": "Daniel",
-    "last_name": "Peña Maciel",
-    "rating": 7.0714,
-    "num_ratings": 28
-  },
-  {
-    "code": "1325",
-    "group": "33",
-    "professor": "JESUS ALFREDO ZARRAGA MARTINEZ",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "J101"
-      }
-    ],
-    "professor_id": 108661,
-    "first_name": "Jesus Alfredo",
-    "last_name": "Zarraga Martinez",
-    "rating": 5.6,
-    "num_ratings": 25
-  },
-  {
-    "code": "1325",
-    "group": "34",
-    "professor": "JOSE LUIS FLORES SILVA",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "Y101"
-      }
-    ],
-    "professor_id": 43499,
-    "first_name": "Jose luis",
-    "last_name": "Flores Silva",
-    "rating": 7.4211,
-    "num_ratings": 57
-  },
-  {
-    "code": "1325",
     "group": "1",
     "professor": "JOSE RAFAEL GONZALEZ MARTINEZ",
     "schedules": [
@@ -301,8 +161,8 @@
     "professor_id": 84254,
     "first_name": "Ali",
     "last_name": "Ramos Gómez",
-    "rating": 8.4384,
-    "num_ratings": 73
+    "rating": 8.4324,
+    "num_ratings": 74
   },
   {
     "code": "1325",
@@ -329,6 +189,26 @@
     "last_name": "Cortes Rosas",
     "rating": 6.4545,
     "num_ratings": 55
+  },
+  {
+    "code": "1325",
+    "group": "10",
+    "professor": "ROGELIO REGINO HERNANDEZ HERNANDEZ",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "Y102"
+      }
+    ],
+    "professor_id": 49293,
+    "first_name": "Regino Rogelio",
+    "last_name": "Hernandez Hernandez",
+    "rating": 3.913,
+    "num_ratings": 23
   },
   {
     "code": "1325",
@@ -378,16 +258,16 @@
       {
         "time": "11:00-13:00",
         "days": [
-          3
+          5
         ],
-        "classroom": "J105"
+        "classroom": "J106"
       },
       {
         "time": "11:00-13:00",
         "days": [
-          5
+          3
         ],
-        "classroom": "J106"
+        "classroom": "J105"
       }
     ],
     "professor_id": 49939,
@@ -410,6 +290,26 @@
         "classroom": "J211"
       }
     ]
+  },
+  {
+    "code": "1325",
+    "group": "15",
+    "professor": "DANIEL PEÑA MACIEL",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "Y101"
+      }
+    ],
+    "professor_id": 84731,
+    "first_name": "Daniel",
+    "last_name": "Peña Maciel",
+    "rating": 7.0714,
+    "num_ratings": 28
   },
   {
     "code": "1325",
@@ -448,8 +348,8 @@
     "professor_id": 84254,
     "first_name": "Ali",
     "last_name": "Ramos Gómez",
-    "rating": 8.4384,
-    "num_ratings": 73
+    "rating": 8.4324,
+    "num_ratings": 74
   },
   {
     "code": "1325",
@@ -470,6 +370,26 @@
     "last_name": "Martinez Avalos",
     "rating": 7.4048,
     "num_ratings": 126
+  },
+  {
+    "code": "1325",
+    "group": "19",
+    "professor": "LUIS HERNANDEZ MORENO",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "I106"
+      }
+    ],
+    "professor_id": 78817,
+    "first_name": "Luis",
+    "last_name": "Hernandez Moreno",
+    "rating": 7.3889,
+    "num_ratings": 18
   },
   {
     "code": "1325",
@@ -527,6 +447,26 @@
   },
   {
     "code": "1325",
+    "group": "23",
+    "professor": "ANDRES BASILIO RAMIREZ Y VILLA",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "J110"
+      }
+    ],
+    "professor_id": 63727,
+    "first_name": "Andres Basilio",
+    "last_name": "Ramirez y Villa",
+    "rating": 6.3,
+    "num_ratings": 40
+  },
+  {
+    "code": "1325",
     "group": "24",
     "professor": "ANAHI FLORES PEREZ",
     "schedules": [
@@ -544,6 +484,26 @@
     "last_name": "Flores Perez",
     "rating": 7.8806,
     "num_ratings": 67
+  },
+  {
+    "code": "1325",
+    "group": "25",
+    "professor": "DANIEL PEÑA MACIEL",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "I305"
+      }
+    ],
+    "professor_id": 84731,
+    "first_name": "Daniel",
+    "last_name": "Peña Maciel",
+    "rating": 7.0714,
+    "num_ratings": 28
   },
   {
     "code": "1325",
@@ -608,16 +568,16 @@
       {
         "time": "17:00-19:00",
         "days": [
-          3
+          5
         ],
-        "classroom": "J103"
+        "classroom": "J106"
       },
       {
         "time": "17:00-19:00",
         "days": [
-          5
+          3
         ],
-        "classroom": "J106"
+        "classroom": "J103"
       }
     ],
     "professor_id": 177289,
@@ -685,5 +645,45 @@
     "last_name": "Fernández Martínez",
     "rating": 8.0889,
     "num_ratings": 45
+  },
+  {
+    "code": "1325",
+    "group": "33",
+    "professor": "JESUS ALFREDO ZARRAGA MARTINEZ",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "J101"
+      }
+    ],
+    "professor_id": 108661,
+    "first_name": "Jesus Alfredo",
+    "last_name": "Zarraga Martinez",
+    "rating": 5.6,
+    "num_ratings": 25
+  },
+  {
+    "code": "1325",
+    "group": "34",
+    "professor": "JOSE LUIS FLORES SILVA",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "Y101"
+      }
+    ],
+    "professor_id": 43499,
+    "first_name": "Jose luis",
+    "last_name": "Flores Silva",
+    "rating": 7.4211,
+    "num_ratings": 57
   }
 ]

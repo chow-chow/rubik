@@ -1,6 +1,26 @@
 [
   {
     "code": "1645",
+    "group": "1",
+    "professor": "NORMA ELVA CHAVEZ RODRIGUEZ",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "A306"
+      }
+    ],
+    "professor_id": 142387,
+    "first_name": "Norma",
+    "last_name": "Elva Chavez Rodriguez",
+    "rating": 8.6667,
+    "num_ratings": 30
+  },
+  {
+    "code": "1645",
     "group": "2",
     "professor": "JORGE ALBERTO UC MARTIN",
     "schedules": [
@@ -56,6 +76,26 @@
   },
   {
     "code": "1645",
+    "group": "5",
+    "professor": "OSCAR FRANCISCO FUENTES CASARRUBIAS",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "B206"
+      }
+    ],
+    "professor_id": 181794,
+    "first_name": "Oscar Francisco",
+    "last_name": "Fuentes Casarrubias",
+    "rating": 9.5,
+    "num_ratings": 2
+  },
+  {
+    "code": "1645",
     "group": "6",
     "professor": "DANIEL ALBERTO ARCOS SANTIAGO",
     "schedules": [
@@ -108,64 +148,5 @@
     "last_name": "Moreno Aguilar",
     "rating": 8.0,
     "num_ratings": 9
-  },
-  {
-    "code": "1645",
-    "group": "9",
-    "professor": "ROBERTO FEDERICO MANDUJANO WILD",
-    "schedules": [
-      {
-        "time": "07:00-11:00",
-        "days": [
-          5
-        ],
-        "classroom": "B103"
-      }
-    ],
-    "professor_id": 85850,
-    "first_name": "Roberto",
-    "last_name": "Mandujano Wild",
-    "rating": 7.566,
-    "num_ratings": 53
-  },
-  {
-    "code": "1645",
-    "group": "1",
-    "professor": "NORMA ELVA CHAVEZ RODRIGUEZ",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "A306"
-      }
-    ],
-    "professor_id": 142387,
-    "first_name": "Norma",
-    "last_name": "Elva Chavez Rodriguez",
-    "rating": 8.6667,
-    "num_ratings": 30
-  },
-  {
-    "code": "1645",
-    "group": "5",
-    "professor": "OSCAR FRANCISCO FUENTES CASARRUBIAS",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "B206"
-      }
-    ],
-    "professor_id": 181794,
-    "first_name": "Oscar Francisco",
-    "last_name": "Fuentes Casarrubias",
-    "rating": 9.5,
-    "num_ratings": 2
   }
 ]

@@ -28,5 +28,35 @@
         "classroom": "X101"
       }
     ]
+  },
+  {
+    "code": "1798",
+    "group": "3",
+    "professor": "GRACIELA VELASCO HERRERA",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "EXTR"
+      }
+    ]
+  },
+  {
+    "code": "1798",
+    "group": "4",
+    "professor": "LUCY CATERINE DAZA GOMEZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "X101"
+      }
+    ]
   }
 ]

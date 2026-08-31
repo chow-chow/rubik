@@ -1,53 +1,6 @@
 [
   {
     "code": "6562",
-    "group": "5",
-    "professor": "PATRICIA HONG CIRION",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          2
-        ],
-        "classroom": "P215"
-      }
-    ],
-    "professor_id": 83076,
-    "first_name": "Patricia",
-    "last_name": "Hong Cirion",
-    "rating": 7.037,
-    "num_ratings": 27
-  },
-  {
-    "code": "6562",
-    "group": "8",
-    "professor": "JORGE ALBERTO UC MARTIN",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          4
-        ],
-        "classroom": "P215"
-      }
-    ]
-  },
-  {
-    "code": "6562",
-    "group": "14",
-    "professor": "FERNANDO RIVERA PEREZ",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          5
-        ],
-        "classroom": "P215"
-      }
-    ]
-  },
-  {
-    "code": "6562",
     "group": "1",
     "professor": "JULIA VAZQUEZ FUENTES",
     "schedules": [
@@ -124,6 +77,25 @@
   },
   {
     "code": "6562",
+    "group": "5",
+    "professor": "PATRICIA HONG CIRION",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          2
+        ],
+        "classroom": "P215"
+      }
+    ],
+    "professor_id": 83076,
+    "first_name": "Patricia",
+    "last_name": "Hong Cirion",
+    "rating": 7.037,
+    "num_ratings": 27
+  },
+  {
+    "code": "6562",
     "group": "6",
     "professor": "JUAN MANUEL VELASCO MIRANDA",
     "schedules": [
@@ -159,6 +131,20 @@
     "last_name": "SERRANO VILLEGAS",
     "rating": 9.0,
     "num_ratings": 19
+  },
+  {
+    "code": "6562",
+    "group": "8",
+    "professor": "JORGE ALBERTO UC MARTIN",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          4
+        ],
+        "classroom": "P215"
+      }
+    ]
   },
   {
     "code": "6562",
@@ -245,6 +231,34 @@
         "time": "17:00-19:00",
         "days": [
           5
+        ],
+        "classroom": "P215"
+      }
+    ]
+  },
+  {
+    "code": "6562",
+    "group": "14",
+    "professor": "FERNANDO RIVERA PEREZ",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          5
+        ],
+        "classroom": "P215"
+      }
+    ]
+  },
+  {
+    "code": "6562",
+    "group": "15",
+    "professor": "JORGE ALBERTO UC MARTIN",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          2
         ],
         "classroom": "P215"
       }

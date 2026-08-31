@@ -1,26 +1,6 @@
 [
   {
     "code": "1067",
-    "group": "4",
-    "professor": "FERNANDO ROSIQUE NARANJO",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "J001"
-      }
-    ],
-    "professor_id": 89992,
-    "first_name": "Fernando",
-    "last_name": "Rosique Naranjo",
-    "rating": 6.6667,
-    "num_ratings": 9
-  },
-  {
-    "code": "1067",
     "group": "1",
     "professor": "GILBERTO SILVA ROMO",
     "schedules": [
@@ -68,5 +48,25 @@
         "classroom": "C203"
       }
     ]
+  },
+  {
+    "code": "1067",
+    "group": "4",
+    "professor": "FERNANDO ROSIQUE NARANJO",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "J001"
+      }
+    ],
+    "professor_id": 89992,
+    "first_name": "Fernando",
+    "last_name": "Rosique Naranjo",
+    "rating": 6.6667,
+    "num_ratings": 9
   }
 ]

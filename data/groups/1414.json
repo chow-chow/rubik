@@ -1,93 +1,6 @@
 [
   {
     "code": "1414",
-    "group": "6",
-    "professor": "MAYVERENA JURADO PINEDA",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          1
-        ],
-        "classroom": "Y102"
-      },
-      {
-        "time": "11:00-13:00",
-        "days": [
-          3
-        ],
-        "classroom": "J208"
-      }
-    ],
-    "professor_id": 20657,
-    "first_name": "Mayverena",
-    "last_name": "Jurado Pineda",
-    "rating": 8.124,
-    "num_ratings": 129
-  },
-  {
-    "code": "1414",
-    "group": "7",
-    "professor": "GABRIEL ALEJANDRO JARAMILLO MORALES",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "J108"
-      }
-    ],
-    "professor_id": 32242,
-    "first_name": "Gabriel Alejandro",
-    "last_name": "Jaramillo Morales",
-    "rating": 7.8,
-    "num_ratings": 70
-  },
-  {
-    "code": "1414",
-    "group": "12",
-    "professor": "JORGE ENRIQUE URIBE JUAREZ",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          3
-        ],
-        "classroom": "J106"
-      },
-      {
-        "time": "15:00-17:00",
-        "days": [
-          1
-        ],
-        "classroom": "J108"
-      }
-    ]
-  },
-  {
-    "code": "1414",
-    "group": "14",
-    "professor": "ABRAHAM LAURENCIO MARTINEZ BAUTISTA",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "Y202"
-      }
-    ],
-    "professor_id": 55067,
-    "first_name": "Abraham Laurencio",
-    "last_name": "Martinez  Bautista",
-    "rating": 4.7292,
-    "num_ratings": 48
-  },
-  {
-    "code": "1414",
     "group": "1",
     "professor": "Grupo cancelado, contactar a la División.",
     "schedules": [
@@ -182,6 +95,52 @@
   },
   {
     "code": "1414",
+    "group": "6",
+    "professor": "MAYVERENA JURADO PINEDA",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1
+        ],
+        "classroom": "Y102"
+      },
+      {
+        "time": "11:00-13:00",
+        "days": [
+          3
+        ],
+        "classroom": "J208"
+      }
+    ],
+    "professor_id": 20657,
+    "first_name": "Mayverena",
+    "last_name": "Jurado Pineda",
+    "rating": 8.1385,
+    "num_ratings": 130
+  },
+  {
+    "code": "1414",
+    "group": "7",
+    "professor": "GABRIEL ALEJANDRO JARAMILLO MORALES",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "J108"
+      }
+    ],
+    "professor_id": 32242,
+    "first_name": "Gabriel Alejandro",
+    "last_name": "Jaramillo Morales",
+    "rating": 7.8,
+    "num_ratings": 70
+  },
+  {
+    "code": "1414",
     "group": "8",
     "professor": "MARTIN BARCENAS ESCOBAR",
     "schedules": [
@@ -197,8 +156,8 @@
     "professor_id": 23476,
     "first_name": "martin",
     "last_name": "barcenas escobar",
-    "rating": 6.2667,
-    "num_ratings": 30
+    "rating": 6.2258,
+    "num_ratings": 31
   },
   {
     "code": "1414",
@@ -237,8 +196,8 @@
     "professor_id": 74107,
     "first_name": "María Ofelia",
     "last_name": "Rodriguez Durán",
-    "rating": 7.4237,
-    "num_ratings": 59
+    "rating": 7.4,
+    "num_ratings": 60
   },
   {
     "code": "1414",
@@ -262,6 +221,27 @@
   },
   {
     "code": "1414",
+    "group": "12",
+    "professor": "JORGE ENRIQUE URIBE JUAREZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          3
+        ],
+        "classroom": "J106"
+      },
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1
+        ],
+        "classroom": "J108"
+      }
+    ]
+  },
+  {
+    "code": "1414",
     "group": "13",
     "professor": "SALVADOR ENRIQUE VILLALOBOS PEREZ",
     "schedules": [
@@ -279,6 +259,26 @@
     "last_name": "Villalobos Perez",
     "rating": 5.0417,
     "num_ratings": 24
+  },
+  {
+    "code": "1414",
+    "group": "14",
+    "professor": "ABRAHAM LAURENCIO MARTINEZ BAUTISTA",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "Y202"
+      }
+    ],
+    "professor_id": 55067,
+    "first_name": "Abraham Laurencio",
+    "last_name": "Martinez  Bautista",
+    "rating": 4.7292,
+    "num_ratings": 48
   },
   {
     "code": "1414",

@@ -20,139 +20,6 @@
   },
   {
     "code": "6414",
-    "group": "5",
-    "professor": "ROSALBA SOLIS SORIANO",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          1
-        ],
-        "classroom": "G005"
-      }
-    ],
-    "professor_id": 190136,
-    "first_name": "ROSALBA",
-    "last_name": "SOLIS SORIANO",
-    "rating": 5.25,
-    "num_ratings": 8
-  },
-  {
-    "code": "6414",
-    "group": "11",
-    "professor": "ROSALBA SOLIS SORIANO",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          2
-        ],
-        "classroom": "G005"
-      }
-    ],
-    "professor_id": 190136,
-    "first_name": "ROSALBA",
-    "last_name": "SOLIS SORIANO",
-    "rating": 5.25,
-    "num_ratings": 8
-  },
-  {
-    "code": "6414",
-    "group": "12",
-    "professor": "SANTIAGO GONZALEZ LOPEZ",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          2
-        ],
-        "classroom": "G005"
-      }
-    ],
-    "professor_id": 142029,
-    "first_name": "Santiago",
-    "last_name": "González López",
-    "rating": 6.5,
-    "num_ratings": 4
-  },
-  {
-    "code": "6414",
-    "group": "13",
-    "professor": "MAURICIO ADOLFO SOLIS MALDONADO",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          3
-        ],
-        "classroom": "G005"
-      }
-    ],
-    "professor_id": 87094,
-    "first_name": "Mauricio Adolfo",
-    "last_name": "Solis Maldonado",
-    "rating": 7.4333,
-    "num_ratings": 30
-  },
-  {
-    "code": "6414",
-    "group": "17",
-    "professor": "ADRIANA YOLOXOCHIL JIMENEZ RODRIGUEZ",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          3
-        ],
-        "classroom": "G005"
-      }
-    ],
-    "professor_id": 94468,
-    "first_name": "Adriana Yoloxochil",
-    "last_name": "Jiménez Rodríguez",
-    "rating": 6.4722,
-    "num_ratings": 36
-  },
-  {
-    "code": "6414",
-    "group": "18",
-    "professor": "ELIZABETH AGUIRRE MALDONADO",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          3
-        ],
-        "classroom": "G005"
-      }
-    ],
-    "professor_id": 60632,
-    "first_name": "Elizabeth",
-    "last_name": "Aguirre Maldonado",
-    "rating": 6.5094,
-    "num_ratings": 53
-  },
-  {
-    "code": "6414",
-    "group": "24",
-    "professor": "JULIA VAZQUEZ FUENTES",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          5
-        ],
-        "classroom": "G005"
-      }
-    ],
-    "professor_id": 58672,
-    "first_name": "Julia",
-    "last_name": "Vazquez Fuentes",
-    "rating": 4.2128,
-    "num_ratings": 47
-  },
-  {
-    "code": "6414",
     "group": "2",
     "professor": "ANTONIO PACHECO CONDE",
     "schedules": [
@@ -202,6 +69,25 @@
     "last_name": "Gaytán Pérez",
     "rating": 9.1887,
     "num_ratings": 53
+  },
+  {
+    "code": "6414",
+    "group": "5",
+    "professor": "ROSALBA SOLIS SORIANO",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1
+        ],
+        "classroom": "G005"
+      }
+    ],
+    "professor_id": 190136,
+    "first_name": "ROSALBA",
+    "last_name": "SOLIS SORIANO",
+    "rating": 5.2222,
+    "num_ratings": 9
   },
   {
     "code": "6414",
@@ -290,6 +176,63 @@
   },
   {
     "code": "6414",
+    "group": "11",
+    "professor": "ROSALBA SOLIS SORIANO",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2
+        ],
+        "classroom": "G005"
+      }
+    ],
+    "professor_id": 190136,
+    "first_name": "ROSALBA",
+    "last_name": "SOLIS SORIANO",
+    "rating": 5.2222,
+    "num_ratings": 9
+  },
+  {
+    "code": "6414",
+    "group": "12",
+    "professor": "SANTIAGO GONZALEZ LOPEZ",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2
+        ],
+        "classroom": "G005"
+      }
+    ],
+    "professor_id": 142029,
+    "first_name": "Santiago",
+    "last_name": "González López",
+    "rating": 6.5,
+    "num_ratings": 4
+  },
+  {
+    "code": "6414",
+    "group": "13",
+    "professor": "MAURICIO ADOLFO SOLIS MALDONADO",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          3
+        ],
+        "classroom": "G005"
+      }
+    ],
+    "professor_id": 87094,
+    "first_name": "Mauricio Adolfo",
+    "last_name": "Solis Maldonado",
+    "rating": 7.4333,
+    "num_ratings": 30
+  },
+  {
+    "code": "6414",
     "group": "14",
     "professor": "DANIEL PAREDES GARCIA",
     "schedules": [
@@ -342,6 +285,44 @@
   },
   {
     "code": "6414",
+    "group": "17",
+    "professor": "ADRIANA YOLOXOCHIL JIMENEZ RODRIGUEZ",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          3
+        ],
+        "classroom": "G005"
+      }
+    ],
+    "professor_id": 94468,
+    "first_name": "Adriana Yoloxochil",
+    "last_name": "Jiménez Rodríguez",
+    "rating": 6.4722,
+    "num_ratings": 36
+  },
+  {
+    "code": "6414",
+    "group": "18",
+    "professor": "ELIZABETH AGUIRRE MALDONADO",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          3
+        ],
+        "classroom": "G005"
+      }
+    ],
+    "professor_id": 60632,
+    "first_name": "Elizabeth",
+    "last_name": "Aguirre Maldonado",
+    "rating": 6.4259,
+    "num_ratings": 54
+  },
+  {
+    "code": "6414",
     "group": "19",
     "professor": "JULIA VAZQUEZ FUENTES",
     "schedules": [
@@ -375,8 +356,8 @@
     "professor_id": 74107,
     "first_name": "María Ofelia",
     "last_name": "Rodriguez Durán",
-    "rating": 7.4237,
-    "num_ratings": 59
+    "rating": 7.4,
+    "num_ratings": 60
   },
   {
     "code": "6414",
@@ -434,6 +415,25 @@
     "last_name": "GONZALEZ GARCIA",
     "rating": 9.8182,
     "num_ratings": 11
+  },
+  {
+    "code": "6414",
+    "group": "24",
+    "professor": "JULIA VAZQUEZ FUENTES",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          5
+        ],
+        "classroom": "G005"
+      }
+    ],
+    "professor_id": 58672,
+    "first_name": "Julia",
+    "last_name": "Vazquez Fuentes",
+    "rating": 4.2128,
+    "num_ratings": 47
   },
   {
     "code": "6414",
@@ -503,7 +503,7 @@
     "professor_id": 74107,
     "first_name": "María Ofelia",
     "last_name": "Rodriguez Durán",
-    "rating": 7.4237,
-    "num_ratings": 59
+    "rating": 7.4,
+    "num_ratings": 60
   }
 ]

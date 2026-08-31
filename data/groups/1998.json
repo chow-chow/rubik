@@ -1,26 +1,6 @@
 [
   {
     "code": "1998",
-    "group": "2",
-    "professor": "GONZALO SANDOVAL RODRIGUEZ",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "B102"
-      }
-    ],
-    "professor_id": 155707,
-    "first_name": "Gonzalo",
-    "last_name": "Sandoval Rodriguez",
-    "rating": 5.0,
-    "num_ratings": 14
-  },
-  {
-    "code": "1998",
     "group": "1",
     "professor": "ALEJANDRO BAEZ MUÑOZ",
     "schedules": [
@@ -38,6 +18,26 @@
     "last_name": "Baez Muñoz",
     "rating": 6.5,
     "num_ratings": 10
+  },
+  {
+    "code": "1998",
+    "group": "2",
+    "professor": "GONZALO SANDOVAL RODRIGUEZ",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "B102"
+      }
+    ],
+    "professor_id": 155707,
+    "first_name": "Gonzalo",
+    "last_name": "Sandoval Rodriguez",
+    "rating": 5.0,
+    "num_ratings": 14
   },
   {
     "code": "1998",
@@ -76,7 +76,7 @@
     "professor_id": 102987,
     "first_name": "Frederic",
     "last_name": "Trillaud",
-    "rating": 6.2353,
-    "num_ratings": 17
+    "rating": 6.1111,
+    "num_ratings": 18
   }
 ]

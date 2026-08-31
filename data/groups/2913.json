@@ -1,21 +1,6 @@
 [
   {
     "code": "2913",
-    "group": "5",
-    "professor": "IVETTE MADAI TOLEDO ROSAS",
-    "schedules": [
-      {
-        "time": "08:30-10:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "EXTR"
-      }
-    ]
-  },
-  {
-    "code": "2913",
     "group": "1",
     "professor": "GUILLERMO LUIS LAURO ESQUIVEL CASTAÑEDA",
     "schedules": [
@@ -83,5 +68,20 @@
     "last_name": "LEO VARGAS",
     "rating": 4.8333,
     "num_ratings": 6
+  },
+  {
+    "code": "2913",
+    "group": "5",
+    "professor": "IVETTE MADAI TOLEDO ROSAS",
+    "schedules": [
+      {
+        "time": "08:30-10:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "EXTR"
+      }
+    ]
   }
 ]

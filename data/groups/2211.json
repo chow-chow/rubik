@@ -1,6 +1,39 @@
 [
   {
     "code": "2211",
+    "group": "1",
+    "professor": "M. DEL CARMEN MALDONADO SUSANO",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          5
+        ],
+        "classroom": "I102"
+      },
+      {
+        "time": "09:00-11:00",
+        "days": [
+          3
+        ],
+        "classroom": "I101"
+      },
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1
+        ],
+        "classroom": "H001"
+      }
+    ],
+    "professor_id": 78275,
+    "first_name": "M del Carmen",
+    "last_name": "Maldonado Susano",
+    "rating": 9.4091,
+    "num_ratings": 44
+  },
+  {
+    "code": "2211",
     "group": "2",
     "professor": "ELIZABETH AGUIRRE MALDONADO",
     "schedules": [
@@ -23,40 +56,7 @@
     "professor_id": 60632,
     "first_name": "Elizabeth",
     "last_name": "Aguirre Maldonado",
-    "rating": 6.5094,
-    "num_ratings": 53
-  },
-  {
-    "code": "2211",
-    "group": "1",
-    "professor": "M. DEL CARMEN MALDONADO SUSANO",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          3
-        ],
-        "classroom": "I101"
-      },
-      {
-        "time": "09:00-11:00",
-        "days": [
-          5
-        ],
-        "classroom": "I304"
-      },
-      {
-        "time": "09:00-11:00",
-        "days": [
-          1
-        ],
-        "classroom": "H001"
-      }
-    ],
-    "professor_id": 78275,
-    "first_name": "M del Carmen",
-    "last_name": "Maldonado Susano",
-    "rating": 9.4091,
-    "num_ratings": 44
+    "rating": 6.4259,
+    "num_ratings": 54
   }
 ]

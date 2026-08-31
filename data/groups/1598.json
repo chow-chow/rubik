@@ -17,43 +17,6 @@
   },
   {
     "code": "1598",
-    "group": "6",
-    "professor": "ALEJANDRO VELAZQUEZ MENA",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          2,
-          3,
-          4
-        ],
-        "classroom": "Y002"
-      }
-    ],
-    "professor_id": 66382,
-    "first_name": "Alejandro",
-    "last_name": "Mena",
-    "rating": 7.7778,
-    "num_ratings": 9
-  },
-  {
-    "code": "1598",
-    "group": "7",
-    "professor": "PATRICIA NALLELY GOMEZ FLORES",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          2,
-          3,
-          4
-        ],
-        "classroom": "DS10"
-      }
-    ]
-  },
-  {
-    "code": "1598",
     "group": "2",
     "professor": "MARIA EUGENIA BAUTISTA GONZALEZ",
     "schedules": [
@@ -123,6 +86,43 @@
           4
         ],
         "classroom": "A306"
+      }
+    ]
+  },
+  {
+    "code": "1598",
+    "group": "6",
+    "professor": "ALEJANDRO VELAZQUEZ MENA",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2,
+          3,
+          4
+        ],
+        "classroom": "Y002"
+      }
+    ],
+    "professor_id": 66382,
+    "first_name": "Alejandro",
+    "last_name": "Mena",
+    "rating": 7.7778,
+    "num_ratings": 9
+  },
+  {
+    "code": "1598",
+    "group": "7",
+    "professor": "PATRICIA NALLELY GOMEZ FLORES",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2,
+          3,
+          4
+        ],
+        "classroom": "DS10"
       }
     ]
   },

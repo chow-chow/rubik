@@ -1,6 +1,21 @@
 [
   {
     "code": "1779",
+    "group": "1",
+    "professor": "MÉD ROCIO GARCIA DURAN",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "EXTR"
+      }
+    ]
+  },
+  {
+    "code": "1779",
     "group": "2",
     "professor": "JOSE BENJAMIN GUERRERO LOPEZ",
     "schedules": [
@@ -18,20 +33,5 @@
     "last_name": "Guerrero López",
     "rating": 5.0,
     "num_ratings": 2
-  },
-  {
-    "code": "1779",
-    "group": "1",
-    "professor": "MÉD ROCIO GARCIA DURAN",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "EXTR"
-      }
-    ]
   }
 ]

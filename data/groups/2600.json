@@ -1,41 +1,6 @@
 [
   {
     "code": "2600",
-    "group": "3",
-    "professor": "SIXTA HINNDI MENDOZA PEREZ",
-    "schedules": [
-      {
-        "time": "19:00-20:30",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "Y203"
-      }
-    ],
-    "professor_id": 141803,
-    "first_name": "Sixta Hinndi",
-    "last_name": "Mendoza Pérez",
-    "rating": 7.875,
-    "num_ratings": 8
-  },
-  {
-    "code": "2600",
-    "group": "5",
-    "professor": "CLAUDIA LUCIA HERNANDEZ MARTINEZ",
-    "schedules": [
-      {
-        "time": "19:00-20:30",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "A303"
-      }
-    ]
-  },
-  {
-    "code": "2600",
     "group": "1",
     "professor": "JOSE LUIS SALINAS ESTEVEZ",
     "schedules": [
@@ -71,6 +36,26 @@
   },
   {
     "code": "2600",
+    "group": "3",
+    "professor": "SIXTA HINNDI MENDOZA PEREZ",
+    "schedules": [
+      {
+        "time": "19:00-20:30",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "Y203"
+      }
+    ],
+    "professor_id": 141803,
+    "first_name": "Sixta Hinndi",
+    "last_name": "Mendoza Pérez",
+    "rating": 7.875,
+    "num_ratings": 8
+  },
+  {
+    "code": "2600",
     "group": "4",
     "professor": "ISAAC FELIPE LIMA CASTILLO",
     "schedules": [
@@ -88,5 +73,20 @@
     "last_name": "Lima Castillo",
     "rating": 8.0,
     "num_ratings": 2
+  },
+  {
+    "code": "2600",
+    "group": "5",
+    "professor": "CLAUDIA LUCIA HERNANDEZ MARTINEZ",
+    "schedules": [
+      {
+        "time": "19:00-20:30",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A303"
+      }
+    ]
   }
 ]

@@ -1,77 +1,6 @@
 [
   {
     "code": "6936",
-    "group": "4",
-    "professor": "FERNANDO VALLEJO QUINTERO",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          4
-        ],
-        "classroom": "DS06"
-      }
-    ],
-    "professor_id": 86743,
-    "first_name": "Fernando",
-    "last_name": "Vallejo Quintero",
-    "rating": 7.5455,
-    "num_ratings": 11
-  },
-  {
-    "code": "6936",
-    "group": "5",
-    "professor": "FERNANDO VALLEJO QUINTERO",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          2
-        ],
-        "classroom": "DS06"
-      }
-    ],
-    "professor_id": 86743,
-    "first_name": "Fernando",
-    "last_name": "Vallejo Quintero",
-    "rating": 7.5455,
-    "num_ratings": 11
-  },
-  {
-    "code": "6936",
-    "group": "7",
-    "professor": "HUMBERTO MARTINEZ GARCIA",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          5
-        ],
-        "classroom": "DS06"
-      }
-    ]
-  },
-  {
-    "code": "6936",
-    "group": "9",
-    "professor": "GERARDO LOREDO LOPEZ",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          3
-        ],
-        "classroom": "DS06"
-      }
-    ],
-    "professor_id": 172325,
-    "first_name": "Gerardo",
-    "last_name": "Loredo López",
-    "rating": 8.0,
-    "num_ratings": 5
-  },
-  {
-    "code": "6936",
     "group": "1",
     "professor": "MANUEL ANTONIO CORONA SANCHEZ",
     "schedules": [
@@ -129,11 +58,63 @@
   },
   {
     "code": "6936",
+    "group": "4",
+    "professor": "FERNANDO VALLEJO QUINTERO",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          4
+        ],
+        "classroom": "DS06"
+      }
+    ],
+    "professor_id": 86743,
+    "first_name": "Fernando",
+    "last_name": "Vallejo Quintero",
+    "rating": 7.5455,
+    "num_ratings": 11
+  },
+  {
+    "code": "6936",
+    "group": "5",
+    "professor": "FERNANDO VALLEJO QUINTERO",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2
+        ],
+        "classroom": "DS06"
+      }
+    ],
+    "professor_id": 86743,
+    "first_name": "Fernando",
+    "last_name": "Vallejo Quintero",
+    "rating": 7.5455,
+    "num_ratings": 11
+  },
+  {
+    "code": "6936",
     "group": "6",
     "professor": "HUMBERTO MARTINEZ GARCIA",
     "schedules": [
       {
         "time": "15:00-17:00",
+        "days": [
+          5
+        ],
+        "classroom": "DS06"
+      }
+    ]
+  },
+  {
+    "code": "6936",
+    "group": "7",
+    "professor": "HUMBERTO MARTINEZ GARCIA",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
         "days": [
           5
         ],
@@ -150,6 +131,25 @@
         "time": "19:00-21:00",
         "days": [
           1
+        ],
+        "classroom": "DS06"
+      }
+    ],
+    "professor_id": 172325,
+    "first_name": "Gerardo",
+    "last_name": "Loredo López",
+    "rating": 8.0,
+    "num_ratings": 5
+  },
+  {
+    "code": "6936",
+    "group": "9",
+    "professor": "GERARDO LOREDO LOPEZ",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          3
         ],
         "classroom": "DS06"
       }

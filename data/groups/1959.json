@@ -1,46 +1,6 @@
 [
   {
     "code": "1959",
-    "group": "4",
-    "professor": "CARMEN LUCIA BUSTILLO HERNANDEZ",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "B401"
-      }
-    ],
-    "professor_id": 190196,
-    "first_name": "CARMEN LUCIA",
-    "last_name": "BUSTILLO HERNANDEZ",
-    "rating": 4.69,
-    "num_ratings": 13
-  },
-  {
-    "code": "1959",
-    "group": "5",
-    "professor": "JOSE ABRAHAM BONILLA PASTOR",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "A302"
-      }
-    ],
-    "professor_id": 172879,
-    "first_name": "José Abraham",
-    "last_name": "Bonilla Pastor",
-    "rating": 7.4167,
-    "num_ratings": 12
-  },
-  {
-    "code": "1959",
     "group": "1",
     "professor": "JOSE ANTONIO AYALA BARBOSA",
     "schedules": [
@@ -92,5 +52,45 @@
     "last_name": "Saenz García",
     "rating": 5.9048,
     "num_ratings": 63
+  },
+  {
+    "code": "1959",
+    "group": "4",
+    "professor": "CARMEN LUCIA BUSTILLO HERNANDEZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "B401"
+      }
+    ],
+    "professor_id": 190196,
+    "first_name": "CARMEN LUCIA",
+    "last_name": "BUSTILLO HERNANDEZ",
+    "rating": 4.69,
+    "num_ratings": 13
+  },
+  {
+    "code": "1959",
+    "group": "5",
+    "professor": "JOSE ABRAHAM BONILLA PASTOR",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A302"
+      }
+    ],
+    "professor_id": 172879,
+    "first_name": "José Abraham",
+    "last_name": "Bonilla Pastor",
+    "rating": 7.4167,
+    "num_ratings": 12
   }
 ]

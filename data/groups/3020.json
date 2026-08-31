@@ -74,26 +74,6 @@
   },
   {
     "code": "3020",
-    "group": "7",
-    "professor": "ENRIQUE ISRAEL MARQUEZ ANGELES",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "D002"
-      }
-    ],
-    "professor_id": 181406,
-    "first_name": "ENRIQUE ISRAEL",
-    "last_name": "MARQUEZ ANGELES",
-    "rating": 8.0,
-    "num_ratings": 5
-  },
-  {
-    "code": "3020",
     "group": "5",
     "professor": "ANDREA PAOLA DORADO DIAZ",
     "schedules": [
@@ -131,5 +111,25 @@
     "last_name": "Chávez Briseño",
     "rating": 7.5455,
     "num_ratings": 22
+  },
+  {
+    "code": "3020",
+    "group": "7",
+    "professor": "ENRIQUE ISRAEL MARQUEZ ANGELES",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "D002"
+      }
+    ],
+    "professor_id": 181406,
+    "first_name": "ENRIQUE ISRAEL",
+    "last_name": "MARQUEZ ANGELES",
+    "rating": 8.0,
+    "num_ratings": 5
   }
 ]

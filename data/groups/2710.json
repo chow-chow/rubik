@@ -1,26 +1,6 @@
 [
   {
     "code": "2710",
-    "group": "2",
-    "professor": "GILBERTO FUENTES GARCIA",
-    "schedules": [
-      {
-        "time": "08:30-10:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "EXTR"
-      }
-    ],
-    "professor_id": 186536,
-    "first_name": "Gilberto",
-    "last_name": "Fuentes García",
-    "rating": 5.0,
-    "num_ratings": 2
-  },
-  {
-    "code": "2710",
     "group": "1",
     "professor": "FERNANDO MILLAN VAZQUEZ",
     "schedules": [
@@ -40,5 +20,25 @@
         "classroom": "EXTR"
       }
     ]
+  },
+  {
+    "code": "2710",
+    "group": "2",
+    "professor": "GILBERTO FUENTES GARCIA",
+    "schedules": [
+      {
+        "time": "08:30-10:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "EXTR"
+      }
+    ],
+    "professor_id": 186536,
+    "first_name": "Gilberto",
+    "last_name": "Fuentes García",
+    "rating": 5.0,
+    "num_ratings": 2
   }
 ]

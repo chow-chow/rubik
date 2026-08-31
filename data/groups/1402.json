@@ -1,42 +1,6 @@
 [
   {
     "code": "1402",
-    "group": "6",
-    "professor": "MIGUEL ANGEL VICENTE LOPEZ",
-    "schedules": [
-      {
-        "time": "17:30-19:00",
-        "days": [
-          1,
-          3,
-          5
-        ],
-        "classroom": "B402"
-      }
-    ],
-    "professor_id": 194060,
-    "first_name": "Miguel Angel",
-    "last_name": "Vicente Lopez",
-    "rating": 10.0,
-    "num_ratings": 2
-  },
-  {
-    "code": "1402",
-    "group": "8",
-    "professor": "GERARDO RUIZ SOLORIO",
-    "schedules": [
-      {
-        "time": "18:15-20:30",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "A209"
-      }
-    ]
-  },
-  {
-    "code": "1402",
     "group": "1",
     "professor": "AMALIA ADRIANA CAFAGGI FELIX",
     "schedules": [
@@ -132,6 +96,27 @@
   },
   {
     "code": "1402",
+    "group": "6",
+    "professor": "MIGUEL ANGEL VICENTE LOPEZ",
+    "schedules": [
+      {
+        "time": "17:30-19:00",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "B402"
+      }
+    ],
+    "professor_id": 194060,
+    "first_name": "Miguel Angel",
+    "last_name": "Vicente Lopez",
+    "rating": 10.0,
+    "num_ratings": 2
+  },
+  {
+    "code": "1402",
     "group": "7",
     "professor": "NIKTE NORMA OCAMPO GUERRERO",
     "schedules": [
@@ -149,5 +134,20 @@
     "last_name": "Ocampo Guerrero",
     "rating": 8.3231,
     "num_ratings": 65
+  },
+  {
+    "code": "1402",
+    "group": "8",
+    "professor": "GERARDO RUIZ SOLORIO",
+    "schedules": [
+      {
+        "time": "18:15-20:30",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A209"
+      }
+    ]
   }
 ]

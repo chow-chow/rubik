@@ -1,20 +1,6 @@
 [
   {
     "code": "1456",
-    "group": "2",
-    "professor": "ELIAS GRANADOS GONZALEZ",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          3
-        ],
-        "classroom": "C202"
-      }
-    ]
-  },
-  {
-    "code": "1456",
     "group": "1",
     "professor": "CARLOS AURELIO BERNAL ESPONDA",
     "schedules": [
@@ -31,5 +17,19 @@
     "last_name": "Bernal Esponda",
     "rating": 8.4615,
     "num_ratings": 26
+  },
+  {
+    "code": "1456",
+    "group": "2",
+    "professor": "ELIAS GRANADOS GONZALEZ",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          3
+        ],
+        "classroom": "C202"
+      }
+    ]
   }
 ]

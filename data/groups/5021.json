@@ -15,25 +15,6 @@
   },
   {
     "code": "5021",
-    "group": "5",
-    "professor": "JORGE AGUILAR JUAREZ",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          2
-        ],
-        "classroom": "DS07"
-      }
-    ],
-    "professor_id": 160523,
-    "first_name": "Jorge",
-    "last_name": "Aguilar Juárez",
-    "rating": 8.5,
-    "num_ratings": 4
-  },
-  {
-    "code": "5021",
     "group": "2",
     "professor": "SONIA LUISA ELENA LOPEZ MALDONADO",
     "schedules": [
@@ -88,6 +69,25 @@
     "last_name": "Sandoval Peña",
     "rating": 6.1,
     "num_ratings": 10
+  },
+  {
+    "code": "5021",
+    "group": "5",
+    "professor": "JORGE AGUILAR JUAREZ",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          2
+        ],
+        "classroom": "DS07"
+      }
+    ],
+    "professor_id": 160523,
+    "first_name": "Jorge",
+    "last_name": "Aguilar Juárez",
+    "rating": 8.5,
+    "num_ratings": 4
   },
   {
     "code": "5021",

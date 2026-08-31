@@ -2,75 +2,230 @@
   {
     "code": "8000",
     "group": "1",
-    "professor": "PAULINA LANDEROS ALVARADO",
+    "professor": "BRENDA PAOLA DUARTE RIVERA",
     "schedules": [
       {
-        "time": "11:00-13:00",
+        "time": "07:00-09:00",
         "days": [
-          1
+          4
         ],
-        "classroom": "A106"
+        "classroom": "J102"
       }
     ]
   },
   {
     "code": "8000",
     "group": "2",
-    "professor": "DIANA TAMARA MARTINEZ RUIZ",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          2
-        ],
-        "classroom": "A103"
-      }
-    ]
-  },
-  {
-    "code": "8000",
-    "group": "3",
-    "professor": "JESUS PEREZ ESQUIVEL",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          1
-        ],
-        "classroom": "Y102"
-      }
-    ],
-    "professor_id": 78031,
-    "first_name": "Jesús",
-    "last_name": "Pérez Esquivel",
-    "rating": 8.625,
-    "num_ratings": 72
-  },
-  {
-    "code": "8000",
-    "group": "4",
-    "professor": "BRENDA PAOLA DUARTE RIVERA",
+    "professor": "MARIANA HERNANDEZ LEON",
     "schedules": [
       {
         "time": "07:00-09:00",
         "days": [
           5
         ],
-        "classroom": "A106"
+        "classroom": "I106"
+      }
+    ]
+  },
+  {
+    "code": "8000",
+    "group": "3",
+    "professor": "MARIA DE LOS ANGELES BLAS MARTINEZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1
+        ],
+        "classroom": "I302"
+      }
+    ]
+  },
+  {
+    "code": "8000",
+    "group": "4",
+    "professor": "MARCO ANTONIO OSORIO OROZCO",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1
+        ],
+        "classroom": "I206"
       }
     ]
   },
   {
     "code": "8000",
     "group": "5",
+    "professor": "JENIFFER GABRIELA ESCOBAR MEDINA",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1
+        ],
+        "classroom": "I306"
+      }
+    ]
+  },
+  {
+    "code": "8000",
+    "group": "6",
+    "professor": "ANA GEORGINA GARCIA Y COLOME",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1
+        ],
+        "classroom": "I101"
+      }
+    ],
+    "professor_id": 58656,
+    "first_name": "Ana Georgina",
+    "last_name": "Garcia y Colome",
+    "rating": 9.1282,
+    "num_ratings": 39
+  },
+  {
+    "code": "8000",
+    "group": "7",
+    "professor": "LUCIA PAOLA GONZALEZ REYES",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          3
+        ],
+        "classroom": "Y102"
+      }
+    ]
+  },
+  {
+    "code": "8000",
+    "group": "8",
+    "professor": "ERIKA ROMO ROMO",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1
+        ],
+        "classroom": "I203"
+      }
+    ],
+    "professor_id": 191789,
+    "first_name": "Erika",
+    "last_name": "Romo Romo",
+    "rating": 8.5,
+    "num_ratings": 2
+  },
+  {
+    "code": "8000",
+    "group": "9",
+    "professor": "MARIA DE LOS ANGELES BLAS MARTINEZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1
+        ],
+        "classroom": "J107"
+      }
+    ]
+  },
+  {
+    "code": "8000",
+    "group": "10",
+    "professor": "ANA GEORGINA GARCIA Y COLOME",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          5
+        ],
+        "classroom": "I301"
+      }
+    ],
+    "professor_id": 58656,
+    "first_name": "Ana Georgina",
+    "last_name": "Garcia y Colome",
+    "rating": 9.1282,
+    "num_ratings": 39
+  },
+  {
+    "code": "8000",
+    "group": "11",
+    "professor": "MARCO ANTONIO OSORIO OROZCO",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          5
+        ],
+        "classroom": "J106"
+      }
+    ]
+  },
+  {
+    "code": "8000",
+    "group": "12",
+    "professor": "LUIS ADOLFO MATIAS HERNANDEZ",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2
+        ],
+        "classroom": "J107"
+      }
+    ],
+    "professor_id": 20638,
+    "first_name": "Luis",
+    "last_name": "Hernandez",
+    "rating": 7.75,
+    "num_ratings": 16
+  },
+  {
+    "code": "8000",
+    "group": "13",
+    "professor": "JUAN MIGUEL FLORES GOMEZ",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          4
+        ],
+        "classroom": "J105"
+      }
+    ]
+  },
+  {
+    "code": "8000",
+    "group": "14",
+    "professor": "BRENDA VIVIAN RICO RIOS",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          5
+        ],
+        "classroom": "J109"
+      }
+    ]
+  },
+  {
+    "code": "8000",
+    "group": "15",
     "professor": "ROMY ROMERO CALVA",
     "schedules": [
       {
         "time": "19:00-21:00",
         "days": [
-          4
+          1
         ],
-        "classroom": "A102"
+        "classroom": "J102"
       }
     ]
   }

@@ -1,68 +1,6 @@
 [
   {
     "code": "2917",
-    "group": "4",
-    "professor": "OCTAVIO ESTRADA CASTILLO",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          1
-        ],
-        "classroom": "EXTR"
-      }
-    ]
-  },
-  {
-    "code": "2917",
-    "group": "6",
-    "professor": "JENARO NOSEDAL SANCHEZ",
-    "schedules": [
-      {
-        "time": "20:00-22:00",
-        "days": [
-          4,
-          5
-        ],
-        "classroom": "EXTR"
-      }
-    ]
-  },
-  {
-    "code": "2917",
-    "group": "10",
-    "professor": "EDGAR URIBE GARCIA",
-    "schedules": [
-      {
-        "time": "17:00-21:00",
-        "days": [
-          4
-        ],
-        "classroom": "EXTR"
-      }
-    ]
-  },
-  {
-    "code": "2917",
-    "group": "14",
-    "professor": "HERIBERTO GARCIA LEDEZMA",
-    "schedules": [
-      {
-        "time": "14:00-18:00",
-        "days": [
-          1
-        ],
-        "classroom": "EXTR"
-      }
-    ],
-    "professor_id": 56349,
-    "first_name": "Heriberto",
-    "last_name": "García Ledezma",
-    "rating": 7.3,
-    "num_ratings": 44
-  },
-  {
-    "code": "2917",
     "group": "1",
     "professor": "VERONICA OLVERA RODRIGUEZ",
     "schedules": [
@@ -120,12 +58,41 @@
   },
   {
     "code": "2917",
+    "group": "4",
+    "professor": "OCTAVIO ESTRADA CASTILLO",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1
+        ],
+        "classroom": "EXTR"
+      }
+    ]
+  },
+  {
+    "code": "2917",
     "group": "5",
     "professor": "HILDA REYNA SOLIS VIVANCO",
     "schedules": [
       {
         "time": "11:00-15:00",
         "days": [
+          5
+        ],
+        "classroom": "EXTR"
+      }
+    ]
+  },
+  {
+    "code": "2917",
+    "group": "6",
+    "professor": "JENARO NOSEDAL SANCHEZ",
+    "schedules": [
+      {
+        "time": "20:00-22:00",
+        "days": [
+          4,
           5
         ],
         "classroom": "EXTR"
@@ -191,6 +158,20 @@
   },
   {
     "code": "2917",
+    "group": "10",
+    "professor": "EDGAR URIBE GARCIA",
+    "schedules": [
+      {
+        "time": "17:00-21:00",
+        "days": [
+          4
+        ],
+        "classroom": "EXTR"
+      }
+    ]
+  },
+  {
+    "code": "2917",
     "group": "11",
     "professor": "WULFRANO GOMEZ GALLARDO",
     "schedules": [
@@ -240,5 +221,24 @@
         "classroom": "EXTR"
       }
     ]
+  },
+  {
+    "code": "2917",
+    "group": "14",
+    "professor": "HERIBERTO GARCIA LEDEZMA",
+    "schedules": [
+      {
+        "time": "14:00-18:00",
+        "days": [
+          1
+        ],
+        "classroom": "EXTR"
+      }
+    ],
+    "professor_id": 56349,
+    "first_name": "Heriberto",
+    "last_name": "García Ledezma",
+    "rating": 7.3,
+    "num_ratings": 44
   }
 ]

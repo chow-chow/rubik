@@ -1,20 +1,6 @@
 [
   {
     "code": "1795",
-    "group": "5",
-    "professor": "NOE CRUZ MARIN",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          4
-        ],
-        "classroom": "A104"
-      }
-    ]
-  },
-  {
-    "code": "1795",
     "group": "1",
     "professor": "GABRIELA CAMACHO VILLASEÑOR",
     "schedules": [
@@ -88,5 +74,19 @@
     "last_name": "Cruz",
     "rating": 9.3415,
     "num_ratings": 41
+  },
+  {
+    "code": "1795",
+    "group": "5",
+    "professor": "NOE CRUZ MARIN",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          4
+        ],
+        "classroom": "A104"
+      }
+    ]
   }
 ]

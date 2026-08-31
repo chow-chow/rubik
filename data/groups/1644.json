@@ -17,6 +17,27 @@
   },
   {
     "code": "1644",
+    "group": "2",
+    "professor": "MARTHA LOPEZ PELCASTRE",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "A206"
+      }
+    ],
+    "professor_id": 114128,
+    "first_name": "ING. MARTHA",
+    "last_name": "LOPEZ PELCASTRE",
+    "rating": 8.0435,
+    "num_ratings": 46
+  },
+  {
+    "code": "1644",
     "group": "3",
     "professor": "LUCILA PATRICIA ARELLANO MENDOZA",
     "schedules": [
@@ -80,42 +101,6 @@
   },
   {
     "code": "1644",
-    "group": "7",
-    "professor": "FRANCISCO JAVIER ROJAS DURAN",
-    "schedules": [
-      {
-        "time": "07:00-10:00",
-        "days": [
-          5,
-          6
-        ],
-        "classroom": "A302"
-      }
-    ]
-  },
-  {
-    "code": "1644",
-    "group": "2",
-    "professor": "MARTHA LOPEZ PELCASTRE",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          1,
-          3,
-          5
-        ],
-        "classroom": "A206"
-      }
-    ],
-    "professor_id": 114128,
-    "first_name": "ING. MARTHA",
-    "last_name": "LOPEZ PELCASTRE",
-    "rating": 8.0435,
-    "num_ratings": 46
-  },
-  {
-    "code": "1644",
     "group": "6",
     "professor": "DAVID RICARDO RUIZ REYES",
     "schedules": [
@@ -134,5 +119,20 @@
     "last_name": "RUIZ REYES",
     "rating": 7.88,
     "num_ratings": 25
+  },
+  {
+    "code": "1644",
+    "group": "7",
+    "professor": "FRANCISCO JAVIER ROJAS DURAN",
+    "schedules": [
+      {
+        "time": "07:00-10:00",
+        "days": [
+          5,
+          6
+        ],
+        "classroom": "A302"
+      }
+    ]
   }
 ]

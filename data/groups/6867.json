@@ -20,6 +20,25 @@
   },
   {
     "code": "6867",
+    "group": "2",
+    "professor": "LUIS SERGIO DURAN ARENAS",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2
+        ],
+        "classroom": "Q209"
+      }
+    ],
+    "professor_id": 124016,
+    "first_name": "M.I. LUIS SERGIO",
+    "last_name": "DURAN ARENAS",
+    "rating": 8.33,
+    "num_ratings": 49
+  },
+  {
+    "code": "6867",
     "group": "3",
     "professor": "ROSA ELENA LOBERA SANCHEZ",
     "schedules": [
@@ -50,44 +69,6 @@
         "classroom": "Q221"
       }
     ]
-  },
-  {
-    "code": "6867",
-    "group": "10",
-    "professor": "YOVANNI ALVAREZ ULLOA",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          2
-        ],
-        "classroom": "P003"
-      }
-    ],
-    "professor_id": 162200,
-    "first_name": "YOVANNI",
-    "last_name": "ALVAREZ ULLOA",
-    "rating": 9.2857,
-    "num_ratings": 21
-  },
-  {
-    "code": "6867",
-    "group": "2",
-    "professor": "LUIS SERGIO DURAN ARENAS",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          2
-        ],
-        "classroom": "Q209"
-      }
-    ],
-    "professor_id": 124016,
-    "first_name": "M.I. LUIS SERGIO",
-    "last_name": "DURAN ARENAS",
-    "rating": 8.33,
-    "num_ratings": 49
   },
   {
     "code": "6867",
@@ -159,5 +140,24 @@
     "last_name": "ferat toscano",
     "rating": 7.6226,
     "num_ratings": 53
+  },
+  {
+    "code": "6867",
+    "group": "10",
+    "professor": "YOVANNI ALVAREZ ULLOA",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2
+        ],
+        "classroom": "P003"
+      }
+    ],
+    "professor_id": 162200,
+    "first_name": "YOVANNI",
+    "last_name": "ALVAREZ ULLOA",
+    "rating": 9.2857,
+    "num_ratings": 21
   }
 ]

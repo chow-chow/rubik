@@ -1,33 +1,6 @@
 [
   {
     "code": "1858",
-    "group": "2",
-    "professor": "JOSE MAURICIO MATAMOROS DE MARIA Y CAMPOS",
-    "schedules": [
-      {
-        "time": "13:00-14:30",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "A107"
-      },
-      {
-        "time": "13:00-15:00",
-        "days": [
-          2
-        ],
-        "classroom": "T101"
-      }
-    ],
-    "professor_id": 51942,
-    "first_name": "JOSÉ MAURICIO",
-    "last_name": "MATAMOROS DE MARIA Y CAMPOS",
-    "rating": 6.1967,
-    "num_ratings": 61
-  },
-  {
-    "code": "1858",
     "group": "1",
     "professor": "RUBEN ULISES SANDOVAL RODRIGUEZ",
     "schedules": [
@@ -52,6 +25,33 @@
     "last_name": "SANDOVAL RODRIGUEZ",
     "rating": 7.5,
     "num_ratings": 2
+  },
+  {
+    "code": "1858",
+    "group": "2",
+    "professor": "JOSE MAURICIO MATAMOROS DE MARIA Y CAMPOS",
+    "schedules": [
+      {
+        "time": "13:00-14:30",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "A107"
+      },
+      {
+        "time": "13:00-15:00",
+        "days": [
+          2
+        ],
+        "classroom": "T101"
+      }
+    ],
+    "professor_id": 51942,
+    "first_name": "JOSÉ MAURICIO",
+    "last_name": "MATAMOROS DE MARIA Y CAMPOS",
+    "rating": 6.1967,
+    "num_ratings": 61
   },
   {
     "code": "1858",

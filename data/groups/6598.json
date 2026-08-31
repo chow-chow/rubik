@@ -1,39 +1,6 @@
 [
   {
     "code": "6598",
-    "group": "4",
-    "professor": "FRANCISCO ADOLFO LOPEZ SUAREZ",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          3
-        ],
-        "classroom": "Q208"
-      }
-    ]
-  },
-  {
-    "code": "6598",
-    "group": "10",
-    "professor": "MARIA EUGENIA BAUTISTA GONZALEZ",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          5
-        ],
-        "classroom": "Q208"
-      }
-    ],
-    "professor_id": 173568,
-    "first_name": "María Eugenia",
-    "last_name": "Bautista González",
-    "rating": 9.6,
-    "num_ratings": 5
-  },
-  {
-    "code": "6598",
     "group": "1",
     "professor": "JOSE ANTONIO MACIAS GARCIA",
     "schedules": [
@@ -83,6 +50,20 @@
     "last_name": "Martinez Meza",
     "rating": 6.8333,
     "num_ratings": 6
+  },
+  {
+    "code": "6598",
+    "group": "4",
+    "professor": "FRANCISCO ADOLFO LOPEZ SUAREZ",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          3
+        ],
+        "classroom": "Q208"
+      }
+    ]
   },
   {
     "code": "6598",
@@ -168,6 +149,25 @@
         "classroom": "Q208"
       }
     ]
+  },
+  {
+    "code": "6598",
+    "group": "10",
+    "professor": "MARIA EUGENIA BAUTISTA GONZALEZ",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          5
+        ],
+        "classroom": "Q208"
+      }
+    ],
+    "professor_id": 173568,
+    "first_name": "María Eugenia",
+    "last_name": "Bautista González",
+    "rating": 9.6,
+    "num_ratings": 5
   },
   {
     "code": "6598",

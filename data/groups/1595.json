@@ -31,21 +31,6 @@
   },
   {
     "code": "1595",
-    "group": "6",
-    "professor": "Grupo cancelado, contactar a la División.",
-    "schedules": [
-      {
-        "time": "16:00-17:30",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "B402"
-      }
-    ]
-  },
-  {
-    "code": "1595",
     "group": "3",
     "professor": "ENRIQUE CESAR VALDEZ",
     "schedules": [
@@ -96,6 +81,21 @@
           4
         ],
         "classroom": "A208"
+      }
+    ]
+  },
+  {
+    "code": "1595",
+    "group": "6",
+    "professor": "Grupo cancelado, contactar a la División.",
+    "schedules": [
+      {
+        "time": "16:00-17:30",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "B402"
       }
     ]
   },

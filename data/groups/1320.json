@@ -1,26 +1,6 @@
 [
   {
     "code": "1320",
-    "group": "2",
-    "professor": "MIGUEL ALEJANDRO MALDONADO GORDILLO",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "A306"
-      }
-    ],
-    "professor_id": 113918,
-    "first_name": "Miguel",
-    "last_name": "Maldonado",
-    "rating": 9.0,
-    "num_ratings": 4
-  },
-  {
-    "code": "1320",
     "group": "1",
     "professor": "MARIA MARGARITA ZAYIL SALAZAR CAMPOS",
     "schedules": [
@@ -38,6 +18,26 @@
     "last_name": "Salazar Campos",
     "rating": 7.9697,
     "num_ratings": 33
+  },
+  {
+    "code": "1320",
+    "group": "2",
+    "professor": "MIGUEL ALEJANDRO MALDONADO GORDILLO",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A306"
+      }
+    ],
+    "professor_id": 113918,
+    "first_name": "Miguel",
+    "last_name": "Maldonado",
+    "rating": 9.0,
+    "num_ratings": 4
   },
   {
     "code": "1320",

@@ -2,7 +2,7 @@
   {
     "code": "1581",
     "group": "1",
-    "professor": "ERNESTO MENDEZ HERNANDEZ",
+    "professor": "Grupo cancelado, contactar a la División.",
     "schedules": [
       {
         "time": "19:00-20:30",
@@ -14,26 +14,6 @@
         "classroom": "R004"
       }
     ]
-  },
-  {
-    "code": "1581",
-    "group": "3",
-    "professor": "MARIO GUEVARA SALAZAR",
-    "schedules": [
-      {
-        "time": "18:15-20:30",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "R004"
-      }
-    ],
-    "professor_id": 44322,
-    "first_name": "mario",
-    "last_name": "guevara",
-    "rating": 3.9231,
-    "num_ratings": 13
   },
   {
     "code": "1581",
@@ -54,5 +34,25 @@
     "last_name": "Hernández",
     "rating": 9.5,
     "num_ratings": 2
+  },
+  {
+    "code": "1581",
+    "group": "3",
+    "professor": "MARIO GUEVARA SALAZAR",
+    "schedules": [
+      {
+        "time": "18:15-20:30",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "R004"
+      }
+    ],
+    "professor_id": 44322,
+    "first_name": "mario",
+    "last_name": "guevara",
+    "rating": 3.9231,
+    "num_ratings": 13
   }
 ]

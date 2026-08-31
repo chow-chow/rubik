@@ -1,44 +1,6 @@
 [
   {
     "code": "6617",
-    "group": "4",
-    "professor": "MARIA DEL SOCORRO GUEVARA RODRIGUEZ",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          2
-        ],
-        "classroom": "Q101"
-      }
-    ],
-    "professor_id": 78454,
-    "first_name": "Maria del Socorro",
-    "last_name": "Guevara Rodriguez",
-    "rating": 5.9189,
-    "num_ratings": 37
-  },
-  {
-    "code": "6617",
-    "group": "11",
-    "professor": "JAIME HECTOR MURILLO QUINTERO",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          5
-        ],
-        "classroom": "Q101"
-      }
-    ],
-    "professor_id": 94156,
-    "first_name": "Jaime Hector",
-    "last_name": "Murillo Quintero",
-    "rating": 4.7273,
-    "num_ratings": 22
-  },
-  {
-    "code": "6617",
     "group": "1",
     "professor": "ADOLFO ROJAS JUAREZ",
     "schedules": [
@@ -83,6 +45,25 @@
         "classroom": "Q101"
       }
     ]
+  },
+  {
+    "code": "6617",
+    "group": "4",
+    "professor": "MARIA DEL SOCORRO GUEVARA RODRIGUEZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2
+        ],
+        "classroom": "Q101"
+      }
+    ],
+    "professor_id": 78454,
+    "first_name": "Maria del Socorro",
+    "last_name": "Guevara Rodriguez",
+    "rating": 5.8421,
+    "num_ratings": 38
   },
   {
     "code": "6617",
@@ -192,6 +173,25 @@
     "last_name": "Abrego Blancas",
     "rating": 9.7273,
     "num_ratings": 11
+  },
+  {
+    "code": "6617",
+    "group": "11",
+    "professor": "JAIME HECTOR MURILLO QUINTERO",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          5
+        ],
+        "classroom": "Q101"
+      }
+    ],
+    "professor_id": 94156,
+    "first_name": "Jaime Hector",
+    "last_name": "Murillo Quintero",
+    "rating": 4.7273,
+    "num_ratings": 22
   },
   {
     "code": "6617",

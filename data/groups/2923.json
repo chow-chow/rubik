@@ -23,6 +23,33 @@
   },
   {
     "code": "2923",
+    "group": "2",
+    "professor": "JOSE LUIS RODRIGUEZ PICAZO",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "EXTR"
+      },
+      {
+        "time": "19:00-21:00",
+        "days": [
+          5
+        ],
+        "classroom": "EXTR"
+      }
+    ],
+    "professor_id": 67066,
+    "first_name": "José Luis",
+    "last_name": "Rodríguez Picazo",
+    "rating": 7.8276,
+    "num_ratings": 29
+  },
+  {
+    "code": "2923",
     "group": "3",
     "professor": "PABLO ANTONIO GOMEZ VALDEZ",
     "schedules": [
@@ -63,32 +90,5 @@
         "classroom": "O005"
       }
     ]
-  },
-  {
-    "code": "2923",
-    "group": "2",
-    "professor": "JOSE LUIS RODRIGUEZ PICAZO",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "EXTR"
-      },
-      {
-        "time": "19:00-21:00",
-        "days": [
-          5
-        ],
-        "classroom": "EXTR"
-      }
-    ],
-    "professor_id": 67066,
-    "first_name": "José Luis",
-    "last_name": "Rodríguez Picazo",
-    "rating": 7.8276,
-    "num_ratings": 29
   }
 ]

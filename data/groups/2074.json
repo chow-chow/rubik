@@ -1,6 +1,21 @@
 [
   {
     "code": "2074",
+    "group": "1",
+    "professor": "LEONARDO FLORES SAUCEDA",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "EXTR"
+      }
+    ]
+  },
+  {
+    "code": "2074",
     "group": "2",
     "professor": "OSCAR GARCIA ARANDA",
     "schedules": [
@@ -24,20 +39,5 @@
     "last_name": "García Aranda",
     "rating": 6.5,
     "num_ratings": 2
-  },
-  {
-    "code": "2074",
-    "group": "1",
-    "professor": "LEONARDO FLORES SAUCEDA",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "EXTR"
-      }
-    ]
   }
 ]

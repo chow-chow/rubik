@@ -31,6 +31,26 @@
   },
   {
     "code": "2920",
+    "group": "3",
+    "professor": "VICTOR HUGO TORRES AGUILAR",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "A109"
+      }
+    ],
+    "professor_id": 141771,
+    "first_name": "Victor Hugo",
+    "last_name": "Torres Aguilar",
+    "rating": 6.6667,
+    "num_ratings": 15
+  },
+  {
+    "code": "2920",
     "group": "4",
     "professor": "RICARDO FERAT DURAN",
     "schedules": [
@@ -82,25 +102,5 @@
     "last_name": "Vidal Castro",
     "rating": 7.5,
     "num_ratings": 12
-  },
-  {
-    "code": "2920",
-    "group": "3",
-    "professor": "VICTOR HUGO TORRES AGUILAR",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "A109"
-      }
-    ],
-    "professor_id": 141771,
-    "first_name": "Victor Hugo",
-    "last_name": "Torres Aguilar",
-    "rating": 6.6667,
-    "num_ratings": 15
   }
 ]

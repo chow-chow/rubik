@@ -1,77 +1,6 @@
 [
   {
     "code": "6473",
-    "group": "9",
-    "professor": "MICHAEL JOSSUE ROJAS GARCIA",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          2
-        ],
-        "classroom": "P114"
-      }
-    ],
-    "professor_id": 124068,
-    "first_name": "M.I. MICHAEL JOSSUE",
-    "last_name": "ROJAS GARCIA",
-    "rating": 9.2917,
-    "num_ratings": 24
-  },
-  {
-    "code": "6473",
-    "group": "12",
-    "professor": "MIREYA OSORIO PALACIOS",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          3
-        ],
-        "classroom": "P114"
-      }
-    ]
-  },
-  {
-    "code": "6473",
-    "group": "14",
-    "professor": "JESUS YAÑEZ GUTIERREZ",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          4
-        ],
-        "classroom": "P114"
-      }
-    ],
-    "professor_id": 156041,
-    "first_name": "Jesús",
-    "last_name": "Yañez Gutiérrez",
-    "rating": 9.3333,
-    "num_ratings": 3
-  },
-  {
-    "code": "6473",
-    "group": "16",
-    "professor": "JESUS YAÑEZ GUTIERREZ",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          4
-        ],
-        "classroom": "P114"
-      }
-    ],
-    "professor_id": 156041,
-    "first_name": "Jesús",
-    "last_name": "Yañez Gutiérrez",
-    "rating": 9.3333,
-    "num_ratings": 3
-  },
-  {
-    "code": "6473",
     "group": "1",
     "professor": "JESUS YAÑEZ GUTIERREZ",
     "schedules": [
@@ -214,6 +143,25 @@
   },
   {
     "code": "6473",
+    "group": "9",
+    "professor": "MICHAEL JOSSUE ROJAS GARCIA",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2
+        ],
+        "classroom": "P114"
+      }
+    ],
+    "professor_id": 124068,
+    "first_name": "M.I. MICHAEL JOSSUE",
+    "last_name": "ROJAS GARCIA",
+    "rating": 9.2917,
+    "num_ratings": 24
+  },
+  {
+    "code": "6473",
     "group": "10",
     "professor": "JESUS YAÑEZ GUTIERREZ",
     "schedules": [
@@ -252,6 +200,20 @@
   },
   {
     "code": "6473",
+    "group": "12",
+    "professor": "MIREYA OSORIO PALACIOS",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          3
+        ],
+        "classroom": "P114"
+      }
+    ]
+  },
+  {
+    "code": "6473",
     "group": "13",
     "professor": "LAURO FERNANDO VAZQUEZ ALBERTO",
     "schedules": [
@@ -271,6 +233,25 @@
   },
   {
     "code": "6473",
+    "group": "14",
+    "professor": "JESUS YAÑEZ GUTIERREZ",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          4
+        ],
+        "classroom": "P114"
+      }
+    ],
+    "professor_id": 156041,
+    "first_name": "Jesús",
+    "last_name": "Yañez Gutiérrez",
+    "rating": 9.3333,
+    "num_ratings": 3
+  },
+  {
+    "code": "6473",
     "group": "15",
     "professor": "JOSE ALBERTO ARELLANO FIGUEROA",
     "schedules": [
@@ -287,6 +268,25 @@
     "last_name": "Arellano Figueroa",
     "rating": 7.7778,
     "num_ratings": 18
+  },
+  {
+    "code": "6473",
+    "group": "16",
+    "professor": "JESUS YAÑEZ GUTIERREZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          4
+        ],
+        "classroom": "P114"
+      }
+    ],
+    "professor_id": 156041,
+    "first_name": "Jesús",
+    "last_name": "Yañez Gutiérrez",
+    "rating": 9.3333,
+    "num_ratings": 3
   },
   {
     "code": "6473",

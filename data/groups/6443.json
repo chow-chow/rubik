@@ -1,91 +1,6 @@
 [
   {
     "code": "6443",
-    "group": "6",
-    "professor": "ALBERTO RAMIRO GARIBAY MARTINEZ",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          2
-        ],
-        "classroom": "P109"
-      }
-    ],
-    "professor_id": 109182,
-    "first_name": "Alberto Ramiro",
-    "last_name": "Garibay Martínez",
-    "rating": 2.5,
-    "num_ratings": 2
-  },
-  {
-    "code": "6443",
-    "group": "9",
-    "professor": "LAURO FERNANDO VAZQUEZ ALBERTO",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          3
-        ],
-        "classroom": "P109"
-      }
-    ],
-    "professor_id": 124067,
-    "first_name": "M.I. LAURO FERNANDO",
-    "last_name": "VAZQUEZ ALBERTO",
-    "rating": 8.9091,
-    "num_ratings": 11
-  },
-  {
-    "code": "6443",
-    "group": "10",
-    "professor": "MARIA LEONOR SALCEDO UBILLA",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          4
-        ],
-        "classroom": "P109"
-      }
-    ],
-    "professor_id": 161143,
-    "first_name": "Maria Leonor",
-    "last_name": "Salcedo Ubilla",
-    "rating": 8.2,
-    "num_ratings": 5
-  },
-  {
-    "code": "6443",
-    "group": "12",
-    "professor": "MIREYA OSORIO PALACIOS",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          4
-        ],
-        "classroom": "P109"
-      }
-    ]
-  },
-  {
-    "code": "6443",
-    "group": "16",
-    "professor": "VALENTINA FABIENNE RUIZ VILLALBA",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          5
-        ],
-        "classroom": "P109"
-      }
-    ]
-  },
-  {
-    "code": "6443",
     "group": "1",
     "professor": "MARIA LEONOR SALCEDO UBILLA",
     "schedules": [
@@ -176,6 +91,25 @@
   },
   {
     "code": "6443",
+    "group": "6",
+    "professor": "ALBERTO RAMIRO GARIBAY MARTINEZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2
+        ],
+        "classroom": "P109"
+      }
+    ],
+    "professor_id": 109182,
+    "first_name": "Alberto Ramiro",
+    "last_name": "Garibay Martínez",
+    "rating": 2.5,
+    "num_ratings": 2
+  },
+  {
+    "code": "6443",
     "group": "7",
     "professor": "ISRAEL RIVERA CONTRERAS",
     "schedules": [
@@ -209,6 +143,44 @@
   },
   {
     "code": "6443",
+    "group": "9",
+    "professor": "LAURO FERNANDO VAZQUEZ ALBERTO",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          3
+        ],
+        "classroom": "P109"
+      }
+    ],
+    "professor_id": 124067,
+    "first_name": "M.I. LAURO FERNANDO",
+    "last_name": "VAZQUEZ ALBERTO",
+    "rating": 8.9091,
+    "num_ratings": 11
+  },
+  {
+    "code": "6443",
+    "group": "10",
+    "professor": "MARIA LEONOR SALCEDO UBILLA",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          4
+        ],
+        "classroom": "P109"
+      }
+    ],
+    "professor_id": 161143,
+    "first_name": "Maria Leonor",
+    "last_name": "Salcedo Ubilla",
+    "rating": 8.2,
+    "num_ratings": 5
+  },
+  {
+    "code": "6443",
     "group": "11",
     "professor": "LAURO FERNANDO VAZQUEZ ALBERTO",
     "schedules": [
@@ -225,6 +197,20 @@
     "last_name": "VAZQUEZ ALBERTO",
     "rating": 8.9091,
     "num_ratings": 11
+  },
+  {
+    "code": "6443",
+    "group": "12",
+    "professor": "MIREYA OSORIO PALACIOS",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          4
+        ],
+        "classroom": "P109"
+      }
+    ]
   },
   {
     "code": "6443",
@@ -282,5 +268,19 @@
     "last_name": "ROJAS GARCIA",
     "rating": 9.2917,
     "num_ratings": 24
+  },
+  {
+    "code": "6443",
+    "group": "16",
+    "professor": "VALENTINA FABIENNE RUIZ VILLALBA",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          5
+        ],
+        "classroom": "P109"
+      }
+    ]
   }
 ]

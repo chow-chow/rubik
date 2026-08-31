@@ -1,8 +1,8 @@
 [
   {
     "code": "1110",
-    "group": "5",
-    "professor": "MARIO GUEVARA SALAZAR",
+    "group": "1",
+    "professor": "SERGIO FEDERICO GAYTAN SANCHEZ",
     "schedules": [
       {
         "time": "12:00-17:00",
@@ -12,10 +12,76 @@
         "classroom": "R029"
       }
     ],
-    "professor_id": 44322,
-    "first_name": "mario",
-    "last_name": "guevara",
-    "rating": 3.9231,
-    "num_ratings": 13
+    "professor_id": 102021,
+    "first_name": "Sergio",
+    "last_name": "Gaytán",
+    "rating": 9.25,
+    "num_ratings": 8
+  },
+  {
+    "code": "1110",
+    "group": "2",
+    "professor": "MARIO FRANCISCO LEON OLGUIN",
+    "schedules": [
+      {
+        "time": "12:00-17:00",
+        "days": [
+          3
+        ],
+        "classroom": "R029"
+      }
+    ],
+    "professor_id": 167905,
+    "first_name": "Mario Francisco",
+    "last_name": "León Olguín",
+    "rating": 9.5,
+    "num_ratings": 2
+  },
+  {
+    "code": "1110",
+    "group": "3",
+    "professor": "ALEJANDRA GUZMAN CORTES",
+    "schedules": [
+      {
+        "time": "12:00-17:00",
+        "days": [
+          5
+        ],
+        "classroom": "R029"
+      }
+    ]
+  },
+  {
+    "code": "1110",
+    "group": "4",
+    "professor": "MARIO FRANCISCO LEON OLGUIN",
+    "schedules": [
+      {
+        "time": "12:00-17:00",
+        "days": [
+          5
+        ],
+        "classroom": "R029"
+      }
+    ],
+    "professor_id": 167905,
+    "first_name": "Mario Francisco",
+    "last_name": "León Olguín",
+    "rating": 9.5,
+    "num_ratings": 2
+  },
+  {
+    "code": "1110",
+    "group": "5",
+    "professor": "Grupo cancelado, contactar a la División.",
+    "schedules": [
+      {
+        "time": "12:00-17:00",
+        "days": [
+          3
+        ],
+        "classroom": "R029"
+      }
+    ]
   }
 ]

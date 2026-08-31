@@ -58,6 +58,25 @@
   },
   {
     "code": "6644",
+    "group": "5",
+    "professor": "CZESLAW KRISTOFER LUGOWSKI RIVERO",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          4
+        ],
+        "classroom": "T101"
+      }
+    ],
+    "professor_id": 105202,
+    "first_name": "Czeslaw Kristofer",
+    "last_name": "Lugowski Rivero",
+    "rating": 8.7143,
+    "num_ratings": 21
+  },
+  {
+    "code": "6644",
     "group": "6",
     "professor": "JORGE ALBERTO RODRIGUEZ CAMPOS",
     "schedules": [
@@ -150,24 +169,5 @@
     "last_name": "López García",
     "rating": 8.4722,
     "num_ratings": 72
-  },
-  {
-    "code": "6644",
-    "group": "5",
-    "professor": "CZESLAW KRISTOFER LUGOWSKI RIVERO",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          4
-        ],
-        "classroom": "T101"
-      }
-    ],
-    "professor_id": 105202,
-    "first_name": "Czeslaw Kristofer",
-    "last_name": "Lugowski Rivero",
-    "rating": 8.7143,
-    "num_ratings": 21
   }
 ]

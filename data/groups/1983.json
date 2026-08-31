@@ -1,21 +1,6 @@
 [
   {
     "code": "1983",
-    "group": "2",
-    "professor": "CARLOS FERNANDO TAPIA GARCIA",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "SIN"
-      }
-    ]
-  },
-  {
-    "code": "1983",
     "group": "1",
     "professor": "JAVIER REYNA ALONSO",
     "schedules": [
@@ -32,5 +17,20 @@
     "last_name": "Reyna Alonso",
     "rating": 6.6444,
     "num_ratings": 45
+  },
+  {
+    "code": "1983",
+    "group": "2",
+    "professor": "CARLOS FERNANDO TAPIA GARCIA",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "SIN"
+      }
+    ]
   }
 ]

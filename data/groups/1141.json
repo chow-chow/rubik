@@ -16,6 +16,27 @@
   },
   {
     "code": "1141",
+    "group": "2",
+    "professor": "ERNESTO DOS SANTOS CAETANO NETO",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1
+        ],
+        "classroom": "C103"
+      },
+      {
+        "time": "09:00-11:00",
+        "days": [
+          3
+        ],
+        "classroom": "SIN"
+      }
+    ]
+  },
+  {
+    "code": "1141",
     "group": "3",
     "professor": "DANIEL ARMANDO PEREZ CALDERON",
     "schedules": [
@@ -46,27 +67,6 @@
           4
         ],
         "classroom": "A401"
-      }
-    ]
-  },
-  {
-    "code": "1141",
-    "group": "2",
-    "professor": "ERNESTO DOS SANTOS CAETANO NETO",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          1
-        ],
-        "classroom": "C103"
-      },
-      {
-        "time": "09:00-11:00",
-        "days": [
-          3
-        ],
-        "classroom": "SIN"
       }
     ]
   }

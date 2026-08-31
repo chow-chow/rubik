@@ -1,44 +1,6 @@
 [
   {
     "code": "6822",
-    "group": "2",
-    "professor": "DOMINGO TEODORO MENDOZA ROSALES",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          1
-        ],
-        "classroom": "Q109"
-      }
-    ],
-    "professor_id": 71346,
-    "first_name": "Domingo Teodoro",
-    "last_name": "Mendoza Rosales",
-    "rating": 6.9565,
-    "num_ratings": 69
-  },
-  {
-    "code": "6822",
-    "group": "5",
-    "professor": "DOMINGO TEODORO MENDOZA ROSALES",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          3
-        ],
-        "classroom": "Q109"
-      }
-    ],
-    "professor_id": 71346,
-    "first_name": "Domingo Teodoro",
-    "last_name": "Mendoza Rosales",
-    "rating": 6.9565,
-    "num_ratings": 69
-  },
-  {
-    "code": "6822",
     "group": "1",
     "professor": "JESUS MARIA FRANCISCO HERNANDEZ MORALES",
     "schedules": [
@@ -55,6 +17,25 @@
     "last_name": "HERNANDEZ MORALES",
     "rating": 6.1,
     "num_ratings": 20
+  },
+  {
+    "code": "6822",
+    "group": "2",
+    "professor": "DOMINGO TEODORO MENDOZA ROSALES",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1
+        ],
+        "classroom": "Q109"
+      }
+    ],
+    "professor_id": 71346,
+    "first_name": "Domingo Teodoro",
+    "last_name": "Mendoza Rosales",
+    "rating": 6.9565,
+    "num_ratings": 69
   },
   {
     "code": "6822",
@@ -93,6 +74,25 @@
     "last_name": "Soriano Ávila",
     "rating": 8.3333,
     "num_ratings": 3
+  },
+  {
+    "code": "6822",
+    "group": "5",
+    "professor": "DOMINGO TEODORO MENDOZA ROSALES",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          3
+        ],
+        "classroom": "Q109"
+      }
+    ],
+    "professor_id": 71346,
+    "first_name": "Domingo Teodoro",
+    "last_name": "Mendoza Rosales",
+    "rating": 6.9565,
+    "num_ratings": 69
   },
   {
     "code": "6822",

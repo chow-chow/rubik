@@ -1,21 +1,6 @@
 [
   {
     "code": "1871",
-    "group": "2",
-    "professor": "NAYELLI SOTO HERNANDEZ",
-    "schedules": [
-      {
-        "time": "14:00-17:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "C304"
-      }
-    ]
-  },
-  {
-    "code": "1871",
     "group": "1",
     "professor": "NORMA ERIKA PAREDES LOPEZ",
     "schedules": [
@@ -26,6 +11,21 @@
           4
         ],
         "classroom": "C302"
+      }
+    ]
+  },
+  {
+    "code": "1871",
+    "group": "2",
+    "professor": "NAYELLI SOTO HERNANDEZ",
+    "schedules": [
+      {
+        "time": "14:00-17:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "C304"
       }
     ]
   }

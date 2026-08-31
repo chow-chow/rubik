@@ -1,29 +1,6 @@
 [
   {
     "code": "2980",
-    "group": "2",
-    "professor": "GIBRAN JALIL GARNICA CASTROVer Nota 1",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          1,
-          3,
-          4
-        ],
-        "classroom": "Y201"
-      },
-      {
-        "time": "15:00-17:00",
-        "days": [
-          2
-        ],
-        "classroom": "Y201"
-      }
-    ]
-  },
-  {
-    "code": "2980",
     "group": "1",
     "professor": "GENARO CARREON CARRERAVer Nota 1",
     "schedules": [
@@ -32,6 +9,29 @@
         "days": [
           1,
           2,
+          3,
+          4
+        ],
+        "classroom": "Y201"
+      }
+    ]
+  },
+  {
+    "code": "2980",
+    "group": "2",
+    "professor": "GIBRAN JALIL GARNICA CASTROVer Nota 1",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2
+        ],
+        "classroom": "Y201"
+      },
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1,
           3,
           4
         ],

@@ -1,110 +1,6 @@
 [
   {
     "code": "1209",
-    "group": "7",
-    "professor": "MARTIN REYES FARIAS",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          2
-        ],
-        "classroom": "O004"
-      },
-      {
-        "time": "17:00-19:00",
-        "days": [
-          4
-        ],
-        "classroom": "O004"
-      }
-    ],
-    "professor_id": 51610,
-    "first_name": "Martin Ing.",
-    "last_name": "Reyes Farias",
-    "rating": 5.6944,
-    "num_ratings": 36
-  },
-  {
-    "code": "1209",
-    "group": "14",
-    "professor": "EDUARDO ANGUIANO ANAYA",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          1
-        ],
-        "classroom": "EXTR"
-      },
-      {
-        "time": "19:00-21:00",
-        "days": [
-          3
-        ],
-        "classroom": "EXTR"
-      }
-    ],
-    "professor_id": 115628,
-    "first_name": "Eduardo",
-    "last_name": "Anguiano Anaya",
-    "rating": 7.2667,
-    "num_ratings": 15
-  },
-  {
-    "code": "1209",
-    "group": "17",
-    "professor": "EDUARDO ANGUIANO ANAYA",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          2
-        ],
-        "classroom": "O004"
-      },
-      {
-        "time": "19:00-21:00",
-        "days": [
-          4
-        ],
-        "classroom": "O004"
-      }
-    ],
-    "professor_id": 115628,
-    "first_name": "Eduardo",
-    "last_name": "Anguiano Anaya",
-    "rating": 7.2667,
-    "num_ratings": 15
-  },
-  {
-    "code": "1209",
-    "group": "22",
-    "professor": "MARTIN REYES FARIAS",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          1
-        ],
-        "classroom": "O003"
-      },
-      {
-        "time": "17:00-19:00",
-        "days": [
-          3
-        ],
-        "classroom": "O003"
-      }
-    ],
-    "professor_id": 51610,
-    "first_name": "Martin Ing.",
-    "last_name": "Reyes Farias",
-    "rating": 5.6944,
-    "num_ratings": 36
-  },
-  {
-    "code": "1209",
     "group": "1",
     "professor": "JORGE ALBERTO NAJERA CASTREJON",
     "schedules": [
@@ -232,6 +128,32 @@
     "last_name": "Cisneros Hernandez",
     "rating": 4.6923,
     "num_ratings": 39
+  },
+  {
+    "code": "1209",
+    "group": "7",
+    "professor": "MARTIN REYES FARIAS",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2
+        ],
+        "classroom": "O004"
+      },
+      {
+        "time": "17:00-19:00",
+        "days": [
+          4
+        ],
+        "classroom": "O004"
+      }
+    ],
+    "professor_id": 51610,
+    "first_name": "Martin Ing.",
+    "last_name": "Reyes Farias",
+    "rating": 5.6944,
+    "num_ratings": 36
   },
   {
     "code": "1209",
@@ -365,6 +287,32 @@
   },
   {
     "code": "1209",
+    "group": "14",
+    "professor": "EDUARDO ANGUIANO ANAYA",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          1
+        ],
+        "classroom": "EXTR"
+      },
+      {
+        "time": "19:00-21:00",
+        "days": [
+          3
+        ],
+        "classroom": "EXTR"
+      }
+    ],
+    "professor_id": 115628,
+    "first_name": "Eduardo",
+    "last_name": "Anguiano Anaya",
+    "rating": 7.2667,
+    "num_ratings": 15
+  },
+  {
+    "code": "1209",
     "group": "15",
     "professor": "ROBERTO PEÑA BANDALA",
     "schedules": [
@@ -414,6 +362,32 @@
     "last_name": "Sánchez Guzmán",
     "rating": 8.2903,
     "num_ratings": 31
+  },
+  {
+    "code": "1209",
+    "group": "17",
+    "professor": "EDUARDO ANGUIANO ANAYA",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          2
+        ],
+        "classroom": "O004"
+      },
+      {
+        "time": "19:00-21:00",
+        "days": [
+          4
+        ],
+        "classroom": "O004"
+      }
+    ],
+    "professor_id": 115628,
+    "first_name": "Eduardo",
+    "last_name": "Anguiano Anaya",
+    "rating": 7.2667,
+    "num_ratings": 15
   },
   {
     "code": "1209",
@@ -518,5 +492,31 @@
     "last_name": "Lira Velazquez",
     "rating": 7.38,
     "num_ratings": 16
+  },
+  {
+    "code": "1209",
+    "group": "22",
+    "professor": "MARTIN REYES FARIAS",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1
+        ],
+        "classroom": "O003"
+      },
+      {
+        "time": "17:00-19:00",
+        "days": [
+          3
+        ],
+        "classroom": "O003"
+      }
+    ],
+    "professor_id": 51610,
+    "first_name": "Martin Ing.",
+    "last_name": "Reyes Farias",
+    "rating": 5.6944,
+    "num_ratings": 36
   }
 ]

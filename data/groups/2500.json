@@ -7,16 +7,16 @@
       {
         "time": "07:00-09:00",
         "days": [
-          1
+          5
         ],
-        "classroom": "Y004"
+        "classroom": "Y003"
       },
       {
         "time": "07:00-09:00",
         "days": [
-          5
+          1
         ],
-        "classroom": "Y003"
+        "classroom": "Y004"
       }
     ],
     "professor_id": 79845,
@@ -24,42 +24,6 @@
     "last_name": "Figueroa Alcántara",
     "rating": 7.75,
     "num_ratings": 20
-  },
-  {
-    "code": "2500",
-    "group": "7",
-    "professor": "JULIO CESAR GONZALEZ SANCHEZ",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          3
-        ],
-        "classroom": "D002"
-      },
-      {
-        "time": "13:00-15:00",
-        "days": [
-          5
-        ],
-        "classroom": "D001"
-      }
-    ]
-  },
-  {
-    "code": "2500",
-    "group": "9",
-    "professor": "PROFESOR POR ASIGNAR",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "O103"
-      }
-    ]
   },
   {
     "code": "2500",
@@ -163,6 +127,27 @@
   },
   {
     "code": "2500",
+    "group": "7",
+    "professor": "JULIO CESAR GONZALEZ SANCHEZ",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          3
+        ],
+        "classroom": "D002"
+      },
+      {
+        "time": "13:00-15:00",
+        "days": [
+          5
+        ],
+        "classroom": "D001"
+      }
+    ]
+  },
+  {
+    "code": "2500",
     "group": "8",
     "professor": "TATIANA LILIA AVALOS RENDON",
     "schedules": [
@@ -178,7 +163,22 @@
     "professor_id": 112892,
     "first_name": "Tatiana Lilia",
     "last_name": "Ávalos Rendón",
-    "rating": 7.2857,
-    "num_ratings": 21
+    "rating": 7.4091,
+    "num_ratings": 22
+  },
+  {
+    "code": "2500",
+    "group": "9",
+    "professor": "PROFESOR POR ASIGNAR",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "O103"
+      }
+    ]
   }
 ]

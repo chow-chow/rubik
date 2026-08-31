@@ -1,6 +1,32 @@
 [
   {
     "code": "1127",
+    "group": "1",
+    "professor": "JESSICA ROJAS SERRANO",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          4
+        ],
+        "classroom": "J102"
+      },
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2
+        ],
+        "classroom": "Q008"
+      }
+    ],
+    "professor_id": 187681,
+    "first_name": "ING. JESSICA",
+    "last_name": "ROJAS SERRANO",
+    "rating": 9.3846,
+    "num_ratings": 13
+  },
+  {
+    "code": "1127",
     "group": "31",
     "professor": "MARIA GUADALUPE MORALES NAVA",
     "schedules": [

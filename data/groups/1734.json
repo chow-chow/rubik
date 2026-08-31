@@ -1,61 +1,6 @@
 [
   {
     "code": "1734",
-    "group": "5",
-    "professor": "GUMERSINDO ALEJANDRO OYARZABAL CAMACHO",
-    "schedules": [
-      {
-        "time": "18:00-20:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "D003"
-      }
-    ],
-    "professor_id": 101230,
-    "first_name": "GUMERSINDO ALEJANDRO",
-    "last_name": "OYARZABAL CAMACHO",
-    "rating": 7.5,
-    "num_ratings": 8
-  },
-  {
-    "code": "1734",
-    "group": "6",
-    "professor": "FRANCISCO BUSTOS CAMARGO",
-    "schedules": [
-      {
-        "time": "20:00-22:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "B302"
-      }
-    ]
-  },
-  {
-    "code": "1734",
-    "group": "8",
-    "professor": "ALEJANDRO CASTILLO MONTALVO",
-    "schedules": [
-      {
-        "time": "20:00-22:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "B105"
-      }
-    ],
-    "professor_id": 60629,
-    "first_name": "Alejandro",
-    "last_name": "Castillo Montalvo",
-    "rating": 4.3333,
-    "num_ratings": 12
-  },
-  {
-    "code": "1734",
     "group": "2",
     "professor": "HECTOR SANCHEZ SANCHEZ",
     "schedules": [
@@ -111,8 +56,43 @@
     "professor_id": 172962,
     "first_name": "Jessica",
     "last_name": "Cruz Sanchez",
-    "rating": 7.0952,
-    "num_ratings": 21
+    "rating": 7.0909,
+    "num_ratings": 22
+  },
+  {
+    "code": "1734",
+    "group": "5",
+    "professor": "GUMERSINDO ALEJANDRO OYARZABAL CAMACHO",
+    "schedules": [
+      {
+        "time": "18:00-20:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "D003"
+      }
+    ],
+    "professor_id": 101230,
+    "first_name": "GUMERSINDO ALEJANDRO",
+    "last_name": "OYARZABAL CAMACHO",
+    "rating": 7.5,
+    "num_ratings": 8
+  },
+  {
+    "code": "1734",
+    "group": "6",
+    "professor": "FRANCISCO BUSTOS CAMARGO",
+    "schedules": [
+      {
+        "time": "20:00-22:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "B302"
+      }
+    ]
   },
   {
     "code": "1734",
@@ -133,6 +113,26 @@
     "last_name": "Ordiales Yurrita",
     "rating": 9.1364,
     "num_ratings": 22
+  },
+  {
+    "code": "1734",
+    "group": "8",
+    "professor": "ALEJANDRO CASTILLO MONTALVO",
+    "schedules": [
+      {
+        "time": "20:00-22:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "B105"
+      }
+    ],
+    "professor_id": 60629,
+    "first_name": "Alejandro",
+    "last_name": "Castillo Montalvo",
+    "rating": 4.3333,
+    "num_ratings": 12
   },
   {
     "code": "1734",

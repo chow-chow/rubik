@@ -1,6 +1,76 @@
 [
   {
     "code": "1114",
+    "group": "1",
+    "professor": "FERNANDO JAIME ENRIQUEZ",
+    "schedules": [
+      {
+        "time": "12:45-15:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A203"
+      }
+    ]
+  },
+  {
+    "code": "1114",
+    "group": "2",
+    "professor": "FERNANDO JAIME ENRIQUEZ",
+    "schedules": [
+      {
+        "time": "12:45-15:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A203"
+      }
+    ]
+  },
+  {
+    "code": "1114",
+    "group": "3",
+    "professor": "SERGIO FEDERICO GAYTAN SANCHEZ",
+    "schedules": [
+      {
+        "time": "14:45-17:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A106"
+      }
+    ],
+    "professor_id": 102021,
+    "first_name": "Sergio",
+    "last_name": "Gaytán",
+    "rating": 9.25,
+    "num_ratings": 8
+  },
+  {
+    "code": "1114",
+    "group": "4",
+    "professor": "SERGIO FEDERICO GAYTAN SANCHEZ",
+    "schedules": [
+      {
+        "time": "14:45-17:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A106"
+      }
+    ],
+    "professor_id": 102021,
+    "first_name": "Sergio",
+    "last_name": "Gaytán",
+    "rating": 9.25,
+    "num_ratings": 8
+  },
+  {
+    "code": "1114",
     "group": "5",
     "professor": "MARIO GUEVARA SALAZAR",
     "schedules": [

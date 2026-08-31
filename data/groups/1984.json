@@ -1,21 +1,6 @@
 [
   {
     "code": "1984",
-    "group": "3",
-    "professor": "MOISES VELASCO LOZANO",
-    "schedules": [
-      {
-        "time": "09:00-11:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "C204"
-      }
-    ]
-  },
-  {
-    "code": "1984",
     "group": "1",
     "professor": "ISRAEL CASTRO HERRERA",
     "schedules": [
@@ -46,6 +31,21 @@
           3
         ],
         "classroom": "D007"
+      }
+    ]
+  },
+  {
+    "code": "1984",
+    "group": "3",
+    "professor": "MOISES VELASCO LOZANO",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "C204"
       }
     ]
   }

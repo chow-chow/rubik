@@ -1,21 +1,6 @@
 [
   {
     "code": "2713",
-    "group": "4",
-    "professor": "LUIS MANUEL CERVANTES MARCELINO",
-    "schedules": [
-      {
-        "time": "11:00-12:30",
-        "days": [
-          3,
-          5
-        ],
-        "classroom": "B409"
-      }
-    ]
-  },
-  {
-    "code": "2713",
     "group": "1",
     "professor": "OLIVER MARCEL HUERTA CHAVEZVer Nota 1",
     "schedules": [
@@ -62,6 +47,21 @@
           2
         ],
         "classroom": "I306"
+      }
+    ]
+  },
+  {
+    "code": "2713",
+    "group": "4",
+    "professor": "LUIS MANUEL CERVANTES MARCELINO",
+    "schedules": [
+      {
+        "time": "11:00-12:30",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "B409"
       }
     ]
   }

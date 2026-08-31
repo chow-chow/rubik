@@ -1,11 +1,11 @@
 [
   {
     "code": "1329",
-    "group": "2",
+    "group": "1",
     "professor": "IVAN MANUEL CUADROS MENDOZA",
     "schedules": [
       {
-        "time": "12:00-14:00",
+        "time": "08:00-10:00",
         "days": [
           2,
           4
@@ -21,11 +21,11 @@
   },
   {
     "code": "1329",
-    "group": "1",
+    "group": "2",
     "professor": "IVAN MANUEL CUADROS MENDOZA",
     "schedules": [
       {
-        "time": "08:00-10:00",
+        "time": "12:00-14:00",
         "days": [
           2,
           4

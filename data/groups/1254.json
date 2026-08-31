@@ -1,6 +1,26 @@
 [
   {
     "code": "1254",
+    "group": "1",
+    "professor": "DAVID ISRAEL POSADAS NAVARRO",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "Y201"
+      }
+    ],
+    "professor_id": 96627,
+    "first_name": "David Israel",
+    "last_name": "Posadas Navarro",
+    "rating": 9.5625,
+    "num_ratings": 16
+  },
+  {
+    "code": "1254",
     "group": "2",
     "professor": "OLIVER MARCEL HUERTA CHAVEZVer Nota 1",
     "schedules": [
@@ -27,25 +47,5 @@
         "classroom": "Y201"
       }
     ]
-  },
-  {
-    "code": "1254",
-    "group": "1",
-    "professor": "DAVID ISRAEL POSADAS NAVARRO",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "Y201"
-      }
-    ],
-    "professor_id": 96627,
-    "first_name": "David Israel",
-    "last_name": "Posadas Navarro",
-    "rating": 9.5625,
-    "num_ratings": 16
   }
 ]

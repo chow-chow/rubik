@@ -1,62 +1,22 @@
 [
   {
     "code": "1333",
-    "group": "4",
-    "professor": "ABRAHAM LAURENCIO MARTINEZ BAUTISTA",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "I303"
-      }
-    ],
-    "professor_id": 55067,
-    "first_name": "Abraham Laurencio",
-    "last_name": "Martinez  Bautista",
-    "rating": 4.7292,
-    "num_ratings": 48
-  },
-  {
-    "code": "1333",
-    "group": "7",
-    "professor": "AGUSTIN HERNANDEZ QUINTERO",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "J208"
-      }
-    ],
-    "professor_id": 54985,
-    "first_name": "Agustin",
-    "last_name": "Hernandez Quintero",
-    "rating": 5.8824,
-    "num_ratings": 34
-  },
-  {
-    "code": "1333",
     "group": "1",
     "professor": "ALICIA MARIA ESPONDA CASCAJARES",
     "schedules": [
       {
         "time": "07:00-09:00",
         "days": [
-          1
+          5
         ],
-        "classroom": "J211"
+        "classroom": "J210"
       },
       {
         "time": "07:00-09:00",
         "days": [
-          5
+          1
         ],
-        "classroom": "J210"
+        "classroom": "J211"
       }
     ],
     "professor_id": 30167,
@@ -102,8 +62,28 @@
     "professor_id": 23476,
     "first_name": "martin",
     "last_name": "barcenas escobar",
-    "rating": 6.2667,
-    "num_ratings": 30
+    "rating": 6.2258,
+    "num_ratings": 31
+  },
+  {
+    "code": "1333",
+    "group": "4",
+    "professor": "ABRAHAM LAURENCIO MARTINEZ BAUTISTA",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "I303"
+      }
+    ],
+    "professor_id": 55067,
+    "first_name": "Abraham Laurencio",
+    "last_name": "Martinez  Bautista",
+    "rating": 4.7292,
+    "num_ratings": 48
   },
   {
     "code": "1333",
@@ -144,5 +124,25 @@
     "last_name": "Isunza Hernández",
     "rating": 4.6429,
     "num_ratings": 14
+  },
+  {
+    "code": "1333",
+    "group": "7",
+    "professor": "AGUSTIN HERNANDEZ QUINTERO",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "J208"
+      }
+    ],
+    "professor_id": 54985,
+    "first_name": "Agustin",
+    "last_name": "Hernandez Quintero",
+    "rating": 5.8824,
+    "num_ratings": 34
   }
 ]

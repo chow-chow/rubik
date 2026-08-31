@@ -82,60 +82,6 @@
   },
   {
     "code": "1229",
-    "group": "6",
-    "professor": "IVONNE ALVARADO BEATRIZ",
-    "schedules": [
-      {
-        "time": "13:00-14:30",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "A308"
-      },
-      {
-        "time": "12:00-15:00",
-        "days": [
-          2
-        ],
-        "classroom": "R029"
-      }
-    ],
-    "professor_id": 84757,
-    "first_name": "beatriz ivonne",
-    "last_name": "alvarado",
-    "rating": 8.125,
-    "num_ratings": 8
-  },
-  {
-    "code": "1229",
-    "group": "7",
-    "professor": "ANGEL AVILA MENDOZA",
-    "schedules": [
-      {
-        "time": "16:00-17:30",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "A308"
-      },
-      {
-        "time": "16:00-19:00",
-        "days": [
-          2
-        ],
-        "classroom": "R029"
-      }
-    ],
-    "professor_id": 38449,
-    "first_name": "Angel",
-    "last_name": "Avila Mendoza",
-    "rating": 7.1724,
-    "num_ratings": 29
-  },
-  {
-    "code": "1229",
     "group": "4",
     "professor": "ROBERTO ASCENCIO VILLAGOMEZ",
     "schedules": [
@@ -187,6 +133,60 @@
     "last_name": "Moreno Hurtado",
     "rating": 8.7,
     "num_ratings": 10
+  },
+  {
+    "code": "1229",
+    "group": "6",
+    "professor": "IVONNE ALVARADO BEATRIZ",
+    "schedules": [
+      {
+        "time": "13:00-14:30",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "A308"
+      },
+      {
+        "time": "12:00-15:00",
+        "days": [
+          2
+        ],
+        "classroom": "R029"
+      }
+    ],
+    "professor_id": 84757,
+    "first_name": "beatriz ivonne",
+    "last_name": "alvarado",
+    "rating": 8.125,
+    "num_ratings": 8
+  },
+  {
+    "code": "1229",
+    "group": "7",
+    "professor": "ANGEL AVILA MENDOZA",
+    "schedules": [
+      {
+        "time": "16:00-17:30",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "A308"
+      },
+      {
+        "time": "16:00-19:00",
+        "days": [
+          2
+        ],
+        "classroom": "R029"
+      }
+    ],
+    "professor_id": 38449,
+    "first_name": "Angel",
+    "last_name": "Avila Mendoza",
+    "rating": 7.1724,
+    "num_ratings": 29
   },
   {
     "code": "1229",

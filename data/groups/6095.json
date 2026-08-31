@@ -1,13 +1,13 @@
 [
   {
     "code": "6095",
-    "group": "2",
+    "group": "1",
     "professor": "GLORIA CORREA PALACIOS",
     "schedules": [
       {
         "time": "07:00-09:00",
         "days": [
-          5
+          4
         ],
         "classroom": "P001"
       }
@@ -20,13 +20,13 @@
   },
   {
     "code": "6095",
-    "group": "1",
+    "group": "2",
     "professor": "GLORIA CORREA PALACIOS",
     "schedules": [
       {
         "time": "07:00-09:00",
         "days": [
-          4
+          5
         ],
         "classroom": "P001"
       }

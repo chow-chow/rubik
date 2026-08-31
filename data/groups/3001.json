@@ -16,7 +16,79 @@
     "professor_id": 75591,
     "first_name": "VICTOR",
     "last_name": "RANGEL LICEA",
-    "rating": 5.3333,
-    "num_ratings": 3
+    "rating": 6.5,
+    "num_ratings": 4
+  },
+  {
+    "code": "3001",
+    "group": "2",
+    "professor": "PAUL ROLANDO MAYA ORTIZ",
+    "schedules": [
+      {
+        "time": "10:00-11:30",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "SIN"
+      }
+    ],
+    "professor_id": 162092,
+    "first_name": "PAUL ROLANDO",
+    "last_name": "MAYA ORTIZ",
+    "rating": 7.5,
+    "num_ratings": 6
+  },
+  {
+    "code": "3001",
+    "group": "3",
+    "professor": "HOOVER MUJICA ORTEGA",
+    "schedules": [
+      {
+        "time": "09:00-12:00",
+        "days": [
+          5
+        ],
+        "classroom": "P113"
+      }
+    ],
+    "professor_id": 99860,
+    "first_name": "Hoover",
+    "last_name": "Mujica Ortega",
+    "rating": 6.9412,
+    "num_ratings": 17
+  },
+  {
+    "code": "3001",
+    "group": "4",
+    "professor": "MATIAS IGLESIAS RIOS",
+    "schedules": [
+      {
+        "time": "11:00-14:00",
+        "days": [
+          5
+        ],
+        "classroom": "SIN"
+      }
+    ]
+  },
+  {
+    "code": "3001",
+    "group": "5",
+    "professor": "ROBERTO GIOVANNI RAMIREZ CHAVARRIA",
+    "schedules": [
+      {
+        "time": "09:00-12:00",
+        "days": [
+          5
+        ],
+        "classroom": "P113"
+      }
+    ],
+    "professor_id": 74384,
+    "first_name": "Roberto Giovanni",
+    "last_name": "Ramirez Chavarria",
+    "rating": 9.7368,
+    "num_ratings": 19
   }
 ]

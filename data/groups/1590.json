@@ -1,45 +1,6 @@
 [
   {
     "code": "1590",
-    "group": "3",
-    "professor": "LUIS SERGIO VALENCIA CASTRO",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "A206"
-      }
-    ],
-    "professor_id": 79254,
-    "first_name": "Luis Sergio",
-    "last_name": "Valencia Castro",
-    "rating": 5.9167,
-    "num_ratings": 48
-  },
-  {
-    "code": "1590",
-    "group": "7",
-    "professor": "JOSE ROQUE ROMAN GUADARRAMA",
-    "schedules": [
-      {
-        "time": "11:00-15:00",
-        "days": [
-          5
-        ],
-        "classroom": "A201"
-      }
-    ],
-    "professor_id": 95712,
-    "first_name": "José Roque",
-    "last_name": "Román Guadarrama",
-    "rating": 7.4103,
-    "num_ratings": 39
-  },
-  {
-    "code": "1590",
     "group": "1",
     "professor": "ARTURO PEREZ DE LA CRUZ",
     "schedules": [
@@ -77,6 +38,26 @@
     "last_name": "Teodoro Vite",
     "rating": 8.2903,
     "num_ratings": 31
+  },
+  {
+    "code": "1590",
+    "group": "3",
+    "professor": "LUIS SERGIO VALENCIA CASTRO",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "A206"
+      }
+    ],
+    "professor_id": 79254,
+    "first_name": "Luis Sergio",
+    "last_name": "Valencia Castro",
+    "rating": 5.9167,
+    "num_ratings": 48
   },
   {
     "code": "1590",
@@ -137,5 +118,24 @@
     "last_name": "Roman Balbuena",
     "rating": 6.1923,
     "num_ratings": 52
+  },
+  {
+    "code": "1590",
+    "group": "7",
+    "professor": "JOSE ROQUE ROMAN GUADARRAMA",
+    "schedules": [
+      {
+        "time": "11:00-15:00",
+        "days": [
+          5
+        ],
+        "classroom": "A201"
+      }
+    ],
+    "professor_id": 95712,
+    "first_name": "José Roque",
+    "last_name": "Román Guadarrama",
+    "rating": 7.4103,
+    "num_ratings": 39
   }
 ]

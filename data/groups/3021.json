@@ -1,26 +1,6 @@
 [
   {
     "code": "3021",
-    "group": "3",
-    "professor": "ELIZABETH MORENO MAVRIDIS",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          1,
-          3
-        ],
-        "classroom": "A109"
-      }
-    ],
-    "professor_id": 78532,
-    "first_name": "Elizabeth",
-    "last_name": "Moreno Mavridis",
-    "rating": 6.44,
-    "num_ratings": 50
-  },
-  {
-    "code": "3021",
     "group": "1",
     "professor": "JUAN MANUEL AVALOS OCHOA",
     "schedules": [
@@ -58,6 +38,26 @@
     "last_name": "Torres Aguilar",
     "rating": 6.6667,
     "num_ratings": 15
+  },
+  {
+    "code": "3021",
+    "group": "3",
+    "professor": "ELIZABETH MORENO MAVRIDIS",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "A109"
+      }
+    ],
+    "professor_id": 78532,
+    "first_name": "Elizabeth",
+    "last_name": "Moreno Mavridis",
+    "rating": 6.44,
+    "num_ratings": 50
   },
   {
     "code": "3021",

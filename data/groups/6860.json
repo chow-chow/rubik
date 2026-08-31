@@ -15,156 +15,6 @@
   },
   {
     "code": "6860",
-    "group": "4",
-    "professor": "DANIEL ESQUIVEL VELAZQUEZ",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          1
-        ],
-        "classroom": "N005"
-      }
-    ]
-  },
-  {
-    "code": "6860",
-    "group": "5",
-    "professor": "ALEJANDRO CORTES ESLAVA",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          1
-        ],
-        "classroom": "N005"
-      }
-    ]
-  },
-  {
-    "code": "6860",
-    "group": "8",
-    "professor": "ARNOLD FRANCISCO BASTIDAS MELO",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          1
-        ],
-        "classroom": "N005"
-      }
-    ]
-  },
-  {
-    "code": "6860",
-    "group": "9",
-    "professor": "OSCAR GARCIA ARANDA",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          2
-        ],
-        "classroom": "N005"
-      }
-    ],
-    "professor_id": 159597,
-    "first_name": "Óscar",
-    "last_name": "García Aranda",
-    "rating": 6.5,
-    "num_ratings": 2
-  },
-  {
-    "code": "6860",
-    "group": "13",
-    "professor": "MIGUEL ANGEL PEREZ HERNANDEZ",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          2
-        ],
-        "classroom": "N005"
-      }
-    ]
-  },
-  {
-    "code": "6860",
-    "group": "16",
-    "professor": "OCTAVIO PASTOR REYES GARCIA",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          3
-        ],
-        "classroom": "N005"
-      }
-    ],
-    "professor_id": 98730,
-    "first_name": "Octavio Pastor",
-    "last_name": "Reyes García",
-    "rating": 7.95,
-    "num_ratings": 20
-  },
-  {
-    "code": "6860",
-    "group": "17",
-    "professor": "ANA PATRICIA ELIZONDO LAZCANO",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          4
-        ],
-        "classroom": "N005"
-      }
-    ]
-  },
-  {
-    "code": "6860",
-    "group": "21",
-    "professor": "ALEJANDRO CORTES ESLAVA",
-    "schedules": [
-      {
-        "time": "13:00-15:00",
-        "days": [
-          4
-        ],
-        "classroom": "N005"
-      }
-    ]
-  },
-  {
-    "code": "6860",
-    "group": "22",
-    "professor": "ANA PATRICIA ELIZONDO LAZCANO",
-    "schedules": [
-      {
-        "time": "15:00-17:00",
-        "days": [
-          4
-        ],
-        "classroom": "N005"
-      }
-    ]
-  },
-  {
-    "code": "6860",
-    "group": "29",
-    "professor": "MIGUEL ANGEL PEREZ HERNANDEZ",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          5
-        ],
-        "classroom": "N005"
-      }
-    ]
-  },
-  {
-    "code": "6860",
     "group": "2",
     "professor": "OCTAVIO PASTOR REYES GARCIA",
     "schedules": [
@@ -189,6 +39,34 @@
     "schedules": [
       {
         "time": "11:00-13:00",
+        "days": [
+          1
+        ],
+        "classroom": "N005"
+      }
+    ]
+  },
+  {
+    "code": "6860",
+    "group": "4",
+    "professor": "DANIEL ESQUIVEL VELAZQUEZ",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1
+        ],
+        "classroom": "N005"
+      }
+    ]
+  },
+  {
+    "code": "6860",
+    "group": "5",
+    "professor": "ALEJANDRO CORTES ESLAVA",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
         "days": [
           1
         ],
@@ -228,6 +106,39 @@
     "last_name": "MONSIVAIS MONTOLIU",
     "rating": 7.4444,
     "num_ratings": 27
+  },
+  {
+    "code": "6860",
+    "group": "8",
+    "professor": "ARNOLD FRANCISCO BASTIDAS MELO",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1
+        ],
+        "classroom": "N005"
+      }
+    ]
+  },
+  {
+    "code": "6860",
+    "group": "9",
+    "professor": "OSCAR GARCIA ARANDA",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2
+        ],
+        "classroom": "N005"
+      }
+    ],
+    "professor_id": 159597,
+    "first_name": "Óscar",
+    "last_name": "García Aranda",
+    "rating": 6.5,
+    "num_ratings": 2
   },
   {
     "code": "6860",
@@ -278,6 +189,20 @@
   },
   {
     "code": "6860",
+    "group": "13",
+    "professor": "MIGUEL ANGEL PEREZ HERNANDEZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2
+        ],
+        "classroom": "N005"
+      }
+    ]
+  },
+  {
+    "code": "6860",
     "group": "14",
     "professor": "MIGUEL ANGEL PEREZ HERNANDEZ",
     "schedules": [
@@ -308,6 +233,39 @@
     "last_name": "Pérez Barrera",
     "rating": 8.4,
     "num_ratings": 5
+  },
+  {
+    "code": "6860",
+    "group": "16",
+    "professor": "OCTAVIO PASTOR REYES GARCIA",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          3
+        ],
+        "classroom": "N005"
+      }
+    ],
+    "professor_id": 98730,
+    "first_name": "Octavio Pastor",
+    "last_name": "Reyes García",
+    "rating": 7.95,
+    "num_ratings": 20
+  },
+  {
+    "code": "6860",
+    "group": "17",
+    "professor": "ANA PATRICIA ELIZONDO LAZCANO",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          4
+        ],
+        "classroom": "N005"
+      }
+    ]
   },
   {
     "code": "6860",
@@ -349,6 +307,34 @@
     "schedules": [
       {
         "time": "11:00-13:00",
+        "days": [
+          4
+        ],
+        "classroom": "N005"
+      }
+    ]
+  },
+  {
+    "code": "6860",
+    "group": "21",
+    "professor": "ALEJANDRO CORTES ESLAVA",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          4
+        ],
+        "classroom": "N005"
+      }
+    ]
+  },
+  {
+    "code": "6860",
+    "group": "22",
+    "professor": "ANA PATRICIA ELIZONDO LAZCANO",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
         "days": [
           4
         ],
@@ -433,6 +419,20 @@
     "schedules": [
       {
         "time": "15:00-17:00",
+        "days": [
+          5
+        ],
+        "classroom": "N005"
+      }
+    ]
+  },
+  {
+    "code": "6860",
+    "group": "29",
+    "professor": "MIGUEL ANGEL PEREZ HERNANDEZ",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
         "days": [
           5
         ],

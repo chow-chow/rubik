@@ -5,17 +5,64 @@
     "professor": "CESIA ESTHER FABELA PEREZ",
     "schedules": [
       {
-        "time": "11:00-13:00",
+        "time": "09:00-11:00",
         "days": [
-          5
+          2
         ],
-        "classroom": "Y204"
+        "classroom": "I104"
       }
     ],
     "professor_id": 174589,
     "first_name": "Cesia Esther",
     "last_name": "Fabela Pérez",
-    "rating": 6.6,
-    "num_ratings": 5
+    "rating": 5.75,
+    "num_ratings": 8
+  },
+  {
+    "code": "1144",
+    "group": "2",
+    "professor": "LUIS MANUEL CERVANTES MARCELINO",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          3
+        ],
+        "classroom": "J101"
+      }
+    ]
+  },
+  {
+    "code": "1144",
+    "group": "3",
+    "professor": "LUIS MANUEL CERVANTES MARCELINO",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2
+        ],
+        "classroom": "I103"
+      }
+    ]
+  },
+  {
+    "code": "1144",
+    "group": "4",
+    "professor": "SANTIAGO ZURIEL AGUILLON SALAZAR",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1
+        ],
+        "classroom": "I203"
+      }
+    ],
+    "professor_id": 188457,
+    "first_name": "Santiago Zuriel",
+    "last_name": "Aguillón",
+    "rating": 9.0833,
+    "num_ratings": 12
   }
 ]

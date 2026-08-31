@@ -15,20 +15,6 @@
   },
   {
     "code": "6999",
-    "group": "7",
-    "professor": "LEONEL PEREZ BAUTISTA",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          2
-        ],
-        "classroom": "Q316"
-      }
-    ]
-  },
-  {
-    "code": "6999",
     "group": "2",
     "professor": "NORMA REYES CRUZ",
     "schedules": [
@@ -121,6 +107,20 @@
     "last_name": "ROMERO OCARANZA",
     "rating": 6.1613,
     "num_ratings": 31
+  },
+  {
+    "code": "6999",
+    "group": "7",
+    "professor": "LEONEL PEREZ BAUTISTA",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2
+        ],
+        "classroom": "Q316"
+      }
+    ]
   },
   {
     "code": "6999",

@@ -1,6 +1,60 @@
 [
   {
     "code": "1122",
+    "group": "1",
+    "professor": "MARICELA CASTAÑEDA PERDOMO",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "I302"
+      },
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1
+        ],
+        "classroom": "Q007"
+      }
+    ],
+    "professor_id": 27437,
+    "first_name": "Maricela",
+    "last_name": "Castañeda Perdomo",
+    "rating": 5.1356,
+    "num_ratings": 59
+  },
+  {
+    "code": "1122",
+    "group": "2",
+    "professor": "SERGIO VALDEZ SANCHEZ",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1,
+          5
+        ],
+        "classroom": "J109"
+      },
+      {
+        "time": "13:00-15:00",
+        "days": [
+          3
+        ],
+        "classroom": "Q008"
+      }
+    ],
+    "professor_id": 71336,
+    "first_name": "Sergio",
+    "last_name": "Valdez Sánchez",
+    "rating": 8.7826,
+    "num_ratings": 69
+  },
+  {
+    "code": "1122",
     "group": "31",
     "professor": "JOSE EMILIANO LILI BELTRAN",
     "schedules": [
@@ -20,6 +74,33 @@
         "classroom": "Q007"
       }
     ]
+  },
+  {
+    "code": "1122",
+    "group": "32",
+    "professor": "DULCE MONICA CASTILLO CORONA",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2,
+          3
+        ],
+        "classroom": "Y002"
+      },
+      {
+        "time": "07:00-09:00",
+        "days": [
+          4
+        ],
+        "classroom": "Q007"
+      }
+    ],
+    "professor_id": 49563,
+    "first_name": "Dulce Monica",
+    "last_name": "Castillo Corona",
+    "rating": 7.12,
+    "num_ratings": 91
   },
   {
     "code": "1122",
@@ -69,87 +150,6 @@
         "classroom": "P003"
       }
     ]
-  },
-  {
-    "code": "1122",
-    "group": "39",
-    "professor": "OSCAR RENE VALDEZ CASILLAS",
-    "schedules": [
-      {
-        "time": "17:00-19:00",
-        "days": [
-          3,
-          4
-        ],
-        "classroom": "SIN"
-      },
-      {
-        "time": "17:00-19:00",
-        "days": [
-          2
-        ],
-        "classroom": "SIN"
-      }
-    ],
-    "professor_id": 75090,
-    "first_name": "Oscar rene",
-    "last_name": "Valdez Casillas",
-    "rating": 4.11,
-    "num_ratings": 18
-  },
-  {
-    "code": "1122",
-    "group": "40",
-    "professor": "HERIBERTO GARCIA LEDEZMA",
-    "schedules": [
-      {
-        "time": "19:00-21:00",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "SIN"
-      },
-      {
-        "time": "19:00-21:00",
-        "days": [
-          3
-        ],
-        "classroom": "SIN"
-      }
-    ],
-    "professor_id": 56349,
-    "first_name": "Heriberto",
-    "last_name": "García Ledezma",
-    "rating": 7.3,
-    "num_ratings": 44
-  },
-  {
-    "code": "1122",
-    "group": "32",
-    "professor": "DULCE MONICA CASTILLO CORONA",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          2,
-          3
-        ],
-        "classroom": "Y002"
-      },
-      {
-        "time": "07:00-09:00",
-        "days": [
-          4
-        ],
-        "classroom": "Q007"
-      }
-    ],
-    "professor_id": 49563,
-    "first_name": "Dulce Monica",
-    "last_name": "Castillo Corona",
-    "rating": 7.12,
-    "num_ratings": 91
   },
   {
     "code": "1122",
@@ -231,5 +231,59 @@
     "last_name": "Zúñiga Barragán",
     "rating": 7.55,
     "num_ratings": 20
+  },
+  {
+    "code": "1122",
+    "group": "39",
+    "professor": "OSCAR RENE VALDEZ CASILLAS",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          3,
+          4
+        ],
+        "classroom": "SIN"
+      },
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2
+        ],
+        "classroom": "SIN"
+      }
+    ],
+    "professor_id": 75090,
+    "first_name": "Oscar rene",
+    "last_name": "Valdez Casillas",
+    "rating": 4.11,
+    "num_ratings": 18
+  },
+  {
+    "code": "1122",
+    "group": "40",
+    "professor": "HERIBERTO GARCIA LEDEZMA",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "SIN"
+      },
+      {
+        "time": "19:00-21:00",
+        "days": [
+          3
+        ],
+        "classroom": "SIN"
+      }
+    ],
+    "professor_id": 56349,
+    "first_name": "Heriberto",
+    "last_name": "García Ledezma",
+    "rating": 7.3,
+    "num_ratings": 44
   }
 ]

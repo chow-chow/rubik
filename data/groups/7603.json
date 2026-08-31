@@ -53,6 +53,25 @@
   },
   {
     "code": "7603",
+    "group": "4",
+    "professor": "ISRAEL GARDUÑO GARCIA",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1
+        ],
+        "classroom": "O009"
+      }
+    ],
+    "professor_id": 102330,
+    "first_name": "Israel",
+    "last_name": "Garduño Garcia",
+    "rating": 7.2857,
+    "num_ratings": 14
+  },
+  {
+    "code": "7603",
     "group": "6",
     "professor": "PABLO EDUARDO LIRA VELAZQUEZ",
     "schedules": [
@@ -159,24 +178,5 @@
     "last_name": "GUTIERREZ",
     "rating": 5.0,
     "num_ratings": 22
-  },
-  {
-    "code": "7603",
-    "group": "4",
-    "professor": "ISRAEL GARDUÑO GARCIA",
-    "schedules": [
-      {
-        "time": "11:00-13:00",
-        "days": [
-          1
-        ],
-        "classroom": "O009"
-      }
-    ],
-    "professor_id": 102330,
-    "first_name": "Israel",
-    "last_name": "Garduño Garcia",
-    "rating": 7.2857,
-    "num_ratings": 14
   }
 ]

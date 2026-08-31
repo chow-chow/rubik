@@ -1,36 +1,6 @@
 [
   {
     "code": "1608",
-    "group": "3",
-    "professor": "FRANCISCO ALVAREZ LEDESMA",
-    "schedules": [
-      {
-        "time": "10:00-11:30",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "A304"
-      }
-    ]
-  },
-  {
-    "code": "1608",
-    "group": "5",
-    "professor": "JUAN MIGUEL PASTEN MARTINEZ",
-    "schedules": [
-      {
-        "time": "16:00-17:30",
-        "days": [
-          2,
-          4
-        ],
-        "classroom": "A208"
-      }
-    ]
-  },
-  {
-    "code": "1608",
     "group": "1",
     "professor": "PEDRO LUIS BARRERA DEL CAMPO OLAVARRIETA",
     "schedules": [
@@ -71,6 +41,21 @@
   },
   {
     "code": "1608",
+    "group": "3",
+    "professor": "FRANCISCO ALVAREZ LEDESMA",
+    "schedules": [
+      {
+        "time": "10:00-11:30",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A304"
+      }
+    ]
+  },
+  {
+    "code": "1608",
     "group": "4",
     "professor": "ENRIQUE GAVALDON ENCISO",
     "schedules": [
@@ -88,5 +73,20 @@
     "last_name": "Gavaldon Enciso",
     "rating": 6.5,
     "num_ratings": 2
+  },
+  {
+    "code": "1608",
+    "group": "5",
+    "professor": "JUAN MIGUEL PASTEN MARTINEZ",
+    "schedules": [
+      {
+        "time": "16:00-17:30",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "A208"
+      }
+    ]
   }
 ]

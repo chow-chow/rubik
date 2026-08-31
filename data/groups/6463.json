@@ -15,13 +15,13 @@
   },
   {
     "code": "6463",
-    "group": "3",
+    "group": "2",
     "professor": "JUAN MANUEL VELASCO MIRANDA",
     "schedules": [
       {
-        "time": "15:00-17:00",
+        "time": "07:00-09:00",
         "days": [
-          4
+          5
         ],
         "classroom": "P215"
       }
@@ -34,13 +34,13 @@
   },
   {
     "code": "6463",
-    "group": "2",
+    "group": "3",
     "professor": "JUAN MANUEL VELASCO MIRANDA",
     "schedules": [
       {
-        "time": "07:00-09:00",
+        "time": "15:00-17:00",
         "days": [
-          5
+          4
         ],
         "classroom": "P215"
       }

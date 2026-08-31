@@ -1,25 +1,6 @@
 [
   {
     "code": "7706",
-    "group": "2",
-    "professor": "ERNESTO RAMIREZ CRUZ",
-    "schedules": [
-      {
-        "time": "07:00-09:00",
-        "days": [
-          4
-        ],
-        "classroom": "Q315"
-      }
-    ],
-    "professor_id": 130840,
-    "first_name": "Ernesto",
-    "last_name": "Ramírez Cruz",
-    "rating": 9.48,
-    "num_ratings": 25
-  },
-  {
-    "code": "7706",
     "group": "1",
     "professor": "ISMAEL ROMERO OCARANZA",
     "schedules": [
@@ -36,5 +17,24 @@
     "last_name": "ROMERO OCARANZA",
     "rating": 6.1613,
     "num_ratings": 31
+  },
+  {
+    "code": "7706",
+    "group": "2",
+    "professor": "ERNESTO RAMIREZ CRUZ",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          4
+        ],
+        "classroom": "Q315"
+      }
+    ],
+    "professor_id": 130840,
+    "first_name": "Ernesto",
+    "last_name": "Ramírez Cruz",
+    "rating": 9.48,
+    "num_ratings": 25
   }
 ]

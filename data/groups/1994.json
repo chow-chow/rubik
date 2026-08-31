@@ -1,6 +1,25 @@
 [
   {
     "code": "1994",
+    "group": "1",
+    "professor": "IRMA DEL CARMEN GLINZ FEREZ",
+    "schedules": [
+      {
+        "time": "07:00-11:00",
+        "days": [
+          5
+        ],
+        "classroom": "J205"
+      }
+    ],
+    "professor_id": 95130,
+    "first_name": "IRMA DEL CARMEN",
+    "last_name": "GLINZ FEREZ",
+    "rating": 10.0,
+    "num_ratings": 4
+  },
+  {
+    "code": "1994",
     "group": "2",
     "professor": "VICTOR JUAN LOPEZ HERNANDEZ",
     "schedules": [
@@ -18,24 +37,5 @@
     "last_name": "López Hernández",
     "rating": 7.3333,
     "num_ratings": 3
-  },
-  {
-    "code": "1994",
-    "group": "1",
-    "professor": "IRMA DEL CARMEN GLINZ FEREZ",
-    "schedules": [
-      {
-        "time": "07:00-11:00",
-        "days": [
-          5
-        ],
-        "classroom": "J205"
-      }
-    ],
-    "professor_id": 95130,
-    "first_name": "IRMA DEL CARMEN",
-    "last_name": "GLINZ FEREZ",
-    "rating": 10.0,
-    "num_ratings": 4
   }
 ]

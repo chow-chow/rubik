@@ -1,6 +1,22 @@
 [
   {
     "code": "1703",
+    "group": "1",
+    "professor": "FIDEL MORA GONZALEZ",
+    "schedules": [
+      {
+        "time": "07:00-08:30",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "A209"
+      }
+    ]
+  },
+  {
+    "code": "1703",
     "group": "2",
     "professor": "OCTAVIO GARCIA DOMINGUEZ",
     "schedules": [
@@ -23,7 +39,7 @@
   {
     "code": "1703",
     "group": "3",
-    "professor": "ROBERTO STARK FELDMAN",
+    "professor": "Grupo cancelado, contactar a la División.",
     "schedules": [
       {
         "time": "08:30-10:00",
@@ -33,43 +49,6 @@
           5
         ],
         "classroom": "A308"
-      }
-    ],
-    "professor_id": 112306,
-    "first_name": "Roberto",
-    "last_name": "Stark Feldman",
-    "rating": 4.2,
-    "num_ratings": 5
-  },
-  {
-    "code": "1703",
-    "group": "5",
-    "professor": "RAUL SANCHEZ GARCIA",
-    "schedules": [
-      {
-        "time": "17:30-19:00",
-        "days": [
-          1,
-          3,
-          5
-        ],
-        "classroom": "A212"
-      }
-    ]
-  },
-  {
-    "code": "1703",
-    "group": "1",
-    "professor": "FIDEL MORA GONZALEZ",
-    "schedules": [
-      {
-        "time": "07:00-08:30",
-        "days": [
-          1,
-          3,
-          5
-        ],
-        "classroom": "A209"
       }
     ]
   },
@@ -93,6 +72,22 @@
     "last_name": "Rodriguez Vega",
     "rating": 9.0667,
     "num_ratings": 15
+  },
+  {
+    "code": "1703",
+    "group": "5",
+    "professor": "RAUL SANCHEZ GARCIA",
+    "schedules": [
+      {
+        "time": "17:30-19:00",
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "classroom": "A212"
+      }
+    ]
   },
   {
     "code": "1703",
@@ -150,7 +145,7 @@
     "professor_id": 180847,
     "first_name": "MARCO ANTONIO",
     "last_name": "ESCAMILLA GARCIA",
-    "rating": 8.6667,
-    "num_ratings": 3
+    "rating": 8.5,
+    "num_ratings": 4
   }
 ]

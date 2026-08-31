@@ -1,32 +1,6 @@
 [
   {
     "code": "2828",
-    "group": "2",
-    "professor": "SANTIAGO ZURIEL AGUILLON SALAZARVer Nota 1",
-    "schedules": [
-      {
-        "time": "11:00-12:30",
-        "days": [
-          1
-        ],
-        "classroom": "C202"
-      },
-      {
-        "time": "11:00-12:30",
-        "days": [
-          3
-        ],
-        "classroom": "SIN"
-      }
-    ],
-    "professor_id": 188457,
-    "first_name": "Santiago Zuriel",
-    "last_name": "Aguillón",
-    "rating": 9.0833,
-    "num_ratings": 12
-  },
-  {
-    "code": "2828",
     "group": "1",
     "professor": "OMAR OLIVARES REYESVer Nota 1",
     "schedules": [
@@ -39,5 +13,31 @@
         "classroom": "B409"
       }
     ]
+  },
+  {
+    "code": "2828",
+    "group": "2",
+    "professor": "SANTIAGO ZURIEL AGUILLON SALAZARVer Nota 1",
+    "schedules": [
+      {
+        "time": "11:00-12:30",
+        "days": [
+          3
+        ],
+        "classroom": "SIN"
+      },
+      {
+        "time": "11:00-12:30",
+        "days": [
+          1
+        ],
+        "classroom": "C202"
+      }
+    ],
+    "professor_id": 188457,
+    "first_name": "Santiago Zuriel",
+    "last_name": "Aguillón",
+    "rating": 9.0833,
+    "num_ratings": 12
   }
 ]
