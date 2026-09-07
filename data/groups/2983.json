@@ -2,16 +2,21 @@
   {
     "code": "2983",
     "group": "1",
-    "professor": "GABRIELA GUTIERREZ AVIÑA",
+    "professor": "RODRIGO TAKASHI SEPULVEDA HIROSE",
     "schedules": [
       {
-        "time": "08:30-10:00",
+        "time": "10:00-11:30",
         "days": [
           2,
           4
         ],
-        "classroom": "S005"
+        "classroom": "SIN"
       }
-    ]
+    ],
+    "professor_id": 134814,
+    "first_name": "Rodrigo Takashi",
+    "last_name": "Sepúlveda Hirose",
+    "rating": 7.2222,
+    "num_ratings": 9
   }
 ]

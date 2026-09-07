@@ -1,0 +1,597 @@
+[
+  {
+    "code": "1168",
+    "name": "CULTURA DE PAZ Y RESOLUC.CONFLICTOS",
+    "credits": 4,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1195",
+    "name": "INGENIERIA FINANCIERA",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1295",
+    "name": "MOVILIDAD E INTERNACIONALIZACION I",
+    "credits": 4,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1296",
+    "name": "MOVILIDAD E INTERNACIONALIZACION II",
+    "credits": 4,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1297",
+    "name": "MOVILIDAD E INTERNACIONALIZACION III",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1298",
+    "name": "MOVILIDAD E INTERNACIONALIZACION IV",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1299",
+    "name": "MOVILIDAD E INTERNACIONALIZACION V",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1338",
+    "name": "MOVILIDAD E INTERNACIONALIZACION VI",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1339",
+    "name": "MOVILIDAD E INTERNACIONALIZACION VII",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1340",
+    "name": "MOVILIDAD E INTERNACIONALIZAC. VIII",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1341",
+    "name": "MOVILIDAD E INTERNACIONALIZACION IX",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1342",
+    "name": "MOVILIDAD E INTERNACIONALIZACION X",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1343",
+    "name": "MOVILIDAD E INTERNACIONALIZACION XI",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1372",
+    "name": "TEM.SEL.DE CIENCIAS SOCIALES I",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1373",
+    "name": "TEM.SEL.DE CIENCIAS SOCIALES II",
+    "credits": 4,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2194",
+    "name": "TEM.SEL.DE HUMANIDADES I",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2195",
+    "name": "TEM.SEL.DE HUMANIDADES II",
+    "credits": 4,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2316",
+    "name": "TEM.SEL.ING.SISTEM.BIOMEDICOS I",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2317",
+    "name": "TEM.SEL.ING.SISTEM.BIOMEDICOS II",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2318",
+    "name": "TEM.SEL.ING.SISTEM.BIOMEDICOS III",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2319",
+    "name": "TEM.SEL.ING.SISTEM.BIOMEDICOS IV",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2320",
+    "name": "TEM.SEL.ING.SISTEM.BIOMEDICOS V",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2321",
+    "name": "TEM.SEL.ING.SISTEM.BIOMEDICOS VI",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2322",
+    "name": "TEM.SEL.ING.SISTEM.BIOMEDICOS VII",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2323",
+    "name": "TEM.SEL.ING.SISTEM.BIOMEDICOS VIII",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2324",
+    "name": "TEM.SEL.ING.SISTEM.BIOMEDICOS IX",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2325",
+    "name": "TEM.SEL.ING.SISTEM.BIOMEDICOS X",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2326",
+    "name": "TEM.SEL.ING.SISTEM.BIOMEDICOS XI",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2327",
+    "name": "TEM.SEL.ING.SISTEM.BIOMEDICOS XII",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2328",
+    "name": "TEM.SEL.AREA MEDICO-BIOLOGICA I",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2329",
+    "name": "TEM.SEL.AREA MEDICO-BIOLOGICA II",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2330",
+    "name": "TEMAS SELECTOS I",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2331",
+    "name": "TEMAS SELECTOS II",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3100",
+    "name": "ALGEBRA Y GEOMETRIA ANALITICA",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3101",
+    "name": "CALCULO DIFERENCIAL E INTEGRAL",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3102",
+    "name": "FUND.PARA RESOLUCION PROB.EN ING.",
+    "credits": 2,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3103",
+    "name": "INTROD.AL MODELADO FENOMENOS FISICOS",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3104",
+    "name": "PENSAMIENTO COMPUTACIONAL",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3105",
+    "name": "IGUALDAD DE GENERO EN INGENIERIA",
+    "credits": 2,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3200",
+    "name": "ALGEBRA LINEAL",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3201",
+    "name": "CALCULO VECTORIAL",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3202",
+    "name": "ECUACIONES DIFERENCIALES",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3203",
+    "name": "MECANICA",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3204",
+    "name": "QUIMICA GENERAL",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3205",
+    "name": "SOCIEDAD, CULTURA E IDENTIDAD",
+    "credits": 2,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3300",
+    "name": "ANALISIS NUMERICO",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3302",
+    "name": "COMUNICACION MULTIMODAL",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3303",
+    "name": "ELECTRICIDAD Y MAGNETISMO",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3305",
+    "name": "PROBABILIDAD Y ESTADISTICA",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3319",
+    "name": "BIOLOGIA CELULAR Y TISULAR",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3320",
+    "name": "FUNDAMENTOS DE CIENCIAS TERMICAS",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3400",
+    "name": "ANALISIS DE CIRCUITOS BIOMEDICOS",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3401",
+    "name": "ANATOMIA-FISIOLOGIA CUERPO HUM.I",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3402",
+    "name": "BIOQUIMICA",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3403",
+    "name": "LIDERAZGO ESTRATEGICO",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3405",
+    "name": "MATEMATICAS AVANZADAS",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3433",
+    "name": "MANUFACTURA Y ERGONOMIA",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3500",
+    "name": "ACTUADOR.- SISTEMS.TRANSM.POTENC.DM",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3501",
+    "name": "ANATOMIA-FISIOLOGIA CUERPO HUM.II",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3502",
+    "name": "ELECTRONICA ANALOGICA DISPOS.MEDICOS",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3503",
+    "name": "FUNDAMENTOS DE BIOMECANICA",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3504",
+    "name": "INGENIER.DATOS INTELIGENC.ARTIFICIAL",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3505",
+    "name": "MODELADO-CONTROL SISTEMAS FISIOLOGIC",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3600",
+    "name": "BOMECANICA",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3601",
+    "name": "ETICA PROFESIONAL",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3602",
+    "name": "FINANZAS EN INGENIERIA",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3603",
+    "name": "FUNDAMENTOS DE FISICA BIOMEDICA",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3604",
+    "name": "PSICOLOGIA MEDICA",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3605",
+    "name": "SISTEMAS EMBEBIDOS DISPOSIT. MEDICOS",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3700",
+    "name": "ANALISIS PROCESAM.DIGITAL BIOSEÑALES",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3701",
+    "name": "ASPECTOS REGULATORIOS EN SALUD",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3702",
+    "name": "BIOFLUIDOS",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3703",
+    "name": "GESTION DE OPERACIONES EN SALUD",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3704",
+    "name": "INGENIERIA ECONOMICA",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3705",
+    "name": "INGENIERIA Y DESARROLLO SOSTENIBLE",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3800",
+    "name": "EQUIPO MEDICO-HOSPITALARIO",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3801",
+    "name": "GESTION DE LA INFORM.Y SALUD DIGITAL",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3802",
+    "name": "GEST.INFRAESTR.TECNOLOGIA HOSPITALAR",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3803",
+    "name": "GESTION INTEGRAL DE PROYECTOS",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3804",
+    "name": "INGENIERIA CLINICA",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3805",
+    "name": "INGENIERIA DE BIOMATERIALES",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3900",
+    "name": "DISEÑO DE SISTEMAS BIOMEDICOS",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3901",
+    "name": "ESCENARIO DE PRACTICA",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3902",
+    "name": "ESTANCIA HOSPITALARIA",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3903",
+    "name": "INNOVACION EMPRENDIMIENTO Y NEGOCIOS",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  }
+]

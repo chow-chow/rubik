@@ -80,7 +80,7 @@
           2,
           4
         ],
-        "classroom": "I203"
+        "classroom": "I101"
       }
     ],
     "professor_id": 193573,
@@ -126,8 +126,8 @@
     "professor_id": 44334,
     "first_name": "María del Rocío",
     "last_name": "Ávila Núñez",
-    "rating": 9.19,
-    "num_ratings": 42
+    "rating": 9.21,
+    "num_ratings": 43
   },
   {
     "code": "1120",
@@ -172,16 +172,16 @@
       {
         "time": "15:00-17:00",
         "days": [
-          3
+          5
         ],
-        "classroom": "J211"
+        "classroom": "J208"
       },
       {
         "time": "15:00-17:00",
         "days": [
-          5
+          3
         ],
-        "classroom": "J208"
+        "classroom": "J211"
       }
     ],
     "professor_id": 101573,

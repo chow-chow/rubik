@@ -2,7 +2,7 @@
   {
     "code": "1239",
     "group": "1",
-    "professor": "EDSON BALTAZAR ESTRADA ARRIAGA",
+    "professor": "RODRIGO TAKASHI SEPULVEDA HIROSE",
     "schedules": [
       {
         "time": "10:00-11:30",
@@ -12,6 +12,11 @@
         ],
         "classroom": "SIN"
       }
-    ]
+    ],
+    "professor_id": 134814,
+    "first_name": "Rodrigo Takashi",
+    "last_name": "Sepúlveda Hirose",
+    "rating": 7.2222,
+    "num_ratings": 9
   }
 ]

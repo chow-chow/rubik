@@ -23,19 +23,19 @@
   {
     "code": "1279",
     "group": "2",
-    "professor": "GIBRAN JALIL GARNICA CASTROVer Nota 1",
+    "professor": "Grupo cancelado, contactar a la División.",
     "schedules": [
-      {
-        "time": "13:00-14:30",
-        "days": [
-          2
-        ],
-        "classroom": "Y201"
-      },
       {
         "time": "13:30-15:00",
         "days": [
           4
+        ],
+        "classroom": "Y201"
+      },
+      {
+        "time": "13:00-14:30",
+        "days": [
+          2
         ],
         "classroom": "Y201"
       }

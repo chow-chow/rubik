@@ -1,0 +1,181 @@
+[
+  {
+    "code": "3205",
+    "group": "1",
+    "professor": "EDGAR OMAR RODRIGUEZ CAMARENA",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1
+        ],
+        "classroom": "J109"
+      }
+    ]
+  },
+  {
+    "code": "3205",
+    "group": "2",
+    "professor": "ALDO FERNANDO TRUJILLO PRIEGO",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1
+        ],
+        "classroom": "I103"
+      }
+    ],
+    "professor_id": 98613,
+    "first_name": "Aldo Fernando",
+    "last_name": "Priego Trujillo",
+    "rating": 5.5,
+    "num_ratings": 10
+  },
+  {
+    "code": "3205",
+    "group": "3",
+    "professor": "EDGAR OMAR RODRIGUEZ CAMARENA",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2
+        ],
+        "classroom": "J107"
+      }
+    ]
+  },
+  {
+    "code": "3205",
+    "group": "4",
+    "professor": "AURELIO PEREZ GOMEZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          4
+        ],
+        "classroom": "I204"
+      }
+    ],
+    "professor_id": 96788,
+    "first_name": "AURELIO PEREZ GOMEZ",
+    "last_name": "PEREZ GOMEZ",
+    "rating": 7.4146,
+    "num_ratings": 41
+  },
+  {
+    "code": "3205",
+    "group": "5",
+    "professor": "DIANA PAULINA PEREZ PALACIOS",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          5
+        ],
+        "classroom": "I103"
+      }
+    ],
+    "professor_id": 124259,
+    "first_name": "Diana",
+    "last_name": "Perez Palacios",
+    "rating": 10.0,
+    "num_ratings": 2
+  },
+  {
+    "code": "3205",
+    "group": "6",
+    "professor": "CARLOS EDUARDO ARIAS GALINDO",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          5
+        ],
+        "classroom": "I105"
+      }
+    ]
+  },
+  {
+    "code": "3205",
+    "group": "7",
+    "professor": "GABRIELA FRIAS VILLEGAS",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          4
+        ],
+        "classroom": "I103"
+      }
+    ]
+  },
+  {
+    "code": "3205",
+    "group": "8",
+    "professor": "ADAM ALBERTO VAZQUEZ CRUZ",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2
+        ],
+        "classroom": "I206"
+      }
+    ]
+  },
+  {
+    "code": "3205",
+    "group": "9",
+    "professor": "HUGO ULISES CRUZ",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          4
+        ],
+        "classroom": "I106"
+      }
+    ],
+    "professor_id": 90265,
+    "first_name": "Hugo Ulises",
+    "last_name": "Cruz",
+    "rating": 9.3415,
+    "num_ratings": 41
+  },
+  {
+    "code": "3205",
+    "group": "10",
+    "professor": "MARIA MARGARITA ZAYIL SALAZAR CAMPOS",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          5
+        ],
+        "classroom": "J102"
+      }
+    ],
+    "professor_id": 89958,
+    "first_name": "Zayil",
+    "last_name": "Salazar Campos",
+    "rating": 7.9697,
+    "num_ratings": 33
+  },
+  {
+    "code": "3205",
+    "group": "11",
+    "professor": "RICARDO REYES GUEVARA",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          4
+        ],
+        "classroom": "J103"
+      }
+    ]
+  }
+]

@@ -1,0 +1,1023 @@
+[
+  {
+    "code": "3103",
+    "group": "1",
+    "professor": "OMAR DE JESUS PEREZ",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          1
+        ],
+        "classroom": "H001"
+      },
+      {
+        "time": "07:00-09:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "J102"
+      }
+    ],
+    "professor_id": 90851,
+    "first_name": "OMAR ING.",
+    "last_name": "DE JESUS PEREZ",
+    "rating": 7.9184,
+    "num_ratings": 49
+  },
+  {
+    "code": "3103",
+    "group": "2",
+    "professor": "JOSE ANTONIO RUIZ DIAZ",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          1
+        ],
+        "classroom": "H002"
+      },
+      {
+        "time": "07:00-09:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "I306"
+      }
+    ]
+  },
+  {
+    "code": "3103",
+    "group": "3",
+    "professor": "ADRIANA YOLOXOCHIL JIMENEZ RODRIGUEZ",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2
+        ],
+        "classroom": "J102"
+      },
+      {
+        "time": "07:00-09:00",
+        "days": [
+          3
+        ],
+        "classroom": "I102"
+      },
+      {
+        "time": "07:00-09:00",
+        "days": [
+          4
+        ],
+        "classroom": "H001"
+      }
+    ],
+    "professor_id": 94468,
+    "first_name": "Adriana Yoloxochil",
+    "last_name": "Jiménez Rodríguez",
+    "rating": 6.4722,
+    "num_ratings": 36
+  },
+  {
+    "code": "3103",
+    "group": "4",
+    "professor": "GERMAN RAMON ARCONADA REY",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          3
+        ],
+        "classroom": "I304"
+      },
+      {
+        "time": "07:00-09:00",
+        "days": [
+          4
+        ],
+        "classroom": "I306"
+      },
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2
+        ],
+        "classroom": "H001"
+      }
+    ],
+    "professor_id": 104129,
+    "first_name": "Germán",
+    "last_name": "Arconada Rey",
+    "rating": 8.5833,
+    "num_ratings": 36
+  },
+  {
+    "code": "3103",
+    "group": "5",
+    "professor": "BRENDA NATALY SANCHEZ EGUIA",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          3
+        ],
+        "classroom": "H001"
+      },
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "I101"
+      }
+    ],
+    "professor_id": 176745,
+    "first_name": "Brenda Nataly",
+    "last_name": "Sánchez Eguía",
+    "rating": 8.0,
+    "num_ratings": 8
+  },
+  {
+    "code": "3103",
+    "group": "6",
+    "professor": "ABAN ALONSO MORENO AGUILAR",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2
+        ],
+        "classroom": "H002"
+      },
+      {
+        "time": "07:00-09:00",
+        "days": [
+          3,
+          4
+        ],
+        "classroom": "I204"
+      }
+    ],
+    "professor_id": 95313,
+    "first_name": "Aban Alonso",
+    "last_name": "Moreno Aguilar",
+    "rating": 8.0,
+    "num_ratings": 9
+  },
+  {
+    "code": "3103",
+    "group": "7",
+    "professor": "OMAR DE JESUS PEREZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          5
+        ],
+        "classroom": "I304"
+      },
+      {
+        "time": "09:00-11:00",
+        "days": [
+          3
+        ],
+        "classroom": "H002"
+      },
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1
+        ],
+        "classroom": "I102"
+      }
+    ],
+    "professor_id": 90851,
+    "first_name": "OMAR ING.",
+    "last_name": "DE JESUS PEREZ",
+    "rating": 7.9184,
+    "num_ratings": 49
+  },
+  {
+    "code": "3103",
+    "group": "8",
+    "professor": "MARIA DEL CARMEN MELO DIAZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "J110"
+      },
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1
+        ],
+        "classroom": "H002"
+      }
+    ],
+    "professor_id": 44254,
+    "first_name": "Maria del Carmen",
+    "last_name": "Melo Díaz",
+    "rating": 6.8864,
+    "num_ratings": 88
+  },
+  {
+    "code": "3103",
+    "group": "9",
+    "professor": "ALAIN MORALES MARTINEZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "I304"
+      },
+      {
+        "time": "09:00-11:00",
+        "days": [
+          5
+        ],
+        "classroom": "H002"
+      }
+    ]
+  },
+  {
+    "code": "3103",
+    "group": "10",
+    "professor": "RIGEL GAMEZ LEAL",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          3
+        ],
+        "classroom": "I103"
+      },
+      {
+        "time": "09:00-11:00",
+        "days": [
+          4
+        ],
+        "classroom": "I302"
+      },
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2
+        ],
+        "classroom": "H001"
+      }
+    ],
+    "professor_id": 31167,
+    "first_name": "Rigel",
+    "last_name": "Gámez Leal",
+    "rating": 8.5172,
+    "num_ratings": 87
+  },
+  {
+    "code": "3103",
+    "group": "11",
+    "professor": "MARIA OFELIA RODRIGUEZ DURAN",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1,
+          5
+        ],
+        "classroom": "I104"
+      },
+      {
+        "time": "11:00-13:00",
+        "days": [
+          3
+        ],
+        "classroom": "H001"
+      }
+    ],
+    "professor_id": 74107,
+    "first_name": "María Ofelia",
+    "last_name": "Rodriguez Durán",
+    "rating": 7.4,
+    "num_ratings": 60
+  },
+  {
+    "code": "3103",
+    "group": "12",
+    "professor": "ALAIN MORALES MARTINEZ",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "J209"
+      },
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1
+        ],
+        "classroom": "H002"
+      }
+    ]
+  },
+  {
+    "code": "3103",
+    "group": "13",
+    "professor": "ALICIA MARIA ESPONDA CASCAJARES",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          5
+        ],
+        "classroom": "H001"
+      },
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "I202"
+      }
+    ],
+    "professor_id": 30167,
+    "first_name": "Alicia",
+    "last_name": "Esponda Cascajares",
+    "rating": 8.0909,
+    "num_ratings": 55
+  },
+  {
+    "code": "3103",
+    "group": "14",
+    "professor": "CARLOS ALBERTO PINEDA FIGUEROA",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "I106"
+      },
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1
+        ],
+        "classroom": "H001"
+      }
+    ],
+    "professor_id": 51709,
+    "first_name": "Carlos Alberto",
+    "last_name": "Pineda Figueroa",
+    "rating": 9.3034,
+    "num_ratings": 89
+  },
+  {
+    "code": "3103",
+    "group": "15",
+    "professor": "ALFREDO VELASQUEZ MARQUEZ",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "J101"
+      },
+      {
+        "time": "11:00-13:00",
+        "days": [
+          5
+        ],
+        "classroom": "H002"
+      }
+    ],
+    "professor_id": 62000,
+    "first_name": "Alfredo",
+    "last_name": "Velásquez Márquez",
+    "rating": 6.4545,
+    "num_ratings": 88
+  },
+  {
+    "code": "3103",
+    "group": "16",
+    "professor": "JUAN GONZALEZ RUANO",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2
+        ],
+        "classroom": "H002"
+      },
+      {
+        "time": "11:00-13:00",
+        "days": [
+          3,
+          4
+        ],
+        "classroom": "J110"
+      }
+    ]
+  },
+  {
+    "code": "3103",
+    "group": "17",
+    "professor": "MIGUEL ANGEL JAIME VASCONCELOS",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2,
+          3
+        ],
+        "classroom": "I306"
+      },
+      {
+        "time": "11:00-13:00",
+        "days": [
+          4
+        ],
+        "classroom": "H002"
+      }
+    ],
+    "professor_id": 42088,
+    "first_name": "MIGUEL ANGEL",
+    "last_name": "JAIME VASCONCELOS",
+    "rating": 8.0278,
+    "num_ratings": 72
+  },
+  {
+    "code": "3103",
+    "group": "18",
+    "professor": "BEATRIZ EUGENIA HERNANDEZ RODRIGUEZ",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          3
+        ],
+        "classroom": "H002"
+      },
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "I206"
+      }
+    ],
+    "professor_id": 105095,
+    "first_name": "Beatriz Eugenia",
+    "last_name": "Hernandez Rodriguez",
+    "rating": 7.4333,
+    "num_ratings": 30
+  },
+  {
+    "code": "3103",
+    "group": "19",
+    "professor": "EDUARDO BERNAL VARGAS",
+    "schedules": [
+      {
+        "time": "11:00-13:00",
+        "days": [
+          4
+        ],
+        "classroom": "J109"
+      },
+      {
+        "time": "11:00-13:00",
+        "days": [
+          3
+        ],
+        "classroom": "I205"
+      },
+      {
+        "time": "11:00-13:00",
+        "days": [
+          2
+        ],
+        "classroom": "H001"
+      }
+    ],
+    "professor_id": 105127,
+    "first_name": "Eduardo",
+    "last_name": "Bernal Vargas",
+    "rating": 9.6667,
+    "num_ratings": 18
+  },
+  {
+    "code": "3103",
+    "group": "20",
+    "professor": "FERNANDO VEGA CALDERON",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1,
+          5
+        ],
+        "classroom": "I304"
+      },
+      {
+        "time": "13:00-15:00",
+        "days": [
+          3
+        ],
+        "classroom": "H002"
+      }
+    ],
+    "professor_id": 87387,
+    "first_name": "Fernando",
+    "last_name": "Vega Calderón",
+    "rating": 8.8154,
+    "num_ratings": 65
+  },
+  {
+    "code": "3103",
+    "group": "21",
+    "professor": "MARIA OFELIA RODRIGUEZ DURAN",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          3
+        ],
+        "classroom": "H001"
+      },
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1,
+          5
+        ],
+        "classroom": "I102"
+      }
+    ],
+    "professor_id": 74107,
+    "first_name": "María Ofelia",
+    "last_name": "Rodriguez Durán",
+    "rating": 7.4,
+    "num_ratings": 60
+  },
+  {
+    "code": "3103",
+    "group": "22",
+    "professor": "EDUARDO LOPEZ MOLINA",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          5
+        ],
+        "classroom": "H002"
+      },
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "I204"
+      }
+    ],
+    "professor_id": 78455,
+    "first_name": "Eduardo",
+    "last_name": "López Molina",
+    "rating": 8.32,
+    "num_ratings": 85
+  },
+  {
+    "code": "3103",
+    "group": "23",
+    "professor": "GABRIEL RAMOS ROMAN",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          5
+        ],
+        "classroom": "H001"
+      },
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "I103"
+      }
+    ],
+    "professor_id": 115336,
+    "first_name": "Gabriel",
+    "last_name": "Ramos Román",
+    "rating": 7.8571,
+    "num_ratings": 7
+  },
+  {
+    "code": "3103",
+    "group": "24",
+    "professor": "EHECATL LUIS DAVID PALEO GONZALEZ",
+    "schedules": [
+      {
+        "time": "13:00-15:00",
+        "days": [
+          1
+        ],
+        "classroom": "H001"
+      },
+      {
+        "time": "13:00-15:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "I104"
+      }
+    ],
+    "professor_id": 84416,
+    "first_name": "Ehecatl Luis",
+    "last_name": "Paleo González",
+    "rating": 6.5313,
+    "num_ratings": 32
+  },
+  {
+    "code": "3103",
+    "group": "25",
+    "professor": "GABRIEL RAMOS ROMAN",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "J109"
+      },
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1
+        ],
+        "classroom": "H001"
+      }
+    ],
+    "professor_id": 115336,
+    "first_name": "Gabriel",
+    "last_name": "Ramos Román",
+    "rating": 7.8571,
+    "num_ratings": 7
+  },
+  {
+    "code": "3103",
+    "group": "26",
+    "professor": "LUIS ANDRES SUAREZ HERNANDEZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "I106"
+      },
+      {
+        "time": "15:00-17:00",
+        "days": [
+          5
+        ],
+        "classroom": "H002"
+      }
+    ],
+    "professor_id": 68185,
+    "first_name": "Luis Andrés",
+    "last_name": "Suárez Hernández",
+    "rating": 6.2759,
+    "num_ratings": 29
+  },
+  {
+    "code": "3103",
+    "group": "27",
+    "professor": "M. DEL CARMEN MALDONADO SUSANO",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          5
+        ],
+        "classroom": "H001"
+      },
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "I103"
+      }
+    ],
+    "professor_id": 78275,
+    "first_name": "M del Carmen",
+    "last_name": "Maldonado Susano",
+    "rating": 9.4091,
+    "num_ratings": 44
+  },
+  {
+    "code": "3103",
+    "group": "28",
+    "professor": "JORGE RAMIREZ CRUZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          3
+        ],
+        "classroom": "H002"
+      },
+      {
+        "time": "15:00-17:00",
+        "days": [
+          1,
+          5
+        ],
+        "classroom": "J101"
+      }
+    ],
+    "professor_id": 84413,
+    "first_name": "Jorge",
+    "last_name": "Ramirez Cruz",
+    "rating": 9.5593,
+    "num_ratings": 59
+  },
+  {
+    "code": "3103",
+    "group": "29",
+    "professor": "RUBEN CARLOS ESQUIVEL HERNANDEZ",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2,
+          3
+        ],
+        "classroom": "J102"
+      },
+      {
+        "time": "15:00-17:00",
+        "days": [
+          4
+        ],
+        "classroom": "H002"
+      }
+    ]
+  },
+  {
+    "code": "3103",
+    "group": "30",
+    "professor": "MARIA DEL PILAR AGUILAR DEL VALLE",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2
+        ],
+        "classroom": "H002"
+      },
+      {
+        "time": "15:00-17:00",
+        "days": [
+          3,
+          4
+        ],
+        "classroom": "I206"
+      }
+    ]
+  },
+  {
+    "code": "3103",
+    "group": "31",
+    "professor": "ALBERTO SANDOVAL GARCIA",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          3,
+          4
+        ],
+        "classroom": "J101"
+      },
+      {
+        "time": "15:00-17:00",
+        "days": [
+          2
+        ],
+        "classroom": "H001"
+      }
+    ],
+    "professor_id": 102860,
+    "first_name": "Alberto",
+    "last_name": "Sandoval Garcia",
+    "rating": 8.6522,
+    "num_ratings": 23
+  },
+  {
+    "code": "3103",
+    "group": "32",
+    "professor": "LUIS ANDRES SUAREZ HERNANDEZ",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          3,
+          5
+        ],
+        "classroom": "I205"
+      },
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1
+        ],
+        "classroom": "H001"
+      }
+    ],
+    "professor_id": 68185,
+    "first_name": "Luis Andrés",
+    "last_name": "Suárez Hernández",
+    "rating": 6.2759,
+    "num_ratings": 29
+  },
+  {
+    "code": "3103",
+    "group": "33",
+    "professor": "GABRIEL RAMOS ROMAN",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          5
+        ],
+        "classroom": "H001"
+      },
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1,
+          3
+        ],
+        "classroom": "I103"
+      }
+    ],
+    "professor_id": 115336,
+    "first_name": "Gabriel",
+    "last_name": "Ramos Román",
+    "rating": 7.8571,
+    "num_ratings": 7
+  },
+  {
+    "code": "3103",
+    "group": "34",
+    "professor": "BEATRIZ EUGENIA HERNANDEZ RODRIGUEZ",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1,
+          5
+        ],
+        "classroom": "I104"
+      },
+      {
+        "time": "17:00-19:00",
+        "days": [
+          3
+        ],
+        "classroom": "H001"
+      }
+    ],
+    "professor_id": 105095,
+    "first_name": "Beatriz Eugenia",
+    "last_name": "Hernandez Rodriguez",
+    "rating": 7.4333,
+    "num_ratings": 30
+  },
+  {
+    "code": "3103",
+    "group": "35",
+    "professor": "JOSE CARLOS RODRIGUEZ TENORIO",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          3
+        ],
+        "classroom": "H002"
+      },
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1,
+          5
+        ],
+        "classroom": "J103"
+      }
+    ]
+  },
+  {
+    "code": "3103",
+    "group": "36",
+    "professor": "ALICIA MARIA ESPONDA CASCAJARES",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2,
+          3
+        ],
+        "classroom": "J105"
+      },
+      {
+        "time": "17:00-19:00",
+        "days": [
+          4
+        ],
+        "classroom": "H002"
+      }
+    ],
+    "professor_id": 30167,
+    "first_name": "Alicia",
+    "last_name": "Esponda Cascajares",
+    "rating": 8.0909,
+    "num_ratings": 55
+  },
+  {
+    "code": "3103",
+    "group": "37",
+    "professor": "LUCIA YAZMIN JUAREZ DE LA MORA",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          1,
+          5
+        ],
+        "classroom": "J104"
+      },
+      {
+        "time": "19:00-21:00",
+        "days": [
+          3
+        ],
+        "classroom": "H002"
+      }
+    ],
+    "professor_id": 82820,
+    "first_name": "Lucia Yazmín",
+    "last_name": "Juárez de la Mora",
+    "rating": 6.9615,
+    "num_ratings": 52
+  },
+  {
+    "code": "3103",
+    "group": "38",
+    "professor": "ARIANEE SAINZ VIDAL",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          3,
+          4
+        ],
+        "classroom": "Y202"
+      },
+      {
+        "time": "19:00-21:00",
+        "days": [
+          2
+        ],
+        "classroom": "H001"
+      }
+    ],
+    "professor_id": 167784,
+    "first_name": "Arianee",
+    "last_name": "Sainz Vidal",
+    "rating": 5.75,
+    "num_ratings": 4
+  }
+]

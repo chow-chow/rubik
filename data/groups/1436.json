@@ -126,8 +126,8 @@
     "professor_id": 87593,
     "first_name": "Nayelli",
     "last_name": "Manzanarez Gómez",
-    "rating": 8.9444,
-    "num_ratings": 36
+    "rating": 8.8649,
+    "num_ratings": 37
   },
   {
     "code": "1436",
@@ -242,16 +242,16 @@
       {
         "time": "11:00-13:00",
         "days": [
-          5
+          3
         ],
-        "classroom": "J205"
+        "classroom": "Y202"
       },
       {
         "time": "11:00-13:00",
         "days": [
-          3
+          5
         ],
-        "classroom": "Y202"
+        "classroom": "J205"
       }
     ],
     "professor_id": 66375,

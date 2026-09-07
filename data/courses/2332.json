@@ -1,0 +1,604 @@
+[
+  {
+    "code": "1168",
+    "name": "CULTURA DE PAZ Y RESOLUC.CONFLICTOS",
+    "credits": 4,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1195",
+    "name": "INGENIERIA FINANCIERA",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1295",
+    "name": "MOVILIDAD E INTERNACIONALIZACION I",
+    "credits": 4,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1296",
+    "name": "MOVILIDAD E INTERNACIONALIZACION II",
+    "credits": 4,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1297",
+    "name": "MOVILIDAD E INTERNACIONALIZACION III",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1298",
+    "name": "MOVILIDAD E INTERNACIONALIZACION IV",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1299",
+    "name": "MOVILIDAD E INTERNACIONALIZACION V",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1338",
+    "name": "MOVILIDAD E INTERNACIONALIZACION VI",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1339",
+    "name": "MOVILIDAD E INTERNACIONALIZACION VII",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1340",
+    "name": "MOVILIDAD E INTERNACIONALIZAC. VIII",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1341",
+    "name": "MOVILIDAD E INTERNACIONALIZACION IX",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1342",
+    "name": "MOVILIDAD E INTERNACIONALIZACION X",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1343",
+    "name": "MOVILIDAD E INTERNACIONALIZACION XI",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1372",
+    "name": "TEM.SEL.DE CIENCIAS SOCIALES I",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1373",
+    "name": "TEM.SEL.DE CIENCIAS SOCIALES II",
+    "credits": 4,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1382",
+    "name": "TEM.SEL.DIRECC.CREACION EMPRESAS I",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1383",
+    "name": "TEM.SEL.DIRECC.CREACION EMPRESAS II",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1384",
+    "name": "TEM.SEL.DIRECC.CREACION EMPRESAS III",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1385",
+    "name": "TEM.SEL.DIRECC.CREACION EMPRESAS IV",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1386",
+    "name": "TEM.SEL.DIRECC.CREACION EMPRESAS V",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1387",
+    "name": "TEM.SEL.DIRECC.CREACION EMPRESAS VI",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1495",
+    "name": "TEM.SEL.GEST.CADENA SUMINISTROS I",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1496",
+    "name": "TEM.SEL.GEST.CADENA SUMINISTROS II",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1497",
+    "name": "TEM.SEL.GEST.CADENA SUMINISTROS III",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1498",
+    "name": "TEM.SEL.GEST.CADENA SUMINISTROS IV",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1499",
+    "name": "TEM.SEL.GEST.CADENA SUMINISTROS V",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2190",
+    "name": "TEM.SEL.GEST.CADENA SUMINISTROS VI",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2194",
+    "name": "TEM.SEL.DE HUMANIDADES I",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2195",
+    "name": "TEM.SEL.DE HUMANIDADES II",
+    "credits": 4,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2250",
+    "name": "TEM.SEL.PRODUCCION MANUFACTURA I",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2251",
+    "name": "TEM.SEL.PRODUCCION MANUFACTURA II",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2252",
+    "name": "TEM.SEL.PRODUCCION MANUFACTURA III",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2253",
+    "name": "TEM.SEL.PRODUCCION MANUFACTURA IV",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2254",
+    "name": "TEM.SEL.PRODUCCION MANUFACTURA V",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2255",
+    "name": "TEM.SEL.PRODUCCION MANUFACTURA VI",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3100",
+    "name": "ALGEBRA Y GEOMETRIA ANALITICA",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3101",
+    "name": "CALCULO DIFERENCIAL E INTEGRAL",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3102",
+    "name": "FUND.PARA RESOLUCION PROB.EN ING.",
+    "credits": 2,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3103",
+    "name": "INTROD.AL MODELADO FENOMENOS FISICOS",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3104",
+    "name": "PENSAMIENTO COMPUTACIONAL",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3105",
+    "name": "IGUALDAD DE GENERO EN INGENIERIA",
+    "credits": 2,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3200",
+    "name": "ALGEBRA LINEAL",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3201",
+    "name": "CALCULO VECTORIAL",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3202",
+    "name": "ECUACIONES DIFERENCIALES",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3203",
+    "name": "MECANICA",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3204",
+    "name": "QUIMICA GENERAL",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3205",
+    "name": "SOCIEDAD, CULTURA E IDENTIDAD",
+    "credits": 2,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3209",
+    "name": "MODELADO GRAFICO",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3300",
+    "name": "ANALISIS NUMERICO",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3302",
+    "name": "COMUNICACION MULTIMODAL",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3303",
+    "name": "ELECTRICIDAD Y MAGNETISMO",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3305",
+    "name": "PROBABILIDAD Y ESTADISTICA",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3316",
+    "name": "MECANICA VECTORIAL",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3318",
+    "name": "CONTABILIDAD FINANCIERA Y DE COSTOS",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3403",
+    "name": "LIDERAZGO ESTRATEGICO",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3428",
+    "name": "INGENIERIA DE MATERIALES",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3429",
+    "name": "TERMOFLUIDOS",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3504",
+    "name": "INGENIER.DATOS INTELIGENC.ARTIFICIAL",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3531",
+    "name": "ELECTRONICA BASICA",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3532",
+    "name": "ESTADISTICA APLICADA",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3533",
+    "name": "ESTUDIO DEL TRABAJO",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3534",
+    "name": "MECANICA DE SOLIDOS",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3535",
+    "name": "METODOLOGIAS PARA LA PLANEACION",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3601",
+    "name": "ETICA PROFESIONAL",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3602",
+    "name": "FINANZAS EN INGENIERIA",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3624",
+    "name": "INSTALACIONES INDUSTRIALES",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3625",
+    "name": "INVESTIGACION DE OPERACIONES I",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3626",
+    "name": "PROCESOS DE MANUFACTURA",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3627",
+    "name": "PROCESOS INDUSTRIALES",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3628",
+    "name": "RELACIONES LABORALES Y ORGANIZACION",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3704",
+    "name": "INGENIERIA ECONOMICA",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3705",
+    "name": "INGENIERIA Y DESARROLLO SOSTENIBLE",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3723",
+    "name": "CALIDAD",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3724",
+    "name": "DISEÑO DE SISTEMAS PRODUCTIVOS",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3725",
+    "name": "INVESTIGACION DE OPERACIONES II",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3726",
+    "name": "SISTEMAS DE MEJORA  AMBIENTAL",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3803",
+    "name": "GESTION INTEGRAL DE PROYECTOS",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3819",
+    "name": "ANALISIS Y MEJORA DE PROCESOS",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3820",
+    "name": "EVALUAC.D PROY. PARA ING. INDUSTRIAL",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3821",
+    "name": "PLANEAC Y CONTROL DE LA PRODUCCION",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3822",
+    "name": "PRACTS.PROFES.INGENIERIA INDUSTRIAL",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3903",
+    "name": "INNOVACION EMPRENDIMIENTO Y NEGOCIOS",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3905",
+    "name": "PROYECTO INTEGRADOR EN INGENIERIA",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3914",
+    "name": "AUTOMATIZACION PROCESOS INDUSTRIALES",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3915",
+    "name": "GESTION DE LA CADENA DE SUMINISTROS",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3916",
+    "name": "SIMULACION",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  }
+]

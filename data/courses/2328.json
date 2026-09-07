@@ -1,0 +1,723 @@
+[
+  {
+    "code": "1149",
+    "name": "AEROPUERTOS",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1152",
+    "name": "ANALISIS NO LINEAL DE ESTRUCTURAS",
+    "credits": 4,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1161",
+    "name": "CARRETERAS",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1165",
+    "name": "CONCRETO PRESFORZADO",
+    "credits": 4,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1168",
+    "name": "CULTURA DE PAZ Y RESOLUC.CONFLICTOS",
+    "credits": 4,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1175",
+    "name": "EDIFICIOS SOSTENIBLES Y REGENERATIV.",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1178",
+    "name": "ESTRUCTURA DE PAVIMENTOS",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1180",
+    "name": "FUNDAMENTOS DE MECANICA DE ROCAS",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1189",
+    "name": "HIDROLOGIA E HIDRAULICA COMPUTACION.",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1192",
+    "name": "INGENIERIA DE COSTAS",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1195",
+    "name": "INGENIERIA FINANCIERA",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1197",
+    "name": "INSTAL.HIDROSANITARIAS EN EDIFICIOS",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1291",
+    "name": "INTRODUC.A LA GERENCIA DE PROYECTOS",
+    "credits": 4,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1295",
+    "name": "MOVILIDAD E INTERNACIONALIZACION I",
+    "credits": 4,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1296",
+    "name": "MOVILIDAD E INTERNACIONALIZACION II",
+    "credits": 4,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1297",
+    "name": "MOVILIDAD E INTERNACIONALIZACION III",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1298",
+    "name": "MOVILIDAD E INTERNACIONALIZACION IV",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1299",
+    "name": "MOVILIDAD E INTERNACIONALIZACION V",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1338",
+    "name": "MOVILIDAD E INTERNACIONALIZACION VI",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1339",
+    "name": "MOVILIDAD E INTERNACIONALIZACION VII",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1340",
+    "name": "MOVILIDAD E INTERNACIONALIZAC. VIII",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1341",
+    "name": "MOVILIDAD E INTERNACIONALIZACION IX",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1342",
+    "name": "MOVILIDAD E INTERNACIONALIZACION X",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1343",
+    "name": "MOVILIDAD E INTERNACIONALIZACION XI",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1355",
+    "name": "SUPERVISION DE OBRAS",
+    "credits": 4,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1372",
+    "name": "TEM.SEL.DE CIENCIAS SOCIALES I",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1373",
+    "name": "TEM.SEL.DE CIENCIAS SOCIALES II",
+    "credits": 4,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1374",
+    "name": "TEM.SEL.DE CONSTRUCCION I",
+    "credits": 4,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1375",
+    "name": "TEM.SEL.DE CONSTRUCCION II",
+    "credits": 4,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1376",
+    "name": "TEM.SEL.DE CONSTRUCCION III",
+    "credits": 4,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1487",
+    "name": "TEM.SEL.DE ESTRUCTURAS I",
+    "credits": 4,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1488",
+    "name": "TEM.SEL.DE ESTRUCTURAS II",
+    "credits": 4,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1489",
+    "name": "TEM.SEL.DE ESTRUCTURAS III",
+    "credits": 4,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1492",
+    "name": "TEM.SEL.DE GEOTECNIA I",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1493",
+    "name": "TEM.SEL.DE GEOTECNIA II",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1494",
+    "name": "TEM.SEL.DE GEOTECNIA III",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2191",
+    "name": "TEM.SEL.DE HIDRAULICA I",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2192",
+    "name": "TEM.SEL.DE HIDRAULICA II",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2193",
+    "name": "TEM.SEL.DE HIDRAULICA III",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2194",
+    "name": "TEM.SEL.DE HUMANIDADES I",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2195",
+    "name": "TEM.SEL.DE HUMANIDADES II",
+    "credits": 4,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2217",
+    "name": "TEM.SEL.DE SISTEMAS I",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2218",
+    "name": "TEM.SEL.DE SISTEMAS II",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2219",
+    "name": "TEM.SEL.DE SISTEMAS III",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2241",
+    "name": "TEM.SEL.DE ING.SANITARIA-AMBIENT I",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2242",
+    "name": "TEM.SEL.DE ING.SANITARIA-AMBIENT II",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2243",
+    "name": "TEM.SEL.DE ING.SANITARIA-AMBIENT III",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3100",
+    "name": "ALGEBRA Y GEOMETRIA ANALITICA",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3101",
+    "name": "CALCULO DIFERENCIAL E INTEGRAL",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3102",
+    "name": "FUND.PARA RESOLUCION PROB.EN ING.",
+    "credits": 2,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3103",
+    "name": "INTROD.AL MODELADO FENOMENOS FISICOS",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3104",
+    "name": "PENSAMIENTO COMPUTACIONAL",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3105",
+    "name": "IGUALDAD DE GENERO EN INGENIERIA",
+    "credits": 2,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3200",
+    "name": "ALGEBRA LINEAL",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3201",
+    "name": "CALCULO VECTORIAL",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3202",
+    "name": "ECUACIONES DIFERENCIALES",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3203",
+    "name": "MECANICA",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3205",
+    "name": "SOCIEDAD, CULTURA E IDENTIDAD",
+    "credits": 2,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3300",
+    "name": "ANALISIS NUMERICO",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3302",
+    "name": "COMUNICACION MULTIMODAL",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3305",
+    "name": "PROBABILIDAD Y ESTADISTICA",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3308",
+    "name": "DIBUJO EN INGENIERIA",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3314",
+    "name": "ANALISIS DE ESTRUCTURAS I",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3315",
+    "name": "GEOMATICA BASICA",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3316",
+    "name": "MECANICA VECTORIAL",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3403",
+    "name": "LIDERAZGO ESTRATEGICO",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3420",
+    "name": "FUNDAMENTOS MECANICA MEDIO CONTINUO",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3421",
+    "name": "GEOLOGIA APLICADA A LA ING.CIVIL",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3422",
+    "name": "HIDRAULICA BASICA",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3423",
+    "name": "INGENIERIA DE SISTEMAS",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3424",
+    "name": "RESISTENCIA DE MATERIALES",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3504",
+    "name": "INGENIER.DATOS INTELIGENC.ARTIFICIAL",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3521",
+    "name": "ANALISIS DE ESTRUCTURAS II",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3522",
+    "name": "COMPORTAMIENTO DE SUELOS",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3523",
+    "name": "HIDRAULICA D MAQUINAS Y TRANSITORIOS",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3524",
+    "name": "RECURSOS Y PROCEDIMIENTOS CONSTRUCT",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3525",
+    "name": "SANEAMIENTO BASICO I",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3601",
+    "name": "ETICA PROFESIONAL",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3602",
+    "name": "FINANZAS EN INGENIERIA",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3614",
+    "name": "DISEÑO ESTRUCT.CONCRETO MAMPOSTERIA",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3615",
+    "name": "HIDRAULICA DE CANALES",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3616",
+    "name": "MECANICA DE SUELOS",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3617",
+    "name": "PLANEACION",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3618",
+    "name": "PRESUPUESTACION Y PROGRAMAC.OBRAS",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3619",
+    "name": "SANEAMIENTO BASICO II",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3704",
+    "name": "INGENIERIA ECONOMICA",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3705",
+    "name": "INGENIERIA Y DESARROLLO SOSTENIBLE",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3713",
+    "name": "DISEÑO DE ESTRUCTURAS DE ACERO",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3714",
+    "name": "HIDROLOGIA SUPERFICIAL",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3715",
+    "name": "INGENIERIA DE TRANSITO Y MOVILIDAD",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3716",
+    "name": "MOVIMIENTO DE TIERRAS",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3717",
+    "name": "SANEAMIENTO BASICO III",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3803",
+    "name": "GESTION INTEGRAL DE PROYECTOS",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3812",
+    "name": "EDIFICACION",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3813",
+    "name": "EVALUACION PROY DE INFRAESTRUCTURA",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3814",
+    "name": "INGENIERIA DE TRANSPORTE I",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3815",
+    "name": "PROYECT INFRAESTRUCTURA SOSTENIBLE",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3903",
+    "name": "INNOVACION EMPRENDIMIENTO Y NEGOCIOS",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3905",
+    "name": "PROYECTO INTEGRADOR EN INGENIERIA",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3909",
+    "name": "ADMON.DE EMPRESAS CONSTRUCTORAS",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3910",
+    "name": "CIMENTACIONES",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3911",
+    "name": "INGENIERIA DE TRANSPORTE II",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3913",
+    "name": "OBRAS HIDRAULICAS",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  }
+]

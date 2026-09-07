@@ -1,0 +1,702 @@
+[
+  {
+    "code": "1147",
+    "name": "ADMINISTRACION DE BASES DE DATOS",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1153",
+    "name": "APRENDIZAJE AUTOMATIZADO",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1155",
+    "name": "ARQUITECTURA Y DISEÑO DE SOFTWARE",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1158",
+    "name": "BASES DATOS AVANZ.ANALISIS DE DATOS",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1159",
+    "name": "BASES DE DATOS DISTRIBUIDAS",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1162",
+    "name": "CIBERSEGURIDAD OFENSIVA Y  DEFENSIVA",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1163",
+    "name": "COMPILADORES",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1164",
+    "name": "COMPUTO CUANTICO",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1167",
+    "name": "CRIPTOGRAFIA APLICADA",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1168",
+    "name": "CULTURA DE PAZ Y RESOLUC.CONFLICTOS",
+    "credits": 4,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1169",
+    "name": "DESARROLLO SOFTWARE SEG.CONFIABLE",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1170",
+    "name": "DESARROLLO WEB Y MOVIL",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1173",
+    "name": "DISEÑO DIGITAL",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1174",
+    "name": "DISPOSITIVOS ELECTRONICOS PROGRAMAB.",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1179",
+    "name": "FUNDAMENTOS DE CIBERSEGURIDAD",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1184",
+    "name": "GESTION DE CIBERSEG.RESILIEN.DIGITAL",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1185",
+    "name": "GESTION ESTRATEG.INFRAESTRUC.DE RED",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1187",
+    "name": "GESTION PROFES.PROYECTOS DE SOFTWARE",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1193",
+    "name": "ING.DE PRUEBAS, CALIDAD Y DEVOPS",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1290",
+    "name": "INTELIGENCIA D NEGOC.ALMACENES DATOS",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1294",
+    "name": "MICROCOMPUTADORAS",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1295",
+    "name": "MOVILIDAD E INTERNACIONALIZACION I",
+    "credits": 4,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1296",
+    "name": "MOVILIDAD E INTERNACIONALIZACION II",
+    "credits": 4,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1297",
+    "name": "MOVILIDAD E INTERNACIONALIZACION III",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1298",
+    "name": "MOVILIDAD E INTERNACIONALIZACION IV",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1299",
+    "name": "MOVILIDAD E INTERNACIONALIZACION V",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1338",
+    "name": "MOVILIDAD E INTERNACIONALIZACION VI",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1339",
+    "name": "MOVILIDAD E INTERNACIONALIZACION VII",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1340",
+    "name": "MOVILIDAD E INTERNACIONALIZAC. VIII",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1341",
+    "name": "MOVILIDAD E INTERNACIONALIZACION IX",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1342",
+    "name": "MOVILIDAD E INTERNACIONALIZACION X",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1343",
+    "name": "MOVILIDAD E INTERNACIONALIZACION XI",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1344",
+    "name": "ORGANIZACION Y ARQUITEC.DE COMPUTAD.",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1347",
+    "name": "PROCESAMIENTO DIGITAL DE SEÑALES",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1351",
+    "name": "SISTEMAS DISTRIB. COMPUTO EN LA NUBE",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1368",
+    "name": "TEM.SEL.DE CIBERSEGURIDAD I",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1369",
+    "name": "TEM.SEL.DE CIBERSEGURIDAD II",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1370",
+    "name": "TEM.SEL.DE CIBERSEGURIDAD III",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1371",
+    "name": "TEM.SEL.DE CIBERSEGURIDAD IV",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1372",
+    "name": "TEM.SEL.DE CIENCIAS SOCIALES I",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1373",
+    "name": "TEM.SEL.DE CIENCIAS SOCIALES II",
+    "credits": 4,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2194",
+    "name": "TEM.SEL.DE HUMANIDADES I",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2195",
+    "name": "TEM.SEL.DE HUMANIDADES II",
+    "credits": 4,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2196",
+    "name": "TEM.SEL.DE INGENIERIA DE DATOS I",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2197",
+    "name": "TEM.SEL.DE INGENIERIA DE DATOS II",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2198",
+    "name": "TEM.SEL.DE INGENIERIA DE DATOS III",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2220",
+    "name": "TEM.SEL.DE INGENIERIA D SOFTWARE I",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2221",
+    "name": "TEM.SEL.DE INGENIERIA D SOFTWARE II",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2222",
+    "name": "TEM.SEL.DE INGENIERIA D SOFTWARE III",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2223",
+    "name": "TEM.SEL.DE INGENIERIA D SOFTWARE IV",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2224",
+    "name": "TEM.SEL.DE ING.EN COMPUTACION I",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2225",
+    "name": "TEM.SEL.DE ING.EN COMPUTACION II",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2226",
+    "name": "TEM.SEL.DE ING.EN COMPUTACION III",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2247",
+    "name": "TEM.SEL.DE INTELIGENC.ARTIFICIAL I",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2248",
+    "name": "TEM.SEL.DE INTELIGENC.ARTIFICIAL II",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2249",
+    "name": "TEM.SEL.DE INTELIGENC.ARTIFICIAL III",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2275",
+    "name": "TEM.SEL.DE SISTEMAS DIGITALES I",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2276",
+    "name": "TEM.SEL.DE SISTEMAS DIGITALES II",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2277",
+    "name": "TEM.SEL.DE SISTEMAS DIGITALES III",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2278",
+    "name": "TEM.SEL.DE SISTEMAS DIGITALES IV",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2279",
+    "name": "TEM.SEL.DE SISTEMAS DIGITALES V",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2297",
+    "name": "VISION COMPUTACIONAL",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3100",
+    "name": "ALGEBRA Y GEOMETRIA ANALITICA",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3101",
+    "name": "CALCULO DIFERENCIAL E INTEGRAL",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3102",
+    "name": "FUND.PARA RESOLUCION PROB.EN ING.",
+    "credits": 2,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3103",
+    "name": "INTROD.AL MODELADO FENOMENOS FISICOS",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3104",
+    "name": "PENSAMIENTO COMPUTACIONAL",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3105",
+    "name": "IGUALDAD DE GENERO EN INGENIERIA",
+    "credits": 2,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3200",
+    "name": "ALGEBRA LINEAL",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3201",
+    "name": "CALCULO VECTORIAL",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3202",
+    "name": "ECUACIONES DIFERENCIALES",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3203",
+    "name": "MECANICA",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3205",
+    "name": "SOCIEDAD, CULTURA E IDENTIDAD",
+    "credits": 2,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3207",
+    "name": "ESTRUCTURA DE DATOS Y ALGORITMOS",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3300",
+    "name": "ANALISIS NUMERICO",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3302",
+    "name": "COMUNICACION MULTIMODAL",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3303",
+    "name": "ELECTRICIDAD Y MAGNETISMO",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3305",
+    "name": "PROBABILIDAD Y ESTADISTICA",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3312",
+    "name": "ESTRUCTURAS DISCRETAS Y COMPUTACION",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3313",
+    "name": "PROGRAMACION-ALGORITMOS AVANZADOS",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3403",
+    "name": "LIDERAZGO ESTRATEGICO",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3405",
+    "name": "MATEMATICAS AVANZADAS",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3416",
+    "name": "ANALISIS DE CIRCUITOS ELECTRICOS",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3417",
+    "name": "ANALISIS DE SISTEMAS Y SEÑALES",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3418",
+    "name": "DISEÑO ORIENTADO OBJETOS CONCURRENC.",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3419",
+    "name": "TEORIA DE LENGUAJES Y AUTOMATAS",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3504",
+    "name": "INGENIER.DATOS INTELIGENC.ARTIFICIAL",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3516",
+    "name": "BASES DE DATOS",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3517",
+    "name": "DISPOSITIVOS CIRCUITOS ELECTRONICOS",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3518",
+    "name": "FISICA CUANTICA",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3519",
+    "name": "INTELIGENCIA ARTIFICIAL",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3520",
+    "name": "SISTEMAS OPERATIVOS",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3601",
+    "name": "ETICA PROFESIONAL",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3602",
+    "name": "FINANZAS EN INGENIERIA",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3613",
+    "name": "REDES DE DATOS",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3704",
+    "name": "INGENIERIA ECONOMICA",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3705",
+    "name": "INGENIERIA Y DESARROLLO SOSTENIBLE",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3803",
+    "name": "GESTION INTEGRAL DE PROYECTOS",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3903",
+    "name": "INNOVACION EMPRENDIMIENTO Y NEGOCIOS",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3905",
+    "name": "PROYECTO INTEGRADOR EN INGENIERIA",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  }
+]

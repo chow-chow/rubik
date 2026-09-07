@@ -13,5 +13,25 @@
         "classroom": "R237"
       }
     ]
+  },
+  {
+    "code": "1241",
+    "group": "2",
+    "professor": "RODRIGO TAKASHI SEPULVEDA HIROSE",
+    "schedules": [
+      {
+        "time": "10:00-11:30",
+        "days": [
+          2,
+          4
+        ],
+        "classroom": "SIN"
+      }
+    ],
+    "professor_id": 134814,
+    "first_name": "Rodrigo Takashi",
+    "last_name": "Sepúlveda Hirose",
+    "rating": 7.2222,
+    "num_ratings": 9
   }
 ]

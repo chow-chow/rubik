@@ -7,16 +7,6 @@
     "lab": null
   },
   {
-    "code": "0021",
-    "name": "AIRE ACONDI.Y REFRIGERACION",
-    "credits": 10,
-    "has_lab": true,
-    "lab": {
-      "code": "5021",
-      "name": "LABORATORIO DE  AIRE ACONDICONADO Y REFRIGERACION"
-    }
-  },
-  {
     "code": "0032",
     "name": "ABAST DE AGUA POTABLE",
     "credits": 6,
@@ -41,54 +31,9 @@
     }
   },
   {
-    "code": "0119",
-    "name": "ESTRUCTURAS DISCRETAS",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "0126",
-    "name": "DISEÑO DE HERRAMENTAL",
-    "credits": 10,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "0129",
-    "name": "DINAMICA DE SISTEMAS FISICOS",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "0138",
-    "name": "DISPOSITIVOS ELECTRONICOS",
-    "credits": 10,
-    "has_lab": true,
-    "lab": {
-      "code": "5138",
-      "name": "LAB. DISPOSITIVOS ELECTRONICOS"
-    }
-  },
-  {
     "code": "0143",
     "name": "DISEÑO DE SISTEMAS PRODUCTIVOS",
     "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "0145",
-    "name": "ELECTRONICA DE POTENCIA",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "0152",
-    "name": "CIMENTACIONES",
-    "credits": 9,
     "has_lab": false,
     "lab": null
   },
@@ -100,81 +45,8 @@
     "lab": null
   },
   {
-    "code": "0230",
-    "name": "DISEÑO ESTRUCTURAL",
-    "credits": 9,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "0234",
-    "name": "EDIFICACION",
-    "credits": 6,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "0274",
-    "name": "ESTRUCTURAS DE CONCRETO",
-    "credits": 9,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "0275",
-    "name": "ESTRUCTURAS ISOSTATICAS",
-    "credits": 9,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "0339",
-    "name": "INVESTIGACION OPERACIONES I",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "0354",
-    "name": "INGENIERIA DE PROCESOS INDUSTRIALES",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "0379",
-    "name": "HIDROLOGIA",
-    "credits": 9,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "0387",
-    "name": "INGENIERIA DE SISTEMAS I",
-    "credits": 6,
-    "has_lab": false,
-    "lab": null
-  },
-  {
     "code": "0406",
     "name": "INTELIGENCIA ARTIFICIAL",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "0422",
-    "name": "AUTOMATIZACION",
-    "credits": 10,
-    "has_lab": true,
-    "lab": {
-      "code": "5422",
-      "name": "LAB. AUTOMATIZACION"
-    }
-  },
-  {
-    "code": "0423",
-    "name": "INSTALACIONES ELECTRICAS",
     "credits": 8,
     "has_lab": false,
     "lab": null
@@ -187,46 +59,8 @@
     "lab": null
   },
   {
-    "code": "0425",
-    "name": "CIRCUITOS PARA COMUNICACIONES",
-    "credits": 10,
-    "has_lab": true,
-    "lab": {
-      "code": "5425",
-      "name": "LAB. CIRCUITOS PARA COMUNICACIONES"
-    }
-  },
-  {
     "code": "0426",
     "name": "DISPOSITIVOS ELECTRONICOS PROGRAMABL",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "0427",
-    "name": "INTRODUCCION A LA TECNOLOGIA MEMS",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "0428",
-    "name": "AMPLIFICADORES PARA MICROONDAS",
-    "credits": 6,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "0434",
-    "name": "COMPILADORES",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "0442",
-    "name": "LENGUAJES FORMALES-AUTOMATAS",
     "credits": 8,
     "has_lab": false,
     "lab": null
@@ -240,20 +74,6 @@
       "code": "5462",
       "name": "LAB. MECANICA DE FLUIDOS I"
     }
-  },
-  {
-    "code": "0465",
-    "name": "MECANICA DE MATERIALES I",
-    "credits": 9,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "0466",
-    "name": "MECANICA DE MATERIALES II",
-    "credits": 9,
-    "has_lab": false,
-    "lab": null
   },
   {
     "code": "0487",
@@ -287,20 +107,6 @@
     "lab": null
   },
   {
-    "code": "0531",
-    "name": "MECANICA DEL MEDIO CONTINUO",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "0547",
-    "name": "MAQUINAS DESPLAMTO. POSITIVO",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
     "code": "0549",
     "name": "MAQUINAS ELECTRICAS",
     "credits": 10,
@@ -313,16 +119,6 @@
     "credits": 8,
     "has_lab": false,
     "lab": null
-  },
-  {
-    "code": "0558",
-    "name": "MEDICION E INSTRUMENTACION",
-    "credits": 8,
-    "has_lab": true,
-    "lab": {
-      "code": "5558",
-      "name": "LAB. MEDICION E INSTRUMENTACION"
-    }
   },
   {
     "code": "0563",
@@ -346,42 +142,11 @@
     "lab": null
   },
   {
-    "code": "0607",
-    "name": "AUDIOMETRIA",
-    "credits": 6,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "0610",
-    "name": "OBRAS HIDRAULICAS",
-    "credits": 9,
-    "has_lab": false,
-    "lab": null
-  },
-  {
     "code": "0619",
     "name": "PLANEAC Y CONTROL D PRODUCC",
     "credits": 10,
     "has_lab": false,
     "lab": null
-  },
-  {
-    "code": "0627",
-    "name": "PLANTAS GENERADORAS",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "0636",
-    "name": "PROTECCION DE SISTS.ELECTRIC",
-    "credits": 10,
-    "has_lab": true,
-    "lab": {
-      "code": "5636",
-      "name": "LAB. PROTECCION DE SISTEMAS ELECTRICOS"
-    }
   },
   {
     "code": "0642",
@@ -398,85 +163,6 @@
     "lab": null
   },
   {
-    "code": "0678",
-    "name": "CONTROL AUTOMATICO INDUSTRIAL",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "0692",
-    "name": "FUNDAMENTOS DE INSTRUMENTAC. BIOMEDI",
-    "credits": 8,
-    "has_lab": true,
-    "lab": {
-      "code": "5692",
-      "name": "LAB. FUNDAMENTOS DE INSTRUMENTACION BIOMEDICA"
-    }
-  },
-  {
-    "code": "0693",
-    "name": "INSTRUMENTACION VIRTUAL",
-    "credits": 8,
-    "has_lab": true,
-    "lab": {
-      "code": "5693",
-      "name": "LAB. INSTRUMENTACION VIRTUAL"
-    }
-  },
-  {
-    "code": "0700",
-    "name": "BIOMEMS Y DISPOSITIVOS LAB ON A CHIP",
-    "credits": 6,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "0754",
-    "name": "PROCESAM.DIGIT.IMAGEN.MEDIC:IMAGEN",
-    "credits": 8,
-    "has_lab": true,
-    "lab": {
-      "code": "5754",
-      "name": "LAB. PROCESAMIENTO DIGITAL DE IMÁGENES MEDICAS"
-    }
-  },
-  {
-    "code": "0757",
-    "name": "RECONOCIMIENTO DE PATRONES",
-    "credits": 6,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "0767",
-    "name": "MEMS PARA RADIOFRECUENCIA",
-    "credits": 6,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "0768",
-    "name": "PROCESADORES MULTINUCLEO",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "0824",
-    "name": "SEDIMENTOLOGIA",
-    "credits": 6,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "0840",
-    "name": "SISTEMAS OPERATIVOS",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
     "code": "0879",
     "name": "TEORIA ELECTROMAGNETICA",
     "credits": 10,
@@ -487,44 +173,9 @@
     }
   },
   {
-    "code": "0900",
-    "name": "TURBOMAQUINARIA",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "0901",
-    "name": "TERMODINAMICA APLICADA",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
     "code": "0914",
     "name": "VENTILACION",
     "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "0918",
-    "name": "SISTEMAS DIFUSOS",
-    "credits": 6,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "0930",
-    "name": "APLICACIONES OPTOELECT. EN MEDICINA",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "0944",
-    "name": "COSTOS Y EVALUACION DE PROYECTOS",
-    "credits": 6,
     "has_lab": false,
     "lab": null
   },
@@ -536,27 +187,6 @@
     "lab": null
   },
   {
-    "code": "0949",
-    "name": "INTRODUCCION A LA BIOFISICA",
-    "credits": 6,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "0952",
-    "name": "OPTIMIZACION DE OPERACIONES",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "0955",
-    "name": "SIST.Y EQUIP.BIOMEDICS.ELECTRONICS",
-    "credits": 6,
-    "has_lab": false,
-    "lab": null
-  },
-  {
     "code": "0956",
     "name": "ASEGURAMIENTO DE FLUJO",
     "credits": 8,
@@ -564,23 +194,9 @@
     "lab": null
   },
   {
-    "code": "0957",
-    "name": "TELESALUD",
-    "credits": 6,
-    "has_lab": false,
-    "lab": null
-  },
-  {
     "code": "0960",
     "name": "CARACTERIZ ESTATICA DINAMICA DE YNF",
     "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "0967",
-    "name": "TRANSDUCTORES BIOMEDICOS",
-    "credits": 6,
     "has_lab": false,
     "lab": null
   },
@@ -644,86 +260,9 @@
     }
   },
   {
-    "code": "0997",
-    "name": "DETERIORO DE MATERIALES",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "0999",
-    "name": "INGENIERIA DE SUPERFICIES",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
     "code": "1009",
     "name": "BIOMECANICA",
     "credits": 10,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "1010",
-    "name": "SISTEMAS EMBEBIDOS",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "1016",
-    "name": "SUBESTACIONES ELECTRICAS",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "1018",
-    "name": "PROCESAMIENTO DIGITAL DE VOZ",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "1023",
-    "name": "SISMOLOGIA APL.EXPLOR.PETROL",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "1024",
-    "name": "PROCESAMIENTO DATOS SIS.PET.",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "1026",
-    "name": "PERCEPCION REMOTA APLICADA",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "1028",
-    "name": "FUENTE SISMICA",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "1030",
-    "name": "SISMOLOGIA DE MOVTOS.FUERTES",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "1032",
-    "name": "SISMOLOGIA APLDA.A GEOTECNIA",
-    "credits": 8,
     "has_lab": false,
     "lab": null
   },
@@ -756,27 +295,6 @@
     "lab": null
   },
   {
-    "code": "1060",
-    "name": "ENVASE Y EMBALAJE",
-    "credits": 6,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "1061",
-    "name": "GEOLOGIA APLICADA A LA ING. CIVIL",
-    "credits": 9,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "1066",
-    "name": "GEOLOGIA DEL PETROLEO",
-    "credits": 9,
-    "has_lab": false,
-    "lab": null
-  },
-  {
     "code": "1067",
     "name": "GEOMETRIA DESCRIPTIVA APLICADA",
     "credits": 6,
@@ -798,13 +316,6 @@
     "lab": null
   },
   {
-    "code": "1087",
-    "name": "SEGURIDAD INDUSTRIAL",
-    "credits": 6,
-    "has_lab": false,
-    "lab": null
-  },
-  {
     "code": "1088",
     "name": "HIDROGEOLOGIA",
     "credits": 9,
@@ -815,40 +326,6 @@
     "code": "1090",
     "name": "SIMULACION MATEMATICA DE YACIMIENTOS",
     "credits": 9,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "1092",
-    "name": "AUTOMATIZACION DE SISTEM.ELECTRICS",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "1093",
-    "name": "CONTROL DE SISTEMAS NO LINEALES",
-    "credits": 8,
-    "has_lab": true,
-    "lab": {
-      "code": "6093",
-      "name": "LAB. CONTROL DE SISTEMAS NO LINEALES"
-    }
-  },
-  {
-    "code": "1095",
-    "name": "CONTR.DISTR.INTEGR.SCADA (REDS.AUT",
-    "credits": 8,
-    "has_lab": true,
-    "lab": {
-      "code": "6095",
-      "name": "LAB. CONTROL DISTRIBUIDO E INTEGRACION SCADA"
-    }
-  },
-  {
-    "code": "1099",
-    "name": "ILUMINACION",
-    "credits": 6,
     "has_lab": false,
     "lab": null
   },
@@ -950,13 +427,6 @@
     "lab": null
   },
   {
-    "code": "1129",
-    "name": "INGENIERIA INDUSTRIAL Y PRODUCTIVIDA",
-    "credits": 4,
-    "has_lab": false,
-    "lab": null
-  },
-  {
     "code": "1130",
     "name": "FUNDAMENTOS DE FISICA",
     "credits": 6,
@@ -985,37 +455,352 @@
     "lab": null
   },
   {
-    "code": "1139",
-    "name": "EXPLORACION GEOQUIMICA MINERA",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "1141",
-    "name": "TEMAS SEL.DE INGENIERIA GEOFISICA I",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "1142",
-    "name": "TEMAS SEL.DE INGENIERIA GEOFISICA II",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "1143",
-    "name": "ANALISIS DE REGISTROS SISMICOS",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
     "code": "1144",
     "name": "INTRODUCC.A INGENIERIA AEROESPACIAL",
     "credits": 4,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1145",
+    "name": "ACTUADORES ELECTRICOS",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1146",
+    "name": "ACUSTICA Y OPTICA",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1147",
+    "name": "ADMINISTRACION DE BASES DE DATOS",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1148",
+    "name": "ADMON. DE RIESGOS EMPRESARIALES",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1149",
+    "name": "AEROPUERTOS",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1150",
+    "name": "AIRE ACONDICIONADO Y REFRIGERACION",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1151",
+    "name": "AMPLIFICADORES PARA MICROONDAS",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1152",
+    "name": "ANALISIS NO LINEAL DE ESTRUCTURAS",
+    "credits": 4,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1153",
+    "name": "APRENDIZAJE AUTOMATIZADO",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1154",
+    "name": "APROVECH.FUENTES RENOVAB.DE ENERGIA",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1155",
+    "name": "ARQUITECTURA Y DISEÑO DE SOFTWARE",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1156",
+    "name": "AUTOMATIZACION INDUSTRIAL I",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1157",
+    "name": "AUTOMATIZACION INDUSTRIAL II",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1158",
+    "name": "BASES DATOS AVANZ.ANALISIS DE DATOS",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1159",
+    "name": "BASES DE DATOS DISTRIBUIDAS",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1160",
+    "name": "BIOELECTRONICA",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1161",
+    "name": "CARRETERAS",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1162",
+    "name": "CIBERSEGURIDAD OFENSIVA Y  DEFENSIVA",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1163",
+    "name": "COMPILADORES",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1164",
+    "name": "COMPUTO CUANTICO",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1165",
+    "name": "CONCRETO PRESFORZADO",
+    "credits": 4,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1166",
+    "name": "CONTROL INDUST. PROGRAM.GRAN ESCALA",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1167",
+    "name": "CRIPTOGRAFIA APLICADA",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1168",
+    "name": "CULTURA DE PAZ Y RESOLUC.CONFLICTOS",
+    "credits": 4,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1169",
+    "name": "DESARROLLO SOFTWARE SEG.CONFIABLE",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1170",
+    "name": "DESARROLLO WEB Y MOVIL",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1171",
+    "name": "DISEÑO DE HERRAMENTAL",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1172",
+    "name": "DISEÑO DE SISTEMAS TERMICOS",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1173",
+    "name": "DISEÑO DIGITAL",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1174",
+    "name": "DISPOSITIVOS ELECTRONICOS PROGRAMAB.",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1175",
+    "name": "EDIFICIOS SOSTENIBLES Y REGENERATIV.",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1176",
+    "name": "ELECTRONICA DE POTENCIA",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1177",
+    "name": "EQUPOS BIOMEDICOS ELECTRON.AVANZAD.",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1178",
+    "name": "ESTRUCTURA DE PAVIMENTOS",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1179",
+    "name": "FUNDAMENTOS DE CIBERSEGURIDAD",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1180",
+    "name": "FUNDAMENTOS DE MECANICA DE ROCAS",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1182",
+    "name": "GEOLOGIA DEL PETROLEO",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1183",
+    "name": "GEOTECNIA DE EXCAVACION",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1184",
+    "name": "GESTION DE CIBERSEG.RESILIEN.DIGITAL",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1185",
+    "name": "GESTION ESTRATEG.INFRAESTRUC.DE RED",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1186",
+    "name": "GESTION OPTIMA DE LA GENERACION",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1187",
+    "name": "GESTION PROFES.PROYECTOS DE SOFTWARE",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1189",
+    "name": "HIDROLOGIA E HIDRAULICA COMPUTACION.",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1190",
+    "name": "INGENIERIA ASISTIDA POR COMPUTADORA",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1191",
+    "name": "INGENIERIA AUTOMOTRIZ",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1192",
+    "name": "INGENIERIA DE COSTAS",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1193",
+    "name": "ING.DE PRUEBAS, CALIDAD Y DEVOPS",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1195",
+    "name": "INGENIERIA FINANCIERA",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1197",
+    "name": "INSTAL.HIDROSANITARIAS EN EDIFICIOS",
+    "credits": 6,
     "has_lab": false,
     "lab": null
   },
@@ -1090,13 +875,6 @@
     "lab": null
   },
   {
-    "code": "1224",
-    "name": "INTRODUC A LA ING SISTEMAS BIOMEDICO",
-    "credits": 2,
-    "has_lab": false,
-    "lab": null
-  },
-  {
     "code": "1225",
     "name": "MANUFACTURA I",
     "credits": 8,
@@ -1117,13 +895,6 @@
     "code": "1228",
     "name": "MECANICA",
     "credits": 12,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "1229",
-    "name": "GEOMATICA BASICA",
-    "credits": 9,
     "has_lab": false,
     "lab": null
   },
@@ -1509,16 +1280,79 @@
     "lab": null
   },
   {
-    "code": "1317",
-    "name": "ESTRUCTURA DATOS Y ALGORITMOS II",
-    "credits": 10,
+    "code": "1289",
+    "name": "INSTRUMENTACION INTELIGENTE",
+    "credits": 8,
     "has_lab": false,
     "lab": null
   },
   {
-    "code": "1320",
-    "name": "BIOQUIMICA",
+    "code": "1290",
+    "name": "INTELIGENCIA D NEGOC.ALMACENES DATOS",
     "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1291",
+    "name": "INTRODUC.A LA GERENCIA DE PROYECTOS",
+    "credits": 4,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1292",
+    "name": "MECAN.DETERIOR.MATER.SU CONTROL MET.",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1293",
+    "name": "MEMS PARA RADIOFRECUENCIA",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1294",
+    "name": "MICROCOMPUTADORAS",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1295",
+    "name": "MOVILIDAD E INTERNACIONALIZACION I",
+    "credits": 4,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1296",
+    "name": "MOVILIDAD E INTERNACIONALIZACION II",
+    "credits": 4,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1297",
+    "name": "MOVILIDAD E INTERNACIONALIZACION III",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1298",
+    "name": "MOVILIDAD E INTERNACIONALIZACION IV",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1299",
+    "name": "MOVILIDAD E INTERNACIONALIZACION V",
+    "credits": 6,
     "has_lab": false,
     "lab": null
   },
@@ -1551,27 +1385,6 @@
     "lab": null
   },
   {
-    "code": "1327",
-    "name": "GEOLOGIA FISICA",
-    "credits": 9,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "1328",
-    "name": "FISICA",
-    "credits": 10,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "1329",
-    "name": "PALEONTOLOGIA GENERAL",
-    "credits": 6,
-    "has_lab": false,
-    "lab": null
-  },
-  {
     "code": "1330",
     "name": "FUNDAM TERMODINAMICA ELECTROMAGNET",
     "credits": 10,
@@ -1584,20 +1397,6 @@
   {
     "code": "1331",
     "name": "GEOLOGIA DE YACIMIENTOS DE FLUIDOS",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "1332",
-    "name": "MODELOS DE PROGRAMACION ORIENT.OBJET",
-    "credits": 6,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "1333",
-    "name": "SISTEMAS TERMODIN-ELECTROMAGNETISMO",
     "credits": 8,
     "has_lab": false,
     "lab": null
@@ -1624,15 +1423,428 @@
     "lab": null
   },
   {
-    "code": "1402",
-    "name": "HIDRAULICA BASICA",
-    "credits": 9,
+    "code": "1338",
+    "name": "MOVILIDAD E INTERNACIONALIZACION VI",
+    "credits": 6,
     "has_lab": false,
     "lab": null
   },
   {
-    "code": "1407",
-    "name": "RECURSOS DE LA CONSTRUCCION",
+    "code": "1339",
+    "name": "MOVILIDAD E INTERNACIONALIZACION VII",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1340",
+    "name": "MOVILIDAD E INTERNACIONALIZAC. VIII",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1341",
+    "name": "MOVILIDAD E INTERNACIONALIZACION IX",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1342",
+    "name": "MOVILIDAD E INTERNACIONALIZACION X",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1343",
+    "name": "MOVILIDAD E INTERNACIONALIZACION XI",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1344",
+    "name": "ORGANIZACION Y ARQUITEC.DE COMPUTAD.",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1345",
+    "name": "PLANEAC.EXPANSION SISTEMA ELECTRICO",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1346",
+    "name": "PLANTAS GENERADORAS",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1347",
+    "name": "PROCESAMIENTO DIGITAL DE SEÑALES",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1348",
+    "name": "PROTECCION DE REDES ELECTRICAS",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1350",
+    "name": "ROBOTS MOVILES",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1351",
+    "name": "SISTEMAS DISTRIB. COMPUTO EN LA NUBE",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1352",
+    "name": "SISTEMAS ELECTRONICOS",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1353",
+    "name": "SISTEMAS ELECTRONICOS EMBEBIDOS",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1354",
+    "name": "SUBESTACIONES ELECTRICAS",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1355",
+    "name": "SUPERVISION DE OBRAS",
+    "credits": 4,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1356",
+    "name": "TEM.SEL.D ALTA DIRECC.GEOCIENCIAS I",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1357",
+    "name": "TEM.SEL.D ALTA DIRECC.GEOCIENCIAS II",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1358",
+    "name": "TEM.SEL.DE AUTOMATIZACION I",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1359",
+    "name": "TEM.SEL.DE AUTOMATIZACION II",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1360",
+    "name": "TEM.SEL.DE AUTOMATIZACION III",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1361",
+    "name": "TEM.SEL.DE AUTOMATIZACION IV",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1362",
+    "name": "TEM.SEL.DE AUTOMATIZACION V",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1363",
+    "name": "TEM.SEL.DE BIOINGENIERIA I",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1364",
+    "name": "TEM.SEL.DE BIOINGENIERIA II",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1365",
+    "name": "TEM.SEL.DE BIOINGENIERIA III",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1366",
+    "name": "TEM.SEL.DE BIOINGENIERIA IV",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1367",
+    "name": "TEM.SEL.DE BIOINGENIERIA V",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1368",
+    "name": "TEM.SEL.DE CIBERSEGURIDAD I",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1369",
+    "name": "TEM.SEL.DE CIBERSEGURIDAD II",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1370",
+    "name": "TEM.SEL.DE CIBERSEGURIDAD III",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1371",
+    "name": "TEM.SEL.DE CIBERSEGURIDAD IV",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1372",
+    "name": "TEM.SEL.DE CIENCIAS SOCIALES I",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1373",
+    "name": "TEM.SEL.DE CIENCIAS SOCIALES II",
+    "credits": 4,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1374",
+    "name": "TEM.SEL.DE CONSTRUCCION I",
+    "credits": 4,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1375",
+    "name": "TEM.SEL.DE CONSTRUCCION II",
+    "credits": 4,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1376",
+    "name": "TEM.SEL.DE CONSTRUCCION III",
+    "credits": 4,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1377",
+    "name": "TEM.SEL.DE CONTROL I",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1378",
+    "name": "TEM.SEL.DE CONTROL II",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1379",
+    "name": "TEM.SEL.DE CONTROL III",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1380",
+    "name": "TEM.SEL.DE CONTROL IV",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1381",
+    "name": "TEM.SEL.DE CONTROL V",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1382",
+    "name": "TEM.SEL.DIRECC.CREACION EMPRESAS I",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1383",
+    "name": "TEM.SEL.DIRECC.CREACION EMPRESAS II",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1384",
+    "name": "TEM.SEL.DIRECC.CREACION EMPRESAS III",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1385",
+    "name": "TEM.SEL.DIRECC.CREACION EMPRESAS IV",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1386",
+    "name": "TEM.SEL.DIRECC.CREACION EMPRESAS V",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1387",
+    "name": "TEM.SEL.DIRECC.CREACION EMPRESAS VI",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1388",
+    "name": "TEM.SEL.DE ELECTRICA ELECTRONICA I",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1389",
+    "name": "TEM.SEL.DE ELECTRICA ELECTRONICA II",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1390",
+    "name": "TEM.SEL.DE ELECTRICA ELECTRONICA III",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1391",
+    "name": "TEM.SEL.DE ELECTRICA ELECTRONICA IV",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1392",
+    "name": "TEM.SEL.DE ELECTRICA ELECTRONICA V",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1393",
+    "name": "TEM.SEL.DE ELECTRICA ELECTRONICA VI",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1394",
+    "name": "TEM.SEL.DE ELECTROMOVILIDAD I",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1395",
+    "name": "TEM.SEL.DE ELECTROMOVILIDAD II",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1396",
+    "name": "TEM.SEL.DE ELECTROMOVILIDAD III",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1397",
+    "name": "TEM.SEL.DE ELECTROMOVILIDAD IV",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1398",
+    "name": "TEM.SEL.DE ELECTROMOVILIDAD V",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1399",
+    "name": "TEM.SEL.D ELECTRON.ALTA FRECUENC.I",
     "credits": 6,
     "has_lab": false,
     "lab": null
@@ -1679,13 +1891,6 @@
     "lab": null
   },
   {
-    "code": "1434",
-    "name": "BIOLOGIA CELULAR Y TISULAR",
-    "credits": 6,
-    "has_lab": false,
-    "lab": null
-  },
-  {
     "code": "1436",
     "name": "PROBABILIDAD",
     "credits": 8,
@@ -1701,13 +1906,6 @@
       "code": "6437",
       "name": "LAB TERMODINAMICA"
     }
-  },
-  {
-    "code": "1438",
-    "name": "TECNICAS GEOLOGICAS DE CAMPO",
-    "credits": 6,
-    "has_lab": false,
-    "lab": null
   },
   {
     "code": "1439",
@@ -1748,20 +1946,6 @@
     }
   },
   {
-    "code": "1444",
-    "name": "PROCEDIM.CONSTRUC.ELEMENT.ESTRUCTUR.",
-    "credits": 6,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "1445",
-    "name": "FUNDAMENTOS DE ESTADISTICA",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
     "code": "1446",
     "name": "ELECTROMAGNETISMO Y OPTICA",
     "credits": 10,
@@ -1788,16 +1972,6 @@
     "credits": 12,
     "has_lab": false,
     "lab": null
-  },
-  {
-    "code": "1450",
-    "name": "SISTEMAS QUIMICOS EN INGENIERIA",
-    "credits": 6,
-    "has_lab": true,
-    "lab": {
-      "code": "6450",
-      "name": "LAB SISTEMAS QUIMICOS EN ING"
-    }
   },
   {
     "code": "1451",
@@ -1934,13 +2108,6 @@
     }
   },
   {
-    "code": "1468",
-    "name": "INTRODUCCION A LA GEOFISICA",
-    "credits": 10,
-    "has_lab": false,
-    "lab": null
-  },
-  {
     "code": "1469",
     "name": "FUNDAMENTOS APLICAC.PROCES.DIGIT.SEÑ",
     "credits": 6,
@@ -1960,16 +2127,6 @@
     "credits": 10,
     "has_lab": false,
     "lab": null
-  },
-  {
-    "code": "1473",
-    "name": "SEÑALES Y SISTEMAS",
-    "credits": 8,
-    "has_lab": true,
-    "lab": {
-      "code": "6473",
-      "name": "LAB. SEÑALES Y SISTEMAS"
-    }
   },
   {
     "code": "1474",
@@ -2003,9 +2160,156 @@
     "lab": null
   },
   {
-    "code": "1503",
-    "name": "ESTRUCTURA Y PROGRAMAC.COMPUTADOR",
+    "code": "1478",
+    "name": "TEM.SEL.D ELECTRON.ALTA FRECUENC.II",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1479",
+    "name": "TEM.SEL.D ELECTRON.ALTA FRECUENC.III",
     "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1480",
+    "name": "TEM.SEL.D ELECTRON.ALTA FRECUENC.IV",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1481",
+    "name": "TEM.SEL.D ELECTRON.ALTA FRECUENC.V",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1482",
+    "name": "TEM.SEL.DE ELECTRONICA DIGITAL I",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1483",
+    "name": "TEM.SEL.DE ELECTRONICA DIGITAL II",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1484",
+    "name": "TEM.SEL.DE ELECTRONICA DIGITAL III",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1485",
+    "name": "TEM.SEL.DE ELECTRONICA DIGITAL IV",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1486",
+    "name": "TEM.SEL.DE ELECTRONICA DIGITAL V",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1487",
+    "name": "TEM.SEL.DE ESTRUCTURAS I",
+    "credits": 4,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1488",
+    "name": "TEM.SEL.DE ESTRUCTURAS II",
+    "credits": 4,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1489",
+    "name": "TEM.SEL.DE ESTRUCTURAS III",
+    "credits": 4,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1490",
+    "name": "TEM.SEL.DE EXPLORACION GEOFISICA I",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1491",
+    "name": "TEM.SEL.DE EXPLORACION GEOFISICA II",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1492",
+    "name": "TEM.SEL.DE GEOTECNIA I",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1493",
+    "name": "TEM.SEL.DE GEOTECNIA II",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1494",
+    "name": "TEM.SEL.DE GEOTECNIA III",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1495",
+    "name": "TEM.SEL.GEST.CADENA SUMINISTROS I",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1496",
+    "name": "TEM.SEL.GEST.CADENA SUMINISTROS II",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1497",
+    "name": "TEM.SEL.GEST.CADENA SUMINISTROS III",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1498",
+    "name": "TEM.SEL.GEST.CADENA SUMINISTROS IV",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "1499",
+    "name": "TEM.SEL.GEST.CADENA SUMINISTROS V",
+    "credits": 6,
     "has_lab": false,
     "lab": null
   },
@@ -2013,27 +2317,6 @@
     "code": "1506",
     "name": "GEOLOGIA",
     "credits": 9,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "1507",
-    "name": "HIDRAULICA DE CANALES",
-    "credits": 9,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "1521",
-    "name": "ELEMENTOS MEC.MEDIO CONTINUO",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "1531",
-    "name": "INGENIERIA DE SOFTWARE",
-    "credits": 8,
     "has_lab": false,
     "lab": null
   },
@@ -2047,20 +2330,6 @@
   {
     "code": "1534",
     "name": "INTRODUCCION BASE DATOS ESPACIALES",
-    "credits": 6,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "1535",
-    "name": "DISEÑO DIGITAL VLSI",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "1537",
-    "name": "FINANZAS EN  INGENIERIA  COMPUTACION",
     "credits": 6,
     "has_lab": false,
     "lab": null
@@ -2101,23 +2370,6 @@
     "lab": null
   },
   {
-    "code": "1555",
-    "name": "FUNDAMENTOS DE MECANICA MEDIO CONTIN",
-    "credits": 6,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "1562",
-    "name": "CIRCUITOS ELECTRICOS",
-    "credits": 8,
-    "has_lab": true,
-    "lab": {
-      "code": "6562",
-      "name": "LAB. CIRCUITOS ELECTRICOS"
-    }
-  },
-  {
     "code": "1569",
     "name": "ESTADISTICA",
     "credits": 8,
@@ -2135,64 +2387,8 @@
     }
   },
   {
-    "code": "1571",
-    "name": "INTRODUCC A  ANATOMIA Y FISIOLOG I",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
     "code": "1572",
     "name": "GEOLOGIA ESTRUCTURAL",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "1573",
-    "name": "GEOQUIMICA",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "1574",
-    "name": "MINERALOGIA OPTICA",
-    "credits": 9,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "1575",
-    "name": "GEOLOGIA DE CAMPO Y CARTOGRAFIA",
-    "credits": 6,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "1576",
-    "name": "GEOMORFOLOGIA",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "1577",
-    "name": "PROSPECCION GEOFISICA REGIST POZOS",
-    "credits": 9,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "1578",
-    "name": "SISTEMAS DE INFORMACION GEOGRAFICA",
-    "credits": 9,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "1579",
-    "name": "TECTONICA",
     "credits": 8,
     "has_lab": false,
     "lab": null
@@ -2212,13 +2408,6 @@
     "lab": null
   },
   {
-    "code": "1582",
-    "name": "GEOLOGIA DEL SUBSUELO",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
     "code": "1583",
     "name": "MECANICA DE ROCAS",
     "credits": 8,
@@ -2228,27 +2417,6 @@
   {
     "code": "1584",
     "name": "GEOESTADISTICA",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "1585",
-    "name": "GEOLOGIA HISTORICA",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "1586",
-    "name": "PROYECTOS DE INGENIERIA GEOLOGICA",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "1587",
-    "name": "GEOLOGIA DE MEXICO",
     "credits": 8,
     "has_lab": false,
     "lab": null
@@ -2268,16 +2436,6 @@
     "lab": null
   },
   {
-    "code": "1590",
-    "name": "COMPUTACION GRAFICA E INTERAC.HUMANO",
-    "credits": 10,
-    "has_lab": true,
-    "lab": {
-      "code": "6590",
-      "name": "LAB. COMPUTACION GRAFICA E INTERACCION HUMANO-COMPUTADORA"
-    }
-  },
-  {
     "code": "1591",
     "name": "REGISTROS GEOFISICOS EN POZOS",
     "credits": 10,
@@ -2295,61 +2453,9 @@
     }
   },
   {
-    "code": "1593",
-    "name": "ESTADISTICA ING.ELECTRICA ELECTRONIC",
-    "credits": 4,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "1594",
-    "name": "FISICA DE SEMICONDUCTORES",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "1595",
-    "name": "INGENIERIA AMBIENTAL I",
-    "credits": 6,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "1596",
-    "name": "PROGRAMACION Y PRESUPUESTACION",
-    "credits": 6,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "1598",
-    "name": "REDES DE DATOS SEGURAS",
-    "credits": 14,
-    "has_lab": true,
-    "lab": {
-      "code": "6598",
-      "name": "LAB. REDES DE DATOS SEGURAS"
-    }
-  },
-  {
     "code": "1599",
     "name": "FUNDAMENTOS DE CATASTRO",
     "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "1601",
-    "name": "COMPORTAMIENTO DE SUELOS",
-    "credits": 9,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "1608",
-    "name": "MOVIMIENTO DE TIERRAS",
-    "credits": 6,
     "has_lab": false,
     "lab": null
   },
@@ -2393,33 +2499,6 @@
     "credits": 6,
     "has_lab": false,
     "lab": null
-  },
-  {
-    "code": "1643",
-    "name": "ADMINISTRACION PROYECTOS SOFTWARE",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "1644",
-    "name": "BASES DE DATOS",
-    "credits": 14,
-    "has_lab": true,
-    "lab": {
-      "code": "6644",
-      "name": "LAB. BASES DE DATOS"
-    }
-  },
-  {
-    "code": "1645",
-    "name": "DISEÑO DIGITAL MODERNO",
-    "credits": 10,
-    "has_lab": true,
-    "lab": {
-      "code": "6645",
-      "name": "LAB. DISEÑO DIGITAL MODERNO"
-    }
   },
   {
     "code": "1646",
@@ -2471,23 +2550,6 @@
     "lab": null
   },
   {
-    "code": "1672",
-    "name": "MICROCOMPUTADORAS",
-    "credits": 8,
-    "has_lab": true,
-    "lab": {
-      "code": "6672",
-      "name": "LAB. MICROCOMPUTADORAS"
-    }
-  },
-  {
-    "code": "1677",
-    "name": "PETROLOGIA METAMORFICA",
-    "credits": 9,
-    "has_lab": false,
-    "lab": null
-  },
-  {
     "code": "1679",
     "name": "PROYECTO GEOMETRICO OBRAS INFRAEST",
     "credits": 9,
@@ -2522,13 +2584,6 @@
     "lab": null
   },
   {
-    "code": "1690",
-    "name": "PETROLOGIA IGNEA",
-    "credits": 9,
-    "has_lab": false,
-    "lab": null
-  },
-  {
     "code": "1691",
     "name": "ELECTRONICA BASICA",
     "credits": 10,
@@ -2536,95 +2591,8 @@
     "lab": null
   },
   {
-    "code": "1693",
-    "name": "INTRODUCC A  ANATOM Y FISIOLOG II",
-    "credits": 10,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "1695",
-    "name": "ANALISIS DE BIOSEÑALES",
-    "credits": 10,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "1698",
-    "name": "MEDICIONES CLINICAS",
-    "credits": 10,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "1699",
-    "name": "SISTEMAS DE MEDICION TRADUCT MEDICOS",
-    "credits": 10,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "1703",
-    "name": "ANALISIS ESTRUCTURAL",
-    "credits": 9,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "1714",
-    "name": "MECANICA DE SUELOS",
-    "credits": 9,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "1723",
-    "name": "AMPLIFICADORES ELECTRONICOS",
-    "credits": 10,
-    "has_lab": true,
-    "lab": {
-      "code": "6723",
-      "name": "LAB.  AMPLIFICADORES ELECTRONICOS"
-    }
-  },
-  {
-    "code": "1727",
-    "name": "ESTRATIGRAFIA",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "1729",
-    "name": "PETROLOGIA SEDIMENTARIA",
-    "credits": 9,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "1730",
-    "name": "HIDRAULICA MAQ.-TRANSITORIOS",
-    "credits": 9,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "1731",
-    "name": "INGENIERIA DE SISTEMAS II",
-    "credits": 9,
-    "has_lab": false,
-    "lab": null
-  },
-  {
     "code": "1734",
     "name": "INGENIERIA ECONOMICA",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "1747",
-    "name": "INVESTIGACION DE OPERACIONES II",
     "credits": 8,
     "has_lab": false,
     "lab": null
@@ -2651,33 +2619,6 @@
     "lab": null
   },
   {
-    "code": "1756",
-    "name": "MECANICA DE FLUIDOS II",
-    "credits": 10,
-    "has_lab": true,
-    "lab": {
-      "code": "6756",
-      "name": "LAB. MECANICA DE FLUIDOS II"
-    }
-  },
-  {
-    "code": "1760",
-    "name": "ADMINISTRACION EN INGENIERIA",
-    "credits": 6,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "1765",
-    "name": "DISPOSITIVOS DE ALMACENAMIENTO E S",
-    "credits": 8,
-    "has_lab": true,
-    "lab": {
-      "code": "6765",
-      "name": "LAB. DISPOSITIVOS DE ALMACENAMIENTO E/S"
-    }
-  },
-  {
     "code": "1773",
     "name": "ANTENAS",
     "credits": 8,
@@ -2698,29 +2639,8 @@
     }
   },
   {
-    "code": "1778",
-    "name": "MECANICA DEL CUERPO HUMANO",
-    "credits": 10,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "1779",
-    "name": "PSICOLOGIA MEDICA",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
     "code": "1780",
     "name": "ACUSTICA Y OPTICA",
-    "credits": 10,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "1781",
-    "name": "BIOTERMOFLUIDOS I",
     "credits": 10,
     "has_lab": false,
     "lab": null
@@ -2729,34 +2649,6 @@
     "code": "1782",
     "name": "DISEÑO DE ELEMENTOS DE MAQUINAS",
     "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "1783",
-    "name": "ERGONOMIA",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "1784",
-    "name": "ESTADISTICA APLICADA",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "1786",
-    "name": "PLANEACION Y CONTROL DE RECURS HOSP",
-    "credits": 10,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "1787",
-    "name": "AMPLIF Y FILTRAD SEÑALES MEDICAS",
-    "credits": 10,
     "has_lab": false,
     "lab": null
   },
@@ -2817,61 +2709,9 @@
     "lab": null
   },
   {
-    "code": "1797",
-    "name": "TEMAS SELEC INGEN SIST BIOMED I",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "1798",
-    "name": "TEMAS SELEC INGEN SIST BIOMED II",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "1799",
-    "name": "TEMAS SELEC INGEN SIST BIOMED III",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "1807",
-    "name": "INSTRUMENTACION Y CONTROL",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "1822",
-    "name": "CIRCUITOS INTEGRADOS ANALOGICOS",
-    "credits": 10,
-    "has_lab": true,
-    "lab": {
-      "code": "6822",
-      "name": "LAB. CIRCUITOS INTEGRADOS ANALOGICOS"
-    }
-  },
-  {
-    "code": "1850",
-    "name": "METALOGENIA",
-    "credits": 9,
-    "has_lab": false,
-    "lab": null
-  },
-  {
     "code": "1854",
     "name": "PROYECTO GEOMATICO",
     "credits": 6,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "1858",
-    "name": "FUNDAMENTOS SISTEMAS EMBEBIDOS",
-    "credits": 8,
     "has_lab": false,
     "lab": null
   },
@@ -2889,33 +2729,6 @@
     "code": "1861",
     "name": "ADMON.SEGUR.INDUSTR.PROTEC.AMBIENT.",
     "credits": 6,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "1866",
-    "name": "ADMINISTRACION DE REDES",
-    "credits": 8,
-    "has_lab": true,
-    "lab": {
-      "code": "6866",
-      "name": "LAB. ADMINISTRACION DE REDES"
-    }
-  },
-  {
-    "code": "1867",
-    "name": "ORGANIZACION Y ARQUITEC.COMPUTADORA",
-    "credits": 8,
-    "has_lab": true,
-    "lab": {
-      "code": "6867",
-      "name": "LAB. ORGANIZACION Y ARQUITECTURA DE COMPUTADORAS"
-    }
-  },
-  {
-    "code": "1871",
-    "name": "GEOLOGIA APLICADA A LA MINERIA",
-    "credits": 9,
     "has_lab": false,
     "lab": null
   },
@@ -2954,70 +2767,11 @@
     "lab": null
   },
   {
-    "code": "1895",
-    "name": "ASPECT LEGALES ORGAN ATN MEDICA",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "1896",
-    "name": "INSTALACIONES HOSPITALARIAS",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "1897",
-    "name": "TEMAS SELEC INGEN SIST BIOMED IV",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "1898",
-    "name": "TEMAS SELEC INGEN SIST BIOMED V",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "1899",
-    "name": "TEMAS SELEC INGEN SIST BIOMED VI",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "1916",
-    "name": "PROCESAMIENTO DIGITAL IMAGEN",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
     "code": "1918",
     "name": "PROCESOS INDUSTRIALES",
     "credits": 8,
     "has_lab": false,
     "lab": null
-  },
-  {
-    "code": "1935",
-    "name": "TRATAMIENTO AGUAS RESIDUALES",
-    "credits": 9,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "1936",
-    "name": "SISTEMAS ELECTRICOS POTEN.I",
-    "credits": 10,
-    "has_lab": true,
-    "lab": {
-      "code": "6936",
-      "name": "LAB. SISTEMAS ELECTRICOS DE POTENCIA I"
-    }
   },
   {
     "code": "1937",
@@ -3051,13 +2805,6 @@
     "lab": null
   },
   {
-    "code": "1959",
-    "name": "SISTEMAS DISTRIBUIDOS",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
     "code": "1960",
     "name": "PRACTICAS PROFESIONALES",
     "credits": 6,
@@ -3082,27 +2829,6 @@
     "code": "1974",
     "name": "REDES INALAMBRICAS Y MOVILES",
     "credits": 6,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "1976",
-    "name": "ESTANCIA",
-    "credits": 20,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "1977",
-    "name": "TEMAS SELEC INGEN SIST BIOMED VII",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "1978",
-    "name": "TEMAS SELEC AREA MEDICO BIOLOGICA",
-    "credits": 8,
     "has_lab": false,
     "lab": null
   },
@@ -3226,71 +2952,6 @@
     "lab": null
   },
   {
-    "code": "1997",
-    "name": "FUNDAMENTOS DE CONTROL",
-    "credits": 10,
-    "has_lab": true,
-    "lab": {
-      "code": "6997",
-      "name": "LAB. FUNDAMENTOS DE CONTROL"
-    }
-  },
-  {
-    "code": "1998",
-    "name": "MAQUINAS ELECTRICAS I",
-    "credits": 10,
-    "has_lab": true,
-    "lab": {
-      "code": "6998",
-      "name": "LAB. MAQUINAS ELECTRICAS I"
-    }
-  },
-  {
-    "code": "1999",
-    "name": "SISTEMAS DE COMUNICACIONES ELECTRONI",
-    "credits": 10,
-    "has_lab": true,
-    "lab": {
-      "code": "6999",
-      "name": "LAB. SISTEMAS DE COMUNICACIONES ELECTRONICAS"
-    }
-  },
-  {
-    "code": "2003",
-    "name": "SISTEMAS DE DISTRIBUCION",
-    "credits": 6,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "2004",
-    "name": "SISTEMAS DE TRANSPORTE ELECTRICO",
-    "credits": 6,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "2006",
-    "name": "TEM.SEL.DE ELECTRONICA",
-    "credits": 6,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "2008",
-    "name": "TEM.SEL.DE INGENIERIA ELECTRICA",
-    "credits": 6,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "2009",
-    "name": "TEM.SEL.DE SISTEMAS ENERGETICOS",
-    "credits": 6,
-    "has_lab": false,
-    "lab": null
-  },
-  {
     "code": "2011",
     "name": "PERFORACION POZOS AGUAS PROFUNDAS",
     "credits": 8,
@@ -3315,13 +2976,6 @@
     "code": "2055",
     "name": "RADIODIFUSION",
     "credits": 6,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "2061",
-    "name": "HIDRAULICA URBANA",
-    "credits": 9,
     "has_lab": false,
     "lab": null
   },
@@ -3354,13 +3008,6 @@
     "lab": null
   },
   {
-    "code": "2074",
-    "name": "DISEÑO DE SISTEMAS TERMICOS",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
     "code": "2077",
     "name": "TEMAS SELECTOS DE TERMOFLUIDOS I",
     "credits": 8,
@@ -3371,13 +3018,6 @@
     "code": "2078",
     "name": "TEMAS SELECTOS DE TERMOFLUIDOS II",
     "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "2079",
-    "name": "BIOMATERIALES",
-    "credits": 10,
     "has_lab": false,
     "lab": null
   },
@@ -3396,71 +3036,8 @@
     "lab": null
   },
   {
-    "code": "2082",
-    "name": "EXPLORACION GEOTERMICA",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "2083",
-    "name": "EXPLORACION Y EVALUAC AGUAS SUBTERR",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "2084",
-    "name": "GEOLOGIA MARINA",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "2085",
-    "name": "GEOLOGIA URBANA",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "2086",
-    "name": "GEOMECANICA",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "2087",
-    "name": "GEOQUIMICA ORGANICA",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
     "code": "2088",
     "name": "GEOTECNIA DE EXCAVACION",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "2089",
-    "name": "HIDROGEOLOGIA DE CONTAMINANTES",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "2090",
-    "name": "MECANICA DE SUELOS CIENCIAS DE TIERR",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "2091",
-    "name": "MODELACION NUMERICA ING GEOLOGICA",
     "credits": 8,
     "has_lab": false,
     "lab": null
@@ -3473,58 +3050,9 @@
     "lab": null
   },
   {
-    "code": "2093",
-    "name": "PALEONTOLOGIA ESTRATIGRAFICA",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "2094",
-    "name": "PETROFISICA Y REGIST GEOFISIC POZOS",
-    "credits": 10,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "2095",
-    "name": "RIESGO GEOLOGICO",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "2096",
-    "name": "TEMAS SELEC INGEN GEOLOGICA I",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "2097",
-    "name": "TEMAS SELEC INGEN GEOLOGICA II",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "2098",
-    "name": "TEMAS SELEC INGEN GEOLOGICA III",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
     "code": "2099",
     "name": "YACIMIENT MINERALS TECNIC ANALITICAS",
     "credits": 9,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "2103",
-    "name": "CALIDAD",
-    "credits": 8,
     "has_lab": false,
     "lab": null
   },
@@ -3543,9 +3071,72 @@
     "lab": null
   },
   {
-    "code": "2156",
-    "name": "EVALUACION DE PROYECTOS",
+    "code": "2190",
+    "name": "TEM.SEL.GEST.CADENA SUMINISTROS VI",
     "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2191",
+    "name": "TEM.SEL.DE HIDRAULICA I",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2192",
+    "name": "TEM.SEL.DE HIDRAULICA II",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2193",
+    "name": "TEM.SEL.DE HIDRAULICA III",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2194",
+    "name": "TEM.SEL.DE HUMANIDADES I",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2195",
+    "name": "TEM.SEL.DE HUMANIDADES II",
+    "credits": 4,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2196",
+    "name": "TEM.SEL.DE INGENIERIA DE DATOS I",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2197",
+    "name": "TEM.SEL.DE INGENIERIA DE DATOS II",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2198",
+    "name": "TEM.SEL.DE INGENIERIA DE DATOS III",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2199",
+    "name": "TEM.SEL.INGENIERIA DE DISEÑO I",
+    "credits": 8,
     "has_lab": false,
     "lab": null
   },
@@ -3634,9 +3225,583 @@
     "lab": null
   },
   {
-    "code": "2212",
-    "name": "INTRODUCCION A LA INGENIERIA MECANIC",
+    "code": "2213",
+    "name": "TEM.SEL.INGENIERIA DE DISEÑO II",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2214",
+    "name": "TEM.SEL.INGENIERIA DE DISEÑO III",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2215",
+    "name": "TEM.SEL.INGENIERIA DE DISEÑO IV",
     "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2216",
+    "name": "TEM.SEL.INGENIERIA DE DISEÑO V",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2217",
+    "name": "TEM.SEL.DE SISTEMAS I",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2218",
+    "name": "TEM.SEL.DE SISTEMAS II",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2219",
+    "name": "TEM.SEL.DE SISTEMAS III",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2220",
+    "name": "TEM.SEL.DE INGENIERIA D SOFTWARE I",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2221",
+    "name": "TEM.SEL.DE INGENIERIA D SOFTWARE II",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2222",
+    "name": "TEM.SEL.DE INGENIERIA D SOFTWARE III",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2223",
+    "name": "TEM.SEL.DE INGENIERIA D SOFTWARE IV",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2224",
+    "name": "TEM.SEL.DE ING.EN COMPUTACION I",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2225",
+    "name": "TEM.SEL.DE ING.EN COMPUTACION II",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2226",
+    "name": "TEM.SEL.DE ING.EN COMPUTACION III",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2228",
+    "name": "TEM.SEL.DE ING.MATERIA.MANUFACT. I",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2229",
+    "name": "TEM.SEL.DE ING.MATERIA.MANUFACT. II",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2230",
+    "name": "TEM.SEL.DE ING.MATERIA.MANUFACT. III",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2231",
+    "name": "TEM.SEL.DE ING.MATERIA.MANUFACT. IV",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2232",
+    "name": "TEM.SEL.DE ING.MATERIA.MANUFACT. V",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2233",
+    "name": "TEM.SEL.DE INGENIERIA GEOFISICA I",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2234",
+    "name": "TEM.SEL.DE INGENIERIA GEOFISICA II",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2235",
+    "name": "TEM.SEL.DE INGENIERIA GEOLOGICA I",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2236",
+    "name": "TEM.SEL.DE INGENIERIA GEOLOGICA II",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2237",
+    "name": "TEM.SEL.DE INGENIERIA GEOLOGICA III",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2238",
+    "name": "TEM.SEL.DE INGENIERIA GEOLOGICA IV",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2239",
+    "name": "TEM.SEL.DE INGENIERIA GEOLOGICA V",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2240",
+    "name": "TEM.SEL.DE INGENIERIA GEOLOGICA VI",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2241",
+    "name": "TEM.SEL.DE ING.SANITARIA-AMBIENT I",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2242",
+    "name": "TEM.SEL.DE ING.SANITARIA-AMBIENT II",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2243",
+    "name": "TEM.SEL.DE ING.SANITARIA-AMBIENT III",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2244",
+    "name": "TEM.SEL.DE ING.SISMOLOGICA I",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2245",
+    "name": "TEM.SEL.DE ING.SISMOLOGICA II",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2246",
+    "name": "TEM.SEL.DE ING.SISMOLOGICA III",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2247",
+    "name": "TEM.SEL.DE INTELIGENC.ARTIFICIAL I",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2248",
+    "name": "TEM.SEL.DE INTELIGENC.ARTIFICIAL II",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2249",
+    "name": "TEM.SEL.DE INTELIGENC.ARTIFICIAL III",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2250",
+    "name": "TEM.SEL.PRODUCCION MANUFACTURA I",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2251",
+    "name": "TEM.SEL.PRODUCCION MANUFACTURA II",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2252",
+    "name": "TEM.SEL.PRODUCCION MANUFACTURA III",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2253",
+    "name": "TEM.SEL.PRODUCCION MANUFACTURA IV",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2254",
+    "name": "TEM.SEL.PRODUCCION MANUFACTURA V",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2255",
+    "name": "TEM.SEL.PRODUCCION MANUFACTURA VI",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2256",
+    "name": "TEM.SEL.PRODUC.UTILIZAC.ENERGIA I",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2257",
+    "name": "TEM.SEL.PRODUC.UTILIZAC.ENERGIA II",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2258",
+    "name": "TEM.SEL.PRODUC.UTILIZAC.ENERGIA III",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2259",
+    "name": "TEM.SEL.PRODUC.UTILIZAC.ENERGIA IV",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2260",
+    "name": "TEM.SEL.PRODUC.UTILIZAC.ENERGIA V",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2261",
+    "name": "TEM.SEL.PROYECTOS ING.GEOLOGICA I",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2262",
+    "name": "TEM.SEL.PROYECTOS ING.GEOLOGICA II",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2263",
+    "name": "TEM.SEL.PROYECTOS ING.GEOLOGICA III",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2264",
+    "name": "TEM.SEL.PROYECTOS ING.GEOLOGICA IV",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2265",
+    "name": "TEM.SEL.DE REDES ELECTRICAS I",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2266",
+    "name": "TEM.SEL.DE REDES ELECTRICAS II",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2267",
+    "name": "TEM.SEL.DE REDES ELECTRICAS III",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2268",
+    "name": "TEM.SEL.DE REDES ELECTRICAS IV",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2269",
+    "name": "TEM.SEL.DE REDES ELECTRICAS V",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2270",
+    "name": "TEM.SEL.D SEÑALES SISTEM.INTELIG.I",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2271",
+    "name": "TEM.SEL.D SEÑALES SISTEM.INTELIG.II",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2272",
+    "name": "TEM.SEL.D SEÑALES SISTEM.INTELIG.III",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2273",
+    "name": "TEM.SEL.D SEÑALES SISTEM.INTELIG.IV",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2274",
+    "name": "TEM.SEL.D SEÑALES SISTEM.INTELIG.V",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2275",
+    "name": "TEM.SEL.DE SISTEMAS DIGITALES I",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2276",
+    "name": "TEM.SEL.DE SISTEMAS DIGITALES II",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2277",
+    "name": "TEM.SEL.DE SISTEMAS DIGITALES III",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2278",
+    "name": "TEM.SEL.DE SISTEMAS DIGITALES IV",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2279",
+    "name": "TEM.SEL.DE SISTEMAS DIGITALES V",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2280",
+    "name": "TEM.SEL.DE SISTEMAS ELECTRON. I",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2281",
+    "name": "TEM.SEL.DE SISTEMAS ELECTRON. II",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2282",
+    "name": "TEM.SEL.DE SISTEMAS ELECTRON. III",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2283",
+    "name": "TEM.SEL.DE SISTEMAS ELECTRON. IV",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2284",
+    "name": "TEM.SEL.DE SISTEMAS ELECTRON. V",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2285",
+    "name": "TEM.SEL.DE SISTEMAS ENERGETICOS I",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2286",
+    "name": "TEM.SEL.DE SISTEMAS ENERGETICOS II",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2287",
+    "name": "TEM.SEL.DE SISTEMAS ENERGETICOS III",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2288",
+    "name": "TEM.SEL.DE SISTEMAS ENERGETICOS IV",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2289",
+    "name": "TEM.SEL.DE SISTEMAS ENERGETICOS V",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2290",
+    "name": "TEM.SEL.DE TERMOFLUIDOS I",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2291",
+    "name": "TEM.SEL.DE TERMOFLUIDOS II",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2292",
+    "name": "TEM.SEL.DE TERMOFLUIDOS III",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2293",
+    "name": "TEM.SEL.DE TERMOFLUIDOS IV",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2294",
+    "name": "TEM.SEL.DE TERMOFLUIDOS V",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2296",
+    "name": "VIBRACIONES MECANICAS",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2297",
+    "name": "VISION COMPUTACIONAL",
+    "credits": 8,
     "has_lab": false,
     "lab": null
   },
@@ -3753,46 +3918,120 @@
     "lab": null
   },
   {
-    "code": "2400",
-    "name": "MATERIALES I",
-    "credits": 10,
+    "code": "2316",
+    "name": "TEM.SEL.ING.SISTEM.BIOMEDICOS I",
+    "credits": 6,
     "has_lab": false,
     "lab": null
   },
   {
-    "code": "2500",
-    "name": "MATERIALES II",
-    "credits": 10,
-    "has_lab": true,
-    "lab": {
-      "code": "7500",
-      "name": "LAB MATERIALES II"
-    }
+    "code": "2317",
+    "name": "TEM.SEL.ING.SISTEM.BIOMEDICOS II",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
   },
   {
-    "code": "2501",
-    "name": "SISTEMAS DE CONVERSION ENERG.TERMICA",
-    "credits": 2,
+    "code": "2318",
+    "name": "TEM.SEL.ING.SISTEM.BIOMEDICOS III",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2319",
+    "name": "TEM.SEL.ING.SISTEM.BIOMEDICOS IV",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2320",
+    "name": "TEM.SEL.ING.SISTEM.BIOMEDICOS V",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2321",
+    "name": "TEM.SEL.ING.SISTEM.BIOMEDICOS VI",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2322",
+    "name": "TEM.SEL.ING.SISTEM.BIOMEDICOS VII",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2323",
+    "name": "TEM.SEL.ING.SISTEM.BIOMEDICOS VIII",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2324",
+    "name": "TEM.SEL.ING.SISTEM.BIOMEDICOS IX",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2325",
+    "name": "TEM.SEL.ING.SISTEM.BIOMEDICOS X",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2326",
+    "name": "TEM.SEL.ING.SISTEM.BIOMEDICOS XI",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2327",
+    "name": "TEM.SEL.ING.SISTEM.BIOMEDICOS XII",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2328",
+    "name": "TEM.SEL.AREA MEDICO-BIOLOGICA I",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2329",
+    "name": "TEM.SEL.AREA MEDICO-BIOLOGICA II",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2330",
+    "name": "TEMAS SELECTOS I",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "2331",
+    "name": "TEMAS SELECTOS II",
+    "credits": 8,
     "has_lab": false,
     "lab": null
   },
   {
     "code": "2502",
     "name": "MECANICA DE FLUIDOS PARA ING.AMBIENT",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "2503",
-    "name": "TEORIA DEL POTENCIAL APLIC.GEOFISICA",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "2504",
-    "name": "VARIABLE COMPLEJA APLIC.GEOFISICA",
     "credits": 8,
     "has_lab": false,
     "lab": null
@@ -3805,53 +4044,8 @@
     "lab": null
   },
   {
-    "code": "2600",
-    "name": "ESTADISTICA APLICADA A ING. CIVIL",
-    "credits": 6,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "2601",
-    "name": "INGENIERIA AMBIENTAL II",
-    "credits": 6,
-    "has_lab": false,
-    "lab": null
-  },
-  {
     "code": "2602",
     "name": "CONTABILIDAD F INANCIERA Y DE COSTOS",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "2603",
-    "name": "MANUFACTURA II",
-    "credits": 10,
-    "has_lab": true,
-    "lab": {
-      "code": "7603",
-      "name": "LABORATORIO DE MANUFACTURA II"
-    }
-  },
-  {
-    "code": "2605",
-    "name": "ANALISIS ESPECTRAL DE SEÑALES",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "2606",
-    "name": "FISICA DE LAS ONDAS",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "2607",
-    "name": "FUNDAMENTOS DE TEORIA ELECTROMAGNET",
     "credits": 8,
     "has_lab": false,
     "lab": null
@@ -3906,13 +4100,6 @@
     "lab": null
   },
   {
-    "code": "2700",
-    "name": "TEMAS ESP. DE SISTEMAS I",
-    "credits": 6,
-    "has_lab": false,
-    "lab": null
-  },
-  {
     "code": "2701",
     "name": "EXPLOTACION DE MINAS SUBTERRANEAS",
     "credits": 8,
@@ -3959,27 +4146,6 @@
       "code": "7706",
       "name": "LAB. TRANSMISORES Y RECEPTORES"
     }
-  },
-  {
-    "code": "2707",
-    "name": "INTRODUCCION DISEÑO FILTROS DIGITALE",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "2708",
-    "name": "PROSPECCION GRAVIMETRICA-MAGNETOMETR",
-    "credits": 10,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "2709",
-    "name": "PROSPECCION SISMICA I",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
   },
   {
     "code": "2710",
@@ -4029,27 +4195,6 @@
   {
     "code": "2800",
     "name": "ALCANTARILLADO SANITARIO-PLUVIAL",
-    "credits": 6,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "2801",
-    "name": "DIMENSIONAM.ELEMENTOS ESTRUCTURALES",
-    "credits": 6,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "2802",
-    "name": "AHORRO DE ENERGIA",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "2803",
-    "name": "INGENIERIA DE TRANSITO",
     "credits": 6,
     "has_lab": false,
     "lab": null
@@ -4130,27 +4275,6 @@
   {
     "code": "2814",
     "name": "TECNOLOGIAS E INTERCONEXION DE REDES",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "2815",
-    "name": "INTRODUCCION AL TRATAMIENTO  SEÑALES",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "2816",
-    "name": "PROSPECCION ELECTRICA",
-    "credits": 10,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "2817",
-    "name": "PROSPECCION SISMICA II",
     "credits": 8,
     "has_lab": false,
     "lab": null
@@ -4257,79 +4381,11 @@
     "lab": null
   },
   {
-    "code": "2900",
-    "name": "MAQUINAS ELECTRICAS II",
-    "credits": 10,
-    "has_lab": true,
-    "lab": {
-      "code": "7900",
-      "name": "LAB. MAQUINAS ELECTRICAS II"
-    }
-  },
-  {
     "code": "2901",
     "name": "PROCESAMIENTO DIGITAL DE SEÑALES",
     "credits": 8,
     "has_lab": false,
     "lab": null
-  },
-  {
-    "code": "2902",
-    "name": "SISTEMAS EMBEBIDOS INSTRUM.CONTROL",
-    "credits": 8,
-    "has_lab": true,
-    "lab": {
-      "code": "7902",
-      "name": "LAB. SISTEMAS EMBEBIDOS EN INSTRUMENTACION Y CONTROL"
-    }
-  },
-  {
-    "code": "2903",
-    "name": "TEMAS SEL.DE CONTROL Y ROBOTICA",
-    "credits": 6,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "2904",
-    "name": "FISIOLOGIA SISTEMAS HOMEOSTATICOS",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "2905",
-    "name": "FISIOLOGIA SISTEMA ENDOCRINO-NERVIOS",
-    "credits": 8,
-    "has_lab": true,
-    "lab": {
-      "code": "7905",
-      "name": "LABORATORIO FISIOLOGIA DEL SISTEMA ENDOCRINO Y NERVIOSO"
-    }
-  },
-  {
-    "code": "2906",
-    "name": "INGENIERIA CLINICA",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "2907",
-    "name": "MAQUINAS ELECTRICAS III",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "2908",
-    "name": "SISTEMAS ELECTRICOS DE POTENCIA II",
-    "credits": 10,
-    "has_lab": true,
-    "lab": {
-      "code": "7908",
-      "name": "LAB. SISTEMAS ELECTRICOS DE POTENCIA II"
-    }
   },
   {
     "code": "2909",
@@ -4342,75 +4398,6 @@
     }
   },
   {
-    "code": "2910",
-    "name": "CONTROLADORES INDUSTRIALES PROGRAM.",
-    "credits": 8,
-    "has_lab": true,
-    "lab": {
-      "code": "7910",
-      "name": "LAB CONTROLADORES INDUSTRIALES PROGRAMABLES"
-    }
-  },
-  {
-    "code": "2911",
-    "name": "ROBOTICA INDUSTRIAL",
-    "credits": 8,
-    "has_lab": true,
-    "lab": {
-      "code": "7911",
-      "name": "LAB. ROBOTICA INDUSTRIAL"
-    }
-  },
-  {
-    "code": "2912",
-    "name": "INTRODUCCION A SISTEMAS ENERGETICOS",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "2913",
-    "name": "INGENIERIA DEL TRANSPORTE I",
-    "credits": 6,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "2914",
-    "name": "SISTEMAS DE CONTROL",
-    "credits": 10,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "2915",
-    "name": "INGENIERIA DEL TRANSPORTE II",
-    "credits": 6,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "2916",
-    "name": "INTEGRACION DE PROYECTOS",
-    "credits": 4,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "2917",
-    "name": "PRACTICAS PROFESIONAL.ING.INDUSTRIAL",
-    "credits": 12,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "2919",
-    "name": "ANALISIS Y MEJORA DE PROCESOS",
-    "credits": 6,
-    "has_lab": false,
-    "lab": null
-  },
-  {
     "code": "2920",
     "name": "DIRECCION DE PROYECTOS",
     "credits": 6,
@@ -4418,106 +4405,9 @@
     "lab": null
   },
   {
-    "code": "2921",
-    "name": "SIMULACION",
-    "credits": 6,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "2922",
-    "name": "ANALISIS POR ELEMENTOS FINITOS",
-    "credits": 10,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "2923",
-    "name": "INGENIERIA ASISTIDA POR COMPUTADORA",
-    "credits": 10,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "2924",
-    "name": "MANUFACTURA III",
-    "credits": 10,
-    "has_lab": true,
-    "lab": {
-      "code": "7924",
-      "name": "LAB. MANUFACTURA III"
-    }
-  },
-  {
-    "code": "2925",
-    "name": "MATERIALES III",
-    "credits": 10,
-    "has_lab": true,
-    "lab": {
-      "code": "7925",
-      "name": "LAB. MATERIALES III"
-    }
-  },
-  {
     "code": "2926",
     "name": "SISTEMAS TERMOENERGETICOS",
     "credits": 6,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "2927",
-    "name": "SISTEMAS EMBEBIDOS AVANZADOS",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "2928",
-    "name": "ADMINISTRACION DE PROYECTOS TIC",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "2929",
-    "name": "BASES DE DATOS AVANZADAS",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "2930",
-    "name": "CRIPTOGRAFIA",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "2931",
-    "name": "NEGOCIOS ELECTRON.Y DESARR.DE WEB",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "2932",
-    "name": "ANALIS.PROCESAM.INTELIGEN.DE TEXTOS",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "2933",
-    "name": "MINERIA DE DATOS",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "2934",
-    "name": "SEGURIDAD INFORMATICA BASICA",
-    "credits": 8,
     "has_lab": false,
     "lab": null
   },
@@ -4578,111 +4468,6 @@
     "lab": null
   },
   {
-    "code": "2944",
-    "name": "ADMON.CENTROS TECNOLOGIA INFORMACIO",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "2945",
-    "name": "ADMON.SERVICIOS DE INTERNET",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "2946",
-    "name": "ARQUITECTURA CLIENTE-SERVIDOR",
-    "credits": 6,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "2947",
-    "name": "BASES DE DATOS DISTRIBUIDAS",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "2948",
-    "name": "COMPUTACION GRAFICA AVANZADA",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "2949",
-    "name": "FISICA CUANTICA",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "2950",
-    "name": "PROCESAMIENTO DE LENGUAJE NATURAL",
-    "credits": 6,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "2951",
-    "name": "PROGRAMACION MASIVA  ARQ.UNIFICADA",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "2952",
-    "name": "PROYECTO INVEST. ING. EN COMPUTACION",
-    "credits": 6,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "2953",
-    "name": "ROBOTS MOVILES",
-    "credits": 6,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "2954",
-    "name": "SEGURIDAD INFORMATICA AVANZADA",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "2955",
-    "name": "SEMINARIO TITULACION ING. EN COMPUT.",
-    "credits": 6,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "2956",
-    "name": "TEMAS SEL. DE ING. EN COMPUTACION I",
-    "credits": 6,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "2957",
-    "name": "TEMAS SEL. DE ING. EN COMPUTACION II",
-    "credits": 6,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "2958",
-    "name": "TEMAS SEL. DE ING.EN COMPUTACION III",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
     "code": "2959",
     "name": "ANALISIS EVALUCION PROYECTOS INVERS.",
     "credits": 8,
@@ -4728,34 +4513,6 @@
     "code": "2965",
     "name": "DISEÑO DE OPERACIONES MINERAS",
     "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "2966",
-    "name": "INVERSION DE DATOS GEOFISICOS",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "2967",
-    "name": "PROSPECCION EECTROMAGNETICA",
-    "credits": 10,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "2968",
-    "name": "GEOFISICA INTEGRAL",
-    "credits": 10,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "2969",
-    "name": "PROCESAMIENTO DE DATOS GEOFISICOS",
-    "credits": 10,
     "has_lab": false,
     "lab": null
   },
@@ -4844,37 +4601,6 @@
     "lab": null
   },
   {
-    "code": "3001",
-    "name": "PROYECTO DE INVEST.ING.ELECTRIC-ELEC",
-    "credits": 6,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "3002",
-    "name": "SISTEMAS ELECTRONICOS",
-    "credits": 8,
-    "has_lab": true,
-    "lab": {
-      "code": "8002",
-      "name": "LAB. SISTEMAS ELECTRONICOS"
-    }
-  },
-  {
-    "code": "3003",
-    "name": "SISTEMAS OPERATIVOS EN TIEMPO REAL",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "3006",
-    "name": "SEGURIDAD E INSTALACIONES HOSPITALAR",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
     "code": "3007",
     "name": "TEMAS SEL. DE INGENIERIA BIOMEDICA",
     "credits": 6,
@@ -4889,48 +4615,6 @@
     "lab": null
   },
   {
-    "code": "3009",
-    "name": "FUNDAMENTOS DE INGENIERIA NUCLEAR",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "3010",
-    "name": "HERRAM.COMPUTAC.OPTIMZ.SIST.ENERGET.",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "3011",
-    "name": "INGENIERIA DE REACTORES NUCLEARES",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "3012",
-    "name": "INTRODUCCIONA A CONVERSION D ENERGIA",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "3013",
-    "name": "INTRODUCC. A FISICA DE REACT.NUCLEAR",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "3014",
-    "name": "INTRODUCC.AHORRO GESTION ENERGETICA",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
     "code": "3015",
     "name": "INTRODUCC.ANALISIS PROBAB.SEGURIDAD",
     "credits": 8,
@@ -4938,50 +4622,8 @@
     "lab": null
   },
   {
-    "code": "3016",
-    "name": "PLANEACION DE SISTEMAS GENERAC.ELECT",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "3017",
-    "name": "PLANEACION E INSTALAC.SISTEM.BIOENER",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "3019",
-    "name": "SEGURIDAD DE REACTORES NUCLEARES",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "3020",
-    "name": "CREATIVIDAD E INNOVACION",
-    "credits": 6,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "3021",
-    "name": "METODOLOGIA PARA LA PLANEACION",
-    "credits": 6,
-    "has_lab": false,
-    "lab": null
-  },
-  {
     "code": "3022",
     "name": "RELACIONES LABORALES Y ORGANIZACION.",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "3023",
-    "name": "USO EFICIENTE EQUIPO DE SERVICIOS",
     "credits": 8,
     "has_lab": false,
     "lab": null
@@ -5001,170 +4643,9 @@
     "lab": null
   },
   {
-    "code": "3027",
-    "name": "SEGURIDAD Y PRODUCTIV.EN LAS OBRAS",
-    "credits": 6,
-    "has_lab": false,
-    "lab": null
-  },
-  {
     "code": "3028",
     "name": "SUPERVISION DE OBRAS",
     "credits": 6,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "3029",
-    "name": "TEMAS ESP. DE CONSTRUCCION I",
-    "credits": 6,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "3030",
-    "name": "TEMAS ESP. DE CONSTRUCCION II",
-    "credits": 9,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "3031",
-    "name": "ESTRUCTURAS DE ACERO",
-    "credits": 9,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "3032",
-    "name": "ESTRUCTURAS DE MAMPOSTERIA",
-    "credits": 6,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "3033",
-    "name": "INGENIERIA SISMICA",
-    "credits": 6,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "3034",
-    "name": "PUENTES",
-    "credits": 9,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "3035",
-    "name": "TEMAS ESP. DE ESTRUCTURAS I",
-    "credits": 6,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "3036",
-    "name": "TEMAS ESP. DE ESTRUCTURAS II",
-    "credits": 9,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "3037",
-    "name": "BORDOS Y PRESAS",
-    "credits": 9,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "3038",
-    "name": "DINAMICA DE SUELOS",
-    "credits": 6,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "3039",
-    "name": "ESTRUCTURA DE PAVIMENTOS",
-    "credits": 6,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "3040",
-    "name": "FUNDAMENTOS DE MECANICA DE ROCAS",
-    "credits": 6,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "3041",
-    "name": "MECANICA DE SUELOS APLICADA",
-    "credits": 9,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "3042",
-    "name": "TEMAS ESP. DE GEOTECNIA I",
-    "credits": 6,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "3043",
-    "name": "TEMAS ESP. DE GEOTECNIA II",
-    "credits": 9,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "3044",
-    "name": "AGUA SUBTERRANEA",
-    "credits": 9,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "3045",
-    "name": "DISEÑO HIDRAUL. ESTRUCT.RIEGO X GRAV",
-    "credits": 6,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "3046",
-    "name": "HIDRAULICA DE RIOS",
-    "credits": 6,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "3047",
-    "name": "INGENIERIA DE COSTAS",
-    "credits": 6,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "3048",
-    "name": "MODELACION COMPUTACIONAL HIDRAULICA",
-    "credits": 6,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "3049",
-    "name": "TEMAS ESP. DE HIDRAULICA I",
-    "credits": 6,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "3050",
-    "name": "TEMAS ESP. DE HIDRAULICA II",
-    "credits": 9,
     "has_lab": false,
     "lab": null
   },
@@ -5190,72 +4671,9 @@
     "lab": null
   },
   {
-    "code": "3054",
-    "name": "PLANTAS DE TRATAM. AGUA CONSUMO HUM",
-    "credits": 6,
-    "has_lab": false,
-    "lab": null
-  },
-  {
     "code": "3055",
     "name": "PROYECTOS SUSTENTABLES DE INGENIERIA",
     "credits": 6,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "3056",
-    "name": "TEMAS ESP. DE AMBIENTAL I",
-    "credits": 6,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "3057",
-    "name": "TEMAS ESP. DE AMBIENTAL II",
-    "credits": 9,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "3058",
-    "name": "AEROPUERTOS",
-    "credits": 9,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "3059",
-    "name": "CARRETERAS",
-    "credits": 9,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "3060",
-    "name": "CREATIVIDAD PARA INGENIEROS",
-    "credits": 6,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "3061",
-    "name": "FERROCARRILES",
-    "credits": 6,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "3062",
-    "name": "PUERTOS",
-    "credits": 9,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "3063",
-    "name": "TEMAS ESP. DE SISTEMAS II",
-    "credits": 9,
     "has_lab": false,
     "lab": null
   },
@@ -5267,36 +4685,8 @@
     "lab": null
   },
   {
-    "code": "3065",
-    "name": "COSTOS LOGIST.-SISTEMAS TRANSPORTES",
-    "credits": 6,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "3066",
-    "name": "INTELIGENCIA DE NEGOCIOS",
-    "credits": 6,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "3067",
-    "name": "LOGISTICA INVERSA",
-    "credits": 6,
-    "has_lab": false,
-    "lab": null
-  },
-  {
     "code": "3068",
     "name": "TEMAS SEL.GESTION CADENA SUMINISTROS",
-    "credits": 6,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "3070",
-    "name": "ERGONOMIA EN EL TRABAJO",
     "credits": 6,
     "has_lab": false,
     "lab": null
@@ -5305,41 +4695,6 @@
     "code": "3071",
     "name": "INGENIERIA AUTOMOTRIZ I",
     "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "3072",
-    "name": "MANUFACTURA LEAN",
-    "credits": 6,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "3073",
-    "name": "COMERCIO INTERNACIONAL",
-    "credits": 6,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "3074",
-    "name": "SISTEMAS PRODUCCION AVANZADOS",
-    "credits": 6,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "3075",
-    "name": "TEMAS SEL.PRODUCCION-MANUFACTURA",
-    "credits": 6,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "3076",
-    "name": "FINANZAS COORPORATIVAS",
-    "credits": 6,
     "has_lab": false,
     "lab": null
   },
@@ -5360,13 +4715,6 @@
   {
     "code": "3080",
     "name": "INGENIERIA AUTOMOTRIZ II",
-    "credits": 8,
-    "has_lab": false,
-    "lab": null
-  },
-  {
-    "code": "3081",
-    "name": "PLANTAS TERMOELECTRICAS Y SIST.COGEN",
     "credits": 8,
     "has_lab": false,
     "lab": null
@@ -5473,6 +4821,1469 @@
     "code": "3098",
     "name": "TEMAS SEL. DE PROGRAMACION II",
     "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3100",
+    "name": "ALGEBRA Y GEOMETRIA ANALITICA",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3101",
+    "name": "CALCULO DIFERENCIAL E INTEGRAL",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3102",
+    "name": "FUND.PARA RESOLUCION PROB.EN ING.",
+    "credits": 2,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3103",
+    "name": "INTROD.AL MODELADO FENOMENOS FISICOS",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3104",
+    "name": "PENSAMIENTO COMPUTACIONAL",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3105",
+    "name": "IGUALDAD DE GENERO EN INGENIERIA",
+    "credits": 2,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3200",
+    "name": "ALGEBRA LINEAL",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3201",
+    "name": "CALCULO VECTORIAL",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3202",
+    "name": "ECUACIONES DIFERENCIALES",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3203",
+    "name": "MECANICA",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3204",
+    "name": "QUIMICA GENERAL",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3205",
+    "name": "SOCIEDAD, CULTURA E IDENTIDAD",
+    "credits": 2,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3206",
+    "name": "GEOLOGIA FISICA I",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3207",
+    "name": "ESTRUCTURA DE DATOS Y ALGORITMOS",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3208",
+    "name": "INTRODUCCION A LOS CIRCUITOS EN CD",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3209",
+    "name": "MODELADO GRAFICO",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3300",
+    "name": "ANALISIS NUMERICO",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3302",
+    "name": "COMUNICACION MULTIMODAL",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3303",
+    "name": "ELECTRICIDAD Y MAGNETISMO",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3305",
+    "name": "PROBABILIDAD Y ESTADISTICA",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3306",
+    "name": "GEOLOGIA FISICA II",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3307",
+    "name": "TERMODINAMICA",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3308",
+    "name": "DIBUJO EN INGENIERIA",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3309",
+    "name": "QUIMICA",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3310",
+    "name": "SIG.Y FUNDAM.DE PERCEPCION REMOTA",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3312",
+    "name": "ESTRUCTURAS DISCRETAS Y COMPUTACION",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3313",
+    "name": "PROGRAMACION-ALGORITMOS AVANZADOS",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3314",
+    "name": "ANALISIS DE ESTRUCTURAS I",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3315",
+    "name": "GEOMATICA BASICA",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3316",
+    "name": "MECANICA VECTORIAL",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3317",
+    "name": "SEÑALES Y SISTEMAS",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3318",
+    "name": "CONTABILIDAD FINANCIERA Y DE COSTOS",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3319",
+    "name": "BIOLOGIA CELULAR Y TISULAR",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3320",
+    "name": "FUNDAMENTOS DE CIENCIAS TERMICAS",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3400",
+    "name": "ANALISIS DE CIRCUITOS BIOMEDICOS",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3401",
+    "name": "ANATOMIA-FISIOLOGIA CUERPO HUM.I",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3402",
+    "name": "BIOQUIMICA",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3403",
+    "name": "LIDERAZGO ESTRATEGICO",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3405",
+    "name": "MATEMATICAS AVANZADAS",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3406",
+    "name": "GEOESTADISTICA",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3407",
+    "name": "INTRODUCCION A LA GEOFISICA",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3408",
+    "name": "METODOLOGIA GEOLOGICA BASICA",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3409",
+    "name": "METODOS MATEMATICOS PARA GEOFISICOS",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3410",
+    "name": "PROGRAMACION ORIENTADA A GEOFISICA",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3411",
+    "name": "SEDIMENTOLOGIA Y ESTRATIGRAFIA",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3412",
+    "name": "GEOQUIMICA",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3414",
+    "name": "MINERALOGIA",
+    "credits": 9,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3415",
+    "name": "PROSPECCION GEOFISICA I",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3416",
+    "name": "ANALISIS DE CIRCUITOS ELECTRICOS",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3417",
+    "name": "ANALISIS DE SISTEMAS Y SEÑALES",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3418",
+    "name": "DISEÑO ORIENTADO OBJETOS CONCURRENC.",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3419",
+    "name": "TEORIA DE LENGUAJES Y AUTOMATAS",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3420",
+    "name": "FUNDAMENTOS MECANICA MEDIO CONTINUO",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3421",
+    "name": "GEOLOGIA APLICADA A LA ING.CIVIL",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3422",
+    "name": "HIDRAULICA BASICA",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3423",
+    "name": "INGENIERIA DE SISTEMAS",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3424",
+    "name": "RESISTENCIA DE MATERIALES",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3425",
+    "name": "DINAMICA DE SISTEMAS FISICOS",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3426",
+    "name": "FISICA DE SEMICONDUCTORES",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3427",
+    "name": "TEORIA ELECTROMAGNETICA",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3428",
+    "name": "INGENIERIA DE MATERIALES",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3429",
+    "name": "TERMOFLUIDOS",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3430",
+    "name": "ANALISIS DE CIRCUITOS",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3431",
+    "name": "CIENCIA DE MATERIALES I",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3432",
+    "name": "ELEMENTOS MECANICA DL MEDIO CONTINUO",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3433",
+    "name": "MANUFACTURA Y ERGONOMIA",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3500",
+    "name": "ACTUADOR.- SISTEMS.TRANSM.POTENC.DM",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3501",
+    "name": "ANATOMIA-FISIOLOGIA CUERPO HUM.II",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3502",
+    "name": "ELECTRONICA ANALOGICA DISPOS.MEDICOS",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3503",
+    "name": "FUNDAMENTOS DE BIOMECANICA",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3504",
+    "name": "INGENIER.DATOS INTELIGENC.ARTIFICIAL",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3505",
+    "name": "MODELADO-CONTROL SISTEMAS FISIOLOGIC",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3506",
+    "name": "ANALIS.ESPRECTRAL SEÑALES GEOFISICAS",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3507",
+    "name": "FUNDAM. D TEORIA DE INVERS.GEOFISICA",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3508",
+    "name": "GEOLOGIA ESTRUCTURAL",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3509",
+    "name": "MECANICA DEL MEDIO CONTINUO",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3510",
+    "name": "TEORIA POTENC.APLICAD.A LA GEOFISICA",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3511",
+    "name": "CIENCIAS DE DATOS GEOESPACIALES",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3513",
+    "name": "PETROLOGIA IGNEA Y METAMORFICA",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3514",
+    "name": "PETROLOGIA SEDIMENTARIA",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3515",
+    "name": "PROSPECCION GEOFISICA II",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3516",
+    "name": "BASES DE DATOS",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3517",
+    "name": "DISPOSITIVOS CIRCUITOS ELECTRONICOS",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3518",
+    "name": "FISICA CUANTICA",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3519",
+    "name": "INTELIGENCIA ARTIFICIAL",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3520",
+    "name": "SISTEMAS OPERATIVOS",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3521",
+    "name": "ANALISIS DE ESTRUCTURAS II",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3522",
+    "name": "COMPORTAMIENTO DE SUELOS",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3523",
+    "name": "HIDRAULICA D MAQUINAS Y TRANSITORIOS",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3524",
+    "name": "RECURSOS Y PROCEDIMIENTOS CONSTRUCT",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3525",
+    "name": "SANEAMIENTO BASICO I",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3527",
+    "name": "FUNDAMENTOS DE CONTROL",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3528",
+    "name": "MAQUINAS ELECTRICAS",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3529",
+    "name": "MEDICION E INSTRUMENTACION",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3530",
+    "name": "USO EFICIENTE DE LA ENERGIA",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3531",
+    "name": "ELECTRONICA BASICA",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3532",
+    "name": "ESTADISTICA APLICADA",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3533",
+    "name": "ESTUDIO DEL TRABAJO",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3534",
+    "name": "MECANICA DE SOLIDOS",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3535",
+    "name": "METODOLOGIAS PARA LA PLANEACION",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3536",
+    "name": "CIENCIA DE MATERIALES II",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3537",
+    "name": "MODELADO Y SIMULACION DE SISTEMAS",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3600",
+    "name": "BOMECANICA",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3601",
+    "name": "ETICA PROFESIONAL",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3602",
+    "name": "FINANZAS EN INGENIERIA",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3603",
+    "name": "FUNDAMENTOS DE FISICA BIOMEDICA",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3604",
+    "name": "PSICOLOGIA MEDICA",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3605",
+    "name": "SISTEMAS EMBEBIDOS DISPOSIT. MEDICOS",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3606",
+    "name": "ELASTODINAMICA",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3607",
+    "name": "FUNDAMENTOS TEORIA ELECTROMAGNETICA",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3608",
+    "name": "PROCESAMIEN.DIGITAL SEÑALES GEOFISIC",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3609",
+    "name": "PROSPECCION GRAVIMETRICA MAGNETOMET",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3610",
+    "name": "CARTOGRAFIA PARA LA ING.GEOLOGICA",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3611",
+    "name": "METALOGENIA",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3612",
+    "name": "MODELADO DE GEOSISTEMAS",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3613",
+    "name": "REDES DE DATOS",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3614",
+    "name": "DISEÑO ESTRUCT.CONCRETO MAMPOSTERIA",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3615",
+    "name": "HIDRAULICA DE CANALES",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3616",
+    "name": "MECANICA DE SUELOS",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3617",
+    "name": "PLANEACION",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3618",
+    "name": "PRESUPUESTACION Y PROGRAMAC.OBRAS",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3619",
+    "name": "SANEAMIENTO BASICO II",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3620",
+    "name": "AMPLIFICADORES ELECTRONICOS",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3621",
+    "name": "DISEÑO DIGITAL",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3622",
+    "name": "FUENTES DE ENERGIA ELECTRICA",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3623",
+    "name": "REDES ELECTRICAS DE DISTRIBUCION",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3624",
+    "name": "INSTALACIONES INDUSTRIALES",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3625",
+    "name": "INVESTIGACION DE OPERACIONES I",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3626",
+    "name": "PROCESOS DE MANUFACTURA",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3627",
+    "name": "PROCESOS INDUSTRIALES",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3628",
+    "name": "RELACIONES LABORALES Y ORGANIZACION",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3629",
+    "name": "MECANICA COMPUTACIONAL",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3630",
+    "name": "MECANICA DE FLUIDOS I",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3631",
+    "name": "MECANISMOS",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3632",
+    "name": "TERMODINAMICA APLICADA",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3700",
+    "name": "ANALISIS PROCESAM.DIGITAL BIOSEÑALES",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3701",
+    "name": "ASPECTOS REGULATORIOS EN SALUD",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3702",
+    "name": "BIOFLUIDOS",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3703",
+    "name": "GESTION DE OPERACIONES EN SALUD",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3704",
+    "name": "INGENIERIA ECONOMICA",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3705",
+    "name": "INGENIERIA Y DESARROLLO SOSTENIBLE",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3706",
+    "name": "GEOLOGIA DE MEXICO Y RECURS.GEOLOGIC",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3707",
+    "name": "PROSPECCION ELECTRICA",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3708",
+    "name": "PROSPECCION ELECTROMAGNETICA",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3709",
+    "name": "PROSPECCION SISMICA",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3710",
+    "name": "GEOLOGIA DE EXPLOR.Y EXPLOTAC.MINERA",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3711",
+    "name": "HIDROGEOLOGIA",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3712",
+    "name": "INGENIERIA GEOTECNICA",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3713",
+    "name": "DISEÑO DE ESTRUCTURAS DE ACERO",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3714",
+    "name": "HIDROLOGIA SUPERFICIAL",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3715",
+    "name": "INGENIERIA DE TRANSITO Y MOVILIDAD",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3716",
+    "name": "MOVIMIENTO DE TIERRAS",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3717",
+    "name": "SANEAMIENTO BASICO III",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3718",
+    "name": "AUTOMATIZACION",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3719",
+    "name": "CIRCUITOS INTEGRADOS ANALOGICOS",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3720",
+    "name": "MICROPROCESADORES-MICROCONTROLAD.",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3721",
+    "name": "PROCESAMIENTO DIGITAL DE SEÑALES",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3722",
+    "name": "REDES ELECTRICAS DE TRANSMISION",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3723",
+    "name": "CALIDAD",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3724",
+    "name": "DISEÑO DE SISTEMAS PRODUCTIVOS",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3725",
+    "name": "INVESTIGACION DE OPERACIONES II",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3726",
+    "name": "SISTEMAS DE MEJORA  AMBIENTAL",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3727",
+    "name": "CONVERSION Y DESEMPEÑO ENERGETICO",
+    "credits": 4,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3728",
+    "name": "DINAMICA DE MAQUINARIA",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3729",
+    "name": "INSTRUMENTACION Y CONTROL",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3730",
+    "name": "MECANICA DE FLUIDOS II",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3731",
+    "name": "MODELADO  ANALISIS PROCESOS MANUFATU",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3800",
+    "name": "EQUIPO MEDICO-HOSPITALARIO",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3801",
+    "name": "GESTION DE LA INFORM.Y SALUD DIGITAL",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3802",
+    "name": "GEST.INFRAESTR.TECNOLOGIA HOSPITALAR",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3803",
+    "name": "GESTION INTEGRAL DE PROYECTOS",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3804",
+    "name": "INGENIERIA CLINICA",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3805",
+    "name": "INGENIERIA DE BIOMATERIALES",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3806",
+    "name": "INSTRUMEN.Y PRACT PROSPE.GEOFISICAS",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3807",
+    "name": "PETROFIS.Y REGIST.GEOFISICOS D POZOS",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3808",
+    "name": "GEOLOGIA DE RESERVORIOS",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3809",
+    "name": "INGENIERIA DE REMEDIACION",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3810",
+    "name": "INGENIERIA DE SUELOS Y ROCAS",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3811",
+    "name": "RIESGOS GEOLOGICOS",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3812",
+    "name": "EDIFICACION",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3813",
+    "name": "EVALUACION PROY DE INFRAESTRUCTURA",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3814",
+    "name": "INGENIERIA DE TRANSPORTE I",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3815",
+    "name": "PROYECT INFRAESTRUCTURA SOSTENIBLE",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3816",
+    "name": "CTTOS.SISTEMS.ELECTRONIC.COMUNICAC.",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3817",
+    "name": "INSTALACS. ELECTRICAS INDUSTRIALES",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3818",
+    "name": "REDES ELECTRICAS RESILIENTES",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3819",
+    "name": "ANALISIS Y MEJORA DE PROCESOS",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3820",
+    "name": "EVALUAC.D PROY. PARA ING. INDUSTRIAL",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3821",
+    "name": "PLANEAC Y CONTROL DE LA PRODUCCION",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3822",
+    "name": "PRACTS.PROFES.INGENIERIA INDUSTRIAL",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3823",
+    "name": "DISEÑO DE SISTEMAS MECANICOS",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3824",
+    "name": "DISEÑO EN INGENIERIA",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3825",
+    "name": "MANUFACTURA Y MATERIALES SUSTENTABLE",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3826",
+    "name": "TRANSFERENCIA DE CALOR",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3900",
+    "name": "DISEÑO DE SISTEMAS BIOMEDICOS",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3901",
+    "name": "ESCENARIO DE PRACTICA",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3902",
+    "name": "ESTANCIA HOSPITALARIA",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3903",
+    "name": "INNOVACION EMPRENDIMIENTO Y NEGOCIOS",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3904",
+    "name": "INTEGRAC.DATOS GEOLOGIC-GEOFISICOS",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3905",
+    "name": "PROYECTO INTEGRADOR EN INGENIERIA",
+    "credits": 10,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3906",
+    "name": "GEOENERGIA",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3909",
+    "name": "ADMON.DE EMPRESAS CONSTRUCTORAS",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3910",
+    "name": "CIMENTACIONES",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3911",
+    "name": "INGENIERIA DE TRANSPORTE II",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3913",
+    "name": "OBRAS HIDRAULICAS",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3914",
+    "name": "AUTOMATIZACION PROCESOS INDUSTRIALES",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3915",
+    "name": "GESTION DE LA CADENA DE SUMINISTROS",
+    "credits": 8,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3916",
+    "name": "SIMULACION",
+    "credits": 6,
+    "has_lab": false,
+    "lab": null
+  },
+  {
+    "code": "3917",
+    "name": "DISEÑO Y MANUFAC.ASIST.POR COMPUTAD.",
+    "credits": 10,
     "has_lab": false,
     "lab": null
   },

@@ -53,7 +53,7 @@
   {
     "code": "1449",
     "group": "3",
-    "professor": "PROFESOR POR ASIGNAR",
+    "professor": "Grupo cancelado, contactar a la División.",
     "schedules": [
       {
         "time": "16:00-17:30",
@@ -62,14 +62,14 @@
           3,
           5
         ],
-        "classroom": "R031"
+        "classroom": "SIN"
       },
       {
         "time": "13:00-16:00",
         "days": [
           2
         ],
-        "classroom": "R032"
+        "classroom": "SIN"
       }
     ]
   },

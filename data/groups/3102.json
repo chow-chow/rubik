@@ -1,0 +1,659 @@
+[
+  {
+    "code": "3102",
+    "group": "1",
+    "professor": "ALEJANDRO CUAUHTEMOC RAMIREZ REIVICH",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          1
+        ],
+        "classroom": "I101"
+      }
+    ],
+    "professor_id": 75569,
+    "first_name": "Alejandro Cuauhtémoc Dr.",
+    "last_name": "Ramírez Reivich",
+    "rating": 5.7333,
+    "num_ratings": 15
+  },
+  {
+    "code": "3102",
+    "group": "2",
+    "professor": "EDUARDO PEREZ GONZALEZ",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          1
+        ],
+        "classroom": "I102"
+      }
+    ],
+    "professor_id": 149862,
+    "first_name": "Eduardo",
+    "last_name": "Pérez Gonzalez",
+    "rating": 8.625,
+    "num_ratings": 8
+  },
+  {
+    "code": "3102",
+    "group": "3",
+    "professor": "RICARDO ORTIZ CONDE",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          1
+        ],
+        "classroom": "J107"
+      }
+    ]
+  },
+  {
+    "code": "3102",
+    "group": "4",
+    "professor": "JESUS ANTONIO CONTRERAS RAMIREZ",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2
+        ],
+        "classroom": "I205"
+      }
+    ],
+    "professor_id": 118842,
+    "first_name": "Jesús Antonio",
+    "last_name": "Contreras Ramírez",
+    "rating": 6.2,
+    "num_ratings": 40
+  },
+  {
+    "code": "3102",
+    "group": "5",
+    "professor": "JUAN MANUEL GOMEZ GONZALEZ",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2
+        ],
+        "classroom": "J210"
+      }
+    ],
+    "professor_id": 155677,
+    "first_name": "Juan Manuel",
+    "last_name": "Gómez González",
+    "rating": 7.2667,
+    "num_ratings": 15
+  },
+  {
+    "code": "3102",
+    "group": "6",
+    "professor": "GABRIEL DE LAS NIEVES SANCHEZ GUERRERO",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          2
+        ],
+        "classroom": "I204"
+      }
+    ]
+  },
+  {
+    "code": "3102",
+    "group": "7",
+    "professor": "ANTONIO MONTALVO GARCIA",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          3
+        ],
+        "classroom": "J208"
+      }
+    ],
+    "professor_id": 75394,
+    "first_name": "ANTONIO",
+    "last_name": "MONTALVO GARCIA",
+    "rating": 6.1786,
+    "num_ratings": 28
+  },
+  {
+    "code": "3102",
+    "group": "8",
+    "professor": "ENRIQUE OCTAVIO DIAZ CERON",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          4
+        ],
+        "classroom": "J106"
+      }
+    ],
+    "professor_id": 105051,
+    "first_name": "Enrique Octavio",
+    "last_name": "Diaz Ceron",
+    "rating": 5.6667,
+    "num_ratings": 9
+  },
+  {
+    "code": "3102",
+    "group": "9",
+    "professor": "TERESA JESSIE CERVANTES QUIROZ",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          4
+        ],
+        "classroom": "J110"
+      }
+    ]
+  },
+  {
+    "code": "3102",
+    "group": "10",
+    "professor": "ZAIDA ESTEFANIA ALARCON BERNAL",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          4
+        ],
+        "classroom": "I205"
+      }
+    ]
+  },
+  {
+    "code": "3102",
+    "group": "11",
+    "professor": "SERAFIN CASTAÑEDA CEDEÑO",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          5
+        ],
+        "classroom": "I101"
+      }
+    ],
+    "professor_id": 109270,
+    "first_name": "Serafín",
+    "last_name": "Castañeda Cedeño",
+    "rating": 7.3333,
+    "num_ratings": 12
+  },
+  {
+    "code": "3102",
+    "group": "12",
+    "professor": "JUAN MANUEL GOMEZ GONZALEZ",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          5
+        ],
+        "classroom": "J101"
+      }
+    ],
+    "professor_id": 155677,
+    "first_name": "Juan Manuel",
+    "last_name": "Gómez González",
+    "rating": 7.2667,
+    "num_ratings": 15
+  },
+  {
+    "code": "3102",
+    "group": "13",
+    "professor": "SERGIO MACUIL ROBLES",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          5
+        ],
+        "classroom": "I102"
+      }
+    ]
+  },
+  {
+    "code": "3102",
+    "group": "14",
+    "professor": "DOMINGO TEODORO MENDOZA ROSALES",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          5
+        ],
+        "classroom": "J104"
+      }
+    ],
+    "professor_id": 71346,
+    "first_name": "Domingo Teodoro",
+    "last_name": "Mendoza Rosales",
+    "rating": 6.9565,
+    "num_ratings": 69
+  },
+  {
+    "code": "3102",
+    "group": "15",
+    "professor": "CLAUDIA IVETTE GONZALEZ HERNANDEZ",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          5
+        ],
+        "classroom": "I304"
+      }
+    ]
+  },
+  {
+    "code": "3102",
+    "group": "16",
+    "professor": "ARNULFO SANCHEZ VALERIO",
+    "schedules": [
+      {
+        "time": "07:00-09:00",
+        "days": [
+          5
+        ],
+        "classroom": "J109"
+      }
+    ],
+    "professor_id": 90860,
+    "first_name": "Arnulfo",
+    "last_name": "Sánchez Valerio",
+    "rating": 9.4091,
+    "num_ratings": 66
+  },
+  {
+    "code": "3102",
+    "group": "17",
+    "professor": "JORGE ANTONIO MONROY JUAREZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2
+        ],
+        "classroom": "J101"
+      }
+    ],
+    "professor_id": 89950,
+    "first_name": "Jorge Antonio",
+    "last_name": "Monroy Juarez",
+    "rating": 5.95,
+    "num_ratings": 20
+  },
+  {
+    "code": "3102",
+    "group": "18",
+    "professor": "GABRIEL SALINAS CALLEROS",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2
+        ],
+        "classroom": "I302"
+      }
+    ],
+    "professor_id": 60657,
+    "first_name": "Gabriel",
+    "last_name": "Salinas Calleros",
+    "rating": 8.8261,
+    "num_ratings": 23
+  },
+  {
+    "code": "3102",
+    "group": "19",
+    "professor": "JOSE MIGUEL MARTINEZ ALCARAZ",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          2
+        ],
+        "classroom": "J210"
+      }
+    ],
+    "professor_id": 79240,
+    "first_name": "Jose miguel",
+    "last_name": "Martinez alcaraz",
+    "rating": 5.4545,
+    "num_ratings": 11
+  },
+  {
+    "code": "3102",
+    "group": "20",
+    "professor": "FATIMA MOUMTADI",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          4
+        ],
+        "classroom": "I303"
+      }
+    ],
+    "professor_id": 60950,
+    "first_name": "Fátima",
+    "last_name": "Moumtadi",
+    "rating": 5.5741,
+    "num_ratings": 54
+  },
+  {
+    "code": "3102",
+    "group": "21",
+    "professor": "VICTOR MANUEL RIVERA ROMAY",
+    "schedules": [
+      {
+        "time": "09:00-11:00",
+        "days": [
+          5
+        ],
+        "classroom": "J107"
+      }
+    ],
+    "professor_id": 87744,
+    "first_name": "Victor manuel",
+    "last_name": "Rivera Romay",
+    "rating": 8.875,
+    "num_ratings": 8
+  },
+  {
+    "code": "3102",
+    "group": "22",
+    "professor": "FERNANDO VELAZQUEZ VILLEGAS",
+    "schedules": [
+      {
+        "time": "15:00-17:00",
+        "days": [
+          4
+        ],
+        "classroom": "I106"
+      }
+    ],
+    "professor_id": 104484,
+    "first_name": "DR. FERNANDO",
+    "last_name": "VELAZQUEZ VILLEGAS",
+    "rating": 6.9,
+    "num_ratings": 10
+  },
+  {
+    "code": "3102",
+    "group": "23",
+    "professor": "EDUARDO CARRANZA TORRES",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          1
+        ],
+        "classroom": "I203"
+      }
+    ],
+    "professor_id": 95202,
+    "first_name": "Eduardo",
+    "last_name": "Carranza Torres",
+    "rating": 8.0741,
+    "num_ratings": 27
+  },
+  {
+    "code": "3102",
+    "group": "24",
+    "professor": "SAMUEL GANDARILLA PEREZ",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2
+        ],
+        "classroom": "I106"
+      }
+    ],
+    "professor_id": 161506,
+    "first_name": "Samuel",
+    "last_name": "Gandarilla Pérez",
+    "rating": 6.5,
+    "num_ratings": 6
+  },
+  {
+    "code": "3102",
+    "group": "25",
+    "professor": "LUIS RICARDO LOPEZ VILLAFAN",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          2
+        ],
+        "classroom": "J106"
+      }
+    ]
+  },
+  {
+    "code": "3102",
+    "group": "26",
+    "professor": "ALFONSO REYES PIMENTEL",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          4
+        ],
+        "classroom": "J107"
+      }
+    ],
+    "professor_id": 93529,
+    "first_name": "Alfonso",
+    "last_name": "Reyes",
+    "rating": 7.0667,
+    "num_ratings": 15
+  },
+  {
+    "code": "3102",
+    "group": "27",
+    "professor": "ROBERTO FEDERICO MANDUJANO WILD",
+    "schedules": [
+      {
+        "time": "17:00-19:00",
+        "days": [
+          5
+        ],
+        "classroom": "I305"
+      }
+    ],
+    "professor_id": 85850,
+    "first_name": "Roberto",
+    "last_name": "Mandujano Wild",
+    "rating": 7.566,
+    "num_ratings": 53
+  },
+  {
+    "code": "3102",
+    "group": "28",
+    "professor": "SHAIR MENDOZA FLORES",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          2
+        ],
+        "classroom": "J110"
+      }
+    ]
+  },
+  {
+    "code": "3102",
+    "group": "29",
+    "professor": "ELOISA DAVALOS PAZ",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          2
+        ],
+        "classroom": "J207"
+      }
+    ]
+  },
+  {
+    "code": "3102",
+    "group": "30",
+    "professor": "JUAN JOSE LOPEZ MARQUEZ",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          2
+        ],
+        "classroom": "J106"
+      }
+    ]
+  },
+  {
+    "code": "3102",
+    "group": "31",
+    "professor": "DIDIER TORRES GUZMAN",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          2
+        ],
+        "classroom": "J108"
+      }
+    ]
+  },
+  {
+    "code": "3102",
+    "group": "32",
+    "professor": "ELIO MANUEL PIMENTEL ALVAREZ",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          2
+        ],
+        "classroom": "J209"
+      }
+    ]
+  },
+  {
+    "code": "3102",
+    "group": "33",
+    "professor": "SILVINA HERNANDEZ GARCIA",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          2
+        ],
+        "classroom": "J111"
+      }
+    ],
+    "professor_id": 98611,
+    "first_name": "Silvina",
+    "last_name": "Hernández García",
+    "rating": 6.625,
+    "num_ratings": 8
+  },
+  {
+    "code": "3102",
+    "group": "34",
+    "professor": "JULIO ALFONSO DE LEON RAZO",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          2
+        ],
+        "classroom": "J103"
+      }
+    ],
+    "professor_id": 108639,
+    "first_name": "Julio Alfonso",
+    "last_name": "De León Razo",
+    "rating": 6.39,
+    "num_ratings": 28
+  },
+  {
+    "code": "3102",
+    "group": "35",
+    "professor": "XIMENA PENELOPE AMEZCUA PASTRANA",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          3
+        ],
+        "classroom": "I104"
+      }
+    ],
+    "professor_id": 95269,
+    "first_name": "Ximena Penélope",
+    "last_name": "Amezcua Pastrana",
+    "rating": 7.4138,
+    "num_ratings": 29
+  },
+  {
+    "code": "3102",
+    "group": "36",
+    "professor": "SHAIR MENDOZA FLORES",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          4
+        ],
+        "classroom": "J106"
+      }
+    ]
+  },
+  {
+    "code": "3102",
+    "group": "37",
+    "professor": "SIXTA HINNDI MENDOZA PEREZ",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          4
+        ],
+        "classroom": "I102"
+      }
+    ],
+    "professor_id": 141803,
+    "first_name": "Sixta Hinndi",
+    "last_name": "Mendoza Pérez",
+    "rating": 7.875,
+    "num_ratings": 8
+  },
+  {
+    "code": "3102",
+    "group": "38",
+    "professor": "JULIO ALFONSO DE LEON RAZO",
+    "schedules": [
+      {
+        "time": "19:00-21:00",
+        "days": [
+          5
+        ],
+        "classroom": "I105"
+      }
+    ],
+    "professor_id": 108639,
+    "first_name": "Julio Alfonso",
+    "last_name": "De León Razo",
+    "rating": 6.39,
+    "num_ratings": 28
+  }
+]
