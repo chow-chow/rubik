@@ -22,16 +22,16 @@
       {
         "time": "07:00-09:00",
         "days": [
-          2
+          1
         ],
-        "classroom": "D009"
+        "classroom": "D007"
       },
       {
         "time": "07:00-09:00",
         "days": [
-          1
+          2
         ],
-        "classroom": "D007"
+        "classroom": "D009"
       }
     ],
     "professor_id": 153583,

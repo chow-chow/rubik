@@ -36,8 +36,8 @@
     "professor_id": 37991,
     "first_name": "FELIPE",
     "last_name": "SEGUNDO CUEVAS",
-    "rating": 4.0417,
-    "num_ratings": 48
+    "rating": 4.0,
+    "num_ratings": 49
   },
   {
     "code": "1220",
@@ -292,7 +292,7 @@
   {
     "code": "1220",
     "group": "16",
-    "professor": "JAIME HECTOR DÍAZ OSORNIO",
+    "professor": "JAIME HECTOR DIAZ OSORNIO",
     "schedules": [
       {
         "time": "17:00-19:00",
@@ -302,7 +302,12 @@
         ],
         "classroom": "J104"
       }
-    ]
+    ],
+    "professor_id": 58909,
+    "first_name": "Jaime Hector",
+    "last_name": "Diaz Osornio",
+    "rating": 8.1724,
+    "num_ratings": 29
   },
   {
     "code": "1220",

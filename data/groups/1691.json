@@ -56,16 +56,16 @@
       {
         "time": "07:00-09:00",
         "days": [
-          3
+          1
         ],
-        "classroom": "B201"
+        "classroom": "A311"
       },
       {
         "time": "07:00-09:00",
         "days": [
-          1
+          3
         ],
-        "classroom": "A311"
+        "classroom": "B201"
       },
       {
         "time": "07:00-09:00",
@@ -203,16 +203,16 @@
       {
         "time": "11:00-13:00",
         "days": [
-          5
+          1
         ],
-        "classroom": "Y003"
+        "classroom": "O005"
       },
       {
         "time": "11:00-13:00",
         "days": [
-          1
+          5
         ],
-        "classroom": "O005"
+        "classroom": "Y003"
       },
       {
         "time": "11:00-13:00",

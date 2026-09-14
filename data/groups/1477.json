@@ -66,16 +66,16 @@
       {
         "time": "13:30-15:00",
         "days": [
-          1
+          4
         ],
-        "classroom": "Y101"
+        "classroom": "D007"
       },
       {
         "time": "13:30-15:00",
         "days": [
-          4
+          1
         ],
-        "classroom": "D007"
+        "classroom": "Y101"
       }
     ],
     "professor_id": 191407,

@@ -2,7 +2,7 @@
   {
     "code": "1580",
     "group": "1",
-    "professor": "ERNESTO HERNÁNDEZ MENDIOLA",
+    "professor": "ERNESTO HERNANDEZ MENDIOLA",
     "schedules": [
       {
         "time": "09:00-11:00",
@@ -12,7 +12,12 @@
         ],
         "classroom": "J100"
       }
-    ]
+    ],
+    "professor_id": 186664,
+    "first_name": "ERNESTO",
+    "last_name": "HERNÁNDEZ MENDIOLA",
+    "rating": 4.0,
+    "num_ratings": 2
   },
   {
     "code": "1580",

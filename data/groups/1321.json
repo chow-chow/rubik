@@ -267,16 +267,16 @@
       {
         "time": "11:00-13:00",
         "days": [
-          3
+          5
         ],
-        "classroom": "I301"
+        "classroom": "I306"
       },
       {
         "time": "11:00-13:00",
         "days": [
-          5
+          3
         ],
-        "classroom": "I306"
+        "classroom": "I301"
       }
     ],
     "professor_id": 90179,
@@ -534,7 +534,7 @@
   {
     "code": "1321",
     "group": "28",
-    "professor": "RUBÉN HERNÁNDEZ BUSTAMANTE",
+    "professor": "RUBEN HERNANDEZ BUSTAMANTE",
     "schedules": [
       {
         "time": "17:00-19:00",
@@ -544,7 +544,12 @@
         ],
         "classroom": "Y104"
       }
-    ]
+    ],
+    "professor_id": 106849,
+    "first_name": "Rubén",
+    "last_name": "Hernández Bustamante",
+    "rating": 9.7941,
+    "num_ratings": 68
   },
   {
     "code": "1321",

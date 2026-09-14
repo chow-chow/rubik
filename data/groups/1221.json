@@ -371,7 +371,7 @@
   {
     "code": "1221",
     "group": "19",
-    "professor": "RUBÉN HERNÁNDEZ BUSTAMANTE",
+    "professor": "RUBEN HERNANDEZ BUSTAMANTE",
     "schedules": [
       {
         "time": "17:00-19:00",
@@ -381,7 +381,12 @@
         ],
         "classroom": "J201"
       }
-    ]
+    ],
+    "professor_id": 106849,
+    "first_name": "Rubén",
+    "last_name": "Hernández Bustamante",
+    "rating": 9.7941,
+    "num_ratings": 68
   },
   {
     "code": "1221",

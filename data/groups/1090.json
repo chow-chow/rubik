@@ -27,17 +27,17 @@
     "professor": "RAMIRO GALVAN CASTRO",
     "schedules": [
       {
-        "time": "07:00-09:00",
+        "time": "07:00-08:00",
         "days": [
-          1,
-          3
+          5
         ],
         "classroom": "SIN"
       },
       {
-        "time": "07:00-08:00",
+        "time": "07:00-09:00",
         "days": [
-          5
+          1,
+          3
         ],
         "classroom": "SIN"
       }

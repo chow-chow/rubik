@@ -206,8 +206,8 @@
     "professor_id": 42880,
     "first_name": "gloria",
     "last_name": "ramirez romero",
-    "rating": 6.7255,
-    "num_ratings": 102
+    "rating": 6.7573,
+    "num_ratings": 103
   },
   {
     "code": "3101",
@@ -538,7 +538,7 @@
   {
     "code": "3101",
     "group": "27",
-    "professor": "RUBÉN HERNÁNDEZ BUSTAMANTE",
+    "professor": "RUBEN HERNANDEZ BUSTAMANTE",
     "schedules": [
       {
         "time": "15:00-17:00",
@@ -549,7 +549,12 @@
         ],
         "classroom": "I203"
       }
-    ]
+    ],
+    "professor_id": 106849,
+    "first_name": "Rubén",
+    "last_name": "Hernández Bustamante",
+    "rating": 9.7941,
+    "num_ratings": 68
   },
   {
     "code": "3101",
@@ -617,17 +622,17 @@
       {
         "time": "17:00-19:00",
         "days": [
-          1,
-          5
+          3
         ],
-        "classroom": "I101"
+        "classroom": "I204"
       },
       {
         "time": "17:00-19:00",
         "days": [
-          3
+          1,
+          5
         ],
-        "classroom": "I204"
+        "classroom": "I101"
       }
     ],
     "professor_id": 21252,
