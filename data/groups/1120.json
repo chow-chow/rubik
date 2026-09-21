@@ -172,16 +172,16 @@
       {
         "time": "15:00-17:00",
         "days": [
-          5
+          3
         ],
-        "classroom": "J208"
+        "classroom": "J211"
       },
       {
         "time": "15:00-17:00",
         "days": [
-          3
+          5
         ],
-        "classroom": "J211"
+        "classroom": "J208"
       }
     ],
     "professor_id": 101573,

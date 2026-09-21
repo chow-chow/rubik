@@ -149,16 +149,16 @@
       {
         "time": "11:00-13:00",
         "days": [
-          5
+          3
         ],
-        "classroom": "I202"
+        "classroom": "I203"
       },
       {
         "time": "11:00-13:00",
         "days": [
-          3
+          5
         ],
-        "classroom": "I203"
+        "classroom": "I202"
       }
     ],
     "professor_id": 135641,
@@ -175,16 +175,16 @@
       {
         "time": "11:00-13:00",
         "days": [
-          1
+          5
         ],
-        "classroom": "J211"
+        "classroom": "J210"
       },
       {
         "time": "11:00-13:00",
         "days": [
-          5
+          1
         ],
-        "classroom": "J210"
+        "classroom": "J211"
       }
     ],
     "professor_id": 84414,

@@ -23,17 +23,17 @@
       {
         "time": "07:00-09:00",
         "days": [
-          2,
-          4
+          3
         ],
-        "classroom": "I304"
+        "classroom": "Y101"
       },
       {
         "time": "07:00-09:00",
         "days": [
-          3
+          2,
+          4
         ],
-        "classroom": "Y101"
+        "classroom": "I304"
       }
     ],
     "professor_id": 108359,
@@ -98,17 +98,17 @@
       {
         "time": "11:00-13:00",
         "days": [
-          2,
-          4
+          3
         ],
-        "classroom": "J208"
+        "classroom": "I102"
       },
       {
         "time": "11:00-13:00",
         "days": [
-          3
+          2,
+          4
         ],
-        "classroom": "I102"
+        "classroom": "J208"
       }
     ],
     "professor_id": 66464,
