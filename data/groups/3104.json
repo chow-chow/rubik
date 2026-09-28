@@ -23,8 +23,8 @@
     "professor_id": 56349,
     "first_name": "Heriberto",
     "last_name": "García Ledezma",
-    "rating": 7.3,
-    "num_ratings": 44
+    "rating": 7.36,
+    "num_ratings": 45
   },
   {
     "code": "3104",
@@ -382,16 +382,16 @@
       {
         "time": "13:00-15:00",
         "days": [
-          3
+          5
         ],
-        "classroom": "I304"
+        "classroom": "I305"
       },
       {
         "time": "13:00-15:00",
         "days": [
-          5
+          3
         ],
-        "classroom": "I305"
+        "classroom": "I304"
       },
       {
         "time": "13:00-15:00",
@@ -514,16 +514,16 @@
       {
         "time": "15:00-17:00",
         "days": [
-          1
+          5
         ],
-        "classroom": "J109"
+        "classroom": "I103"
       },
       {
         "time": "15:00-17:00",
         "days": [
-          5
+          1
         ],
-        "classroom": "J206"
+        "classroom": "J109"
       },
       {
         "time": "15:00-17:00",

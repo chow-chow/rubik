@@ -73,16 +73,16 @@
       {
         "time": "13:00-15:00",
         "days": [
-          5
+          3
         ],
-        "classroom": "I103"
+        "classroom": "I102"
       },
       {
         "time": "13:00-15:00",
         "days": [
-          3
+          5
         ],
-        "classroom": "I102"
+        "classroom": "I103"
       }
     ],
     "professor_id": 78508,

@@ -163,7 +163,7 @@
   {
     "code": "6125",
     "group": "10",
-    "professor": "ROXANA ISELA NORIEGA NAVARRO",
+    "professor": "MAYRA LEON SANTIAGO",
     "schedules": [
       {
         "time": "07:00-09:00",
@@ -172,7 +172,12 @@
         ],
         "classroom": "H004"
       }
-    ]
+    ],
+    "professor_id": 176747,
+    "first_name": "Mayra",
+    "last_name": "León Santiago",
+    "rating": 9.25,
+    "num_ratings": 4
   },
   {
     "code": "6125",

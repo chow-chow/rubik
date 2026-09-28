@@ -67,16 +67,16 @@
       {
         "time": "09:00-11:00",
         "days": [
-          3
+          5
         ],
-        "classroom": "J211"
+        "classroom": "J210"
       },
       {
         "time": "09:00-11:00",
         "days": [
-          5
+          3
         ],
-        "classroom": "J210"
+        "classroom": "J211"
       }
     ]
   },
@@ -178,8 +178,8 @@
     "professor_id": 78455,
     "first_name": "Eduardo",
     "last_name": "López Molina",
-    "rating": 8.32,
-    "num_ratings": 85
+    "rating": 8.34,
+    "num_ratings": 86
   },
   {
     "code": "1437",
