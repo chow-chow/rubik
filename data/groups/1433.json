@@ -390,16 +390,16 @@
       {
         "time": "19:00-21:00",
         "days": [
-          2
+          4
         ],
-        "classroom": "J205"
+        "classroom": "J110"
       },
       {
         "time": "19:00-21:00",
         "days": [
-          4
+          2
         ],
-        "classroom": "J110"
+        "classroom": "J205"
       }
     ],
     "professor_id": 187334,
