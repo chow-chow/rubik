@@ -7,17 +7,17 @@
       {
         "time": "07:00-09:00",
         "days": [
-          1
-        ],
-        "classroom": "H001"
-      },
-      {
-        "time": "07:00-09:00",
-        "days": [
           3,
           5
         ],
         "classroom": "J102"
+      },
+      {
+        "time": "07:00-09:00",
+        "days": [
+          1
+        ],
+        "classroom": "H001"
       }
     ],
     "professor_id": 90851,
@@ -34,17 +34,17 @@
       {
         "time": "07:00-09:00",
         "days": [
-          3,
-          5
+          1
         ],
-        "classroom": "I306"
+        "classroom": "H002"
       },
       {
         "time": "07:00-09:00",
         "days": [
-          1
+          3,
+          5
         ],
-        "classroom": "H002"
+        "classroom": "I306"
       }
     ]
   },
@@ -56,9 +56,9 @@
       {
         "time": "07:00-09:00",
         "days": [
-          2
+          4
         ],
-        "classroom": "J102"
+        "classroom": "H001"
       },
       {
         "time": "07:00-09:00",
@@ -70,9 +70,9 @@
       {
         "time": "07:00-09:00",
         "days": [
-          4
+          2
         ],
-        "classroom": "H001"
+        "classroom": "J102"
       }
     ],
     "professor_id": 94468,
@@ -89,16 +89,16 @@
       {
         "time": "07:00-09:00",
         "days": [
-          4
+          3
         ],
-        "classroom": "I306"
+        "classroom": "I304"
       },
       {
         "time": "07:00-09:00",
         "days": [
-          3
+          4
         ],
-        "classroom": "I304"
+        "classroom": "I306"
       },
       {
         "time": "07:00-09:00",
@@ -122,17 +122,17 @@
       {
         "time": "07:00-09:00",
         "days": [
-          2,
-          4
+          3
         ],
-        "classroom": "I101"
+        "classroom": "H001"
       },
       {
         "time": "07:00-09:00",
         "days": [
-          3
+          2,
+          4
         ],
-        "classroom": "H001"
+        "classroom": "I101"
       }
     ],
     "professor_id": 176745,
@@ -209,17 +209,17 @@
       {
         "time": "09:00-11:00",
         "days": [
-          3,
-          5
+          1
         ],
-        "classroom": "J110"
+        "classroom": "H002"
       },
       {
         "time": "09:00-11:00",
         "days": [
-          1
+          3,
+          5
         ],
-        "classroom": "H002"
+        "classroom": "J110"
       }
     ],
     "professor_id": 44254,
@@ -236,17 +236,17 @@
       {
         "time": "09:00-11:00",
         "days": [
-          1,
-          3
+          5
         ],
-        "classroom": "I304"
+        "classroom": "H002"
       },
       {
         "time": "09:00-11:00",
         "days": [
-          5
+          1,
+          3
         ],
-        "classroom": "H002"
+        "classroom": "I304"
       }
     ]
   },
@@ -470,17 +470,17 @@
       {
         "time": "11:00-13:00",
         "days": [
-          2,
-          4
+          3
         ],
-        "classroom": "I206"
+        "classroom": "H002"
       },
       {
         "time": "11:00-13:00",
         "days": [
-          3
+          2,
+          4
         ],
-        "classroom": "H002"
+        "classroom": "I206"
       }
     ],
     "professor_id": 105095,
@@ -504,16 +504,16 @@
       {
         "time": "11:00-13:00",
         "days": [
-          2
+          4
         ],
-        "classroom": "H001"
+        "classroom": "J109"
       },
       {
         "time": "11:00-13:00",
         "days": [
-          4
+          2
         ],
-        "classroom": "J109"
+        "classroom": "H001"
       }
     ],
     "professor_id": 105127,
@@ -530,17 +530,17 @@
       {
         "time": "13:00-15:00",
         "days": [
-          1,
-          5
+          3
         ],
-        "classroom": "I304"
+        "classroom": "H002"
       },
       {
         "time": "13:00-15:00",
         "days": [
-          3
+          1,
+          5
         ],
-        "classroom": "H002"
+        "classroom": "I304"
       }
     ],
     "professor_id": 87387,
@@ -557,17 +557,17 @@
       {
         "time": "13:00-15:00",
         "days": [
-          1,
-          5
+          3
         ],
-        "classroom": "I102"
+        "classroom": "H001"
       },
       {
         "time": "13:00-15:00",
         "days": [
-          3
+          1,
+          5
         ],
-        "classroom": "H001"
+        "classroom": "I102"
       }
     ],
     "professor_id": 74107,
@@ -611,17 +611,17 @@
       {
         "time": "13:00-15:00",
         "days": [
-          5
-        ],
-        "classroom": "H001"
-      },
-      {
-        "time": "13:00-15:00",
-        "days": [
           1,
           3
         ],
         "classroom": "I103"
+      },
+      {
+        "time": "13:00-15:00",
+        "days": [
+          5
+        ],
+        "classroom": "H001"
       }
     ],
     "professor_id": 115336,
@@ -638,17 +638,17 @@
       {
         "time": "13:00-15:00",
         "days": [
-          3,
-          5
+          1
         ],
-        "classroom": "I104"
+        "classroom": "H001"
       },
       {
         "time": "13:00-15:00",
         "days": [
-          1
+          3,
+          5
         ],
-        "classroom": "H001"
+        "classroom": "I104"
       }
     ],
     "professor_id": 84416,
@@ -692,17 +692,17 @@
       {
         "time": "15:00-17:00",
         "days": [
-          1,
-          3
+          5
         ],
-        "classroom": "I106"
+        "classroom": "H002"
       },
       {
         "time": "15:00-17:00",
         "days": [
-          5
+          1,
+          3
         ],
-        "classroom": "H002"
+        "classroom": "I106"
       }
     ],
     "professor_id": 68185,
@@ -773,17 +773,17 @@
       {
         "time": "15:00-17:00",
         "days": [
-          4
-        ],
-        "classroom": "H002"
-      },
-      {
-        "time": "15:00-17:00",
-        "days": [
           2,
           3
         ],
         "classroom": "J102"
+      },
+      {
+        "time": "15:00-17:00",
+        "days": [
+          4
+        ],
+        "classroom": "H002"
       }
     ]
   },
@@ -844,17 +844,17 @@
       {
         "time": "17:00-19:00",
         "days": [
-          3,
-          5
+          1
         ],
-        "classroom": "I205"
+        "classroom": "H001"
       },
       {
         "time": "17:00-19:00",
         "days": [
-          1
+          3,
+          5
         ],
-        "classroom": "H001"
+        "classroom": "I205"
       }
     ],
     "professor_id": 68185,
@@ -871,17 +871,17 @@
       {
         "time": "17:00-19:00",
         "days": [
-          5
-        ],
-        "classroom": "H001"
-      },
-      {
-        "time": "17:00-19:00",
-        "days": [
           1,
           3
         ],
         "classroom": "I103"
+      },
+      {
+        "time": "17:00-19:00",
+        "days": [
+          5
+        ],
+        "classroom": "H001"
       }
     ],
     "professor_id": 115336,
@@ -947,17 +947,17 @@
       {
         "time": "17:00-19:00",
         "days": [
-          2,
-          3
+          4
         ],
-        "classroom": "J105"
+        "classroom": "H002"
       },
       {
         "time": "17:00-19:00",
         "days": [
-          4
+          2,
+          3
         ],
-        "classroom": "H002"
+        "classroom": "J105"
       }
     ],
     "professor_id": 30167,
@@ -974,17 +974,17 @@
       {
         "time": "19:00-21:00",
         "days": [
-          3
-        ],
-        "classroom": "H002"
-      },
-      {
-        "time": "19:00-21:00",
-        "days": [
           1,
           5
         ],
         "classroom": "J104"
+      },
+      {
+        "time": "19:00-21:00",
+        "days": [
+          3
+        ],
+        "classroom": "H002"
       }
     ],
     "professor_id": 82820,
