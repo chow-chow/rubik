@@ -622,17 +622,17 @@
       {
         "time": "17:00-19:00",
         "days": [
-          3
-        ],
-        "classroom": "I204"
-      },
-      {
-        "time": "17:00-19:00",
-        "days": [
           1,
           5
         ],
         "classroom": "I101"
+      },
+      {
+        "time": "17:00-19:00",
+        "days": [
+          3
+        ],
+        "classroom": "I204"
       }
     ],
     "professor_id": 21252,

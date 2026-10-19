@@ -5,16 +5,16 @@
     "professor": "NESTOR DANIEL LUNA GONZALEZ",
     "schedules": [
       {
-        "time": "07:00-09:00",
+        "time": "19:00-21:00",
         "days": [
-          6
+          2
         ],
         "classroom": "EXTR"
       },
       {
-        "time": "19:00-21:00",
+        "time": "07:00-09:00",
         "days": [
-          2
+          6
         ],
         "classroom": "EXTR"
       }
