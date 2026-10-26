@@ -101,16 +101,16 @@
       {
         "time": "11:00-13:00",
         "days": [
-          1
+          3
         ],
-        "classroom": "Y102"
+        "classroom": "J208"
       },
       {
         "time": "11:00-13:00",
         "days": [
-          3
+          1
         ],
-        "classroom": "J208"
+        "classroom": "Y102"
       }
     ],
     "professor_id": 20657,
@@ -156,8 +156,8 @@
     "professor_id": 23476,
     "first_name": "martin",
     "last_name": "barcenas escobar",
-    "rating": 6.0938,
-    "num_ratings": 32
+    "rating": 6.1818,
+    "num_ratings": 33
   },
   {
     "code": "1414",
@@ -196,8 +196,8 @@
     "professor_id": 74107,
     "first_name": "María Ofelia",
     "last_name": "Rodriguez Durán",
-    "rating": 7.4426,
-    "num_ratings": 61
+    "rating": 7.4839,
+    "num_ratings": 62
   },
   {
     "code": "1414",
@@ -227,16 +227,16 @@
       {
         "time": "15:00-17:00",
         "days": [
-          1
+          3
         ],
-        "classroom": "J108"
+        "classroom": "J106"
       },
       {
         "time": "15:00-17:00",
         "days": [
-          3
+          1
         ],
-        "classroom": "J106"
+        "classroom": "J108"
       }
     ]
   },
@@ -277,8 +277,8 @@
     "professor_id": 55067,
     "first_name": "Abraham Laurencio",
     "last_name": "Martinez  Bautista",
-    "rating": 4.7292,
-    "num_ratings": 48
+    "rating": 4.7143,
+    "num_ratings": 49
   },
   {
     "code": "1414",

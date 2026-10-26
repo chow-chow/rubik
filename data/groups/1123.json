@@ -7,16 +7,16 @@
       {
         "time": "11:00-13:00",
         "days": [
-          1
+          5
         ],
-        "classroom": "I303"
+        "classroom": "J207"
       },
       {
         "time": "11:00-13:00",
         "days": [
-          5
+          1
         ],
-        "classroom": "J207"
+        "classroom": "I303"
       }
     ],
     "professor_id": 176745,

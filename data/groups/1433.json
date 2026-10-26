@@ -42,8 +42,8 @@
     "professor_id": 153529,
     "first_name": "Erick Javier",
     "last_name": "López Sánchez",
-    "rating": 8.6667,
-    "num_ratings": 15
+    "rating": 8.5,
+    "num_ratings": 16
   },
   {
     "code": "1433",
@@ -53,16 +53,16 @@
       {
         "time": "07:00-09:00",
         "days": [
-          4
+          2
         ],
-        "classroom": "J207"
+        "classroom": "J205"
       },
       {
         "time": "07:00-09:00",
         "days": [
-          2
+          4
         ],
-        "classroom": "J205"
+        "classroom": "J207"
       }
     ],
     "professor_id": 84710,
@@ -88,8 +88,8 @@
     "professor_id": 51439,
     "first_name": "Maritza",
     "last_name": "Arganis",
-    "rating": 7.4444,
-    "num_ratings": 45
+    "rating": 7.5,
+    "num_ratings": 46
   },
   {
     "code": "1433",
@@ -344,16 +344,16 @@
       {
         "time": "17:00-19:00",
         "days": [
-          3
+          5
         ],
-        "classroom": "J205"
+        "classroom": "J202"
       },
       {
         "time": "17:00-19:00",
         "days": [
-          5
+          3
         ],
-        "classroom": "J202"
+        "classroom": "J205"
       }
     ],
     "professor_id": 79462,

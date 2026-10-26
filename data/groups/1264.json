@@ -5,16 +5,16 @@
     "professor": "GIBRAN JALIL GARNICA CASTROVer Nota 1",
     "schedules": [
       {
-        "time": "13:00-14:30",
+        "time": "13:30-15:00",
         "days": [
-          2
+          4
         ],
         "classroom": "Y201"
       },
       {
-        "time": "13:30-15:00",
+        "time": "13:00-14:30",
         "days": [
-          4
+          2
         ],
         "classroom": "Y201"
       }
