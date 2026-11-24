@@ -27,16 +27,16 @@
       {
         "time": "09:00-11:00",
         "days": [
-          3
+          5
         ],
-        "classroom": "Y101"
+        "classroom": "I301"
       },
       {
         "time": "09:00-11:00",
         "days": [
-          5
+          3
         ],
-        "classroom": "I301"
+        "classroom": "Y101"
       }
     ],
     "professor_id": 84731,

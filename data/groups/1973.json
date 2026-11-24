@@ -22,8 +22,8 @@
     "professor_id": 93473,
     "first_name": "Maria del Pilar",
     "last_name": "Corona Lira",
-    "rating": 7.2222,
-    "num_ratings": 18
+    "rating": 7.3684,
+    "num_ratings": 19
   },
   {
     "code": "1973",
@@ -33,16 +33,16 @@
       {
         "time": "19:00-21:00",
         "days": [
-          4
+          2
         ],
-        "classroom": "O102"
+        "classroom": "O007"
       },
       {
         "time": "19:00-21:00",
         "days": [
-          2
+          4
         ],
-        "classroom": "O007"
+        "classroom": "O102"
       }
     ],
     "professor_id": 135354,
@@ -59,16 +59,16 @@
       {
         "time": "17:00-19:00",
         "days": [
-          3
+          1
         ],
-        "classroom": "O007"
+        "classroom": "B406"
       },
       {
         "time": "17:00-19:00",
         "days": [
-          1
+          3
         ],
-        "classroom": "B406"
+        "classroom": "O007"
       }
     ],
     "professor_id": 167496,

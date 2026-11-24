@@ -80,8 +80,8 @@
     "professor_id": 123084,
     "first_name": "Jesus Alejandro",
     "last_name": "Plata Martinez",
-    "rating": 8.8846,
-    "num_ratings": 78
+    "rating": 8.8987,
+    "num_ratings": 79
   },
   {
     "code": "3101",
@@ -322,8 +322,8 @@
     "professor_id": 33621,
     "first_name": "Alicia",
     "last_name": "Pineda Ramirez",
-    "rating": 7.4643,
-    "num_ratings": 112
+    "rating": 7.4336,
+    "num_ratings": 113
   },
   {
     "code": "3101",
@@ -622,24 +622,24 @@
       {
         "time": "17:00-19:00",
         "days": [
-          1,
-          5
+          3
         ],
-        "classroom": "I101"
+        "classroom": "I204"
       },
       {
         "time": "17:00-19:00",
         "days": [
-          3
+          1,
+          5
         ],
-        "classroom": "I204"
+        "classroom": "I101"
       }
     ],
     "professor_id": 21252,
     "first_name": "Pedro",
     "last_name": "Ramirez Manny",
-    "rating": 8.0,
-    "num_ratings": 152
+    "rating": 8.0131,
+    "num_ratings": 153
   },
   {
     "code": "3101",
@@ -680,8 +680,8 @@
     "professor_id": 36531,
     "first_name": "Victor Hugo",
     "last_name": "Piña Ramirez",
-    "rating": 8.4265,
-    "num_ratings": 136
+    "rating": 8.4015,
+    "num_ratings": 137
   },
   {
     "code": "3101",
@@ -743,8 +743,8 @@
     "professor_id": 36531,
     "first_name": "Victor Hugo",
     "last_name": "Piña Ramirez",
-    "rating": 8.4265,
-    "num_ratings": 136
+    "rating": 8.4015,
+    "num_ratings": 137
   },
   {
     "code": "3101",

@@ -142,16 +142,16 @@
       {
         "time": "15:00-17:00",
         "days": [
-          3
+          5
         ],
-        "classroom": "D002"
+        "classroom": "D001"
       },
       {
         "time": "15:00-17:00",
         "days": [
-          5
+          3
         ],
-        "classroom": "D001"
+        "classroom": "D002"
       }
     ]
   },
